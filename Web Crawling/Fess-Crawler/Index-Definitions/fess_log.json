@@ -1,0 +1,149 @@
+{
+  "search_log": {
+    "dynamic_templates": [
+      {
+        "search_fields": {
+          "path_match": "searchField.*",
+          "mapping": {
+            "type": "keyword"
+          }
+        }
+      }
+    ],
+    "_all": {
+      "enabled": false
+    },
+    "properties": {
+      "referer": {
+        "type": "keyword"
+      },
+      "hitCount": {
+        "type": "long"
+      },
+      "languages": {
+        "type": "keyword"
+      },
+      "searchField": {
+        "properties": {
+          "_default": {
+            "type": "keyword"
+          }
+        }
+      },
+      "responseTime": {
+        "type": "long"
+      },
+      "roles": {
+        "type": "keyword"
+      },
+      "userAgent": {
+        "type": "keyword"
+      },
+      "queryOffset": {
+        "type": "integer"
+      },
+      "userSessionId": {
+        "type": "keyword"
+      },
+      "virtualHost": {
+        "type": "keyword"
+      },
+      "queryId": {
+        "type": "keyword"
+      },
+      "userInfoId": {
+        "type": "keyword"
+      },
+      "accessType": {
+        "type": "keyword"
+      },
+      "requestedAt": {
+        "format": "date_optional_time",
+        "type": "date"
+      },
+      "clientIp": {
+        "type": "keyword"
+      },
+      "queryTime": {
+        "type": "long"
+      },
+      "queryPageSize": {
+        "type": "integer"
+      },
+      "searchWord": {
+        "type": "keyword"
+      },
+      "user": {
+        "type": "keyword"
+      }
+    }
+  },
+  "favorite_log": {
+    "_all": {
+      "enabled": false
+    },
+    "properties": {
+      "createdAt": {
+        "format": "date_optional_time",
+        "type": "date"
+      },
+      "docId": {
+        "type": "keyword"
+      },
+      "url": {
+        "type": "keyword"
+      },
+      "queryId": {
+        "type": "keyword"
+      },
+      "userInfoId": {
+        "type": "keyword"
+      }
+    }
+  },
+  "click_log": {
+    "_all": {
+      "enabled": false
+    },
+    "properties": {
+      "queryRequestedAt": {
+        "format": "date_optional_time",
+        "type": "date"
+      },
+      "requestedAt": {
+        "format": "date_optional_time",
+        "type": "date"
+      },
+      "docId": {
+        "type": "keyword"
+      },
+      "userSessionId": {
+        "type": "keyword"
+      },
+      "url": {
+        "type": "keyword"
+      },
+      "order": {
+        "type": "integer"
+      },
+      "queryId": {
+        "type": "keyword"
+      }
+    }
+  },
+  "user_info": {
+    "_all": {
+      "enabled": false
+    },
+    "properties": {
+      "createdAt": {
+        "format": "date_optional_time",
+        "type": "date"
+      },
+      "updatedAt": {
+        "format": "date_optional_time",
+        "type": "date"
+      }
+    }
+  }
+}
