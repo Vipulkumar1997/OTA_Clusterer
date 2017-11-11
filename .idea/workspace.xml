@@ -2,103 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f604ee14-6698-4005-9c76-5e66836bd11d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_data_hotel-spider-part1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scripts-vm1.iml" afterPath="$PROJECT_DIR$/.idea/scripts-vm1.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/.project" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/BoW creator (#6)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/BoW creator (#6)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Case converter (#37)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Case converter (#37)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Category to class (#38)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Category to class (#38)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Color Manager (#32)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Color Manager (#32)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Column Filter (#24)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Column Filter (#24)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Column Filter (#29)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Column Filter (#29)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Concatenate (#3)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Concatenate (#3)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Distance Matrix Calculate (#23)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Distance Matrix Calculate (#23)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Distance Matrix Calculate (#28)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Distance Matrix Calculate (#28)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Document vector (#20)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Document vector (#20)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Hierarchical Cluster View (#26)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Hierarchical Cluster View (#26)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Hierarchical Cluster View (#31)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Hierarchical Cluster View (#31)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Keygraph keyword extractor (#16)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Keygraph keyword extractor (#16)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/N Chars Filter (#10)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/N Chars Filter (#10)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/New Hierarchical Clustering (#25)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/New Hierarchical Clustering (#25)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/New Hierarchical Clustering (#30)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/New Hierarchical Clustering (#30)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Number Filter (#11)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Number Filter (#11)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Porter Stemmer (#7)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Porter Stemmer (#7)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Punctuation Erasure (#8)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Punctuation Erasure (#8)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Stop word Filter (#9)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Stop word Filter (#9)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Table Reader (#1)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Table Reader (#1)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Table Reader (#2)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Table Reader (#2)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Term Grouper (#36)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/Term Grouper (#36)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/workflow.knime" afterPath="$PROJECT_DIR$/Clustering/Knime/009002_DocumentClustering/workflow.knime" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/.project" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/.savedWithData" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/.savedWithData" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Bag of Words Creator (#4)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Bag of Words Creator (#4)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Bag of Words Creator (#4)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Bag of Words Creator (#4)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Bag of Words Creator (#4)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Bag of Words Creator (#4)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Case converter _deprecated_ (#37)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Case converter _deprecated_ (#37)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Case converter _deprecated_ (#37)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Case converter _deprecated_ (#37)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Case converter _deprecated_ (#37)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Case converter _deprecated_ (#37)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Category to class (#38)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Category to class (#38)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Category to class (#38)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Category to class (#38)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Category to class (#38)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Category to class (#38)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Color Manager (#32)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Color Manager (#32)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Color Manager (#32)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Color Manager (#32)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Color Manager (#32)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Color Manager (#32)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#24)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#24)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#24)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#24)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#24)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#24)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#29)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#29)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#29)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#29)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#29)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Column Filter (#29)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/port_1/r0/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/port_1/r0/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/port_1/r0/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/port_1/r0/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#23)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/port_1/r0/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/port_1/r0/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/port_1/r0/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/port_1/r0/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Distance Matrix Calculate _deprecated_ (#28)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Document vector (#20)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Document vector (#20)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Document vector (#20)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Document vector (#20)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Document vector (#20)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Document vector (#20)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Flat File Document Parser (#39)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Flat File Document Parser (#39)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Flat File Document Parser (#39)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Flat File Document Parser (#39)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Flat File Document Parser (#39)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Flat File Document Parser (#39)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Hierarchical Cluster View (#26)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Hierarchical Cluster View (#26)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Hierarchical Cluster View (#31)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Hierarchical Cluster View (#31)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Hierarchical Clustering _DistMatrix_ (#25)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Hierarchical Clustering _DistMatrix_ (#25)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Hierarchical Clustering _DistMatrix_ (#30)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Hierarchical Clustering _DistMatrix_ (#30)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Keygraph keyword extractor (#16)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Keygraph keyword extractor (#16)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Keygraph keyword extractor (#16)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Keygraph keyword extractor (#16)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Keygraph keyword extractor (#16)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Keygraph keyword extractor (#16)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/N Chars Filter _deprecated_ (#10)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/N Chars Filter _deprecated_ (#10)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/N Chars Filter _deprecated_ (#10)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/N Chars Filter _deprecated_ (#10)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/N Chars Filter _deprecated_ (#10)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/N Chars Filter _deprecated_ (#10)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Number Filter _deprecated_ (#11)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Number Filter _deprecated_ (#11)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Number Filter _deprecated_ (#11)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Number Filter _deprecated_ (#11)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Number Filter _deprecated_ (#11)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Number Filter _deprecated_ (#11)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Porter Stemmer _deprecated_ (#7)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Porter Stemmer _deprecated_ (#7)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Porter Stemmer _deprecated_ (#7)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Porter Stemmer _deprecated_ (#7)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Porter Stemmer _deprecated_ (#7)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Porter Stemmer _deprecated_ (#7)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Punctuation Erasure _deprecated_ (#8)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Punctuation Erasure _deprecated_ (#8)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Punctuation Erasure _deprecated_ (#8)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Punctuation Erasure _deprecated_ (#8)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Punctuation Erasure _deprecated_ (#8)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Punctuation Erasure _deprecated_ (#8)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Stop word Filter _deprecated_ (#9)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Stop word Filter _deprecated_ (#9)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Stop word Filter _deprecated_ (#9)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Stop word Filter _deprecated_ (#9)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Stop word Filter _deprecated_ (#9)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Stop word Filter _deprecated_ (#9)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Term Grouper _deprecated_ (#36)/port_1/data.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Term Grouper _deprecated_ (#36)/port_1/data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Term Grouper _deprecated_ (#36)/port_1/spec.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Term Grouper _deprecated_ (#36)/port_1/spec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Term Grouper _deprecated_ (#36)/settings.xml" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/Term Grouper _deprecated_ (#36)/settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/workflow.knime" afterPath="$PROJECT_DIR$/Clustering/Knime/vm1-clustering-test/workflow.knime" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LabSetup/enterprise-lab-connect.sh" afterPath="$PROJECT_DIR$/LabSetup/enterprise-lab-connect.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LabSetup/fess-docker-setup.sh" afterPath="$PROJECT_DIR$/LabSetup/fess-docker-setup.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Archiv/docker-setup.sh" afterPath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Archiv/docker-setup.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py" afterPath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/geckodriver.log" afterPath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/geckodriver.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv" afterPath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,7 +15,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/scripts_vm1$hotel_spider_url_crawl.coverage" NAME="hotel-spider-url-crawl Coverage Results" MODIFIED="1508686340024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/vm1_project_code$FessAPI.coverage" NAME="FessAPI Coverage Results" MODIFIED="1510393803558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web Crawling/FessAPI-Client" />
+    <SUITE FILE_PATH="coverage/vm1_project_code$FessAPI.coverage" NAME="FessAPI Coverage Results" MODIFIED="1510428078689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web Crawling/FessAPI-Client" />
     <SUITE FILE_PATH="coverage/vm1_project_code$scrapy_webpage_downloader.coverage" NAME="scrapy-webpage-downloader Coverage Results" MODIFIED="1510067693947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/vm1_project_code$ElasticSearchClient.coverage" NAME="ElasticSearchClient Coverage Results" MODIFIED="1510150511844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient" />
     <SUITE FILE_PATH="coverage/scripts_vm1$scrapy_webpage_downloader.coverage" NAME="scrapy-webpage-downloader Coverage Results" MODIFIED="1508740727103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -119,8 +25,8 @@
       <file leaf-file-name="FessAPI.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+            <state relative-caret-position="310">
+              <caret line="116" column="42" lean-forward="true" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -148,6 +54,7 @@
         <option value="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_data_hotel-spider.csv" />
         <option value="$PROJECT_DIR$/Web Crawling/DataScraping/hotel-spider-url-crawl.py" />
         <option value="$PROJECT_DIR$/Web Crawling/FessAPI-Client/Utils.py" />
+        <option value="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv" />
         <option value="$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py" />
       </list>
     </option>
@@ -158,7 +65,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -177,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,6 +125,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -348,20 +255,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1080" extended-state="4" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18802084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23710209" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22502744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33260155" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33260155" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -380,7 +287,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="24" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -393,22 +300,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -553,13 +444,6 @@
     <entry file="file://$PROJECT_DIR$/.html" />
     <entry file="file://$PROJECT_DIR$/scrapy-webpage-downloader.py" />
     <entry file="file://$PROJECT_DIR$/Web Crawling/ElasticSearchClient.py" />
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/url_data_hotel-spider.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/scrapy-webpage-downloader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -638,26 +522,10 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" />
-    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_data_hotel-spider-part1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/ElasticSearchClient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="86" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,13 +533,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv">
+    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/Utils.py" />
+    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/url_data_hotel-spider.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -679,18 +545,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/Utils.py">
+    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_data_hotel-spider-part1.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="300" column="0" lean-forward="false" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/sre_compile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="561" column="0" lean-forward="false" selection-start-line="561" selection-start-column="0" selection-end-line="561" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/sre_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+        <state relative-caret-position="310">
+          <caret line="116" column="42" lean-forward="true" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
           <folding />
         </state>
       </provider>
