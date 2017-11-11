@@ -2,9 +2,232 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f604ee14-6698-4005-9c76-5e66836bd11d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebCrawling/FessAPI-Client/FessAPI.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebCrawling/FessAPI-Client/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebCrawling/FessAPI-Client/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebCrawling/FessAPI-Client/util/url_formatter.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/DataScraping/hotel-spider-url-crawl.py" afterPath="$PROJECT_DIR$/WebCrawling/DataScraping/hotel-spider-url-crawl.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/DataScraping/scrapy-webpage-downloader.py" afterPath="$PROJECT_DIR$/WebCrawling/DataScraping/scrapy-webpage-downloader.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/DataScraping/url_data_hotel-spider.csv" afterPath="$PROJECT_DIR$/WebCrawling/DataScraping/url_data_hotel-spider.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Archiv/Docker-Commands.txt" afterPath="$PROJECT_DIR$/WebCrawling/Fess-Crawler/Archiv/Docker-Commands.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Archiv/docker-setup.sh" afterPath="$PROJECT_DIR$/WebCrawling/Fess-Crawler/Archiv/docker-setup.sh" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Index-Definitions/fess-index-test.json" afterPath="$PROJECT_DIR$/WebCrawling/Fess-Crawler/Index-Definitions/fess-index-test.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Index-Definitions/fess.json" afterPath="$PROJECT_DIR$/WebCrawling/Fess-Crawler/Index-Definitions/fess.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Index-Definitions/fess_log.json" afterPath="$PROJECT_DIR$/WebCrawling/Fess-Crawler/Index-Definitions/fess_log.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Queries/Elastic-Seach-Queries.json" afterPath="$PROJECT_DIR$/WebCrawling/Fess-Crawler/Queries/Elastic-Seach-Queries.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Screenshots/1st-Steps-13102017.JPG" afterPath="$PROJECT_DIR$/WebCrawling/Fess-Crawler/Screenshots/1st-Steps-13102017.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/Fess-Crawler/Screenshots/Crawler-Config-Example1.JPG" afterPath="$PROJECT_DIR$/WebCrawling/Fess-Crawler/Screenshots/Crawler-Config-Example1.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/Geckodriver/geckodriver.exe" afterPath="$PROJECT_DIR$/WebCrawling/FessAPI-Client/Geckodriver/geckodriver.exe" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_data_hotel-spider-part1.csv" afterPath="$PROJECT_DIR$/WebCrawling/FessAPI-Client/URLS/url_data_hotel-spider-part1.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv" afterPath="$PROJECT_DIR$/WebCrawling/FessAPI-Client/URLS/url_prepared.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/geckodriver.log" afterPath="$PROJECT_DIR$/WebCrawling/FessAPI-Client/Geckodriver/geckodriver.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/ElasticSearchClient.py" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/ElasticSearchClient.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_0.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_0.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_1.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_1.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_2.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_2.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_3.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_3.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_4.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_4.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_5.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_5.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_6.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_6.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_7.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_7.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_8.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_8.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_9.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_9.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_201711071000_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_201711071000_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107100_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107100_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107101_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107101_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107104_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107104_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107110_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107110_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107113_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107113_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107115_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107115_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107116_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107116_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107117_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107117_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107125_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107125_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107128_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107128_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107135_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107135_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107141_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107141_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107153_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107153_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107169_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107169_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107170_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107170_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107172_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107172_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107180_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107180_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107181_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107181_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107191_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107191_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107198_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107198_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107202_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107202_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107205_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107205_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107207_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107207_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110720_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110720_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107210_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107210_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107212_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107212_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107218_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107218_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107219_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107219_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107225_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107225_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107229_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107229_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107231_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107231_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107235_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107235_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110723_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110723_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107241_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107241_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107245_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107245_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107247_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107247_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107260_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107260_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107263_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107263_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107266_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107266_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107267_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107267_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107277_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107277_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107281_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107281_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107289_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107289_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110728_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110728_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110729_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110729_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107303_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107303_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107309_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107309_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110730_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110730_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107310_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107310_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107312_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107312_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107314_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107314_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107321_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107321_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107324_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107324_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107334_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107334_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107335_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107335_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107341_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107341_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107347_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107347_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107355_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107355_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110735_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110735_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107360_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107360_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107361_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107361_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107367_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107367_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107370_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107370_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107373_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107373_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107375_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107375_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107379_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107379_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110737_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110737_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107380_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107380_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107386_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107386_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107392_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107392_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_201711073_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_201711073_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107400_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107400_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107404_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107404_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107405_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107405_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107412_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107412_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107414_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107414_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110741_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110741_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107432_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107432_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107434_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107434_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107437_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107437_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110743_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110743_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107441_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107441_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107442_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107442_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107446_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107446_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107457_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107457_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107459_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107459_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110746_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110746_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107482_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107482_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107483_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107483_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107490_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107490_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110749_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110749_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107500_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107500_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107501_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107501_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107504_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107504_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107509_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107509_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107510_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107510_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110751_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110751_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107521_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107521_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107522_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107522_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107539_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107539_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107552_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107552_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107575_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107575_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107577_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107577_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107578_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107578_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107579_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107579_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107588_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107588_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107590_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107590_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107595_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107595_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107605_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107605_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107618_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107618_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107629_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107629_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107630_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107630_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107636_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107636_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110763_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110763_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107643_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107643_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107645_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107645_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107651_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107651_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107659_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107659_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107667_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107667_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107669_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107669_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107672_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107672_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107675_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107675_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107679_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107679_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107683_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107683_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107690_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107690_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107691_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107691_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107694_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107694_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107698_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107698_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107699_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107699_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107703_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107703_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107704_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107704_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107706_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107706_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107713_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107713_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107715_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107715_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107726_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107726_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107733_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107733_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110773_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110773_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107746_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107746_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107749_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107749_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110774_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110774_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107754_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107754_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107757_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107757_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110775_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110775_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107761_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107761_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107769_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107769_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107774_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107774_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107783_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107783_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107790_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107790_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107796_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107796_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107809_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107809_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107810_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107810_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107812_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107812_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107813_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107813_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107819_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107819_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107820_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107820_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107826_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107826_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107837_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107837_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110783_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110783_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107842_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107842_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107858_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107858_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107859_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107859_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110785_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110785_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107864_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107864_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110786_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110786_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107872_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107872_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107877_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107877_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110787_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110787_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107886_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107886_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107898_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107898_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110789_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110789_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_201711078_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_201711078_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107901_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107901_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110790_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110790_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107917_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107917_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107926_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107926_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107933_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107933_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110793_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110793_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107942_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107942_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107946_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107946_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107949_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107949_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107952_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107952_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107956_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107956_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107957_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107957_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107959_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107959_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107966_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107966_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107967_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107967_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107969_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107969_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107977_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107977_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107981_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107981_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107987_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107987_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110798_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_2017110798_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107991_.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/www.agoda.com/www.agoda.com_20171107991_.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/www.agoda.com.json" afterPath="$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/www.agoda.com.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py" afterPath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv" afterPath="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +238,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/scripts_vm1$hotel_spider_url_crawl.coverage" NAME="hotel-spider-url-crawl Coverage Results" MODIFIED="1508686340024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/vm1_project_code$FessAPI.coverage" NAME="FessAPI Coverage Results" MODIFIED="1510428078689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web Crawling/FessAPI-Client" />
+    <SUITE FILE_PATH="coverage/vm1_project_code$FessAPI.coverage" NAME="FessAPI Coverage Results" MODIFIED="1510429094141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web Crawling/FessAPI-Client" />
     <SUITE FILE_PATH="coverage/vm1_project_code$scrapy_webpage_downloader.coverage" NAME="scrapy-webpage-downloader Coverage Results" MODIFIED="1510067693947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/vm1_project_code$ElasticSearchClient.coverage" NAME="ElasticSearchClient Coverage Results" MODIFIED="1510150511844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient" />
     <SUITE FILE_PATH="coverage/scripts_vm1$scrapy_webpage_downloader.coverage" NAME="scrapy-webpage-downloader Coverage Results" MODIFIED="1508740727103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -23,11 +246,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file leaf-file-name="FessAPI.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py">
+        <entry file="file://$PROJECT_DIR$/WebCrawling/FessAPI-Client/FessAPI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="116" column="42" lean-forward="true" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
-              <folding />
+            <state relative-caret-position="28">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +280,11 @@
         <option value="$PROJECT_DIR$/Web Crawling/DataScraping/hotel-spider-url-crawl.py" />
         <option value="$PROJECT_DIR$/Web Crawling/FessAPI-Client/Utils.py" />
         <option value="$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv" />
+        <option value="$PROJECT_DIR$/Web Crawling/FessAPI-Client/Utils/url_formatter.py" />
+        <option value="$PROJECT_DIR$/Web Crawling/FessAPI-Client/Utils/__init__.py" />
         <option value="$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py" />
+        <option value="$PROJECT_DIR$/WebCrawling/FessAPI-Client/__init__.py" />
+        <option value="$PROJECT_DIR$/WebCrawling/FessAPI-Client/FessAPI.py" />
       </list>
     </option>
   </component>
@@ -65,7 +294,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -94,31 +323,18 @@
             <path>
               <item name="vm1-project-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="vm1-project-code" type="462c0819:PsiDirectoryNode" />
-              <item name="Web Crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="WebCrawling" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vm1-project-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="vm1-project-code" type="462c0819:PsiDirectoryNode" />
-              <item name="Web Crawling" type="462c0819:PsiDirectoryNode" />
-              <item name="DataScraping" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vm1-project-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vm1-project-code" type="462c0819:PsiDirectoryNode" />
-              <item name="Web Crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="WebCrawling" type="462c0819:PsiDirectoryNode" />
               <item name="FessAPI-Client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vm1-project-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="vm1-project-code" type="462c0819:PsiDirectoryNode" />
-              <item name="Web Crawling" type="462c0819:PsiDirectoryNode" />
-              <item name="FessAPI-Client" type="462c0819:PsiDirectoryNode" />
-              <item name="URLS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vm1-project-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vm1-project-code" type="462c0819:PsiDirectoryNode" />
-              <item name="Web Crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="WebCrawling" type="462c0819:PsiDirectoryNode" />
               <item name="PythonElasticSearchClient" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -130,15 +346,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebCrawling/FessAPI-Client/Geckodriver" />
+      <recent name="C:\Users\cisa\Dropbox\Study\Master of Science in Engineering\3. Semester\Vertiefungsarbeit 1\vm1-project-code\Web Crawling\PythonElasticSearchClient\Responses\Archiv" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\cisa\Dropbox\Study\Master of Science in Engineering\3. Semester\Vertiefungsarbeit 1\vm1-project-code\Web Crawling\FessAPI-Client\URLS" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\cisa\Dropbox\Study\Master of Science in Engineering\3. Semester\Vertiefungsarbeit 1\vm1-project-code\Web Crawling\PythonElasticSearchClient\Responses\Archiv" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,10 +472,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="960" height="1080" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18802084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37604168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -287,7 +504,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="29" />
+      <option name="time" value="30" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -300,127 +517,98 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/ElasticSearchClient.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/hotel-spider-url-crawl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/ElasticSearchClient.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/url_data_hotel-spider.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/scrapy-webpage-downloader.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/ElasticSearchClient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/hotel-spider-url-crawl.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/hotel-spider-url-crawl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/url_data_hotel-spider.csv">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/scrapy-webpage-downloader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/ElasticSearchClient.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/url_data_hotel-spider.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/hotel-spider-url-crawl.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/ElasticSearchClient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/scrapy-webpage-downloader.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/hotel-spider-url-crawl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/url_data_hotel-spider.csv">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/scrapy-webpage-downloader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/ElasticSearchClient.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/url_data_hotel-spider.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/hotel-spider-url-crawl.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/ElasticSearchClient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/scrapy-webpage-downloader.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/scrapy-webpage-downloader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/url_data_hotel-spider.csv">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/hotel-spider-url-crawl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/ElasticSearchClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/scrapy-webpage-downloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/hotel-spider-url-crawl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/url_data_hotel-spider.csv">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/url_data_hotel-spider.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -444,77 +632,77 @@
     <entry file="file://$PROJECT_DIR$/.html" />
     <entry file="file://$PROJECT_DIR$/scrapy-webpage-downloader.py" />
     <entry file="file://$PROJECT_DIR$/Web Crawling/ElasticSearchClient.py" />
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/scrapy-webpage-downloader.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/scrapy-webpage-downloader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_0.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_0.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="0" column="2552" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="432927" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_1.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_1.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_2.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_2.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_3.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_3.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_4.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_4.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_5.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_5.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_6.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_6.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_7.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_7.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_8.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_8.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_9.json">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/Responses/Archiv/www.agoda.com_9.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -522,14 +710,14 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" />
-    <entry file="file://$PROJECT_DIR$/Web Crawling/PythonElasticSearchClient/ElasticSearchClient.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/PythonElasticSearchClient/ElasticSearchClient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="86" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/hotel-spider-url-crawl.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/hotel-spider-url-crawl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
@@ -537,7 +725,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/Utils.py" />
-    <entry file="file://$PROJECT_DIR$/Web Crawling/DataScraping/url_data_hotel-spider.csv">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/DataScraping/url_data_hotel-spider.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -545,7 +733,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_data_hotel-spider-part1.csv">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/FessAPI-Client/URLS/url_data_hotel-spider-part1.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -577,7 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/URLS/url_prepared.csv">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/FessAPI-Client/URLS/url_prepared.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
@@ -585,11 +773,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/FessAPI.py">
+    <entry file="file://$PROJECT_DIR$/WebCrawling/FessAPI-Client/util/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="116" column="42" lean-forward="true" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Crawling/FessAPI-Client/Utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebCrawling/FessAPI-Client/util/url_formatter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#1002#1843#0" expanded="false" />
+            <element signature="e#1889#1934#0" expanded="false" />
+            <element signature="e#1996#2232#0" expanded="false" />
+            <element signature="e#2268#2330#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebCrawling/FessAPI-Client/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebCrawling/FessAPI-Client/FessAPI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
