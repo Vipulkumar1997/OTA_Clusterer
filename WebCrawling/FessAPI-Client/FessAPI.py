@@ -1,5 +1,6 @@
 import csv
 from selenium import webdriver
+from .Utils import url_formatter
 
 
 # constant definition
@@ -62,8 +63,8 @@ def get_prepared_urls():
 
 
 def main():
-    prepare_urls()
-    # create_new_crawler()
+    url_formatter.prepare_urls()
+    create_new_crawler()
 
 
 if __name__ == "__main__":

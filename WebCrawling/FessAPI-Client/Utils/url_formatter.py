@@ -90,7 +90,3 @@ def get_wildcard_url(url):
     url_wildcard = "".join((url, ".*"))
     return url_wildcard
 
-
-
-
-
