@@ -1,0 +1,208 @@
+1510433002528	geckodriver	INFO	geckodriver 0.19.1
+1510433002532	geckodriver	INFO	Listening on 127.0.0.1:51661
+1510433003904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4tdf1eG7Hr4u"
+1510433004418	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3122 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1510433004822	Marionette	INFO	Enabled via --marionette
+1510433006308	Marionette	INFO	Listening on port 40105
+1510433006345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510433006391	Marionette	DEBUG	Register listener.js for window 2147483649
+1510433006415	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510433006469	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510433006472	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510433006909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433006990	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433007132	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433007680	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433007681	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433019437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1510433019486	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 10560] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-56.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510433089814	geckodriver	INFO	geckodriver 0.19.1
+1510433089818	geckodriver	INFO	Listening on 127.0.0.1:47605
+1510433091083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cR3akpFNpLAw"
+1510433091347	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3122 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1510433091622	Marionette	INFO	Enabled via --marionette
+1510433092885	Marionette	INFO	Listening on port 43307
+1510433092914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510433092965	Marionette	DEBUG	Register listener.js for window 2147483649
+1510433093047	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510433093108	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510433093113	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510433093608	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433093649	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433093790	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433093831	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433093832	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433094128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+JavaScript warning: http://mse-2017-wbcilurz.el.eee.intern:8080/admin/server_970ec7f8b18d4d438036b3163c8723e5/_plugin/kopf/dist/lib.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510433094412	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433094604	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433094647	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433094648	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433094885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510433094927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433095052	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433112962	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1510433168151	geckodriver	INFO	geckodriver 0.19.1
+1510433168155	geckodriver	INFO	Listening on 127.0.0.1:56777
+1510433169343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1tWZW5HxR030"
+1510433169633	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3122 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1510433169898	Marionette	INFO	Enabled via --marionette
+1510433171220	Marionette	INFO	Listening on port 46453
+1510433171276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510433171321	Marionette	DEBUG	Register listener.js for window 2147483649
+1510433171352	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510433171406	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510433171406	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510433171902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433171934	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433172079	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433172653	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433172654	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433173252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/codelibs"
+1510433174309	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/codelibs"
+1510433174333	Marionette	DEBUG	Received DOM event "beforeunload" for "https://github.com/codelibs"
+1510433174378	Marionette	DEBUG	Received DOM event "pagehide" for "https://github.com/codelibs"
+1510433174379	Marionette	DEBUG	Received DOM event "unload" for "https://github.com/codelibs"
+1510433174542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433174545	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433177817	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510433190428	geckodriver	INFO	geckodriver 0.19.1
+1510433190433	geckodriver	INFO	Listening on 127.0.0.1:34865
+1510433191633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jKuU8FN3edbI"
+1510433191891	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3122 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1510433192169	Marionette	INFO	Enabled via --marionette
+1510433193426	Marionette	INFO	Listening on port 44793
+1510433193448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510433193500	Marionette	DEBUG	Register listener.js for window 2147483649
+1510433193594	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510433193635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510433193636	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510433194188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433194227	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433194372	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433194414	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433194416	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433194706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+JavaScript warning: http://mse-2017-wbcilurz.el.eee.intern:8080/admin/server_1ad79d9f2705463a91e4d509091f2f21/_plugin/kopf/dist/lib.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510433194941	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433195024	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433195051	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433195052	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433195284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510433195331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433195462	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433213500	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1510433320868	geckodriver	INFO	geckodriver 0.19.1
+1510433320872	geckodriver	INFO	Listening on 127.0.0.1:53303
+1510433322126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IqrSvM4l4XVQ"
+1510433322382	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3122 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1510433322654	Marionette	INFO	Enabled via --marionette
+1510433323905	Marionette	INFO	Listening on port 36759
+1510433323941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510433323999	Marionette	DEBUG	Register listener.js for window 2147483649
+1510433324068	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510433324151	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510433324152	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510433324587	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433324641	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433324782	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433324821	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433324824	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433325191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+JavaScript warning: http://mse-2017-wbcilurz.el.eee.intern:8080/admin/server_7470c4fe53774ffdb47955da9e5247da/_plugin/kopf/dist/lib.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510433325408	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433325597	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433325711	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433325711	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433326014	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510433326056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433326160	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433344018	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1510433362264	geckodriver	INFO	geckodriver 0.19.1
+1510433362269	geckodriver	INFO	Listening on 127.0.0.1:58787
+1510433362528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eNVYiTn6L6o2"
+1510433362794	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3122 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1510433363093	Marionette	INFO	Enabled via --marionette
+1510433364577	Marionette	INFO	Listening on port 42699
+1510433364654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510433364714	Marionette	DEBUG	Register listener.js for window 2147483649
+1510433364749	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510433364792	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510433364793	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510433365354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433365391	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433365544	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433365581	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433365582	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433365879	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+JavaScript warning: http://mse-2017-wbcilurz.el.eee.intern:8080/admin/server_015d2b44f4024d60a652897bdbb1ac14/_plugin/kopf/dist/lib.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510433366107	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433366253	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433366288	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433366288	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433366549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433366637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510433366737	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433384647	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1510433600066	geckodriver	INFO	geckodriver 0.19.1
+1510433600070	geckodriver	INFO	Listening on 127.0.0.1:41979
+1510433601320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pEzDgxjBhRli"
+1510433601581	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3122 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1510433601854	Marionette	INFO	Enabled via --marionette
+1510433603094	Marionette	INFO	Listening on port 35795
+1510433603170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510433603228	Marionette	DEBUG	Register listener.js for window 2147483649
+1510433603258	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510433603329	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510433603333	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510433603857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433603934	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433604078	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433604118	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433604120	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433604714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+JavaScript warning: http://mse-2017-wbcilurz.el.eee.intern:8080/admin/server_7e3569b59d4047d0b102f028d0eb4ee3/_plugin/kopf/dist/lib.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510433605020	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433605195	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433605252	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433605253	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433605477	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510433605518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433605653	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433605978	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433606280	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433606282	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433606657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/"
+1510433606659	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/"
+1510433615742	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510433642704	geckodriver	INFO	geckodriver 0.19.1
+1510433642720	geckodriver	INFO	Listening on 127.0.0.1:45351
+1510433643908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8hQ2g42XSa6m"
+1510433644239	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3122 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1510433644517	Marionette	INFO	Enabled via --marionette
+1510433645807	Marionette	INFO	Listening on port 38395
+1510433645856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510433645907	Marionette	DEBUG	Register listener.js for window 2147483649
+1510433645984	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510433646029	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510433646033	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510433646493	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433646552	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433646709	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433646755	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+1510433646757	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/login/"
+JavaScript warning: http://mse-2017-wbcilurz.el.eee.intern:8080/admin/server_d8b1f3acaeb9483f9e43ceae240c1a23/_plugin/kopf/dist/lib.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510433647539	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433647720	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433647782	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433647806	Marionette	DEBUG	Received DOM event "pagehide" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433647807	Marionette	DEBUG	Received DOM event "unload" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/dashboard/"
+1510433648458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433648460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1510433648469	Marionette	DEBUG	Received DOM event "pageshow" for "http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/"
+1510433665912	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13152] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-56.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

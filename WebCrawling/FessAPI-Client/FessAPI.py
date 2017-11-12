@@ -1,6 +1,7 @@
 import csv
 from selenium import webdriver
-from .Utils import url_formatter
+from Utils import url_formatter
+import os
 
 
 # constant definition
@@ -8,8 +9,14 @@ AUTH_URL = 'http://mse-2017-wbcilurz.el.eee.intern:8080/login/'
 
 
 def initialize_webdriver():
-    driver = webdriver.Firefox(executable_path='Geckodriver/geckodriver.exe')
-    return driver
+    # windows driver
+    if os.name == 'nt':
+        driver = webdriver.Firefox(executable_path='Geckodriver/geckodriver.exe')
+
+    # linux driver
+    elif os.name == 'posix':
+        driver = webdriver.Firefox(executable_path='Geckodriver/geckodriver')
+        return driver
 
 
 def get_authenticated_driver():
@@ -41,12 +48,20 @@ def create_new_crawler():
     urls_list = get_prepared_urls()
 
     for entry in urls_list:
-        # include the parameters of the form
-        crawler_name = entry
-        element_name.send_keys(crawler_name)
-        element_urls.send_keys(entry)
-        element_urls_for_crawling.send_keys("https://booking.com")
-        element_urls_for_indexing.send_keys("https://booking.com")
+        # get the fields from the list (based on the csv file formatting)
+        http_url = entry[0]
+        https_url = entry[1]
+        http_url_wildcard = entry[2]
+        https_url_wildcard = entry[3]
+
+        basis_urls = http_url + "\n" + https_url
+        wildcard_urls = http_url_wildcard + "\n" + https_url_wildcard
+
+        # send the elements to the selenium objects (fill out the form)
+        element_name.send_keys(https_url)
+        element_urls.send_keys(basis_urls)
+        element_urls_for_crawling.send_keys(wildcard_urls)
+        element_urls_for_indexing.send_keys(wildcard_urls)
         element_depth.send_keys("10")
         element_max_access_count.send_keys("100")
         # submit the form
@@ -56,15 +71,18 @@ def create_new_crawler():
 
 
 def get_prepared_urls():
-    with open("URLS/urls_prepared.csv", "r") as file:
-        urls_list = csv.reader(file, delimiter="\n")
+    urls_list = []
+    with open("Urls/urls_prepared.csv", "r") as file:
+        csv_file = csv.reader(file, delimiter=",")
+        for row in csv_file:
+            urls_list.append(row)
 
     return urls_list
 
 
 def main():
     url_formatter.prepare_urls()
-    create_new_crawler()
+    #create_new_crawler()
 
 
 if __name__ == "__main__":
