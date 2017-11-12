@@ -16,8 +16,14 @@ def prepare_urls():
         formatted_urls = check_url_format(url)
         prepared_urls.extend(formatted_urls)
 
-    data_frame = pd.DataFrame(prepared_urls, columns = ['http_url', 'https_url', 'http_url_wildcard', 'https_wildcard_url', 'www_url'])
-    data_frame.to_csv('Urls/urls_prepared.csv', sep='\t', encoding='utf-8')
+    data_frame = pd.DataFrame(prepared_urls, columns=['http_url',
+                                                      'https_url',
+                                                      'http_url_wildcard',
+                                                      'https_url_wildcard',
+                                                      'www_url'])
+
+    data_frame.to_csv('Urls/urls_prepared.csv', encoding='utf-8')
+
 
 def check_url_format(url):
     urls = []

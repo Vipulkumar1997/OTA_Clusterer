@@ -1,8 +1,7 @@
-import csv
+import os
 from selenium import webdriver
 from Utils import url_formatter
-import os
-
+import pandas as pd
 
 # constant definition
 AUTH_URL = 'http://mse-2017-wbcilurz.el.eee.intern:8080/login/'
@@ -35,24 +34,24 @@ def get_authenticated_driver():
 
 def create_new_crawler():
     authenticated_driver = get_authenticated_driver()
-    authenticated_driver.get(url='http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/')
+    url_data_frame = get_prepared_urls()
 
-    # get the form fields
-    element_name = authenticated_driver.find_element_by_id("name")
-    element_urls = authenticated_driver.find_element_by_name("urls")
-    element_urls_for_crawling = authenticated_driver.find_element_by_id("includedUrls")
-    element_urls_for_indexing = authenticated_driver.find_element_by_id("includedDocUrls")
-    element_depth = authenticated_driver.find_element_by_id("depth")
-    element_max_access_count = authenticated_driver.find_element_by_id("maxAccessCount")
+    for index, row in url_data_frame.iterrows():
+        authenticated_driver.get(url='http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/')
 
-    urls_list = get_prepared_urls()
+        # get the form fields
+        element_name = authenticated_driver.find_element_by_id("name")
+        element_urls = authenticated_driver.find_element_by_name("urls")
+        element_urls_for_crawling = authenticated_driver.find_element_by_id("includedUrls")
+        element_urls_for_indexing = authenticated_driver.find_element_by_id("includedDocUrls")
+        element_depth = authenticated_driver.find_element_by_id("depth")
+        element_max_access_count = authenticated_driver.find_element_by_id("maxAccessCount")
 
-    for entry in urls_list:
         # get the fields from the list (based on the csv file formatting)
-        http_url = entry[0]
-        https_url = entry[1]
-        http_url_wildcard = entry[2]
-        https_url_wildcard = entry[3]
+        http_url = row['http_url']
+        https_url = row['https_url']
+        http_url_wildcard = row['http_url_wildcard']
+        https_url_wildcard = row['https_url_wildcard']
 
         basis_urls = http_url + "\n" + https_url
         wildcard_urls = http_url_wildcard + "\n" + https_url_wildcard
@@ -71,18 +70,13 @@ def create_new_crawler():
 
 
 def get_prepared_urls():
-    urls_list = []
-    with open("Urls/urls_prepared.csv", "r") as file:
-        csv_file = csv.reader(file, delimiter=",")
-        for row in csv_file:
-            urls_list.append(row)
-
-    return urls_list
+    data_frame = pd.read_csv('Urls/urls_prepared.csv')
+    return data_frame
 
 
 def main():
     url_formatter.prepare_urls()
-    #create_new_crawler()
+    create_new_crawler()
 
 
 if __name__ == "__main__":
