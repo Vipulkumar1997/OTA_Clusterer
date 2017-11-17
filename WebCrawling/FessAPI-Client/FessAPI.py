@@ -46,6 +46,7 @@ def create_new_crawler():
         element_urls_for_indexing = authenticated_driver.find_element_by_id("includedDocUrls")
         element_depth = authenticated_driver.find_element_by_id("depth")
         element_max_access_count = authenticated_driver.find_element_by_id("maxAccessCount")
+        import pudb; pudb.set_trace()  # XXX BREAKPOINT
 
         # get the fields from the list (based on the csv file formatting)
         http_url = row['http_url']
