@@ -8,21 +8,27 @@ def get_documents(document_path):
     pattern = os.path.join(document_path, '*.json')
 
     cleaned_documents = []
-    for file_name in glob.glob(pattern):
-        with open(file_name) as file:
-            file_document = json.load(file)
+    file_names = glob.glob(pattern)
 
-        content = file_document['content']
-        title = file_document['title']
-        important_content = file_document['important_content']
+    if not file_names:
+        raise IOError
 
-        content_cleaned = clean_text(str(content))
-        title_cleaned = clean_text(str(title))
-        important_content_cleaned = clean_text(str(important_content))
+    else:
+        for file_name in file_names:
+            with open(file_name) as file:
+                file_document = json.load(file)
 
-        cleaned_documents.append(content_cleaned)
-        cleaned_documents.append(title_cleaned)
-        cleaned_documents.append(important_content_cleaned)
+            content = file_document['content']
+            title = file_document['title']
+            important_content = file_document['important_content']
+
+            content_cleaned = clean_text(str(content))
+            title_cleaned = clean_text(str(title))
+            important_content_cleaned = clean_text(str(important_content))
+
+            cleaned_documents.append(content_cleaned)
+            cleaned_documents.append(title_cleaned)
+            cleaned_documents.append(important_content_cleaned)
 
     return cleaned_documents
 
@@ -46,7 +52,7 @@ def clean_text(text):
 
 def main():
     documents = get_documents(
-        '../../WebCrawling/ElasticSearchClient/data/www.agoda.com/')
+        '../../../../WebCrawling/ElasticSearchClient/data/www.agoda.com/')
     save_documents(documents, '../data/')
 
 

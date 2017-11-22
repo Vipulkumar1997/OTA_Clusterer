@@ -1,6 +1,6 @@
 import os
 from selenium import webdriver
-from Utils import url_formatter
+from .utils import url_formatter
 import pandas as pd
 
 # constant definition
@@ -10,12 +10,13 @@ AUTH_URL = 'http://mse-2017-wbcilurz.el.eee.intern:8080/login/'
 def initialize_webdriver():
     # windows driver
     if os.name == 'nt':
-        driver = webdriver.Firefox(executable_path='Geckodriver/geckodriver.exe')
+        driver = webdriver.Firefox(executable_path='bin/Geckodriver/geckodriver.exe')
 
     # linux driver
     elif os.name == 'posix':
-        driver = webdriver.Firefox(executable_path='Geckodriver/geckodriver')
-        return driver
+        driver = webdriver.Firefox(executable_path='bin/Geckodriver/geckodriver')
+
+    return driver
 
 
 def get_authenticated_driver():
@@ -46,7 +47,6 @@ def create_new_crawler():
         element_urls_for_indexing = authenticated_driver.find_element_by_id("includedDocUrls")
         element_depth = authenticated_driver.find_element_by_id("depth")
         element_max_access_count = authenticated_driver.find_element_by_id("maxAccessCount")
-        import pudb; pudb.set_trace()  # XXX BREAKPOINT
 
         # get the fields from the list (based on the csv file formatting)
         http_url = row['http_url']
