@@ -16,9 +16,8 @@ def get_documents(document_path):
         important_content = file_document['important_content']
 
         content_cleaned = clean_text(str(content))
-        print(content_cleaned)
-        title_cleaned = clean_text(title)
-        important_content_cleaned = clean_text(important_content)
+        title_cleaned = clean_text(str(title))
+        important_content_cleaned = clean_text(str(important_content))
 
         df = pd.DataFrame([content, title, important_content])
 
