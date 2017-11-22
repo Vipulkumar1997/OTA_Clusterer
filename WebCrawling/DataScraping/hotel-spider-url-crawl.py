@@ -10,7 +10,7 @@ for link in soup.find_all('a', href=True):
     print(link['href'])
     url_data.append(link['href'])
 
-with open("url_data_hotel-spider.csv", "w") as f:
+with open("urls/url_data_hotel-spider.csv", "w") as f:
     writer = csv.writer(f, delimiter="\n")
     writer.writerow(url_data)
 
