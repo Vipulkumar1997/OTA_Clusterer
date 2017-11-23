@@ -1,7 +1,8 @@
 import os
+
+import pandas as pd
 from selenium import webdriver
 from .utils import url_formatter
-import pandas as pd
 
 # constant definition
 AUTH_URL = 'http://mse-2017-wbcilurz.el.eee.intern:8080/login/'

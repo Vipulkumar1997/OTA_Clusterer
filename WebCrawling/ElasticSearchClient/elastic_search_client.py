@@ -4,6 +4,7 @@ import time
 import random
 import os
 import errno
+from fessapi import fessapi
 
 # constants definition
 ELASTIC_SERVER = 'http://mse-2017-wbcilurz.el.eee.intern:9200'
@@ -79,8 +80,15 @@ def get_documents_of_host(hostname):
             json.dump(entry['_source'], output)
 
 
+def save_documents_of_crawled_hostnames():
+    urls_data_frame = fessapi.get_prepared_urls()
+    for index, row in urls_data_frame.iterrows():
+        hostname = row['www_url']
+        get_documents_of_host(hostname)
+
+
 def main():
-    get_documents_of_host(hostname="www.agoda.com")
+    save_documents_of_crawled_hostnames()
 
 
 if __name__ == "__main__":

@@ -2,10 +2,15 @@ import json
 import os
 import glob
 import re
+import logging
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 
-def get_documents(document_path):
-    pattern = os.path.join(document_path, '*.json')
+def get_documents_of_single_webpage(file_path_webpage):
+    pattern = os.path.join(file_path_webpage, '*.json')
 
     cleaned_documents = []
     file_names = glob.glob(pattern)
@@ -33,16 +38,6 @@ def get_documents(document_path):
     return cleaned_documents
 
 
-def save_documents(cleaned_documents, file_path):
-    final_document = ''
-    for document_list in cleaned_documents:
-        for entry in document_list:
-            final_document += ' ' + entry
-
-    with open(file_path + "cleaned_document.txt", mode='w') as file:
-        file.write(final_document)
-
-
 def clean_text(text):
     '''Remove all characters except letters'''
     clean = re.sub("[^a-zA-Z]", " ", text)
@@ -50,10 +45,31 @@ def clean_text(text):
     return words
 
 
+def save_document(cleaned_documents, filename, file_path):
+    final_document = ''
+    for document_list in cleaned_documents:
+        for entry in document_list:
+            final_document += ' ' + entry
+
+    with open(file_path + filename + ".txt", mode='w') as file:
+        file.write(final_document)
+
+
+def save_all_documents(directory_path_webpage_data):
+    pattern = os.path.join(directory_path_webpage_data)
+    folders_in_directory = glob.glob(pattern)
+
+    if not folders_in_directory:
+        raise IOError
+
+    else:
+        for folder_name in folders_in_directory:
+            documents = get_documents_of_single_webpage(folder_name)
+            save_document(documents, folder_name, '../data/')
+
+
 def main():
-    documents = get_documents(
-        '../../../../WebCrawling/ElasticSearchClient/data/www.agoda.com/')
-    save_documents(documents, '../data/')
+    save_all_documents('../../../../WebCrawling/ElasticSearchClient/data/')
 
 
 if __name__ == "__main__":
