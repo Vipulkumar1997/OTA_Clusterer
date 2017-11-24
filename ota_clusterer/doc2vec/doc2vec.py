@@ -34,6 +34,7 @@ def get_document_corpus(document_path):
 
     return document_corpus
 
+
 def get_doc2vec_model(document_corpus):
     logger.info('start building Doc2Vec model')
     model = gensim.models.Doc2Vec(size=300,
@@ -52,13 +53,31 @@ def get_doc2vec_model(document_corpus):
     return model
 
 
+def create_word_vector_matrix(model):
+    all_word_vectors_matrix = model.wv.syn0
+    return all_word_vectors_matrix
+
+
+def load_existing_model(model_name):
+    models_file_path = settings.DATA_DIR + 'doc2vec/models/'
+    logger.info('load model from following path: ' + models_file_path)
+
+    loaded_model = gensim.models.Doc2Vec.load(models_file_path + model_name)
+    return loaded_model
+
+
 def main():
     crawling_data_file_path = settings.PROJECT_ROOT + '/data/crawling_data/*/'
     preprocessing.save_all_documents(crawling_data_file_path)
 
     documents_file_path = settings.PROJECT_ROOT + '/data/doc2vec/'
     document_corpus = get_document_corpus(document_path=documents_file_path)
-    model = get_doc2vec_model(document_corpus)
+    doc2vec_model = get_doc2vec_model(document_corpus)
+
+    doc2vec_model_path = settings.PROJECT_ROOT + '/data/doc2vec/models/'
+    doc2vec_model.save(doc2vec_model_path + 'doc2vec_model')
+
+    return doc2vec_model
 
 
 if __name__ == "__main__":
