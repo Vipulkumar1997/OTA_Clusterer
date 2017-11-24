@@ -1,11 +1,13 @@
 import csv
 import re
 import pandas as pd
+from ota_clusterer import settings
 
 
 def prepare_urls():
     urls_list = []
-    with open("data/urls/url_data_hotel-spider-part1.csv", "r") as file:
+    file_path = settings.DATA_DIR + 'urls/url_data_hotel-spider-part2.csv'
+    with open(file_path, "r") as file:
         csv_file = csv.reader(file, delimiter="\n")
         for row in csv_file:
             urls_list.append(row)
@@ -22,7 +24,8 @@ def prepare_urls():
                                                       'https_url_wildcard',
                                                       'www_url'])
 
-    data_frame.to_csv('data/prepared_urls/urls/urls_prepared.csv', encoding='utf-8')
+    save_to_file_path = settings.DATA_DIR + 'prepared_urls/urls_prepared.csv'
+    data_frame.to_csv(save_to_file_path, encoding='utf-8')
 
 
 def check_url_format(url):

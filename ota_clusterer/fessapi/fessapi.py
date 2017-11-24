@@ -3,21 +3,21 @@ import os
 import pandas as pd
 from selenium import webdriver
 from ota_clusterer import settings
-from .url_formatter import url_formatter
+from ota_clusterer.fessapi.url_formatter import url_formatter
 
 # constant definition
 AUTH_URL = 'http://mse-2017-wbcilurz.el.eee.intern:8080/login/'
 
 
 def initialize_webdriver():
-    file_path = settings.BASE_DIR + 'bin/Geckdodriver/'
+    file_path = settings.BASE_DIR + '/lib/Geckodriver/'
     # windows driver
     if os.name == 'nt':
-        driver = webdriver.Firefox(executable_path= file_path + 'geckodriver.exe')
+        driver = webdriver.Firefox(executable_path=file_path + 'geckodriver.exe')
 
     # linux driver
     elif os.name == 'posix':
-        driver = webdriver.Firefox(executable_path= file_path + 'geckodriver')
+        driver = webdriver.Firefox(executable_path=file_path + 'geckodriver')
 
     return driver
 
@@ -74,7 +74,7 @@ def create_new_crawler():
 
 
 def get_prepared_urls():
-    file_path = settings.PROJECT_ROOT + "/data/prepared_urls/url_data_hotel-spider.csv"
+    file_path = settings.DATA_DIR + "prepared_urls/urls_prepared.csv"
     data_frame = pd.read_csv(file_path)
     return data_frame
 

@@ -1,5 +1,5 @@
 import os
 
 PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
-BASE_DIR = os.path.abspath(os.pardir)
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data/')

@@ -1,0 +1,11 @@
+,http_url,https_url,http_url_wildcard,https_url_wildcard,www_url
+0,http://www.aicgroup.biz/,https://www.aicgroup.biz/,http://www.aicgroup.biz/.*,https://www.aicgroup.biz/.*,www.aicgroup.biz
+1,http://www.amadeus.com/,https://www.amadeus.com/,http://www.amadeus.com/.*,https://www.amadeus.com/.*,www.amadeus.com
+2,http://www.asiahotels.com/,https://www.asiahotels.com/,http://www.asiahotels.com/.*,https://www.asiahotels.com/.*,www.asiahotels.com
+3,http://www.Basel.com/,https://www.Basel.com/,http://www.Basel.com/.*,https://www.Basel.com/.*,www.Basel.com
+4,http://www.Booking-Valais.com/,https://www.Booking-Valais.com/,http://www.Booking-Valais.com/.*,https://www.Booking-Valais.com/.*,www.Booking-Valais.com
+5,http://www.booking.com/,https://www.booking.com/,http://www.booking.com/.*,https://www.booking.com/.*,www.booking.com
+6,http://www.bookit.nl/,https://www.bookit.nl/,http://www.bookit.nl/.*,https://www.bookit.nl/.*,www.bookit.nl
+7,http://www.bookyourhotel.org/,https://www.bookyourhotel.org/,http://www.bookyourhotel.org/.*,https://www.bookyourhotel.org/.*,www.bookyourhotel.org
+8,http://www.bremen-tourismus.de/,https://www.bremen-tourismus.de/,http://www.bremen-tourismus.de/.*,https://www.bremen-tourismus.de/.*,www.bremen-tourismus.de
+9,http://www.bremerhaven.de/,https://www.bremerhaven.de/,http://www.bremerhaven.de/.*,https://www.bremerhaven.de/.*,www.bremerhaven.de
