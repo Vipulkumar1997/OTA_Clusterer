@@ -54,8 +54,13 @@ def get_doc2vec_model(document_corpus):
 
 
 def create_word_vector_matrix(model):
-    all_word_vectors_matrix = model.wv.syn0
-    return all_word_vectors_matrix
+    word_vectors = model.wv.syn0
+    return word_vectors
+
+
+def create_doc_vector_matrix(model):
+    docvec_vectors = model.docvecs
+    return docvec_vectors
 
 
 def load_existing_model(model_name):
