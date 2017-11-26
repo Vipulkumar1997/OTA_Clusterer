@@ -4,6 +4,7 @@ import glob
 import logging
 from ota_clusterer import settings
 from ota_clusterer.doc2vec.preprocessing import preprocessing
+import time
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -63,6 +64,11 @@ def create_doc_vector_matrix(model):
     return docvec_vectors
 
 
+def get_doc_similarities(doc2vec_model, document_name):
+    similarities = doc2vec_model.docvecs.most_similar(document_name)
+    return similarities
+
+
 def load_existing_model(model_name):
     models_file_path = settings.DATA_DIR + 'doc2vec/models/'
     logger.info('load model from following path: ' + models_file_path)
@@ -71,7 +77,7 @@ def load_existing_model(model_name):
     return loaded_model
 
 
-def main():
+def create_new_doc2vec_model():
     crawling_data_file_path = settings.PROJECT_ROOT + '/data/crawling_data/*/'
     preprocessing.save_all_documents(crawling_data_file_path)
 
@@ -80,9 +86,16 @@ def main():
     doc2vec_model = get_doc2vec_model(document_corpus)
 
     doc2vec_model_path = settings.PROJECT_ROOT + '/data/doc2vec/models/'
-    doc2vec_model.save(doc2vec_model_path + 'doc2vec_model')
+    filename = 'doc2vecmodel' + "-" + time.strftime("%d-%b-%Y-%X")
+    doc2vec_model.save(doc2vec_model_path + filename)
 
-    return doc2vec_model
+
+def main():
+   # create_new_doc2vec_model()
+
+    doc2vec_model = load_existing_model('doc2vecmodel-25-Nov-2017-11:58:06')
+    doc_similarities = get_doc_similarities(doc2vec_model, 'www.hopkinsmedicine.org.txt')
+    print(doc_similarities)
 
 
 if __name__ == "__main__":
