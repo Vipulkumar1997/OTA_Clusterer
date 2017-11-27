@@ -36,9 +36,9 @@ def get_authenticated_driver():
     return driver
 
 
-def create_new_crawler():
+def create_new_crawler(urls_prepared_file_name):
     authenticated_driver = get_authenticated_driver()
-    url_data_frame = get_prepared_urls()
+    url_data_frame = get_prepared_urls(urls_prepared_file_name)
 
     for index, row in url_data_frame.iterrows():
         authenticated_driver.get(url='http://mse-2017-wbcilurz.el.eee.intern:8080/admin/webconfig/createnew/')
@@ -73,15 +73,18 @@ def create_new_crawler():
     authenticated_driver.close()
 
 
-def get_prepared_urls():
-    file_path = settings.DATA_DIR + "prepared_urls/urls_prepared.csv"
+def get_prepared_urls(urls_prepared_file_name):
+    file_path = settings.DATA_DIR + "prepared_urls/" + urls_prepared_file_name
     data_frame = pd.read_csv(file_path)
     return data_frame
 
 
 def main():
-    url_formatter.prepare_urls()
-    create_new_crawler()
+    # just necessary, if you need new prepared urls
+    # urls_file_path = settings.PROJECT_ROOT + '/data/urls/'
+    # url_formatter.prepare_urls(urls_file_path)
+
+    create_new_crawler('urls_prepared-0-27-Nov-2017-11:50:30.csv')
 
 
 if __name__ == "__main__":

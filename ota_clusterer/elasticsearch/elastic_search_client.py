@@ -6,6 +6,12 @@ import os
 from ota_clusterer import settings
 import errno
 import pandas as pd
+import logging
+import glob
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 # constants definition
 ELASTIC_SERVER = 'http://mse-2017-wbcilurz.el.eee.intern:9200'
@@ -45,10 +51,10 @@ def get_document_content():
 
 def get_documents_of_host(hostname):
     es = initialize_elasticsearch()
-    print("start fetching data from elasticsearch...")
+    print("start fetching data from elasticsearch...from following host:" + hostname)
     result = es.search(index="fess.search",
-                       scroll='10m',
-                       size=1000,
+                       scroll='1m',
+                       size=10000,
                        body={
                            "query": {
 
@@ -81,21 +87,32 @@ def get_documents_of_host(hostname):
             json.dump(entry['_source'], output)
 
 
-def get_crawled_urls():
-    file_path = settings.PROJECT_ROOT + '/data/prepared_urls/urls_prepared.csv'
-    data_frame = pd.read_csv(file_path)
+def get_crawled_urls(urls_prepared_file_name):
+    data_frame = pd.read_csv(urls_prepared_file_name)
     return data_frame
 
 
-def save_documents_of_crawled_hostnames():
-    urls_data_frame = get_crawled_urls()
-    for index, row in urls_data_frame.iterrows():
-        hostname = row['www_url']
-        get_documents_of_host(hostname)
+def save_documents_of_crawled_hostnames(prepared_urls_file_path):
+    logger.info('start getting crawled hostnames urls')
+    pattern = os.path.join(prepared_urls_file_path, '*.csv')
+
+    file_names = glob.glob(pattern)
+
+    if not file_names:
+        raise IOError
+
+    else:
+        logger.info('Start getting the prepared urls')
+        for file_name in file_names:
+            urls_data_frame = get_crawled_urls(file_name)
+            for index, row in urls_data_frame.iterrows():
+                hostname = row['www_url']
+                get_documents_of_host(hostname)
 
 
 def main():
-    save_documents_of_crawled_hostnames()
+    prepared_urls_file_path = settings.PROJECT_ROOT + '/data/prepared_urls/'
+    save_documents_of_crawled_hostnames(prepared_urls_file_path)
 
 
 if __name__ == "__main__":

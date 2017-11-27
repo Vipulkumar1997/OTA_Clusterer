@@ -25,8 +25,9 @@ def create_2d_tsne_model(vector_matrix, filename):
 
     tsne_2d_model = tsne.fit_transform(vector_matrix)
 
+    file_path = settings.DATA_DIR + "t-sne/models"
     filename = filename + "-" + time.strftime("%d-%b-%Y-%X") + '-array'
-    np.save(filename, tsne_2d_model)
+    np.save(file_path + filename, tsne_2d_model)
 
     return tsne_2d_model
 
@@ -43,6 +44,7 @@ def generate_word2vec_word_coordinate_dataframe(tsne_word_vector_matrix, doc2vec
     return dataframe
 
 
+# TODO: refactoring in other script
 def create_word2vec_scatter_plot(dataframe, filename):
     seaborn.set("poster")
     dataframe.plot.scatter("x", "y", s=10, figsize=(10, 6))
@@ -54,6 +56,7 @@ def create_word2vec_scatter_plot(dataframe, filename):
     plt.show(block=True)
 
 
+# TODO: refactoring in other script
 def create_doc_model_plot(tsne_doc_model, labels, filename):
     plt.figure(num=1, figsize=(80, 80), facecolor="w", edgecolor="k")
 
@@ -66,6 +69,7 @@ def create_doc_model_plot(tsne_doc_model, labels, filename):
     plt.savefig(file_path + file_name)
 
 
+# TODO: refactoring in other script
 def create_affinity_propagation_cluster_doc2vec_plot(doc2vec_tsne_model, fnames, filename):
     affinity_propagation = sklearn.cluster.AffinityPropagation().fit(doc2vec_tsne_model)
 
@@ -84,11 +88,6 @@ def create_affinity_propagation_cluster_doc2vec_plot(doc2vec_tsne_model, fnames,
         fname_indices = [i for i, x in enumerate(class_members) if x]
         for i in fname_indices: fnames_cluster.append(fnames[i])
 
-        # print(fnames_cluster)
-        # print(len(class_members))
-        # print(len(fnames))
-        # print(cluster_center)
-
         plt.plot(doc2vec_tsne_model[class_members, 0], doc2vec_tsne_model[class_members, 1], col + ".")
         plt.plot(cluster_center[0], cluster_center[1], "o", markerfacecolor=col, markersize=20)
 
@@ -105,30 +104,33 @@ def create_affinity_propagation_cluster_doc2vec_plot(doc2vec_tsne_model, fnames,
     plt.savefig(file_path + file_name, facecolor="w", dpi=90)
 
 
-def load_tsne_vector_model(modelname):
-    tsne_vector_model = np.load(modelname)
-    return tsne_vector_model
+def load_tsne_model(modelname):
+    file_path = settings.DATA_DIR + "tsne/models/"
+    tsne_model = np.load(file_path + modelname)
+    return tsne_model
 
 
+# TODO: refactoring in other script
 def generate_word2vec_plot(doc2vec_model, tsne_model_name=None):
     if tsne_model_name is None:
         word_vector_matrix = doc2vec.create_word_vector_matrix(doc2vec_model)
         tsne_word_vector_model = create_2d_tsne_model(word_vector_matrix, 'wordvectors')
 
     else:
-        tsne_word_vector_model = load_tsne_vector_model(tsne_model_name)
+        tsne_word_vector_model = load_tsne_model(tsne_model_name)
 
     word2vec_dataframe = generate_word2vec_word_coordinate_dataframe(tsne_word_vector_model, doc2vec_model)
     create_word2vec_scatter_plot(word2vec_dataframe, 'word2vec-')
 
 
+# TODO: refactoring in other script
 def generate_doc2vec_plot(doc2vec_model, tsne_model_name=None):
     if tsne_model_name is None:
         doc_vector_matrix = doc2vec.create_doc_vector_matrix(doc2vec_model)
         tsne_doc_vector_model = create_2d_tsne_model(doc_vector_matrix, 'docvectors-')
 
     else:
-        tsne_doc_vector_model = load_tsne_vector_model(tsne_model_name)
+        tsne_doc_vector_model = load_tsne_model(tsne_model_name)
 
     labels = list(doc2vec_model.docvecs.doctags.keys())
     create_doc_model_plot(tsne_doc_vector_model, labels, 'docvectors-')
@@ -143,8 +145,10 @@ def main():
     labels = list(doc2vec_model.docvecs.doctags.keys())
     # doc2vec_vector_model = create_2d_docvec_tsne_model(doc2vec_model, 'cluster-doc2vec-')
     doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix(doc2vec_model)
-    doc2vec_vector_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-')
-    create_affinity_propagation_cluster_doc2vec_plot(doc2vec_vector_model, labels, 'cluster-doc2vec-')
+    tsne_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-')
+
+    # refactoring in other script
+    create_affinity_propagation_cluster_doc2vec_plot(tsne_model, labels, 'cluster-doc2vec-')
 
 
 if __name__ == "__main__":

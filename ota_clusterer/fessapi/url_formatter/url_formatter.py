@@ -2,30 +2,49 @@ import csv
 import re
 import pandas as pd
 from ota_clusterer import settings
+import time
+import os
+import logging
+import glob
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 
-def prepare_urls():
-    urls_list = []
-    file_path = settings.DATA_DIR + 'urls/url_data_hotel-spider-part2.csv'
-    with open(file_path, "r") as file:
-        csv_file = csv.reader(file, delimiter="\n")
-        for row in csv_file:
-            urls_list.append(row)
+def prepare_urls(urls_file_path):
+    logger.info('start preparing urls')
+    pattern = os.path.join(urls_file_path, '*.csv')
 
-    prepared_urls = []
-    for url in urls_list:
-        url = url[0]
-        formatted_urls = check_url_format(url)
-        prepared_urls.extend(formatted_urls)
+    file_names = glob.glob(pattern)
 
-    data_frame = pd.DataFrame(prepared_urls, columns=['http_url',
-                                                      'https_url',
-                                                      'http_url_wildcard',
-                                                      'https_url_wildcard',
-                                                      'www_url'])
+    if not file_names:
+        raise IOError
 
-    save_to_file_path = settings.DATA_DIR + 'prepared_urls/urls_prepared.csv'
-    data_frame.to_csv(save_to_file_path, encoding='utf-8')
+    else:
+        logger.info('Start preparing urls')
+        for counter, file_name in enumerate(file_names):
+            urls_list = []
+            with open(file_name, "r") as file:
+                csv_file = csv.reader(file, delimiter="\n")
+                for row in csv_file:
+                    urls_list.append(row)
+
+            prepared_urls = []
+            for url in urls_list:
+                url = url[0]
+                formatted_urls = check_url_format(url)
+                prepared_urls.extend(formatted_urls)
+
+            data_frame = pd.DataFrame(prepared_urls, columns=['http_url',
+                                                              'https_url',
+                                                              'http_url_wildcard',
+                                                              'https_url_wildcard',
+                                                              'www_url'])
+
+            filename = "urls_prepared-" + str(counter) + "-" + time.strftime("%d-%b-%Y-%X") + '.csv'
+            save_to_file_path = settings.DATA_DIR + 'prepared_urls/' + filename
+            data_frame.to_csv(save_to_file_path, encoding='utf-8')
 
 
 def check_url_format(url):
@@ -86,7 +105,8 @@ def replace_url_beginning(url, option, url_beginning):
         url = url.replace(url_beginning, "http://")
 
     elif option == "www":
-        url = url.strip(url_beginning)
+        url = url.replace(url_beginning, '')
+        url = url.strip('/')
 
     return url
 
