@@ -3,7 +3,7 @@ import os
 import glob
 import logging
 from ota_clusterer import settings
-from ota_clusterer.doc2vec.preprocessing import preprocessing
+from ota_clusterer.doc2vec.utils import utils
 import time
 from ota_clusterer.doc2vec.plots import plots
 import numpy as np
@@ -31,7 +31,7 @@ def create_document_corpus(document_path):
                 document = file.read()
 
             preprocessed_document = gensim.utils.simple_preprocess(document)
-            tagged_document_name = preprocessing.cleaning_path_out_of_file_name(file_name)
+            tagged_document_name = utils.cleaning_path_out_of_file_name(file_name)
             tagged_document = gensim.models.doc2vec.TaggedDocument(preprocessed_document, ["{}".format(tagged_document_name)])
             document_corpus.append(tagged_document)
 
@@ -85,7 +85,7 @@ def load_existing_model(model_name):
 def create_new_doc2vec_model():
     logger.info('Start creating new doc2vec model...')
     crawling_data_file_path = settings.PROJECT_ROOT + '/data/crawling_data/*/'
-    preprocessing.save_all_documents(crawling_data_file_path)
+    utils.save_all_documents(crawling_data_file_path)
 
     documents_file_path = settings.PROJECT_ROOT + '/data/doc2vec/'
     document_corpus = create_document_corpus(document_path=documents_file_path)
@@ -113,7 +113,7 @@ def main():
     # get doc2vec similarities
     doc2vec_model = load_existing_model('doc2vecmodel-27-Nov-2017-14:43:10')
     print(get_doc_similarities(doc2vec_model, 'www.cardinalhealth.com.txt'))
-    print(get_most_similar_doc_matrix(doc2vec_model))
+
 
 if __name__ == "__main__":
     main()

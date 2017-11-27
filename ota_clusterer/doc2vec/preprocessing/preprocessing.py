@@ -1,83 +1,39 @@
-import json
-import os
-import glob
-import re
-import logging
+from nltk.tokenize import RegexpTokenizer
+import nltk
+from nltk.corpus import stopwords
+from nltk import wordpunct_tokenize
+from nltk.stem.porter import PorterStemmer
 from ota_clusterer import settings
+import sys
 
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
+# TODO Renaming all functions
+def calculate_languages_ratios(document):
+    languages_ratios = {}
+    tokens = wordpunct_tokenize(document)
+    words = [word.lower() for word in tokens]
 
+    # Compute per language included in nltk number of unique stopwords appearing in analyzed text
+    for language in stopwords.fileids():
+        stopwords_set = set(stopwords.words(language))
+        words_set = set(words)
+        common_elements = words_set.intersection(stopwords_set)
 
-def get_documents_of_single_webpage(file_path_webpage):
-    pattern = os.path.join(file_path_webpage, '*.json')
+        languages_ratios[language] = len(common_elements)  # language "score"
 
-    cleaned_documents = []
-    file_names = glob.glob(pattern)
-
-    if not file_names:
-        raise IOError
-
-    else:
-        for file_name in file_names:
-            with open(file_name) as file:
-                file_document = json.load(file)
-
-            content = file_document['content']
-            title = file_document['title']
-
-            content_cleaned = clean_text(str(content))
-            title_cleaned = clean_text(str(title))
-
-            cleaned_documents.append(content_cleaned)
-            cleaned_documents.append(title_cleaned)
-
-    return cleaned_documents
+    return languages_ratios
 
 
-def clean_text(text):
-    clean = re.sub("[^a-zA-Z]", " ", text)
-    words = clean.split()
-    return words
+def detect_language(document):
+    ratios = calculate_languages_ratios(document)
+
+    most_rated_language = max(ratios, key=ratios.get)
+
+    return most_rated_language
 
 
-def save_document(cleaned_documents, filename, file_path):
-    final_document = ''
-    for document_list in cleaned_documents:
-        for entry in document_list:
-            final_document += ' ' + entry
-
-    with open(file_path + filename + ".txt", mode='w') as file:
-        file.write(final_document)
-
-
-def save_all_documents(directory_path_webpage_data):
-    logger.info('Start preprocessing documents and save them all...')
-    folders_in_directory = glob.glob(directory_path_webpage_data)
-
-    if not folders_in_directory:
-        raise IOError
-
-    else:
-        document_file_path = settings.PROJECT_ROOT + '/data/doc2vec/'
-        for folder_name in folders_in_directory:
-            documents = get_documents_of_single_webpage(folder_name)
-            file_name = cleaning_path_out_of_file_name(folder_name)
-            save_document(cleaned_documents=documents, filename=file_name, file_path=document_file_path)
-
-
-def cleaning_path_out_of_file_name(file_name):
-    pattern = re.compile("www.*")
-    file_name = re.findall(pattern, file_name)
-    file_name = file_name[0].strip('/')
-    return file_name
-
-
-def main():
-    crawling_data_file_path = settings.PROJECT_ROOT + '/data/crawling_data/*/'
-    save_all_documents(crawling_data_file_path)
-
-
-if __name__ == "__main__":
-    main()
+if __name__ == '__main__':
+    input_document = settings.DATA_DIR + '/doc2vec/data-27112017/www.alr-aerospace.ch.txt'
+    with open(input_document, 'r') as file:
+        document = file.read()
+    language = detect_language(document)
+    print(language)
