@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 
-def get_document_corpus(document_path):
+def create_document_corpus(document_path):
     logger.info('start getting document corpus')
     pattern = os.path.join(document_path, '*.txt')
 
@@ -36,7 +36,7 @@ def get_document_corpus(document_path):
     return document_corpus
 
 
-def get_doc2vec_model(document_corpus):
+def create_doc2vec_model(document_corpus):
     logger.info('start building Doc2Vec model')
     model = gensim.models.Doc2Vec(size=300,
                                   min_count=3,
@@ -54,17 +54,20 @@ def get_doc2vec_model(document_corpus):
     return model
 
 
-def create_word_vector_matrix(model):
+def get_word_vector_matrix(model):
+    logger.info('get word vectors of doc2vec model')
     word_vectors = model.wv.syn0
     return word_vectors
 
 
-def create_doc_vector_matrix(model):
+def get_doc_vector_matrix(model):
+    logger.info('get document vectors of doc2vec model')
     docvec_vectors = model.docvecs
     return docvec_vectors
 
 
 def get_doc_similarities(doc2vec_model, document_name):
+    logger.info('get document similarities')
     similarities = doc2vec_model.docvecs.most_similar(document_name)
     return similarities
 
@@ -78,25 +81,26 @@ def load_existing_model(model_name):
 
 
 def create_new_doc2vec_model():
+    logger.info('Start creating new doc2vec model...')
     crawling_data_file_path = settings.PROJECT_ROOT + '/data/crawling_data/*/'
     preprocessing.save_all_documents(crawling_data_file_path)
 
     documents_file_path = settings.PROJECT_ROOT + '/data/doc2vec/'
-    document_corpus = get_document_corpus(document_path=documents_file_path)
-    doc2vec_model = get_doc2vec_model(document_corpus)
+    document_corpus = create_document_corpus(document_path=documents_file_path)
+    doc2vec_model = create_doc2vec_model(document_corpus)
 
     doc2vec_model_path = settings.PROJECT_ROOT + '/data/doc2vec/models/'
     filename = 'doc2vecmodel' + "-" + time.strftime("%d-%b-%Y-%X")
+    logger.info("save new doc2vec model at: " + doc2vec_model_path + filename)
     doc2vec_model.save(doc2vec_model_path + filename)
 
 
 def main():
-   # create_new_doc2vec_model()
+    # create_new_doc2vec_model()
 
-    doc2vec_model = load_existing_model('doc2vecmodel-25-Nov-2017-11:58:06')
-    doc_similarities = get_doc_similarities(doc2vec_model, 'www.hopkinsmedicine.org.txt')
-    print(doc_similarities)
-
+    # get doc2vec similarities
+    doc2vec_model = load_existing_model('doc2vecmodel-27-Nov-2017-14:43:10')
+    print(get_doc_similarities(doc2vec_model, 'www.cardinalhealth.com.txt'))
 
 if __name__ == "__main__":
     main()

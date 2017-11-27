@@ -26,21 +26,17 @@ def get_documents_of_single_webpage(file_path_webpage):
 
             content = file_document['content']
             title = file_document['title']
-            #important_content = file_document['important_content']
 
             content_cleaned = clean_text(str(content))
             title_cleaned = clean_text(str(title))
-            #important_content_cleaned = clean_text(str(important_content))
 
             cleaned_documents.append(content_cleaned)
             cleaned_documents.append(title_cleaned)
-            #cleaned_documents.append(important_content_cleaned)
 
     return cleaned_documents
 
 
 def clean_text(text):
-    '''Remove all characters except letters'''
     clean = re.sub("[^a-zA-Z]", " ", text)
     words = clean.split()
     return words
@@ -57,6 +53,7 @@ def save_document(cleaned_documents, filename, file_path):
 
 
 def save_all_documents(directory_path_webpage_data):
+    logger.info('Start preprocessing documents and save them all...')
     folders_in_directory = glob.glob(directory_path_webpage_data)
 
     if not folders_in_directory:

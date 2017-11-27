@@ -53,8 +53,8 @@ def get_documents_of_host(hostname):
     es = initialize_elasticsearch()
     print("start fetching data from elasticsearch...from following host:" + hostname)
     result = es.search(index="fess.search",
-                       scroll='1m',
-                       size=10000,
+                       scroll='10m',
+                       size=1000,
                        body={
                            "query": {
 
