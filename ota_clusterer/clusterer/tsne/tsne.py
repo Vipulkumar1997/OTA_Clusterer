@@ -6,6 +6,7 @@ from ota_clusterer.doc2vec import doc2vec
 import numpy as np
 import time
 from ota_clusterer import settings
+from ota_clusterer.clusterer.tsne.plots import plots
 from ota_clusterer.clusterer.affinity_propagation import affinity_propagation
 
 logging.basicConfig(level=logging.INFO)
@@ -23,9 +24,8 @@ def create_2d_tsne_model(vector_matrix, filename):
 
     tsne_2d_model = tsne.fit_transform(vector_matrix)
 
-    file_path = settings.DATA_DIR + "tsne/models/"
-    filename = filename + "-" + time.strftime("%d-%b-%Y-%X") + '-array'
-    np.save(file_path + filename, tsne_2d_model)
+    file_path_name = get_file_path_and_name_to_save(filename, "tsne/models/")
+    np.save(file_path_name, tsne_2d_model)
 
     return tsne_2d_model
 
@@ -47,6 +47,14 @@ def load_tsne_model(modelname):
     tsne_model = np.load(file_path + modelname)
     return tsne_model
 
+# TODO Probably refactoring in utils file
+def get_file_path_and_name_to_save(file_name, file_path):
+    file_name = 't-sne-' + file_name + "-" + time.strftime("%d-%b-%Y-%X")
+    file_path = settings.DATA_DIR + file_path
+    file_path_and_name = file_path + file_name
+    return file_path_and_name
+
+
 
 def main():
     # example usage for clustering of new t-sne model
@@ -56,9 +64,9 @@ def main():
     # affinity_propagation.create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, 'cluster-doc2vec-')
 
     doc2vec_model = doc2vec.load_existing_model('doc2vecmodel-27-Nov-2017-14:43:10')
+    labels = doc2vec_model.docvecs.doctags.keys()
     tsne_model = load_tsne_model('cluster-doc2vec--27-Nov-2017-14:49:59-array.npy')
-
-
+    plots.create_simple_tsne_model_plot(tsne_model, labels, 'simple_tsne_plot')
 
 
 if __name__ == "__main__":

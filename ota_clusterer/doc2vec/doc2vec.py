@@ -5,6 +5,8 @@ import logging
 from ota_clusterer import settings
 from ota_clusterer.doc2vec.preprocessing import preprocessing
 import time
+from ota_clusterer.doc2vec.plots import plots
+import numpy as np
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -95,12 +97,23 @@ def create_new_doc2vec_model():
     doc2vec_model.save(doc2vec_model_path + filename)
 
 
+def get_most_similar_doc_matrix(doc2vec_model):
+    similarities_matrix = []
+    for document_name in doc2vec_model.docvecs.doctags:
+        similarities_matrix.append(get_doc_similarities(doc2vec_model, document_name))
+
+    similarities_matrix = np.asarray(similarities_matrix)
+
+    return similarities_matrix
+
+
 def main():
     # create_new_doc2vec_model()
 
     # get doc2vec similarities
     doc2vec_model = load_existing_model('doc2vecmodel-27-Nov-2017-14:43:10')
     print(get_doc_similarities(doc2vec_model, 'www.cardinalhealth.com.txt'))
+    print(get_most_similar_doc_matrix(doc2vec_model))
 
 if __name__ == "__main__":
     main()
