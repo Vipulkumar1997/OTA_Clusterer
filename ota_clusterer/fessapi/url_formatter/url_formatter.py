@@ -11,7 +11,6 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-# TODO: Testing
 
 def prepare_urls(urls_file_path):
     logger.info('start preparing urls')
