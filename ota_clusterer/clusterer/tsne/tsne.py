@@ -8,10 +8,10 @@ import time
 from ota_clusterer import settings
 from ota_clusterer.clusterer.tsne.plots import plots
 from ota_clusterer.clusterer.affinity_propagation import affinity_propagation
+from ota_clusterer import logger
 
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
+
+logger = logger.get_logger()
 
 
 def create_2d_tsne_model(vector_matrix, filename):
@@ -54,6 +54,11 @@ def get_file_path_and_name_to_save(file_name, file_path):
     file_path_and_name = file_path + file_name
     return file_path_and_name
 
+
+def create_new_doc2vec_tsne_model_and_clustering(doc2vec_model):
+    doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
+    tsne_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-')
+    affinity_propagation.create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, 'cluster-doc2vec-')
 
 
 def main():
