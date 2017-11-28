@@ -9,8 +9,8 @@ from ota_clusterer import logger
 
 logger = logger.get_logger()
 ELASTIC_SERVER = 'http://mse-2017-wbcilurz.el.eee.intern:9200'
-RESPONSE_FILE_PATH = settings.PROJECT_ROOT + '/data/crawling_data/'
-PREPARED_HOSTNAMES_FILE_PATH = settings.PROJECT_ROOT + '/data/prepared_urls/'
+RESPONSE_FILE_PATH = settings.DATA_DIR + 'crawling_data/'
+PREPARED_HOSTNAMES_FILE_PATH = settings.DATA_DIR + 'prepared_urls/'
 
 
 class ElasticSearchClient:
