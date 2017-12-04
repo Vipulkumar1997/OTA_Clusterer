@@ -53,11 +53,10 @@ def word_stemming(document, document_language):
    return stemmed_document
 
 
-def preprocess_document(document):
+def preprocess_document(document, document_language):
     document_language = detect_language(document)
     filtered_document = stop_words_removal(document, document_language)
     preprocessed_document = word_stemming(filtered_document, document_language)
-
     return preprocessed_document, document_language
 
 

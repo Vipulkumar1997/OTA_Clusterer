@@ -5,6 +5,7 @@ from scrapy.linkextractors import LinkExtractor
 from bs4 import BeautifulSoup
 from bs4.element import Comment
 import errno
+from ota_clusterer import settings
 
 
 class WebCrawlingSpider(CrawlSpider):
@@ -12,7 +13,7 @@ class WebCrawlingSpider(CrawlSpider):
     hostname = ''
     allowed_domains = []
     start_urls = []
-    RESPONSE_FILE_PATH = 'data'
+    RESPONSE_FILE_PATH = settings.DATA_DIR + 'crawling_data/'
     rules = [Rule(LinkExtractor(), callback='parse_page')]
 
     def __init__(self, hostname=None, start_urls=None):
@@ -23,9 +24,9 @@ class WebCrawlingSpider(CrawlSpider):
         super().__init__()
 
     def create_data_directory(self):
-        if not os.path.exists(self.RESPONSE_FILE_PATH + '/' + self.hostname):
+        if not os.path.exists(self.RESPONSE_FILE_PATH + self.hostname):
             try:
-                os.makedirs(self.RESPONSE_FILE_PATH + '/' + self. hostname)
+                os.makedirs(self.RESPONSE_FILE_PATH + self. hostname)
             except OSError as e:
                 if e.errno != errno.EEXIST:
                     raise
@@ -41,7 +42,7 @@ class WebCrawlingSpider(CrawlSpider):
 
     def persist_webpage_text(self, webpage_name, webpage_text):
         file_name = '%s.txt' % webpage_name
-        file_path = self.RESPONSE_FILE_PATH + '/' + self.hostname + '/'
+        file_path = self.RESPONSE_FILE_PATH + self.hostname + '/'
         with open(file_path + file_name, 'wb') as f:
             f.write(webpage_text)
             self.log('Saved file %s at %s' % (file_name, file_path))

@@ -2,12 +2,12 @@ import gensim
 import os
 import glob
 from ota_clusterer import settings
-from ota_clusterer.doc2vec.utils import utils
 import time
 from ota_clusterer.doc2vec.plots import plots
 from ota_clusterer.doc2vec.preprocessing import  preprocessing
 import numpy as np
 from ota_clusterer import logger
+import re
 
 logger = logger.get_logger()
 logger.name = __name__
@@ -15,40 +15,50 @@ logger.name = __name__
 
 def create_document_corpus_by_language(document_path):
     logger.info('start creating document corpus by language')
-    pattern = os.path.join(document_path, '*.txt')
+    folders_in_directory = glob.glob(document_path)
 
-    preprocessed_documents_corpus_english = []
-    preprocessed_documents_corpus_german = []
-
-    file_names = glob.glob(pattern)
-
-    if not file_names:
+    if not folders_in_directory:
         raise IOError
 
     else:
-        logger.info('Start read in files')
-        for file_name in file_names:
-            logger.debug('File Names: ', file_names)
-            with open(file_name, 'r') as file:
-                document = file.read()
 
-            document = gensim.utils.simple_preprocess(document)
-            preprocessed_document, document_language = preprocessing.preprocess_document(document)
+        preprocessed_documents_corpus_english = []
+        preprocessed_documents_corpus_german = []
 
-            tagged_document_name = utils.cleaning_path_out_of_file_name(file_name)
-            tagged_document = gensim.models.doc2vec.TaggedDocument(preprocessed_document,
-                                                                   ["{}".format(tagged_document_name)])
+        for folder_name in folders_in_directory:
+            logger.info('start getting files of folder ' + folder_name)
+            pattern = os.path.join(folder_name, '*.txt')
+            file_names = glob.glob(pattern)
 
+            if not file_names:
+                raise IOError
 
-            if document_language == 'english':
-                preprocessed_documents_corpus_english.append(tagged_document)
+            else:
+                logger.info('start read in files')
+                for file_name in file_names:
+                    logger.debug('File Names: ', file_names)
+                    with open(file_name, 'r') as file:
+                        document = file.read()
 
-            elif document_language == 'german':
-                preprocessed_documents_corpus_german.append(tagged_document)
+                    document = gensim.utils.simple_preprocess(document)
+                    document_language = preprocessing.detect_language(document)
+                    if document_language == 'english' or document_language == 'german':
+                        preprocessed_document, document_language = preprocessing.preprocess_document(document, document_language)
 
-    logger.info('Added ' + str(len(preprocessed_documents_corpus_english)) + ' documents to the english document corpus')
-    logger.info('Added ' + str(len(preprocessed_documents_corpus_german)) + ' documents to the germand document corpus')
-    return preprocessed_documents_corpus_english, preprocessed_documents_corpus_german
+                        tagged_document_name = cleaning_path_out_of_folder_name(folder_name)
+                        tagged_document = gensim.models.doc2vec.TaggedDocument(preprocessed_document,
+                                                                               ["{}".format(tagged_document_name)])
+
+                        if document_language == 'english':
+                            preprocessed_documents_corpus_english.append(tagged_document)
+
+                        elif document_language == 'german':
+                            preprocessed_documents_corpus_german.append(tagged_document)
+
+            logger.info('Added ' + str(len(preprocessed_documents_corpus_english)) + ' documents to the english document corpus')
+            logger.info('Added ' + str(len(preprocessed_documents_corpus_german)) + ' documents to the german document corpus')
+
+        return preprocessed_documents_corpus_english, preprocessed_documents_corpus_german
 
 
 def create_doc2vec_model(document_corpus):
@@ -124,10 +134,10 @@ def load_existing_model(model_name):
 
 def create_new_doc2vec_model():
     logger.info('Start creating new doc2vec model...')
-    crawling_data_file_path = settings.PROJECT_ROOT + '/data/crawling_data/data_raw/*/'
-    utils.save_all_documents(crawling_data_file_path)
+    # crawling_data_file_path = settings.PROJECT_ROOT + '/data/crawling_data/*/'
+    # utils.save_all_documents(crawling_data_file_path)
 
-    documents_file_path = settings.PROJECT_ROOT + '/data/doc2vec/'
+    documents_file_path = settings.DATA_DIR + 'crawling_data/*/'
     document_corpus_english, document_corpus_german = create_document_corpus_by_language(documents_file_path)
 
     doc2vec_model_english = create_doc2vec_model(document_corpus_english)
@@ -149,12 +159,19 @@ def get_most_similar_doc_matrix(doc2vec_model):
     return similarities_matrix
 
 
+def cleaning_path_out_of_folder_name(folder_name):
+    pattern = re.compile(r"(?:\\.|[^/\\])*/$")
+    file_name = re.findall(pattern, folder_name)
+    file_name = file_name[0].strip('/')
+    return file_name
+
+
 def main():
-    #create_new_doc2vec_model()
+    create_new_doc2vec_model()
 
     # get doc2vec similarities
-    doc2vec_model = load_existing_model('doc2vec-model-english-28-Nov-2017-13:41:32')
-    print(get_doc_similarities(doc2vec_model, 'www.booking.com.txt'))
+    # doc2vec_model = load_existing_model('doc2vec-model-english-28-Nov-2017-13:41:32')
+    # print(get_doc_similarities(doc2vec_model, 'www.booking.com.txt'))
 
 
 if __name__ == "__main__":

@@ -9,6 +9,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
+# TODO Probably complete file can be deleted
+
 
 def get_documents_of_single_webpage(file_path_webpage):
     pattern = os.path.join(file_path_webpage, '*.json')
