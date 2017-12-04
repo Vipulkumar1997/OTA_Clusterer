@@ -1,0 +1,2939 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycling tours in Europe | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycling tours in Europe
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Cycling
+
+Cycling tours in Europe
+
+
+
+
+Cycling in Europe is a little like riding through a cliché. Pedalling your way past Provencal orange groves, cellar-door wine tastings on the Dalmatian coast, tracing the gentle curve of the Danube or climbing switchbacks in the Andalusían hills – it’s easy to feel like you’ve cycled onto some faded postcard from the 50s. What’s next? Croissants? Singing bluebirds? That’s the beauty of a Europe cycling tour: just when you think it can’t get any more ridiculous, we up the Wow Factor by another 15%. Want to ride through Tuscany’s Borgo a Mozzano valley? Visit the clifftop town of Ronda on the edge of El Tajo Gorge? Stuff your face with Croatian olives or French cheesecake? (The calories don’t count if you’re cycling.) We’ve got a tour to suit every daydream. The hard bit is picking your favourite.
+
+
+Our cycling tours in Europe
+
+
+
+
+
+
+
+
+
+
+Cycle Croatia
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,730
+
+
+
+
+
+Discover the ancient cities of Croatia on this Dalmatian cycling tour. Ride to Split,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Tuscany
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,635
+
+
+
+
+
+Encounter the picturesque hills and olive groves of Tuscany on this cycling adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the Danube
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,340
+
+
+
+
+
+Retrace the steps of ancient empires on this cycling tour through Austria, Slovakia and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Provence
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,650
+
+
+
+
+
+This cycling tour through Provence, visiting Avignon, Orange, St Remy and Arles, is the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the French Alps
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,575
+
+
+
+
+
+Cycle the French Alps with Intrepid, conquering some legendary Tour de France routes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the Baltics
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,195
+
+
+
+
+
+Cycle through the Baltic States – Estonia, Latvia and Lithuania – from Tallin to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Andalucia
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,035
+
+
+
+
+
+Experience southern Spain on this cycling adventure from Seville to Granada. Ride car...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Provence & Tuscany
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,075
+
+
+
+
+
+This cycling tour through Provence and Tuscany, from the perfect blend of scenic trail...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+Our Europe cycling Top 5
+
+
+
+
+
+
+
+
+
+
+Provence, France
+
+Ah…Provence, a place that’s always queued with a little wistful sigh. You’ll understand why when you ride through it. There’s the quiet country lanes outside Avignon, the vineyards and cellar doors of Chateauneuf du Pape, old Roman architecture like the Pont de Gard aqueduct, and even optional climbs like the epic Mont Ventoux (prepare your quads, people). But really this cycling tour isn’t so much about Yellow Jerseys or competitive racing. It flows to a more rural rhythm, a classic Provencal tempo: wandering the cobbled lanes of Orange, a spot of market shopping at Tarascon (try the local-grown sheep milk cheese) or strolling through the famous gardens of St Remy. Ah…Provence.
+
+
+
+
+
+
+
+
+
+
+Hvar, Croatia
+
+Take a pin and stick it in a map of Croatia’s Dalmatian Coast, and the chances are pretty good you’ll hit paradise. Of course the Istrian Peninsula is fast gaining a name for itself as a cycling hot-spot, but we prefer the celeb-dotted island of Hvar. We’ll load the bikes on the ferry from nearby Bol, dodge a few super yachts on the crossing, and then touch down in beautiful Jelsa. Hvar is what good screensavers are made of, and its inland lavender fields make a pretty spectacular backdrop for an afternoon’s cycling tour. Pedal your way to old Hvar Town, and watch the sun set over a glass of locally-grown Chardonnay and seafood pinched fresh from the Adriatic. Pure cycling bliss.
+
+
+
+
+
+
+
+
+
+
+Hédervár, Hungary
+
+The Danube is a river that throws up highlights every 10km or so, but for us it doesn’t get much better than the tiny village of Hédervár, a stone’s throw from the Slovak border. The ride into Hédervár is classic central Europe: sleepy villages hugging the riverbank, lowland forests and lush farmland and quiet meadows. Hédervár itself it way off the traditional tourist track (always a bonus) and its Baroque-style Hedervary Castle is a great example of 13th century Renaissance architecture (and not a queue in sight). From Hédervár we’ll ride through the countryside to an even smaller village – the charming town of Lipot – for a good night’s sleep and a hearty meal of goulash and Lángos (deep-fried flatbread). Good cycling tour fuel.
+
+
+
+
+
+
+
+
+
+
+Lucca, Italy
+
+Our Tuscan cycling tour features some pretty spectacular stretches of road, no mistake, but sometimes it’s the days off the bike that really stick in the memory. And trust us, you’ll remember the little Renaissance town of Lucca for a long, long time. It’s less busy than it’s nearby neighbour Pisa, and what it lacks in leaning towers it more than makes up for in shady promenades, cobbled lanes and photogenic piazzas just waiting to be explored on foot. Our tip? Stretch those sore quads with a little stroll through the Roman amphitheatre off the Via Fillungo, before heading to the Piazza dell’Anfiteatro to stuff your face with fresh pizza and razor-sharp espresso. The next day we’ll hop back on the bikes for a ride along the Serchio River to Pisa. Just another day on an Intrepid cycling tour.
+
+
+
+
+
+
+
+
+
+
+El Torcal Nature Reserve, Spain
+
+Cycling tours in Andalucía are an exercise in surprise. There’s always a little something around the next switchback. Case in point: the strange rock formations of the Sierra del Torcal mountain range. The limestone here has eroded into flat ‘pancake’-like shapes over the millennia, and it was actually part of an ancient ocean floor. We’ll cycle through the reserve before stopping for a picnic lunch at a shady spot we know. After an al fresco bite of fresh jamón and pescaito frito (fried fish) we’ll strap on the hiking boots and head up into the hills to check out the view. Your reward for all this hard work is a lovely 15km downhill ride to Antequera, just in time for a classic Andalusían sunset.
+
+
+
+
+
+
+
+Read more about cycling
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2017
+
+
+
+I’ve cycled through over 40 countries; here’s...
+
+
+
+
+
+
+I love cycling in the desert. I like the long and empty miles. I like riding into...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+A practical guide to cycling in Japan: things...
+
+
+
+
+
+
+On a bicycle, you’re free to pedal at your own pace. You can hop on and off to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 06, 2017
+
+
+
+Meet the man cycling 12,000km from Cairo to...
+
+
+
+
+
+
+Meet Charles Butler. He's cycling from Egypt to South Africa, raising money for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2017
+
+
+
+The beauty of discovering Myanmar by bike
+
+
+
+
+
+
+Myanmar by bike was pure magic. The undulating hills made for excellent cycling,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 14, 2017
+
+
+
+Cycling Vietnam: Hanoi to Ho Chi Minh City
+
+
+
+
+
+
+The view didn’t matter. We’d got there, without having to call on the support...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 23, 2016
+
+
+
+Want to go cycling in Tanzania? Now you can
+
+
+
+
+
+
+Tanzania might not be a classic cycling destination, if only because cheetahs are...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

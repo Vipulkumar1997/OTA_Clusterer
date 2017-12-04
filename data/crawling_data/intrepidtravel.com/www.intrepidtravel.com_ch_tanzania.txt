@@ -1,0 +1,6373 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanzania Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanzania tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Tanzania
+
+
+
+Home to 'the Big Five', a big mountain and a whole host of big experiences, Tanzania is a must for every African adventurer.
+
+
+Search for predators in the Ngorongoro Crater, chill out on Zanzibar's perfect beaches and climb the continent's highest peak. Tanzania offers outdoor experiences, supreme wildlife viewing, warm people and the chance to connect with ancient cultures.
+
+
+Top Tanzania travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+18 Dec 2017
+
+Zanzibar to Nairobi
+
+
+
+Zanzibar to Nairobi
+Stone Town to Nairobi
+
+
+
+
+
+
+
+
+
+×
+
+Zanzibar to Nairobi
+
+
+
+
+
+
+
+
+
+13
+
+
+FR2,025
+
+
+FR1,721
+
+
+
+
+View Trip
+
+
+
+
+
+
+18 Dec 2017
+
+Beaches, Game Parks & Gorillas
+
+
+
+Beaches, Game Parks & Gorillas
+Stone Town to Nairobi
+
+
+
+
+
+
+
+
+
+×
+
+Beaches, Game Parks & Gorillas
+
+
+
+
+
+
+
+
+
+28
+
+
+FR4,775
+
+
+FR4,059
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Vic Falls to Gorillas
+
+
+
+Vic Falls to Gorillas
+Victoria Falls to Nairobi
+
+
+
+
+
+
+
+
+
+×
+
+Vic Falls to Gorillas
+
+
+
+
+
+
+
+
+
+43
+
+
+FR6,295
+
+
+FR5,036
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Vic Falls to Stone Town
+
+
+
+Vic Falls to Stone Town
+Victoria Falls to Zanzibar
+
+
+
+
+
+
+
+
+
+×
+
+Vic Falls to Stone Town
+
+
+
+
+
+
+
+
+
+16
+
+
+FR1,465
+
+
+FR1,099
+
+
+
+
+View Trip
+
+
+
+
+
+
+11 Jan 2018
+
+Stone Town to Nairobi
+
+
+
+Stone Town to Nairobi
+Zanzibar to Nairobi
+
+
+
+
+
+
+
+
+
+×
+
+Stone Town to Nairobi
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,845
+
+
+FR1,568
+
+
+
+
+View Trip
+
+
+
+
+
+
+19 Jan 2018
+
+Stone Town to Vic Falls
+
+
+
+Stone Town to Vic Falls
+Stone Town to Victoria Falls
+
+
+
+
+
+
+
+
+
+×
+
+Stone Town to Vic Falls
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,440
+
+
+FR1,368
+
+
+
+
+View Trip
+
+
+
+
+
+
+20 Jan 2018
+
+Serengeti & Kilimanjaro
+
+
+
+Serengeti & Kilimanjaro
+Nairobi to Marangu
+
+
+
+
+
+
+
+
+
+×
+
+Serengeti & Kilimanjaro
+
+
+
+
+
+
+
+
+
+14
+
+
+FR4,280
+
+
+FR3,852
+
+
+
+
+View Trip
+
+
+
+
+
+
+20 Jan 2018
+
+Serengeti Trail
+
+
+
+Serengeti Trail
+Nairobi to Nairobi
+
+
+
+
+
+
+
+
+
+×
+
+Serengeti Trail
+
+
+
+
+
+
+
+
+
+8
+
+
+FR1,565
+
+
+FR1,409
+
+
+
+
+View Trip
+
+
+
+
+
+
+20 Jan 2018
+
+Kilimanjaro - Machame Route
+
+
+
+Kilimanjaro - Machame Route
+Marangu to Marangu
+
+
+
+
+
+
+
+
+
+×
+
+Kilimanjaro - Machame Route
+
+
+
+
+
+
+
+
+
+9
+
+
+FR3,535
+
+
+FR2,651
+
+
+
+
+View Trip
+
+
+
+
+
+
+25 Feb 2018
+
+Cycle Tanzania
+
+
+
+Cycle Tanzania
+Arusha to Arusha
+
+
+
+
+
+
+
+
+
+×
+
+Cycle Tanzania
+
+
+
+
+
+
+
+
+
+13
+
+
+FR3,110
+
+
+FR2,955
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Tanzania trips
+
+
+
+
+
+
+
+
+
+Serengeti Trail
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,408
+
+
+
+
+
+Roam the vast Serengeti National Park and Ngorongoro Crater, camp beside Lake Victoria...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Road to Zanzibar
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,115
+
+
+
+
+
+Experience the beauty of the Serengeti before taking to the Usambara Mountains and then...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Tanzania
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,764
+
+
+
+
+
+Discover the best of Tanzania on this unique cycling adventure. Safari through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas, Game Parks & Beaches
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR5,540
+
+
+
+
+
+Get closer to Africa’s incredible wildlife on this journey through Kenya, Uganda,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Masai Heartlands
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,365
+
+
+
+
+
+The wonders of Kenya and Tanzania unfold on this African adventure tour. Enjoy...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro - Marangu Route
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,337
+
+
+
+
+
+To hike Kilimanjaro is to conquer the highest peak in Africa. Travel up the mighty Mt...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Serengeti & Kilimanjaro
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR4,440
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beaches, Game Parks & Gorillas
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR4,058
+
+
+
+
+
+Get closer to Africa’s incredible wildlife on this journey through Kenya, Uganda,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Safari to Kilimanjaro - Machame Route
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR5,140
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Northbound
+
+
+
+
+
+
+
+
+
+64 Days
+
+
+From
+FR7,920
+
+
+
+
+
+Jump aboard this epic tour from Cape Town to Nairobi. From safaris in Tanzania and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of East Africa
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,195
+
+
+
+
+
+Step out onto the Serengeti and keep your eyes out for rhinos, lions, leopards and a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Vic Falls
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR3,790
+
+
+
+
+
+Explore the wilds of Africa on this action-packed adventure from the busy streets of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,710
+
+
+
+
+
+Hop aboard a sailing adventure across the spectacular Zanzibar archipelago, with visits...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya & Tanzania Safari Under Canvas
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR7,930
+
+
+
+
+
+Experience the wild wonders of Kenya and Tanzania on this trip that delivers adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Cape Town
+
+
+
+
+
+
+
+
+
+48 Days
+
+
+From
+FR6,340
+
+
+
+
+
+Explore Africa as you travel from Kenya to Cape Town through Tanzania, Zanzibar, Malawi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Vic Falls
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,595
+
+
+
+
+
+Explore the best of south and east Africa with this adventure from the spicy beaches of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro - Rongai Route
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Approach Mt Kilimanjaro from the north for the opportunity to see amazing mountainside...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro & Serengeti Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,435
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,770
+
+
+
+
+
+See Africa encompassed on a tour through Kenya, Uganda, Rwanda, Tanzania, Malawi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kenya
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,280
+
+
+
+
+
+Experience the exhilarating wild of Africa as you travel from Victoria Falls through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Zanzibar
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,595
+
+
+
+
+
+Travel from thundering Victoria Falls to the fragrant spice plantations of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro - Machame Route
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,864
+
+
+
+
+
+Travel to Tanzania and embark on an ascent of mighty Mt Kilimanjaro along the Machame...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Road to Zanzibar & Spice Islands Sailing Adventure
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR3,415
+
+
+
+
+
+With the Usambara Mountains, Ngorongoro Crater, Serengeti and Zanzibar some of the many...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tanzania Family Safari
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,930
+
+
+
+
+
+Safari with your family in East Africa on an unforgettable Kenya and Tanzania adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Zanzibar
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR3,870
+
+
+
+
+
+See Africa on this incredible overland adventure from South Africa to Tanzania. Soak up...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Cape Town
+
+
+
+
+
+
+
+
+
+39 Days
+
+
+From
+FR4,390
+
+
+
+
+
+Explore Africa on this wildlife-rich adventure from Tanzania to South Africa. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Kenya
+
+
+
+
+
+
+
+
+
+49 Days
+
+
+From
+FR6,285
+
+
+
+
+
+Explore Africa as you wind your way up from South Africa, through Namibia, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas to Vic Falls
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR6,400
+
+
+
+
+
+Take an epic East African adventure from Kenya to Zimbabwe. Safari in the Serengeti, go...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Nairobi
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,721
+
+
+
+
+
+Experience the best of East Africa on this road adventure. From Zanzibar to Nairobi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tanzania Safari under Canvas
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR4,290
+
+
+
+
+
+Bursting with wildlife, the national parks of Tanzania will have you continually...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Stone Town to Vic Falls
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Embrace the sights, sounds and culture of Africa on this eye-opening adventure from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Serengeti & Ngorongoro Safari
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR1,970
+
+
+
+
+
+Discover the wonders of Tanzania – the Ngorongoro Crater and Serengeti National Park –...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Stone Town to Nairobi
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,720
+
+
+
+
+
+The pristine beaches of Zanzibar, the lush slopes of the Usambara Mountains, and the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Tanzania
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,165
+
+
+
+
+
+Travel to Africa and visit the Serengeti, Kilimanjaro and Zanzibar. From Nairobi in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Experience
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR15,955
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls and then onto...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Gorillas
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,025
+
+
+
+
+
+This East Africa adventure tour travels from Zimbabwe to Kenya. Visit Zanzibar beaches,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Beach Break
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR570
+
+
+
+
+
+Take a relaxing break on the island of Zanzibar. Swim, snorkel or dive into azure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Zanzibar
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR2,580
+
+
+
+
+
+Travel through Botswana to the thundering Victoria Falls and on to to the fragrant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Stone Town
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Spot a host wildlife at the Luangwa River, gape at the mighty Victoria Falls, explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Gorillas
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR7,270
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Kenya
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR4,800
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Tanzania tour reviews
+
+
+Our Tanzania trips score an average of
+4.74 out of 5
+based on 625 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Gorillas, Game Parks & Beaches,
+October 2017
+
+Katherine Grigg
+
+This trip was incredible, from the socially and environmentally sustainable practices of the whole trip (this was super important us and we were not disappointed once) to the things you experience and the places and animals you get to see. We were in great hands and felt safe, secure and immersed in the experience the whole time. Ken, the cook, was exceptional and very attentive to making sure any dietary requirements are well met and everyone stayed healthy. David, the guide, made the whole trip run super smooth. Kose and Chris driving skills were exemplary. It is honestly worth it and would recommend it to anyone!
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Nairobi to Stone Town,
+November 2017
+
+Glenn Fraser
+
+Africa was a destination on my bucket list for a very long time. My daughter and I choose Intrepid after reading all the reviews on their website. I am now one of those reviews. It was an adventure of a lifetime and exceeded my expectations every step of the way. Intrepid was amazing.
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Tanzania trip reviews
+
+Our Tanzania trips score an average of
+4.74 out of 5
+based on 625 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Tanzania
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 02, 2017
+
+
+
+East Africa’s Wildebeest Migration: Everything...
+
+
+
+
+
+
+One of the biggest drawcards to visiting East Africa is the chance to see the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 04, 2017
+
+
+
+7 reasons why your next adventure should be in...
+
+
+
+
+
+
+With world-class beaches on dreamy Zanzibar and wildlife to wow the likes of David...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular places...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 30, 2017
+
+
+
+What I wish I knew before climbing Kilimanjaro
+
+
+
+
+
+
+One writer took on the Machame Route in Tanzania. Here's what she learned, plus...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 16, 2017
+
+
+
+The top destinations for travel in January
+
+
+
+
+
+
+From the jungles of Central America to the beaches of Southeast Asia, here's where...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 06, 2017
+
+
+
+Go with the Flo: Intrepid leader Florence talks...
+
+
+
+
+
+
+What's it like to travel through East Africa on a small group safari? Let's let an...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 04, 2017
+
+
+
+Island time: why beautiful Zanzibar deserves...
+
+
+
+
+
+
+Zanzibar's beaches are right up there with the best I have seen, but I found so...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 27, 2017
+
+
+
+Listen to the Swahili song that will get your...
+
+
+
+
+
+
+Intrepid mountain guide Samuel has climbed Kilimanjaro over 500 times. So when his...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 17, 2017
+
+
+
+The ultimate marriage test: Newlyweds tackle Mt...
+
+
+
+
+
+
+On the fourth day of our climb it was plainly in sight, so close we felt like we...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 20, 2017
+
+
+
+What it’s like to safari in the Ngorongoro Crater
+
+
+
+
+
+
+From the windy lookout point, Ngorongoro Crater isn’t quite what I expected. Under...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 11, 2017
+
+
+
+Climbing Kilimanjaro with blind athlete Dan Berlin
+
+
+
+
+
+
+We joined forced with Team See Possibilities once more to conquer Africa's tallest...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 02, 2016
+
+
+
+Moving Mountains: I climbed Kilimanjaro for...
+
+
+
+
+
+
+"If you want to go far, go together…" This was our mantra as we climbed...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2016
+
+
+
+Traveller stories: I climbed Kilimanjaro for...
+
+
+
+
+
+
+"If you want to go far, go together…" This was our mantra as we climbed Kilimanja...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 31, 2016
+
+
+
+Girl power: Pro footballers climb Mt...
+
+
+
+
+
+
+Physical challenges are nothing new to pro athletes Melissa Hickey and Katie...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 18, 2016
+
+
+
+These extraordinary women just climbed Mt...
+
+
+
+
+
+
+Something incredible happened this past week. 28 women from across rural Africa –...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 07, 2016
+
+
+
+Girl power: Pro footballers climb Mt...
+
+
+
+
+
+
+Physical challenges are nothing new to pro athletes Melissa Hickey and Katie Bren...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 04, 2016
+
+
+
+Meet the women who climbed Kilimanjaro for...
+
+
+
+
+
+
+Something incredible happened this past week. 28 women from across rural Africa –...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2016
+
+
+
+The 6 best destinations for solo travel
+
+
+
+
+
+
+Travelling alone doesn’t mean you have to travel alone. One of the best ways I’ve...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 23, 2016
+
+
+
+Want to go cycling in Tanzania? Now you can
+
+
+
+
+
+
+Tanzania might not be a classic cycling destination, if only because cheetahs are...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 23, 2016
+
+
+
+Introducing our brand new cycling trip in...
+
+
+
+
+
+
+Tanzania might not be a classic cycling destination, if only because cheetahs are...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+6 tips for booking your first cycling trip
+
+
+
+
+
+
+Pedalling sets the perfect pace - you travel slowly enough to enjoy your...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 06, 2016
+
+
+
+Traveller stories: a group photo competition in...
+
+
+
+
+
+
+A few days in, the group banter was as high as the Serengeti sun, but something e...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 24, 2016
+
+
+
+Be part of history on a game-changing trek up...
+
+
+
+
+
+
+If you're looking for Kili inspiration, this is it: the chance to climb Africa’s...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 05, 2016
+
+
+
+Machame or Marangu? We ask a Leader which...
+
+
+
+
+
+
+Technically, there’s only one way to climb Kilimanjaro: up. More specifically...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 19, 2016
+
+
+
+Spice island: 5 reasons Zanzibar should be on...
+
+
+
+
+
+
+It's time to follow the trade winds and make tracks to the spice island of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 27, 2015
+
+
+
+Love Africa? This is the Instagram feed you...
+
+
+
+
+
+
+The best experiences in travel are those that shred your expectations. And that is...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 09, 2015
+
+
+
+Life unplugged: 6 reasons your next family...
+
+
+
+
+
+
+An African family safari is on the once-in-a-lifetime end of the holiday spectrum....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 21, 2015
+
+
+
+You can climb Kilimanjaro and make a difference...
+
+
+
+
+
+
+Climbing mountains is fun. Climbing mountains for a good cause is even better.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 11, 2014
+
+
+
+8 African snacks you’ve just got to try
+
+
+
+
+
+
+In Africa, most action takes place on the streets and roadsides – people hawking...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanzania travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dar es Salaam
+
+
+
+
+Pitch a tent in the balmy port city of Dar es Salaam
+
+
+
+
+
+
+Road to Zanzibar, 13 days
+
+
+
+
+
+
+
+
+Gorillas, Game Parks & Beaches, 28 days
+
+
+
+
+
+
+
+
+Kenya to Vic Falls, 27 days
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro
+
+
+
+
+Climb to the summit of mighty Mount Kilimanjaro.
+
+Learn more about trekking Mount Kilimanjaro
+
+
+
+
+
+
+Kilimanjaro - Machame Route, 9 days
+
+
+
+
+
+
+
+
+Kilimanjaro - Rongai Route, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Ngorongoro Crater
+
+
+
+
+Have wildlife encounters on the floor of the Ngorongoro Crater.
+
+
+
+
+
+
+Road to Zanzibar, 13 days
+
+
+
+
+
+
+
+
+Gorillas, Game Parks & Beaches, 28 days
+
+
+
+
+
+
+
+
+The Masai Heartlands, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Tanzania
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Tanzania, you may find yourself travelling by:
+
+
+
+
+
+
+
+Overland vehicle
+
+Get close to the action aboard a customised safari vehicle, designed to withstand the bush and allow greater visibility of the wildlife.
+
+
+Serengeti Trail
+
+Gorillas, Game Parks & Beaches
+
+Cycle Tanzania
+
+
+
+
+
+
+
+
+
+
+Ferry
+
+Take in views of the stunning African coast while travelling from Dar el Salaam to Zanzibar aboard a ferry.
+
+
+Beaches, Game Parks & Gorillas
+
+Gorillas, Game Parks & Beaches
+
+Best of East Africa
+
+
+
+
+Accommodation in Tanzania
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Tanzania you may find yourself staying in a:
+
+
+
+
+
+
+
+Mountain Hut
+
+Sleep in huts dotted along the trail while trekking to the summit of majestic Mount Kilimanjaro.
+
+
+Best of Tanzania
+
+Serengeti & Kilimanjaro
+
+
+
+
+
+
+
+
+
+
+Lodge
+
+Experience a little comfort while staying in cosy lodges in some of Tanzania’s most impressive national parks and reserves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tailor-made trips in Tanzania
+
+
+
+
+
+
+
+
+
+
+Sailing tours in Zanzibar
+
+
+
+
+
+
+
+
+
+
+Trekking Mt Kilimanjaro
+
+
+
+
+
+
+
+
+
+
+
+Tanzania holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Dodoma
+
+Population:
+
+42.7 million
+
+Language:
+
+Swahili, English
+
+Currency:
+
+TZS
+
+Time zone:
+
+(GMT+03:00) Nairobi
+
+Electricity:
+
+Type D (Old British 3-pin) Type G (Irish/British 3-pin)
+
+Dialing code:
+
++255
+
+
+
+
+
+
+
+
+
+Best time to visit Tanzania
+
+
+
+
+
+
+×
+
+Best time to visit Tanzania
+
+
+
+
+Tanzania’s climate changes with its diverse landscapes, so expect variances in weather in different parts of the country. Generally, January and February are the high season for travel in Tanzania as the hot, dry weather is generally considered to be the most pleasant. The best time to visit the Serengeti is late June to October when the animals are most abundant. Expect afternoon downpours during the wet season (from March to May); however, during this time you’ll find fewer tourists in Tanzania so you won’t have to compete with crowds.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Tanzania’s population is a vibrant mix of religions, races and cultures. Depending on what area you’re travelling in, be prepared to see a variety of cuisines, customs and dress, which directly reflect the diversity of the population. The island of Zanzibar is predominately Muslim; Maasai are largely found in the North along with other indigenous tribes whose beliefs are largely animist; and Christians, Hindus and other minority groups can be found throughout the country. Although most Tanzanians may not have many material possessions, travellers can expect a warm welcome and generosity from most locals. Greeting styles and language differ according to ethnic or tribal group but universally, visitors can expect to receive a warm welcome and a smile from most.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Things to try in Tanzania
+
+1. Seafood
+
+Seafood-lovers will adore the range of fresh seafood on offer in Dar es Salaam and Zanzibar. From fragrant fish curries to barbecued shrimp and lobster, the waterfront markets and restaurants are full of wonders from the sea.
+
+2. Indian Cuisine
+
+With a significant Indian population, Tanzanian cities have a fair share of Indian restaurants. Whether you’re visiting a budget cafe or more extravagant restaurant, Indian cuisine is generally a good option for vegetarians as there will always be a few meat-free options to choose from.
+
+3. Mandazi
+
+These sweet, fried breads can be found at markets and street stalls throughout East Africa, and make a delicious, cheap snack. Although they can be flavoured differently, the ones made in Zanzibar usually feature fresh spices and coconut.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Bordered by Burundi,
+Kenya
+,
+Malawi
+,
+Mozambique
+,
+Rwanda
+,
+Uganda
+,
+Zambia
+and the Democratic Republic of Congo, Tanzania has one of the most diverse natural environments in the world. While travelling through Tanzania, you’ll be able to see enormous gorges, sprawling savanna, ancient islands, dense woodlands, snow-capped mountain ranges, vast lakes, colonial towns and modern cities. With the Indian Ocean occupying the eastern side of Tanzania, this country truly does have the best of both worlds. Home to Africa’s highest peak and some of the most famous nature reserves in the world, Tanzania also has eclectic cities and vibrant villages to boast of. Tanzania’s former capital, Dar es Salaam, is a modern metropolis with a colonial flavour while the regional centre of Arusha has retained a village feel. Zanzibar is in a category of its own with its ancient cobbled streets and unique, heritage-filled buildings.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Home to some of the earliest human remains in the world, the land now known as Tanzania could possibly be one of the first lands to have been inhabited by early humans. Human habitation can be traced back 10,000 years to a time when people lived a hunter-gatherer lifestyle before outside influences arrived bringing with them organised agriculture and cattle farming. Visitors to Tanzania should head to Olduvai Gorge (known as the 'Cradle of Mankind') if interested in the early history of Tanzania and, in fact, the world.
+
+
+Recent History
+
+Europeans only arrived in the 15th century, via the East Coast. Zanzibar was first controlled by the Portuguese, then by Arabian traders interested in easy access to the Indian Ocean that allowed trade with Asia and beyond. This was also a time when the human slave trade was a lucrative business. The island of Zanzibar became a pivotal place for this trade, with more than 100,000 slaves passing through during this period.
+
+Mainland Tanzania came under the influence of German, Belgian and British colonisers in the 1800s, who explored and mapped the interior of the country. German colonisers brought infrastructure, agriculture and Christianity to Tanzania, but faced resistance from many tribes who fought against being forced into labour and desperately wanted to keep their land and preserve their traditional way of life. During World War I, Germany lost the colony to the British, heralding a new era of colonial rule for the region. More recently, Tanzania adopted its constitution in 1977, held its first multi-party election in 1995 and had its first female presidential candidate in 2005.
+
+
+
+
+
+
+
+
+Top 10 Iconic Landscapes of Tanzania
+
+
+
+
+
+
+×
+
+Top 10 Iconic Landscapes of Tanzania
+
+
+
+
+Top 10 Iconic Landscapes of Tanzania
+
+1. Serengeti National Park
+
+The grassy savannah and open plains of Serengeti epitomise Africa at its wildest. Head out on safari in the early morning to search out Africa's 'Big Five'; buffaloes, lions, rhinos, leopards and elephants all call this park home.
+
+2. Mt Kilimanjaro
+
+Trekking to Mt Kili's peak has to be a major highlight of any trip to Africa. Hike past ice fields, grasslands and the odd cacti to the roof of
+Africa
+for the most amazing views on the continent.
+
+3. Zanzibar
+
+Arabic, Persian, African and Indian cultures mingle with the scent of fresh spices on this exotic island. Relax on perfect beaches, sail turquoise waters aboard a dhow or head inland to explore tropical fruit orchards.
+
+4. Ngorongoro Crater
+
+This massive crater is 20km wide and home to enormous concentrations of African wildlife. Go out on safari in search of them and camp on the edge of the crater for incredible views of the animals roaming below.
+
+5. Dar es Salaam
+
+Balmy Dar es Salaam is a modern city with ancient origins. Colonial architecture sits beside a picturesque harbour, making it a great place to see Tanzania in a new light.
+
+6. Tengeru
+
+Make yourself at home in this typical farming village. The locals are welcoming and will teach you how to milk a cow, feed the chickens or make the perfect cup of lemongrass tea.
+
+7. Olduvai Gorge
+
+Located near Ngorongoro Crater, this gorge is said to be the cradle of mankind - the place we all began. Pay respects to our ancient ancestors in this fascinating archaeological site.
+
+8. Lake Manyara
+
+There's plenty of wildlife to search out in this national park including tree-climbing lions. Yes, they climb trees! Take a safari to search them out as well as the rest of Africa's 'Big Five'.
+
+9. Karatu
+
+Leave the animals behind for some village R and R in Karatu. Set in the highlands and surrounded by coffee plantations, this town is the ideal spot to mingle with locals and try a cup of African coffee.
+
+10. Usambara Mountains
+
+These lush green mountains date back 25 million years and offer endless walking trails. Grab a guide, get hiking and learn about the unique flora and fauna that live here.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Tanzania has a wealth of markets to explore, from the large markets of the big cities to the small, rural village markets throughout the countryside.
+
+It's also a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Tanzania
+
+1. Spices
+
+Tanzania has a huge number of spice plantations, particularly in Zanzibar. Perhaps bring home some fresh nutmeg, cinnamon and turmeric to embark on your own East African culinary adventure when you get home.
+
+2. Handicrafts
+
+Woven basketry, colourful batik cloth, intricate woodcarvings and tribal art can be found in Tanzania’s many markets and make good souvenirs or gifts for friends back home.
+
+3. Jewellery
+
+For silver and gold jewellery with Arabic flair, Zanzibar has plenty of unique pieces in the markets, galleries and antique shops of Stone Town.
+
+
+
+
+
+
+
+
+Festivals and Events in Tanzania
+
+
+
+
+
+
+×
+
+Festivals and Events in Tanzania
+
+
+
+
+Sauti Za Busara Festival
+
+Zanzibar’s Stone Town and surrounding areas swell with Swahili music and dance in this vibrant celebration of East African culture. Stay until the last day where the festivities head to the beach and include craft, cuisine and entertainment.
+
+Festival of the Dhow Countries
+
+East Africa’s largest film, music and arts festival takes over Zanzibar each year in July. Film screenings, exhibitions and craft classes offer entertainment during the day, while beach parties are a fun way to interact with locals at night.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Tree Where Man was Born
+
+Peter Matthiessen
+
+Antonia Saw the Oryx First
+
+Maria Thomas
+
+By the Sea
+
+Abdulrazak Gurnah
+
+Memoirs of an Arabian Princess from Zanzibar
+
+Emily Ruete
+
+North of South: an African Journey
+
+Shiva Naipaul
+
+
+
+
+
+
+
+
+Tanzania travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Tanzania?
+
+
+
+
+
+
+
+
+
+TANZANIA:
+Australia: Yes - Visa required
+Belgium: Yes - Visa required
+Canada: Yes - Visa required
+Germany: Ye - Visa required
+Ireland: Yes - Visa required
+Netherlands: Yes - Visa required
+New Zealand: Yes - Visa required
+South Africa: Yes - Visa required
+Switzerland: Yes - Visa required
+United Kingdom: Yes - Visa required
+USA: Yes - Visa required
+It is recommended you purchase your visa in advance at any Diplomatic or Consulate Mission of the United Republic of Tanzania abroad. The cost is approximately US$100 depending on nationality and should take 1 business day. At the present time you do not require a multi entry visa to Kenya, Tanzania and Uganda due to an agreement between the three countries (eg. if you exit Kenya to Tanzania you can re-enter Kenya on the same visa). However if your trip visits Tanzania twice after a visit to a country other than those listed above, you may need to purchase two visas.
+For the purpose of the visa application you can use the following address:
+Kibo Palace Hotel
+PO Box 2523
+Old Moshi Road
+Arusha - Tanzania
+Phone: +255 272544472
+It is also possible to obtain a tourist's visa for a single entry at any one of the following main entry points to Tanzania, subject to the fulfilment of all immigration and health requirements:
+-Dar es Salaam International Airport
+-Zanzibar International Airport
+-Kilimanjaro International Airport (KIA)
+-Namanga Entry Point (Tanzania-Kenya border point)
+-Kasumulu Border crossing
+-Isebania Border crossing
+
+
+
+
+
+
+
+Is tipping customary in Tanzania?
+
+
+
+
+
+
+
+
+
+Tipping isn’t mandatory in Tanzania but a little generosity will be received positively, especially when considering the low wages that Tanzanian service workers are typically paid. Setting aside a small amount for porters, guides and drivers is wise, as is leaving spare change or rounding up the bill at restaurants.
+
+
+
+
+
+
+
+What is the internet access like in Tanzania?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access the internet quite easily in the internet cafes of Tanzania’s large cities, but limited to no access should be expected in regional and rural areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Tanzania?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in Tanzania’s large cities and towns, but less so in rural and mountainous areas. Ensure you have global roaming activated before leaving home if you wish to use your mobile phone.
+
+
+
+
+
+
+
+What are the toilets like in Tanzania?
+
+
+
+
+
+
+
+
+
+Squat/pit toilets are the standard in Tanzania, except for western-style flushable toilets that are sometimes available in large hotels, tourist attractions and other modern buildings. Carry your own supply of soap and toilet paper, as they are rarely provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Street snack = 1,000 TZS
+Bottle of beer = 2,000 TZS
+Plate of food from a local eatery = 3,000 TZS
+Dinner in an international restaurant = 10,000-20,000 TZS
+
+
+
+
+
+
+
+Can I drink the water in Tanzania?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Tanzania. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found; some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Tanzania?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by large hotels and western-style restaurants but not by smaller vendors. Ensure you have adequate cash to cover purchases not able to be made on credit.
+
+
+
+
+
+
+
+What is ATM access like in Tanzania?
+
+
+
+
+
+
+
+
+
+ATMs are easily found in large cities and urban centres but are rarer in small towns, rural areas and villages. Be sure to have other payment methods available when venturing out of the big cities as ATMs aren't always an option.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Tanzania?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Tanzania?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+12 Jan Zanzibar Revolutionary Day
+
+7 Apr Sheikh Abeid Amani Karume Day
+
+14 Apr Good Friday
+
+17 Apr Easter Monday
+
+26 Apr Union Day
+
+1 May Labour Day
+
+25 Jun Iddi El Fitry / End of Ramadan
+
+26 Jun Iddi El Fitry Holiday
+
+7 Jul Maonyesho ya Saba Saba
+
+8 Aug Wakulima ya Nane Nane / Peasants' Day
+
+1 Sep Iddi El Haji / Feast of Sacrifice
+
+14 Oct Mwalimu Julius Nyerere Day
+
+30 Nov The Prophet's Birthday
+
+9 Dec Republic Day
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+Please note these dates are for 2017. For a current list of public holidays in Tanzania go to:
+http://www.worldtravelguide.net/tanzania/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Tanzania
+
+Be considerate of Tanzania’s customs, traditions, religions and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+Help protect endangered species by choosing not to buy ivory, coral or animal products.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+Be aware that many coastal communities in Tanzania are quite conservative. Beach attire is fine for when swimming but topless sunbathing is not. Don’t forget to cover up when leaving the beach and entering towns or urban areas.
+
+Tanzania has a large Muslim population, particularly in Zanzibar and Dar es Salaam, so bear in mind that Ramadan is the fasting month for all Muslims. During this month, no food, drink or smoking is permitted during daylight hours. While non-Muslims aren't expected to fast, it's recommended to try to avoid eating, drinking or smoking in public during daylight hours.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Tanzania, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Amani Children's Home
+
+This inspirational home located under the shadow of Mt Kilimanjaro offers homeless and orphaned children education, health care, training, food, security and love.
+
+Image supplied by Amani Children's Home.
+
+
+
+
+
+
+
+
+
+
+
+Education East Africa
+
+Education East Africa has been committed to improving the education of Tanzanian children since 1994. The project's current focus is on providing young people with vocational training in motor mechanics and carpentry at its new Motor Mechanics Training Centre.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

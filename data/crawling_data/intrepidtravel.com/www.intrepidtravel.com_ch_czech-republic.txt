@@ -1,0 +1,3694 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czech Republic Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czech Republic tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Czech Republic
+
+
+
+The Czech Republic is an exquisite reflection of Europe’s cultural and architectural diversity.
+
+
+With over 2000 castles, keeps and ruins, it boasts one of the highest densities of architectural history in the world – so much so, Hollywood regularly rolls into town when it needs to shoot ‘Ye Olde Europe’.  There's no better place to step back in time than on the cobbled streets of Prague’s Old Town, where the scent of chestnut and linden trees fills the air on a warm summer’s eve.
+
+
+Our Czech Republic trips
+
+
+
+
+
+
+
+
+
+Best of Central Europe
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,075
+
+
+
+
+
+The Best of Central Europe tour combines popular sights with unique experiences while...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Central Europe
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,825
+
+
+
+
+
+Travel through Germany, Czech Republic, Austria and Hungary and experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin to Venice
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,935
+
+
+
+
+
+Discover Central Europe from Germany to Italy. Travel from happening Berlin to ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Venice
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,650
+
+
+
+
+
+Elaborate architecture and exceptional cuisine, legendary landscapes and live history...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vienna to Dubrovnik
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR3,910
+
+
+
+
+
+Travel from Vienna to Dubrovnik and discover Austria, the Czech Republic, Poland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Journey through Central Europe and Romania
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR3,470
+
+
+
+
+
+Enjoy a fascinating tour of Central and Eastern Europe through Austria, Slovakia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin to Rome
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,860
+
+
+
+
+
+Embark on a tour of Europe as you travel from Berlin to Rome visiting Germany, Poland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,810
+
+
+
+
+
+Visit Spain, France, Germany, the Czech Republic and Italy on this epic journey that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Venice
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR4,700
+
+
+
+
+
+Travel through numerous European countries starting in Spain and France, through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Rome
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,760
+
+
+
+
+
+Embark on an all-European adventure from Madrid  to Rome, stopping off in the grand...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Czech Republic tour reviews
+
+
+Our Czech Republic trips score an average of
+4.76 out of 5
+based on 135 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Best of Central Europe,
+October 2017
+
+Jennifer Ridgway
+
+Go with the flow & enjoy
+
+Review submitted 22 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Berlin to Venice,
+September 2017
+
+Tracy Woodward
+
+Intrepid offers opportunity to see many countries in short time frame. Making great use of time for varied interests accomodating all needs. Enjoyed the art extravaganza visiting artists galleries reflecting cultural heritage history. Enjoyed the flexibility of time to go walk about and explore cultural sites. Opportunities to rest relax with group friends at cafes castles gslleries
+
+Review submitted 18 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Czech Republic trip reviews
+
+Our Czech Republic trips score an average of
+4.76 out of 5
+based on 135 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Czech Republic
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2017
+
+
+
+Prague in 48 hours: plan your visit
+
+
+
+
+
+
+Some cities are so ornamental, so historic and beautiful, that it’s hard to look...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 04, 2016
+
+
+
+4 European countries where the US travel dollar...
+
+
+
+
+
+
+One thing Europe  hasn’t always had the best rep for: being a cheap vacation...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 20, 2015
+
+
+
+The day the music died: Eurovision’s 13 worst...
+
+
+
+
+
+
+In honour of this year’s entrants (and in the hopes they will learn from past...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czech Republic travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prague
+
+
+
+
+Step back in time while admiring the grandeur of Prague Castle
+
+
+
+
+
+
+Best of Central Europe, 15 days
+
+
+
+
+
+
+
+
+Barcelona to Venice, 29 days
+
+
+
+
+
+
+
+
+Madrid to Rome, 43 days
+
+
+
+
+
+
+
+
+
+
+
+Kutna Hora
+
+
+
+
+Take a day trip to see the heritage-listed churches of Kutna Hora
+
+
+
+
+
+
+Berlin to Venice, 15 days
+
+
+
+
+
+
+
+
+Best of Central Europe, 15 days
+
+
+
+
+
+
+
+
+Barcelona to Venice, 29 days
+
+
+
+
+
+
+
+
+
+
+
+Cesky Krumlov
+
+
+
+
+Stroll the cobblestone alleyways of medieval Cesky Krumlov
+
+
+
+
+
+
+Highlights of Central Europe, 9 days
+
+
+
+
+
+
+
+
+Best of Central Europe, 15 days
+
+
+
+
+
+
+
+
+Vienna to Dubrovnik, 29 days
+
+
+
+
+
+
+
+
+
+
+
+Prague
+
+
+
+
+Satiate your thirst with one of the multitude of beers on offer
+
+
+
+
+
+
+Highlights of Central Europe, 9 days
+
+
+
+
+
+
+
+
+Berlin to Venice, 15 days
+
+
+
+
+
+
+
+
+Berlin to Rome, 22 days
+
+
+
+
+
+
+
+
+
+
+
+
+Czech Republic holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Prague (population 1.2 million )
+
+Population:
+
+10.2 million
+
+Language:
+
+Czech
+
+Currency:
+
+CZK
+
+Time zone:
+
+(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague
+
+Electricity:
+
+Type C (European 2-pin) Type E (French 2-pin, female earth)
+
+Dialing code:
+
++420
+
+
+
+
+
+
+
+
+
+Best time to visit Czech Republic
+
+
+
+
+
+
+×
+
+Best time to visit Czech Republic
+
+
+
+
+The Czech Republic enjoys a pleasant central European climate, which means the summers are hot and dry, and the winters are often a wonderland of snow-covered cobblestones. If you’re after the more balmy weather, then June through to August is perfect. Although, this is the high season for tourists, so expect to be darting between the crowds. The cooler spring months of April and May are usually sun-filled, and you’ll find the attractions less busy. For those who want to experience the quintessential ‘winter wonderland’, why not head over from December through to February - there’s even a strong chance of a white Christmas.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Geographically, the Czech Republic is nestled at the core of the central European scrum, landlocked between
+Poland
+,
+Slovakia
+,
+Austria
+and
+Germany
+. Often referred to as an eastern European country due to its historical communist and Eastern Bloc influences, the Czech people however, are prompt to remind us that this is very much central
+Europe
+- and that Prague is in fact further west than Vienna!
+
+The west of the Czech Republic is known as Bohemia, and is surrounded by low European mountains that stem from the Alps. The foothills lead into lush rolling plains and beautiful green countryside. In the east, Moravia is blessed with a variety of dramatic landscapes, with hilly countryside punctuated by the famous limestone cave system - the Moravský Kras.
+
+
+
+
+
+
+
+
+Top 10 Czech Beer Moments
+
+
+
+
+
+
+×
+
+Top 10 Czech Beer Moments
+
+
+
+
+1. Beer Spa
+
+The Czech Republic is famous for both its spa towns (Karlovy Vary and Marianske Lasne) and its beers. Enjoy a combination of the two in the country’s first beer spa, where you can submerge yourself in a specially brewed bath full of your favourite brew.
+
+2. Brewery Wars
+
+Visit the epicentre of Czech beer in the town of Ceske Budejovice (Budweis in German). Decide for yourself which of the two breweries is master of the genre - Budvar or Burgerbrau. After a long legal stoush over the Budweiser name, the Czech makers have retained the right to call their beers 'Budweiser' and limited the American brand's naming rights in some European countries.
+
+3. Brew with a View
+
+With an incredible view of Prague’s Old Town, visit Letna Hill, Prague’s very own beer gardens, where cheap beer is sold from kiosks for you to enjoy from the comfort of a park bench.
+
+4. Travelling Ales
+
+Ride the tram pub. That’s right, the Czech Republic has its very own tram pub - the Prvni Pivni Tramway.
+
+5. Festival Flavours
+
+Head to one of the Czech Republic’s many beer festivals – pivni slavanosti. Held on almost every weekend of the year in various towns and cities, breweries will celebrate their particular tipple and provide some apt entertainment alongside the beer-swigging.
+
+6. Tank Tipples
+
+Discover the sweet taste of the world’s only unpasteurised variety of Pilsner. Sold in special ‘tank’ pubs, where kegs are replaced by high-volume brewing tanks, treat yourself to this Czech Republic speciality.
+
+7. Savour Something Strong
+
+Push your beer-drinking limits with the Czech Republic’s specialty strength beers. Try U Medviku’s X-33, where the alcohol level of 12.6% will have you pushing the limits of sobriety.
+
+8. Gallery Gulps
+
+Take a trip to Prague’s beer gallery where one can peruse the aisles that house over 200 different varieties.
+
+9. Pass the Beer Glass
+
+The Czech Republic is famous for its incredible glass and crystal, so why not head to the Novosad Glassworks in Harrachov, where the glass-blowers are lucky enough to have their own brewery on site.
+
+10. Beds n' Beer
+
+At the end of all this beer drinking, you’ll need a suitable place to rest your weary head. So why not camp down in one of the Czech Republic’s brewery hotels and finish off with a night-cap in front of the fire.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Book of Laughter and Forgetting
+
+Milan Kundera
+
+Bohemia in History
+
+Mikulas Teich
+
+Closely Watched Trains
+
+Bohumil Hrabal
+
+My Golden Trades
+
+Ivan Klima
+
+The Engineer of Human Souls
+
+Josef Skvorecky
+
+Sister City Silver
+
+Jachym Topol
+
+
+
+
+
+
+
+
+Czech Republic travel FAQs
+
+
+
+
+
+Is tipping customary in the Czech Republic?
+
+
+
+
+
+
+
+
+
+A tip of 5-10% is expected for good service in the restaurants and cafes of the Czech Republic, particularly in well-frequented tourist areas like Cesky Krumlov and Prague.
+
+
+
+
+
+
+
+What is the internet access like in the Czech Republic?
+
+
+
+
+
+
+
+
+
+The Czech Republic's cities and tourist centres have internet access available in internet cafes and hotels. Less internet access is available in rural and remote areas, so prepare to disconnect when leaving the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in the Czech Republic?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in the Czech Republic. Ensure you have global roaming activated with your carrier if you wish to use your phone.
+
+
+
+
+
+
+
+What are the toilets like in the Czech Republic?
+
+
+
+
+
+
+
+
+
+The Czech Republic's cities usually have flushable toilets. Carry your own supply of toilet paper and soap, as these aren't always provided, and be expected to pay a small fee when visiting public toilets.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+A pint of beer = 25-50 CZK
+Metro pass = 40 CZK
+Street food snack = 40 CZK
+Lunch at a café = 100-120 CZK
+Dinner at a restaurant = 150- 300 CZK
+
+
+
+
+
+
+
+Can I drink the water in the Czech Republic?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink in the Czech Republic. For environmental reasons, try to avoid bottled water. Ask your leader where filtered water can be found as some hotels provide this.
+
+
+
+
+
+
+
+Are credit cards widely accepted in the Czech Republic?
+
+
+
+
+
+
+
+
+
+Major credit cards are usually accepted by large shops, hotels and restaurants, although smaller vendors and market stalls often only accept cash. Be sure to carry multiple methods of payment as credit cards aren't always an option everywhere in the Czech Republic.
+
+
+
+
+
+
+
+What is ATM access like in the Czech Republic?
+
+
+
+
+
+
+
+
+
+ATMs are easily found in the large cities and airports, although are less common in rural and remote areas. When travelling out of the city, be prepared by having enough cash, as ATMs aren't always available.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in the Czech Republic?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Czech Republic?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+14 Apr Good Friday
+
+17 Apr Easter Monday
+
+1 May May Day
+
+8 May Liberation Day
+
+5 Jul St Cyril and St Methodius
+
+6 Jul Jan Hus Day
+
+28 Sep Statehood Day
+
+28 Oct Independence Day
+
+17 Nov Freedom and Democracy Day
+
+24 Dec Christmas Eve
+
+25 Dec Christmas Day
+
+26 Dec 2nd Day of Christmas
+
+Please note these dates are for 2017. For a current list of public holidays in Czech Republic go to:
+http://www.worldtravelguide.net/czech-republic/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Czech Republic
+
+Be considerate of the Czech Republic’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+
+
+
+
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

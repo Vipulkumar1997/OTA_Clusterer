@@ -1,0 +1,3096 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UK Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United Kingdom tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+United Kingdom
+
+
+
+
+Four bewitching cultures with tens of thousands of years of history between them, the UK is a dynamic nation awash with distinct landscapes, a fascinating history and a diverse and multi-cultural society.
+
+
+Our United Kingdom trips
+
+
+
+
+
+
+
+
+
+Northern & Southern Ireland
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,050
+
+
+
+
+
+Take a tour of Dublin, Killarney and Belfast with stops at iconic natural landmarks...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on United Kingdom
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+5 times technology ruined my trip
+
+
+
+
+
+
+Technology has changed the way we live our day-to-day lives and (for worse or for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United Kingdom travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edinburgh
+
+
+
+
+Wander the atmospheric streets of Edinburgh
+
+
+
+
+
+
+
+
+
+Iona
+
+
+
+
+Discover the grave of Macbeth on the Isle of Iona
+
+
+
+
+
+
+Northern & Southern Ireland, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Belfast
+
+
+
+
+Lose yourself in the cosmopolitan energy of Belfast
+
+
+
+
+
+
+Northern & Southern Ireland, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Giant’s Causeway
+
+
+
+
+Explore the basalt columns and wild coastline of the Giant’s Causeway
+
+
+
+
+
+
+
+
+
+
+United Kingdom holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+London
+
+Population:
+
+60.9 million
+
+Language:
+
+English, Welsh, Gaelic
+
+Currency:
+
+GBP
+
+Time zone:
+
+(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London
+
+Electricity:
+
+Type D (Old British 3-pin) Type G (Irish/British 3-pin) Type M (see D)
+
+Dialing code:
+
++44
+
+
+
+
+
+
+
+
+
+Best time to visit United Kingdom
+
+
+
+
+
+
+×
+
+Best time to visit United Kingdom
+
+
+
+
+The UK shines from June to August, though there’s never any guarantee that their summer is full of sunshine and warmth. The days are long, tourist crowds are abundant and the country wakes up from its dark slumber and celebrates – a lot. Spring and autumn can be cool and wet but with some sunny days, and the days are still long enough to enjoy this country’s diverse and beautiful scenery. But winter – December to February - brings short days, grey skies and sometimes snow, though this is more often in Scotland and England’s northern counties.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The United Kingdom came into being in 1707 with the political union of England and Scotland (Wales was classed under the Kingdom of England). In 1800, the Act of Union with the Kingdom of Ireland formed the United Kingdom of Great Britain and Ireland. The last major change was in 1922, when the Anglo-Irish Treaty saw the Irish Free State form and secede from the UK, and Northern Ireland becoming part of the UK (though it wasn’t until 1927 that the UK formerly changed its name to United Kingdom of Great Britain and Northern Ireland). Though united, each country had their own laws, churches and education systems.
+
+Recent History
+
+The 18th and 19th centuries were notable for the UK’s countless wars with France, colonisation in the Caribbean, the loss of colonies in North America, the gain of Canada, the discovery of Australia, the second wave of the British Empire in India, Asia and Africa, the beginnings of the industrial revolution, the abolishment of slavery and the long and successful reign of Queen Victoria. Needless to say, this is but a snapshot.
+
+The first half of the 20th century was marred by two devastating world wars, which not only devastated the population but the wealth of the country. It also saw the crumbling of the British Empire, with independence being sought and won in Ireland in 1922 and India in 1947, and by the 1980s Britain had withdrawn from all of its colonies. In 1997 devolution was established in Scotland and Wales.
+
+
+
+
+
+
+
+
+Top 5 British Subcultures
+
+
+
+
+
+
+×
+
+Top 5 British Subcultures
+
+
+
+1. Mods
+
+Stylish in tailored suits and classy shoes, mods’ hey-day was the early to mid sixties. They rode around on vespas, listened to modern jazz, were attracted to late night cafés and got into rumbles with rockers.
+
+2. Skinheads
+
+Originally nothing to do with hooligans, racists and fascism, skinheads were born in the 1960s in working class areas of the UK. Skinheads fashioned themselves on Jamaican rude boy style, listened to ska and wore tight jeans, white t-shirts, braces, checked shirts and cherry red docs.
+
+3. Glam rockers
+
+Glam rockers wore high shoes, outrageous clothes, dramatic makeup, lavish hairstyles and plenty of things that glittered. This subculture rose to prominence in the early 1970s and faded out about 5 years later, but went on to influence punk, goths and new romantics. Think David Bowie’s androgynous phase and Garry Glitter.
+
+4. Punks
+
+Though not originating in the UK, when punk hit the UK’s shores in the mid 70s, it was hard to miss. UK punks were on the whole more theatrical than those in the US. Armed with anti-establishment views, mohawks, ripped clothes held together by safety pins (anti-fashion), piercings and thrashing around to punk rock, punk caused a big stir, which died down not long after it exploded.
+
+5. Goths
+
+An offshoot of the post-punk scene, goth became popular in the early 1980s. Although there are many styles of goth, they are characterised by wearing dark clothes, heavy make-up and dark hair.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Wolf Hall
+
+Hilary Mantel
+
+Down and Out in Paris and London
+
+George Orwell
+
+Bridget Jones’s Diary
+
+Helen Fielding
+
+Pride and Prejudice
+
+Jane Austen
+
+Notes from a Small Island
+
+Bill Bryson
+
+Trainspotting
+
+Irvine Welsh
+
+
+
+
+
+
+
+
+United Kingdom travel FAQs
+
+
+
+
+
+Do I need a visa to travel to United Kingdom
+
+
+
+
+
+
+
+
+
+UNITED KINGDOM
+Australia: No - Not required
+Belgium: No - Not required
+Canada: No - Not required
+Germany: No - Not required
+Ireland: No - Not required
+Netherlands: No - Not required
+New Zealand: No - Not required
+South Africa: Yes - in advance
+Switzerland: No - Not required
+UK: No - Not required
+USA: No - Not required
+
+
+
+
+
+
+
+Is tipping customary in the United Kingdom?
+
+
+
+
+
+
+
+
+
+Tipping isn’t expected but a tip for good service is always appreciated. Rounding up a taxi fare is commonplace.
+
+
+
+
+
+
+
+What is the internet access like in the United Kingdom?
+
+
+
+
+
+
+
+
+
+Internet access is good in the UK, with internet cafes and Wi-Fi hotspots easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in the United Kingdom?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in most parts of the UK, except perhaps in remote areas. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in the United Kingdom?
+
+
+
+
+
+
+
+
+
+Modern, flushable toilets are the standard in the UK.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Pint of beer = £4
+Simple cafe lunch = £10
+Nice meal in a restaurant = £30
+
+
+
+
+
+
+
+Can I drink the water in the United Kingdom?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink unless otherwise marked.
+
+
+
+
+
+
+
+Are credit cards accepted widely in the United Kingdom?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores and hotels in the UK. Smaller cafes and shops may not accept credit cards, so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in the United Kingdom?
+
+
+
+
+
+
+
+
+
+ATMs are very common in the UK, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in the United Kingdom?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in the United Kingdom?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+17 Mar St Patrick's Day
+
+14 Apr Good Friday
+
+17 Apr Easter Monday
+
+1 May Early May Bank Holiday
+
+29 May Spring Bank Holiday
+
+12 Jul Battle of the Boyne (Orangemen's Day)
+
+28 Aug Summer Bank Holiday
+
+30 Nov St. Andrew's Day
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+Please note these dates are for 2017. For a current list of public holidays in United Kingdom go to:
+http://www.worldtravelguide.net/united-kingdom/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for United Kingdom
+
+Be considerate of the UK’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive and supports the local community.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

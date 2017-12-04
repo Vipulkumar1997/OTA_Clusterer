@@ -1,0 +1,3779 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portugal Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portugal tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Portugal
+
+
+
+Gifted with a temperate Mediterranean climate, a bounty of beaches and a rich heritage, Portugal casually flies under the European travel radar.
+
+
+Home to culinary greats, effortlessly cool cities, charming colonial towns and magical stone villages, travellers will find that this enduring historic heavyweight still packs a punch.
+
+
+Our Portugal trips
+
+
+
+
+
+
+
+
+
+Cruising Spain, Portugal and Morocco (Lisbon to Malaga)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,877
+
+
+
+
+
+Climb aboard the Harmony G for an unforgettable cruising adventure in Portugal, Spain...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Marrakech
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,295
+
+
+
+
+
+Travel from Madrid to Marrakech on a sangria, sun and spice infused tour across Spain,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Spain and Portugal
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,930
+
+
+
+
+
+Travel through Spain and Portugal. Visit Madrid, Granada, Seville, the Algarve, Lisbon,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spain, Portugal & Morocco
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR2,995
+
+
+
+
+
+Visit Spain, Portugal and Morocco on a tour from Madrid to Marrakech. See Lisbon, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Portugal Real Food Adventure, featuring Galicia
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Delight your tastebuds with port and jamon on this whirlwind tour of Galicia and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Spain, Portugal and Morocco - Malaga to Lisbon
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,877
+
+
+
+
+
+Climb aboard the Harmony G and set sail for Spain, Portugal and Morocco on this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Azores and mainland Portugal
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,935
+
+
+
+
+
+Discover the rolling hills of Faial, cliffs of Sao Jorge and secret vineyards of Pico...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Spain and Portugal
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,475
+
+
+
+
+
+Travel through Spain and Portugal. Visit Madrid, Granada, Seville, the Algarve, Lisbon,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Azores Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,410
+
+
+
+
+
+Travel to the Azores Islands on a unique family adventure. Swim with dolphins off the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Paris to Marrakech
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR5,150
+
+
+
+
+
+Travel to France, Spain, Portugal and Morocco on a trip from Paris to Marrakech. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spain & Portugal Real Food Adventure
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR4,595
+
+
+
+
+
+Taste your way from Barcelona to Santiago de Compostela, through La Rioja and San...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Portugal tour reviews
+
+
+Our Portugal trips score an average of
+4.82 out of 5
+based on 22 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure - Galicia & Portugal,
+September 2017
+
+Judith O'Gorman
+
+Loved this intensive trip of Galicia food and wine for a very good price.  Amazing seafood,ham, cheese , olives  red wine , vino verde  and of course port.What more could you want ? Also  enough walking to burn some of it off !!!!!
+
+Review submitted 11 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure - Galicia & Portugal,
+September 2017
+
+Deborah Persselin
+
+Intrepid provides small group, real life cultural experiences of the country you are visiting with local guides who are knowledgeable about the history of the region, the language, the people and their customs.   Free time to explore on your own is given and encouraged.
+
+Review submitted 11 Oct 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Portugal trip reviews
+
+Our Portugal trips score an average of
+4.82 out of 5
+based on 22 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Portugal
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 25, 2017
+
+
+
+Want to visit Lonely Planet’s 2018 Best in...
+
+
+
+
+
+
+Looking for adventure in 2018? Look no further.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+6 of Europe’s top ‘Not Hot’ spots for 2018
+
+
+
+
+
+
+Get there before everyone else does.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 22, 2017
+
+
+
+The Azores: Europe’s secret adventure paradise
+
+
+
+
+
+
+They call it the Hawaii of the mid-Atlantic. But, really, this spellbinding region...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 04, 2017
+
+
+
+How to bring the flavour of your travels home...
+
+
+
+
+
+
+Beat the post-holiday blues by recreating your travels in your own kitchen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 15, 2017
+
+
+
+The best family holidays to book in 2017
+
+
+
+
+
+
+We're a firm believer in the fact that family travel can please both parents and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2017
+
+
+
+You should go to Portugal just for the food....
+
+
+
+
+
+
+Despite the curious looks people give us when we say we went to Portugal for our...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 17, 2017
+
+
+
+Why Porto is the new hottest destination in...
+
+
+
+
+
+
+Although all-too-often overshadowed by the popular capital, Porto is a colorful,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 04, 2016
+
+
+
+4 European countries where the US travel dollar...
+
+
+
+
+
+
+One thing Europe  hasn’t always had the best rep for: being a cheap vacation...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portugal travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coimbra
+
+
+
+
+Admire the elegant architecture in the ancient, winding streets of Coimbra
+
+
+
+
+
+
+Madrid to Marrakech, 15 days
+
+
+
+
+
+
+
+
+Spain, Portugal & Morocco, 24 days
+
+
+
+
+
+
+
+
+Paris to Marrakech, 29 days
+
+
+
+
+
+
+
+
+
+
+
+Algarve
+
+
+
+
+Relax on the golden beaches of the Algarve
+
+
+
+
+
+
+Paris to Marrakech, 29 days
+
+
+
+
+
+
+
+
+Spain, Portugal & Morocco, 24 days
+
+
+
+
+
+
+
+
+Explore Spain and Portugal, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Porto
+
+
+
+
+Sample some local port in the city where it was invented, then wander the majestic bridges and cobbled streets of Portugal’s most romantic city.
+
+
+
+
+
+
+Spain & Portugal Real Food Adventure, 17 days
+
+
+
+
+
+
+
+
+Portugal Real Food Adventure, featuring Galicia, 8 days
+
+
+
+
+
+
+
+
+Classic Spain and Portugal, 22 days
+
+
+
+
+
+
+
+
+
+
+
+
+Portugal holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Lisbon (population 678,000)
+
+Population:
+
+10.7 million
+
+Language:
+
+Portuguese
+
+Currency:
+
+EUR
+
+Time zone:
+
+(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++351
+
+
+
+
+
+
+
+
+
+Best time to visit Portugal
+
+
+
+
+
+
+×
+
+Best time to visit Portugal
+
+
+
+
+Good news - Portugal is one of the warmest European countries. Yearly temperature averages are about 15°C (55°F) in the north and 18°C (64°F) in the south. Spring and summer months are usually warm and sunny, with July and August averaging maximums between 35°C and 40°C (86°F - 95°F) in the interior of the country, 30°C and 35°C in the north and occasionally 45°C (113°F) in the south. The months of May, June and September are considered some of the best times to see Portugal as the weather is usually fine (yet not too hot) and the attractions are less crowded than during the peak months of July and August. Autumn and winter are typically rainy and windy, yet sunny days aren't rare either.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+With a long stretch of coastline along the North Atlantic Ocean, Portugal's location on the Iberian Peninsula translates to beautiful cliff beaches, rocky islands and volcanic lakes. Sharing an extensive land border with
+Spain
+, Portugal's north is more mountainous than the south, with the River Tagus running through the centre of the country from Spain through to the western coast and Atlantic Ocean. With more than 35% percent of land being forested, Portugal offers a nice mix of rolling plains, woodlands, mountain ranges and beaches.
+
+
+
+
+
+
+
+
+Top 5 Delectable Dishes of Portugal
+
+
+
+
+
+
+×
+
+Top 5 Delectable Dishes of Portugal
+
+
+
+
+1. Caldeirada
+
+This stew packed with several different types of fish is one of Portugal's most popular and enduring dishes. Expect sardines, cod, haddock, tuna and mackerel, doused in white wine and olive oil, served with a chunk of crusty bread. Simple but effective!
+
+2. Carne de Porco á Alentejana
+
+The popular Portuguese version of surf and turf hails from the Alentejo region but can be found served all throughout Portugal. Featuring pork and clams as the hero ingredients, white wine, paprika and coriander add flavour that is difficult to resist.
+
+3. Feijoada
+
+Brazil's national dish was actually invented by the Portuguese and this stew still endures as a common favourite in Portugal. Featuring beans, pork or beef and vegetables, this hearty stew is typically served with rice, although regional differences make this dish a different proposition every time.
+
+4. Entrecosto com Mel
+
+Meat lovers will salivate over these succulent pork ribs marinated in honey, garlic and liquor. Served with a side of chilli sauce, this oven-roasted feast is perfect for a decadent celebration.
+
+5. Arroz Doce
+
+For dessert, this traditional Portuguese rice pudding dish should satisfy those with a sweet tooth. Typically flavoured with citrus and cinnamon, it's a fresh, creamy, zesty, sugary delight.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Portuguese: A Modern History
+
+Barry Hatton
+
+Prince Henry the Navigator
+
+Sir Peter Russell
+
+The Book of Disquiet
+
+Fernando Pessoa
+
+The First Global Village: How Portugal Changed the World
+
+Martin Page
+
+Baltasar and Blimunda
+
+Jose Saramago
+
+
+
+
+
+
+
+
+Portugal travel FAQs
+
+
+
+
+
+Is tipping customary in Portugal?
+
+
+
+
+
+
+
+
+
+Rounding up the bill or leaving spare change in restaurants should be sufficient when travelling in Portugal. Feel free to tip more for good service, but this isn’t expected of you.
+
+
+
+
+
+
+
+What is the internet access like in Portugal?
+
+
+
+
+
+
+
+
+
+Internet access is good in Portugal as internet cafes and Wi-Fi hotspots are easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Portugal?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in most parts of Portugal. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Portugal?
+
+
+
+
+
+
+
+
+
+Western-style flushable toilets are the norm in Portugal. Please be aware that sometimes a small fee is required to access public toilets. Bring your own supply of toilet paper, soap or hand sanitizer as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Short city tram or bus ride = 1-2 Euro
+Can of soft drink = 1.50-2 Euro
+Cup of coffee = 1-2 Euro
+Beer in a café or bar = 2-3 Euro
+Simple lunch in a café = 10 Euro
+Dinner and a wine in a restaurant = 20-30 Euro
+
+
+
+
+
+
+
+Can I drink the water in Portugal?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink in Portugal unless marked otherwise.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Portugal?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores and hotels. Smaller cafes and shops may not accept credit cards, so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Portugal?
+
+
+
+
+
+
+
+
+
+ATMs are very common in Portugal, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Portugal?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Portugal?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+14 Apr Good Friday
+
+16 Apr Easter Sunday
+
+25 Apr Liberation Day
+
+1 May Labour Day
+
+10 Jun National Day
+
+15 Jun Corpus Christi
+
+15 Aug Assumption of the Blessed Virgin Mary
+
+5 Oct Republic Day
+
+1 Nov All Saints' Day
+
+1 Dec Independence Restoration Day
+
+8 Dec Immaculate Conception
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Portugal go to:
+http://www.worldtravelguide.net/portugal/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Portugal
+
+Be considerate of Portugal’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

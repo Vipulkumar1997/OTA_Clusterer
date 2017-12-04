@@ -1,0 +1,5299 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Japan Tours & Holidays | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Japan tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Japan
+
+
+
+It’s hard to sum up Japan in a single sentence, but we’ll give it a try:
+
+
+A lazer-guided, umami-flavoured, Hello Kitty fun machine where samurais battle Shiba dogs in naked thermal hot springs. If you’ve taken a holiday in Japan, you’ll know that that sentence makes a surprising amount of sense. This is a country that’s famously hard to read, so a local-led group tour is a pretty good idea. We’ll introduce you to Soba masters in Tokyo, lead you through tuna auctions and sumo stables, stay with Buddhist monks in Koya San and sing bad karaoke ‘til the wee hours in Osaka (all while sipping sake and gorging on market fresh sashimi). You ready? Kanpai!
+
+
+Top Japan travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+17 Dec 2017
+
+Japan Family Holiday
+
+
+
+Japan Family Holiday
+Tokyo to Kyoto
+
+
+
+
+
+
+
+
+
+×
+
+Japan Family Holiday
+
+
+
+
+
+
+
+
+
+11
+
+
+FR3,740
+
+
+FR2,992
+
+
+
+
+View Trip
+
+
+
+
+
+
+13 Jan 2018
+
+Japan: Land of the Rising Sun
+
+
+
+Japan: Land of the Rising Sun
+Tokyo to Kyoto
+
+
+
+
+
+
+
+
+
+×
+
+Japan: Land of the Rising Sun
+
+
+
+
+
+
+
+
+
+13
+
+
+FR4,115
+
+
+FR3,704
+
+
+
+
+View Trip
+
+
+
+
+
+
+17 Feb 2018
+
+Japan Express
+
+
+
+Japan Express
+Tokyo to Kyoto
+
+
+
+
+
+
+
+
+
+×
+
+Japan Express
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,775
+
+
+FR1,686
+
+
+
+
+View Trip
+
+
+
+
+
+
+5 Apr 2018
+
+Southern Japan Experience
+
+
+
+Southern Japan Experience
+Osaka to Osaka
+
+
+
+
+
+
+
+
+
+×
+
+Southern Japan Experience
+
+
+
+
+
+
+
+
+
+12
+
+
+FR4,860
+
+
+FR3,888
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Japan trips
+
+
+
+
+
+
+
+
+
+Japan: Land of the Rising Sun
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR3,703
+
+
+
+
+
+Experience the best of this fascinating country on a comprehensive tour of Japan. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Japan Express
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,775
+
+
+
+
+
+From neon lights in Tokyo city to temples in Kyoto, this express tour of Japan will...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Japan
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR4,520
+
+
+
+
+
+Journey from beautiful Kyoto to the bright lights of Tokyo and explore temples,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Japan Real Food Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR4,445
+
+
+
+
+
+Travel from Tokyo through Kyoto to Kyoto, learning traditional recipes, seeing the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Japan Experience
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,596
+
+
+
+
+
+Get off the tourist track in Japan and discover a beautiful region south west of Osaka
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Japan
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR8,370
+
+
+
+
+
+Make the utmost of this fascinating country on an adventure from its exiting futuristic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Japan
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR5,275
+
+
+
+
+
+Experience the best of this fascinating country on a comprehensive cycling tour of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Japan Family Holiday
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,992
+
+
+
+
+
+Enjoy a taste of the orient on this remarkable family adventure in Japan. From dazzling...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Japan: Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,925
+
+
+
+
+
+Step into futuristic Tokyo, travel back in time to the ancient postal towns along the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Japan Winter Festivals
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Follow the Winter Festival Trail around Japan’s northernmost island. See the world’s...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Japan tour reviews
+
+
+Our Japan trips score an average of
+4.69 out of 5
+based on 382 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Japan Express,
+November 2017
+
+Ewelina Dziedzic
+
+Please clarify with the company, what's included in the trip price, and what is not. There always seems to be confusion and misunderstanding. Pack light.  You will be hauling your bags. Be open, and take part in group activities. You can make wonderful friendships. Don't be shy, afraid to ask questions.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Classic Japan,
+November 2017
+
+melissa szkil
+
+This was our first time traveling with Intrepid, or any other tour group.  We loved the pace of the trip, which let us see so much more than we could have otherwise.  Our guide was very organised and looked after us. We loved the food! Transport was amazing, with precision timing! Travel light and expect a lot of walking - at least 5 miles/day, usually more.  Hiroshima, Koyasan, Kyoto, and Tokyo are must-see.  Tsumago and Matsumoto might be better in the spring.  Visiting Japan in the fall was fantastic though - highly recommended!
+
+Review submitted 29 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Japan trip reviews
+
+Our Japan trips score an average of
+4.69 out of 5
+based on 382 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Japan
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2017
+
+
+
+Hidden gems: 9 less explored parts of popular...
+
+
+
+
+
+
+With the vast amount of Santorini Insta-spam flying around, you probably feel as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 17, 2017
+
+
+
+Do you really need a rail pass in Japan?
+
+
+
+
+
+
+A Rail Pass can be the ticket to saving money when you’re travelling around Japan,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2017
+
+
+
+7 new destinations to explore with Intrepid in...
+
+
+
+
+
+
+At Intrepid, we love exploring little-known corners of the globe. And in 2018, we...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2017
+
+
+
+Cycling Japan: from Osaka to Tokyo
+
+
+
+
+
+
+With onsen, exercise, and freedom to escape the crowds amidst a beautiful and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 20, 2017
+
+
+
+The top 10 places you should visit in Japan
+
+
+
+
+
+
+Everything in this amazing land is so different from Western norms, you’re bound...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+A practical guide to cycling in Japan: things...
+
+
+
+
+
+
+On a bicycle, you’re free to pedal at your own pace. You can hop on and off to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 09, 2017
+
+
+
+What it’s like to travel in Japan as a solo...
+
+
+
+
+
+
+It’s 4pm in Tokyo and I’m deep underground, a puzzled expression on my face.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 07, 2017
+
+
+
+A local’s guide to visiting Japan on a budget
+
+
+
+
+
+
+After 8 years based here, I can say that Japan rivals many nations with its budget...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 20, 2017
+
+
+
+A winter retreat to Takayama
+
+
+
+
+
+
+Our Shinkansen bullet train to Takayama rushes through the bellies of mountains,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 08, 2017
+
+
+
+6 unexpected surf destinations around the world
+
+
+
+
+
+
+There are some epic breaks that don’t require a three thousand dollar flight or...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 04, 2017
+
+
+
+How to bring the flavour of your travels home...
+
+
+
+
+
+
+Beat the post-holiday blues by recreating your travels in your own kitchen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 16, 2017
+
+
+
+Why train travel is the one experience you won...
+
+
+
+
+
+
+So what’s so good about Japanese trains anyway? Answer: just about everything.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 05, 2017
+
+
+
+Convenience store food: Japan’s world-beating...
+
+
+
+
+
+
+Convenience store fare? Food from vending machines? Isn’t travel all about eating...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 01, 2017
+
+
+
+5 traditional alleyways in Tokyo where locals...
+
+
+
+
+
+
+What many people don’t know is that behind Tokyo’s tall buildings and neon lights...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 22, 2017
+
+
+
+Your complete guide to one day in Hiroshima
+
+
+
+
+
+
+The port city of Hiroshima will forever be associated with the tragic events of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 09, 2017
+
+
+
+Inside Tokyo’s weird and wonderful themed cafes
+
+
+
+
+
+
+We’ve explored the length and breadth of Tokyo to find the very best themed cafes...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 30, 2017
+
+
+
+Where to go for the best cherry blossom viewing...
+
+
+
+
+
+
+Cherry blossom season is undoubtedly one of the best times to visit Tokyo. Here...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 20, 2017
+
+
+
+Miyajima Island: A picture-perfect day trip in...
+
+
+
+
+
+
+Pity the man who missed out on Miyajima while they were in Japan. It’s not a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2017
+
+
+
+Why Osaka is the best city in Japan for foodies
+
+
+
+
+
+
+Osaka's most famous dishes are okonomiyaki (cabbage pancake) and takoyaki (octopus...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 10, 2017
+
+
+
+Japan in one week: The ultimate guide
+
+
+
+
+
+
+The island nation of Japan is a smorgasbord of sights, sounds, smells, and sensory...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 31, 2016
+
+
+
+Why Kanazawa is Japan’s best kept secret
+
+
+
+
+
+
+Find out why this fishing town, on the east coast of central Honshu Island, is the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2016
+
+
+
+The 6 best destinations for solo travel
+
+
+
+
+
+
+Travelling alone doesn’t mean you have to travel alone. One of the best ways I’ve...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+6 tips for booking your first cycling trip
+
+
+
+
+
+
+Pedalling sets the perfect pace - you travel slowly enough to enjoy your...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 26, 2016
+
+
+
+The Top 9 mind-blowing travel videos of all time
+
+
+
+
+
+
+Consume at your own risk. May in extreme cases lead to adventures. You have been...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 26, 2016
+
+
+
+Travel season guide: when to visit our...
+
+
+
+
+
+
+Travel. It's all in the timing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 05, 2016
+
+
+
+Why Japan does whisky bars better than anyone
+
+
+
+
+
+
+We’re in Kyoto’s Gion district, and the Geisha Hour is about to begin. Time to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 10, 2016
+
+
+
+Our guide to the perfect day in Tokyo
+
+
+
+
+
+
+Got 24 hours to explore the world's biggest city? Challenge accepted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 06, 2016
+
+
+
+16 photos that prove Japan looks better on film
+
+
+
+
+
+
+I really enjoy taking my trusty Minolta on trips overseas. I love the grainy look...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 30, 2016
+
+
+
+Taste of Tokyo: 13 Japanese snacks you’ve just...
+
+
+
+
+
+
+Japanese snacks aren't limited to sushi. Break out the chopsticks, we're going on...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 21, 2016
+
+
+
+Flavours of Nikkei: lifting the lid on Peru’s...
+
+
+
+
+
+
+When I think of Peruvian cuisine, I think traditional. Juicy lomo saltado spiked...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 19, 2016
+
+
+
+Thinking about travelling to Japan? Watch. This...
+
+
+
+
+
+
+Finally, someone has done Japan justice on film. If this doesn't make you want to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 12, 2016
+
+
+
+Cherry blossoms flooding this Tokyo lake will...
+
+
+
+
+
+
+What's prettier than a tree laden with cherry blossoms? This.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 26, 2016
+
+
+
+How to be the friend everyone wants to travel with
+
+
+
+
+
+
+Here are our top tips for being MVP of your holiday (and life).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 14, 2016
+
+
+
+10 global dishes that are definitely outside...
+
+
+
+
+
+
+Farewell, comfort zone. It was nice knowing you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 07, 2016
+
+
+
+It’s official, guys: here are the 6 hottest...
+
+
+
+
+
+
+Bring out the bucket list: here are six destinations that are gonna be hot, hot,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 30, 2015
+
+
+
+Chef and author Ivan Orkin shares the secret to...
+
+
+
+
+
+
+In a city in where ramen enjoys cult-like status, Ivan Orkin's achievements would...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 23, 2015
+
+
+
+The naked truth: a non-nudist’s guide to using...
+
+
+
+
+
+
+Okay, I’ll admit it, I was nervous about using a Japanese onsen. I’m not a big...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 14, 2015
+
+
+
+Monk life: what to expect from your Japanese...
+
+
+
+
+
+
+If you’d ask me to picture the quintessential Japanese Shinto building, this would...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 28, 2015
+
+
+
+Fortune rookie: one man’s fateful journey...
+
+
+
+
+
+
+“Nothing will go well, so you always feel uneasy.” Wish these words, the dragon...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 17, 2015
+
+
+
+Our leader lifts the lid on Tokyo’s six hottest...
+
+
+
+
+
+
+if you’ve only got a few days to explore, you need a local edge to find Tokyo's...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 05, 2015
+
+
+
+Ichi, ni, san! A photography guide to Japan
+
+
+
+
+
+
+Japan is a photogenic country, but there are certain spots you should check out if...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 04, 2015
+
+
+
+Feeling soba: a step-by-step cooking class from...
+
+
+
+
+
+
+all it takes is an old man, a bowl, a rolling pin, a huge knife thing, Mr Miyagi...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2014
+
+
+
+Soup is for life, not just for lunch: five...
+
+
+
+
+
+
+Everyone knows soup is a great lunch option, but it's often overlooked for dinner....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2014
+
+
+
+These five dumplings prove the theory that...
+
+
+
+
+
+
+Intrepid's in-house foodologist, James Shackell, sets out to prove a theory as old...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2014
+
+
+
+Backstage pass: 8 of the best festivals in Asia
+
+
+
+
+
+
+Shakespeare once said, ‘The sauce to meat is ceremony; meeting were bare without...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2014
+
+
+
+6 Asian hotels you really have to see to believe
+
+
+
+
+
+
+What is it about Asia that throws up strange and unusual places to rest your head?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 25, 2014
+
+
+
+Why Japan is a total flirt (in 112 seconds)
+
+
+
+
+
+
+It's true, Japan is a bit of a flirt. She lures you in with promises of crazy...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 20, 2014
+
+
+
+Where to find cherry blossoms in Japan
+
+
+
+
+
+
+Travelling to Japan? Try and time your visit with the cherry blossom season. Even...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Japan travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tokyo
+
+
+
+
+Walk the busy city streets of Tokyo
+
+
+
+
+
+
+Japan: Land of the Rising Sun, 13 days
+
+
+
+
+
+
+
+
+Japan Real Food Adventure, 12 days
+
+
+
+
+
+
+
+
+Japan Express, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Sapporo
+
+
+
+
+Experience the charms of the Sapporo Winter Festival
+
+
+
+
+
+
+
+
+
+Kyoto
+
+
+
+
+Delve into geisha culture in Kyoto
+
+
+
+
+
+
+Japan Express, 9 days
+
+
+
+
+
+
+
+
+Japan: Land of the Rising Sun, 13 days
+
+
+
+
+
+
+
+
+Japan Family Holiday, 11 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Japan
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Japan, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bullet train
+
+Travelling at speeds of up to 300 km/ph, Japan's Shinkansen (bullet trains) are known for their punctuality, safety and comfort - an awesomely efficient way to get around Japan.
+
+
+Japan: Land of the Rising Sun
+
+
+
+
+Accommodation in Japan
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Japan you may find yourself staying in a:
+
+
+
+
+
+
+
+Monastery
+
+Be immersed in deep spirituality and serenity while staying in a monastery in Japan. Meditate, contemplate and enjoy vegetarian food prepared by monks during this unforgettable experience.
+
+
+Japan Real Food Adventure
+
+
+
+
+
+
+
+
+
+
+Ryokan
+
+Experience a taste of Japanese hospitality while staying in a traditional ryokan. These small inns are filled with character and ensure a memorable stay.
+
+
+Japan Express
+
+Japan: Land of the Rising Sun
+
+Japan Real Food Adventure
+
+
+
+
+Japan holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city
+
+Tokyo (population 12.5 million)
+
+Population
+
+127.2 million
+
+Language
+
+Japanese
+
+Currency
+
+JPY
+
+Time zone
+
+(GMT+09:00) Osaka, Sapporo, Tokyo
+
+Electricity
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code
+
++81
+
+
+
+
+
+
+
+
+
+Best time to visit Japan
+
+
+
+
+
+
+×
+
+Best time to visit Japan
+
+
+
+
+March, April and May are excellent months to holiday in Japan and, consequently, are also the busiest. Since it's springtime, the weather is usually fine and beautiful cherry blossoms are in full bloom.
+
+September, October and November are also great months to visit Japan on holidays, as the days are warm, but not too humid, and the autumn colours make the gardens and countryside look amazing.
+
+Winter, while cold, offers great conditions for skiing, snowboarding, going to snow festivals and admiring the stunning mountain scenery. The summer months can be quite humid but tourist areas are generally quieter and there are many fun festivals and fireworks displays to enjoy.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early history
+
+Japanese civilisation can be traced back thousands of years to prehistoric times. Over the centuries, Japan alternated between feudal, empirical and government rule, with each period birthing different styles of art, architecture and ways of living. Agriculture, particularly rice-growing, was a very important part of life in early Japan, and craftsmanship like metal working was also highly developed and respected in Japan's early days.
+
+Recent history
+
+Over the decades, Tokyo has grown to become an economic powerhouse and one of the most cosmopolitan, modern cities in the world. Enduring an earthquake in 1923 that caused widespread damage and civilian fatalities, as well as several bombings during World War II, Tokyo remains a global city focused on trade, tourism and technological advances.
+
+The Japanese Army were very aggressive during World War II, playing an important part in the war and therefore suffered many losses. Many troops were lost but the most notable losses were the civilians of Hiroshima and Nagasaki - two cities which were destroyed by atomic bombs dropped by the United States towards the end of the war. After World War II Japan slowly found its feet, creating a strong economy based on manufacturing and telecommunications. Enjoying decades of prosperity and abundance, Japanese arts, culture and cuisine flourished, allowing the rest of the world to see and enjoy Japan's unique heritage.
+
+Emperor Hirohito passed away in 1989 after reigning for many decades. This signified the end of the Showa era and the beginning of the Heisei era. In 1998, Japan hosted the Winter Olympics and fast became known as one of the hottest new places to enjoy snow sports.
+
+Currently, Japan is still in recovery from the devastating earthquake and tsunami of 2011. But with large parts of the country unaffected, Japan is still a very special place to visit.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Located in the Pacific Ocean and a part of
+Asia
+, the island nation of Japan is an archipelago of more than 6,000 islands, with the main islands being Hokkaido, Honshu, Kyushu and Shikoku. Lying on the Pacific Ring of Fire, Japan is prone to destructive earthquakes, tsunamis and volcanic activity.
+
+Japan has much forested, mountainous terrain, unsuitable for agriculture and development, so much of the population live in the coastal cities, which creates overpopulation. Japan is one of the most densely populated countries in the world and as a result, most people are used to living in very small spaces and with a heavy reliance on public transport. Although life is fast-paced and crowded in cities like Tokyo and Osaka, rural areas typically feature low-density, traditional housing and a slower pace of life.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Shopping in Japan is fun, but expensive! In cities like Tokyo there are loads of quirky stores and funky galleries showcasing the works of independent fashion designers and gadget-creators. From the outlandish to the kitsch, you're guaranteed to find loads of colourful clothing and edgy art that you won't be able to find elsewhere.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Japan
+
+1. Kimonos
+
+This quintessential Japanese souvenir can be worn on special occasions back at home or hung on the wall as an interesting decorative piece
+
+2. Paper Lanterns, Kites and Fans
+
+Japanese paper goods make great, relatively inexpensive souvenirs. Choose from high quality, traditionally-made, colourful kites or delicate rice paper lanterns.
+
+3. Electronics
+
+Shops in Japan are bursting with the latest tech gadgets. Before buying, be sure to check that they are compatible for use at home.
+
+4. Fashion
+
+Have fun with the amazing diversity of popular street culture fashion available in Japan. Vibrant, brash and sometimes bizarre - find something that no one back at home will be wearing.
+
+5. Anime Paraphernalia
+
+Japanese anime is riding a wave of popularity in the West, so why not pick up a book, magazine, t-shirt or print for yourself?
+
+
+
+
+
+
+
+
+Top 10 culinary experiences of Japan
+
+
+
+
+
+
+×
+
+Top 10 culinary experiences of Japan
+
+
+
+
+1. Get in the spirit
+
+Learn about Japan's favourite fermented spirit on a visit to a sake brewery in Takayama. See the production process then sip on the end results. Kanpai!
+
+2. Tasty treasures of the sea
+
+Be amazed by the variety of seafood on offer at Tokyo's Tsukiji Fish Market. This is the world's largest fish market - it would be hard to find fresher sushi and sashimi anywhere else.
+
+3. Ceremonial tea
+
+Be exposed to the careful ritual of a traditional tea ceremony in Kyoto. Green tea is delicately prepared by a kimono-clad host and served amid flower arrangements, tatami mats and calligraphy scrolls.
+
+4. Snack attack
+
+Japan has more vending machines per capita than anywhere else in the world. With ice cream, instant ramen, cold beer, sake and hot meals all available, just try leaving Tokyo without buying something from one.
+
+5. Liquid gold
+
+Pay a visit to the Sapporo Brewery for a tour of the brewery and museum exhibitions. That's enough to make anyone thirsty, so be sure to sip on a cool beer at the gigantic Beer Hall afterwards.
+
+6. Osaka overindulgence
+
+Head to Osaka's premier 'eat street', the famously flamboyant Dotonbori district. Restaurants specialising in crab, ramen, beef and takoyaki (fried octopus balls) line the streets - this is the perfect place to feast on food, and landmarks.
+
+7. Meat-free morsels
+
+Enjoy simple vegetarian fare prepared by young monks while staying at a monastery in Koya-san. This is a truly unique dining experience you won't forget anytime soon.
+
+8. Pancake pig out
+
+Don't leave Hiroshima without trying the local speciality of Okonomiyaki. This savoury pancake is layered with cabbage, meat, noodles, egg and sauce, and depending what restaurant you visit - sometimes you can cook it yourself.
+
+9. Use your noodle
+
+Head to a local restaurant and slurp a delicious bowl of steaming ramen. Choose from crab, pork, chicken or miso and top with ginger, garlic, sesame seeds, seaweed or corn.
+
+10. Soba... so good
+
+Find out how a staple of Japanese cuisine is created by learning to make soba noodles from scratch in Tokyo. A rewarding experience for your mind, and your stomach.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Japan is a country that lives life between two worlds. Older rituals and traditions like kendo, bonsai, geisha, tea ceremonies and sumo coexist with contemporary attitudes and technological advances. The modern generation - who are a decidedly online, high-tech, fashion-forward crew - have adapted to a fast-paced world and generally work long hours, keep up with fashion trends and display a more ostentatious image in public. With a culture based on modesty, respect and discipline, it's no wonder that older, more traditional Japanese people are often at odds with this more flamboyant, modern generation.
+
+Despite the difference in attitude and appearance, many traditions and ways of living endure in modern Japan. No matter what age, etiquette is important to the Japanese and guides people when eating, travelling, working and interacting with others. Traditions and rituals like tea ceremonies, bowing, kendo, geisha and sumo endure, as do festivals that have been in existence for centuries. Japan holds many festivals all over the country, ranging from large national celebrations to small regional fairs. Cherry blossom festivals - Hanami - are celebrated all over Japan in spring and other traditional festivals and celebrations can be stumbled upon in small towns and cities alike.
+
+Although modern cuisine and convenience foods have infiltrated Japanese society, authentic Japanese cuisines like bento boxes, sushi and ramen remain ever popular. The contradictions of Japan are endless - kimonos and karaoke, contemporary art and calligraphy, bonsai and bullet trains - the modern collides with the ancient everyday, and makes for a truly fascinating place to holiday.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Food lovers will surely be satisfied with a holiday in Japan. With a focus on fresh, seasonal produce, prepared meticulously and presented beautifully, dining in Japan is a memorable experience.
+
+Things to try in Japan
+
+1. Sake
+
+Consumed for centuries, this fermented rice wine is usually served in small cups or saucers, and is drunk at restaurants and bars as well as during ceremonial rituals and special occasions. Sake has quite a high alcohol content - you've been warned.
+
+2. Sushi & sashimi
+
+Being an island nation, Japan has a bounty of seafood to sample. Try fresh sushi and sashimi made with tuna, salmon, squid, eel or octopus, served with soy, ginger and wasabi, prepared carefully by a sushi chef.
+
+3. Beer
+
+The Japanese love a lager, with beer being the most consumed alcoholic drink in Japan. Asahi, Sapporo and Kirin are the most popular Japanese brands - look out for special seasonal varieties.
+
+4. Green tea
+
+Cleansing, refreshing and packed with antioxidants, green tea is simply known as 'tea' or 'ocha' in Japan. A traditional Japanese tea ceremony is an experience not to be missed and a great way to try some of the many varieties of green tea available.
+
+5. Ramen
+
+This tasty, salty broth of noodles and meat comes in many different flavours and regional varieties. Sit and indulge at a Ramen restaurant or slurp down a bowl at a market or karaoke hall.
+
+
+
+
+
+
+
+
+Festivals and events
+
+
+
+
+
+
+×
+
+Festivals and events
+
+
+
+
+Sapporo Winter Festival
+
+Held every February since 1950, this festival features hundreds of statues and ice sculptures, snow slides and mazes, regional food and artistic performances. Winter in Japan is truly amazing - and the Sapporo Winter Festival celebrates this magically.
+
+Hadaka Matsuri
+
+Head to Okayama to watch thousands of men, wearing nothing but a Japanese loin cloth, vie to touch the chosen 'naked man'. It may look like a bizarre male-bonding exercise but it's actually a historic cleansing ritual dating back thousands of years.
+
+Fuji Rock Festival
+
+Held annually in the stunning surrounds of the Naeba Ski resort, this outdoor rock festival with green-cred is huge. Drawing in big-name rock acts and local bands, thousands of music lovers flock to Naeba for three days of camping, music and partying.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Memoirs of a Geisha
+
+Arthur Golden
+
+The Wind-Up Bird Chronicle
+
+Haruki Murakami
+
+Shogun
+
+James Clavell
+
+Retribution: The Battle for Japan 1944-1945
+
+Max Hastings
+
+The Year of No Money in Tokyo
+
+Wayne Lionel Aponte
+
+Beyond the Blossoming Fields
+
+Junichi Watanabe
+
+Zen and Japanese Culture
+
+D.T. Suzuki
+
+Lost Japan
+
+Alex Kerr
+
+
+
+
+
+
+
+
+
+Japan travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Japan?
+
+
+
+
+
+
+
+
+
+JAPAN VISA
+
+Citizens of the USA, Australia and New Zealand are granted 90-day temporary visitor visas, while stays of up to three months are permitted for citizens of Argentina, Belgium, Canada, Denmark, Finland, France, Iceland, Israel, Italy, the Netherlands, Norway, Singapore, Spain, Sweden and a number of other countries.
+
+Stays of up to six months are permitted for citizens of Austria, Germany, Ireland, Mexico, Switzerland and the UK. Citizens of these countries will almost always be given a 90-day temporary visitor visa upon arrival, which can usually be extended for another 90 days at immigration bureaux inside Japan.
+
+
+
+
+
+
+
+Is tipping customary in Japan?
+
+
+
+
+
+
+
+
+
+Tipping isn't customary in Japan and is not expected of you. Some inns or ryokans may leave a small envelope in your room where a small gratuity can be left for the maid staff.
+
+
+
+
+
+
+
+What is the internet access like in Japan?
+
+
+
+
+
+
+
+
+
+Internet access is excellent in Japan, with one of the most developed high-speed internet networks in the world. Internet cafes and Wi-Fi hot spots are easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Japan?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is excellent in Japan, but be aware that talking loudly on your phone in public places (like in train carriages) is frowned upon. If you want to use your mobile phone, ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Japan?
+
+
+
+
+
+
+
+
+
+In Japan, toilets range from high-tech bidets to standard western-style flushable toilets to squat toilets, which are still common in Japan. Sometimes you may need to pay for toilet paper, which can usually be purchased from a vending machine nearby.
+
+
+
+
+
+
+
+What will is cost for a...?
+
+
+
+
+
+
+
+
+
+Bento box = 1000 yen
+
+Bowl of ramen = 700 yen
+
+Beer = 700 yen
+
+Snack from a convenience store = 300-400 yen
+
+
+
+
+
+
+
+
+Can I drink the water in Japan?
+
+
+
+
+
+
+
+
+
+Drinking water from taps in Japan is considered safe. For environmental reasons, try to use a refillable water bottle rather than buying bottled water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Japan?
+
+
+
+
+
+
+
+
+
+Major credit cards are accepted by some stores; however, Japan is still very much a cash culture and as such, some places may not accept credit cards. Ensure you carry enough cash to cover purchases.
+
+
+
+
+
+
+
+What is ATM access like in Japan?
+
+
+
+
+
+
+
+
+
+ATMs are common in Japan, so finding one won't be a problem in most towns and cities but unfortunately many of them don't accept foreign-issued cards. However, you can access cash from non-Japanese bank accounts via the Cirrus and Maestro systems at all post office ATMs around the country, as well as ATMs at 7-Eleven convenience store.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Japan?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insureance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Japan?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year's Day Holiday
+
+9 Jan Coming of Age Day
+
+11 Feb National Foundation Day
+
+20 Mar Vernal Equinox Day
+
+29 Apr Shōwa Day
+
+3 May Constitution Memorial Day
+
+4 May Greenery Day
+
+5 May Children's Day
+
+17 Jul Marine Day
+
+11 Aug Mountain Day
+
+18 Sep Respect-for-the-Aged Day
+
+23 Sep Autumnal Equinox Day
+
+9 Oct Health and Sports Day
+
+3 Nov Culture Day
+
+23 Nov Labour Thanksgiving Day
+
+23 Dec The Emperor's Birthday
+
+Please note these dates are for 2017. For a current list of public holidays in Japan go to:
+http://www.worldtravelguide.net/japan/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Japan
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Please ask and receive permission before taking photos of people, including children.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Try to use public transport wherever possible.
+
+Refrain from touching or interfering with ancient monuments, relics or historic sites.
+
+Learn some Japanese greetings and don't be afraid to use them - it will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Be respectful and modest when visiting temples and monasteries.
+
+It's customary to remove your shoes before entering homes or ryokans.
+
+Elderly people are very much respected in Japan, and it's customary to allow them to go first when entering buildings or public transport.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3722 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Sailing Tours and Trips | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Sailing Tours and Trips
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Sailing
+
+Europe sailing tours
+
+
+
+
+Sailing trips in Europe can feel a bit like you’ve stumbled into a Bridget Bardot movie: sleepy Italian hamlets perched on limestone cliffs, the sun-drenched glitz of the Cote d’Azur, lazing the day away on deck with a handful of Grecian olives. It’s one of the best ways to explore the continent, although you are faced with some tough decisions: spend the afternoon snorkelling that secluded cove, or sail Croatia’s favourite archipelago? Indulge in a family-run taverna banquet, or burn the calories on a bike ride through the hinterland? To take that evening cocktail before or after Santorini’s marmalade sunset? Ah, decisions, decisions…
+
+
+
+
+
+
+
+Our Europe sailing trips
+
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Split to Dubrovnik
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,425
+
+
+
+
+
+A lively restaurant scene, drop-dead gorgeous beaches, lush forests, intricate old...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Dubrovnik to Split
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,425
+
+
+
+
+
+Explore Croatia's beautiful Adriatic coast on this aquatic adventure from Dubrovnik to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,591
+
+
+
+
+
+See the best of the Cyclades Islands on this Greece sailing adventure. Take to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,460
+
+
+
+
+
+Set sail across the clear blue waters of Sardinia, exploring rugged coastlines, wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amalfi Coast Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,539
+
+
+
+
+
+Sail Italy’s Amalfi Coast, exploring the Bay of Naples, Capri, Amalfi and Procida...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Greece - Mykonos to Santorini
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,310
+
+
+
+
+
+Embark on a sailing holiday to Greece. Explore the waters, islands, history and cuisine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Greece - Santorini to Mykonos
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,310
+
+
+
+
+
+Set sail across the Mediterranean exploring Greece's heaven-sent islands. The spoils of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Italy - Procida to Amalfi
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR792
+
+
+
+
+
+Sail Italy’s Amalfi Coast from the colourful village of Procida, through ancient worlds...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Italy - Amalfi to Procida
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR792
+
+
+
+
+
+Sail Italy’s Amalfi Coast, stopping in at the ancient isle of Capri, exploring...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cote d'Azur Sailing Adventure - Marseille to Nice
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,471
+
+
+
+
+
+Sail from Marseille to Nice along France's gorgeous Cote d'Azur. Stop in at the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cote D'Azur Sailing Adventure - Nice to Marseille
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,471
+
+
+
+
+
+Embrace Mediterranean life while sailing along the French Riviera, taking in the high...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+Browse sailing trips by country
+
+
+
+
+
+
+
+
+
+Croatia
+
+
+
+
+
+
+
+
+
+
+Italy
+
+
+
+
+
+
+
+
+
+
+France
+
+
+
+
+
+
+
+
+
+
+Greece
+
+
+
+
+
+
+
+
+Highlights of sailing in Europe
+
+
+
+
+
+
+
+
+
+
+Drop anchor at Capri
+
+Ah, Capri. The Romans knew a good island when they found it. Hence the giant Roman palace built on Monte Tiberio. These days Capri is known for royalty of a different kind, with celebs dropping in to do some boutique shopping or chill out in the aquamarine grottos nearby. A day or two exploring here and it might be hard to get you back on the boat…
+
+Explore on the
+Amalfi Coast Sailing Adventure
+
+
+
+
+
+
+
+
+
+
+Wander the cobbled lanes of Amorgos
+
+Amorgos is a mountainous little island in the south-eastern corner of the Cyclades. As far as Greek Islands go, this one is more concerned with activities and archaeology than perfecting your tan. White washed streets, a burgeoning rock climbing scene, ancient ruins and one of the most spectacular monasteries in the Med – it’s a real gem.
+
+Explore on the
+Greece Sailing Adventure - Cyclade Islands
+
+
+
+
+
+
+
+
+
+
+Kick back in the Îles d’Hyères Archipelago
+
+France’s Cote d’Azur isn’t just good for celebrity spotting, shopping and mingling with the glitterati (although a little mingling couldn’t hurt) – it’s also the home of the Îles d’Hyères Archipelago. A little collection of shining, mica-rich islands with secluded coves around every headland. Finding an idyllic beach here isn’t hard. Picking your favourite could be.
+
+Explore on
+Cote D'Azur Sailing Adventure
+
+
+
+
+
+
+
+Life on the boat
+
+We use classic monohull yachts for our European sailing adventures (it helps to get into that old-school Euro vibe). As a guide, a typical 50ft yacht for eight travellers is equipped with four twin/double cabins, two or three shared bathrooms and two showers. You’ll be lead by one of our experienced skippers who knows these waters like the back of their hand.
+
+Life on the boat goes at your own pace: help out on deck as much as you wish, or just lie back and enjoy the ride. The choice is entirely up to you. Just keep in mind: cabin arrangements can be quite cosy so as to leave more room for onboard communal areas.
+
+FAQs
+
+
+
+
+
+When’s the best time to go sailing in Europe?
+
+
+
+
+
+
+
+
+
+Peak season for sailing holidays in the Mediterranean is between June and August, when the sun is hottest and many Europeans have their summer holidays. But if you want to beat the crowds while still enjoying that trademark Med sun, try travelling in spring (mid-April to May) or autumn (September to mid-October): temperatures are more pleasant, the waters are still calm, and you won’t have to fight for that beachside sunbed.
+
+
+
+
+
+
+
+Will I get seasick sailing in Europe?
+
+
+
+
+
+
+
+
+
+The extent and severity of seasickness varies from person to person. Some may be lucky enough to experience no symptoms at all while others may suffer headaches, dizziness and vomiting. Usually all symptoms of seasickness resolve after some time to adjust to life onboard.
+
+The Dalmatian Coast is protected from rough seas thanks to the belt of islands just off mainland Croatia. As a result, many passengers will not experience prolonged symptoms of seasickness in this area. While the Mediterranean Sea can be choppy, especially in the fall, sailing between the Greek islands is usually a peaceful voyage.
+
+Sailing conditions on and around the Amalfi Coast are typically mild with frequent periods of calm. Expect no more than a light 8-12 knot (8-13 miles) per hour south easterly wind in the afternoons; perfect for the experienced and novice sailor alike. While we can’t guarantee pristine conditions, you are unlikely to encounter any rough, open seas with the tidal range a minute 30-60 centimeters (1-2 feet).
+
+If you are prone to experience motion sickness, we recommend consulting with your doctor before arriving to see what medical solutions might work for you.
+
+You can also
+read our guide
+to beating seasickness for alternative methods of combating seasickness.
+
+
+
+
+
+
+
+Can I learn to sail the boat?
+
+
+
+
+
+
+
+
+
+Absolutely. The best bit about our small group sailing adventures is we cap our group sizes at 8 travellers. That means our skippers have more time to get to know you and, if you’re interested, teach you all about sailing. Our skippers have years of experience sailing and relish the opportunity to share their passion with their groups.
+
+
+
+
+
+
+
+Are cabins above or below deck?
+
+
+
+
+
+
+
+
+
+All cabins on our Europe sailing trips are located below deck.
+
+
+
+
+
+
+
+What cabin configurations are available on the boats?
+
+
+
+
+
+
+
+
+
+Each sailing vessel typically comes with three twin/double cabins, as well as a couple of single berths for staff. Your skipper will allocate rooms on arrival. Passengers travelling in pairs will be accommodated together while solo travellers will be placed with a fellow passenger of the same gender wherever possible. This may mean sharing a double mattress or twin mattresses side by side.
+
+Solo travellers have the option of booking a cabin to themselves for an additional fee, please ask our team at the time of your booking for more details.
+
+If you do not identify with the gender assigned on your passport, please let us know at the time of booking so we can make an adjustment to your sleeping arrangements.
+
+
+
+
+
+
+
+Where does the skipper sleep?
+
+
+
+
+
+
+
+
+
+The skipper sleeps in his/her own quarters, which are typically allocated at the front of the boat. Refer to the detailed deck plans of our boats for more information on bunk locations.
+
+
+
+
+
+
+
+Can I charge my appliances onboard?
+
+
+
+
+
+
+
+
+
+Yes, all cabins come equipped with electrical sockets. Travellers simply need to bring an adaptor with them. See below for electrical outlets by country:
+
+France: Type C (European 2-pin), Type E (French 2-pin, female earth)
+
+Italy: Type C (European 2-pin), Type F (German 2-pin, side clip earth), Type L (Italian 3-pin)
+
+Croatia: Type C (European 2-pin), Type F (German 2-pin, side clip earth)
+
+Greece: Type C (European 2-pin), Type F (German 2-pin, side clip earth)
+
+
+
+
+
+
+
+Is there internet access onboard?
+
+
+
+
+
+
+
+
+
+WiFi is not available onboard our boats, but travellers may be able to access WiFi while docked at ports and marinas.
+
+
+
+
+
+
+
+Is there air conditioning onboard?
+
+
+
+
+
+
+
+
+
+Airconditioning isn't available on our boats but some boats do have fans in the cabins. All boats will have hatches that can be opened for ventiliation. During warmer months, travellers can even choose to sleep on deck under the stars.
+
+
+
+
+
+
+
+What extra expenses do I need to pay for?
+
+
+
+
+
+
+
+
+
+You will need to allow budget to pay for any addtional meals that aren't included in the itinerary (see your Essential Trip Information for more details on meal inclusions), as well as money for souvenirs and alcoholic drinks. It is also recommended you contribute towards the group kitty at the start of your trip. See your Essential Trip Information for more information about group kitties.
+
+
+
+
+
+
+
+Is there a security deposit required?
+
+
+
+
+
+
+
+
+
+No, we do not require our travellers to pay a security deposit on any of our sailing trips.
+
+
+
+
+
+
+Reviews
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+September 2017
+
+Grace Cho
+
+On this trip I fell in love the Greek islands.  It's a good way to see the famous Cyclades islands like Mykonos and Santorini together with some smaller, lesser known islands which are beautiful and charming in their own ways because you have a sail boat and you're not having to work out the ferries.  If boating and seeing the islands is the main goal, you will enjoy the trip.  Probably best to go in summer.  I went in October and it was cold and windy on the water.  Also there is quite a lot of time spent on the water, which is great if sailing, not so much if by motor.  The islands are not that close together by sail boat so it can take at least half a day to reach them and once you do, sometimes you don't have a lot of hours in the day to spend there like Syros or Folegandros which were a couple of the best islands. Still a good trip and worth doing to see the best of the Cyclades, it's just the weather can be unpredictable and makes a big difference to the trip.
+
+Review submitted 12 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+September 2017
+
+Nathanael Palmatier
+
+Sailing life leads to interesting use of space; a floormat for the shower would be a nice comfort. Several of the ports had laundry service which could reduce the luggage taken on-board.
+
+Review submitted 23 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Sail Greece - Mykonos to Santorini ,
+October 2017
+
+Michael Ciacco
+
+Intrepid Travel gave me the exact holiday I was looking for.  It was the perfect mix of relaxation and cultural exploration.
+
+Review submitted 18 Oct 2017
+
+
+
+
+
+
+
+
+Need some inspiration?
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2017
+
+
+
+8 Croatian islands so beautiful that everyone...
+
+
+
+
+
+
+Traditionally the Dalmatian coast always lost out to sun-soaked hot-spots like the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 22, 2017
+
+
+
+Is Plitvice Lakes National Park the most...
+
+
+
+
+
+
+Answer: Yes! But to fully appreciate its natural beauty and serenity, you need to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+At sea: life on the water with Intrepid skipper...
+
+
+
+
+
+
+You’d think falling overboard would put you off sailing, but not skipper Mike Simon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+10 reasons why Zagreb, Croatia should be your...
+
+
+
+
+
+
+It may not have the Adriatic Sea or the beach, but I was immediately charmed by...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular places...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 19, 2017
+
+
+
+Your essential guide to sailing jargon
+
+
+
+
+
+
+If you’re just starting to cut your teeth on life at sea, here’s the essential...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 18, 2017
+
+
+
+9 Greek beaches that should be on your bucket list
+
+
+
+
+
+
+Though the sea is everywhere (there's 227 inhabited islands), it's tough to find...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+5 European day hikes everyone should experience
+
+
+
+
+
+
+Europe’s varied geography lends itself to hundreds of day walks that require...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2017
+
+
+
+How to protect your camera at sea (and also...
+
+
+
+
+
+
+Nothing's worse than damaging your camera while on the water. Follow these tips...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 18, 2017
+
+
+
+5 ways to stop seasickness
+
+
+
+
+
+
+Seasickness is never fun but thankfully it can be treated. Follow these five...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 10, 2017
+
+
+
+You should go to Croatia just for the art scene...
+
+
+
+
+
+
+In Croatia, artistic expression flavors every area of life. Contemporary...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 21, 2017
+
+
+
+Mykonos: So much more than just a party island
+
+
+
+
+
+
+Mykonos is a no-brainer stop on the Cyclades island-hopping trail. But not just...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 17, 2017
+
+
+
+5 beautiful islands in Europe you haven’t...
+
+
+
+
+
+
+There's nothing we love more than the small towns, coastal views, and endless...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 10, 2017
+
+
+
+Croatia in one week: The ultimate guide
+
+
+
+
+
+
+With its ancient walled cities, shimmering sapphire waters, impeccable wine and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 24, 2017
+
+
+
+Traveling to Greece? Give Athens a chance
+
+
+
+
+
+
+The capital of Greece is like nowhere else on earth. Athens fuses the ancient with...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 12, 2017
+
+
+
+Split: The Croatian city that should be on your...
+
+
+
+
+
+
+While Split may never shine as brightly as the ‘Pearl of the Adriatic’ by tourist...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 08, 2017
+
+
+
+6 hottest food destinations in Europe for...
+
+
+
+
+
+
+Where will your taste buds be delighted most this summer? What cuisine will have...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 20, 2017
+
+
+
+Naxos: Introducing the most underrated Greek...
+
+
+
+
+
+
+Naxos is still unheard of by many foreign visitors, despite being four hours from...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

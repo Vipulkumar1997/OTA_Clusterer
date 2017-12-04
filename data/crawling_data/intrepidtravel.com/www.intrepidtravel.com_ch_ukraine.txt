@@ -1,0 +1,3190 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ukraine Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ukraine tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Ukraine
+
+
+
+Ukraine doesn’t make it on to the Top 10 list of many first-time European travellers (which only goes to show you should take Top 10 lists with a serious grain of salt)
+
+
+It’s the Continent’s second biggest country, a quirky little slice of post-communist
+Europe
+where the borscht is tart, the history bizarre and the locals surprisingly friendly. One day you’re climbing through the rugged Carpathian Mountains in search of Hutsul hospitality, the next you’re sipping espresso in the back-alley cafes of Lviv, kicking back on the beaches of Odessa or sitting front row in Kiev’s glorious opera house. Soak up a little Stalinist history, ride bikes along the Dnieper River and wave goodbye to that tourist trail – you’re in Ukraine now.
+
+
+Our Ukraine trips
+
+
+
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,800
+
+
+
+
+
+Visit wineries, monasteries and Soviet breakaway republics in Moldova, and explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Europe in Depth
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,640
+
+
+
+
+
+Enjoy a fascinating tour of Eastern Europe through Hungary Romania, Moldova and Ukraine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on Ukraine
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Trendsetters: Europe tips from the UK’s top...
+
+
+
+
+
+
+There are 36 countries within a 3-hour flight of the UK. That’s pretty awesome,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2016
+
+
+
+We’re launching a brand new expedition trip to...
+
+
+
+
+
+
+For the first time, we're stepping back into the soviet era on a special trip...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ukraine travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Odessa
+
+
+
+
+Discover the fascinating history and architecture of Odessa, an underrated city on the Black Sea
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Chernobyl
+
+
+
+
+Explore the Chernobyl Exclusion Zone on a guided tour, including the eerie ghost town of Pripyat
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Kyiv
+
+
+
+
+Soak up the energy of Kyiv, where medieval grandeur mixes with contemporary culture
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer, 13 days
+
+
+
+
+
+
+
+
+
+
+
+
+Ukraine holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Kyiv (population 2.6 million)
+
+Population:
+
+45.9 million
+
+Language:
+
+Ukrainian
+
+Currency:
+
+UAH
+
+Time zone:
+
+(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++380
+
+
+
+
+
+
+
+
+
+Best time to visit Ukraine
+
+
+
+
+
+
+×
+
+Best time to visit Ukraine
+
+
+
+
+Ukraine, like many of its Eastern European counterparts, boasts a temperate climate that delivers hot summers, mild autumns and icy winters. With the warm summer sending locals and tourists to the Crimea and the Black Sea coast, many theatres and attractions close down or become quite crowded. For those seeking to avoid the crowds, spring (or early autumn) can be an excellent time to visit Ukraine, as the weather is normally quite pleasant and the scenery at its most spectacular.
+
+Winters can be bitterly cold, with temperatures reaching as low as -25C; however, ample snow provides excellent skiing in the Carpathian Mountains.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Bordering
+Poland
+,
+Slovakia
+,
+Hungary
+and
+Russia
+, as well as the Black Sea, Ukraine has always held somewhat of a strategic position in continental Europe. It's divided in half by the Dnieper River, an important trading artery and the site of many dams and hydroelectric stations.
+
+As the second largest country in Europe, Ukraine boasts an incredible variety of landscapes, many of which change complexion dramatically with the seasons. To the west lie the Carpathian Mountains, which include the country's highest peak, Mt Hoverla (2,061 m). To the south is the Black Sea coast, the port town of Odessa and the Autonomous Republic of Crimea. This popular holiday spot is renowned for its Mediterranean climate and unique landscapes that include limestone plateaux and volcanic rock formations.
+
+Ukraine’s capital, Kyiv, is located in the north on the banks of the Dnieper River. The country's north is renowned for its dense forests, while the central region consists of mainly open fields and plains.
+
+
+
+
+
+
+
+
+Our Ukraine Top 5
+
+
+
+
+
+
+×
+
+Our Ukraine Top 5
+
+
+
+
+1. Kiev
+
+Kyiv, or Kiev as it’s become known in English, is Ukraine’s ancient capital, the epicenter of a Slavic culture that once stretched as far as Alaska. The locals are understandably a pretty proud bunch, who are happy to give you directions in a dozen languages when you can’t decipher the Cyrillic street signs on every corner. With a local guide by your side though, you won’t have any trouble finding the enourmous Motherland Monument (Ukraine’s answer to the Statue of Liberty), the golden dome of St Michael’s Cathedral or the beaches of Hidropark Island in the Dnipro River.
+
+2. Chernobyl
+
+A moving day-trip from Kiev, tours to Chernobyl run daily. It may not seem like the most chipper way to spend a holiday, but it’s a worthwhile stop for anyone looking to understand better the disaster that happened here in 1986. We’ll take you into the Exclusion Zone, a two-hour drive through the Ukrainian countryside, to have a look at the power plant’s main reactor, as well as the evacuated town of Pripyat, an eerily overgrown village that once housed up to 50,000 workers. These tours are perfectly safe; you can even hire your own Geiger counter to check out the radiation levels.
+
+3. Odessa
+
+Beaches? In Ukraine? Yep, you’d better believe it. Odessa is a little like Eastern Europe’s answer to St Tropez or Rio: a decadent, seaside, neoclassical paradise bookended by the shores of the Black Sea and a geometric grid of shady tree-lined streets. Catherine the Great founded the city in the late 18th century and invited immigrants from all over Europe to settle here. Today it’s both Ukraine’s biggest commercial port and its sun-soaked style capital. A pop of glitz and colour in a country better known for dour mountainscapes and a sleepy rural steppe.
+
+4. Lviv
+
+Lviv is maybe the only place in Ukraine where the Soviets couldn’t stamp their mark. Wandering cobbled streets and trendy piazzas, sipping espresso in boutique cafes, you feel like you’re day-tripping in Prague or holidaying in Krakow. There’s no sign of Stalinist concrete, and Ukrainian (not Russian) is definitely the majority language. Lviv’s secret got out during the Euro 2012 soccer championships, and a successful bid for the 2022 Winter Olympics sealed the deal. One day people will mention this gorgeous city in the same breath as Cesky Krumlov…until then, it’s all yours.
+
+5. Carpathian Mountains
+
+The Capathians rise on the southwest corner of Ukraine like crinkles on an otherwise flat map. They’re the home of the Hutsuls, a friendly ethnic group (with an excellent sense of style), and the epicenter of the country’s rural folk culture. It’s a place where horse-drawn carts plod along potholed roads and babushkas shoo chickens from their porches. For adventure seekers, The Carpathians provide something else too: a photogenic mix of green valleys, snaking rivers, little villages tucked into the trees and more trails, ski fields, rock faces and white water than anywhere else in Ukraine.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Everything is Illuminated
+
+Jonathan Safran Foer
+
+Sweet Darusia
+
+Maria Matios
+
+Voices from Chernobyl
+
+Svetlana Alexievich
+
+Wolves Eat Dogs
+
+Martin Cruz Smith
+
+
+
+
+
+
+
+
+Ukraine travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Ukraine?
+
+
+
+
+
+
+
+
+
+UKRAINE:
+Australia: Yes - in advance
+Belgium: No - Not required
+Canada: No - Not required
+Germany: No - Not required
+Ireland: No - Not required
+Netherlands: No - Not required
+New Zealand: Yes - in advance
+Switzerland: No - Not required
+United Kingdom: No - Not required
+USA: No - Not required
+
+Ukraine has recently relaxed its visa regime, and citizens of the UK, USA, Canada and EU member countries can now visit up to 90 days without a visa. Australian and New Zealand passport holders still need to obtain a visa before arrival, however an invitation letter is no longer required in order to apply. Please check your own visa requirements carefully.
+
+INFORMATION REQUIRED FOR VISA APPLICATION:
+You require a Single Entry Tourist Visa for this trip.
+
+Surname and first name of the inviting person(s) in Ukraine. If not applicable, name of hotel(s) or address of applicant’s temporary accommodation(s) in Ukraine:
+
+Vozdvishensky Hotel
+60-a,b Vozdvyzhenska str.
+Kyiv
+Tel.: +38 044 531 99 00
+www.en.vozd-hotel.com
+
+Address of inviting person(s)/hotel(s)/temporary accommodation(s) in Ukraine:
+As above.
+
+Name and address of inviting company/organisation:
+If LOI required please use the information on the document. If not required - N/A.
+
+Surname, first name, address, telephone, telefax, and e-mail address of contact person in company/organization:
+As above.
+
+
+
+
+
+
+
+Is tipping customary in Ukraine?
+
+
+
+
+
+
+
+
+
+Tipping is becoming customary in many of the larger Ukrainian cities. While it's not necessary to tip drivers unless the service is exemplary, a 10-15% tip is expected in most restaurants.
+
+
+
+
+
+
+
+What is the internet access like in Ukraine?
+
+
+
+
+
+
+
+
+
+Internet cafes are available in cities and towns, and some larger hotels now offer Wi-Fi connectivity. Remote and rural areas will have less internet availability, so be prepared for this when travelling out of the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Ukraine?
+
+
+
+
+
+
+
+
+
+Roaming agreements exist with major mobile phone companies, check with your service provider for more information.
+
+
+
+
+
+
+
+What are the toilets like in Ukraine?
+
+
+
+
+
+
+
+
+
+Western-style, flushable toilets are normally available in the larger cities. In rural areas, simple squat toilets are more common.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Cup of coffee in a cafe = 10 UAH
+Beer in a bar or restaurant = 5-15 UAH
+Basic, takeaway lunch = 40 UAH
+Dinner in an inexpensive restaurant = 100 UAH
+
+
+
+
+
+
+
+Can I drink the water in Ukraine?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Ukraine. For environmental reasons, try to avoid buying bottled water. Ask your leader or hotel where filtered water can be found and don't forget to avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Ukraine?
+
+
+
+
+
+
+
+
+
+Major credit cards are accepted by most large shops and hotels. Smaller vendors may not accept credit cards, so carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Ukraine?
+
+
+
+
+
+
+
+
+
+ATMs are commonly found in Ukraine's cities and urban areas. Remote regions will have less ATM availability, so prepare accordingly before travelling away from cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Ukraine?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Ukraine?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year's Day Holiday
+
+7 Jan Orthodox Christmas
+
+9 Jan Orthodox Christmas Holiday
+
+8 Mar Women's Day
+
+16 Apr Orthodox Easter
+
+17 Apr Orthodox Easter Monday
+
+1 May Labour Day
+
+2 May Labour Day Holiday
+
+9 May Victory Day
+
+4 Jun Orthodox Pentecost
+
+5 Jun Orthodox Pentecost Monday
+
+28 Jun Constitution Day
+
+24 Aug Independence Day
+
+14 Oct Defender's Day
+
+16 Oct Defender's Day Holiday
+
+Please note these dates are for 2017. For a current list of public holidays in Ukraine go to:
+http://www.worldtravelguide.net/ukraine/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Ukraine
+
+Be considerate of Ukraine’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with tap or filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4852 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sailing Adventures for small groups | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sailing tours in Europe, Asia and the Caribbean
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Sailing
+
+
+
+
+Is there a better feeling than clipping through the waves with the sun on your face? Or watching stars come out over the Aegean Sea with a glass of champagne?
+
+Sailing holidays don’t have to be an intimidating tangle of ropes, nautical jargon and sea monsters – not with Intrepid. Whether you’re a fresh-faced novice or an old salt with callouses on both hands, we’ve got a sailing trip to suit you. Be as involved as you like. Help navigate, tack and steer; or simply kick back on deck with a copy of
+Moby Dick
+and let the world float by. These are small groups on small boats, but with big adventures.
+
+
+
+
+
+
+
+New River Boating adventures in Europe
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy - Chatillion sur Loire - Decize
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,740
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Experience life at a different pace on this peaceful and relaxing drift down the Canal...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy- Decize - Chatillion sur Loire
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Homps to Castelnaudary)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Experience life at a different pace on this peaceful and relaxing drift down the Canal...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy - Chatillion sur Loire - Decize
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Read more about River Boating
+
+Our most popular sailing trips
+
+
+
+
+
+
+
+
+
+Phuket Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,360
+
+
+
+
+
+Tour the Thai islands on a sailing trip that mixes the popular beaches with discreet...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Dubrovnik to Split
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,425
+
+
+
+
+
+Explore Croatia's beautiful Adriatic coast on this aquatic adventure from Dubrovnik to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,460
+
+
+
+
+
+Set sail across the clear blue waters of Sardinia, exploring rugged coastlines, wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cote D'Azur Sailing Adventure - Nice to Marseille
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,471
+
+
+
+
+
+Embrace Mediterranean life while sailing along the French Riviera, taking in the high...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amalfi Coast Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,539
+
+
+
+
+
+Sail Italy’s Amalfi Coast, exploring the Bay of Naples, Capri, Amalfi and Procida...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,591
+
+
+
+
+
+See the best of the Cyclades Islands on this Greece sailing adventure. Take to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,710
+
+
+
+
+
+Hop aboard a sailing adventure across the spectacular Zanzibar archipelago, with visits...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy- Decize - Chatillion sur Loire
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,955
+
+
+
+
+
+Set sail on amazing sailing expedition to one of the world’s best cruising destinations...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba Sailing Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Set sail across the Caribbean Sea to visit the untouched and idyllic islands of Cuba. A...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar (Burma) Sailing Adventure ex Phuket
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Beginning in Phuket, sail around Burma's Myeik (Mergui) Archipelago in the Andaman Sea...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Sailing tours by region
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+
+
+
+
+
+
+The Caribbean
+
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+
+
+
+Galapagos
+
+
+
+
+
+
+
+
+
+
+Zanzibar
+
+
+
+
+
+
+
+
+Why choose an Intrepid sailing trip
+
+
+
+
+
+
+
+
+
+
+
+Experienced skippers
+
+Our skippers have years of experience sailing the high seas. There’s no-one better to show you the ropes (literally).
+
+
+
+
+
+
+
+
+
+
+
+Best of both worlds
+
+These sailing vacations aren’t confined to the ocean blue. There’s plenty of time scheduled on land to see the sights and check out the local culture.
+
+
+
+
+
+
+
+
+
+
+
+Safety first
+
+We know safety is of utmost importance on the ocean. That’s why our yachts are top-of-the-line and range from brand new to (at most) five years old.
+
+
+
+
+
+
+
+
+
+
+
+No experience needed
+
+If you'd like to pick up some sailing skills, your skipper can show you how. If not, just relax, kick back on deck and soak up some ocean breezes.
+
+
+
+
+
+
+
+Our boats
+
+Europe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In
+Europe
+, we like to go classic. A single-hulled, 50-foot yacht gives you a taste of traditional Mediterranean sailing, not to mention it looks pretty spiffy in pictures too. A typical Intrepid vessel may come with three twin/double cabins, as well as a couple of single berths. You’ll have a recreation lounge, kitchen, three shared bathrooms and plenty of deck space for lazing around and looking fabulous.
+
+
+
+Asia & the Caribbean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When it comes to sailing in
+Asia
+and
+Caribbean
+, catamarans are the way to go. They’re smooth, comfortable, and nimble enough to reach those out-of-the-way cays and little island inlets. The twin hull means there’s plenty of space to stretch out –perfect for those balmy evenings and lazy afternoons. Most of the catamarans in our fleet have four twin/double cabins, three shared bathrooms, a galley (that’s nautical talk for kitchen) and a small living area. In Asia, there’s even kayaks and paddleboards for those that want to get a little active (and bean bags on deck for those that don’t!)
+
+
+
+FAQs
+
+
+
+
+
+Do I have to help sail the boat?
+
+
+
+
+
+
+
+
+
+You don’t have to lift a finger if you don’t want to (unless you need to turn the page of your novel or eat a grape). But if you’d like to learn the ropes, that’s fine too. Your expert skipper can teach you everything you’d like to know – from tying knots to unfurling the sails.
+
+
+
+
+
+
+
+How much time is spent off the boat?
+
+
+
+
+
+
+
+
+
+There’s about a 30/70 split between land-based and water-based activities on our Asia and Caribbean sailing trips. In Europe this is closer to 50/50 however some evenings will be spent in port or a marina. Much of this depends on the weather conditions. There are usually at least a few hours each day spent exploring ports, trekking the surrounding areas or relaxing on beaches. Of course, depending on location, there will always be the chance to wine and dine at the local hot spots.
+
+
+
+
+
+
+
+What will my fellow travellers be like?
+
+
+
+
+
+
+
+
+
+We have travellers of all ages and nationalities travelling with us. Approximately 60% of our travellers are single travellers, followed by a mix of friends travelling and couples. The minimum age of travellers on our trips is 18, or 15 if accompanied by an adult. We don’t have a maximum age as we believe those choosing a sailing adventure are like-minded regardless of age.
+
+
+
+
+
+
+
+Who decides the rooming configuration?
+
+
+
+
+
+
+
+
+
+Your skipper will allocate rooms on arrival to the boat. Single travellers will be paired up with another passenger of the same sex, and this may mean sharing a double mattress or twin mattresses side by side.
+
+
+
+
+
+
+
+What are the sleeping arrangements like?
+
+
+
+
+
+
+
+
+
+This is our most common question. People are often hesitant about the idea of sharing a double mattress with another traveller of the same sex. Sailing boats tend to be very compact (and we use realy sailing boats), and the close-quarters nature of this travel is part of the adventure.
+
+Sleeping quarters are designed to utilise the minimum amount of space in order to keep the communal areas as big as possible. In practice, lots of travellers end up sleeping out on deck under the stars, as it’s warm and there’s no air conditioning on a sailing boat.
+
+Our boats have a mix of double, twin (two separate beds or two separate mattresses side by side) and bunks.
+
+
+
+
+
+
+
+Can I get a cabin to myself?
+
+
+
+
+
+
+
+
+
+Yes. Single supplements are available on all trips subject to availability. A single supplement is normally twice the regular price, however where trips have inclusions such as meals there is a slight reduction in the supplement price. If you are interested in having a single supplement please contact us to check availability and price.
+
+
+
+
+
+
+
+Do the cabins have ensuites?
+
+
+
+
+
+
+
+
+
+On many boats bathroom facilities are shared, however some boats have ensuites in each cabin that allow two people to share one bathroom. Our monohull yachts in Europe will have no more than two cabins sharing a bathroom. Most of our catamarans have four cabins and four bathrooms, however these bathrooms are shared between travellers and crew. Check the Essential Trip Information of your trip for more specific details about your boat. Fresh and hot water is available for showers, and toilets are either electronic or hand pump.
+
+
+
+
+
+
+
+Will I get seasick?
+
+
+
+
+
+
+
+
+
+Seasickness comes in a variety of forms. Common symptoms include fatigue, uneasiness, dizziness, and headaches. The majority of these symptoms usually subside after taking some time to adjust (usually a few hours to a day). Paracetamol tablets can help ease the transition. Heavy seasickness, characterised by vomiting, is uncommon, and it can be treated using medication. There are also a number of other self-management techniques you can try – such as sitting out in the fresh air, drinking ginger tea or watching the horizon.
+
+For more information about beating seasickness, click
+here
+.
+
+
+
+
+
+
+
+What will I eat?
+
+
+
+
+
+
+
+
+
+All Caribbean, Asia, Zanzibar and Galapagos Island trips feature an on-board chef, who will prepare three delicious meals each day, plus snacks. In Europe and the British Virgin Islands, we operate with a trip kitty* that everyone contributes to. This is because there’s so much great local produce to taste in each place that it makes a lot of sense to buy food at each stop! This kitty will keep cover some of your food and beverage costs. On all our trips there will be an opportunity to enjoy a meal at a local port – we’ll be able to show you where all the good tavernas are. Please check your Essential Trip Information for more specific details.
+
+*See below for information about what is kitty.
+
+
+
+
+
+
+
+What about alcoholic drinks?
+
+
+
+
+
+
+
+
+
+You are welcome to drink on board - in fact, nothing enhances a sunset more than a gin and tonic – however alcohol is BYO (bring your own). So make sure you buy what you need before departure. Some of our boats have alcoholic drinks on board that are available for purchase at local bar prices. Drinking water is free of charge.
+
+
+
+
+
+
+
+How much luggage should I take?
+
+
+
+
+
+
+
+
+
+Due to the compact size of the boats and the sometimes rocky nature of a sailing trip, it is advisable that you bring fabric/canvas luggage. It’s a good idea to pack light as there will usually be a gap between the boat and pier. While the skipper or a fellow traveller can give you a helping hand, you’ll need to be able to lift your bag onto the boat.
+
+
+
+
+
+
+
+What should I pack?
+
+
+
+
+
+
+
+
+
+Sailing trips are a little different to regular group tours. There’s a finite amount of space on the boat, so it’s best to leave the grand piano, pet llama and foldout four-person mattress at home. Same goes for bulky suitcases, ten pairs of shoes and the surfboard.
+
+This isn’t designed to be a comprehensive packing list, but it’ll get you thinking like a real sailor.
+
+A medium-sized fabric bag that can be flattened or stored easily
+
+A small day pack for shore excursions
+
+Some flip flops or deck shoes that can get wet
+
+Sunscreen, sunglasses and a hat
+
+Seasickness tablets (just in case)
+
+Swimmers (don’t worry about the snorkel and fins – we provide those)
+
+Waterproof camera (for those sweet underwater shots)
+
+A light weatherproof jacket (just in case of high seas or seasonal showers)
+
+For a more detailed packing list please refer to the Essential Trip Information of your trip.
+
+
+
+
+
+
+
+What are the arrival and departure times?
+
+
+
+
+
+
+
+
+
+These will vary from trip to trip – be sure to check your Essential Trip Information for more specific details. Some sailing trips will head out to sea on the afternoon of the first day. Others will remain in port overnight, however we still ask that you join the trip at the requested time as the skipper will need to deliver a welcome and safety briefing before organising a visit to the supermarket to buy provisions for the trip. All travellers will have an input into the provisions and this will be purchased from the kitty*.
+
+Please note that due to sailing being a heavily weather-dependent activity, sometimes itineraries may need to change. We recommend allowing an additional night at the beginning and end of the trip to ensure nobody misses any onward flights.
+
+*see ‘What is a kitty’ for more information on.
+
+
+
+
+
+
+
+What is a kitty?
+
+
+
+
+
+
+
+
+
+A kitty is a fund or pool of money that all travellers can choose to contribute to at the beginning of a trip. It’s not compulsory however we’ve found pooling the group's money in one place makes it easier to arrange non-included group meals and tips where necessary. You'll usually eat most breakfasts and some lunches and dinners onboard the boat, so it's best to buy supplies from a nearby supermarket or grocery store at the beginning of each trip. For meals off the boat, our skippers will suggest locally-run restaurants that specialise in local produce and delicacies.
+
+
+
+
+
+
+
+What is the maximum group size?
+
+
+
+
+
+
+
+
+
+The maximum passenger capacity on our boats changes depending on which country you are sailing. Here’s a quick breakdown, but you can always find more specific details in the essential trip information of each tour.
+
+Burma: 8
+
+Phuket: 14
+
+Caribbean: 8
+
+Europe: 8 – 11 (depending on the boat)
+
+
+
+
+
+
+Reviews
+
+
+
+
+
+
+
+
+
+
+
+Phuket Sailing Adventure,
+November 2017
+
+Denis Duval
+
+Excellent relaxing way to travel, no packing or repacking,  travel light, remember to pack something for sea sicknesses if susceptible or inexperienced.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Cuba Sailing Adventure,
+November 2017
+
+Paulette Baker
+
+Sailing in Cuba was a great experience but be prepared for 2 long days at sea. The beaches are beautiful and the waters warm and inviting. The snorkelling is good and itt was amazing to swim with a pod of wild dolphins who turned up to see who we were.
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Phuket Sailing Adventure,
+November 2017
+
+Judith Martin
+
+This is a great trip to unwind and relax. You will find a lot of time to sit and contemplate life. Take a book! I took the three day option and was happy with that. Had I taken the longer option, personally, I think I would have risked becoming a bit bored.
+
+Review submitted 26 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Phuket Sailing Adventure,
+November 2017
+
+Suneel Khanna
+
+Excellent tour. Great way to get a good view of Thailand.  The boat is basic but very comfortable.  You'll make great friends and have memories for a lifetime.  The food was amazing.  The cook was phenomenal.
+
+Review submitted 13 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+June 2017
+
+Anne MacIver
+
+I would just like to encourage any solo travelers in their 20s to 50s to seriously consider taking this trip. I am a 48-year-old female (mother of two back home), and I had the best trip I have possibly ever taken...and this is coming from a frequent global traveler! The islands and waters are stunning, the culture and food fantastic, and my skipper and shipmates were A+. It felt great to cook together, clean together, work the sails together, live an organized, respectful and communal life in small quarters for a week, doing something completely out of the ordinary, and get to know people from all over the world. I'm just lucky I was able to keep my ugly American accent after 8 days with 3 Aussies, a Kiwi, and a South African. ;-)
+
+Review submitted 25 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+September 2017
+
+Nathanael Palmatier
+
+Sailing life leads to interesting use of space; a floormat for the shower would be a nice comfort. Several of the ports had laundry service which could reduce the luggage taken on-board.
+
+Review submitted 23 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+September 2017
+
+Jennifer Graham
+
+Great trip. Great boat and skipper
+Bring warm cloths a spray jacket for end of season trips, pack light
+
+Review submitted 11 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+September 2017
+
+Douglas Halberg
+
+Intrepid takes you to many places. Their use of local guides is usually great.
+
+Review submitted 11 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+September 2017
+
+Kylie Shields
+
+This is a definite WOW trip and sailing is the best way to explore the exquisite waters of the Zanzibar archipelago. The trip includes a fabulous itinerary - which takes in incredibly beautiful beaches, the crew are super attentive and competent, the food prepared by David is ridiculously delicious.  Just take note, all accommodation is onboard, so you need to adaptable and prepared to share fairly confined spaces with strangers and be comfortable in doing so.
+
+Review submitted 09 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Dubrovnik to Split,
+September 2017
+
+Conor McKeown
+
+More information on the size of the ship, closeness of quarters, and toilet facilities (campaign at best) would have been more useful and ultimately would have made us consider a more expensive alternative to make our travels a little more luxurious. The inability to flush toilet paper was difficult for my partner and I , therefore we could only go to the public toilet at marinas moored at.
+
+Review submitted 08 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Dubrovnik to Split,
+September 2017
+
+Jasmin Holenstein
+
+A great opportunity to explore Croatia from another side, which is not only touristy. Apart from sailing it is a relaxing trip where you learn a lot about culture and could try a lot of delicious food.
+
+Review submitted 07 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Amalfi Coast Sailing Adventure,
+August 2017
+
+Valerie Little
+
+Very good service...places to visit...level of adventure...options always available
+
+Review submitted 04 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+September 2017
+
+Kaleda Clarke
+
+Fantastic way to see all the islands and not waste too much time yet have a very relaxing yet productive trip.
+
+Review submitted 04 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Cote D'Azur Sailing Adventure - Nice to Marseille,
+September 2017
+
+Nicola Rafter
+
+Intrepid is an excellent choice for solo travellers. You have the safety of being in a group with a knowledgeable guide. You also get to do loads of fun activities with a conscience, and meet new friends from all over the world. I’d highly recommend Intrepid.
+
+Review submitted 03 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+September 2017
+
+William Brown
+
+Feel free to use our previous comments.
+
+Review submitted 02 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+May 2017
+
+Sam Malhotra
+
+Fabulous, once in a lifetime trip!  The Bahamas was one of the most beautiful locations I have ever been to, the weather was incredible and sailing enabled us to see The Bahamas in a really special way - getting into remote spots, breathtaking snorkeling everyday and some truly unique opportunities to interact with the natural world!  Skipper Judy is a complete star - she looked after a very international group with relaxed confidence and charm that engaged the group and inspired trust.  In particular, she helped me (a novice snorkeler) gain confidence in the water and so enabled me to have one the of the most spectacular experiences of my life!  Adriann (our cook) added even more warmth and personality by not only conjuring up delicious food and drinks every day (incredible!) but by also spending time to get to know everyone and look after them on an individual basis.  Between them, they created a fun, friendly and incredibly comfortable environment and made the trip for me.  I really can't recommend this trip enough!
+
+Review submitted 02 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+September 2017
+
+Nicola Hodson
+
+A fabulous sailing trip. Expect a couple,of long sailing days with little activity but time to relax on the boat. Highlights include good food including freshly caught fish on the boat, very few tourists in many places, great snorkelling, options to kayak and paddle board and see fab sunsets while on board. Plus visits to islands and meeting locals...be aware that there will be no shops etc on the trip so stock up,in advance on sun cream, snacks, drinks etc if you need (wine, beer and some soft drinks can be bought on board at a reasonable price). Cabins were more spacious than other cats I have been on and had an en suite although showering at the back of the boat at sunset still the best option!  Highly recommended.
+
+Review submitted 29 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+September 2017
+
+Danielle Hansen
+
+Very fun trip. You see lots of interesting places and the water is spectacular. You get to know everyone on board and it's like little family. Definitely recommend to anyone.
+
+Review submitted 28 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Dubrovnik to Split,
+September 2017
+
+Daniel Fleming
+
+Great trip ! It is what you make of it. The cabins are quite small, so pack smart and pack light. We were coming from a colder primary destination so space was definitely at a premium. Wonderful destinations and wonderful people :)
+
+Review submitted 28 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+September 2017
+
+Jenni Boyd
+
+Sailing in Sardinia is as heavenly as it sounds!  This trip has a good mix of nights in port and on anchor and every swimming spot was as beautiful as the last one.  Highly recommend!
+
+Review submitted 26 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+September 2017
+
+Nicola Kingsley-Jones
+
+Amazing experience, varied age brackets, really good to experience a country in a short period of time. Very close quarters and have to be willing to chip in, make an effort with cleaning and cooking and be open to getting to know new people. Giorgos was amazing if you ever get a trip with him.
+
+Review submitted 25 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+September 2017
+
+Gabrielle Wilson
+
+I loved the sailing trip because it was very beautiful sailing around untouched islands. The scenery was unreal and it was great being able to get out and about and explore the islands and to chill out on the beaches and do activities such as paddles and nature and village walks. The boat was very comfortable, the food great and the people very friendly and accommodating. As a tip I would suggest making sure that you bring a lot of sunscreen and be sun safe as you will probably be out on the front of the boat and the sun can be quite intense.
+
+Review submitted 24 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+September 2017
+
+joanne sharp
+
+wOw what an adventure, cruising the beautiful islands of Sardinia.  Cabins are very comfortable, it was great to be able to "check in" and not have to pack & unpack whilst travelling.  Such a fab experience to explore beautiful beaches and ports.  Remember to pack something warm or an all weather jacket it can get cool on the water
+
+Review submitted 24 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Dubrovnik to Split,
+September 2017
+
+patrice putman
+
+Ivan was an excellent cook also. Some of our best meals were on board.
+
+Review submitted 23 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+September 2017
+
+Nancy Smit
+
+A fantastic way to explore the Costa Smeralda.
+
+Review submitted 23 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+September 2017
+
+Rob Milton
+
+This sailing trip is sensational for sampling pristine waters, delicious cuisines, and meeting wonderful like minded travellers! Intrepid provide a great insight into local cultures wherever they take you, while using local transport in smaller groups, rather than jamming you into a cattle car (coach). The intrepid way is a far better way!
+
+Review submitted 23 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+September 2017
+
+Tristan Klosterman
+
+Fantastic trip with lovely people.  We didn't want to come back at the end and would have gladly spent more than 10 days sailing.  The small islands were a definite highlight.
+
+Review submitted 23 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+September 2017
+
+william lynch
+
+a great sailing experience and a nice combination of large and small islands
+
+Review submitted 22 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Cote D'Azur Sailing Adventure - Nice to Marseille,
+September 2017
+
+Dyann Russell
+
+Fun simple colloquial adventures, doable by every age and experience, with or without the group! Lossa individual opportunity to do your own things, or with a few of the group, or all. Great interaction with the locals. Fascinating opportunities..lossa learning of daily life where we visit, history if you want , politics and issues if you want . Great photo ops too!!
+
+Review submitted 19 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+September 2017
+
+Robert Collie
+
+You need to understand sailing is different to other forms of travel. Boats have special traits. Catching fish should be added to trip notes as part of the experience. Overall it was a great trip, made nicer by the personalities of the skipper, the cook and the two local crew.
+
+Review submitted 19 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+September 2017
+
+Melanie Marshall
+
+Nice week of sailing to exquisite beaches, eating good food and just relaxing. Be sure to bring a wind jacket though!
+
+Review submitted 18 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Dubrovnik to Split,
+July 2017
+
+William Brown
+
+A really nice week of cruising in very nice waters. Next time I might go Split to Dubrovnik, since we seemed to encounter a lot of unfavorable winds going Dubrovnik to Split.
+
+Review submitted 14 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+August 2017
+
+Amber Hough
+
+This trip was amazing. The boat was beautiful and well maintained, the islands and itinerary were perfect, and our skipper Antonis was professional, funny, kind and a truly impressive sailor.  Plus, the group bonded instantly (and stayed that way)! I have not laughed so much in years.
+
+Review submitted 14 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+August 2017
+
+Patrick Taggert
+
+I would recommend the Cyclades adventure to everyone. Antonios our skipper was 2nd to none. The sights and experiences you will see along the way will take your breath away. You will make life long friends as well. Our group was made up of ages 30-69 and we bonded like family, helped by our amazing skipper. Definitely put this trip on your bucket list!
+
+Review submitted 11 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+September 2017
+
+Elena Lissitsyna
+
+This is a very unique experience for anyone looking to get off the beaten path and truly explore the serenity and nature of Zanzibar and the surrounding islands. From spotting whales and dolphins, to catching fresh tuna for dinner, to snorkeling and exploring secluded islands, and visiting a remote village in Pemba, you will have a very memorable and fun experience.
+
+Review submitted 10 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+September 2017
+
+Margery Hornibrook
+
+Sardinia and Corsica; superb.
+
+Review submitted 09 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+September 2017
+
+Sabine Kona
+
+The trip was excellent - a seafari. We have seen several wales and dolphines, snorkelling around Mnemba and Mesali was excellent. There are additonal nice activities like kajaking, village visit,.. 
+You will def loose every sense of time and relax, no tourists, just nature.
+The crew was so nice, very kind and careing. Be prepared to eat a lot of delicous, fresh seafood!
+10+ for this trip!
+
+Review submitted 08 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+August 2017
+
+Sam Plant
+
+Check the weather for what dates you will be sailing, we had big seas and strong winds other than that an awesome trip
+
+Review submitted 08 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+August 2017
+
+Emma Tallentire
+
+A very relaxing way to enjoy the water around Sardinia.
+
+Review submitted 08 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure,
+August 2017
+
+Emily O'Donovan
+
+An absolutely beautiful part of the world, and sailing is a great way to experience it! If you are expecting any luxuries this is not the trip for you, and those with previous sailing experience who feel confident assisting the skipper are likely to get the most out of it. However if you are willing to try something new and go beyond your comfort zone this is a great adventure!
+
+Review submitted 05 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Amalfi Coast Sailing Adventure,
+August 2017
+
+Clare Collins
+
+Beautiful coastline which can be taken in slowly, relaxing on the boat. Interesting walks and activities including Pompii the scale of which is jaw dropping. The experience, knowledge and cooking of a well skilled skipper made this trip truly magical and one I will hopefully never forget.
+
+Review submitted 03 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+August 2017
+
+Maria Castro Agra
+
+Really nice trip, description is not completly accurate. Really nice overall experience.
+
+Review submitted 02 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+August 2017
+
+sirma Dogan
+
+Intrepid is a serious and very well organized Travelcompany, you get to see places and things that you woulnt imagine, and even if you go alone you feel yourself like in a family after just a short time, i am very recommanding this travelcompany to those who wants to explore the world from the natural and beautiful side.
+
+Review submitted 02 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+August 2017
+
+Shane Worthington
+
+Sailing Zanzibar is an unforgettable experience, the perfect mix between adventure and relaxation. 
+The crew were amazing and catered to our every need, big thanks to Caio, David, Omar and Khamis.
+
+Review submitted 30 Aug 2017
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Spice Islands Sailing Adventure,
+August 2017
+
+Kathryn Williamson
+
+Absolutely fabulous trip. Make sure you take a good book and some cards. BYO your alcohol and snacks if you need them. There are no ATMs outside of stone town so make sure you are prepared.
+
+Review submitted 27 Aug 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+August 2017
+
+Georgina Sawyer
+
+Just loved the whole experience , captain was extremely professional and knowlegible . We felt very confident with his skills and it was very obvivous to us when he had to manouver in these tiny marinas , quite apparent his level of expertise  ) Georgina Dee Why ( please correct my spelling )
+
+Review submitted 27 Aug 2017
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands ,
+July 2017
+
+Susan McAleer
+
+A fantastic way to explore the stunning Greek Islands and immerse yourself in the local culture with a small group of people.
+
+Review submitted 27 Aug 2017
+
+
+
+
+
+
+
+
+
+
+
+Amalfi Coast Sailing Adventure,
+June 2017
+
+Sian Ashton
+
+This trip is an incredible way to see the Amalfi Coast. It was wonderful to sail to new places and visit local restaurants and markets and then return to our lovely yacht at night. This is the second Intrepid sailing adventure my sister and I have done and we loved it just as much as the first which was in Thailand. If you're lucky you will get Captain Paolo whose enthusiasm and joy for life is contagious. Paolo made sure we went to the most authentic local restaurants and went out of his way to ensure his passengers were safe and happy.
+
+Check out this article about the trip: 
+http://www.dailymail.co.uk/travel/article-4741836/Sailing-Amalfi-Coast-yacht-explore-Italy.html 
+Enjoy!
+
+Review submitted 23 Aug 2017
+
+
+
+
+
+
+Show more
+
+
+
+
+
+Tips and advice
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 19, 2017
+
+
+
+Your essential guide to sailing jargon
+
+
+
+
+
+
+If you’re just starting to cut your teeth on life at sea, here’s the essential...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2017
+
+
+
+How to protect your camera at sea (and also...
+
+
+
+
+
+
+Nothing's worse than damaging your camera while on the water. Follow these tips...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 18, 2017
+
+
+
+5 ways to stop seasickness
+
+
+
+
+
+
+Seasickness is never fun but thankfully it can be treated. Follow these five...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stories from the sea
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+At sea: life on the water with Intrepid skipper...
+
+
+
+
+
+
+You’d think falling overboard would put you off sailing, but not skipper Mike Simon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 19, 2017
+
+
+
+Your essential guide to sailing jargon
+
+
+
+
+
+
+If you’re just starting to cut your teeth on life at sea, here’s the essential...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2017
+
+
+
+How to protect your camera at sea (and also...
+
+
+
+
+
+
+Nothing's worse than damaging your camera while on the water. Follow these tips...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 18, 2017
+
+
+
+5 ways to stop seasickness
+
+
+
+
+
+
+Seasickness is never fun but thankfully it can be treated. Follow these five...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 11, 2017
+
+
+
+Indonesia: 4 surprising experiences that aren’t...
+
+
+
+
+
+
+A holiday to Indonesia doesn't have to mean Bintangs and sunburn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 23, 2017
+
+
+
+Meet the Leaders: Judy, Bahamas sailing skipper
+
+
+
+
+
+
+This week we're proud to introduce our very first female sailing skipper, Judy....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Looking for a bigger ship?
+
+Like the idea of sailing but looking for a bigger boat and more creature comforts? Our Adventure Cruising range uses larger ships without skipping on the essential small-group experience. It’s the best bits of cruising…without the queues, kitsch and conga lines.
+
+Find out more about Adventure Cruising
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3185 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Azerbaijan Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Azerbaijan tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Azerbaijan
+
+
+
+Think Azerbaijan only holds appeal for travellers looking to tick off every country on the map? Think again.
+
+
+Imagine an enigmatic country squeezed in between the Caspian Sea and the Caucasus Mountains, scattered with small fishing towns and remote mountain villages far from the tourist trail. Envisage the capital Baku and picture
+Europe
+meeting
+Asia
+with a Gulf States flair – a brash cosmopolitan metropolis flaunting the latest in futuristic architecture sitting alongside ancient mosques, walled cities and old-world Russian opulence. Think how bemused your friends will be upon hearing of your latest holiday choice. Fascinating, austere and intriguing by turns, this back-of-beyond nation won’t fail to charm and perplex.
+
+
+Our Azerbaijan trips
+
+
+
+
+
+
+
+
+
+Azerbaijan & Georgia Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Join this all-encompassing Intrepid small group adventure from eccentric Baku, to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Azerbaijan & Georgia
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,875
+
+
+
+
+
+Visit Azerbaijan and Georgia on this Eurasian tour across Baku, Gobustan, the Caucasus...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Azerbaijan & Georgia Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,195
+
+
+
+
+
+Join this all-encompassing small group adventure from eccentric Baku, to the lush green...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Xi'an to Istanbul Overland
+
+
+
+
+
+
+
+
+
+80 Days
+
+
+From
+FR10,791
+
+
+
+
+
+Travel to Kyrgyzstan, Uzbekistan and Turkey. See the the Terracotta Warriors and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Azerbaijan travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baku
+
+
+
+
+Marvel at Baku's World Heritage-listed medieval architecture
+
+
+
+
+
+
+Highlights of Azerbaijan & Georgia , 10 days
+
+
+
+
+
+
+
+
+
+
+
+Sheki
+
+
+
+
+Marvel at the intricacy of Khan's Palace in Sheki
+
+
+
+
+
+
+Highlights of Azerbaijan & Georgia , 10 days
+
+
+
+
+
+
+
+
+
+
+
+Gobustan
+
+
+
+
+Visit Gobustan’s famed rock art and mud volcanoes
+
+
+
+
+
+
+
+
+
+
+Azerbaijan holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Baku (population 2.1 million)
+
+Population:
+
+9.3 million
+
+Language:
+
+Azerbaijani
+
+Currency:
+
+AZN
+
+Time zone:
+
+(GMT+04:00) Baku
+
+Electricity:
+
+Type C (European 2-pin)
+
+Dialing code:
+
++994
+
+
+
+
+
+
+
+
+
+Best time to visit Azerbaijan
+
+
+
+
+
+
+×
+
+Best time to visit Azerbaijan
+
+
+
+April through to June is the best time to visit Azerbaijan, when the temperatures are warm, the flowers are out, and skies at their clearest. September and October are also good temperature-wise, though the countryside isn’t as scenic. The heat and humidity can be oppressive in Baku during the summer months of June, July and August, and from November to March temperatures can fall below zero.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+Azerbaijan is a mountainous country on the western coast of the Caspian Sea. Over half of the country’s landscape consists of ridges, crests and foothills, while the remainder is characterised by lowland plateaus and plains traversed by rivers.
+
+
+
+
+
+
+
+
+Top 5 Iconic Sights in Azerbaijan
+
+
+
+
+
+
+×
+
+Top 5 Iconic Sights in Azerbaijan
+
+
+
+
+1. The Walled City of Old Baku
+
+Constructed sometime in the 12th century, this walled fortress was granted UNESCO World Heritage listing in 2000. A bustling labyrinth of alleyways, old buildings and boutique hotels, where the locals still live and go about their day, it retains the quintessential elements of a medieval town. It’s one of the few World Heritage sights in which you can actually bed down for a night.
+
+2. Shirvanshah’s Palace
+
+This ornate sandstone palatial complex received World Heritage status at the same time as the Walled City (in which it’s located). Largely destroyed by a bombardment, courtesy of the Russian Navy in the 18th century, the Palace has since been meticulously restored and is clearly visible from the sea and the city’s surrounding heights.
+
+3. Maiden's Tower
+
+Another World Heritage-listed sight inside the Walled City, Qiz Qalasi – translated as the Maiden’s or Virgin’s Tower – is one of Azerbaijan’s foremost architectural accomplishments and recognisable emblems. Standing 29 metres high and cylindrical in design, the history of this spiralling and mystifying structure remains a point of debate between historians, while its top offers 360-degree views of surrounding Baku Bay and the town’s alleys and minarets.
+
+4. Gobustan Rock Art Cultural Landscape
+
+The ancient carvings and petroglyphs of the Gobustan Rock Art Cultural Landscape, less than 70 km from Baku, provide a rich and fascinating insight into how life was for people in the area over 40,000 years ago. More than 6,000 depictions of flora, fauna and people engaged in hunting and fishing activities reveal both cultural continuity between prehistoric and medieval times, and seismic geographical change. The site received UNESCO listing in 2007.
+
+5. The Khan’s Palace
+
+Currently on the tentative list of sights seeking World Heritage listing, the former summer residential palace of Shaki Khans is an ornately tiled and patterned two-story structure built in 1797. Renowned for its exquisite stained-glass windows, murals and frescos, the palace’s beauty is only enhanced by verdant natural surroundings.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Russia and Azerbaijan: Russia and A Borderland in Transition
+
+Tadeusz Swietochowski
+
+The Oil and the Glory: The Pursuit of Empire and Fortune on the Caspian Sea
+
+Steve Levine
+
+Caucasus: A Journey to the Land Between Christianity and Islam
+
+Nicholas Griffin
+
+Black Garden: Armenia and Azerbaijan Through War and Peace
+
+Thomas de Waal
+
+
+
+
+
+
+
+
+Azerbaijan travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Azerbaijan?
+
+
+
+
+
+
+
+
+
+AZERBAIJAN VISA:
+
+All travellers to Azerbaijan require a visa. It is not possible to get a visa on arrival at Baku Airport or at any land border into Azerbaijan. All travellers must apply for  a Single Entry Tourist E-Visa to Azerbaijan in advance.
+
+We have partnered with The Visa Machine to provide your e-visa for Azerbaijan. This service is included in your trip cost. We advise that you apply for your e-visa no later than 3 months before your trip to allow time for processing. Azerbaijan e-visas are processed by the Ministry of Foreign Affairs in Azerbaijan and usually take around 4 weeks to be processed, with up to 6 weeks in peak travel season not uncommon.
+
+
+
+INSTRUCTIONS:
+
+1. To obtain your Azerbaijan e-visa use this link:
+http://intrepid-visa-support.thevisamachine.com/
+
+2. Use the Checklist to make sure you have everything you need before you start as you will not be able to save once your start filling in the application.
+
+3. Once you are satisfied you have all information with you to apply for your Azerbaijan e-visa click on the ‘Apply Now’ link and follow the instructions.
+
+4. If you have any trouble with the online form or want to check the status of your Azerbaijan e-visa application please contact The Visa Machine on
+visasupport@thevisamachine.com
+or during UK working hours on +44(0) 207 148 6402.
+
+
+
+
+
+
+
+Is tipping customary in Azerbaijan?
+
+
+
+
+
+
+
+
+
+In established restaurants, bars, hotels and taxis, a 5-10% service charge is usually added to the bill - though feel free to tip more than this for exceptional service. At restaurants where a service charge isn’t included, 10% is the acceptable gratuity. Although tipping at other places isn't mandatory it will be well received, and setting aside a small amount for porters, guides and drivers is also a good idea.
+
+
+
+
+
+
+
+What is the internet access like in Azerbaijan?
+
+
+
+
+
+
+
+
+
+Internet cafes with reliable and fast connections can easily be found in all of Azerbaijan’s major cities and towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Azerbaijan?
+
+
+
+
+
+
+
+
+
+Mobile coverage is extensive throughout the capital and major cities, but pretty much non-existent in the remote mountainous parts of the country. Roaming agreements are in place with most international cellular companies.
+
+
+
+
+
+
+
+What are the toilets like in Azerbaijan?
+
+
+
+
+
+
+
+
+
+Clean and flushable Western-style toilets are generally the go at established tourist attractions across the country, though one should be prepared for some pretty ordinary squat/pit toilets elsewhere. Carry your own supply of soap and toilet paper, as these aren’t always at hand.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+1.5 litre bottle of water = .60 AZN
+Bottle of local beer = 2.5 AZN
+Meal at an inexpensive restaurant = 8 AZN
+Meal at a mid-range restaurant = 40 AZN
+
+
+
+
+
+
+
+Can I drink the water in Azerbaijan?
+
+
+
+
+
+
+
+
+
+Tap water isn't safe to drink in Azerbaijan. For environmental reasons, try to avoid buying bottled water. Instead, bring water purification tablets or ask your leader where filtered water can be found.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Azerbaijan?
+
+
+
+
+
+
+
+
+
+Some major credit cards will be accepted at some high-end restaurants and hotels, but it's best not to rely on these.
+
+
+
+
+
+
+
+What is ATM access like in Azerbaijan?
+
+
+
+
+
+
+
+
+
+ATMs are prevalent in Baku and other major towns, though won’t necessarily be internationally connected or reliable. Be sure to have other payment methods when visiting the country.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Azerbaijan?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Azerbaijan ?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+3 Jan New Year Holiday
+
+4 Jan New Year Holiday
+
+20 Jan Martyrs' Day
+
+8 Mar International Women's Day
+
+20 Mar Persian New Year / Novruz Holiday
+
+21 Mar Persian New Year / Novruz Holiday
+
+22 Mar Persian New Year / Novruz Holiday
+
+23 Mar Persian New Year / Novruz Holiday
+
+24 Mar Persian New Year / Novruz Holiday
+
+9 May Victory Day
+
+28 May Republic Day
+
+29 May Republic Day Holiday
+
+15 Jun National Salvation Day
+
+25 Jun Ramazan Bayrami
+
+26 Jun Azerbaijan Armed Forces Day
+
+26 Jun Ramazan Bayrami
+
+1 Sep Gurban Bayrami / Feast of Sacrifice
+
+2 Sep Gurban Bayrami / Feast of Sacrifice
+
+3 Sep Gurban Bayrami / Feast of Sacrifice
+
+9 Nov Flag Day
+
+31 Dec International Solidarity Day of Azerbaijanis
+
+Please note these dates are for 2017. For a current list of public holidays in Azerbaijan  go to:
+http://www.worldtravelguide.net/azerbaijan/public-holidays
+
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Azerbaijan
+
+Be considerate of Azerbaijan’s customs, traditions, religion and culture.
+
+Only use your right hand for eating and passing things to locals. The left is used for ‘unhygienic tasks’.
+
+Dress modestly and respectfully. Shoulders to knees should be covered and shoes removed when entering places of worship.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water or use water purification tablets.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive and supports the local community.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

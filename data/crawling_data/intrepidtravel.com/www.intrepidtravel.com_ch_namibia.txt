@@ -1,0 +1,4250 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Namibia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Namibia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Namibia
+
+
+
+Home to proud tribes steeped in tradition, herds of rare desert-dwelling elephants, wild horses and massive colonies of seals, Namibia showcases the very best of Africa's raw landscapes.
+
+
+From quaint German-inspired towns to uninhabitable deserts, bushland filled with wildlife and a rocky coastline littered with shipwrecks, Namibia's untamed charm is compelling, captivating and camera-worthy.
+
+
+Top Namibia travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+13 Jan 2018
+
+Namibia Discovery
+
+
+
+Namibia Discovery
+Cape Town to Windhoek
+
+
+
+
+
+
+
+
+
+×
+
+Namibia Discovery
+
+
+
+
+
+
+
+
+
+13
+
+
+FR3,500
+
+
+FR2,975
+
+
+
+
+View Trip
+
+
+
+
+
+
+13 Jan 2018
+
+Amazing Southern Africa
+
+
+
+Amazing Southern Africa
+Cape Town to Victoria Falls
+
+
+
+
+
+
+
+
+
+×
+
+Amazing Southern Africa
+
+
+
+
+
+
+
+
+
+22
+
+
+FR6,425
+
+
+FR5,783
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Cape Town to Kenya
+
+
+
+Cape Town to Kenya
+Cape Town to Nairobi
+
+
+
+
+
+
+
+
+
+×
+
+Cape Town to Kenya
+
+
+
+
+
+
+
+
+
+49
+
+
+FR5,785
+
+
+FR5,207
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Cape Town to Zanzibar
+
+
+
+Cape Town to Zanzibar
+Cape Town to Stone Town
+
+
+
+
+
+
+
+
+
+×
+
+Cape Town to Zanzibar
+
+
+
+
+
+
+
+
+
+40
+
+
+FR3,995
+
+
+FR3,596
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Cape Town to Vic Falls
+
+
+
+Cape Town to Vic Falls
+Cape Town to Victoria Falls
+
+
+
+
+
+
+
+
+
+×
+
+Cape Town to Vic Falls
+
+
+
+
+
+
+
+
+
+22
+
+
+FR2,450
+
+
+FR2,205
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Southern Africa Adventure
+
+
+
+Southern Africa Adventure
+Cape Town to Johannesburg
+
+
+
+
+
+
+
+
+
+×
+
+Southern Africa Adventure
+
+
+
+
+
+
+
+
+
+30
+
+
+FR3,250
+
+
+FR2,925
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Namibia trips
+
+
+
+
+
+
+
+
+
+Botswana Highlights
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Stay in a tree house, search for the Big Five in the Chobe National Park, meet Xwe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,101
+
+
+
+
+
+Travel to Africa and discover the unique, contrasting lands of Zimbabwe, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Visit Africa and travel through Botswana, Namibia and Zimbabwe on a tour from Windhoek...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Vic Falls
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,550
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Northbound
+
+
+
+
+
+
+
+
+
+64 Days
+
+
+From
+FR7,920
+
+
+
+
+
+Jump aboard this epic tour from Cape Town to Nairobi. From safaris in Tanzania and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing Southern Africa
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR6,745
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Namibia Discovery
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,865
+
+
+
+
+
+Crossing the border from Cape Town, South Africa, head towards Windhoek to encounter...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Cape Town
+
+
+
+
+
+
+
+
+
+48 Days
+
+
+From
+FR6,340
+
+
+
+
+
+Explore Africa as you travel from Kenya to Cape Town through Tanzania, Zanzibar, Malawi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,770
+
+
+
+
+
+See Africa encompassed on a tour through Kenya, Uganda, Rwanda, Tanzania, Malawi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Zanzibar
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR3,870
+
+
+
+
+
+See Africa on this incredible overland adventure from South Africa to Tanzania. Soak up...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Cape Town
+
+
+
+
+
+
+
+
+
+39 Days
+
+
+From
+FR4,390
+
+
+
+
+
+Explore Africa on this wildlife-rich adventure from Tanzania to South Africa. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Kenya
+
+
+
+
+
+
+
+
+
+49 Days
+
+
+From
+FR6,285
+
+
+
+
+
+Explore Africa as you wind your way up from South Africa, through Namibia, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Experience
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR15,955
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls and then onto...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Africa Adventure
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR3,215
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Namibia Dunes
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR567
+
+
+
+
+
+Explore the stunning red dunes of Soussusvlei with this short break out from Namibia’s...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Photography Safari with Ben Mcrae
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR3,875
+
+
+
+
+
+Travel from Victoria Falls to Chobe National Park, cross the Makgadikgadi Pans to Maun,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Namibia Dunes - Camping
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR647
+
+
+
+
+
+Experience an arid wonderland like no other as you travel to Sesirem, Soussusvlei, Dune...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Namibia tour reviews
+
+
+Our Namibia trips score an average of
+4.79 out of 5
+based on 238 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town,
+November 2017
+
+Karen Gregory
+
+The trip was great but I did think that the office staff were not as efficient as they should have been. Be very careful to check all details of a booking and question any vague or ambiguous trip notes.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town,
+November 2017
+
+Sharon Lovison
+
+AMAZING! That word was used after every activity, after every scenery change and literally after everything that we did.
+
+When I met Victor and Dan for the fist time, all I noticed was their smile. Sometimes you don't need words when you meet people. Dan helped me with my luggage and found me a locker, after that I was now part of the family. 
+
+From Day One, Victor, Dan and Henry were so kind, caring and made me and everyone feel at ease and so welcoming. It was refreshing to only meet someone for a few hours but then realise how comfortable they made you feel. 
+
+We had such a wide range of ages on our trip, but that didn't stop anyone from not being friends. From the first night, everyone just clicked. 
+
+Everyday was different and there was always something to see or do. Victor was very knowledgable and told us as much as he could at each place we went to. Especially on the safaris he was just as excited as we were when we saw a new animal. 
+
+Henry's food on the trip was fantastic. I really didn't think we would get the type of food that we did. On the days that we were out and about and on our own, we often said "It's not as good as Henry's" I never went hungry and hats off to him to make all these different meals and satisfy 17 different people. 
+
+This trip has been one of the best experiences of my life. So many memories. Victor, Dan and Henry made it the best trip possible for everyone and of course the other people on the trip too. I never imagined that I'd see all that I have. It exceeding my expectations way beyond belief.  I cannot recommend this trip to anyone enough, and if you're lucky to have these boys on your trip, then you are in for an amazing trip! There are too many words to describe this trip, just book it and see for yourself!
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Namibia trip reviews
+
+Our Namibia trips score an average of
+4.79 out of 5
+based on 238 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Namibia
+
+
+
+
+
+
+
+
+
+
+
+
+May 15, 2017
+
+
+
+A language guide for Southern Africa
+
+
+
+
+
+
+Learning a few words in the local language will gain you a lot of respect. So to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 05, 2017
+
+
+
+9 places you need to visit in Namibia
+
+
+
+
+
+
+Wild and dramatic, vast and breathtakingly beautiful, Namibia is a must-see for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 29, 2017
+
+
+
+A journey through Sossusvlei, Namibia
+
+
+
+
+
+
+The distinction between man and wild feels vague as we roll through the Namibian...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 09, 2015
+
+
+
+Life unplugged: 6 reasons your next family...
+
+
+
+
+
+
+An African family safari is on the once-in-a-lifetime end of the holiday spectrum....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 11, 2014
+
+
+
+8 African snacks you’ve just got to try
+
+
+
+
+
+
+In Africa, most action takes place on the streets and roadsides – people hawking...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Namibia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Etosha National Park
+
+
+
+
+Enjoy spotting zebra, rhinos and elephants in the Etosha National Park
+
+
+
+
+
+
+
+
+
+Skeleton Coast
+
+
+
+
+See the shipwrecks and seal colonies of the Skeleton Coast
+
+
+
+
+
+
+
+
+
+Grootfontein
+
+
+
+
+Learn hunter-gatherer skills from the San Bushmen
+
+
+
+
+
+
+
+
+
+
+Transport in Namibia
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Namibia, you may find yourself travelling by:
+
+
+
+
+
+
+
+Overland Vehicle
+
+Travel through Namibia's vast deserts, rugged landscapes and rocky terrain on an overland truck custom-made for group travel.
+
+
+Cape Town to Vic Falls
+
+Vic Falls to Cape Town
+
+
+
+
+
+
+
+
+
+
+Canoe
+
+Spot birds as you glide across the calm waters of Namibia's Orange River aboard a canoe.
+
+
+Africa Experience
+
+Amazing Southern Africa
+
+
+
+
+Accommodation in Namibia
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Namibia you may find yourself staying in a:
+
+
+
+
+
+
+
+Guesthouse
+
+Intrepid prefers smaller character-filled guesthouses to hotel chains. When staying in Namibia, enjoy staying in small guesthouses owned and run by friendly locals.
+
+
+
+
+
+Namibia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Windhoek (population 161,000)
+
+Population:
+
+2.1 million
+
+Language:
+
+English, Afrikaans
+
+Currency:
+
+NAD
+
+Time zone:
+
+(GMT+02:00) Windhoek
+
+Electricity:
+
+Type D (Old British 3-pin) Type M (see D)
+
+Dialing code:
+
++264
+
+
+
+
+
+
+
+
+
+Best time to visit Namibia
+
+
+
+
+
+
+×
+
+Best time to visit Namibia
+
+
+
+
+May to October is considered one of the best times to visit Namibia as the days are warm and sunny and the weather is generally dry. Namibian and South African school holidays are mid-December to mid-January, late April to early June and late August to mid-September, so expect Namibia to be busier during these times.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Red desert dunes, rugged bushveld, dense woodlands and plains of gravel make up Namibia's ancient terrain. Home to the monumental Fish River Canyon and sharing the iconic Kalahari Desert with
+South Africa
+and
+Botswana
+, Namibia has some of the most interesting landscapes in
+Africa
+, if not the world. With little arable land and a warm climate, Namibia is prone to prolonged periods of drought, making farming difficult. Bordered by Angola, Botswana, South Africa and
+Zambia
+, Namibia also has a stretch of coastline along the Atlantic Ocean where visitors can see where the desert meets the sea.
+
+
+
+
+
+
+
+
+Top 5 Awe-Inspiring Views in Namibia
+
+
+
+
+
+
+×
+
+Top 5 Awe-Inspiring Views in Namibia
+
+
+
+
+1. Colossal Canyon
+
+There's more to the Fish River Canyon than its sheer size. With remote hiking trails, magnificent view points and raging river torrents during the rainy season, visitors will be breathless at the epic views and sense of isolation when visiting this canyon, believed to have been formed more than 500 million years ago.
+
+2. Damaralandscape
+
+The timeworn terrain of Damaraland makes for interesting, otherworldly landscapes to travel through. The combination of strange rock formations, parched valleys, ochre boulders and amber sunsets makes for magic memories.
+
+3. Sossusvlei Sands
+
+This huge clay pan wrapped in red sand dunes occupies a large part of southern Namibia. With some of the tallest dunes in the world, Sossusvlei's variety of colour, size and flora make it a glory to behold.
+
+4. Cape Cross Critters
+
+This protected area on the cape of the southern Atlantic is most famous for its resident seal colony, one of the largest in the world. Witnessing thousands of Cape Fur Seals basking in the sun is a life affirming sight not to be missed when in this part of the world.
+
+5. Ship to Shore
+
+Namibia's Skeleton Coast has been called 'The Land God Made in Anger' by the San Bushmen and 'The Gates of Hell' by the Portuguese, and it's not hard to see why. With gale force winds battering the shore, rolling surf and thick fog, the Skeleton Coast has ruined many a mariner over the years. Evidence of this is scattered along the coastal sands, with a collection of rusting ships resting on the beaches - an eerie yet enthralling sight.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Place of Stunted Ironwood Trees
+
+David P Crandall
+
+Soul of a Lion
+
+Barbara Bennett
+
+The Elephant's Secret Sense
+
+Caitlin O'Connell
+
+Blood Rose
+
+Margie Orford
+
+Histories of Namibia
+
+Colin Leys and Susan Brown
+
+
+
+
+
+
+
+
+Namibia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Namibia?
+
+
+
+
+
+
+
+
+
+NAMIBIA:
+
+Australia: No visa required
+Belgium: No visa required
+Canada: No visa required
+Germany: No visa required
+Ireland: No visa required
+Netherlands: No visa required
+New Zealand: No visa required
+South Africa: No visa required
+Switzerland: No visa required
+United Kingdom: No visa required
+USA: No visa required
+
+Nationals from the countries listed above are not required to obtain visa, when traveling to Namibia as tourists for a maximum period of 90 days. For any other other nationalities, please contact the local consulate or embassy for visa requirements. Please check with the relevant visa office before departure to make sure there has been no change.
+
+
+
+
+
+
+
+Is tipping customary in Namibia?
+
+
+
+
+
+
+
+
+
+While not mandatory, a tip of 10% is considered standard when dining in Namibia. With the typical Namibian earning a modest wage, a small tip to porters, housemaids and other service workers would be appreciated.
+
+
+
+
+
+
+
+What is the internet access like in Namibia?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access the internet quite easily in the cyber cafes of Namibia’s large cities, but limited to no access should be expected in regional and rural areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Namibia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in Namibia's large cities and towns, but less so in rural and mountainous areas. Ensure you have global roaming activated before leaving home if you wish to use your mobile phone.
+
+
+
+
+
+
+
+What are the toilets like in Namibia?
+
+
+
+
+
+
+
+
+
+Depending on which areas of Namibia you are travelling in, expect to encounter a combination of squat toilets and flushable toilets. Carry your own supply of soap and toilet paper as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+1 hour in a cyber cafe = 8-10 NAD
+A bottle of local beer = 15 NAD
+Budget lunch = 36 NAD
+Sit-down dinner in a nice restaurant = 100 NAD
+
+
+
+
+
+
+
+Can I drink the water in Namibia?
+
+
+
+
+
+
+
+
+
+While tap water is considered safe in Namibia's cities, drinking tap water isn't generally recommended in Namibia. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead. Ask your leader where filtered water can be found; some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Namibia?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by large hotels and western-style restaurants but not by smaller vendors. Ensure you have adequate cash to cover purchases not able to be made on credit.
+
+
+
+
+
+
+
+What is ATM access like in Namibia?
+
+
+
+
+
+
+
+
+
+ATMs are easily found in large cities and urban centres, but are rarer in small towns, rural areas and villages. Be sure to have other payment methods available when venturing out of the big cities, as ATMs aren't always an option.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Namibia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Namibia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+2 Jan New Year's Day Holiday
+21 Mar Independence Day
+14 Apr Good Friday
+17 Apr Easter Monday
+1 May Workers' Day
+4 May Cassinga Day
+25 May Ascension Day
+25 May Africa Day
+26 Aug Heroes' Day
+10 Dec Human Rights Day / Namibian Women's Day
+11 Dec Human Rights Day / Namibian Women's Day Holiday
+25 Dec Christmas Day
+26 Dec Family Day
+
+Please note these dates are for 2017. For a current list of public holidays in Namibia go to:
+http://www.worldtravelguide.net/namibia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Namibia
+
+1. Be considerate of Namibia’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+6. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+7. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+8. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+9. Please ask and receive permission before taking photos of people, including children.
+
+10. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

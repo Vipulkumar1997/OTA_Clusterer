@@ -1,0 +1,5227 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spain Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spain tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Spain
+
+
+
+Oh Spain… how you dazzle us with architectural feats and artistic treats, enrich us with historic treasures and nourish us with sangria and tapas!
+
+
+From charismatic cities full of boisterous bars and hip galleries, to sleepy villages dotted with run-down farmhouses and olive groves, Spain never fails to open up travellers’ eyes, minds and hearts.
+
+
+Top Spain travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+10 Mar 2018
+
+Best of Spain
+
+
+
+Best of Spain
+Madrid to Barcelona
+
+
+
+
+
+
+
+
+
+×
+
+Best of Spain
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,675
+
+
+FR2,541
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Spain trips
+
+
+
+
+
+
+
+
+
+Cruising Spain, Portugal and Morocco (Lisbon to Malaga)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,877
+
+
+
+
+
+Climb aboard the Harmony G for an unforgettable cruising adventure in Portugal, Spain...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Marrakech
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,295
+
+
+
+
+
+Travel from Madrid to Marrakech on a sangria, sun and spice infused tour across Spain,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Spain and Portugal
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,930
+
+
+
+
+
+Travel through Spain and Portugal. Visit Madrid, Granada, Seville, the Algarve, Lisbon,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Spain
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,675
+
+
+
+
+
+Kick off a colourful Best of Spain tour in Madrid and visit some of Spain's highlights....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Spain Real Food Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,560
+
+
+
+
+
+Taste your way from Barcelona to Santiago de Compostela, through La Rioja and San...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North Spain Discovery
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,685
+
+
+
+
+
+Get a taste of northern Spain's culture, cuisine and charisma on an eight-day tour....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spain, Portugal & Morocco
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR2,995
+
+
+
+
+
+Visit Spain, Portugal and Morocco on a tour from Madrid to Marrakech. See Lisbon, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Portugal Real Food Adventure, featuring Galicia
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Delight your tastebuds with port and jamon on this whirlwind tour of Galicia and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Spain, Portugal and Morocco - Malaga to Lisbon
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,877
+
+
+
+
+
+Climb aboard the Harmony G and set sail for Spain, Portugal and Morocco on this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Spain
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR975
+
+
+
+
+
+Travel from alluring Madrid to beautiful Barcelona. Visit Cuenca’s Old City with its...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Marrakech to Barcelona
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,335
+
+
+
+
+
+Travel from Marrakech to Barcelona on a tour through Morocco and Spain. Visit Marrakech...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Rome
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,235
+
+
+
+
+
+Travel through three of Europe's most enchanting countries. Visit Spain, head through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Venice
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,650
+
+
+
+
+
+Elaborate architecture and exceptional cuisine, legendary landscapes and live history...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Spain and Portugal
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,475
+
+
+
+
+
+Travel through Spain and Portugal. Visit Madrid, Granada, Seville, the Algarve, Lisbon,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Berlin
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,910
+
+
+
+
+
+Packed with historical, culinary and artistic attractions, this journey from Barcelona...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Paris to Madrid
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Travel through France and Spain, exploring the delights of Paris, going on a wine tour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore the Camino Way
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,146
+
+
+
+
+
+Walk the pilgrim’s trail on the Camino de Santiago across northern Spain. Get arty at...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,810
+
+
+
+
+
+Visit Spain, France, Germany, the Czech Republic and Italy on this epic journey that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+France & Spain
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR5,515
+
+
+
+
+
+Jump aboard a colourful adventure from Paris to Barcelona. Tour through France's wine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Andalucia
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,035
+
+
+
+
+
+Experience southern Spain on this cycling adventure from Seville to Granada. Ride car...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Berlin
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,770
+
+
+
+
+
+Jump aboard a colourful adventure from Madrid to Berlin. Tour through beautiful beaches...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Venice
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR4,700
+
+
+
+
+
+Travel through numerous European countries starting in Spain and France, through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Spain
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,045
+
+
+
+
+
+Visit the drawcard attractions in Spain and tour Madrid, Cordoba, Seville, Costa de la...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Paris to Marrakech
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR5,150
+
+
+
+
+
+Travel to France, Spain, Portugal and Morocco on a trip from Paris to Marrakech. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Rome
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,760
+
+
+
+
+
+Embark on an all-European adventure from Madrid  to Rome, stopping off in the grand...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spain & Portugal Real Food Adventure
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR4,595
+
+
+
+
+
+Taste your way from Barcelona to Santiago de Compostela, through La Rioja and San...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Spain tour reviews
+
+
+Our Spain trips score an average of
+4.69 out of 5
+based on 469 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Madrid to Marrakech,
+November 2017
+
+emily naylor
+
+Fantastic trip, covers so much. Don't ignore the 'pack light' suggestions. Also I'd definitely recommend the extra nights, pre and post tour for in depth city exploring. Madrid and Marrakech are both such interesting and uniquely beautiful cities and they deserve your attention.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Best of Spain,
+September 2017
+
+Rosemary Evans
+
+I feel very lucky to have seen this part of the world. The history, architecture, food, wine and art of this magneficent country were all there to enjoy and experience at your own pace with Intrepid Travel. I would thoroughly recommend it .
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Spain trip reviews
+
+Our Spain trips score an average of
+4.69 out of 5
+based on 469 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Spain
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+Everything you need to know about Valencia, the...
+
+
+
+
+
+
+I don’t use the word underrated lightly, but when I found Valencia to be missing...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 11, 2017
+
+
+
+6 cities in Spain to visit before everyone else...
+
+
+
+
+
+
+Spain is far more than sangria, tapas and the works of Gaudí. Here are 6...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 28, 2017
+
+
+
+Prepare to salivate: Top 10 restaurants in...
+
+
+
+
+
+
+Check out our guide to the best of Barcelona’s Spanish and international cuisine....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 03, 2017
+
+
+
+6 must-try dishes in Madrid
+
+
+
+
+
+
+From tasty tapas to superb seafood, Spain’s beloved capital city is packed with...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 04, 2016
+
+
+
+Mi gusto: A guide to Barcelona’s La Boqueria
+
+
+
+
+
+
+If you want to observe the Spanish food chain, from the depths of the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2016
+
+
+
+Flamenco & fusion: A local’s guide to Granada
+
+
+
+
+
+
+Granada may be the most dangerous city in Spain. No where else is there city so...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 07, 2016
+
+
+
+The world’s most bike-friendly cities, ranked
+
+
+
+
+
+
+Scandinavia may be leading the way, but there are a few new bike-friendly cities...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Trendsetters: Europe tips from the UK’s top...
+
+
+
+
+
+
+There are 36 countries within a 3-hour flight of the UK. That’s pretty awesome,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 14, 2015
+
+
+
+The world’s best city rivalries: why travellers...
+
+
+
+
+
+
+Whether it’s based on landmarks, music, fashion, food, sport, literature, location...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 15, 2015
+
+
+
+Travelling as a vegan? These are the 7...
+
+
+
+
+
+
+With vegan-diets becoming more common on a global scale, travellers are starting...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 27, 2015
+
+
+
+Introducing Europe’s newest independent countries?
+
+
+
+
+
+
+Thanks to a turbulent history, Europe has fifty-one of the countries on the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 27, 2015
+
+
+
+European history according to Asterix and Obelix
+
+
+
+
+
+
+Just like a regular history lesson, only interesting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 14, 2015
+
+
+
+Five Game of Thrones locations you can actually...
+
+
+
+
+
+
+Think you can guess your fav show’s shooting locations? You know nothing, Jon Snow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 25, 2014
+
+
+
+Spain’s best kept secret: 5 reasons you need to...
+
+
+
+
+
+
+In the northwest of Spain you'll find an autonomous community with many delicious...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spain travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Valencia
+
+
+
+
+Pick up some fresh produce in the markets of Valencia
+
+
+
+
+
+
+Best of Spain, 15 days
+
+
+
+
+
+
+
+
+Highlights of Spain, 8 days
+
+
+
+
+
+
+
+
+France & Spain, 28 days
+
+
+
+
+
+
+
+
+
+
+
+Alhambra
+
+
+
+
+Visit the Islamic-inspired fortress of Alhambra
+
+
+
+
+
+
+Cycle Andalucia, 9 days
+
+
+
+
+
+
+
+
+Best of Spain, 15 days
+
+
+
+
+
+
+
+
+Explore Spain and Portugal, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Cordoba
+
+
+
+
+Admire the mosques, temples, synagogues and churches of Cordoba
+
+
+
+
+
+
+Best of Spain, 15 days
+
+
+
+
+
+
+
+
+Classic Spain, 22 days
+
+
+
+
+
+
+
+
+France & Spain, 28 days
+
+
+
+
+
+
+
+
+
+
+
+Seville
+
+
+
+
+Laze the day away with plate after plate of tapas, or explore the glorious Maria Luisa Park and Plaza de Espana.
+
+
+
+
+
+
+Paris to Marrakech, 29 days
+
+
+
+
+
+
+
+
+Classic Spain and Portugal, 22 days
+
+
+
+
+
+
+
+
+Marrakech to Barcelona, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Ronda
+
+
+
+
+Precariously positioned at the edge of a cliff, Ronda is a charming medieval city with a view.
+
+
+
+
+
+
+Classic Spain, 22 days
+
+
+
+
+
+
+
+
+France & Spain, 28 days
+
+
+
+
+
+
+
+
+Best of Spain, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Costa de la Luz
+
+
+
+
+This sunny coastline facing towards North Africa is studded with laid-back beach towns where you can do as much or as little as you like.
+
+
+
+
+
+
+Best of Spain, 15 days
+
+
+
+
+
+
+
+
+Classic Spain, 22 days
+
+
+
+
+
+
+
+
+France & Spain, 28 days
+
+
+
+
+
+
+
+
+
+
+
+Granada
+
+
+
+
+Granada’s 800 years as a Moorish capital is reflected in the city’s exceptional architectural heritage.
+
+
+
+
+
+
+Classic Spain and Portugal, 22 days
+
+
+
+
+
+
+
+
+Classic Spain, 22 days
+
+
+
+
+
+
+
+
+Marrakech to Barcelona, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Barcelona
+
+
+
+
+Even with all the historic palaces and gothic cathedrals, Barcelona remains a cutting-edge destination thanks to its bustling boulevards, pulsing nightlife and rustic Catalan cuisine.
+
+
+
+
+
+
+Barcelona to Berlin, 15 days
+
+
+
+
+
+
+
+
+Barcelona to Rome, 15 days
+
+
+
+
+
+
+
+
+Barcelona to Venice, 29 days
+
+
+
+
+
+
+
+
+
+
+
+Pamplona
+
+
+
+
+This sleepy medieval town is famous as the home of the annual San Fermin Festival, popularly known as ‘The Running of the Bulls’.
+
+
+
+
+
+
+North Spain Discovery, 8 days
+
+
+
+
+
+
+
+
+Classic Spain and Portugal, 22 days
+
+
+
+
+
+
+
+
+Classic Spain, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Logrono
+
+
+
+
+With a history of wine-making dating back to the Middle Ages, Logrono is the perfect place to feast on tapas and sample the La Rioja wine region’s famous red.
+
+
+
+
+
+
+North Spain Discovery, 8 days
+
+
+
+
+
+
+
+
+Spain & Portugal Real Food Adventure, 17 days
+
+
+
+
+
+
+
+
+Northern Spain Real Food Adventure, 10 days
+
+
+
+
+
+
+
+
+
+
+
+San Sebastian
+
+
+
+
+This food-obsessed city in the heart of Basque country has so many Michelin-starred restaurants, it’s hard to know where to start. Pack your appetite.
+
+
+
+
+
+
+Paris to Marrakech, 29 days
+
+
+
+
+
+
+
+
+France & Spain, 28 days
+
+
+
+
+
+
+
+
+Northern Spain Real Food Adventure, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Santiago de Compostela
+
+
+
+
+A World-Heritage site and the final stop of the Camino de Santiago, this must-see city is packed with lively squares and markets.
+
+
+
+
+
+
+Explore the Camino Way, 10 days
+
+
+
+
+
+
+
+
+Portugal Real Food Adventure, featuring Galicia, 8 days
+
+
+
+
+
+
+
+
+Spain & Portugal Real Food Adventure, 17 days
+
+
+
+
+
+
+
+
+
+
+
+Picos de Europa
+
+
+
+
+Covering nearly 647 square kilometres, Picos de Europa is Spain’s second largest national park. Work up an appetite trekking through alpine landscapes before settling in for a hearty dinner.
+
+
+
+
+
+
+Northern Spain Real Food Adventure, 10 days
+
+
+
+
+
+
+
+
+Spain & Portugal Real Food Adventure, 17 days
+
+
+
+
+
+
+
+
+
+
+
+Bilbao
+
+
+
+
+Once an industrial city, Bilbao was revitalised after the arrival of the Guggenheim Museum and has since become a haven for architecture and design.
+
+
+
+
+
+
+Northern Spain Real Food Adventure, 10 days
+
+
+
+
+
+
+
+
+Explore the Camino Way, 10 days
+
+
+
+
+
+
+
+
+Spain & Portugal Real Food Adventure, 17 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Spain
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Spain, you may find yourself travelling by:
+
+
+
+
+
+
+
+Train
+
+Spain’s trains are a reliable, fast and cost-effective way to travel around (and between) the cities. Many Intrepid trips in Spain incorporate rail travel, giving passengers the chance to take in the scenery and interact with locals and fellow travellers.
+
+
+Highlights of Spain
+
+Best of Spain
+
+
+
+
+Spain holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Madrid (population 3.1 million)
+
+Population:
+
+46.7 million
+
+Language:
+
+Spanish, Catalan
+
+Currency:
+
+EUR
+
+Time zone:
+
+(GMT+01:00) Brussels, Copenhagen, Madrid, Paris
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++34
+
+
+
+
+
+
+
+
+
+Best time to visit Spain
+
+
+
+
+
+
+×
+
+Best time to visit Spain
+
+
+
+
+The months of May, June, September and October are ideal for visiting Spain. July and August, can get extremely hot (particularly in the south) and is the peak period for Spaniards to travel. During these months there is a mass exodus from the cities to the coast. The ‘Costas' become a hive of activity and the cities are fairly deserted.
+
+Generally, pleasant weather can be found in different areas of the country, depending on the season. Why not retreat to the north of Spain and enjoy the beaches and mountains in the height of summer? In winter, the north can become quite cold so perhaps this is the time to enjoy the mild winter of the south?
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Spaniards are known for their love of food, passion for partying and penchant for siestas. This is the home of vibrant fiestas, flashy flamenco, heaving nightclubs and wild foam parties. But it doesn’t end there - to visit Spain is to be welcomed into a world of creative genius. From visionary architects to passionate painters, controversial film directors to literary greats, Spain has a strong creative tradition evident in the gothic cathedrals, abstract art and much-loved movies to come out of this nation. Spain can lay claim to such influential names as Dali, Goya, Miro, Picasso, Gaudi and Almodovar, so travellers can expect to be spoilt by Spain’s many cultural treasures.
+
+With most Spaniards being Roman Catholic, Easter, Christmas and other religious holidays are observed. Additionally, different Patron Saints are honoured by regional areas – with cities and villages celebrating with bonfires, feasts and parades. Many regional areas of Spain are culturally different from others (especially the Basque and Catalonia areas) where unique traditions, customs, holidays and language are observed.
+
+
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Food doesn’t get much better or fresher than in Spain. An abundance of fresh seafood, vegetables, fruits, wines and pastries ensures there’s plenty to try in the bars, restaurants, cafes, street fiestas and markets of Spain.
+
+Things to try in Spain
+
+1. Tapas
+
+Who would have thought that little bowls of seafood, pork, beef, vegetables and olives could be so filling? Have fun hopping to different tapas bars, trying classics like patatas bravas, croquetas, pulpo a la gallega and jamon serrano.
+
+2. Wine
+
+Don’t leave without trying a glass of tempranillo or sherry, both native to Spain. The Jerez area is famous for its sherry varieties, so have fun visiting local cellars for some taste testing.
+
+3. Beer
+
+Although Spain has a strong wine culture, local beer is still a great choice, especially on a hot summer’s day. Try Moritz, San Miguel or Estrella for a refreshing afternoon beach treat.
+
+4. Coffee
+
+Spaniards serve their coffee espresso-style, which is perfect considering the amount of caffeine required to stay up partying with the locals until the sun rises.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Located in south-west
+Europe
+, Spain shares borders with
+France
+,
+Andorra
+,
+Portugal
+,
+Morocco
+and Gibraltar, as well as the Atlantic Ocean and Mediterranean Sea. Occupying most of the Iberian Peninsula, Spain’s topography is mainly a blend of mountains and low-lying plains. Spain’s coastline and islands are world-renowned, and draw in millions of tourists who come to bask at the beaches during the day and party all night long. Tenerife, Ibiza, Mallorca and Menorca are among the most popular with tourists chasing sunshine and good times.
+
+Spain’s major cities (Madrid and Barcelona) are busy, urban centres, yet have managed to retain their historic charm while encouraging contemporary development. In comparison, Spain’s vast countryside offers picturesque landscapes dotted with rustic villas, traditional stone cottages, olive groves, farms and rivers. Life is slower here – perfect for hiking, indulging in fresh produce and enjoying the sense of peace that often can’t be found in big cities.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Spain has a rich and complex history. As conquerors (and the conquered), Spain has seen many different outside influences come and go via war, invasion, immigration and trade. From the Moors to the Romans, the British to the Portuguese, Spain has been influenced both by its neighbours and by far-flung lands. This is evident in the different styles of architecture, art, cuisine and culture that are present in modern-day Spain. Emerging from social upheaval, civil war, international conflict, devastating pandemics and terrorism, Spain’s spirit is both irrepressible and irresistible.
+
+
+
+
+
+
+
+
+Top 10 Must-Try Foods
+
+
+
+
+
+
+×
+
+Top 10 Must-Try Foods
+
+
+
+
+1. Albondigas
+
+This dish of meatballs swimming in a spicy tomato sauce is a Spanish tapas staple. Typically made from a combination of veal and pork mince, they are simple to make and even easier to eat.
+
+2. Olives
+
+The hills of Andalucia are covered in olive groves, making this region a top place to savour these salty delights. You don’t have to go far to find them, a wide variety of olives and oils can be found in the markets, restaurants, farms and shops of Andalucia.
+
+3. Paella
+
+This delectable combination of rice, chorizo, mussels, prawns and saffron is a firm favourite with travellers, and rightly so! Although a speciality of the Valencia region, quality paella is available throughout Spain.
+
+4. Sangria
+
+Jugs filled with chunks of apple, lemon and orange floating in spiced red wine are the perfect accompaniment to a golden, Spanish sunset. But it doesn’t end there – Sangria is a one-way ticket to extended late night revelry.
+
+5. Calamares a la Romana
+
+This dish of deep-fried, crispy calamari is popular in the coastal regions of Spain. Eat a plate of it at a beachside restaurant or head to a bar and include it in your tapas mix.
+
+6. Churros
+
+For a sugar hit, try Spain’s version of the donut. Churros are sweet crunchy strips of deep-fried goodness, dipped in chocolate for extra calories! Find them at open-air food stalls and cafes.
+
+7. Jamon
+
+Spain is world-renown for its legendary jamon (cured ham). You’ll find salty jamon hanging in shop windows, displayed at markets and featured on menus all throughout Spain.
+
+8. Gazpacho
+
+For a fresh, healthy and oh so Spanish dish, you can’t go past Gazpacho. This raw, chilled tomato soap is a cool answer to Spain’s summer heat.
+
+9. Tortilla de Patatas
+
+Potato tortilla (or Spanish omelette) is a slice of authentic Spanish culinary tradition. A simple dish that’s often served at tapas, it’s a great option for vegetarians wanting something hearty.
+
+10. Sherry
+
+Native to the Jerez region of Spain, locals call this dry, fortified wine ‘vino de jerez’. When visiting the area, stop at cellar doors to sample the world’s best straight from the source.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Home of cult-fashion brand ZARA, Camper shoes, Lladro porcelain, Mango clothing and some of the best wine and olive oil in the world, shopping in Spain may not be cheap but quality is pretty much guaranteed if you stick to authentic brands and handmade goods, rather than fake imports.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Spain
+
+1. Leather
+
+Spain is known for its excellent leather products, which generally offer good value for money. Bags, belts and footwear are the best picks, and will often last a lifetime.
+
+2. Moorish Mementos
+
+Elaborate Moorish-style decorated tiles, jewellery and scarves are great buys when travelling in Seville, Toledo, Cordoba and Granada.
+
+3. Modern Art
+
+With such rich artistic traditions, Spain is a good place to pick up a souvenir piece of art to hang at home. Whether it’s an iconic reproduction from a museum or an original piece from an up and coming artist, there’s enough variety here to satisfy most tourists.
+
+
+
+
+
+
+
+
+
+
+Festivals and Events in Spain
+
+
+
+
+
+
+×
+
+Festivals and Events in Spain
+
+
+
+
+Las Fallas
+
+Valencia’s Las Fallas is a sizzling cacophony of colourful firecrackers, smoky bonfires, roaring rockets and massive effigies. Celebrated each year in honour of Valencia’s patron saint, this is a week of fiery fun and extensive late night partying.
+
+Wine War
+
+Every June, the Spanish town of Haro explodes into a Wine War known to locals as ‘Batallo de Vino’. Unforgiving residents pump red wine out of water pistols, hoses and other vessels in this grand example of wine warfare. Be warned: no one is spared - this is not a spectator sport!
+
+La Tomatina
+
+A relative newcomer to the Spanish festival scene, La Tomatina draws in travellers, tourists and the world’s media who come to see ripened tomatoes splattered across the city of Bunol. Thousands of people cram into the narrow town plaza to smash tomatoes into each other – a chaotic, strange and super fun experience
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Shadow of the Wind
+
+Carlos Ruiz Zafon
+
+Don Quixote
+
+Miguel De Cervantes
+
+The Time of the Doves
+
+Merce Rodoreda
+
+Travels with My Donkey: One Man and his Ass on a Pilgrimage to Santiago
+
+Tim Moore
+
+Homage to Catalonia
+
+George Orwell
+
+
+
+
+
+
+
+
+Spain travel FAQs
+
+
+
+
+
+Is tipping customary in Spain?
+
+
+
+
+
+
+
+
+
+Rounding up the bill or leaving spare change in restaurants should be sufficient when travelling in Spain. Feel free to tip more for good service, but this isn’t expected of you.
+
+
+
+
+
+
+
+What is the internet access like in Spain?
+
+
+
+
+
+
+
+
+
+Internet access is good in Spain, and internet cafes and Wi-Fi hotspots are easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Spain?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in most parts of Spain. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Spain?
+
+
+
+
+
+
+
+
+
+Flushable toilets are the standard in Spain. Be aware that public toilets aren't as common in Spain as they are in some other countries.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Metro ticket = 1 Euro
+Pastry = 3 Euro
+Beer = 5 Euro
+Simple meal in a café = 10 Euro
+
+
+
+
+
+
+
+Can I drink the water in Spain?
+
+
+
+
+
+
+
+
+
+Drinking water from taps is considered safe in Spain, unless otherwise marked. For environmental reasons, try to use a refillable water bottle rather than buying bottled water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Spain?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores and hotels in Spain. Smaller cafes and shops may not accept credit cards, so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Spain?
+
+
+
+
+
+
+
+
+
+ATMs are very common in Spain, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Spain?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Spain?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+6 Jan Epiphany
+
+13 Apr Maundy Thursday
+
+14 Apr Good Friday
+
+1 May Labour Day
+
+15 Aug Assumption of Mary
+
+12 Oct Fiesta Nacional de España
+
+1 Nov All Saints' Day
+
+6 Dec Constitution Day
+
+8 Dec Immaculate Conception
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Spain go to:
+http://www.worldtravelguide.net/spain/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Spain
+
+Be considerate of Spain’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

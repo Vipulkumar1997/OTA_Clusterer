@@ -1,0 +1,3296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belarus Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belarus tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Belarus
+
+
+
+This former Soviet republic may still be more Soviet than European, but it has plenty to offer the trailblazing traveller.
+
+
+Strangely beautiful and remarkably clean, Minsk is a fascinating blend of Stalinist architecture, Soviet-era monuments, museums, theatres, and parks. Outside the capital, pastoral countryside gives way to quaint villages, pristine lakes and forested national parks, including Belovezhskaya Pushcha National Park – the oldest wildlife reserve in Europe. Although the country was largely destroyed by WWII, a smattering of centuries-old castles and historic towns offer a glimpse of pre-communist Belarus. Be among the first to discover the understated appeal of this emerging nation.
+
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+Terms & Conditions
+
+
+
+
+
+×
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+
+
+
+1. Save 20% on new bookings to lesser-known destinations only departing between 1 January 2018 and 31 December 2018.
+2. Trips must be booked between 20 November 2017 and 18 December 2017.
+3. Offer only applies to the trips below:
+AMCW, BMXF, CJSO, HPSL, TIST, GGSX, HHSI, XMSG, ZMSB, YGSD, WMSZ, HJKB, KDOH, WMST, TESA, KFST, YBSM.
+4. Customers must quote the promo code 53253.
+5. This offer is not combinable with any other offer including loyalty.
+6. Offer does not apply to departures already discounted (can’t apply it via checkout).
+7. Intrepid Travel will donate 20% of the sold trip to the Intrepid Foundation.
+8. Trips must be booked between 20 November 2017 and 18 December 2017. Trip must depart between 1 January 2018 and 31 December 2018.
+9. Offer only applies to the land portion of the trip and cannot be applied to flights, insurance, or any additional services.
+10. The offer applies to Intrepid & Dragoman operated trips only. Third party operators can be found in the trip notes. Please note that the following are excluded: Polar voyages, Expeditions, Charity Treks, Short Break Adventures, Bite-Size Breaks, Urban Adventures and Dragoman trips to Bhutan, Rio Carnival and the Dragoman Family trips.
+11. A deposit of CHF300, GBP200, EUR275 and ZAR4000 is required at the time of booking, and full payment is required at least 60 days prior to travel.
+12. This sale is only valid for residents of Europe and Africa.
+13. There will be no extensions to the travel, booking or payment periods listed above.
+14. Intrepid Travel's Booking Conditions will also apply to the trip booked, and it is imperative that you examine those conditions before booking with Intrepid Travel. The most up to date Booking Conditions are accessible at http://www.intrepidtravel.com/booking-intrepid/booking-conditions.
+15. The trip is subject to availability and confirmation by Intrepid Travel at time of booking.
+
+
+Close
+
+
+
+
+
+
+Top Belarus travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+26 May 2018
+
+Highlights of Belarus
+
+
+
+Highlights of Belarus
+Minsk to Minsk
+
+
+
+
+
+
+
+
+
+×
+
+Highlights of Belarus
+
+
+
+
+
+
+
+
+
+11
+
+
+FR1,780
+
+
+FR1,424
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Belarus trips
+
+
+
+
+
+
+
+
+
+Highlights of Belarus
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,424
+
+
+
+
+
+Experience a post-soviet world like no other as you adventure through the stunning...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on Belarus
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 16, 2017
+
+
+
+9 alternative travel spots for 2018
+
+
+
+
+
+
+Here at Intrepid we’re all about tackling the negative impact of over-tourism. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2017
+
+
+
+7 new destinations to explore with Intrepid in...
+
+
+
+
+
+
+At Intrepid, we love exploring little-known corners of the globe. And in 2018, we...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belarus travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minsk
+
+
+
+
+After being destroyed in WWII, Minsk was completely rebuilt in Stalinist style. Today, impressive war monuments coexist with trendy eateries.
+
+
+
+
+
+
+Highlights of Belarus, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Belovezhskaya Pushcha National Park
+
+
+
+
+The oldest wildlife refuge in Europe and the pride of Belarus – discover 600-year-old oak trees and a rich variety of wildlife.
+
+
+
+
+
+
+Highlights of Belarus, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Brest Fortress
+
+
+
+
+The site of a famous standoff between Soviet and German troops is a now the country’s most important memorial.
+
+
+
+
+
+
+Highlights of Belarus, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Nesvizh Castle
+
+
+
+
+Discover why this UNESCO-listed world heritage site is renowned for being one of the most beautiful castles in the area.
+
+
+
+
+
+
+Highlights of Belarus, 11 days
+
+
+
+
+
+
+
+
+
+
+
+
+Accommodation in Belarus
+
+Hotel rooms start to look the same after a while, don’t you think? Half the fun of travel is experiencing a destination just like the locals – including where they sleep. Wherever possible, Intrepid uses unique and traditional accommodation to create a truly authentic experience.
+
+
+
+
+
+
+
+Nesvizh Castle:
+Spend a night in this UNESCO-listed world heritage site and former home of the Radziwill dynasty, one of the riches families in Europe, for a truly unforgettable experience.
+
+Rural
+farmstay
+:
+There’s no better way to learn about rural life than by staying with a local family at their traditional farmstay. Head into the tranquil countryside to get a taste of traditional music and dance, local customs and home-cooked Belarusian dishes.
+
+
+
+
+
+Belarus holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital City:
+
+Minsk
+
+Population:
+
+9.4 million
+
+Language:
+
+Belarusian, Russian
+
+Currency:
+
+Belarusian Ruble (BYR)
+
+Time Zone:
+
+(GMT+03:00)
+
+Electricity:
+
+Type C (European 2-pin), Type F (German 2-pin, side clip earth)
+
+Dialling Code:
+
++375
+
+
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Belarusians are frequently misunderstood. Their reserved and polite manner can, at first, be taken to be unfriendly but get to know a local and you’ll quickly learn hospitality is an important part of their culture. Many Belarusians are generous, kind and keen to show visitors the positive aspects of their country.
+
+In many ways, Belarus is still trying to form its identity. After numerous conflicts with Lithuania, Poland, and Russia, Belarus was absorbed into Russia at the end of the 18th century. Each country left its mark on local culture, though Russia in particular tried to quash any sense of national identity. They banned the Belarusian language, erected Soviet-style buildings and replaced local customs with their own. Even after gaining independence in 1991, the Russian language, images of the hammer and sickle and other remnants of Soviet influence can still be found across the country.
+
+On the other hand, a distinct Belarusian culture and identity are beginning to emerge. Belarusian arts – such as literature, music, and theatre – are now flourishing. A number of impressive museums and monuments dedicated to Belarusian history and culture have also been built. There’s a renewed interest in ancient rituals and festivals, such as Kupala Night and Dziady, which have come to represent national identity, and a great deal of pride is associated with traditional clothes, folk dancing, and rural life.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Belarusian cuisine shares many similarities with its bordering countries, particularly Poland, Lithuania and Russia. Meals are largely meat-based, hearty and feature plenty of filling soups and dumpling. Belarusians have developed a number of ways to create soft and savoury dumpling morsels – kolduni are thick potato dumplings stuffed with meat; kletsky are pastry dumplings stuffed with mushrooms, cheese or potato; while pyzy is a potato dumpling made with cottage cheese.
+
+Potatoes are a dietary staple and used in a variety of dishes, from the above-mentioned dumplings to pancakes (draniki), stews and salads. Mushrooms also feature heavily – perhaps because mushroom picking is a favourite traditional pastime. They might be added to a soup (such as hribnoy sup) or used to make a creamy sauce or gravy.
+
+A short growing season means vegetables aren’t usually found in traditional cuisine, however, some root vegetables such as carrots, parsnips, and beets thrive in Belarus. Various berries and cabbage also feature in many dishes. Pork is the most commonly used meat. It might be stewed or made into sausages and served with pancakes and sour cream.
+
+All-night kiosks and food shops sell beer and vodka 24-hours a day. Crystal luks and Belaya Rus are among the best local vodkas. Another local favourite is a fermented drink called kvass. Local stores sell a bottled version of kvass year-round, though it’s best enjoyed fresh from street vendors in the summer.
+
+Must-try foods in Belarus
+
+1. Machanka
+
+This hearty pork stew is usually served with pancakes, which are rolled up and dipped into the stew like bread.
+
+2. Borshch
+
+Popular across Eastern Europe, borshch is a hot beetroot soup. Belarusians usually add chunks of meat and potatoes to their version and top it with sour cream. Served cold, it’s called kholodnik.
+
+3. Draniki
+
+A dietary staple, these fried potato pancakes can be made plain or stuffed with meat, often pork, or mushrooms.
+
+4. Kvass
+
+A fermented drink made from malt, flour, sugar, mint, and fruit. This refreshing drink used to just be available during the summer, though bottled kvass is now available year-round in shops and grocery stores.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Located on the eastern edge of Europe, Belarus shares its border with Russia, Ukraine, Poland, Lithuania and Latvia. Much of the terrain is flat and low-lying, crisscrossed by thousands of lakes, streams, and rivers, including the mighty Dnieper River. About one-third of Belarus is covered in thick forest. Rich and rare wildlife, glacial lakes and old primeval forest are preserved in four national parks, including the UNESCO-listed Belovezhskaya Pushcha National Park. Large stretches of swampy marshland occupy the south, including an off-limits area contaminated by the Chernobyl disaster. The rest of the country is largely made up of cornflower fields and picturesque villages.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Belarus is not particularly known as a shopping destination. Stores tend to lack choice and are often overpriced, though if visiting a Belarusian shopping centre is on your travel itinerary, try Stolitsa Shopping Centre in Minsk. This three-level underground mall houses some of the best stores and boutiques in the city.
+
+A better idea would be to shop for traditional arts and crafts. Belarus has a strong tradition of producing linen products from flax, which grows in abundance in the country’s vast fields. Shopping linen goods such as tea towels, tablecloths or bags both support the local industry and makes a good eco-friendly buy.
+
+Belarus is also known for its intricate straw crafts, such as woven baskets and traditional hats. Matryoshka dolls (Russian nesting dolls) are more famously associated with Russia but they are popular in Belarus as well.
+
+Minsky Vernisazh is an outdoor market in Minsk and a great one-stop-shop for folk crafts as well as Soviet-era military trinkets. Keep in mind that markets usually accept cash only and bargaining is accepted.
+
+
+
+
+
+
+
+
+Festivals and events in Belarus
+
+
+
+
+
+
+×
+
+Festivals and events in Belarus
+
+
+
+
+Many of the biggest festivals in Belarus celebrate the country’s rich and vibrant heritage. Some of the best ones to keep an eye out for include:
+
+Kupala Night (Ivan Kupala Day)
+
+Many Eastern Slavic countries celebrate the summer solstice (on June 23 or 24) with Kupala Night, however it has become a symbol of national identity for locals in Belarus. Part Pagan, part Christian, part theatrics and part games, people wear flower wreaths and traditional clothing as they sing, dance, and jump over campfires to purge their sins and improve their health. Festivities take place along rivers and banks across the country.
+
+International Festival of Arts (also know as the Slavonic Bazaar)
+
+This celebration of all things Slavic draws performers from dozens of countries to Vitebsk each July. The festival, which promotes peace and mutual understanding through art, gets bigger each year. Vitebsk becomes abuzz as hundreds of concerts and performances take place in venues across the city. Vendors also pop up in streets and squares selling kebabs and kvass.
+
+Dziady
+
+Each October or November, Belarusians honour their deceased by visiting the graves of dead ancestors. An ancient Slavic tradition with pagan roots, Dziady has also come to represent resistance to the Soviet regime and a revival of Belarusian nationalism. In 1988, the first mass demonstration against Soviet rule was held on this day. Today, a memorial for the victims of Soviet political repression is held in Kurapaty each Dziady.
+
+Victory Day
+
+One-quarter of Belarusians died during WWII, which makes this festival celebrating the defeat of Nazi Germany particularly poignant. Each year on May 9th, the whole country celebrates with battle re-enactments, concerts and flower-laying ceremonies. A huge parade takes place in the nation’s capital, with a fireworks display over Victory Square in the evening.
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Invisible Life of Ivan Isaenko
+
+Scott Stambach
+
+The Bielski Brothers
+
+Peter Duffy
+
+Marching into Darkness
+
+Waitman Wade Beorn
+
+The Reconstruction of Nations: Poland, Ukraine, Lithuania, Belarus, 1569-1999
+
+Timothy Snyder
+
+Wave of Terror
+
+Theodore Odrach
+
+
+
+
+
+
+
+
+
+Belarus travel FAQs
+
+
+
+
+
+When is the best time to visit Belarus?
+
+
+
+
+
+
+
+
+
+Belarus experiences a temperate continental climate, meaning it has four distinct seasons. Winters are cold and snowfall can occur any time between December and March. Summers are warm and pleasant, though thunderstorms can develop on hot and muggy days. So long as you are willing to deal with the occasional thunderstorm, the summer months of June, July and August are the best time to visit, when temperatures can reach highs of 25°C (77°F). Don’t worry about dealing with high season crowds – most travellers are yet to discover this beautiful nation.
+
+
+
+
+
+
+
+Do I need a visa to visit Belarus?
+
+
+
+
+
+
+
+
+
+Australia: Yes, in advance
+Belgium: Yes, in advance
+Canada: Yes, in advance
+Germany: Yes, in advance
+Ireland: Yes, in advance
+Netherlands: Yes, in advance
+New Zealand: Yes, in advance
+South Africa: Yes, in advance
+Switzerland: Yes, in advance
+United Kingdom: Yes, in advance
+USA: Yes, in advance
+Travellers from most nations are required to obtain a tourist visa to visit Belarus. You will need to submit a Letter of Invitation (LOV) when applying for your visa. Your passport should be valid for at least six months past your date of departure from Belarus and have a few blank pages for stamps. Please note that visa requirements can change at any time. Contact your local embassy or consulate for the most up-to-date information regarding visa requirements.
+
+If you’re visiting Belarus with Intrepid, please check the Essential Trip Information of your trip to learn how we can help you with obtaining a visa.
+
+
+
+
+
+
+
+Is tipping customary in Belarus?
+
+
+
+
+
+
+
+
+
+It’s customary to leave a small tip of 5 to 10% at restaurants.
+
+
+
+
+
+
+
+What is internet access like in Belarus?
+
+
+
+
+
+
+
+
+
+Wi-Fi is widely available at restaurants and hotels in large towns and cities but may be limited in remote and rural areas. Some websites are blocked by the government, though major social networking sites, like Facebook or Twitter, should not be affected.
+
+
+
+
+
+
+
+Can I use my mobile phone while in Belarus?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in Belarus. Ensure global roaming is activated with your service provider before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Belarus?
+
+
+
+
+
+
+
+
+
+A mix of Western-style flushable toilets and squat toilets can be found in Belarus. Keep in mind that most flushable toilets can’t handle toilet paper. Instead, make sure to put used toilet paper in the bin provided. Public toilets are common but you may need to pay to use them.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Bottle of local beer = USD 0.50
+Stolovaya (cafeteria) meal = USD 2
+Simple meal at a local restaurant = USD 7
+Sit-down dinner at a nice restaurant = USD 15-25
+
+
+
+
+
+
+
+Can I drink the tap water in Belarus?
+
+
+
+
+
+
+
+
+
+Tap water is generally safe to drink in Belarus. For environmental reason, try not to buy bottled water. Instead, bring a reusable water bottle to fill during your trip.
+
+
+
+
+
+
+
+Are credit cards widely accepted in Belarus?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by hotels, large retailers and tourist sites but are less commonly accepted at markets and smaller cafes and hotels. It’s a good idea to carry enough cash for smaller purchases in case credit cards are not an option.
+
+
+
+
+
+
+
+What is ATM access like in Belarus?
+
+
+
+
+
+
+
+
+
+ATMs are widely available throughout Belarus. Cities and large towns have more ATM access than small villages or rural areas, so plan ahead before travelling out of urban areas.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Belarus?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Belarus?
+
+
+
+
+
+
+
+
+
+Jan 1: New Year’s Day
+Jan 7: Orthodox Christmas
+March 8: International Women’s Day
+March 15: Constitution Day
+Apr 16: Easter
+April 25: Commemoration Day (Radonitsa)
+May 1: Labour Day
+May 9: Victory Day
+Jul 3: Independence Day
+Nov 7: October Revolution Day
+Dec 25: Christmas
+
+For a current list of public holidays in Belarus go to:
+https://www.worldtravelguide.net/guides/europe/belarus/public-holidays/
+
+
+
+
+
+
+
+Is Belarus a safe destination for LGBTQI-travellers?
+
+
+
+
+
+
+
+
+
+Discretion is advised for LGBTQI-travellers in Belarus. While a small gay community exists in Minsk, homophobia is quite widespread. As long as travellers use discretion and avoid public displays of affection, travel in Belarus should not be a problem.
+
+For more detailed and up-to-date advice, we recommend visiting
+Equaldex
+or
+Smartraveller
+before you travel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

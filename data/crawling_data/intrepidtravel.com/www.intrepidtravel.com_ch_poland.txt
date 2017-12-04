@@ -1,0 +1,4125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poland Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poland tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Poland
+
+
+
+This European gem, full of culture, history and spirit, is often overlooked in favour of its more well-known neighbours.
+
+
+But with architectural triumphs, scenic mountains, a rich heritage and charming, rural idylls, Poland should feature on every travellers' list.
+
+
+Top Poland travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+24 Nov 2018
+
+Winter Tatra Adventure
+
+
+
+Winter Tatra Adventure
+Krakow to Krakow
+
+
+
+
+
+
+
+
+
+×
+
+Winter Tatra Adventure
+
+
+
+
+
+
+
+
+
+8
+
+
+FR1,145
+
+
+FR916
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Poland trips
+
+
+
+
+
+
+
+
+
+Best of Central Europe
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,075
+
+
+
+
+
+The Best of Central Europe tour combines popular sights with unique experiences while...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Baltic Experience
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,460
+
+
+
+
+
+Travel to Baltic Europe and visit Finland, Estonia, Latvia, Lithuania, Poland and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin to Venice
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,935
+
+
+
+
+
+Discover Central Europe from Germany to Italy. Travel from happening Berlin to ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Venice
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,650
+
+
+
+
+
+Elaborate architecture and exceptional cuisine, legendary landscapes and live history...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vienna to Dubrovnik
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR3,910
+
+
+
+
+
+Travel from Vienna to Dubrovnik and discover Austria, the Czech Republic, Poland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Winter Tatra Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR916
+
+
+
+
+
+Wander through the stunning Tatra Mountains via sled, ski and foot, enjoying delicious...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Journey through Central Europe and Romania
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR3,470
+
+
+
+
+
+Enjoy a fascinating tour of Central and Eastern Europe through Austria, Slovakia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin to Rome
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,860
+
+
+
+
+
+Embark on a tour of Europe as you travel from Berlin to Rome visiting Germany, Poland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uncover Northern Poland and the Baltics
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,295
+
+
+
+
+
+Uncover the treasures of Poland, Lithuania, Latvia and Estonia with on an immersive...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Scandinavia & Baltic Circuit
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR8,625
+
+
+
+
+
+A truly original 36-day itinerary, with highlights including Copenhagen, Gothenburg,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Oslo to Berlin
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR6,480
+
+
+
+
+
+Travel through northern Europe on a tour from Oslo to Berlin. Visit Norway, Sweden,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Helsinki to Oslo
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,535
+
+
+
+
+
+A picturesque 22-day tour through the best of northern Europe, including Finland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,810
+
+
+
+
+
+Visit Spain, France, Germany, the Czech Republic and Italy on this epic journey that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Venice
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR4,700
+
+
+
+
+
+Travel through numerous European countries starting in Spain and France, through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Rome
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,760
+
+
+
+
+
+Embark on an all-European adventure from Madrid  to Rome, stopping off in the grand...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Poland tour reviews
+
+
+Our Poland trips score an average of
+4.6 out of 5
+based on 5 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Northern Poland & the Baltics,
+September 2017
+
+Melanie Mair
+
+Loved this tour! It was a great way to experience some of the less visited countries in Europe and learn about their history and unique cultures that they've managed to maintain despite their tumultuous past. Their location between Scandinavia, Germany and Russia means they have a rich history to explore, especially the more recent events of WWII and communist occupation. The food was delicious, the scenery amazing and the locals you get to meet offer a great insight too.
+
+Review submitted 15 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Northern Poland & the Baltics,
+August 2017
+
+Jennifer Edgar
+
+Beautiful, colourful countries.  This was a very informative trip. I learnt so much.  My advice is to pack light
+
+Review submitted 06 Sep 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Poland trip reviews
+
+Our Poland trips score an average of
+4.6 out of 5
+based on 5 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Poland
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2017
+
+
+
+Hidden gems: 9 less explored parts of popular...
+
+
+
+
+
+
+With the vast amount of Santorini Insta-spam flying around, you probably feel as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+6 of Europe’s top ‘Not Hot’ spots for 2018
+
+
+
+
+
+
+Get there before everyone else does.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 05, 2017
+
+
+
+6 reasons why Krakow is Europe’s most...
+
+
+
+
+
+
+Krakow looks like a city straight out of a Disney movie. Cobbled streets lined...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2017
+
+
+
+How we celebrate: Easter traditions around the...
+
+
+
+
+
+
+Whether it’s dressing as Roman soldiers in Costa Rica, following Jesus' footsteps...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Dark Tourism sites: should we be visiting them?
+
+
+
+
+
+
+Dark tourism sites: part of cultural memory, or commercialising something sacred?...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 13, 2015
+
+
+
+What to expect on your visit to Auschwitz
+
+
+
+
+
+
+You begin at Auschwitz where so many prisoners once did, beneath the rusted metal...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 05, 2015
+
+
+
+5 reasons Poland is Europe’s most underrated...
+
+
+
+
+
+
+Nestled between Eastern and Western Europe, travellers shouldn’t miss Poland - ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2014
+
+
+
+These five dumplings prove the theory that...
+
+
+
+
+
+
+Intrepid's in-house foodologist, James Shackell, sets out to prove a theory as old...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poland travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warsaw
+
+
+
+
+Learn about the spirit of the Polish people at the Warsaw Uprising Museum
+
+
+
+
+
+
+Baltic Experience, 15 days
+
+
+
+
+
+
+
+
+Helsinki to Oslo, 22 days
+
+
+
+
+
+
+
+
+Oslo to Berlin, 29 days
+
+
+
+
+
+
+
+
+
+
+
+Zakopane
+
+
+
+
+Appreciate the mountain scenery while travelling through southern Poland
+
+
+
+
+
+
+Best of Central Europe, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Auschwitz
+
+
+
+
+Reflect on recent history while on a guided tour of Auschwitz
+
+
+
+
+
+
+Best of Central Europe, 15 days
+
+
+
+
+
+
+
+
+Berlin to Venice, 15 days
+
+
+
+
+
+
+
+
+Vienna to Dubrovnik, 29 days
+
+
+
+
+
+
+
+
+
+
+
+Krakow
+
+
+
+
+Admire the magnificent churches, castles and squares of Krakow
+
+
+
+
+
+
+Best of Central Europe, 15 days
+
+
+
+
+
+
+
+
+Europe Explorer, 36 days
+
+
+
+
+
+
+
+
+Berlin to Venice, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Gdansk
+
+
+
+
+Wander the lively riverfront of a city that’s been moulded by centuries of see-sawing occupation.
+
+
+
+
+
+
+Uncover Northern Poland and the Baltics, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Malbork Castle
+
+
+
+
+While Malbork Castle may have lost its title as the world’s largest brick castle, it remains one of the largest castles in the world based on land size.
+
+
+
+
+
+
+Uncover Northern Poland and the Baltics, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Wolf’s Lair
+
+
+
+
+Visit the abandoned, moss-covered remnants of Hitler’s eastern military headquarters.
+
+
+
+
+
+
+Uncover Northern Poland and the Baltics, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Wigry Lake
+
+
+
+
+Soak up the serenity of this beautiful lake situated in the forests of the Augustow wilderness.
+
+
+
+
+
+
+Uncover Northern Poland and the Baltics, 11 days
+
+
+
+
+
+
+
+
+
+
+
+
+Poland holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Warsaw (population 1.75 million)
+
+Population:
+
+38.5 million
+
+Language:
+
+Polish
+
+Currency:
+
+PLN
+
+Time zone:
+
+(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb
+
+Electricity:
+
+Type C (European 2-pin) Type E (French 2-pin, female earth)
+
+Dialing code:
+
++48
+
+
+
+
+
+
+
+
+
+Best time to visit Poland
+
+
+
+
+
+
+×
+
+Best time to visit Poland
+
+
+
+
+Like many other European countries, Poland's climate features relatively warm summers and cold winters. Snowfall is common through winter, but more so in the mountainous areas. Rainfall features throughout the whole year, although the rain is usually in the form of brief showers rather than torrential downpours. Travelling from May to September usually offers optimal weather, with July and August being the hottest (but busiest) months for travel.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Located in Central Europe, Poland shares borders with
+Germany
+,
+Czech Republic
+,
+Slovakia
+,
+Ukraine
+, Belarus,
+Lithuania
+, and
+Russia
+. Poland also has a stretch of coastline along the Baltic Sea, providing two natural harbours. The coastal areas are marked by dunes and lakes, while the north and central parts of Poland are characterised by lowlands and plains, interrupted by rivers and valleys. Segments of the Carpathian Mountains mark the south-east part of the country, while the Tatra Mountains act as a natural border between Poland and Slovakia.
+
+
+
+
+
+
+
+
+Top 5 Heritage Spots of Krakow
+
+
+
+
+
+
+×
+
+Top 5 Heritage Spots of Krakow
+
+
+
+
+1. Collegium Maius
+
+Meaning 'Great College' in Latin, this 15th-century building, located in Jagiellonian University, has hosted such famous students as revolutionary astronomer Copernicus and spiritual leader Pope John Paul II. A visit here is a mind-expanding experience in art, science, history and architecture.
+
+2. Wawel Cathedral
+
+Standing for more than a thousand years, this is the place where Pope John Paul II conducted his first Mass. If that's not impressive enough, add a crypt holding the bodies of some of Poland's most influential leaders and public figures and you've got one of Poland's most interesting and important buildings. Don't miss it!
+
+3. Wawel Royal Castle
+
+Sitting on the edge of the Vistula River, this remarkable Gothic-style building acted as a home for Poland's royal family centuries ago. Featuring a valuable collection of historic paintings, tapestries and murals, this is a top spot to delve into European art treasures and classic architecture.
+
+4. Remuh Synagogue
+
+While this small yet elegant synagogue may not be the grandest in scale or design, its historic value is unquestionable. Founded in 1553, it remains a place of worship for the local community and a place of pilgrimage for the world's Jewish people.
+
+5. Cloth Hall
+
+Krakow's Renaissance-style Cloth Hall is a splendid building with a retail heritage. Once used as trading place for textiles and cloth back in the 14th century, nowadays the building houses shops, cafes and a museum. Located in the Main Square, this historic building looks best illuminated at night.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Push Not the River
+
+James Conroyd Martin
+
+The Pianist
+
+Wladyslaw Szpilman
+
+The Beautiful Mrs Seidenman
+
+Andrzej Szczypiorski
+
+No Greater Ally
+
+Kenneth K. Koskodan
+
+The Diary of Mary Berg: Growing up in a Warsaw Ghetto
+
+Mary Berg
+
+
+
+
+
+
+
+
+Poland travel FAQs
+
+
+
+
+
+Is tipping customary in Poland?
+
+
+
+
+
+
+
+
+
+While not mandatory, a tip of around 10% is considered polite for good service in Polish restaurants and cafes.
+
+
+
+
+
+
+
+What is the internet access like in Poland?
+
+
+
+
+
+
+
+
+
+Major cities like Warsaw have many cyber cafes and Wi-Fi hot spots to choose from, while rural areas will generally have less internet connectivity.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Poland?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in Poland. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Poland?
+
+
+
+
+
+
+
+
+
+Flushable toilets are the standard in Poland, although public toilets are quite scarce. Expect to pay a small fee when visiting public toilets and carry your own soap and paper as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+A bottle of beer = 5-10 PLN
+Cup of coffee in a cafe = 5-10 PLN
+Simple lunch at a cafe = 15-25 PLN
+Dinner at a nice restaurant = 50-100 PLN
+
+
+
+
+
+
+
+Can I drink the water in Poland?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink in Poland unless marked otherwise.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Poland?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores and hotels in Poland. Smaller cafes and shops may not accept credit cards, so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Poland?
+
+
+
+
+
+
+
+
+
+ATMs that accept international cards are common in Poland, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Poland?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Poland?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+6 Jan Epiphany
+
+16 Apr Easter Sunday
+
+17 Apr Easter Monday
+
+1 May State Holiday
+
+3 May Constitution Day
+
+4 Jun Pentecost Sunday
+
+15 Jun Corpus Christi
+
+15 Aug Assumption of the Blessed Virgin Mary
+
+1 Nov All Saints' Day
+
+11 Nov Independence Day
+
+25 Dec Christmas Day
+
+26 Dec 2nd Day of Christmas
+
+Please note these dates are for 2017. For a current list of public holidays in Poland go to:
+http://www.worldtravelguide.net/poland/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Poland
+
+1. Be considerate of Poland’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+5. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+6. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+7. Please ask and receive permission before taking photos of people, including children.
+
+8. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

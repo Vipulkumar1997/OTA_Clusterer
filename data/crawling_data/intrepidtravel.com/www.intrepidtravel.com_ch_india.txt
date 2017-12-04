@@ -1,0 +1,7368 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+India Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+India tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+India
+
+
+
+There’s probably no other country on the planet that blazes its way into your memory like India.
+
+
+Years later, you can still hear the morning calls of the chai wallahs and the silence of the desert, see smoke curling over the Ganges and a pale gold Varanasi sunrise. A lot of India tours rush from highlight to highlight, ticking them off in a blur of temples and tikka. But not us. Our India trips are more about spotting Bengal tigers in Bandhavgarh NP, hanging with nomads in Jaisalmer, meeting the holy men of Pushkar or camping under the stars in Bijaipur. This isn’t the India you see on postcards. This is India as it
+is
+. Raw, bizarre and totally addictive.
+
+
+Top India travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+21 Dec 2017
+
+North India Highlights
+
+
+
+North India Highlights
+New Delhi to New Delhi
+
+
+
+
+
+
+
+
+
+×
+
+North India Highlights
+
+
+
+
+
+
+
+
+
+12
+
+
+FR2,320
+
+
+FR2,088
+
+
+
+
+View Trip
+
+
+
+
+
+
+21 Dec 2017
+
+India Experience
+
+
+
+India Experience
+New Delhi to Kovalam
+
+
+
+
+
+
+
+
+
+×
+
+India Experience
+
+
+
+
+
+
+
+
+
+26
+
+
+FR5,045
+
+
+FR4,541
+
+
+
+
+View Trip
+
+
+
+
+
+
+22 Dec 2017
+
+Real Food Adventure - South India
+
+
+
+Real Food Adventure - South India
+Chennai to Kochi
+
+
+
+
+
+
+
+
+
+×
+
+Real Food Adventure - South India
+
+
+
+
+
+
+
+
+
+12
+
+
+FR1,905
+
+
+FR1,619
+
+
+
+
+View Trip
+
+
+
+
+
+
+24 Dec 2017
+
+Rajasthan Adventure
+
+
+
+Rajasthan Adventure
+Delhi to Delhi
+
+
+
+
+
+
+
+
+
+×
+
+Rajasthan Adventure
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,295
+
+
+FR1,101
+
+
+
+
+View Trip
+
+
+
+
+
+
+27 Dec 2017
+
+North India Revealed
+
+
+
+North India Revealed
+Delhi to Delhi
+
+
+
+
+
+
+
+
+
+×
+
+North India Revealed
+
+
+
+
+
+
+
+
+
+22
+
+
+FR1,140
+
+
+FR969
+
+
+
+
+View Trip
+
+
+
+
+
+
+1 Jan 2018
+
+Classic South India
+
+
+
+Classic South India
+Chennai to Kovalam
+
+
+
+
+
+
+
+
+
+×
+
+Classic South India
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,550
+
+
+FR2,040
+
+
+
+
+View Trip
+
+
+
+
+
+
+2 Jan 2018
+
+Northern India Family Holiday Comfort
+
+
+
+Northern India Family Holiday Comfort
+Delhi to Delhi
+
+
+
+
+
+
+
+
+
+×
+
+Northern India Family Holiday Comfort
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,355
+
+
+FR1,220
+
+
+
+
+View Trip
+
+
+
+
+
+
+4 Jan 2018
+
+Unforgettable India
+
+
+
+Unforgettable India
+Delhi to Delhi
+
+
+
+
+
+
+
+
+
+×
+
+Unforgettable India
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,515
+
+
+FR1,136
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Classic Rajasthan
+
+
+
+Classic Rajasthan
+Delhi to Delhi
+
+
+
+
+
+
+
+
+
+×
+
+Classic Rajasthan
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,445
+
+
+FR1,301
+
+
+
+
+View Trip
+
+
+
+
+
+
+10 Jan 2018
+
+South India Revealed
+
+
+
+South India Revealed
+Trivandrum to Goa
+
+
+
+
+
+
+
+
+
+×
+
+South India Revealed
+
+
+
+
+
+
+
+
+
+16
+
+
+FR1,150
+
+
+FR978
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our India trips
+
+
+
+
+
+
+
+
+
+Classic Rajasthan
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,300
+
+
+
+
+
+Travel to India and visit the romantic Rajasthan region. Tour from Delhi to Pushkar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India's Golden Triangle
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR688
+
+
+
+
+
+Visit India and tour the famous Golden Triangle of Dehli, Agra and Jaipur. One of the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India Horizons
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,710
+
+
+
+
+
+Visit India and tour the famous Golden Triangle of Dehli, Agra and Jaipur, delve into...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Indian Getaway
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR630
+
+
+
+
+
+Discover the delights of northern India on a round trip from Delhi. Chant on the banks...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India Real Food Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,095
+
+
+
+
+
+Relish the sights and flavours of Delhi, Agra, Jaipur, Udaipur, Mumbai and Goa on this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern India Family Holiday
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR995
+
+
+
+
+
+Take an action-packed family tour of India, following tiger trails, visiting Delhi and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Delhi to Kathmandu
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,575
+
+
+
+
+
+Travel to India and Nepal on a tour from Delhi to Kathmandu. Visit the Taj Mahal of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North India Revealed
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR1,092
+
+
+
+
+
+A North India tour that visits Delhi, Jaisalmer, Jodhpur, Udaipur, Pushkar, Jaipur,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rajasthan Experience
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,230
+
+
+
+
+
+See the best of Rajasthan on this expansive tour. Behold the Taj Mahal, explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kathmandu to Delhi
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,417
+
+
+
+
+
+Take a tour of Nepal and India from Kathmandu to Delhi. Visit the birthplace of Buddha...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of India & Nepal
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,196
+
+
+
+
+
+Take a tour of India and Nepal, travelling from Delhi to Agra, Jaipur, Orchha, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mountains & Mystics of India
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,180
+
+
+
+
+
+Travel to India and visit Delhi, Shimla, Mandi, Dharamsala, Rishikesh and Amritsar on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South India Revealed
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR977
+
+
+
+
+
+Discover the beautiful landscapes of southern India on a fascinating journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Delhi to Goa
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,035
+
+
+
+
+
+From spice-filled bazaars to white sandy beaches, opulent palaces to spice plantations,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Iconic India
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR1,938
+
+
+
+
+
+Discover the irrepressible colours and cultures of India on this extended holiday...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North India Highlights
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,612
+
+
+
+
+
+Visit ancient temples, colourful cities and small towns on this northern India...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern India
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,359
+
+
+
+
+
+Explore the tropical and spiritual Indian south. Join holiday-makers in Ooty, relax in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North India Highlights
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,124
+
+
+
+
+
+Visit ancient temples, colourful cities and small towns on this northern India...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic South India
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,040
+
+
+
+
+
+Time slows down in South India. Travel from Chennai to Kovalam via colonial Pondicherry...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kathmandu to Mumbai Overland
+
+
+
+
+
+
+
+
+
+31 Days
+
+
+From
+FR3,226
+
+
+
+
+
+Travel Overland from Kathmandu to Mumbai and see why India and Nepal are two of the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Unforgettable India
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,136
+
+
+
+
+
+Visit India and travel from the capital Delhi to spiritual Varanasi, through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rajasthan Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,280
+
+
+
+
+
+Travel to India and visit Delhi, tour from Jaipur to Jaisalmer, explore Jodhpur, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India South & North
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR2,578
+
+
+
+
+
+This all-encompassing tour of India travels from Kochi to Delhi via cultural and scenic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Varanasi Extension
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR305
+
+
+
+
+
+Lift your spirits as you float on the Ganges at dawn, explore the city and nearby Sarnath
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India's Golden Triangle: Yoga & Bollywood Edition
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,220
+
+
+
+
+
+Visit India and tour the famous Golden Triangle of Dehli, Agra and Jaipur, bask in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North India Adventure
+
+
+
+
+
+
+
+
+
+25 Days
+
+
+From
+FR2,695
+
+
+
+
+
+Mix verdant jungles and expansive deserts with heritage cities and cultural richness...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North India Adventure
+
+
+
+
+
+
+
+
+
+25 Days
+
+
+From
+FR2,815
+
+
+
+
+
+Mix verdant jungles and expansive deserts with heritage cities and cultural richness...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India and Nepal
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,585
+
+
+
+
+
+Beginning in the hustle and bustle of Delhi, travel through Jaipur, Varanasi, Bandipur,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Delhi
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR297
+
+
+
+
+
+Take a delicious food-based tour of Delhi discovering markets, specialty dishes, sights...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South India Real Food Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,795
+
+
+
+
+
+From spicy curries and fragrant biryanis to flaky pastries and the scent of coconuts,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India Family Holiday
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,744
+
+
+
+
+
+Explore the man-made wonders of India with the family, visiting Delhi, Agra and Jaipur,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India Expedition - Tea & Tribes
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,808
+
+
+
+
+
+Experience remote and unexplored India on a round-trip from Kolkata. Visit Sikkim,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India: Hike, Bike & Raft
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,095
+
+
+
+
+
+From Rishikesh to Sari, Chopta, Chandrashila and Delhi, hike, bike and raft your way...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India & Nepal
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,555
+
+
+
+
+
+Beginning in the hustle and bustle of Delhi, travel through Jaipur, Varanasi, Bandipur,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India Experience
+
+
+
+
+
+
+
+
+
+26 Days
+
+
+From
+FR4,670
+
+
+
+
+
+From Delhi to Kovalam, travel through Rajasthan, see the Taj Mahal in Agra and drift...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Taj Mahal Extension
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR312
+
+
+
+
+
+Visit India and travel from Delhi to Agra. Travel to the Taj Mahal and Agra’s Red Fort,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of India
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,875
+
+
+
+
+
+Visit India and tour the famous Golden Triangle of Dehli, Agra and Jaipur, delve into...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India Experience
+
+
+
+
+
+
+
+
+
+26 Days
+
+
+From
+FR4,825
+
+
+
+
+
+From Delhi to Kovalam, travel through Rajasthan, see the Taj Mahal in Agra and drift...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mountains & Mystics - Digital Detox
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,090
+
+
+
+
+
+Travel to India and visit Delhi, Shimla, Mandi, Dharamsala, Dalhousie, Khajjiar, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India's Golden Triangle- For Solo Travellers
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR770
+
+
+
+
+
+Visit India and tour the famous Golden Triangle of Dehli, Agra and Jaipur with a group...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North & South India Real Food Adventure
+
+
+
+
+
+
+
+
+
+26 Days
+
+
+From
+FR4,195
+
+
+
+
+
+Relish the sights and flavours of Delhi, Agra, Jaipur, Udaipur, Mumbai, Goa, Bangalore,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern India Family Holiday Comfort
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,219
+
+
+
+
+
+Your whole family will love this incredible sensory adventure into the diverse life of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Kerala and Goa
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,899
+
+
+
+
+
+Enjoy a cycling adventure along the south west coast of India, visiting Kerala,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle India North & South
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR3,332
+
+
+
+
+
+Travel to India and cycle the romantic Rajasthan region. Tour from Delhi to Pushkar and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mumbai to Chennai Overland
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR2,018
+
+
+
+
+
+For adventure travel in India, discover Pappadams and Palm Trees as you visit India's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Chennai to Kolkata Overland
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,757
+
+
+
+
+
+Tour India and travel from Chennai to Kolkata on an Overland adventure across western...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kathmandu to Delhi Overland
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR2,657
+
+
+
+
+
+Join Intrepid on the ultimate adventure travel experience in Nepal and India. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kolkata to Kathmandu Overland
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,608
+
+
+
+
+
+Travel from Kolkata to Kathmandu on this captivating journey through India and Nepal....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal & India Overland
+
+
+
+
+
+
+
+
+
+82 Days
+
+
+From
+FR7,841
+
+
+
+
+
+Join Intrepid on the ultimate adventure travel experience in Nepal and India. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kolkata to Kathmandu (via Bhutan) Overland
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,989
+
+
+
+
+
+Discover the monasteries and tea plantations of the Himalayas. From Kolkota in India to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+India tour reviews
+
+
+Our India trips score an average of
+4.8 out of 5
+based on 3224 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Classic South India,
+November 2017
+
+Helen Loudon
+
+The most frustrating thing was getting an Indian Visa, they don't make it easy, but I'm not sure there is much you can do about it.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Classic South India,
+November 2017
+
+Mary Landen
+
+What was especially unique about my latest Intrepid trip (to South India), is that there were just six of us, and we were all solo travelers, representing five countries. That made the trip extra enjoyable!
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+India trip reviews
+
+Our India trips score an average of
+4.8 out of 5
+based on 3224 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on India
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2017
+
+
+
+16 photos that prove you should visit remote,...
+
+
+
+
+
+
+This part of the world brims with mountain villages, waterfalls and wetlands,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2017
+
+
+
+Hidden gems: 9 less explored parts of popular...
+
+
+
+
+
+
+With the vast amount of Santorini Insta-spam flying around, you probably feel as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 06, 2017
+
+
+
+5 great destinations for solo travel in India
+
+
+
+
+
+
+Much of the vast country is filled with friendly globetrotters and even friendlier...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 28, 2017
+
+
+
+5 of our favourite foods from around the world
+
+
+
+
+
+
+Listen up, food lovers. If you’re anything like us, it’s likely your top priority...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 22, 2017
+
+
+
+Travelling India as a solo female: Finding love...
+
+
+
+
+
+
+It’s not long before a group of women, in vibrant saris and knotted hair take a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+The top destinations for travel in December
+
+
+
+
+
+
+Whether you’re in the mood for mulled wine and Christmas markets or in need of a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 06, 2017
+
+
+
+6 easy tips for solo female travel in India
+
+
+
+
+
+
+The reality for solo female travellers is India can be challenging, but don't let...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 31, 2017
+
+
+
+This is what it’s like to share a meal at a...
+
+
+
+
+
+
+Music is playing, people are walking and praying, and the atmosphere is festive...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 29, 2017
+
+
+
+From Delhi to Goa: What it’s like visiting...
+
+
+
+
+
+
+"India is a sensory overload, but in the best possible way." That's how...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 09, 2017
+
+
+
+Visiting the Taj Mahal: Everything you need to...
+
+
+
+
+
+
+Is there a sight more iconic, more beautiful, more jaw-droppingly spectacular than...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 05, 2017
+
+
+
+Top 6 colorful cities around the world
+
+
+
+
+
+
+We don't want to attribute it solely to the Instagram age, but there's just...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 13, 2017
+
+
+
+5 new UNESCO World Heritage Sites worth a visit
+
+
+
+
+
+
+UNESCO just published its official list of Heritage Sites for 2017, adding over 20...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 04, 2017
+
+
+
+How to bring the flavour of your travels home...
+
+
+
+
+
+
+Beat the post-holiday blues by recreating your travels in your own kitchen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 11, 2017
+
+
+
+The best cities in India for street photography
+
+
+
+
+
+
+Indians are very open to photographs – 8 out of 10 times they will happily give...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 07, 2017
+
+
+
+The colorful chaos of stepping off the beaten...
+
+
+
+
+
+
+I find myself in the middle of an absolutely fantastic Hindu festival on a Sunday...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2017
+
+
+
+Indian gems: 6 places you should visit in...
+
+
+
+
+
+
+From the rugged dunes of the Thar Desert to the colourful chaos of Johari Bazaar,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 18, 2017
+
+
+
+Meet Sana, the Intrepid leader defying gender...
+
+
+
+
+
+
+Sana is just one person. One female leader in one male-dominated society. But...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 18, 2017
+
+
+
+Meet Pravin, the Intrepid Manager fighting for...
+
+
+
+
+
+
+"I believe things are changing here", reflects Pravin. "It won't be long before 50...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2017
+
+
+
+Inside India’s most romantic city, Udaipur
+
+
+
+
+
+
+Udaipur is a lakeside paradise of shimmering marble, oozing romance and a European...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 16, 2017
+
+
+
+North India in one week: The ultimate guide
+
+
+
+
+
+
+You have to start somewhere, and while you can’t cram all of India into seven days...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 09, 2017
+
+
+
+Photographers be warned: the Taj Mahal will be...
+
+
+
+
+
+
+Yep, it's true. The Taj Mahal will, as of April this year, endure a 12-month mud...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 04, 2017
+
+
+
+Hour-long train travel across India could...
+
+
+
+
+
+
+It's hard to dispute the nostalgia and romanticism of traveling by train, but if...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 02, 2017
+
+
+
+A foodie’s guide to South India
+
+
+
+
+
+
+With a year-round tropical climate, awe-inspiring views and fresher than fresh...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 25, 2017
+
+
+
+Oscar-inspired travel destinations for 2017
+
+
+
+
+
+
+For travel enthusiasts, Oscar season just means one more source of wanderlust:...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 14, 2017
+
+
+
+Photoblog: Varanasi as you’ve never seen it before
+
+
+
+
+
+
+We go on a journey through India's most photogenic city with one of the best...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 01, 2017
+
+
+
+Good news: India is trying to ban plastic bags
+
+
+
+
+
+
+Yep, India has plans in progress to not only ban the production, storage and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 26, 2016
+
+
+
+India on an etch-a-sketch…you’ve never seen it...
+
+
+
+
+
+
+Artist Jane Labowitch likes to doodle. In fact she's made it her full-time...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 05, 2016
+
+
+
+How to do India as a solo female traveller
+
+
+
+
+
+
+We chat to British blogger Katy Colins on what women should expect travelling...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 07, 2016
+
+
+
+Is this India’s best Instagrammer?
+
+
+
+
+
+
+In a platform that's saturated with travel content, it's refreshing to see a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 09, 2016
+
+
+
+The 15 most beautiful waterfalls in the world
+
+
+
+
+
+
+What makes the perfect waterfall? Height? Water volume? Sheer volume? We put the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2016
+
+
+
+5 sporting spectacles around the world that’ll...
+
+
+
+
+
+
+A sporting event can be a haven of knowledge for travellers, no matter the size of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 29, 2016
+
+
+
+Sneha’s story: meet the Indian woman who chose...
+
+
+
+
+
+
+I looked at the birds resting on the tree and smiled. That was the moment I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2015
+
+
+
+Our 6 top tips for avoiding generic travel photos
+
+
+
+
+
+
+While we’re not all just thirsty for Insta and Facebook Likes, everyone still...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2015
+
+
+
+This local photographer captured Delhi better...
+
+
+
+
+
+
+Presenting a photographic love letter to the world's most colourful and chaotic...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 01, 2015
+
+
+
+Double strap adventure: a brief history of...
+
+
+
+
+
+
+Imagine for a moment that it’s 1969: Hendrix is shredding Star Spangled Banner at...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 20, 2015
+
+
+
+Meet the ridiculously talented family that...
+
+
+
+
+
+
+Meet the Bartholomews, aka You Can't be Serious.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 04, 2015
+
+
+
+Nervous about travelling in India? Here are six...
+
+
+
+
+
+
+India's a pretty amazing place, and like we always say: when life gives you...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 07, 2015
+
+
+
+India through the lens of a professional...
+
+
+
+
+
+
+I recently travelled through India with professional Instagrammer, Lauren Bath....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 24, 2015
+
+
+
+The 5 most common fears about travelling in India
+
+
+
+
+
+
+India seems to be one of those travel destinations that people want to go to, but...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 24, 2015
+
+
+
+Hate rats? Look away now. We found India’s...
+
+
+
+
+
+
+India is home to a mind-bendingly huge number of people (a cheeky 1.25 billion),...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2015
+
+
+
+A landmark month: Intrepid’s March photo comp...
+
+
+
+
+
+
+The landmark results are in for March. Whose scene reigns supreme? You'll have to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 02, 2015
+
+
+
+Meet the people having their lives changed by...
+
+
+
+
+
+
+Indoor air pollution is the second highest cause of death by disease in India....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 26, 2015
+
+
+
+Everything you ever wanted to know about India ...
+
+
+
+
+
+
+We recruited Intrepid's destination manager for the Subcontinent, Ryan Turner, and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 23, 2015
+
+
+
+The power of Pollinate: Shining a light on...
+
+
+
+
+
+
+Kerosene lamps are responsible for millions of deaths in India each year. This is...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 05, 2015
+
+
+
+Seven of India’s real-life ‘Best Exotic...
+
+
+
+
+
+
+Want to see Intrepid's version of best exotic India? Leave your bags with us, put...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 04, 2015
+
+
+
+An expert guide to cooking Indian street food...
+
+
+
+
+
+
+Chana Bhatura is one of northern India’s favourite comfort foods. It’s basically a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 04, 2015
+
+
+
+Eat your way through Old Delhi with food...
+
+
+
+
+
+
+It’s hard to imagine a more dramatic move. In 2005, author and food blogger Pamela...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 20, 2015
+
+
+
+Overcrowded and ugly: how the world’s least...
+
+
+
+
+
+
+People don’t have a lot of time for 'ugly' travel. But why not? It's time to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 16, 2014
+
+
+
+17 tips for a healthy and happy family...
+
+
+
+
+
+
+Taking your pint-sized people travelling in India would likely be out of the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2014
+
+
+
+7 reasons to choose Ladakh over the rest of India
+
+
+
+
+
+
+Ladakh translates as ‘Land of the high passes’, and we've got 7 good reasons you...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 28, 2014
+
+
+
+These Asian tribes will blow your mind
+
+
+
+
+
+
+Believe it or not, the old world does survive, in the deep jungles and the high...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2014
+
+
+
+Backstage pass: 8 of the best festivals in Asia
+
+
+
+
+
+
+Shakespeare once said, ‘The sauce to meat is ceremony; meeting were bare without...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2014
+
+
+
+6 Asian hotels you really have to see to believe
+
+
+
+
+
+
+What is it about Asia that throws up strange and unusual places to rest your head?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+India travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taj Mahal
+
+
+
+
+Visit Agra's iconic Taj Mahal
+
+
+
+
+
+
+Delhi to Kathmandu, 15 days
+
+
+
+
+
+
+
+
+Indian Getaway, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Udaipur
+
+
+
+
+Fall in love with beautiful Udaipur
+
+
+
+
+
+
+Classic Rajasthan, 15 days
+
+
+
+
+
+
+
+
+North India Revealed, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Bandhavgarh National Park
+
+
+
+
+Track rare tigers in the Bandhavgarh National Park
+
+
+
+
+
+
+North India Adventure, 25 days
+
+
+
+
+
+
+
+
+Unforgettable India, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in India
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in India, you may find yourself travelling by:
+
+
+
+
+
+
+
+Jeep
+
+Safari through jungles and national parks aboard a jeep, which is ideal for conquering the difficult terrain and offers supreme wildlife viewing opportunities.
+
+
+Kathmandu to Delhi
+
+Delhi to Kathmandu
+
+Classic Rajasthan
+
+
+
+
+
+
+
+
+
+
+Camel
+
+Swaying along the hot, desert sands while riding a camel is an unforgettable way to leave the city behind and embrace a slice of Indian isolation.
+
+
+North India Adventure
+
+Classic Rajasthan
+
+North India Revealed
+
+
+
+
+
+
+
+
+
+
+Boat
+
+Cruising the waterways of India is a revealing, inspiring experience. Whether it’s the iconic Ganges or peaceful Kerala backwaters, seeing India from the water is a must.
+
+
+India South & North
+
+Classic South India
+
+North India Highlights
+
+
+
+
+
+
+
+
+
+
+Train
+
+Travelling by train is one of the great experiences of India. It's a system which looks like chaos, but it works - and well.
+
+
+India South & North
+
+Classic South India
+
+North India Highlights
+
+
+
+
+Accommodation in India
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in India you may find yourself staying in a:
+
+
+
+
+
+
+
+Homestay
+
+Make new friends, feast on authentic home cooking and receive kind hospitality while staying with friendly families in India.
+
+
+India South & North
+
+Iconic India
+
+South India Revealed
+
+
+
+
+
+
+
+
+
+
+Jungle Resort
+
+With walks, wildlife spotting and adventure sports nearby, staying in a jungle resort is the perfect way to see another side of India.
+
+
+India South & North
+
+Southern India
+
+
+
+
+
+
+
+
+
+
+Heritage Property
+
+From ex-royal palaces to historic hill stations and converted forts, India is full of heritage properties that have been turned into comfortable accommodation with an old-world touch.
+
+
+Delhi to Kathmandu
+
+Classic Rajasthan
+
+India's Golden Triangle
+
+
+
+
+
+
+
+
+
+
+
+India holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Delhi (population, 25 million)
+
+Population:
+
+1.14 billion
+
+Language:
+
+Hindi, Urdu, Tamil, Bengali, Kashmiri, Kannada, Marathi, Gujarati, Telugu, English
+
+Currency:
+
+INR
+
+Time zone:
+
+(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi
+
+Electricity:
+
+Type C (European 2-pin) Type D (Old British 3-pin) Type M (see D)
+
+Dialing code:
+
++91
+
+
+
+
+
+
+
+
+
+Best time to visit India
+
+
+
+
+
+
+×
+
+Best time to visit India
+
+
+
+
+Due to India's size and topography, there's a huge amount of variation in its climate. One of the most beneficial times to visit is from September to March when temperatures are at their coolest. During winter (December-January), temperatures can get quite cold in Delhi and in the north, especially at night. Monsoon is from late-May to around October and offers hot and humid conditions, although this is considered one of the best times to visit Ladakh and the hills.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+As one of the oldest living civilisations in the world, India's customs are based on an ancient cultural heritage. As contemporary India changes at a rapid pace, it stills clings to time worn traditions that have been in existence for centuries. Modern India is made up of a fascinating blend of ethnicities and religions, and as the birthplace of Hinduism, Buddhism, Jainism and Sikhism, any visit to India will undoubtedly be steeped in spirituality as it permeates most aspects of society. Although there are significant populations of Muslims and Christians, most Indians belong to one of the four main religions mentioned above.
+
+Regardless of a person's religious beliefs, the family unit is given paramount importance in life and society, with generations of family members living together under one roof, often with the eldest male acting as head of the family. Indian weddings are usually elaborate affairs and arranged marriages are still common - being arranged according to caste, social standing and sometimes, favourable astrological alignments at birth. Giving the world everything from playing cards to prayer flags, yoga, cotton cultivation, ayurvedic medicine, Bollywood films, as well as many other important contributions in mathematics, science, literature and political theory, India's evolution has impacted on the entire world.
+
+Indian cuisine, architecture, dance and fashion are also admired and reproduced worldwide, which is partly due to Indian populations who have immigrated to other parts of the world, taking their culture and beliefs with them.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Indian food is one of the world's most favoured cuisines, and travellers will be in for a real treat when visiting India. Relying heavily on spices and vegetables, vegetarians will be delighted with the multitude of meat-free dishes available and visitors will be able to notice marked differences in the cuisines of each region.
+
+Things to try in India
+
+1. Goa
+
+The tropical climate and coastal location ensures the seafood is fresh and tasty here. Pungent seafood curries bubbling in coconut milk, as well as fresh crab, lobster, squid and prawns are all great picks in this region. A Kingfisher beer also goes down well with a Goan sunset.
+
+2. Rajasthan
+
+With little access to water, Rajasthani cuisine relies on milk or ghee as a base, making it quite rich. Legumes, pulses and breads feature heavily as access to fresh vegetables is scarce.
+
+3. Kerala
+
+A great producer of many spices so expect hot and spicy dishes when eating here. Rice is abundant, as is coconut, so expect coconut-based curries laced with chilli, ginger, cardamom and pepper. Having access to many waterways, seafood also features on the menu here. Dosa (pancake-like crepes) are popular breakfast items in Kerala.
+
+4. Assam
+
+The cuisine of this north-eastern hills region is characterised by a reliance on rice and preserved produce. There is a distinct lack of spice used but despite this, the cuisine still possesses a strong flavour due to the dried herbs and flavoursome vegetables and fruits that most dishes are based on. Pickles, salads, garnishes and condiments like mustard oil, lemon and mangosteen add a distinct flavour to Assamese dishes.
+
+5. Gujarat
+
+Cuisine from western India is predominantly vegetarian. Daal, rice and roti (flat bread) are the main dishes, which are sometimes supplemented with stir fried vegetables.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+India shares land borders with
+Bangladesh
+,
+China
+, Pakistan,
+Nepal
+,
+Myanmar
+and
+Bhutan
+, and also has wide stretches of coastline along the Arabian Sea, Bay of Bengal and Indian Ocean. As the seventh largest country in the world, India is home to a variety of terrains - the Himalayas of the north, the deserts and plains of the west, the fertile waterways of the south and the hills and forests of the east. Development is occurring at a rapid pace, with India's large, sprawling cities consisting of everything from five star hotels to shanty towns, and with modern malls and cinemas sitting comfortably alongside bazaars and street food vendors. A trip through India will reveal a diverse range of landscapes, villages, cities and environments.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+India has been inhabited by humans for as long as 75,000 years, with early civilisations flourishing as early as 3300 BC. Subsequent civilisations showed advanced technology and infrastructure with drainages systems and houses made of brick appearing sometime between 2600 and 1900 BC. Over the centuries, India both influenced and was influenced by other nations and kingdoms, with far reaching trade, conquest and migration spreading the subcontinent's culture far and wide. Trading with the Romans, Persians and Greeks ensured that Indian culture had an impact on civilisations that seemed worlds away. Empires rose and fell over the centuries, with the wealthy Mughal Dynasty ruling most of India by 1600. At the same time, different European nations started showing an interest in India after being brought to the area for trade. The Portuguese, Dutch, British and French all had vested interests in India, with the British East India Company being given the rights to trade in India in 1617. The 1857 rebellion and War of Independence culminated in the decline of Mughal rule and were considered the first movements against the British Raj's heavy handed rule of the country. India's independence movement continued to grow and soon changed the face of India's future.
+
+Recent History
+
+By the 1920s, India's independence movement had grown considerable momentum with Mohandas Gandhi leading mass movements based on passive resistance and non-cooperation against the British Raj. Although it took decades, India finally gained independence in 1947. More recently, India has seen dramatic changes in society mainly due to modernisation and globalisation. A new wave of prosperity has seen the rise of the middle class, with men and women entering into new work roles in telecommunications, manufacturing and business. India's large cities are dealing with mass migration of rural citizens, who are moving to the city to seek better employment, education and opportunities for their children. Delhi successfully hosted the Commonwealth Games in 2010, further putting India on the map as an increasingly cosmopolitan, modern country.
+
+
+
+
+
+
+
+
+Sensory Experiences of India
+
+
+
+
+
+
+×
+
+Sensory Experiences of India
+
+
+
+
+Top 10 Sensory Experiences of India
+
+1. Potent Pleasures
+
+Breathe in the intoxicating aroma of fresh spices while wandering through the bustling markets of India. Cardamom, coriander, cinnamon and nutmeg are classic spices of the subcontinent and aren't hard to find - the fresh scent envelopes markets across the country.
+
+2. Fiery Flavours
+
+Treat your tastebuds to the spicy flavours of India with a traditional aromatic curry. Indulge in the heady mix of coconut milk, chilli, ginger, ghee and spices, then cool down by sipping on a refreshing Lassi - the prefect antidote to the unrelenting heat of an Indian curry.
+
+3. Colourful Chaos
+
+Experience the urban cacophony of Delhi - a unique collision of cultures, cattle and people. Hear the rumble of cars, truck and buses, the frantic calls of street vendors and hawkers, the sizzle of food and the rustic ring of a cow bell in this unforgettable and irrepressible city.
+
+4. In The Pink
+
+Admire the dazzling pink hues of Jaipur. Watch the historic palaces, forts, temples and monuments of the 'Pink City' be bathed in a dusky pink glow as the golden sun sets over the dramatic Aravalli Range.
+
+5. Rat Race
+
+Walk barefoot through the Karni Mata Temple as thousands of rats scamper across the marble floor. Just felt a furry rodent scurry over your feet? Fear not - it's a sign of good luck in this unique rat-worshipping temple.
+
+6. Instant Karma
+
+Experience the multi-sensory wonder of an Aarti ceremony on the banks of the Ganges. Hear the clanging of bells, watch the luminous glow of fire, smell wafts of pungent incense and hear rousing devotional songs and mantras. Be immersed in the fire and prayer of this Hindu ritual and be changed forever.
+
+7. Gorgeous Goa
+
+Sit beachside in Goa and gaze into the sublime beauty of the ocean. Take a moment to kick back and soak up the clear skies and deep blue sea of this exotic island. Watch the sun's rays shimmer on the horizon and bask in the golden glow of this balmy retreat.
+
+8. Silky Sophistication
+
+For a slice of extravagance, feel the soft, luxurious touch of traditional Indian silk. Made in a variety of vibrant colours and perfect for making everything from saris to prayer mats and decorative hangings to upholstery, the inimitable feel of finely crafted silk is a simple pleasure in life.
+
+9. Answered Prayers
+
+Hear the flutter of prayer flags as they flap in the wind near the isolated monasteries of Dharamsala. In a stark environment of rugged, mountainous landscapes, quietness permeates the air, except for the unique sound of prayer flags collecting prayers and sending them to the heavens above.
+
+10. Big Screen Brilliance
+
+Be treated to a feast for the senses at a bombastic Bollywood movie screening. Covet the glamorous costumes, marvel at the energetic choreography and delight in the lively music. Revel in the razzle dazzle of the whole spectacle and be swept away by the irresistible charm of India's triumphant cinematic phenomenon.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+India's fragrant bazaars, modern boutiques and village markets are brimming with wares harnessing centuries of artistic traditions. With talented artisans and top quality items at low prices, India is a shopper's paradise.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in India
+
+1. Jewellery
+
+From big, chunky ornate silver earrings to vibrant bangles and bold statement rings, India's silversmiths and jewellery makers ensure there are lots of pieces to choose from in the bazaars and shops.
+
+2. Wraps, Scarves and Shawls
+
+Whether you're looking for pricey pashmina, luxurious silk or colourful cotton, India has a huge variety of materials to wrap yourself in.
+
+3. Tea
+
+If you're lucky enough to be able to bring tea into your home country, then pick up some of the world's finest tea from the Darjeeling, Assam or Nilgiri regions.
+
+4. Linen
+
+Indian cotton sheets, embroidered bed spreads and colourful cushion covers can be picked up in bazaars at a fraction of the price paid elsewhere.
+
+
+
+
+
+
+
+
+Festivals and Events in India
+
+
+
+
+
+
+×
+
+Festivals and Events in India
+
+
+
+
+Holi
+
+Travellers get a chance to revel in a tangible rainbow at this festival, which occurs throughout different regions of India. While northern India has the largest celebrations, Goa and some other areas also participate in this festival with Hindu origins. Colourful powders fly through the air onto crowds of people; water balloons explode in the street, food and drink flow and devotees slip into trances - all culminating into a wonderful festival of vibrancy.
+
+Diwali
+
+See firecrackers, lanterns, gift giving and gift receiving during this Hindu festival of lights. While many shops and businesses close during this period of spiritual significance, it's still a special time to visit, with moving pujas (offerings) and rituals to witness.
+
+Pushkar Camel Fair
+
+Thousands of camels (and their owners dressed in their finest garb) descend upon Rajasthan's Pushkar for the annual camel fair. Camels are traded and raced, acrobats and performers entertain crowds at a nearby fair, while finely dressed males and bejewelled females take the chance to let their hair down.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+A Fine Balance
+
+Rohinton Mistry
+
+Razor's Edge
+
+Somerset Maugham
+
+Life of Pi
+
+Yann Martel
+
+The God of Small Things
+
+Arundhati Roy
+
+Holy Cow
+
+Sarah Macdonald
+
+Shantaram
+
+Gregory David Roberts
+
+Gandhi, An Autobiography: The Story of My Experiments with Truth
+
+Mahatma Gandhi
+
+A Suitable Boy
+
+Vikram Seth
+
+No Full Stops in India
+
+Mark Tully
+
+The Discovery of India
+
+Jawaharlal Nehru
+
+
+
+
+
+
+
+
+India travel FAQs
+
+
+
+
+
+Do I need a visa to travel to India
+
+
+
+
+
+
+
+
+
+INDIA:
+
+An E-Tourist Visa (eVT) Facility is available for holders of a passport for a number of countries. This facility allows travellers to pre-register and pay for their visa prior to travel to India. The Visa is collected upon arrival at one of 16 designated airports in India. Please note strict guidelines on the below website.
+
+https://indianvisaonline.gov.in/visa/tvoa.html
+
+An E-Tourist Visa (eVT) visa on arrival is available for select nationalities including but not limited to the following
+
+Australian, Canadian, New Zealand, German, UK and USA passports.
+
+Passport holders from these countries can apply for an E-Tourist Visa (eVT) to have their visa issued upon arrival at 16 major airports in India.
+
+Please follow the instructions at -
+https://indianvisaonline.gov.in/visa/tvoa.html
+and complete the application for your E-Tourist Visa.
+
+Please be aware of strict conditions regarding application and travel (check under ELIGIBILITY section).
+
+E-visas are only available for entry of up to 30 days. If you plan to be in India longer you will need to apply for a tourist visa at an Indian visa application centre in your home country.
+
+Please note that travellers entering India overland from Nepal are required to apply for a visa in advance their home country. Visas will not be issued on the Nepal/Indian border.
+
+The E-Tourist Visa DOES NOT apply to travellers entering India overland. Please check your trip notes if you are crossing a border between India and Nepal.
+
+Indian visas are difficult and time consuming to obtain in Nepal.
+
+Tourist visas are available in Single and Multiple Entry. Be sure to check the date you require a visa from and the length of time you will need to cover, especially if you change countries during your trip.
+
+For your visa application you need to include the following information under the local contact section towards the end of the application. :
+
+PEAK India
+25/3 East Patel Nagar
+New Delhi 110008
+Phone: +91 11 4500 6400
+
+Please note that this information can change at any time. Please always refer to
+https://indianvisaonline.gov.in/visa/tvoa.html
+. This is the official visa online site. There have been reports of other non-official websites that travellers should be aware of.
+
+Safari Bookings - Ranthambore National Park
+To ensure your safari booking at Ranthambore National Park, we require a scanned copy of the bio page of your passport at the time of booking.
+Your safari arrangements cannot be completed without this information.
+
+
+
+
+
+
+
+Is tipping customary in India?
+
+
+
+
+
+
+
+
+
+While not mandatory, tipping porters, drivers, restaurant staff and other service workers is considered polite. When taking into account the low wages earned by the average Indian person, a small tip of 5-10% of the service is a gracious way to show your appreciation.
+
+
+
+
+
+
+
+What is the internet access like in India?
+
+
+
+
+
+
+
+
+
+The internet has grown rapidly in India, so finding Wi-Fi access and cyber cafes in the large cities and regional centres won't be a problem. Smaller towns, isolated areas and rural villages may have limited to no access.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in India?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in urban areas, but can be patchy and less reliable in rural and mountainous areas. Ensure global roaming is activated on your phone before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in India?
+
+
+
+
+
+
+
+
+
+Squat toilets are the most common toilets in India. Always carry your own toilet paper and soap or hand sanitizer, as they are usually not provided. Western-style flushable toilets can be found in up-market restaurants, five-star hotels and in some tourist areas.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Cup of tea = 5 INR
+Small bottle of beer = 40 INR
+Basic street food plate = 40-60 INR
+Buffet dinner in a nice restaurant = 800-1500 INR
+
+
+
+
+
+
+
+Can I drink the water in India?
+
+
+
+
+
+
+
+
+
+It's not recommended to drink the tap water in India. Filtered water is a better option; try to use a refillable canteen or water bottle rather than buying bottled water. Remember to avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in India?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by modern hotels, restaurants and medium-to-large shops in tourist areas. Smaller shops, cafes, market stalls and places in remote areas probably won’t have facilities that support credit cards, so ensure you have enough cash to cover expenses while in rural areas or when visiting smaller vendors and bazaars.
+
+
+
+
+
+
+
+What is ATM access like in India?
+
+
+
+
+
+
+
+
+
+ATMs can be found in India's large cities so finding one shouldn’t be a problem. Smaller towns and isolated areas will have very few or none at all, so have enough cash to cover purchases when out of major cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in India?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in India?
+
+
+
+
+
+
+
+
+
+26 Jan Republic Day(National Day)
+
+26 Jun Ramazan / Idul Fitr (End of Ramadan) *
+
+15 Aug Independence Day
+
+2 Sep Bakri Id / Idu'l Zuha (Feast of Sacrifice)
+
+Idu'l Zuha (Feast of Sacrifice) National
+
+30 Sep Durga Puja / Dussehra(Vijaya Dashami)
+
+2 Oct Mahatma Gandhi's Birthday
+
+* Subject to changes
+
+Please note these dates are for 2017. For a current list of public holidays in India go to:
+http://www.worldtravelguide.net/india/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for India
+
+1. Be considerate of India’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+6. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+7. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+8. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+9. Please ask and receive permission before taking photos of people, including children.
+
+10. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In India, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Pollinate Energy
+
+Pollinate Energy is a social business with a simple mission – to improve the lives of India’s urban poor by giving them access to affordable products. With a focus on sustainable solutions, such as solar lights and improved cookstoves, people are able to reduce indoor smoke, have better quality light, use less fuel and save money.
+
+Photo provided by Pollinate Energy
+
+
+
+
+
+
+
+
+
+
+
+Asha Ka Jharna
+
+Providing essential services to disabled children and adults, this Rajasthan-based organisation assists disempowered people to feel part of their community. Vocational training, education, guidance and counselling all help to foster self reliance and confidence.
+
+Image supplied by Asha Ka Jharna.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

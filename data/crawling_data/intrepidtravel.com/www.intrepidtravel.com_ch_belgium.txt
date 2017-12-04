@@ -1,0 +1,3290 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belgium Tours & Travel 2017/18 | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belgium tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Belgium
+
+
+
+With romantic rivers and canals, 'chocolate-box' villages and impressive monuments from the Renaissance, Belgium exudes old-world charm like no other.
+
+
+Whether you're keen to dabble in the art world, discover historic battlefields, indulge in gastronomic delights or simply wander the cobbled city alleyways, Belgium will feed your senses, capture your imagination and steal your heart.
+
+
+Our Belgium trips
+
+
+
+
+
+
+
+
+
+Madrid to Venice
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,650
+
+
+
+
+
+Elaborate architecture and exceptional cuisine, legendary landscapes and live history...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Berlin
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,910
+
+
+
+
+
+Packed with historical, culinary and artistic attractions, this journey from Barcelona...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,810
+
+
+
+
+
+Visit Spain, France, Germany, the Czech Republic and Italy on this epic journey that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Berlin
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,770
+
+
+
+
+
+Jump aboard a colourful adventure from Madrid to Berlin. Tour through beautiful beaches...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Venice
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR4,700
+
+
+
+
+
+Travel through numerous European countries starting in Spain and France, through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Rome
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,760
+
+
+
+
+
+Embark on an all-European adventure from Madrid  to Rome, stopping off in the grand...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on Belgium
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+Best of Brussels: a perfect day in Belgium’s...
+
+
+
+
+
+
+Brussels is surreal and serious by turns: a hip Belgium friend who dresses well...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+How to spend 24-hours in Bruges
+
+
+
+
+
+
+Get ready for an action-packed 24 hours. And by action-packed, we mean you’re...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 09, 2016
+
+
+
+In Bruges: 8 reasons you should check out...
+
+
+
+
+
+
+If you were to picture the city where an aspiring Disney director might choose to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belgium travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medieval Buildings Belgium
+
+
+
+
+When you’re not getting lost in romantic cobble-stone streets and historic art galleries, find the time to uncover Brussel’s lively bar scene.
+
+
+
+
+
+
+Europe Explorer, 36 days
+
+
+
+
+
+
+
+
+
+
+
+Brussels
+
+
+
+
+Be seduced by chocolate shops, cafes and Gothic architecture in Belgium’s effortlessly cool capital.
+
+
+
+
+
+
+Barcelona to Berlin, 15 days
+
+
+
+
+
+
+
+
+Madrid to Berlin, 22 days
+
+
+
+
+
+
+
+
+Madrid to Venice, 36 days
+
+
+
+
+
+
+
+
+
+
+
+
+Belgium holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Brussels (population 950,000)
+
+Population:
+
+10.4 million
+
+Language:
+
+Dutch, French, German
+
+Currency:
+
+EUR
+
+Time zone:
+
+(GMT+01:00) Brussels, Copenhagen, Madrid, Paris
+
+Electricity:
+
+Type C (European 2-pin) Type E (French 2-pin, female earth)
+
+Dialing code:
+
++32
+
+
+
+
+
+
+
+
+
+Best time to visit Belgium
+
+
+
+
+
+
+×
+
+Best time to visit Belgium
+
+
+
+
+As a small country, Belgium's weather doesn't vary much around the country. Warmer weather prevails from May to September, with July and August being the most popular times to visit, so expect to share Belgium with more people when travelling during this period. It can get quite cold during December and January, with snow frequently falling around the country. Rainfall is quite high year-round in Belgium, although the rain is usually in the form of showers rather than torrential downpours.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing borders with
+France
+,
+Germany
+, Luxembourg and the
+Netherlands
+, Belgium is strategically placed near many of Western Europe's capital cities. Featuring relatively flat terrain, Belgium has a mixture of fertile plains and valleys, and rugged forested areas. With a small strip of coastline along the North Sea, international travellers often forget that Belgium has sandy beaches, with the Flanders coast being well-frequented by local and European holidaymakers.
+
+
+
+
+
+
+
+
+Top 5 Sweet Treats of Belgium
+
+
+
+
+
+
+×
+
+Top 5 Sweet Treats of Belgium
+
+
+
+
+1. Chocolate
+
+Belgian chocolate is arguably the world's best and with thousands of chocolate shops all over the country, visitors won't be able to resist trying a truffle or two! Visit chocolate museums, hand-pick favourites at luxury chocolateries or stock up at chain stores.
+
+2. Waffles
+
+Belgian Waffles (known locally as Gaufres) aren't exactly a diet food. Topped with cream, sugar, chocolate sauce, strawberries or all of the above, they are a delectably decadent treat easily picked up from markets, specialty stores and street carts all over Belgium.
+
+3. Cuberdon
+
+These classic Belgian sweets are a raging favourite with locals. Hard on the outside and syrupy in the middle, cone-shaped cuberdons are made with sugar and gelatine, and are available in flavours like raspberry, blackcurrant and apple.
+
+4. Speculoos
+
+These thin, spicy cookies are usually served at Christmas, but are baked all year round. With a unique flavour, they are very 'moreish' so it's hard to stop at one.
+
+5. Pom Koek
+
+This traditional, Belgian coffee cake made with honey and coffee and spiced with cinnamon and cloves is a delicious afternoon pick-me-up easily found in coffee houses and cafes throughout Belgium.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further Reading
+
+
+
+
+
+
+×
+
+Further Reading
+
+
+
+Title
+
+Author
+
+As Above, So Below: A Novel of Peter Bruegel
+
+Rudy Rucker
+
+A Tall Man in a Low Land: Some Time Among the Belgians
+
+Harry Pearson
+
+Villette
+
+Charlotte Bronte
+
+A Dog in Flanders
+
+Ouida
+
+Dreadful Lies
+
+Michele Bailey
+
+They Called it Passchendaele
+
+Lyn Macdonald
+
+
+
+
+
+
+
+
+Belgium travel FAQs
+
+
+
+
+
+Is tipping customary in Belgium?
+
+
+
+
+
+
+
+
+
+Restaurants will include a service fee within the bill and tipping extra is generally left up to the discretion of the consumer. Rounding up the bill or leaving spare change is commonplace if the service has been good. Feel free to tip more if the service has been exemplary or if you’re feeling generous.
+
+
+
+
+
+
+
+What is the internet access like in Belgium?
+
+
+
+
+
+
+
+
+
+Internet access is good in Belgium, with internet cafes and Wi-Fi hotspots easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Belgium?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in most parts of Belgium. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Belgium?
+
+
+
+
+
+
+
+
+
+Modern, flushable toilets are the standard in Belgium.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Can of soft drink = 2 Euro
+Coffee in a cafe = 3-4 Euro
+A bottle of beer = 3-5 Euro
+Lunch in a cafe = 10-15 Euro
+Nice dinner with drinks = 30-50 Euro
+
+
+
+
+
+
+
+Can I drink the water in Belgium?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink unless otherwise marked.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Belgium?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores and hotels in Belgium. Smaller cafes and shops may not accept credit cards, so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Belgium?
+
+
+
+
+
+
+
+
+
+ATMs are very common in Belgium, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Belgium?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Belgium?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+25 May Ascension Day
+
+5 Jun Whit Monday
+
+21 Jul National Day
+
+15 Aug Assumption of the Virgin Mary
+
+1 Nov All Saints' Day
+
+11 Nov Armistice Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Belgium go to:
+http://www.worldtravelguide.net/belgium/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Belgium
+
+1. Be considerate of Belgium’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+5. Learn some local language and don't be afraid to use it – simple greetings will help break the ice.
+
+6. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+7. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+8. Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

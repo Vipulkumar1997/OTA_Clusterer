@@ -1,0 +1,3216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+North Korea Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+North Korea tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+North Korea
+
+
+
+Forget what you think you know about North Korea – discover a country full of beautiful landscapes and incredible experiences.
+
+
+Look beyond the traditional images of Communist propaganda and Soviet architecture for a mind- and eye-opening travel experience to North Korea. Be one of the few to discover the real life behind the tightly controlled borders of this isolated nation.
+
+
+Our North Korea trips
+
+
+
+
+
+
+
+
+
+North Korea Highlights
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR3,625
+
+
+
+
+
+Travel around the Democratic People’s Republic of Korea, its capital of Pyongyang and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+North Korea tour reviews
+
+
+Our North Korea trips score an average of
+5 out of 5
+based on 3 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+North Korea Highlights,
+September 2017
+
+Cyril STURM
+
+With the present hostilities around the Korean Peninsular I still recommend that if u r interested in peculiar or hard to get countries to visit this is 4 u.The roads r in need of repair no seatbelts in bus but u r sometimes the only traffic.Only hardcore travellers should apply. u will b amazed by the cleanliness scenery and they do have a decent beer.
+
+Review submitted 05 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+North Korea Highlights,
+September 2017
+
+Bob Ross
+
+Organizing a trip to North Korea would be daunting at the best of times, but Intrepid arranged a flawless adventure, even as a third of the participants cancelled out at the last minute because of the rising tensions with America. N Korea detonated a hydrogen blast the week before we entered and fired a missile over Japan the day we returned, but Intrepid ensured that our 6 days in N Korea were free of anxiety or stress.
+
+Review submitted 02 Oct 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+North Korea trip reviews
+
+Our North Korea trips score an average of
+5 out of 5
+based on 3 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on North Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 24, 2016
+
+
+
+On trend: 5 ways travel is going to change in 2017
+
+
+
+
+
+
+Another year has nearly come and gone, but here at Intrepid HQ we’re gazing into ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+North Korea travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DMZ
+
+
+
+
+Understand the standoff between north and south at the demilitarised zone
+
+
+
+
+
+
+North Korea Highlights, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Manphok Valley, North Korea
+
+
+
+
+Discover North Korea’s beauty in the ‘valley of ten thousand falls’
+
+
+
+
+
+
+North Korea Highlights, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Pyongyang Metro
+
+
+
+
+Ride the world’s deepest metro alongside the locals while patriotic music fills the air
+
+
+
+
+
+
+North Korea Highlights, 9 days
+
+
+
+
+
+
+
+
+
+
+
+
+North Korea holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital
+
+Pyongyang
+
+Population
+
+24 million
+
+Lanuage
+
+Korean
+
+Currency
+
+Won
+
+Time zone
+
+(GMT+8:30) Pyongyang
+
+Electricity
+
+
+Type C (European 2-pin) Type E (French 2-pin, female earth) Type F (German 2-pin, side clip earth). 220 Volt 50 Hz.
+
+
+Dialing code
+
++85
+
+Area
+
+12,300km
+2
+
+Offical name
+
+Democratic People's Republic of Korea
+
+Founded
+
+9
+th
+September 1948
+
+
+
+
+
+
+
+
+
+Best time to visit North Korea
+
+
+
+
+
+
+×
+
+Best time to visit North Korea
+
+
+
+
+Autumn and spring are considered the best times to visit DPR Korea, as it can get very hot during the summer and cold during the winter. During autumn and spring expect moderate temperatures, a mild climate, and less rain and humidity than the rest of the year.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+DPR Korea is located in the eastern part of Asia, on the northern part of Korean Peninsula, (Latitude 38
+°
+-43°), boarding China to her north and Russia to the northeast. Mountains cover almost 80% of its territory, and the average altitude is 440 meters above sea level. The country has a coastal line of 17300 km. The average annual temperature is 9-12°C, with an average annual rainfall of 1000-1200 mm.
+
+
+
+
+
+
+
+
+Culinary Delicacies of DPR Korea
+
+
+
+
+
+
+×
+
+Culinary Delicacies of DPR Korea
+
+
+
+
+Top 3 Culinary Delicacies of DPR Korea
+
+1. Kimchi
+
+Kimchi is hailed as a nutritional powerhouse, packing a healthy punch of nutrients, vitamins and beneficial bacteria that makes it one of the world's healthiest superfoods. But most people don't eat these fermented vegetables for health reasons – it's the uniquely, tasty flavour and versatility that makes kimchi so popular in Korean cooking.
+
+2. Pansanggi (in Kaesong city)
+
+This banquet-style meal of 11 dishes – including rice, soup, kimchi – served separately in small bronze bowls used to be served only to the King and honoured guests in the past. Today it’s served in the traditional Korean style house and at the traditional table setting.
+
+3. Insam dakgom
+
+This delicious steamed chicken is stuffed with world famous Insam (ginseng) and other materials. It’s though to be good for health and one chicken will feed 2-3 people.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+North Korea travel FAQs
+
+
+
+
+
+Do I need a visa to travel to North Korea?
+
+
+
+
+
+
+
+
+
+The DPRK (Democratic People’s Republic of Korea) visa fee is 50 Euros (This is included in the trip cost)
+
+Please provide the following Documents to your booking agent no later than 60 days prior to departure. Please note any forms listed below will be given to you by your booking agent for you to complete and return.
+
+• Colour passport copy
+• Colour passport photo x4
+• Completed Application Form
+• Completed Journalist Form
+• Please make sure you have a double entry Chinese visa and valid insurance which can cover their trip to the DPRK.
+• Unfortunately US citizens can not travel on our itinerary due to the fact that we depart North Korea via train and US citizens can only enter/exit North Korea via plane. Please chat to your booking agent about trying to fly out of North Korea instead of following our itinerary.
+• For Applicants based in Hong Kong, we need a reference letter from his/her company as well as a scan of the person’s HK ID card is required to process the application.
+• For applicants based in France, please include an email address as the DPRK consulate in Paris will need to contact them.
+
+Please understand that information and processes can change so for the most up to date information please check with your local Consulate or Embassy.
+
+CHINA:
+Australia: Yes - in advance
+Belgium: Yes - in advance
+Canada: Yes - in advance
+Germany: Yes - in advance
+Ireland: Yes - in advance
+Netherlands: Yes - in advance
+New Zealand: Yes - in advance
+South Africa: Yes - in advance
+Switzerland: Yes - in advance
+United Kingdom: Yes - in advance
+USA: Yes - in advance
+
+MAINLAND CHINA & HONG KONG:
+Most nationalities require a visa for mainland China. You must obtain your Chinese visa in advance. It is not possible to get a visa on arrival and Chinese visas can be difficult to obtain outside your country of residence. You may be able to apply for your visa in Hong Kong If you have time here before your trip departs. You will need a Double Entry Tourist for your trip valid for 30 days. Hong Kong is not considered part of mainland China for immigration purposes and most nationalities do not require a visa. Please check with an embassy for specific requirements.
+
+Please make sure if you have a transit anywhere in China before arriving at your destination that you check with your Airline to see if the transit will use your Chinese Visa. You need to make sure your China visa will cover you for any transits made.
+
+INFORMATION REQUIRED FOR VISA APPLICATION:
+Itinerary:
+Please list the destinations you will visit in China in chronological order on your application form. Do not mention Tibet anywhere on your application form. While these areas are not off limits to travellers, they are considered politically sensitive, so including these on your visa application could lead to significant delays or your visa being denied.
+
+Name of Host/Inviting Organisation:
+Intrepid Travel Beijing Co. Ltd.
+606 InterChina Commercial Building
+33 Dengshikou Street
+Dongcheng District
+Beijing 100006
++86 10 6406 8022
+
+DOCUMENTS REQUIRED FOR VISA APPLICATION:
+* Hotel List - this will be sent to you by Intrepid or your travel agent at time of booking. If you do not receive this please email us with your booking number and trip details.
+* Official invitation from licensed Chinese tourism company - this will be provided together with the Hotel List to all travellers regardless of whether it is required by the embassy or not
+* Itinerary – please print off a copy of your specific trip itinerary from our website www.intrepidtravel.com and include it with your application, marking the dates you will visit each destination if required
+* Photocopy of your passport
+* Passport size photo (up to 4 may be required)
+* Please check with the embassy for any other specific requirements
+
+DOCUMENTS REQUIRED FOR TRAIN TICKET BOOKINGS
+Intrepid requires you send the following at the time of booking, at least 30 days prior to travel:
+
+*Clear, colour copy of the personal details page of your passport
+
+Please make sure that this copy is for the passport that you will be travelling on. If you have to renew your passport after booking please notify us as soon as you have a new passport number and bring your old passport with you on your trip as well.
+
+
+
+
+
+
+
+Is tipping customary in DPR Korea?
+
+
+
+
+
+
+
+
+
+Tour guides and drivers are expecting tips.
+
+
+
+
+
+
+
+What is the internet access like in DPR Korea?
+
+
+
+
+
+
+
+
+
+Internet access is very limited.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in DPR Korea?
+
+
+
+
+
+
+
+
+
+Only if you insert local SIM card.
+
+
+
+
+
+
+
+What are the toilets like in DPR Korea?
+
+
+
+
+
+
+
+
+
+It’s recommended that you use a hotel or restaurant’s toilet. Packing your own toilet paper is also a good idea.
+
+
+
+
+
+
+
+Can I drink the water in DPR Korea?
+
+
+
+
+
+
+
+
+
+It’s not recommended to drink the tap water. Fill a reusable water bottle or canteen with filtered water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in DPR Korea?
+
+
+
+
+
+
+
+
+
+No. Only cash is accepted. USD, Euro, RMB (Chinese Yuan) are widely accepted in hotels, bars, restaurants and tourist shops.
+
+
+
+
+
+
+
+What is ATM access like in DPR Korea?
+
+
+
+
+
+
+
+
+
+Very limited. Make sure to bring enough cash with you, and keep in secure place.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to DPR Korea?
+
+
+
+
+
+
+
+
+
+Yes. Travel insurance is required.
+
+
+
+
+
+
+
+What public holidays are celebrated in North Korea ?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+28 Jan Seollal Holiday
+
+11 Feb The 15th of the first month by the lunar calendar / Cheongwoldaeboreum
+
+16 Feb Birth date of Kim Jong-Il / Day of the Shining Star
+
+8 Mar International Women's Day
+
+4 Apr Chungmyung Day
+
+15 Apr Birth date of Kim Il-Sung / Day of the Sun
+
+25 Apr Chosun People's Army Foundation Day
+
+1 May Labor Day
+
+6 Jun Chosun Children's Union Foundation Day
+
+19 Jun The great leader Comrade Kim Jong Il started work at the Central Committee of the Worker's Party of Korea
+
+27 Jul Day of Victory in the Fatherland Liberation War
+
+15 Aug Liberation Day
+
+25 Aug Day of Songun
+
+9 Sep National Day
+
+4 Oct Han'gawi Holiday
+
+10 Oct Party Foundation Day
+
+16 Nov Mother's Day
+
+27 Dec Constitution Day
+
+Please note these dates are for 2017. For a current list of public holidays in North Korea go to:
+http://www.worldtravelguide.net/north-korea/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for DPR Korea
+
+Be considerate of DPR Korea’s customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship, memorial halls and special day celebrations.
+
+For sanitation reasons, try to avoid tap water. Fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children. No photos of military personnel.
+
+If you would like to give a gift when on community visits, speak to your leader to find out what, if anything, is appropriate.
+
+
+
+
+
+
+
+
+
+
+
+Government regulations to be aware of when visiting DPRKorea
+
+All visitors must respect the laws of DPRK and keep to the rules during their stay. You must not do anything that will be detrimental to tourist activities or the government. The country takes it’s image very seriously. Avoid political talk and actions, and negative comments about the country or its people. The government can and will apply the law strongly to anyone that they consider having violated these rules, regardless of their nationality.
+
+Photography around the country is permitted, but images must not bring the country into disrepute. All cameras, mobile phones and laptop computers are subject to search by customs – all images and videos will be inspected. Please be aware of the contents documents or files on devices – especially very personal images, videos or documents – and be sure they will not cause problems at customs or go against the law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

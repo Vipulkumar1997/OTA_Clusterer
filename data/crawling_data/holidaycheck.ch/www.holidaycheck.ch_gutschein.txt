@@ -1,0 +1,473 @@
+
+
+
+
+
+
+
+HolidayCheck Reisegutschein 2017 • Jetzt 100€ sichern!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Award 2017
+
+
+Badeurlaub
+
+Städtereisen
+
+Wellness
+
+Skiurlaub
+
+Familienurlaub
+
+Hotels mit Rutschen
+
+Strandhotels
+
+Luxushotels
+
+HolidayCheck Gold Award
+
+
+
+Reiseangebote
+
+
+Frühbucher
+
+Pauschalreisen
+
+Last Minute
+
+Hotels
+
+Wellnesshotels
+
+Städtereisen
+
+Flüge
+
+Skireisen
+
+Ferienwohnungen
+
+Kreuzfahrten
+
+Schiffe
+
+Mietwagen
+
+Reiseschnäppchen
+
+Kürzlich gebucht
+
+
+
+Bewertung abgeben
+
+
+Hotel bewerten
+
+Bilder hochladen
+
+Reisetipps abgeben
+
+Schiffe bewerten
+
+Im Forum schreiben
+
+
+
+Reiseforum
+
+
+Ägypten Forum
+
+Mallorca Forum
+
+Türkei Forum
+
+Tunesien Forum
+
+Dom.Rep. Forum
+
+Thailand Forum
+
+
+
+Magazin
+
+
+
+
+meinHolidayCheck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100 €
+Gutschein
+
+Ab einem Mindestreisepreis von 1.500 €.
+Nur gültig für Pauschalreisen.
+
+
+
+GSH-11-NOV-11
+
+Code kopieren
+
+
+Gutscheinbedingungen
+
+
+
+
+
+
+50 €
+Gutschein
+
+Ab einem Mindestreisepreis von 700 €.
+Nur gültig für Pauschalreisen.
+
+
+
+GSH-26-ULI-07
+
+Code kopieren
+
+
+Gutscheinbedingungen
+
+
+
+
+
+HolidayCheck schenkt Ihnen 100 €!
+
+Sie wollen bei Ihrer Urlaubsbuchung Geld sparen? Dann nutzen Sie den HolidayCheck Reisegutschein bei Ihrer Buchung!
+
+
+
+Angebote suchen
+
+
+
+
+
+
+
+
+Reisegutschein gleich einlösen
+
+
+
+
+
+["com.holidaycheck.mpg.searchspec.PackageSearchSpec",{"journey":{"flight":{"departureAirPorts":["AMS","BSL","SXF","TXL","BRN","BLL","BRE","BRU","DTM","DRS","DUS","EIN","ENS","ERF","FRA","HHN","FDH","GVA","GRZ","GRQ","HAM","HAJ","INN","FKB","KLU","CGN","KRK","LEJ","LNZ","LGG","LUX","MST","CSO","FMM","MUC","FMO","NUE","PAD","RLG","SCN","SZG","SZW","SXB","STR","WAW","NRN","VIE","ZRH","ZQW","KSF","LBC","SZW","CRL"]},"travelDate":["com.holidaycheck.mpg.model.hotel.UnpreciseTravelDate",{"from":{"year":2017,"monthOfYear":12,"dayOfMonth":6},"to":{"year":2018,"monthOfYear":6,"dayOfMonth":3},"minDuration":7,"maxDuration":7}],"adults":2},"accommodation":["com.holidaycheck.mpg.model.packageholiday.HotelAccommodation",{"meals":["GT06-BR"]}]}]
+
+
+
+
+
+
+
+
+
+
+Mallorca
+
+
+ab
+
+1200,-
+
+€
+
+
+
+
+
+
+
+["com.holidaycheck.mpg.searchspec.PackageSearchSpec",{"journey":{"flight":{"departureAirPorts":["AMS","BSL","SXF","TXL","BRN","BLL","BRE","BRU","DTM","DRS","DUS","EIN","ENS","ERF","FRA","HHN","FDH","GVA","GRZ","GRQ","HAM","HAJ","INN","FKB","KLU","CGN","KRK","LEJ","LNZ","LGG","LUX","MST","CSO","FMM","MUC","FMO","NUE","PAD","RLG","SCN","SZG","SZW","SXB","STR","WAW","NRN","VIE","ZRH","ZQW","KSF","LBC","SZW","CRL","BSL","SXF","TXL","BRN","BRE","DTM","DRS","DUS","ERF","FRA","HHN","FDH","GRZ","HAM","HAJ","INN","FKB","KLU","CGN","LEJ","LNZ","CSO","FMM","MUC","FMO","NUE","PAD","RLG","SCN","SZG","STR","NRN","VIE","ZRH","ZQW","LBC","SZW","KSF"]},"travelDate":["com.holidaycheck.mpg.model.hotel.UnpreciseTravelDate",{"from":{"year":2017,"monthOfYear":12,"dayOfMonth":6},"to":{"year":2018,"monthOfYear":6,"dayOfMonth":3},"minDuration":7,"maxDuration":7}],"adults":2},"accommodation":["com.holidaycheck.mpg.model.packageholiday.HotelAccommodation",{"meals":["GT06-BR"]}]}]
+
+
+
+
+
+
+
+
+
+
+Kreta
+
+
+ab
+
+1200,-
+
+€
+
+
+
+
+
+
+
+["com.holidaycheck.mpg.searchspec.PackageSearchSpec",{"journey":{"flight":{"departureAirPorts":["AMS","BSL","SXF","TXL","BRN","BLL","BRE","BRU","DTM","DRS","DUS","EIN","ENS","ERF","FRA","HHN","FDH","GVA","GRZ","GRQ","HAM","HAJ","INN","FKB","KLU","CGN","KRK","LEJ","LNZ","LGG","LUX","MST","CSO","FMM","MUC","FMO","NUE","PAD","RLG","SCN","SZG","SZW","SXB","STR","WAW","NRN","VIE","ZRH","ZQW","KSF","LBC","SZW","CRL","BSL","SXF","TXL","BRN","BRE","DTM","DRS","DUS","ERF","FRA","HHN","FDH","GRZ","HAM","HAJ","INN","FKB","KLU","CGN","LEJ","LNZ","CSO","FMM","MUC","FMO","NUE","PAD","RLG","SCN","SZG","STR","NRN","VIE","ZRH","ZQW","LBC","SZW","KSF","AMS","BSL","SXF","TXL","BRN","BLL","BRE","BRU","DTM","DRS","DUS","EIN","ENS","ERF","FRA","HHN","FDH","GVA","GRZ","GRQ","HAM","HAJ","INN","FKB","KLU","CGN","KRK","LEJ","LNZ","LGG","LUX","MST","CSO","FMM","MUC","FMO","NUE","PAD","RLG","SCN","SZG","SZW","SXB","STR","WAW","NRN","VIE","ZRH","ZQW","KSF","LBC","SZW","CRL"]},"travelDate":["com.holidaycheck.mpg.model.hotel.UnpreciseTravelDate",{"from":{"year":2017,"monthOfYear":12,"dayOfMonth":6},"to":{"year":2018,"monthOfYear":6,"dayOfMonth":3},"minDuration":7,"maxDuration":7}],"adults":2},"accommodation":["com.holidaycheck.mpg.model.packageholiday.HotelAccommodation",{"meals":["GT06-BR"]}]}]
+
+
+
+
+
+
+
+
+
+
+Gran Canaria
+
+
+ab
+
+1200,-
+
+€
+
+
+
+
+
+
+
+
+
+Sie möchten unverbindlich beraten werden?
+
+
+Unsere Urlaubsexperten sind täglich von 08:00-22:00 Uhr für Sie da – kostenlos!
+
+0800 240 4455
+
+buchung@holidaycheck.de
+
+Service & FAQ
+
+
+
+
+
+Steven
+Melina
+Vanessa
+Nadja
+
+
+
+Alle Infos und Gutscheinbedingungen zum Reisegutschein:
+So geht's:
+
+
+Bitte geben Sie diesen Gutscheincode bei Ihrer Buchung im vorgesehenen Gutscheincodefeld an.
+
+Geben Sie über den Link in Ihrer Buchungsbestätigung oder in Ihrem persönlichen meinHolidayCheck-Bereich Ihre Bankverbindung zur Auszahlung des Gutscheines ein.
+
+Wir überweisen Ihnen den Gutscheinwert nach Ihrer Reiserückkehr.
+
+
+Folgende Gutscheinbedingungen sind bei dieser Aktion gültig:
+
+
+Für die Gültigkeit eines Gutscheins ist der Tag der Buchung entscheidend. Der Reiseantritt kann zu einem späteren Zeitpunkt erfolgen.
+
+Der Gutschein gilt ausschließlich für die Buchung einer Pauschalreise (Flug & Hotel) oder einer Rundreise, nicht für die Buchung eines Nur-Hotelangebotes.
+
+*ein eventuell in Schweizer Franken angegebener Gutscheinwert basiert auf dem €-Gutscheinwert und ist abhängig vom tagesaktuellen Kurs. Dementsprechend können sowohl Gutscheinwert als auch Mindestreisepreis in CHF leicht abweichen.
+
+Der 100,- €-Gutschein ist ab einem Mindestreisepreis von 1500,- € gültig.
+
+Der 50,- €-Gutschein ist ab einem Mindestreisepreis von 700,- € gültig.
+
+Eine Barauszahlung ist nicht möglich.
+
+
+Eine Anrechnung auf Stornierungskosten ist nicht möglich.
+
+
+Bei Verlust besteht kein Anspruch auf Ersatz.
+
+Dieser Gutschein ist nicht mit anderen Aktionen kombinierbar.
+
+Der Gutschein kann nicht für exklusive Angebote genutzt werden.
+
+Der Gutschein-Code ist ein Mal pro Buchung einlösbar.
+
+Der Gutschein ist nicht auf bestehende Reisen oder rückwirkend anrechenbar.
+
+Pro Reisebuchung kann nur ein Gutschein eingelöst werden, unabhängig von der Anzahl der Reiseteilnehmer.
+
+Der HolidayCheck Reisegutschein: Hier sparen Sie 100 €!
+Ganz egal für welche Destination Sie sich entscheiden - HolidayCheck schenkt Ihnen einen 100 € Reisegutschein auf die Buchung Ihrer Pauschalreise. Wie wäre es mit Badeurlaub auf Mallorca, in Griechenland oder etwas weiter weg in Thailand? Wohin die Reise auch geht, Ihr Reisegutschein ist gültig für alle Pauschalreisen ins In- oder Ausland.
+
+Ebenfalls empfehlen wir Ihnen Ihren Reisegutschein mit vielfältigen Angeboten zu den verschiedensten Reisethemen zu verbinden. Besonders beliebt bei unseren Urlaubern dieses Jahr:
+Silvesterreisen
+beispielsweise nach New York, Barcelona oder London. Auch unsere
+Wellnessangebote
+sind mit dem 100 € Reisegutschein kombinierbar und eignen sich perfekt um beim Entspannen Geld zu sparen.
+
+Der HolidayCheck Reisegutschein ist gültig bei unseren zahlreichen Reiseveranstaltern, darunter TUI Deutschland, L'TUR, FTI, Alltours, DERTOURS sowie Thomas Cook und auch Schauinsland Reisen und viele mehr.
+
+Im
+HolidayCheck Shop
+können Sie zusätzlich auch einen Reisegutschein zum Verschenken ohne Mindestreisepreis bestellen. Diesen können Sie sofort ausdrucken und Ihren Liebsten direkt eine Freude machen.
+
+
+
+Kostenlose Urlaubsberatung
+0800 240 4455
+oder E-Mail schreiben
+Täglich von 08:00-22:00 Uhr
+
+
+
+
+
+Sie möchten unverbindlich beraten werden?
+
+Unsere Urlaubsexperten sind täglich von 08:00-22:00 Uhr für Sie da – kostenlos!
+
+0800 240 4455
+
+buchung@holidaycheck.de
+
+Service & FAQ
+
+
+
+Bei uns sind Ihre Daten und Buchungen sicher.
+
+
+TÜV-zertifiziert seit 2005
+
+HolidayCheck steht für geprüfte Qualität, Sicherheit und Transparenz
+
+
+
+Testbild Testsieger
+
+„Übersichtlich & meinungsstark“ – HolidayCheck glänzt in Online-Reiseanbieter-Test 2016
+
+
+Deutschlands Spar-Champions 2016
+
+HolidayCheck ist unter den TOP 3 der Reisevermittler.
+
+
+Stiftung Warentest - Testsieger
+
+HolidayCheck ist im 01/2017 Test mit dem Qualitätsurteil "Gut" unter 8 Reisevermittlern Testsieger
+
+
+
+Service
+Reiseforum
+HolidayCheck Blog
+HolidayCheck Shop
+MietwagenCheck
+Apps
+FAQ
+Für Partner
+Hoteliers
+POI Manager
+Destinationsvertreter
+Widgets
+Mediadaten / Vermarktung
+Partnerprogramm
+Das Kleingedruckte
+Veranstalter - AGB
+Nutzungsbedingungen
+Datenschutz
+AGB
+Impressum
+Über HolidayCheck
+Das Unternehmen
+Unsere Werbung
+Presse
+Jobs
+
+© 1999 - 2017 HolidayCheck AG. Alle Rechte vorbehalten.
+
+
+
+
+
+
+
+

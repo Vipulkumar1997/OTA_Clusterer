@@ -1,0 +1,3188 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Djibouti Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Djibouti tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Djibouti
+
+
+
+If you were asked to name all the countries of the world, we’d forgive you if you forgot about little Djibouti.
+
+
+It’s a tiny speck on the Horn of
+Africa
+, right on the mouth of the Red Sea (you can almost wave to Yemen across the water). With the possible exception of
+Iceland
+, Djibouti has one of the weirdest collections of landscapes on the planet: volcanic salt lakes, sunken plains, rocky canyons, limestone pillars bathed in sulfuric steam. Classic Lion King this place is not. In fact, most tourists have never heard of Djibouti, which means you get its world-class hiking, diving and kite surfing all to yourself.
+
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+Terms & Conditions
+
+
+
+
+
+×
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+
+
+
+1. Save 20% on new bookings to lesser-known destinations only departing between 1 January 2018 and 31 December 2018.
+2. Trips must be booked between 20 November 2017 and 18 December 2017.
+3. Offer only applies to the trips below:
+AMCW, BMXF, CJSO, HPSL, TIST, GGSX, HHSI, XMSG, ZMSB, YGSD, WMSZ, HJKB, KDOH, WMST, TESA, KFST, YBSM.
+4. Customers must quote the promo code 53253.
+5. This offer is not combinable with any other offer including loyalty.
+6. Offer does not apply to departures already discounted (can’t apply it via checkout).
+7. Intrepid Travel will donate 20% of the sold trip to the Intrepid Foundation.
+8. Trips must be booked between 20 November 2017 and 18 December 2017. Trip must depart between 1 January 2018 and 31 December 2018.
+9. Offer only applies to the land portion of the trip and cannot be applied to flights, insurance, or any additional services.
+10. The offer applies to Intrepid & Dragoman operated trips only. Third party operators can be found in the trip notes. Please note that the following are excluded: Polar voyages, Expeditions, Charity Treks, Short Break Adventures, Bite-Size Breaks, Urban Adventures and Dragoman trips to Bhutan, Rio Carnival and the Dragoman Family trips.
+11. A deposit of CHF300, GBP200, EUR275 and ZAR4000 is required at the time of booking, and full payment is required at least 60 days prior to travel.
+12. This sale is only valid for residents of Europe and Africa.
+13. There will be no extensions to the travel, booking or payment periods listed above.
+14. Intrepid Travel's Booking Conditions will also apply to the trip booked, and it is imperative that you examine those conditions before booking with Intrepid Travel. The most up to date Booking Conditions are accessible at http://www.intrepidtravel.com/booking-intrepid/booking-conditions.
+15. The trip is subject to availability and confirmation by Intrepid Travel at time of booking.
+
+
+Close
+
+
+
+
+
+
+Top Djibouti travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+18 Nov 2018
+
+Expedition Djibouti - Footsteps of the Afar
+
+
+
+Expedition Djibouti - Footsteps of the Afar
+Djibouti City to Djibouti City
+
+
+
+
+
+
+
+
+
+×
+
+Expedition Djibouti - Footsteps of the Afar
+
+
+
+
+
+
+
+
+
+11
+
+
+FR3,015
+
+
+FR2,412
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Djibouti trips
+
+
+
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,412
+
+
+
+
+
+Hike to Ardoukoba Volcano, see whale sharks, join a nomad camel trek to Lake Assal and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Djibouti tour reviews
+
+
+Our Djibouti trips score an average of
+5 out of 5
+based on 2 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar,
+November 2017
+
+Shane Edwards
+
+The Djibouti trip was fantastic. Spectacular sights and friendly people. It's a laid back place and a few words of Afar always elicits a smile.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar,
+November 2017
+
+Stephanie Obst
+
+This trip is not fot the faint-hearted, but if you have a sense of adventure you'll love it (unless you don't like rough desert landscapes).
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+
+Articles on Djibouti
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 16, 2017
+
+
+
+9 alternative travel spots for 2018
+
+
+
+
+
+
+Here at Intrepid we’re all about tackling the negative impact of over-tourism. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 25, 2017
+
+
+
+Want to visit Lonely Planet’s 2018 Best in...
+
+
+
+
+
+
+Looking for adventure in 2018? Look no further.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+Introducing our brand new Expedition trips for...
+
+
+
+
+
+
+After months of planning, arguing, drinking and pondering, we've come up with the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Djibouti travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lake Abbe, Djibouti
+
+
+
+
+Witness an otherworldly landscape of chimneys, salt flats and hot springs
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar , 11 days
+
+
+
+
+
+
+
+
+
+
+
+Arta Beach Whale Sharks
+
+
+
+
+Spot these giant, gentle creatures in the Bay of Ghoubbet
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar , 11 days
+
+
+
+
+
+
+
+
+
+
+
+Lake Assal, Djibouti
+
+
+
+
+Trek alongside a camel caravan to a salt lake that’s Africa’s lowest point on land
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar , 11 days
+
+
+
+
+
+
+
+
+
+
+
+Foret du Day National Park
+
+
+
+
+Look out for leopards in this compact but diverse national park
+
+
+
+
+
+
+
+
+
+
+Djibouti holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Djibouti City
+
+Population:
+
+810,178
+
+Language:
+
+French, Arabic
+
+Currency:
+
+Djiboutian Franc (DJF)
+
+Time zone:
+
+EAT (UTC +3)
+
+Dialing code:
+
++253
+
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+Djibouti travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Djibouti?
+
+
+
+
+
+
+
+
+
+All nationalities require a visa to visit Djibouti.
+
+All nationalities – except for India, Syria and Yemen – can obtain a visa on arrival at the airport. A tourist visa is valid for one month and costs around USD 55. A 3-day transit visa is also available at a cost of around USD 25. Proof of onward travel is also required.
+
+If you arrive by land, visa arrangements should be made in advance from a Djibouti embassy in a neighbouring country. Where there are no Djiboutian consulates, visas can often be acquired from French embassies.
+
+
+
+
+
+
+
+Is tipping customary in Djibouti?
+
+
+
+
+
+
+
+
+
+Leaving a small tip in restaurants is welcomed.
+
+
+
+
+
+
+
+What is the Internet access like in Djibouti?
+
+
+
+
+
+
+
+
+
+WiFi is increasingly common in hotels and restaurants, and there are internet cafes across Djibouti City. USB internet dongles can be purchased and loaded with data from a local provider.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Djibouti?
+
+
+
+
+
+
+
+
+
+Mobile coverage is generally good across the country. Your phone may work on roaming, depending on your home network. You can also purchase a local SIM card for around USD 11.
+
+
+
+
+
+
+
+What are the toilets like in Djibouti?
+
+
+
+
+
+
+
+
+
+Very basic squat/pit toilets are the standard in Djibouti, except for western-style flushable toilets that are sometimes available in large hotels and other modern buildings. Carry your own supply of soap and toilet paper, as this is rarely provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Cup of coffee = 750 DJF (approx. USD 4)
+
+Soft drink = 130 DJF (approx. USD 1)
+
+Bottle of beer = 700 DJF (approx. USD 4)
+
+Simple lunch = 1000 DJF (approx. USD 5.5)
+
+Nice dinner in a restaurant = 6000 DJF (approx. USD 33)
+
+
+
+
+
+
+
+
+Can I drink the water in Djibouti?
+
+
+
+
+
+
+
+
+
+Tap water isn't considered safe for travellers to drink. For environmental reasons, try to avoid buying bottled water. Ask your leader and accommodation provider for local advice on where drinking water can be accessed. Also, avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Djibouti?
+
+
+
+
+
+
+
+
+
+Credit cards are accepted at upmarket shops and hotels, though some will place a surcharge on the payment.
+
+
+
+
+
+
+
+What is ATM access like in Djibouti?
+
+
+
+
+
+
+
+
+
+There are ATMs in Djibouti City. They all except Visa. Outside of the capital there are no such facilities. Be sure to have both the local currency (Djibouti franc) and US dollars/euros in cash. The Djiboutian Franc is pegged to the US dollar, but beware of the conversion rate offered in some places.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Djibouti?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Djibouti?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+24 Apr The Prophet's Ascension
+
+1 May Labour Day
+
+25 Jun Aid el-Fitre / End of Ramadan
+
+26 Jun Aid el-Fitre / End of Ramadan
+
+27 Jun National Day
+
+28 Jun National Day Holiday
+
+31 Aug Youm Arafat
+
+1 Sep Aid el-Addha / Feast of Sacrifice
+
+2 Sep Aid el-Addha / Feast of Sacrifice
+
+21 Sep Awal Mouharram / Islamic New Year
+
+30 Nov Mouloud / The Prophet's Birthday
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Djibouti go to:
+http://www.worldtravelguide.net/djibouti/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Djibouti
+
+1. Be considerate of Djibouti customs, traditions, religion and culture.
+
+2. Djibouti has a large Muslim population, so dress modestly and conservatively, especially in the cities.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. During Ramadan, make sure to show respect to those who are fasting.
+
+6. Learn some French, Arabic or Somali phrases and don't be afraid to use them – simple greetings will help break the ice.
+
+7. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+8. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+9. Taking photos of public buildings, bridges and military structures is forbidden. Ask your leader what you can and can’t shoot.
+
+10. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

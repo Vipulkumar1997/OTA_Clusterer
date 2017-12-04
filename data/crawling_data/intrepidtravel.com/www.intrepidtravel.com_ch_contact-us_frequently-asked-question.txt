@@ -1,0 +1,3196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frequently Asked Questions | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+About
+
+Contact us
+
+FAQs
+
+
+
+
+Travel is one of those things that naturally gives rise to queries, concerns and doubts, so we’re here to put your mind at ease. Which trip is right for me? What do I do about visas? How much do I tip? Should I have banh mi or pho for lunch? For questions frequent and otherwise, this is the spot.
+
+Choosing a trip
+
+
+
+
+
+Trip style
+
+
+
+
+
+
+
+
+
+Which style of trip is right for me?
+
+
+
+Our three styles of travel – Basix, Original and Comfort – cover a whole gamut of travel experiences. To find out which one has ‘You’ written all over it, visit our
+trip styles page
+.
+
+
+
+Are trips physically demanding?
+
+
+
+
+Want to lie in a hammock and not move until cocktail hour? We’ve got a trip for that. Want to power up the side of mountain at high altitude? We’ve also got a trip for that. To determine what type of trip suits you best, each of our trips comes with a Physical Rating to let you know how physically demanding it is… or isn’t.
+Find out more about ratings.
+
+
+
+
+
+
+
+
+Travelling with children
+
+
+
+
+
+
+
+
+
+Does Intrepid have family trips?
+
+
+
+Intrepid offers a wide range of Family Adventures around the globe. The minimum age (for Family trips) varies depending on destination, and Intrepid has set minimum ages to ensure that the included activities suit each age range. Additionally, you’ll notice that some of the more adventurous destinations have a higher minimum age. Please click
+here
+full details and FAQs associated with our Family Adventures.
+
+
+
+
+
+
+
+
+
+Travelling in a group
+
+
+
+
+
+
+
+
+
+Who are Intrepid travellers?
+
+Intrepid adventures are for travellers with a yearning to get off the beaten track. Whether you're travelling solo, with a group of friends, or are aged 18 or 70, there is an Intrepid adventure to suit your interests and comfort level. Each Intrepid adventure has a physical and cultural grading to help you decide if the trip is right for you. No special skills are required for most adventures, just a sense of adventure and a curiosity about the world. Even on our camping adventures no previous experience is required; our tents are easy to set up, even for first-time campers.
+
+How many people will be on my trip?
+
+Good things come in small packages, which is why we keep our group sizes down. This means we’re small enough to remain flexible as we thread our way through communities without intimidating the locals. On most of our trips you’ll be part of an intimate group of 12-16 people, though our group sizes are on average 10 people. Our Overland trips are in purpose-built vehicles that can carry up to 24 travellers. Group sizes are displayed on each trip’s overview page on our website.
+
+Are there age restrictions on your trips?
+
+For the majority of our trips the minimum age is 15. An adult must accompany all children under the age of 18. Our Overland Adventures have a minimum age of 18. Younger children can join us on our Family trips and Short Break Adventures, but check each trip for its minimum age, which is located on the trip’s overview page on the website. Most of our trips don’t have a maximum age limit, but a Self-Assessment Form is required for all passengers 70 years and over.
+
+Who will be my group leader?
+
+While we can’t tell you who your leader is prior to departure, we can tell you they will be awesome. Our leaders are experts in their regions, some because they’ve been travelling there for years, others because they’re local to the region and can’t wait to show you around. On longer journeys, or ones that travel through more than one country, you may change leaders part way through – but this just means double the awesomeness.
+
+Can I just do part of the trip?
+
+Although you won’t be reimbursed for any portion of the trip unused, you can opt to sign off the trip if you need to leave a day or so earlier. If you let us know before travel that you’ll be arriving late or need to leave before the trips ends, we will notify our team on the ground to best accommodate your requirements.
+
+Can I make any changes to the itinerary of my group trip, either before or during the trip?
+
+Please make sure you are happy with your group trip itinerary before booking because we are unable to change them for individual travellers. However, if you and a group of friends, colleagues or even your school would like your own personally designed itinerary, get in contact with our very talented
+Private Groups
+; they can tailor an itinerary just for you.
+
+Can I add an extra night on the beginning or end of my group trip, either before or during the trip?
+
+You sure can. Just ask your travel specialist at the time of booking.
+
+
+
+
+
+
+
+Travelling solo
+
+
+
+
+
+
+
+
+
+I’m travelling alone – is that OK?
+
+
+
+
+This is the beauty of the Intrepid style of travel: many of our travellers join because they are travelling solo and want to meet and share experiences with like-minded people.
+Find out more
+
+
+
+
+If I am travelling solo, will I be charged a single supplement?
+
+
+
+
+As a solo traveller, you will be paired up with another passenger of the same gender as per your passport information. If you’re not comfortable sharing a room with someone of the same gender, you also have the choice to pay for a single supplement (available on the majority of our trips).
+
+If you don’t identify with the gender assigned on your passport, please let us know at time of booking and we’ll arrange the rooming configuration accordingly.
+
+
+Find out more
+
+
+
+
+
+
+
+
+
+
+Accessibility and diversity
+
+
+
+
+
+
+
+
+
+Are Intrepid trips suitable for LGBTQI travellers?
+
+Everyone should feel comfortable when they travel with Intrepid and we know that many of our travellers are part of the LGBTQI community. It’s important for our travellers to be aware of the local laws and customs in the destinations we visit as some countries have laws that discriminate against LGBTQI people. We recommend you visit
+Equaldex
+and/or
+Smartraveller
+before you choose your trip for up-to-date advice and information about LGBTQI-related laws.
+
+If you are a solo traveller booking on a twin share basis you will be paired with another passenger of the same gender as per your passport information. If you have concerns with this arrangement please let us know at the time of booking.
+
+I have a disability – can I join an Intrepid trip?
+
+Intrepid is committed to making travel widely accessible, regardless of ability or disability. We ask that you carefully consider whether you are physically and mentally able to complete the itinerary you have chosen, recognising that on many trips you will be required to carry your own bags and use public transport.
+
+Where we can we will make reasonable adjustments to the operation of  our trips to facilitate the requirements of disabled travellers – such as booking ground floor accommodation, or having our leaders communicate important directions in writing as well as verbally. Many travellers with disabilities have been able to enjoy our trips by travelling with a friend or companion who can assist with specific needs. If joining a group trip is not practical we may be able to provide you with a private departure. Please contact our sales team for further information on any of our itineraries.
+
+
+
+
+
+
+
+
+
+Room types
+
+
+
+
+
+
+
+
+
+Can we book a triple room?
+
+
+Depending on the trip style you choose, our trips are organised on a twin, triple or multishare basis. As our bookings are made well in advance, individual room requests can’t be guaranteed.
+
+
+Can I book a single room?
+
+
+You can book pre and post accommodation on a single basis; however, throughout your Intrepid trip, rooming is organised on a twin-share basis. Some trips do have a single supplement available – check a trip’s overview page on our website, or their Trip Notes, to see whether a single supplement is offered. If so, please request this at the time of booking.
+
+
+
+
+
+
+
+
+
+
+Food, drink and dietary requirements
+
+
+
+
+
+
+
+
+
+I have special dietary requirements – will they be catered for?
+
+We will try our very hardest to accommodate all dietary requirements but in some out-of-the-way places it can be very difficult to guarantee. We will let you know if there are places on your itinerary where this is the case. Please let us know at the time of booking of any food requirements or allergies and we’ll pass the information onto your leader. It is also a great idea to bring a card with your dietary requirements written in the local language for those times you are eating away from the group.
+
+What will the food be like on my trip?
+
+Food is one of the most exciting parts of travel. There may be some familiar fare but often you’ll be confronted with the new, interesting and downright weird of the culinary world but we like to think of it as an adventure for all the senses. In addition to this, our flexible itineraries often allow you to eat with the group or branch out on your own - this means you can eat to suit any budget or desire.
+
+Can I drink the water in the countries I visit?
+
+In some destinations it may not be wise to drink the local water. For more details, you can find country-specific information in our fantastic Destination Pages, which can be found in the red menu bar at the top of our home page, or by going to the belo and then choosing the destination you are travelling to.
+http://www.intrepidtravel.com/top-destinations
+
+
+
+
+
+
+
+
+Before you depart
+
+
+
+
+
+Where do I find my trip notes?
+
+
+
+
+
+
+
+
+
+How do I obtain Trip Notes/itinerary for full details of my trip?
+Make sure you bring these with you. Every trip has a set of trip notes, accessible on our website, that gives you in-depth information about all aspects of your trip. To access your Trip Notes, please visit your trip’s specific facts page on our website. The Trip Notes are accessible at the top of this page.
+
+
+
+
+
+
+
+Travel Insurance
+
+
+
+
+
+
+
+
+
+Do I need travel insurance?
+Travel insurance is compulsory for all Intrepid travellers and should be taken out at the time of booking. You must provide proof of your travel insurance on the first day of your trip; you will not be able to join the trip without it.
+
+What does my policy need to cover?
+At a minimum, your travel insurance should be 'comprehensive', providing cover against personal accident, death, medical expenses, emergency repatriation and personal liability, with a minimum coverage of US$200,000. We also strongly recommend it covers cancellation, curtailment and loss of luggage and personal effects. If you obtain travel insurance through us you acknowledge that you are satisfied with the level of insurance we have arranged. To find out more about travel insurance or purchase it through Intrepid,
+click here
+.
+
+
+
+
+
+
+
+Visa Information
+
+
+
+
+
+
+
+
+
+How do I find out about the visa requirements for the trip I am interested in?
+While we do include information in our Trip Notes about visa requirements, we always recommend that passengers check with their local embassy as visa rules can change without warning. Embassy websites in your home country will always have information about requirements, visa costs and will provide the required forms. If you are uncomfortable with the visa process, you can visit a travel agent who can arrange these for you at a cost.
+
+How do I organise my Visa?
+Please contact the relevant local embassy, or visit a travel agent, to organise your visa/s.
+
+Do you help with Visas?
+Intrepid can’t assist in the actual application of visas, but you can do this through the embassy or with the support of a travel agent.
+
+My application says I need a letter of invitation or other supporting documentation, do you provide these?
+There are certain destinations, such as Central Asia and Iran, where you will need support documentation from Intrepid in order to apply for your visa. The ‘visa section’ of you Trip Notes will include information about what you need to send to us (scanned passports, employment letters etc.).
+
+
+
+
+
+
+
+Safety and medical information
+
+
+
+
+
+
+
+
+
+I am concerned about the political stability of the country through which my trip will travel.
+The safety of our passengers, leaders and operators is a major priority for Intrepid. With this in mind, we monitor world events very closely and Intrepid makes operational decisions based on informed advice from a number of sources, in particular the level of the Australian Government Department of Foreign Affairs & Trade (DFAT) travel advisory. If this advisory is at Level 4 'Do Not Travel' then Intrepid will either cancel the Intrepid Travel operated trip or reroute the itinerary to avoid the areas concerned. Visit
+intrepidtravel.com/contact-us/safety
+for further details.
+
+How safe are my belongings whilst on the trip?
+While we take all the precautions we can to make sure your belongings are safe, we are travelling to some exciting destinations that are sometimes home to some pretty skilled thieves. Travel insurance is a must and a lockable bag or money belt will always help too.
+
+What is the best way to carry money?
+We recommend having access to money from a variety of sources – cash, cards and travel money cards are all commonly used.
+Check your Trip Notes and the relevant Destination Page on our website for more country-specific information.
+Will refrigeration be available for medicines? eg. Insulin
+Availability of refrigeration cannot be guaranteed. As a general rule, many of our city hotels provide access to small fridges; however, outside of this, especially when trekking or in homestay environments, you cannot rely on access to refrigeration. Please be sure to advise Intrepid if you are travelling with medication that requires refrigeration.
+
+What are the medical and vaccination requirements?
+Medical and vaccination requirements differ between nations and as we are not medical practitioners, we unfortunately cannot advise on this issue. Please see your local GP or travel doctor for details and advice about current vaccination requirements.
+
+What if I get ill or injured on the trip and unable to continue?
+Our leaders are trained to deal with these situations and we will endeavour to get you help as quickly as possible. If you must leave the trip early due to illness, our local offices will help you find appropriate medical care and ensure someone at home is aware of the situation. We will do whatever we can to get you home or on your onward journey. Your travel insurance, which is compulsory on all our trips, should cover any costs incurred if illness occurs.
+
+
+
+
+
+
+
+Currency information
+
+
+
+
+
+
+
+
+
+What is the currency in my destination? How much should I take in credit cards/cash? Can I use my credit card during my trip?
+Our Trip Notes include a section on ‘Spending money’. Please refer to this for an idea on budgets. Travellers’ cheques are not common practice anymore so it is a good idea to travel with a credit card and ATM card, or a bank issued ‘cash card’ specifically for travel. Having a couple of options will assure that you are covered if one doesn’t work. In certain countries it comes down to potluck if you can withdraw money. One day it’ll work, the next it won’t, but it will work for your friend… Go figure! Visa cards are more widely accepted than Mastercard, particularly in Cuba where only Visa cards are accepted.
+
+
+
+
+
+
+
+
+
+What should I bring?
+
+
+
+
+
+
+
+
+
+What type of luggage do you recommend I take?
+
+On most Intrepid trips you will be required to carry your own luggage, sometimes up stairs and on and off transport. We therefore recommend you travel with a backpack. For a full list of what to take on your adventure see our
+Ultimate Packing List
+.
+
+
+
+Can I store excess luggage at the starting point hotel?
+
+Most starting point hotels can store your excess luggage for you; however, this is at your own risk. Often a nominal fee is charged for this service. Of course, this is only an advantage if your trip is circular (i.e. returning to the same starting point).
+
+
+
+Do I need to bring a sleeping bag?
+
+We only have a handful of itineraries where sleeping bags are required and these are generally trips that involve camping. When we use homestays, blankets are provided but some travellers feel more comfortable with their own sleeping bag or sleep sheet. This decision is a personal preference. Refer to your Trip Notes if you are unsure whether a sleeping bag is required.
+
+
+
+What clothes and footwear should I take on treks?
+
+On a more physical trip, hiking boots are definitely recommended. If the
+physical rating
+is under 3, hiking boots or sneakers/runners will be adequate. Many Intrepid treks will be hiking in near freezing environments so please be sure to research the climate and weather conditions at the time of year you will be trekking and pack accordingly. There is also a packing 'checklist' in your Trip Notes.
+
+
+
+What essential documents do I need to take?
+
+It’s important that you always travel with your current passport, visas, travel insurance and Intrepid documentation. For more information see our
+Ultimate Packing List
+.
+
+
+
+
+
+
+
+
+On your trip
+
+
+
+
+
+Arrival information
+
+
+
+
+
+
+
+
+
+What time can I check in at my arrival hotel?
+Check-in times can vary from hotel to hotel and region to region. Generally, they are between midday and 2pm. If you do arrive earlier, you’ll be able to store your luggage with the hotel and head out to explore for a couple of hours.
+
+Can I request an early check-in?
+We can’t confirm an early check-in, but our sales team can assist in booking you a night of pre accommodation at the same hotel. If you don’t wish to pay for the extra night, you can try your luck locally (they may let you in early if the room is free) or you can store your luggage.
+
+Are airport transfers included in the trip price? If not, how much will a taxi cost from the airport? If not, how do I get to and from airports?
+Generally airport transfers are not included in your trip price unless you're travelling on a Comfort or Independent Journey style trip where an arrival transfer is included. You can normally add an arrival and/or departure transfer to most of our trips when you are booking your trip (or by contacting us if you have already booked). For more information on your arrival, refer to the  ‘Joining Point instructions’ in your
+Trip Notes
+. Here, we often indicate the price you can expect to pay for a taxi from the airport to the hotel. The cost of the transfer will inevitably be more expensive than a taxi, but it is important to remember that you are paying for a private service and a trusted driver who will offer the security travellers often desire when they arrive into a foreign country.
+
+What is the name of the hotel where my trips starts?
+This information can be found in your
+Trip Notes
+under ‘joining point hotel’.
+
+
+
+
+
+
+
+Activities
+
+
+
+
+
+
+
+
+
+Can I opt out of certain activities if I want to?
+Absolutely. If there are included or optional activities that you don’t wish to participate in, you can do your own thing instead. The exception to this is when we are trekking or travelling from one destination to the next. Please note that if you choose to opt out of an included activity, no reimbursement can be made by Intrepid.
+
+How difficult is the trek on my trip?
+Intrepid has treks ranging from relatively easy to extremely difficult. The easiest way to determine if a trek is right for you is to check the ‘physical rating’ of the trip (this can be found on our website at the top of the trip’s overview page).
+
+Do I get any free time?
+The beauty of travelling with Intrepid is that we encourage travellers to explore at their own pace. When you get to a destination, your leader will offer options on what you can do. Some of the group will do one activity, others will opt for something completely different while others may just choose to lie in a hammock and read a book. Your
+Trip Notes
+have more details on what your trip’s itinerary and timeframes permit.
+
+What if I arrive late and miss part of the trip?
+If you know in advance that you will be arriving late, please let our sales staff know. We will notify your leader, who will leave instructions with the hotel reception as to where to meet your group that night or the following morning.
+If you plan to arrive a day or two into the itinerary (and our group has moved to a different destination), it will be your responsibility to ‘catch up’ with the group. If this happens, we will provide you with the most up-to-date information as to where your group will be and at approximately what time.
+If you are late due to unforseen circumstances or flight delays, please call the emergency contact number located in the
+Trip Notes
+. Intrepid cannot reimburse you for any portion of the trip unused, but this can often be claimed on your travel insurance.
+
+
+
+
+
+
+
+Amenities
+
+
+
+
+
+
+
+
+
+Are there western toilets available?
+Some trips have regular access to western toilets while others don't – it just depends on the areas you’re travelling in. As a general rule, the more remote the place the less likely you are to find western bathroom facilities.
+
+Will I be able to do any laundry?
+Along the way there are usually chances to do laundry, either through your hotel or using local services. Your leader will be able to let you know once you are on the trip.
+
+
+
+
+
+
+
+Camping
+
+
+
+
+
+
+
+
+
+What facilities are at the campsites?
+We have a wide range of camping sites around the globe. They range from having all the creature comforts to bush camping on the plains of the Serengeti with limited facilities (though their amazing vistas make up for this). Most camps will have basic facilities at a minimum. Your
+Trip Notes
+will give you a clear indication of what to expect on your decided trip.
+
+Will I need a sleeping bag/mat/tent?
+On our Africa and USA trips we provide the tent and sleeping mats, but you will need to bring your own sleeping bag. In Australia tents, blankets, linen and towels are provided so there is no need for a sleeping bag. More information can be found in your
+Trip Notes.
+
+
+
+
+
+
+
+Accommodation
+
+
+
+
+
+
+
+
+
+Can you provide me a list of places we are staying at?
+We are only able to provide information on your joining and finish point accommodation, the details of which are listed in your Trip Notes.
+
+As Intrepid likes to support numerous local businesses, we often have a few places in each city that we can alternate our groups between. For this reason, we can’t give you a full list before you travel. At the welcome meeting on Day 1, your leader may be able to provide you with this so you can email friends and family back home with the details.
+
+What standard of accommodation should I expect?
+The standard of accommodation depends on the Trip Style you have chosen.
+Find out more
+
+Is accommodation air-conditioned/ heated?
+We want our passengers to be as comfortable as possible so when you are headed to a hot climate, it is likely that you will either have a fan or air-con. Of course, if you are staying in remote areas or at homestays, you will need to expect the facilities to be a little more basic.
+
+
+
+
+
+
+
+Keeping in touch with home
+
+
+
+
+
+
+
+
+
+What communication facilities will be available?
+Communication facilities are always improving globally. Many hotels and public places have Wi-Fi so it’s usually possible to keep in touch with home every couple of days, if you so desire. In remote places (think Mali, Serengeti or the Sahara) or on treks or homestays, you will not be able to communicate as readily. Your leader will usually give you the heads up before you leave a place so you can send a quick email or two. Phone cards are easy to get your hands on; just make sure your phone is unlocked before you travel. Or in many countries, the cheapest way to make a phone call is at an internet cafe.
+
+How can friends and family contact you?
+If family and friends are unable to contact you in an emergency through email or phone, they can contact Intrepid directly. Emergency contact details (for your destination) are listed in your Trip Notes, or they can contact one of our Global Sales offices, who can pass on a message if required.
+
+Will my mobile work?
+We can never guarantee your phone will work as desired, as many of our destinations are out of the way and you may have limited coverage. Chat to your phone provider before you leave about global roaming and the costs involved, and get their advice on the coverage you’ll receive in the places you’re travelling in. Alternatively, you can usually pick up a local sim card on the cheap (just make sure you phone is unlocked!).
+
+Will I get internet coverage?
+Some places have Wi-Fi hot spots everywhere and other places will have no coverage at all. If you stumble into the latter, take the rare chance to just sit back and get to know your fellow travellers the old-fashioned way.
+
+Will I be able to charge my electrical appliances?
+In most places you’ll be able to recharge your appliances at the hotel. We recommend you bring a travel adapter with you. On our Overland trips, most vehicles come with their own power supply and you should be able to recharge onboard. Be sure to bring an extra camera battery just in case.
+
+
+
+
+
+
+
+Transport
+
+
+
+
+
+
+
+
+
+What type of ground transportation is used?
+If it moves there’s a good chance you’ll be riding on it. The type of transport used depends on your trip style.
+Find out more
+or see your
+Trip Notes
+for the specific type of transportation used on your journey.
+
+
+
+
+
+
+
+Tipping information
+
+
+
+
+
+
+
+
+
+Is tipping commonplace in other parts of the world?
+Yes, in most places tipping is expected. At your welcome meeting, ask your leader about the local custom and advice on how much is recommended at restaurants or with local guides.
+
+At the end of your trip, if you're happy with the service you received, providing a tip for the leader - though not compulsory - is appropriate. While it may not be customary to you, it's of great significance to the people who will take care of you during your travels, inspires excellent service, and is an entrenched feature of the tourism industry across many Intrepid destinations.
+
+
+
+
+
+
+
+
+
+
+Other common questions
+
+
+
+
+
+Employment with Intrepid
+
+
+
+
+
+
+
+
+
+I am interested in working with Intrepid Travel – where do I find out more?
+
+To find out what it’s like to work at Intrepid, all the exciting perks and what’s available right now, visit our
+employment page
+.
+
+
+
+
+
+
+
+Intrepid events
+
+
+
+
+
+
+
+
+
+Does Intrepid have events/slide nights that I can attend?
+
+Please
+click here
+and choose the country you live in. On the right-hand red menu there is an events page that lists all the upcoming events in your region.
+
+
+
+
+
+
+
+Financial security
+
+
+
+
+
+
+
+
+
+Is Intrepid financially secure?
+
+Yes. Intrepid started in 1989 and have been profitable almost every year since 1991.
+
+
+
+
+What happens to my money when I pay for my trip?
+
+
+When Intrepid receives money from either you or from your travel agent, the funds are deposited into a Client Trust Account. The money stays in this account until the day of departure of your trip. Why? So that in the unlikely event of Intrepid ever going broke, your money is still safe and you would get it back in full. Intrepid's Client Trust Account is independently audited every year. Failure to meet financial criteria reflecting the financial viability of a travel agent results in revocation of the agent's licence to trade. Intrepid are licensed under these arrangements.
+
+
+
+
+Is my travel agent financially secure?
+
+
+It is an unfortunate fact that travel agents do go broke from time to time. If you are using a travel agent, it is your responsibility to ensure that the agent is financially sound. This is important as the agent may hold your money before sending it to us for your trip. Should that agency go broke before we have received your money, then it may be lost. Different countries have different levels of legislation, licences, bonds, trust accounts and/or insurance schemes to protect you. These vary greatly from country to country and some countries have no such protection at all. Please research this carefully to make sure the money you are paying is secure. Where there are no protection systems in your country, at least look at how long the business has been trading, ask others about their reputation and seek independent advice on reputable travel agencies.
+
+
+
+
+
+
+
+The Intrepid Foundation
+
+
+
+
+
+
+
+
+
+What is The Intrepid Foundation?
+The Intrepid Foundation (TIF) is a not-for-profit fund that helps bring support to non-government organisations in the places that Intrepid visits. Each year the fund distributes donations from Intrepid and travellers to more than 50 fantastic organisations around the world.
+
+How did it start?
+Intrepid Travel's founding Directors, Darrell Wade and Geoff Manchester started TIF in 2002 in response to many travellers asking how they could donate to communities or organisations they had visited with Intrepid. They also really wanted to know that the money would get there and be used effectively, so Darrell and Geoff kicked off The Intrepid Foundation with AU$200,000. Since then, more than AU$3,000,000 has been raised by travellers and Intrepid Travel and distributed to over 75 organisations.
+
+What kind of organisations does The Intrepid Foundation benefit?
+Organisations working in the areas of:
+
+health care
+
+education
+
+human rights
+
+child welfare
+
+sustainable development
+
+environment
+
+wildlife protection.
+
+What's the advantage of a traveller donating to The Intrepid Foundation?
+The Intrepid Foundation is registered as a charity and 100% of donations received are donated to the local beneficiary organisations in an annual grant. Intrepid Travel contributes into the fund also and pays for all the administration costs. You can be assured that your donation will get to the organisation, be used for a significant need and make a real difference, such as pay a nurse's wage, build a much-needed classroom, pay for 50 students' school fees or help treat injured wildlife.
+
+How can I donate?
+Then best way is online, with a Visa or Mastercard credit card. See
+www.theintrepidfoundation.org
+Your donation and credit card details are secure, and you will receive a receipt immediately.
+
+Is my donation tax deductible?
+If you are an Australian taxpayer, donations to The Intrepid Perpetual Fund are tax deductible. Donations to the Intrepid Community Project Fund are not tax deductible.
+
+Can I donate to any local organisation through The Intrepid Foundation?
+No. The Intrepid Foundation offers a selection of organisations that they have come to know well, and have conducted 'due diligence' checks to ensure they are well run, trustworthy and do genuinely effective and important work with the money raised.
+We currently have more than 40 beneficiary organisations in over 23 countries. Check them out at:
+theintrepidfoundation.org
+
+
+
+
+
+
+
+Website problems
+
+
+
+
+
+
+
+
+
+
+What do I do if I am unable to open a link on the Intrepid website?
+
+
+Oh no! We really want to get you where you need to go. Please tell us what’s broken through our
+Ask Intrepid page
+and our resident techno-gurus will fix it as quickly as possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

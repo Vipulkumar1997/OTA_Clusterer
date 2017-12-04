@@ -1,0 +1,4042 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Laos Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Laos tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Laos
+
+
+
+Travellers come to Laos to experience the rolling mountains, remote villages, tribal crafts and the magic of the Mekong.
+
+
+They leave with so much more: irreplaceable memories of smiling locals, saffron-robed monks receiving alms and markets awash with fresh produce. For those searching for authentic
+Asia
+, Laos doesn’t disappoint.
+
+
+Top Laos travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+14 Dec 2017
+
+Laos Traveller - Bangkok to Vientiane
+
+
+
+Laos Traveller - Bangkok to Vientiane
+Bangkok to Vientiane
+
+
+
+
+
+
+
+
+
+×
+
+Laos Traveller - Bangkok to Vientiane
+
+
+
+
+
+
+
+
+
+14
+
+
+FR1,105
+
+
+FR939
+
+
+
+
+View Trip
+
+
+
+
+
+
+16 Dec 2017
+
+Thailand & Laos Adventure
+
+
+
+Thailand & Laos Adventure
+Bangkok to Vientiane
+
+
+
+
+
+
+
+
+
+×
+
+Thailand & Laos Adventure
+
+
+
+
+
+
+
+
+
+13
+
+
+FR1,295
+
+
+FR1,101
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Laos trips
+
+
+
+
+
+
+
+
+
+Thailand & Laos Adventure
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,036
+
+
+
+
+
+Travel from Bangkok to Vientiane on a tour through Thailand and Laos. Visit Thailand's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Laos Encounter
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,695
+
+
+
+
+
+Experience Cambodia and Laos and get immersed in the culture and history of these...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Laos Encounter
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,657
+
+
+
+
+
+Experience Cambodia and Laos and get immersed in the culture and history of these...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South East Asia Loop
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR3,565
+
+
+
+
+
+Travel into the heart and soul of Indochina on this comprehensive tour of Thailand,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Laos Traveller - Bangkok to Vientiane
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR939
+
+
+
+
+
+Discover Thailand and Laos, Bangkok and Vientiane. From the frenetic Thai capital to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South East Asia Unplugged
+
+
+
+
+
+
+
+
+
+35 Days
+
+
+From
+FR2,902
+
+
+
+
+
+Embark on an epic journey to explore the best of Indochina. Venture out from Bangkok -...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Indochina Uncovered
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,850
+
+
+
+
+
+Indochina Uncovered snakes its way through the delights of Thailand, Laos and Vietnam,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Family Thailand, Laos and Vietnam Holiday
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Experience the sights, smells and tastes of Southeast Asia on a family tour through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Laos
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR715
+
+
+
+
+
+Experience the best of Lao culture, history and attractions on this short but sweet...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Laos tour reviews
+
+
+Our Laos trips score an average of
+4.73 out of 5
+based on 295 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Laos Traveller - Bangkok to Vientiane,
+November 2017
+
+william O'Brien
+
+travel in asia is not always easy with your company it is Thanks
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Thailand & Laos Adventure,
+November 2017
+
+Rachel Bates
+
+Bring luggage with wheels! It is so much easier and this trip is not actively strenuous so you don't need to  be able to carry it for long periods.
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Laos trip reviews
+
+Our Laos trips score an average of
+4.73 out of 5
+based on 295 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Laos
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2017
+
+
+
+10 under-the-radar destinations in Southeast...
+
+
+
+
+
+
+Here are 10 Southeast Asian spots about to take pride of place on your bucket list...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 16, 2017
+
+
+
+The top destinations for travel in January
+
+
+
+
+
+
+From the jungles of Central America to the beaches of Southeast Asia, here's where...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 26, 2017
+
+
+
+The best destinations in Laos, Southeast Asia’s...
+
+
+
+
+
+
+The country boasts cities full of temples and a strong French influence, yet also...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 23, 2017
+
+
+
+Think twice before buying war jewellery in Laos...
+
+
+
+
+
+
+Editor’s note: The story below highlights a dark episode in the history of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 05, 2017
+
+
+
+The real story behind Luang Prabang’s morning alms
+
+
+
+
+
+
+His name was Vitoon. I’d been watching the sunset from his temple on a hill when...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 22, 2015
+
+
+
+9 reasons Laos should be on your Bucket List
+
+
+
+
+
+
+Small on fuss, big on awesome. Laos could be your favourite destination in...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Laos travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vang Vieng
+
+
+
+
+Appreciate the limestone karst landscapes of Vang Vieng
+
+
+
+
+
+
+Thailand & Laos Adventure, 13 days
+
+
+
+
+
+
+
+
+Laos Traveller - Bangkok to Vientiane, 14 days
+
+
+
+
+
+
+
+
+South East Asia Loop, 30 days
+
+
+
+
+
+
+
+
+
+
+
+Luang Nam Tha
+
+
+
+
+Experience the ethnic diversity of laid-back Luang Nam Tha
+
+
+
+
+
+
+South East Asia Unplugged, 35 days
+
+
+
+
+
+
+
+
+South East Asia Loop, 30 days
+
+
+
+
+
+
+
+
+Laos Traveller - Bangkok to Vientiane, 14 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Laos
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Laos, you may find yourself travelling by:
+
+
+
+
+
+
+
+Riverboat
+
+Cruising down the Mekong is an iconic travel experience that just must be done in one’s lifetime.
+
+
+
+
+
+Accommodation in Laos
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Laos you may find yourself staying in a:
+
+
+
+
+
+
+
+Guesthouse
+
+Intrepid prefers smaller character-filled hotels over hotel chains. When staying in Laos, enjoy staying in small guesthouses and hotels owned and run by friendly locals.
+
+
+Laos Traveller - Bangkok to Vientiane
+
+Thailand & Laos Adventure
+
+
+
+
+Laos holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Vientiane
+
+Population:
+
+6.3 million
+
+Language:
+
+Lao
+
+Currency:
+
+LAK
+
+Time zone:
+
+(GMT+07:00) Bangkok, Hanoi, Jakarta
+
+Electricity:
+
+Type C (European 2-pin) Type A (North American/Japanese 2-pin) Type B (American 3-pin) Type E (French 2-pin, female earth) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++856
+
+
+
+
+
+
+
+
+
+Best time to visit Laos
+
+
+
+
+
+
+×
+
+Best time to visit Laos
+
+
+
+
+Laos is a great place to visit at any time of the year as the weather doesn't vary much – it’s always hot and humid! The coolest time to visit is from November to January. This is also the driest time, and the main festival period, so it’s an interesting time to travel through Laos. The wet season runs from June to October. It rains frequently during this time, temperatures average over 30 degrees Celsius and although some roads may be closed due to flooding, it is a great time for river travel. February to May is drier but hot, with temperatures climbing to 40 degrees Celsius.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+The population of Laos is made of up of more than 100 different ethnic groups, with each having their own distinct clothing, language, customs and way of life. The Lao Loum, who reside in the lowlands along the Mekong, make up the largest ethnic group. Smaller ethnic groups include the Hmong and Mien, both highland dwellers, and the Lao Thoeng, who prefer the lower mountains. Many tribes share cultural similarities with tribes from neighbouring countries, so it’s possible to see Chinese, Vietnamese, Khmer and Thai influences within the dress, food and arts of these people.
+
+Generally, Laotians are known for their laidback lifestyle and calm, steady approach to life. With emphasis on the simple pleasures of family, food and religion, most people from Laos remain closely connected to their family and village for a lifetime. Most Laotians live in villages, rather than the city, where the sense of community is strong and people are connected to their neighbours and friends. Visiting wats (temples) to make offerings and give alms to monks is a common part of daily life for most, with much respect and reverence reserved for monks. Buddhist holidays and traditional festivals linked to harvest time and holy periods are commonly celebrated throughout the villages of Laos and are timed according to lunar cycles. With different dates each year, it can be hard to predict the exact timing of these local celebrations, but visiting one can provide great insight into the fascinating culture of Laos.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways of experiencing a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Laotian cuisine draws on culinary traditions from its neighbours, so visitors will be able to taste the flavours of China, Thailand and Vietnam in the food of Laos.
+
+Things to try in Laos
+
+1. Larb
+
+This spicy meat salad is considered the national dish of Lao. The delicious combination of minced beef, chicken or pork seasoned with chilli, lime and mint, served with vegetables and sticky rice is a firm favourite with locals and travellers.
+
+2. Khao Poon
+
+This popular soup of meat, rice noodles, lime leaves, chilli, garlic and fish sauce has a few variations. The version made with coconut milk makes the dish similar to a laksa, while the version without coconut milk is a lighter option.
+
+3. Fresh Fruit
+
+The markets of Laos have a cornucopia of delicious fruits on offer, either fresh or whipped up in a juice. Pineapple, orange, watermelon, guava and banana are plentiful but why not try more exotic fruits like lychee, longan, rambutan or jackfruit?
+
+4. Beerlao
+
+The answer to Laos’ heat and humidity is a bottle of locally brewed Beerlao, best served cold at the end of a long day of exploring.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Landlocked Laos is located in South-East Asia, bordered by
+China
+,
+Thailand
+,
+Vietnam
+,
+Cambodia
+and
+Myanmar
+. The topography of Laos is very mountainous, with much of the land being covered in forest and unsuitable for farming. Due to the mountainous terrain, Laos lacks a developed road network, with most locals living in small villages in the highlands, lowlands and along the Mekong River. Visiting Laos is like going back in time to when highways, traffic jams, mass transit systems and skyscrapers didn't exist. Visitors will be awed by the lush landscapes and stunning scenery, which is unlike anywhere else on earth.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+It's thought that Laos has been inhabited by people for thousands of years, although written evidence reveals that societies existed in the 9th century. Early society was based on agriculture and prior to the advent of Buddhism in the 16th century, people largely subscribed to animist beliefs and Shiva-worship, with archaeological evidence of this remaining today. Like its neighbouring countries, Laos was ruled by a series of kingdoms and was subject to invasion from surrounding forces from nearby domains. Europeans first arrived in the area in the 1600s, with the Dutch being the first to arrive. Despite this, the French have had the most European influence in the region. After enduring years of invasion and control from neighbouring countries, Laos also had French rule to contend with in the late 1800s, when it became a French colony.
+
+Recent History
+
+Laos was controlled by Japanese forces during World War II, was declared an independent state in 1950 and gained full independence as a constitutional monarchy in 1954. The 1960s proved to be a devastating time for the people of Laos, with their nation gaining the dubious honour of being the most bombed country in the world. The United States bombed Laos extensively in an attempt to eradicate North Vietnamese sanctuaries, and sadly contemporary Laos is still dealing with huge amounts of unexploded ordnance (UXO) that is littered throughout the countryside. A coalition government was set up in 1962, but in 1975 Laos became a Communist state when the king gave up his throne in favour of a president and prime minister being instated. During the late 1970s, many people of Laos fled to neighbouring countries as refugees, as trade embargoes from foreign nations led to widespread poverty and disadvantage. By the 1990s, Laos had become a full member of ASEAN and foreign nations had lifted their trade embargoes, which allowed free enterprise to grow.
+
+
+
+
+
+
+
+
+Outdoors Experiences in Laos
+
+
+
+
+
+
+×
+
+Outdoors Experiences in Laos
+
+
+
+
+Top 10 Outdoors Experiences in Laos
+
+1. Waterfall Wander
+
+Walking around peaceful Kuang Si Falls is a must-do for anyone travelling through the Luang Prabang area. Gentle cascades of water flow into turquoise pools creating a heavenly atmosphere that draws in both tourists and locals keen on some respite from the heat.
+
+2. Play Petanque
+
+The French game of petanque is a lot like bowls and quite popular with the people of Laos. If you’re lucky enough to come across a group of kids playing this game in the streets, try to join in – it’s fun and simple to play, and free.
+
+3. Beautiful Biking
+
+Hiring a bike and cycling past quiet villages, small farms and rice paddies is a great way to spend an afternoon in Laos, as you can take in stunning scenery, meet locals and get fit all at once.
+
+4. Have a Kick
+
+Get amongst the action by watching and playing a bit of Sepak Takwar with locals in the parking lots, streets and parks of Laos. This game (which could be described as a hybrid between football and volleyball) is commonly played throughout South-East Asia, and the locals of Laos are no exception.
+
+5. Power To the Paddle
+
+Paddling a kayak down the Nam Song River is an interesting and energetic way to get active and see the sights of Vang Vieng.
+
+6. Get Back To Nature in Nam Ha
+
+Home to a wide range of rare plant and animal species, this protected area is a hidden gem for nature enthusiasts, bird watchers and animal lovers. The challenging hike through forested terrain provides many rewards in the form of animal spotting and breathtaking scenic vistas.
+
+7. Refreshing River Swim
+
+Taking a dip in one of Laos’ many rivers is the perfect way to escape the heat on a hot summer’s day.
+
+8. Spiritual Stroll
+
+Taking a leisurely walk around Vientiane’s quirky Buddha Park (also known as Xieng Khuan) is akin to taking an active history, religion and art lesson. Full of Hindu and Buddhist sculptures that depict myths, legends and stories – the giant reclining Buddha is a highlight for most. Surrounding trees, gardens and flowers add to the serenity.
+
+9. Cruise Along an Icon
+
+Taking a riverboat journey down the Mekong is an iconic journey to savour. Sit on deck, catch the breeze and take photos of the surrounding landscapes as villages, people and mountains glide by.
+
+10. Tough Trek
+
+Test your fitness against some of Laos’ mountains on a challenging trek. With so much mountainous terrain, there are many different options and places to hike all around Laos – bring your best hiking boots and a sense of adventure.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Apart from being a great place to pick up handmade wares, buy fresh produce and mingle with locals, the many markets of Laos are one of the most interesting places to take photos also.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Laos
+
+1. Textiles
+
+Laotian weavers are responsible for crafting an impressive range of top-quality fabric wonders. Silk and cotton are the most common and with everything from handmade bags, scarves, cushion covers, placemats and linen on offer, it won’t be hard to go over your luggage limit here.
+
+2. Saa Paper
+
+Saa paper (also known as Mulberry paper) is made from the leftover bi-products of the silk industry. You’ll be able to find Saa paper notebooks and stationary, cards and even gorgeous hanging stars in some of Laos’ markets and boutiques.
+
+3. Hmong Handicrafts
+
+The Hmong people are famous for creating colourful handicrafts, which can be found in most markets around Laos. Hand-embroidered bedspreads, vibrant clothing and cotton dolls make meaningful global gifts for friends back home.
+
+
+
+
+
+
+
+
+Festivals and Events in Laos
+
+
+
+
+
+
+×
+
+Festivals and Events in Laos
+
+
+
+
+Bun Pi Mai (Lao New Year)
+
+One day just isn’t enough for Laotians to celebrate New Year - they need a whole three days! The festive period is characterised by water fights, street parties, feasts, laughing and smiles, as the past year’s troubles are washed away to welcome a new year of luck and prosperity.
+
+Vientiane Boat Racing Festival
+
+Entrants from all over Laos travel to Vientiane to compete in this big boat racing festival held at the end of Buddhist Lent. Food stalls and sideshows line the streets to entertain the thousands of people who gather on the river to watch the races.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Another Quiet American: Stories of Life in Laos
+
+Brett Dakin
+
+Coroner's Lunch
+
+Colin Cotterill
+
+The Karaoke World of Cortous Haire
+
+Bjorn Turmann
+
+Ant Egg Soup
+
+Natacha Du Pont De Bie
+
+A Short History of Laos: The Land in Between
+
+Grant Evans
+
+
+
+
+
+
+
+
+Laos travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Laos?
+
+
+
+
+
+
+
+
+
+LAOS:
+Australia:Yes - on arrival
+Belgium: Yes - on arrival
+Canada: Yes - on arrival
+Germany Yes - on arrival
+Ireland: Yes - on arrival
+Netherlands: Yes - on arrival
+New Zealand: Yes - on arrival
+South Africa: Yes - on arrival
+Switzerland: Yes - on arrival
+United Kingdom: Yes - on arrival
+USA: Yes - on arrival
+
+We ask all our travellers to obtain their Laos visas at the border, and NOT in their home country. Your tour leader will assist you in obtaining a Laos visa, generally at the border, depending on the current state of affairs, as it can vary.
+
+Please ensure that you have at least 1 passport photos and up to US$60 cash (this may vary too) to fulfil the requirements. There will also be an Immigration Fee of USD1. To assist us in processing your Laos visas, please provide your agent with accurate passport details prior to the departure of your trip as these details will be passed on to our leader.
+
+When crossing the border you will most likely see a lesser entry fee than what you have paid. This is due to the leader having to use a local agent to process the visa which allows the group to cross the border as quickly as possible.
+
+
+
+
+
+
+
+Is tipping customary in Laos?
+
+
+
+
+
+
+
+
+
+Tipping isn't mandatory or customary in Laos, but a tip of spare change or another small amount would be appreciated by restaurants, drivers and other service workers, especially if the service has been particularly good.
+
+
+
+
+
+
+
+What is the internet access like in Laos?
+
+
+
+
+
+
+
+
+
+Internet access is available in tourist areas like Vang Vieng and Vientiane, but is far less likely to be found in rural and remote areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Laos?
+
+
+
+
+
+
+
+
+
+You'll be able to use your mobile phone in most urban areas of Laos, although rural and remote areas may not have network coverage. Ensure you have global roaming activated with your mobile carrier before you leave home if you wish to use your mobile while in Laos.
+
+
+
+
+
+
+
+What are the toilets like in Laos?
+
+
+
+
+
+
+
+
+
+You'll have to adjust to different standards of hygiene and sanitation whilst in Laos. The standard toilet is of the squat variety and this may take some getting used to, although western-style toilets can be found in large hotels and some tourist areas.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Market snack = 7,000 LAK
+Large bottle of beer = 9,000 LAK
+Budget restaurant meal = 23,000 LAK
+High-end restaurant meal = 55,000 LAK
+
+
+
+
+
+
+
+Can I drink the water in Laos?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Laos. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found; some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Laos?
+
+
+
+
+
+
+
+
+
+Major credit cards are generally accepted by large shops, hotels and restaurants in the city and tourist areas. However, they may not be accepted by smaller vendors such as small family restaurants, market stalls or in remote towns and rural areas. Make sure you carry enough cash for purchases, since credit cards aren't always an option everywhere in Laos.
+
+
+
+
+
+
+
+What is ATM access like in Laos?
+
+
+
+
+
+
+
+
+
+ATMs can be found in the cities of Laos, so withdrawing cash shouldn't be problematic. Smaller villages and rural areas may not have ATM access, so prepare for this before venturing too far from a city or major town.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Laos?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Laos?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year's Day Holiday
+
+8 Mar International Women's Day
+
+14 Apr Lao New Year (Pi Mai)
+
+15 Apr Lao New Year (Pi Mai)
+
+16 Apr Lao New Year (Pi Mai)
+
+1 May Labour Day
+
+1 Jun Children's Day
+
+8 Jul Khao Pansa (Buddhist Fast Begins)
+
+5 Oct Bouk Ok Pansa (Buddhist Fast Ends)
+
+6 Oct Boat Racing Festival at Mekhong (Vientiane)
+
+7 Oct Day of Liberation
+
+14 Nov That Luang Festival
+
+1 Dec Lao National Day Holiday
+
+2 Dec Lao National Day
+
+Please note these dates are for 2017. For a current list of public holidays in Laos go to:
+http://www.worldtravelguide.net/laos/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Laos
+
+1. Be considerate of Laos’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+6. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+7. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+8. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+9. Please ask and receive permission before taking photos of people, including children.
+
+10. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Laos, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+COPE (Cooperative Orthotic Prosthetic Enterprise)
+
+This worthy organisation provides essential services to people with disabilities. Laos has many victims of landmines living with life-changing disabilities acquired from stepping on unexploded ordinance (UXO). Providing rehabilitation, orthotics and prosthetics, the visitor centre also educates and enlightens visitors on the impact of UXO on the people of Laos.
+
+Image supplied by Jo Pererira.
+
+
+
+
+
+
+
+
+
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

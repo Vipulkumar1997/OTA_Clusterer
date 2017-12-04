@@ -1,0 +1,3408 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Papua New Guinea Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Papua New Guinea tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Australia & Oceania
+
+Papua New Guinea
+
+
+
+Papua New Guinea’s complex culture and biodiversity mean an endless supply of amazing discoveries for even the widest-travelled adventurer.
+
+
+While hiking the Kokoda Track is an act of pilgrimage for some, the insight into remote indigenous cultures and encounters with exotic wildlife are reason enough for many.
+
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+Terms & Conditions
+
+
+
+
+
+×
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+
+
+
+1. Save 20% on new bookings to lesser-known destinations only departing between 1 January 2018 and 31 December 2018.
+2. Trips must be booked between 20 November 2017 and 18 December 2017.
+3. Offer only applies to the trips below:
+AMCW, BMXF, CJSO, HPSL, TIST, GGSX, HHSI, XMSG, ZMSB, YGSD, WMSZ, HJKB, KDOH, WMST, TESA, KFST, YBSM.
+4. Customers must quote the promo code 53253.
+5. This offer is not combinable with any other offer including loyalty.
+6. Offer does not apply to departures already discounted (can’t apply it via checkout).
+7. Intrepid Travel will donate 20% of the sold trip to the Intrepid Foundation.
+8. Trips must be booked between 20 November 2017 and 18 December 2017. Trip must depart between 1 January 2018 and 31 December 2018.
+9. Offer only applies to the land portion of the trip and cannot be applied to flights, insurance, or any additional services.
+10. The offer applies to Intrepid & Dragoman operated trips only. Third party operators can be found in the trip notes. Please note that the following are excluded: Polar voyages, Expeditions, Charity Treks, Short Break Adventures, Bite-Size Breaks, Urban Adventures and Dragoman trips to Bhutan, Rio Carnival and the Dragoman Family trips.
+11. A deposit of CHF300, GBP200, EUR275 and ZAR4000 is required at the time of booking, and full payment is required at least 60 days prior to travel.
+12. This sale is only valid for residents of Europe and Africa.
+13. There will be no extensions to the travel, booking or payment periods listed above.
+14. Intrepid Travel's Booking Conditions will also apply to the trip booked, and it is imperative that you examine those conditions before booking with Intrepid Travel. The most up to date Booking Conditions are accessible at http://www.intrepidtravel.com/booking-intrepid/booking-conditions.
+15. The trip is subject to availability and confirmation by Intrepid Travel at time of booking.
+
+
+Close
+
+
+
+
+
+
+Top Papua New Guinea travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+15 Apr 2018
+
+The Kokoda Track
+
+
+
+The Kokoda Track
+Port Moresby to Port Moresby
+
+
+
+
+
+
+
+
+
+×
+
+The Kokoda Track
+
+
+
+
+
+
+
+
+
+11
+
+
+FR3,715
+
+
+FR2,972
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Papua New Guinea trips
+
+
+
+
+
+
+
+
+
+The Kokoda Track
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR3,545
+
+
+
+
+
+Experience a journey of epic proportions. Hike one of the most challenging and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Papua New Guinea National Mask Festival
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR3,340
+
+
+
+
+
+Witness myriad tribal cultures on display at the Rabaul National Mask Festival in far...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Papua New Guinea tour reviews
+
+
+Our Papua New Guinea trips score an average of
+4.17 out of 5
+based on 6 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+The Kokoda Track,
+October 2017
+
+Andy Templeton
+
+The most arduous, but ultimately satisfying trek I've undertaken. Porters incredibly helpful and attentive. The early starts are worth it to minimise trekking during hottest part of the day - so you'll often get to your overnight camp early afternoon but then you can bathe in the river & relax. Fantastic wartime history lesson..
+
+Review submitted 22 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Papua New Guinea National Mask Festival,
+July 2017
+
+ANDREW HICKS
+
+Overall, this trip was good - a four out of five stars.  Being operated by an independent third-party tour company, the trip did not have the unique "feel" of a typical Intrepid "classic" trip though.  It felt more like what I believe an Intrepid "comfort" or perhaps a Peregrine tour would be like (so I've heard--I've only taken Classic and Geckos trips in the past).
+
+Review submitted 26 Jul 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Papua New Guinea trip reviews
+
+Our Papua New Guinea trips score an average of
+4.17 out of 5
+based on 6 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Papua New Guinea
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 16, 2017
+
+
+
+9 alternative travel spots for 2018
+
+
+
+
+
+
+Here at Intrepid we’re all about tackling the negative impact of over-tourism. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 31, 2016
+
+
+
+Kokoda controversy: we chat with the Aussie...
+
+
+
+
+
+
+For Aussie journalist and travel writer Ian Neubauer, there was always going to be...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 18, 2016
+
+
+
+6 reasons you should ignore the headlines and...
+
+
+
+
+
+
+Recent press hasn't done the Kokoda Track any favours, but there's always another...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 28, 2014
+
+
+
+These Asian tribes will blow your mind
+
+
+
+
+
+
+Believe it or not, the old world does survive, in the deep jungles and the high...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Papua New Guinea travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kokoda Track
+
+
+
+
+Trek the iconic Kokoda Track
+
+
+
+
+
+
+The Kokoda Track, 11 days
+
+
+
+
+
+
+
+
+
+
+
+
+Papua New Guinea holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Port Moresby (population 310,000)
+
+Population:
+
+7 million
+
+Language:
+
+English, Tok Pisin, Hiri Motu
+
+Currency:
+
+PGK
+
+Time zone:
+
+(GMT+10:00) Guam, Port Moresby
+
+Electricity:
+
+Type I (Australian/New Zealand & Chinese/Argentine 2/3-pin)
+
+Dialing code:
+
++675
+
+
+
+
+
+
+
+
+
+Best time to visit Papua New Guinea
+
+
+
+
+
+
+×
+
+Best time to visit Papua New Guinea
+
+
+
+
+The best time to visit PNG is during the dry season when cool breezes and low humidity on the coast make temperatures comfortable. Coastal areas can be very hot and humid during the monsoon and rainfall can be torrential. The highlands are much cooler and have even been known to experience snowfalls.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Papua New Guinea is part of a chain of islands stretching between
+Asia
+and Australia. It has over 600 islands, the largest of which, Bougainville, shares a border with
+Indonesia
+. The islands are notoriously rugged with heavily forested peaks hiding all manner of weird and wonderful flora and fauna.
+
+
+
+
+
+
+
+
+Top Picks
+
+
+
+
+
+
+×
+
+Top Picks
+
+
+
+
+Top 5 Kokoda Moments in Papua New Guinea
+
+1. Village Stays
+
+Days away from the outside world, the villages and villagers along the Kokoda Track have been able to maintain their customs, languages and traditions with little interference from the outside world.
+
+2. Isurava Battlefield
+
+Once a WWII battleground, now a moving memorial. The four pillars encapsulate the battle along Kokoda with the words: ‘Courage, Sacrifice, Mateship and Endurance.’
+
+3. Mt Bellamy
+
+It’s an arduous challenge to get to the track’s highest point, but at 2200m your efforts are rewarded with sprawling views across the Owen Stanley Ranges.
+
+4. Fuzzy Wuzzy Friends
+
+Thousands of Australian soldiers owed their lives to the actions of the Fuzzy Wuzzy Angels and they’ve become legendary throughout the country. At Menari, we have the opportunity to meet with one of the remaining angels.
+
+5. The Golden Staircase
+
+The original stairs (built by Aussie soldiers) may no longer exist but the steep hill they climbed lives on!
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Kokoda
+
+Paul Ham
+
+Four Corners: A Journey into the Heart of Papua New Guinea
+
+Kira Salak
+
+The Last Men: Journey Among the Tribes of New Guinea
+
+Iago Corazza and Greta Ropa
+
+
+
+
+
+
+
+
+Papua New Guinea travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Papua New Guinea
+
+
+
+
+
+
+
+
+
+PAPUA NEW GUINEA VISA
+
+Tourist visas on arrival at Jacksons International Airport are now available for Australian & New Zealand passport holders for stays of up to 30 days and at no charge. Other nationalities will need to apply to their nearest High Commission to obtain their visa in advance. This tourist visa is non-extendable and is issued free of charge.
+
+For those required to obtain a visa in advance you will need:
+
+- Completed application form
+
+- Valid passport
+
+- 1 x current passport photo
+
+- Return/ongoing flight ticket & travel itinerary
+
+- Evidence of funds (Bank Statement proving sufficient funds for your stay)
+
+All travelers also currently need to submit a health form along with their visa application:
+http://pngembassy.org/Supplementary_Health_Form.pdf
+
+You can obtain your visa application form through your travel agent or by downloading a form online from the Papua New Guinean High Commission website. Your completed visa application needs to be sent your nearest Papua New Guinean High Commission, embassy or consulate along with your valid passport (which must have at least 6 months validity on it from the date of intended travel) as well as a pre-paid, self-addressed and registered post envelope which will be used to return your passport to you. Please note that visa processing times can be subject to delays, particularly during peak periods, so we recommend you allow sufficient time when applying for your visa.
+
+
+
+
+
+
+
+Is tipping customary in Papua New Guinea?
+
+
+
+
+
+
+
+
+
+Tipping isn’t expected in Papua New Guinea but if you’ve received good service consider a 10% tip.
+
+
+
+
+
+
+
+What is the internet access like in Papua New Guinea?
+
+
+
+
+
+
+
+
+
+Service can be slow and intermittent even in major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Papua New Guinea?
+
+
+
+
+
+
+
+
+
+Reception is poor in most areas. Ensure you have global roaming activated with your carrier if you wish to use your phone.
+
+
+
+
+
+
+
+What are the toilets like in Papua New Guinea?
+
+
+
+
+
+
+
+
+
+It's likely that you’ll encounter different types of toilets while travelling in Papua New Guinea. Western-style flushable toilets are commonly found in high-end resorts, hotels and restaurants, while squat toilets are common in rural areas and homes. Be prepared by carrying your own supply of toilet paper and soap, as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Bottle of soft drink = 3 PGK
+Beer in a bar or restaurant = 10 PGK
+Simple lunch = 10 PGK
+Three-course meal = 50 PGK
+
+
+
+
+
+
+
+Can I drink the water in Papua New Guinea?
+
+
+
+
+
+
+
+
+
+Drinking tap water in Papua New Guinea isn’t recommended. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Papua New Guinea?
+
+
+
+
+
+
+
+
+
+Credit cards are widely accepted in major towns.
+
+
+
+
+
+
+
+What is ATM access like in Papua New Guinea?
+
+
+
+
+
+
+
+
+
+There’s good access to ATMs in Port Moresby.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Papua New Guinea?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Papua New Guinea?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+14 Apr Good Friday
+
+15 Apr Holy Saturday
+
+16 Apr Easter Sunday
+
+17 Apr Easter Monday
+
+12 Jun Queen's Birthday
+
+23 Jul National Remembrance Day
+
+24 Jul Public Holiday
+
+26 Aug National Day of Repentance
+
+28 Aug National Day of Repentance Holiday
+
+16 Sep Independence Day
+
+18 Sep Independence Day Holiday
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+Please note these dates are for 2017. For a current list of public holidays in Papua New Guinea go to:
+http://www.worldtravelguide.net/papua-new-guinea/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+
+
+Top responsible travel tips for Papua New Guinea
+
+1. Be considerate of Papua New Guinea’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+5. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+6. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+7. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+8. Please ask and receive permission before taking photos of people, including children.
+
+9. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation
+provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+
+
+
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

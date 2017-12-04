@@ -1,0 +1,5696 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United States Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United States tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+North America
+
+United States
+
+
+
+With famous cities, epic landscapes, pop culture icons and enthusiastic locals, the United States has got something for everyone.
+
+
+From the sunny beaches of San Diego and the glacial wonder of
+Alaska
+to the luminous cityscapes of New York at night, there are magic moments waiting around every corner.
+
+
+Top United States travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+18 Dec 2017
+
+Las Vegas to Los Angeles
+
+
+
+Las Vegas to Los Angeles
+Las Vegas to Los Angeles
+
+
+
+
+
+
+
+
+
+×
+
+Las Vegas to Los Angeles
+
+
+
+
+
+
+
+
+
+10
+
+
+FR2,495
+
+
+FR2,246
+
+
+
+
+View Trip
+
+
+
+
+
+
+18 Dec 2017
+
+US & Canada Discovery
+
+
+
+US & Canada Discovery
+Chicago to New York
+
+
+
+
+
+
+
+
+
+×
+
+US & Canada Discovery
+
+
+
+
+
+
+
+
+
+11
+
+
+FR3,445
+
+
+FR3,101
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our United States trips
+
+
+
+
+
+
+
+
+
+Best of America
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,460
+
+
+
+
+
+Journey across the heart of the US and experience the best of America. Visit the nation...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+America's Western Wonders
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR5,935
+
+
+
+
+
+Explore cities, deserts, forests and valleys on this adventure through the West. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Western USA
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,850
+
+
+
+
+
+Jump from nature to the city and back again. Keep your cool in Joshua Tree National...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+USA Western Circuit
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,710
+
+
+
+
+
+Keep your cool in Joshua Tree National Park, roll the dice in Las Vegas, and hike under...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+New York to Miami
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Take in the bright lights of the Big Apple and the glitz and glamour of Miami, via the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Southwestern USA
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,690
+
+
+
+
+
+Discover hidden pockets of beauty as you travel across America's southwest - visiting...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Key West  & Dry Tortugas Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,729
+
+
+
+
+
+Visit Dry Tortugas National Park and the uninhabited Marquesas Islands on this unique...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vegas to LA
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,695
+
+
+
+
+
+Set out on a road trip from lavish Las Vegas to stylish Los Angeles, taking in Yosemite...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern USA Road Trip
+
+
+
+
+
+
+
+
+
+25 Days
+
+
+From
+FR3,920
+
+
+
+
+
+Buckle up for an epic road trip across the northern stretches of the US, from San...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hawaii Discovery
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,920
+
+
+
+
+
+Enjoy this Hawaiian tour taking in Oahu, Kauai, Maui and The Big Island, as well as...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+New York to Las Vegas
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,585
+
+
+
+
+
+Travel through the best of the US and experience landmark national treasures. Cross the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bright Lights & Canyons of the USA
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,335
+
+
+
+
+
+Gear up for some incredible travel through the USA's great west. Travel from Los...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+USA National Parks Explorer
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR5,115
+
+
+
+
+
+This is the best of the West. Trek through the diverse scenery of parks filled with...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Western USA Highlights
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR3,165
+
+
+
+
+
+Travel from Los Angeles up to San Francisco, passing through Las Vegas, the Grand...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate USA
+
+
+
+
+
+
+
+
+
+51 Days
+
+
+From
+FR8,295
+
+
+
+
+
+Tick off all the big names – New York, Nashville, Chicago, Niagara Falls, New Orleans,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+US & Canada Discovery
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,845
+
+
+
+
+
+From Chicago to New York, with Montreal and Boston in between, this tour of North...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Utah, Nevada & California
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,245
+
+
+
+
+
+Embark on an incredible American road trip that goes to Zion, Bryce Canyon and Yosemite...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alaska Adventure
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,795
+
+
+
+
+
+Experience the vast Alaskan wilderness. Hike through remote landscapes, stand in the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North USA Highlights
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,530
+
+
+
+
+
+Travel from Denver to New York via the soaring granite formations of the Grand Tetons,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Circle USA
+
+
+
+
+
+
+
+
+
+47 Days
+
+
+From
+FR7,540
+
+
+
+
+
+Take a comprehensive journey around the US with Intrepid. This is the ultimate American...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+USA Canyons, Cliffs and Coast
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,070
+
+
+
+
+
+Pass through Las Vegas, the Grand Canyon and Yosemite National Park on a return trip to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+East USA Adventure
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,200
+
+
+
+
+
+Enjoy the best of the US. Explore the sights and history of Detroit, Chicago,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+San Francisco to Chicago
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,895
+
+
+
+
+
+Spot bears in Yosemite National Park, be awed by Niagara Falls, and camp by the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Big Apple to Big Easy
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,075
+
+
+
+
+
+Wind across the Appalachians, through the musical hub of Memphis and on to Louisiana on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vegas to San Fran
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR795
+
+
+
+
+
+Set out on a road trip from lavish Las Vegas to stylish San Francisco, taking in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Chicago to New Orleans
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,095
+
+
+
+
+
+Join Intrepid for an all-American road trip that heads from Chicago to New Orleans,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Utah Parks Circuit
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Visit some of North America's most outstanding national parks and experience the all...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Alaska
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,655
+
+
+
+
+
+Experience the vast Alaskan wilderness. Hike through remote landscapes, stand in the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Las Vegas to Los Angeles
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,032
+
+
+
+
+
+From the glitz of the Vegas Strip to the hush of Monument Valley; travel through Zion...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+US & Canada Discovery Winter
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,656
+
+
+
+
+
+Get amongst Christmas markets and winter festivities in Canada and USA on a snow-filled...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Western USA family Holiday with Teenagers
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,820
+
+
+
+
+
+Explore buzzing cities and get active in America’s big backyard. Walk the famous...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rockies, Yellowstone & Mt Rushmore
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,480
+
+
+
+
+
+Visit the pristine wilderness of Yellowstone, Grand Teton and Badlands National Parks...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+LA to Vegas Adventure
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR995
+
+
+
+
+
+Travel from Los Angeles to Las Vegas on a classic American road trip that stops by...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+San Francisco to Las Vegas
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,560
+
+
+
+
+
+From the steep hills and ‘Painted Ladies’ of San Francisco to the flashing lights and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Florida Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,130
+
+
+
+
+
+The sandy beaches of Florida beckon, and who are you to refuse? Explore Panama City...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mt Rushmore to Yellowstone
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,195
+
+
+
+
+
+Explore some of America’s most iconic national parks on a ten-day tour of this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+California's Coast
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR695
+
+
+
+
+
+It's California dreamin' on a cruise down one of the world's greatest drives. Highway 1...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+California to the Rockies
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,480
+
+
+
+
+
+Buckle up for a road trip from San Francisco to Denver, taking in the Yosemite, Rocky...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alaska's Kenai Peninsula
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,195
+
+
+
+
+
+Explore Alaska's untouched wilderness on a short trip from Anchorage to Homer and Seward.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern USA Road Trip
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,430
+
+
+
+
+
+Travel through the south of the USA and visit San Antonio, the Carlsbad Caverns and the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Big Apple to Chicago
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,130
+
+
+
+
+
+From New York to Washington, Nashville, Philadelphia and Chicago, tick off all the big...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Chi-Town to New York
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR960
+
+
+
+
+
+Cross the northern ridge of the United States, taking in the metropolises of Chicago,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Las Vegas to New Orleans
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,430
+
+
+
+
+
+Travel through the south of the USA and visit San Antonio, the Calsbad Caverns and the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Big Easy to Big Apple
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,080
+
+
+
+
+
+Wind from Louisiana, through the musical hub of Memphis and across the Appalachians on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+San Fran to Vegas
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR825
+
+
+
+
+
+Set out on a road trip from stylish San Francisco to lavish Las Vegas, taking in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Alaska
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,795
+
+
+
+
+
+Explore the rugged landscape of icy Alaska. From Anchorage, head north into the wild of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+California Coast Express
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR885
+
+
+
+
+
+Explore the stunning California coast on this three-day tour from Los Angeles. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Comfort USA
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,315
+
+
+
+
+
+Get to know the south with this trip through Atlanta, Charleston, Asheville, Nashville,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Fall Colours of New England USA
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,865
+
+
+
+
+
+Discover the incredible landscape of New England with hikes through Stowe and the White...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Comfort USA - New Orleans Jazz Festival
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,630
+
+
+
+
+
+Get to know the south with this trip through Atlanta, Charleston, Asheville, Nashville,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+San Francisco to New York
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,465
+
+
+
+
+
+Explore North America with Intrepid Travel. Starting in San Francisco, discover the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Anchorage to Mexico City
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR6,581
+
+
+
+
+
+Travel along the spine of North America and the centre of Mexico on a tour that takes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+United States tour reviews
+
+
+Our United States trips score an average of
+4.7 out of 5
+based on 418 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Southern Comfort USA,
+November 2017
+
+Peter Hills
+
+Southern Comfort offers a great opportunity to get a flavour of the food, music, and culture of these otherwise lightly visited states.
+Travelling in a group gives a great collective experience stimulating conversation over dinner and whilst travelling.
+Unlike some group/coach tours there is plenty of opportunity to explore all of the towns and cities at your own leisure, but the included activities are some of the key attractions any visitor to the region would wish to experience
+
+Review submitted 28 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Hawaii Discovery,
+November 2017
+
+Vicki Miezis
+
+This  trip was pretty amazing. When I booked it I thought I would be lazing on a beach but it turned out to be adventurous and the hikes were challenging. So very glad it was more than just beaches. Loved the turtles and the manta rays.  The volcano was amazing.  One of the best trips I have done.  Our leader, Charlie, was really great.
+
+Review submitted 25 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+United States trip reviews
+
+Our United States trips score an average of
+4.7 out of 5
+based on 418 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on United States
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 20, 2017
+
+
+
+How to watch live music like a local in New...
+
+
+
+
+
+
+Music is everywhere in the Big Easy. But where do the LOCALS go to catch a tune?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 16, 2017
+
+
+
+Everything you need to know about tipping in...
+
+
+
+
+
+
+Forget about reaching for your wallet with nervous hands. Our guide to tipping in...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 19, 2017
+
+
+
+Your ultimate Hawaii island-by-island travel guide
+
+
+
+
+
+
+We sat down with Intrepid leader, Chadwick, to get the low down on the real Hawaii...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 14, 2015
+
+
+
+Seven jaw-dropping spots that prove Utah is the...
+
+
+
+
+
+
+If you watched Road Runner and Wile E. Coyote chase one another through the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 23, 2014
+
+
+
+Where to find local flavours and murals in the...
+
+
+
+
+
+
+Find out how to explore San Francisco's Mission District. It's the city's oldest...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 07, 2014
+
+
+
+5 reasons why bigger isn’t better in America
+
+
+
+
+
+
+Sure, cities like New York, San Fran, Las Vegas and Washington DC deserve the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United States travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yellowstone National Park
+
+
+
+
+See the geysers and springs of Yellowstone National Park
+
+
+
+
+
+
+Mt Rushmore to Yellowstone, 10 days
+
+
+
+
+
+
+
+
+Rockies, Yellowstone & Mt Rushmore, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Alaska
+
+
+
+
+Travel through the isolated, icy wonder of Alaska
+
+
+
+
+
+
+Best of Alaska, 12 days
+
+
+
+
+
+
+
+
+Alaska Adventure, 14 days
+
+
+
+
+
+
+
+
+
+
+
+San Francisco
+
+
+
+
+See the vibrant street art of San Francisco
+
+
+
+
+
+
+Best of America, 22 days
+
+
+
+
+
+
+
+
+Wild Western USA, 11 days
+
+
+
+
+
+
+
+
+Vegas to San Fran, 5 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in United States
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in the US, you may find yourself travelling by:
+
+
+
+
+
+
+
+Ferry
+
+Be amazed by enormous glaciers and stunning, icy landscapes while travelling on a ferry in Alaska.
+
+
+
+
+
+
+
+
+
+
+
+Bicycle
+
+Use pedal power to see the best of Venice Beach and Santa Monica. Cycling is a great way to see the sights and get fit at the same time.
+
+
+
+
+
+
+
+
+
+
+
+Streetcar
+
+Take in the sights while enjoying a ride on one of San Francisco’s icons – the streetcar.
+
+
+
+
+
+Accommodation in United States
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in the US you may find yourself staying in a:
+
+
+
+
+
+
+
+Hogan
+
+Spend a night sleeping in a hogan – a traditional Navajo structure built with an open roof to view the stars.
+
+
+Bright Lights & Canyons of the USA
+
+Western USA Highlights
+
+Utah Parks Circuit
+
+
+
+
+
+
+
+
+
+
+Cabin
+
+Get back to nature and enjoy staying in quaint cabins throughout the beautiful national parks of America.
+
+
+Best of Alaska
+
+Mt Rushmore to Yellowstone
+
+
+
+
+United States holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Washington DC
+
+Population:
+
+313.2 million
+
+Language:
+
+English
+
+Currency:
+
+USD
+
+Time zone:
+
+(GMT-05:00) Eastern Time (US & Canada)
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code:
+
++1
+
+
+
+
+
+
+
+
+
+Best time to visit United States
+
+
+
+
+
+
+×
+
+Best time to visit United States
+
+
+
+
+Being such a large country, the weather in the US is different depending on which area you are in. This means that it’s always a good time to visit, as the sun is always shining somewhere in the United States.
+
+Summer (June to August) is the peak season due to school holidays. It can be uncomfortably hot in the desert areas and the south, but more pleasant in the north. The shoulder seasons of spring and autumn are generally considered to be the best times to visit, but the weather is still highly variable and these may be the wettest times in some parts of the country (such as Seattle). Winter can be cold in the north, and expensive in the ski resorts, but quiet in other areas, which can make it a pleasant time to visit.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+With immigration playing an important part in the development of America, it's now a nation made up of many different cultures. The population is made up of immigrants hailing from Asia, Africa, Europe, Central America and beyond - it’s no wonder modern America is rich with a variety of cultural traditions, cuisines, religions and festivals. Because of this, a large diversity of holidays are celebrated in America. You’re just as likely to see Kwanza, Hanukah and Chinese New Year celebrated, as Christmas and Easter. Annual holidays like 4th of July and Thanksgiving are usually celebrated by all regardless of religion or political persuasion, and give people a chance to reconnect with family and friends around the dinner table or grill.
+
+From sports to soul music, popular culture to philosophy, and fine art to folk art, the tastes and desires of Americans vary around the country - from north to south, cities to small towns. A love of sport unifies the nation - it doesn’t matter if you live in a city loft or a trailer, sports like ice hockey, basketball, baseball and gridiron all attract a strong following, regardless of age, sex, income or race.
+
+With an emphasis on freedom and achievement, entrepreneurs like Oprah, Bill Gates, Steve Jobs, Donald Trump and Mark Zuckerberg are respected, celebrated and held up as an example of how anything is possible when living in America. Sporting legends, celebrities, actors and pop stars are viewed as valuable commodities by most, leading to the recent explosion of ‘celebrity culture’.
+
+In contrast to this, many Native Americans live on reservations and fight to retain their traditions and preserve their heritage, although when visiting reservations don’t be surprised to see Native Americans wearing modern clothing. With much of the language and many of the customs lost over the years, Native Americans strive to live a life of deep spirituality and in connection with the earth, as their ancestors did for centuries.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+In the United States, the portions are large and the calorie-count even larger. With a variety of international influences, try Creole cuisine in New Orleans, traditional Jewish fare in New York, and southern cooking in Texas. America’s got everything, from burger joints to taco shacks, organic cafes to refined Michelin-starred restaurants.
+
+Things to try in United States
+
+1. All-You-Can-Eat Buffets
+
+The staple diet of most Vegas-visitors, a buffet session may not be for everyone, but you can’t argue that it’s not an economical choice. Fill up on soups, seafood, wings and ribs and you’ll be able to skip your next meal.
+
+2. Bagel With a ‘Schmear’
+
+Popular in New York and beyond, a bagel and ‘schmear’ (small amount of cream cheese) is a great, low-cost breakfast option.
+
+3. Pies
+
+A stock standard menu item in most diners, cafes and roadside truck stops, American pies are simply delicious. Choose from cherry, apple, blueberry, blackberry, raspberry or peach and wash it down with an endlessly refillable cup of hot coffee with cream.
+
+4. Hot Dogs
+
+Take a bite out of the Big Apple with a hot dog bought from a street vendor. Smothered in mustard and ketchup, this is a fave budget bite with cash-strapped travellers.
+
+5. Donuts
+
+In need of a sugar hit? Then indulge in a donut made of sugary, doughy goodness. Whether you head to a Dunkin’ Donuts chain or a cafe, in America you’re never far from a donut. On the road? There’s even drive-thru donut stores in some states.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+From the lush everglades of Florida, through the red-hot deserts of Nevada and on to the urban jungles of New York and Philadelphia, the United States has many different environments and ecosystems within its boundaries. Sharing borders with
+Canada
+in the north and
+Mexico
+in the south, the United States has deserts, glaciers, freshwater lakes, rapid-filled rivers, mountain ranges, sprawling plains, forested national parks, beaches and bays.
+
+The major national parks of America – Yellowstone, Zion, Yosemite, Bryce Canyon, Denali and Joshua Tree offer a glimpse into what much of America looked like before development. Lush vegetation, majestic mountains and sparkling lakes give deer, moose, bears, bison and many other species of wildlife a fertile home to live in.
+
+When travelling, you’re likely to see modern cities filled with traffic, skyscrapers and high-density housing, as well as sleepy towns, trailer parks and Native American reservations. A complex network of highways connect the major cities, making overland travel a popular choice with visitors and locals alike. The great American road trip is still alive and well.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+As one of the world’s most influential nations, major moments and events in American history ripple throughout the rest of the world.
+
+The First Settlers interrupted the traditional way of life that Native Americans had been living for centuries, and soon brought disease, famine and dispossession of land to the tribes of North America.
+
+Over the years, America has seen battles fought between its citizens (like the Civil War) and externally with other nations (Vietnam War and Gulf War). It has also endured terrorist attacks, natural disasters, depressions, recessions and other hardships. The American people are known for their resilience and irrepressible nature, and it is this spirit that allows them to continue to contribute to the world economically, scientifically and creatively.
+
+In recent history, America has enjoyed the historic highs of the moon landings and the devastating lows of Hurricane Katrina. The world has seen American companies like Apple, Facebook, Microsoft and Starbucks change the face of the world. And people like Steven Spielberg, Lance Armstrong, Maya Angelou and Sidney Poitier create masterpieces, break records and win countless awards.
+
+
+
+
+
+
+
+
+Top 10 Must-See Cities in the US
+
+
+
+
+
+
+×
+
+Top 10 Must-See Cities in the US
+
+
+
+
+Top 10 Must-See Cities in the US
+
+1. New York
+
+You can be anyone you want to be in NYC. Indulge your artistic side at MoMA, mingle with the Gordon Geckos on Wall Street, cheer like a pro at a Yankees game or kick back at a bar with a Manhattan and a new pair of Jimmy Choos.
+
+2. San Francisco
+
+San Francisco is made of sunshine, seafood and a whole lot of hills. This is the place to embrace your inner (or outer) bohemian. But it's not all 'flowers in your hair' and free thinking, be sure to take a ferry to Alcatraz and scoff down a clam chowder at Fisherman's Wharf.
+
+3. New Orleans
+
+The Caribbean meets France and Africa in New Orleans. Music is everywhere, and so are the friendly faces. The city comes to life after dark so have an afternoon nap, get some comfortable shoes on and get ready to bar hop the night away.
+
+4. Las Vegas
+
+Hello Lady Luck! Days somehow disappear in the hedonistic blitz of colour, light, showgirls, casinos and offers too good to refuse. Try to escape the endless buffets to catch a show; there's everything from death defying acrobats to Elvis on offer.
+
+5. Chicago
+
+The financial and political powerhouse of Chicago has been the home of two of the most influential people in the world - President Obama and Oprah. Famed for its distinctive architecture, booming performing arts scene and sports-mad locals, the 'Windy City' shouldn't be missed.
+
+6. Miami
+
+The air is warmer, the clothes smaller and the colours are somehow brighter in Miami. Jewish, Latin and Caribbean cultures blend to make a heady mix of great food, even better music and a nightlife filled with the spirit of fiesta. Hang out on perfect beaches, spot classic cars and gaze at the beautiful people as they strut their stuff.
+
+7. Los Angeles
+
+Search beyond the stardust of Hollywood and the excessive price tags of Rodeo Drive, to find the true essence of Los Angeles. Home to a melting pot of cultures, uber-cool restaurants, a hip art-scene and the eclectic vibe of Venice Beach, LA is so hot right now!
+
+8. Seattle
+
+The birthplace of grunge music and iconic super-companies like Microsoft, Boeing and Starbucks, Seattle offers so much more than great coffee. Markets packed with fresh produce, a harbour perfect for boating, vibrant public art and a thriving live music scene combine to make Seattle a must-see city.
+
+9. Memphis
+
+History comes alive in the heritage-filled streets of Memphis. Whether it's at Elvis Presley's Graceland, the lively blues clubs and restaurants of Beale Street or the moving Civil Rights Movement Museum, it could be said that the soul of America lives in Memphis.
+
+10. Boston
+
+One of America's oldest cities, Boston is evolving. Working class neighbourhoods are being gentrified, industry is giving way to tech start-ups and modern architectural treasures sit alongside brown-stone buildings. Despite the change, get chatting to locals about the Red Sox and you'll soon find you're definitely in Bosto
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+It’s no wonder many people choose to do their clothes shopping in the United States. With iconic department stores like Bloomingdales and Macy’s offering a wide range of labels, and vintage/charity stores stocking American fashion classics like distressed denim jeans and leather cowboy boots, shopping in America is fun. Known for having great sales and even better customer service, it’s well worth leaving room in your backpack for a few extras. Please note that unlike in many other countries, tax isn’t included in the ticketed price.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in United States
+
+1. Sephora
+
+One for the ladies – this amazing institution of hair & beauty stocks a wide range of cult skin care and glam make-up products at great prices.
+
+2. Amoeba Music
+
+With stores in Los Angeles and San Francisco, this independent music store stocks an enormous range of music, posters, dvds and tour T-shirts. In-store artist appearances and concerts only add to Amoeba’s awesomeness.
+
+3. Dean & DeLuca
+
+Foodies will love perusing the gourmet goods on offer at Dean & DeLuca stores. Pick up some coffee to take home and try later or sample savoury bites from the specialty cheese counter.
+
+
+
+
+
+
+
+
+Festivals and Events
+
+
+
+
+
+
+×
+
+Festivals and Events
+
+
+
+
+Burning Man Festival
+
+Although entrance tickets start at $250, this unique, ‘cashless’ event, held in the Black Rock Desert of Nevada is based on the theme of radical self-expression. Festival-goers are expected to bring something to share with everyone, so trading is used as a form of currency. Expect to see art, music, nudity, body painting, tarot, dance and performance art before the ‘Burning Man’ statue is set alight, signifying the end of the festival.
+
+New Orleans Mardi Gras
+
+Witness a chaotic collision of lively music, colourful costumes, masquerade masks, spicy food and joyful people at the parades, parties and masquerade balls of the New Orleans Mardi Gras.
+
+Coachella
+
+Tens of thousands of people flock to this iconic Californian music festival to see the hottest rock, electronica and folk acts from around the world. Art installations, camping and a karaoke lounge add to the fun.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Ticket to Ride
+
+Sarah Darmody
+
+America Unchained
+
+Dave Gorman
+
+Bury My Heart at Wounded Knee
+
+Dee Brown
+
+On the Road
+
+Jack Kerouac
+
+Travels with Charley: In Search of America
+
+John Steinbeck
+
+Into the Wild
+
+Jon Krakaeur
+
+The Autobiography of Malcolm X
+
+Malcolm X and Alex Haley
+
+Gone With the Wind
+
+Margaret Mitchell
+
+
+
+
+
+
+
+
+United States travel FAQs
+
+
+
+
+
+Do I need a visa to travel to United States?
+
+
+
+
+
+
+
+
+
+Entrance requirements to the USA have changed in recent years so please read the following instructions carefully, even if you have travelled to the USA before.
+
+Many countries now operate under a visa waiver program (meaning a visa isn't required) however you still need to obtain an authorisation which confirms that you have been approved to travel. This authorisation must be obtained in advance of travel.
+
+Many citizens from Visa Waiver Program countries can travel to the USA without a visa for a 90 day stay, if they meet certain requirements. Travellers from all Visa Waiver Program countries must present a machine-readable passport (which meets US requirements) at the port of entry to enter without a visa, otherwise a US visa is required. You can get further information from the US Department of State website:
+- http://travel.state.gov/visa/tempvisitors.html
+
+Also please note, all travellers from Visa Waiver Program countries must obtain an electronic travel authorization prior to their flight from the Electronic System for Travel Authorization (ESTA) website: https://esta.cbp.dhs.gov
+
+All ESTA registration applications or renewals require a US$14.00 fee paid by credit or debit card. You should apply for your visa waiver authorisation at least 1 week prior to travel to avoid any last minute delays. You will require your passport details and your address in the US (you can use the starting point hotel/hostel address).
+
+Please note that if there is any discrepancy between the name on your ESTA, your passport, your tickets and even your frequent flyer membership, you may be detained at Immigration and subject to a secondary inspection which could take a few hours. If you have recently changed your name, please check that your details have been updated everywhere.
+
+If you are from a country eligible for the visa waiver program but are a dual citizen of Iran, Iraq, Syria or Sudan, or if you have travelled to Iran, Iraq, Syria or Sudan since 1 March 2011, you will not longer be eligible for the visa waiver program and will instead need to apply for a non-immigrant visa. Please see the Department of State website for more information: http://travel.state.gov//content/travel/en.html
+
+
+
+
+
+
+
+Is tipping customary in the US?
+
+
+
+
+
+
+
+
+
+Tipping is very much a part of the culture in the US. Tips are expected at restaurants, cafes and diners, as well as by taxi drivers, valet attendants, porters and hotel maids. People working the service industry generally receive the minimum wage, which is quite low and therefore rely upon tips as a major source of their income. In general, leave 15% of the bill at places serving food, $1 to bar tenders and a few dollars for hotel staff who provide a personal service like carrying bags or cleaning your room.
+
+
+
+
+
+
+
+What is the internet access like in the US?
+
+
+
+
+
+
+
+
+
+Internet access is excellent in the US, and internet cafes and Wi-Fi hot spots are easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in the US?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is excellent in most parts of the US although coverage may be patchy in remote, mountainous areas like national parks and canyons. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in the US?
+
+
+
+
+
+
+
+
+
+Western-style flushable toilets are the norm in the US.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Cup of coffee = US$1.50-2
+Hotdog from street cart = US$2-3
+Newspaper = US$0.50-$2
+Cinema admission = US$10-12
+
+
+
+
+
+
+
+Can I drink the water in the US?
+
+
+
+
+
+
+
+
+
+Drinking water from taps in the US is considered safe unless otherwise marked. For environmental reasons, try to use a refillable water bottle rather than buying bottled water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in the US?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores in the US. Smaller cafes and shops may not accept credit cards, so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in the US?
+
+
+
+
+
+
+
+
+
+ATMs are common in the US, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in the US?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in the US?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year's Day Holiday
+
+16 Jan Martin Luther King Jr. Birthday
+
+29 May Memorial Day
+
+4 Jul Independence Day
+
+4 Sep Labor Day
+
+10 Nov Veterans' Day Holiday
+
+11 Nov Veterans' Day
+
+23 Nov Thanksgiving Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in the US go to:
+http://www.worldtravelguide.net/united-states-america/public-holidays
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+
+
+
+
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

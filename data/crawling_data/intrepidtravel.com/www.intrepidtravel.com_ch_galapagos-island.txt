@@ -1,0 +1,4681 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Islands Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Islands tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Sailing
+
+Galapagos Islands
+
+
+
+Spectacular, isolated and home to the famed Galapagos giant tortoise, Ecuador’s Galapagos Islands really do feel like another world.
+
+
+Inquisitive sea lions and spiky marine iguanas breach and bask between island and shore, while friendly hammerhead sharks patrol the depths and blue-footed boobies cut through the sky.
+
+Nowadays, the islands host a steady stream of modern-day explorers. And for good reason - as far as face-to-face wildlife encounters go, the Galapagos wildlife experience rivals even the likes of
+Africa
+.
+
+{{ sale_merchandise({ }) }}
+
+
+Top Galapagos Islands travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+5 Jan 2018
+
+Galapagos Adventure - Northern Islands (Daphne)
+
+
+
+Galapagos Adventure - Northern Islands (Daphne)
+Quito to Quito
+
+
+
+
+
+
+
+
+
+×
+
+Galapagos Adventure - Northern Islands (Daphne)
+
+
+
+
+
+
+
+
+
+7
+
+
+FR3,170
+
+
+FR2,339
+
+
+
+
+View Trip
+
+
+
+
+
+
+9 Jan 2018
+
+Ultimate Galapagos - Central Islands (Daphne)
+
+
+
+Ultimate Galapagos - Central Islands (Daphne)
+Quito to Quito
+
+
+
+
+
+
+
+
+
+×
+
+Ultimate Galapagos - Central Islands (Daphne)
+
+
+
+
+
+
+
+
+
+10
+
+
+FR4,960
+
+
+FR3,592
+
+
+
+
+View Trip
+
+
+
+
+
+
+10 Jan 2018
+
+Pure Galapagos (Daphne)
+
+
+
+Pure Galapagos (Daphne)
+Isla Baltra to Isla Baltra
+
+
+
+
+
+
+
+
+
+×
+
+Pure Galapagos (Daphne)
+
+
+
+
+
+
+
+
+
+8
+
+
+FR4,035
+
+
+FR2,944
+
+
+
+
+View Trip
+
+
+
+
+
+
+16 Jan 2018
+
+Galapagos at a Glance - Southern Islands - (Daphne)
+
+
+
+Galapagos at a Glance - Southern Islands - (Daphne)
+Quito to Quito
+
+
+
+
+
+
+
+
+
+×
+
+Galapagos at a Glance - Southern Islands - (Daphne)
+
+
+
+
+
+
+
+
+
+6
+
+
+FR2,585
+
+
+FR1,929
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Galapagos Islands trips
+
+
+
+
+
+
+
+
+
+Ultimate Galapagos - Central Islands (Daphne)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR4,564
+
+
+
+
+
+Come face-to-face with the extraordinary central islands of the Galapagos. Snorkel with...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active Galapagos
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,445
+
+
+
+
+
+Amazing wildlife, both on land and underwater, is the drawcard of the remote Galapagos...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Adventure - Northern Islands (Daphne)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,940
+
+
+
+
+
+Discover the natural treasures of the Galapagos Islands. Snorkel with sea lions in the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Absolute Galapagos (Daphne)
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR7,765
+
+
+
+
+
+Travel from Ecuador’s striking capital to the Galapagos Islands. Explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Venture
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,104
+
+
+
+
+
+From Quito, discover the unique flora and fauna of the Galapagos, visiting the islands...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Island Hopping
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,024
+
+
+
+
+
+Travel to the Galapagos Islands from Quito, Ecuador. Tour the Galapagos' highlights...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Peru Adventure
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR6,069
+
+
+
+
+
+Visit South America and travel to the Galapagos Islands, Peru, Ecuador and Bolivia....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos on a shoestring
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,094
+
+
+
+
+
+Experience the Galapagos without breaking the bank. Visit the islands of Isabela, Santa...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Inca Trail Adventure
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,059
+
+
+
+
+
+Travel to Ecuador and the wildlife-rich shores of the Galapagos Islands. Then visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos at a Glance - Southern Islands - (Daphne)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR2,395
+
+
+
+
+
+Travel to the Galapagos Islands and see the unique Scalesia cloud forest, myriad...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Galapagos - (Daphne)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR4,595
+
+
+
+
+
+Travel from Ecuador’s striking capital to the Galapagos Islands. Explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Pure Galapagos (Daphne)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR3,674
+
+
+
+
+
+Come face-to-face with the extraordinary central islands of the Galapagos. Snorkel with...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Peru & Galapagos
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR5,124
+
+
+
+
+
+Visit South America and travel to Peru. Visit Lima, Cuzco and Lake Titicaca, tour the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Galapagos - Southern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR5,495
+
+
+
+
+
+Travel to the Galapagos Islands and embark on a sailing adventure around southern...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Galapagos - Central Eastern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR5,495
+
+
+
+
+
+Travel to the Galapagos Islands and sail around the central eastern islands, witnessing...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Galapagos - South Eastern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR5,495
+
+
+
+
+
+Sail through the clear waters, meet the unique animals and soak in the beautiful and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Galapagos - Central Southern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR5,495
+
+
+
+
+
+Sail the aquamarine waters of the Galapagos’ central southern islands taking in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Explorer - Southern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR3,595
+
+
+
+
+
+Take to cerulean waters to explore the beautiful Galapagos Islands. See huge...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Galapagos - (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR9,950
+
+
+
+
+
+Take an in depth cruise through the beautiful Galapagos Islands, exploring islas...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Encounter - Southern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR2,955
+
+
+
+
+
+Explore the Islands of the Galapagos on this startling adventure that highlights the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Encounter - Central Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR2,955
+
+
+
+
+
+Explore the central islands of the Galapagos on this startling adventure that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Explorer - Central Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR3,595
+
+
+
+
+
+Take to cerulean waters to explore the beautiful Galapagos Islands. See huge...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Galapagos Islands tour reviews
+
+
+Our Galapagos Islands trips score an average of
+4.71 out of 5
+based on 402 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Galapagos on a shoestring,
+November 2017
+
+Chesney Payet
+
+A beautiful place with so much to see. If you enjoy spending time in nature, amongst wildlife, this is for you.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Island Hopping,
+November 2017
+
+Kelsey Low
+
+This was my first time travelling with Intrepid.   I didn't  want to travel to South America alone as a single woman so I picked a group trip. It has been a wonderful experience and I highly recommend them.  The itinerary covered every highlight I wanted to do and see. Mainly though it was the two guides I had that made the trip. Absolutely loved the trip and would book again with Intrepid in the future!
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Galapagos Islands trip reviews
+
+Our Galapagos Islands trips score an average of
+4.71 out of 5
+based on 402 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Galapagos Islands
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 13, 2017
+
+
+
+The joys of exploring the Galapagos Islands...
+
+
+
+
+
+
+This trip was the first one in a long time where she actually didn’t have to worry...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 07, 2017
+
+
+
+An etiquette guide to the Galapagos Islands
+
+
+
+
+
+
+About 97% of the Galapagos Islands are protected by national park, and within this...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 01, 2017
+
+
+
+The Galapagos in photos: What an Intrepid trip...
+
+
+
+
+
+
+Coming right up: giant tortoises and adorable seals, new friends and magical...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 17, 2017
+
+
+
+Your Galapagos travel checklist: What to know...
+
+
+
+
+
+
+Your Galapagos go-to guide.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 12, 2017
+
+
+
+The essential Galapagos Islands packing guide
+
+
+
+
+
+
+To make the most of your time in this amazing archipelago, you need to be prepared.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 15, 2017
+
+
+
+The best family holidays to book in 2017
+
+
+
+
+
+
+We're a firm believer in the fact that family travel can please both parents and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 13, 2017
+
+
+
+7 reasons you should go island hopping in the...
+
+
+
+
+
+
+Located over 500 miles from the Ecuadorian mainland there’s a bunch of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2015
+
+
+
+Meet Oswaldo, your Intrepid guide in the Galapagos
+
+
+
+
+
+
+"It's possible for the Galapagos Islands to be a model for the rest of the world,"...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2015
+
+
+
+20 photos that prove how incredible the...
+
+
+
+
+
+
+The Galapagos Islands: the most photogenic place on earth?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2015
+
+
+
+This is why you need to get to the Galapagos...
+
+
+
+
+
+
+The Galapagos video to end all Galapagos videos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2015
+
+
+
+Want to know what a Galapagos cruise is really...
+
+
+
+
+
+
+To answer that question, we quizzed some real-life Intrepid Travellers on a real...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 05, 2014
+
+
+
+The Galapagos Islands: where wildlife abounds
+
+
+
+
+
+
+Over 1000km west of the mainland of Ecuador you'll find something special and it'...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 11, 2014
+
+
+
+A brief history of Darwinism: How one man’s...
+
+
+
+
+
+
+What could possibly inspire Darwin's drastic career turn? Well, some time spent in...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Islands travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Isla Santa Fe
+
+
+
+
+Home to a colony of notoriously tame sea lions, it’s possible to take a dip alongside the friendly population in crystal-clear waters. You’ll also be privy to parades of iguanas progressively prowling the beaches like a scene from a tiny Jurassic Park.
+
+
+
+
+
+
+
+
+
+Isla Espanola
+
+
+
+
+Ornithology spoiler alert: virtually the entire world population of waved albatross can be found here. And it gets better: boobies, mockingbirds, doves - the list of feathered friends you can make here goes on and on.
+
+
+
+
+
+
+
+
+
+Isla Floreana
+
+
+
+
+Green beaches? Check. One of the most remote post boxes in the world? Check. Mega-wildlife-watching opportunities? Check. Isla Floreana has long been considered a highlight of the archipelago, where passing ships used to stop to collect mail from the wooden barrel postbox in the 18th century.
+
+
+
+
+
+
+
+
+
+Isla Santa Cruz
+
+
+
+
+Discover the secrets of the Galapagos that inspired the Theory of Evolution at the Charles Darwin Research Station and meet the island’s famous giant tortoises.
+
+
+
+
+
+
+
+
+
+Isla Rabida
+
+
+
+
+This patchwork quilt of various volcanic landscapes is home to a brackish lagoon boasting a star-studded shoreline of wildlife: flamingos teeter at the water’s edge, pelicans chatter in the bushes and further out to sea, boobies plummet torpedo-like into the deep.
+
+
+
+
+
+
+
+
+
+Isla North Seymour
+
+
+
+
+The rocky coastline of Seymour provides shelter to the region’s largest colony of frigate birds and blue-footed boobies, where treks through the cliffs bring you in close proximity to the nesting areas.
+
+
+
+
+
+
+
+
+
+Isla San Cristobal
+
+
+
+
+Brimming with remarkable wildlife and landscapes, this is also a prime spot to view the ‘booby two-step’, the captivating dance performed by blue-footed boobies in the throes of courtship.
+
+
+
+
+
+
+
+
+
+Isla Isabela
+
+
+
+
+Surrounded by enticing turquoise waters, Isabela is the biggest island in the archipelago, and home to the largest tortoise population in the Galapagos. Here, you can hike volcanic landscapes and view convict-built remnants.
+
+
+
+
+
+
+
+
+
+Isla Genovesa
+
+
+
+
+A twitcher’s paradise, Genovesa is home to the full hat-trick of boobies, with masked, blue-footed and the rare red-footed all inhabiting this remote island.
+
+
+
+
+
+
+
+
+
+Isla Bartolome
+
+
+
+
+The youngster of the archipelago, this island boasts an erratic volcanic landscape not matched anywhere else on Earth. A huge draw card is the iconic Pinnacle Rock, with views from the top to rival any you’ve seen before. And lucky snorkellers might even get to spot the Galapagos penguins!
+
+
+
+
+
+
+
+
+
+Isla Baltra
+
+
+
+
+Gateway to the Galapagos, and home to the main airport, Baltra is used as a launching pad when travelling to other islands in the region. This is a great location to spot iguanas strolling along the main street or sometimes even crossing the runway of the local airport.
+
+
+
+
+
+
+
+
+
+
+Transport in Galapagos Islands
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Galapagos Islands, you may find yourself travelling on:
+
+
+
+
+
+
+
+Daphne
+
+Private rooms with-en suites and air-conditioning
+
+Undercover outdoor terrace
+
+Safe boarding area
+
+Indoor lounge and dining area
+
+Top-level sundeck
+
+Bar on board
+
+Fresh, chef-prepared meals three times a day
+
+Tea, coffee and soft drinks available at all times
+
+Friendly crew and naturalist guide on board
+
+Maximum of 16 passengers
+
+Learn more about Daphne
+
+
+
+
+
+
+
+
+
+
+
+Grand Queen Beatriz
+
+Currently under construction, the Grand Queen Beatriz will commence operation on 30th June 2018. Built to specification, the Grand Queen Beatriz will be one of the newest boats operating in the Galapagos. It will come equipped with the latest in safety, navigation systems and fuel efficiency.
+
+
+A choice of 3 spacious cabin types with large picture windows, ensuite bathrooms, air conditioning & safety deposit boxes
+
+Junior and Deluxe cabins come with private balconies
+
+Spacious bar and dining room, interior lounge with large screen TV for daily briefings, exterior lounge & bar, sun deck and spa
+
+3 meals and refreshments prepared by our on board chef
+
+Tea, coffee & drinking water available 24 hours a day
+
+All snorkelling equipment, wetsuits and beach towels included
+
+Experienced multi lingual guide
+
+5 star accommodation in Quito pre and post cruise
+
+Complimentary arrival transfer
+
+Learn more about Grand Queen Beatriz
+
+
+
+
+
+
+Meet our leader: Oswaldo Noboa
+
+
+
+
+
+
+Tips and advice
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 17, 2017
+
+
+
+Your Galapagos travel checklist: What to know...
+
+
+
+
+
+
+Your Galapagos go-to guide.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 12, 2017
+
+
+
+The essential Galapagos Islands packing guide
+
+
+
+
+
+
+To make the most of your time in this amazing archipelago, you need to be prepared.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Islands holiday information
+
+
+
+
+About the Galapagos Islands
+
+
+
+
+
+
+×
+
+About the Galapagos Islands
+
+
+
+Ecuador
+might be smaller than its heavyweight South American neighbours, but this audacious land stakes a legitimate claim as the continent's most complete package. Blessed with a bonanza of perfect beaches and the remarkable Galapagos Islands, Ecuador's wealth of natural riches make it a one-stop shop for incredible real life experiences. Come and indulge in a scoopful of the Amazon rainforest, a generous helping of the Andes and a refreshing glass of colonial Quito - Ecuador makes for a scrumptious serving of South America's best.
+
+
+
+
+
+
+
+
+Best time to visit Galapagos Islands
+
+
+
+
+
+
+×
+
+Best time to visit Galapagos Islands
+
+
+
+Simply put, there’s no bad time to visit the Galapagos Islands. Good weather is mostly found year round, as are the animals. This being said, November through to June is the preferred time to visit, with clearer skies, calmer seas and decreased winds. Of these, March and April have less rain, while November and December are the warmest. July to November is the best time for divers as whale sharks can often be spotted at Wolf and Darwin islands.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+The main 18 islands of the Galapagos (ranging from 4,588 sq km Isabela to 1.1 sq km Darwin) are lava-formed with mostly rocky shorelines. Some are sparsely vegetated with mountainous interiors and high central craters, while others are comparatively lush with white-sand beaches and mangrove-lined inlets.
+
+A trip to this constellation of islands - an Eden of flora and fauna that inspired Darwin’s Theory of Evolution - is like setting foot on the planet for the very first time.
+
+
+
+
+
+
+
+
+Top wildlife to spot in the Galapagos
+
+
+
+
+
+
+×
+
+Top wildlife to spot in the Galapagos
+
+
+
+
+1. Sea Lions
+
+Whether you're loafing about on the beach or snorkelling offshore, you’ll be hard-pressed not to come face-to-face with these frolicsome critters at some stage. Playful, plentiful, and pretty much fearless, you’re supposed to keep a 2-metre distance from these guys at all times - though their insatiable curiosity can make this hard.
+
+2. Marine Iguanas
+
+The only lizards in the world that can live and forage in the ocean, the marine iguana is found solely in the Galapagos. Fierce and ferocious though these Godzilla-like reptiles may appear (Darwin called them ‘Imps of Darkness’), it’s all bluff – they only feed on algae. And with lung capacities permitting up to half an hour of underwater foraging, you’re just as likely find them gorging on the islands’ surrounding seabeds as scampering about the craggy rocks they inhabit.
+
+3. Hammerhead Sharks
+
+Boasting one of the animal kingdom’s most puzzling physiologies, hammerhead sharks are found in abundance off Wolf, Bartolome, Santa Cruz and Darwin islands. Unlike most sharks, they will often merge into schools of over 100 during the day - making for some incredible and surreal photo opportunities. And with no known human fatalities and a wealth of choice natural prey on offer, diving amongst them isn’t as scary or dangerous as one might think.
+
+4. Finches
+
+Darwin finches gave rise to one of the most game-changing theories of all time. By studying the differences between finches from different islands, Darwin hypothesised that the birds’ adaptations to their habitats resulted in their mutation into different species: his Theory of Evolution.
+
+5. Giant Tortoises
+
+No trip to the islands is complete without a visit to its most famous residents. Weighing up to 400 kg, regularly living for more than 100 years, and able to go for up to 1 year without food, these gentle and slow-moving monsters are an intriguing and humbling spectacle to observe.
+
+6. Sea Turtles
+
+Snorkelling alongside these majestic creatures of the deep (or more accurately, the shallows) is one of those rare, life-affirming moments that makes a trip to the Galapagos immediately worthwhile. Keep your eyes peeled on the beaches for turtle nests too - the Galapagos is a hotbed of activity for these critters.
+
+7. Blue-Footed Boobies
+
+Despite essentially looking like handsome seagulls with painted toenails, blue-footed boobies, when caught hunting, serve up one of the Galapagos' most thrilling spectacles. Diving from heights of up to 100ft, groups of boobies hit the water at speeds up around 60km per hour. They usually let out a shrill whistle before letting rip, which means you'll usually have warning enough to get your camera out too. How considerate.
+
+8. Flightless Cormorants
+
+Granted, a flightless cormorant spotted on land isn't one of the most invigorating sights you'll see during your time here. But wait until you don your snorkel gear and spot one weaving elegantly through the water - the flightless cormorant will likely become one of your favourite discoveries in the Galapagos Islands for this reason alone.
+
+9. Frigatebird
+
+With its striking wingspan and deeply-forked tail, the magnificent frigate bird is easily one of the most impressive birds in the skies of the Galapagos archipelago. But they don't have such a swell reputation amongst other birds. Whilst they hunt fish on the oceans surface, they also force their winged brethren to regurgitate their food, which then they eat - a process known as kleptoparasitism. Still, they look gorgeous – particularly the males, with their bright-red chin sac.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Galapagos
+
+Kurt Vonnegut
+
+My Father's Island: A Galapagos Quest
+
+Johanna Angermeyer
+
+The Voyage of the Beagle
+
+Charles Darwin
+
+Marine Life of the Galapagos
+
+Pierre Constant
+
+Wildlife of the Galapagos Julian Fitter
+
+Daniel Fitter and David Hosking
+
+
+
+
+
+
+
+
+Galapagos Islands travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Galapagos Islands
+
+
+
+
+
+
+
+
+
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Not required
+Switzerland: Not required
+United Kingdom: Not required
+United States: Not required
+
+
+
+
+
+
+
+Is tipping customary in the Galapagos Islands?
+
+
+
+
+
+
+
+
+
+If you have enjoyed the services provided by your guide and crew, a tip will be very much appreciated. As a guideline US$10-15 per passenger, per day, is standard for the crew, and US$7-10 per day for your guide. Tips can be left in envelopes in your cabin on the last day of your journey. Some restaurants on the islands may already include a 10% service charge in the bill, in which case an extra tip isn't required. At places that don’t include a service charge, feel free to round up the bill or leave some spare change.
+
+
+
+
+
+
+
+What is the internet access like in the Galapagos Islands?
+
+
+
+
+
+
+
+
+
+There are reliable internet cafes in Puerto Ayora (Santa Cruz Island) and Puerto Baquerizo (San Cristobal Island). Some hotels and restaurants on other islands will have a Wi-Fi connection, but it is best not to count on it.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in the Galapagos Islands?
+
+
+
+
+
+
+
+
+
+There is good mobile phone reception on the larger islands, but don’t expect it when at sea. The best local telephone companies are Porta and Movistar. Ensure you have global roaming activated before leaving home if you wish to use your mobile phone.
+
+
+
+
+
+
+
+What are the toilets like in the Galapagos Islands?
+
+
+
+
+
+
+
+
+
+Toilets in the Galapagos towns are generally of the Western-style flushable variety (and always on the boats), though you might have to deal with pit/squat toilets in rural areas. When on land it’s a good idea to carry your own supply of toilet paper and soap, as these aren't always supplied.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Soft drink = US$2
+Meal at an inexpensive restaurant = US$5
+Meal at a mid-range restaurant = US$30
+
+
+
+
+
+
+
+Can I drink the water in the Galapagos Islands?
+
+
+
+
+
+
+
+
+
+Tap water in the Galapagos Islands isn't safe to drink. For environmental reasons, try to avoid buying bottled water. Instead, bring water purification tablets or ask your leader where filtered water can be found.
+
+
+
+
+
+
+
+Are credit cards accepted widely in the Galapagos Islands?
+
+
+
+
+
+
+
+
+
+No, not widely. There are a handful of shops on Santa Cruz that may accept payments from the major credit cards, but it's preferable to have cash on hand.
+
+The banks in Puerto Ayora and Puerto Baquerizo have ATMs. The Banco del Pacífico in both towns is open Monday to Friday - 8am to 3.30pm, Saturdays - 9am to 12.30pm. It's best to withdraw your money on the mainland however, in case these are out of order.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in the Galapagos Islands?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for the Galapagos Islands
+
+Do not touch the animals.
+
+Stay further than 2 meters from the animals at all times, both for your own safety and theirs.
+
+Do not feed the animals, as it can be detrimental to their health.
+
+Do not take ‘souvenirs’ of rocks or flora off the island.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water or use water purification tablets.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Smoking in the national park areas is prohibited.
+
+Stay within the designated walking trails, both for your own safety and that of the flora and fauna.
+
+Refrain from supporting businesses that exploit or abuse animals, or that sell endangered animal products.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

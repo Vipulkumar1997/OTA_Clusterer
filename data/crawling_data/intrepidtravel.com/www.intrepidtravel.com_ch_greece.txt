@@ -1,0 +1,4382 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Greece Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Greece tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Greece
+
+
+
+With astounding archaeological sites, islands of extreme beauty, bucolic villages and some of the greatest food you’ll ever consume, Greece should be on every traveller's list.
+
+
+This gem of the Aegean will satisfy your thirst for knowledge, lust for adventure, desire for partying and craving for cuisine. Opa!
+
+
+Our Greece trips
+
+
+
+
+
+
+
+
+
+Athens to Santorini
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,595
+
+
+
+
+
+Travel from ancient Athens to the spectacular island of Santorini on this wonderful...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruise the Hidden Gems of Greece
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,745
+
+
+
+
+
+Join Intrepid for a small ship cruising adventure around Greece’s hidden hotspots, from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Greece Sailing Adventure - Cyclades Islands
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,591
+
+
+
+
+
+See the best of the Cyclades Islands on this Greece sailing adventure. Take to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Greece - Mykonos to Santorini
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,310
+
+
+
+
+
+Embark on a sailing holiday to Greece. Explore the waters, islands, history and cuisine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Athens
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,325
+
+
+
+
+
+Explore highlights and hidden treasures while travelling through Albania, Croatia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Greece - Santorini to Mykonos
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,310
+
+
+
+
+
+Set sail across the Mediterranean exploring Greece's heaven-sent islands. The spoils of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mainland Greece Discovery
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,390
+
+
+
+
+
+Encounter thousands of years of Greek civilisation, taking in ancient ruins from Athens...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Santorini
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,805
+
+
+
+
+
+Witness the jewels of the Mediterranean, from Dubrovnik to Santorini. Explore the old...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Greece
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,905
+
+
+
+
+
+A comprehensive 15-day journey from Athens, Corinth and Delphi through to Syros,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Greece Real Food Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Meet passionate cooks and producers on a food adventure in Greece, via amazing ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Greece tour reviews
+
+
+Our Greece trips score an average of
+4.72 out of 5
+based on 149 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Athens to Santorini,
+September 2017
+
+Karen & Nicole Crossley
+
+On this trip you can do as little or as much as you want - a very relaxing trip with some added inclusions to inspire you.  Lots to see and plenty of time to explore on your own. Beautiful scenery with many hidden gems along the many stone paths.
+
+Review submitted 02 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Athens to Santorini,
+September 2017
+
+Jacqueline Millard
+
+I did to trips back to back which I can recommend.
+
+Review submitted 26 Oct 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Greece trip reviews
+
+Our Greece trips score an average of
+4.72 out of 5
+based on 149 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Greece
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular places...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 18, 2017
+
+
+
+9 Greek beaches that should be on your bucket list
+
+
+
+
+
+
+Though the sea is everywhere (there's 227 inhabited islands), it's tough to find...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+5 European day hikes everyone should experience
+
+
+
+
+
+
+Europe’s varied geography lends itself to hundreds of day walks that require...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 21, 2017
+
+
+
+Mykonos: So much more than just a party island
+
+
+
+
+
+
+Mykonos is a no-brainer stop on the Cyclades island-hopping trail. But not just...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 17, 2017
+
+
+
+5 beautiful islands in Europe you haven’t...
+
+
+
+
+
+
+There's nothing we love more than the small towns, coastal views, and endless...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 24, 2017
+
+
+
+Traveling to Greece? Give Athens a chance
+
+
+
+
+
+
+The capital of Greece is like nowhere else on earth. Athens fuses the ancient with...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 08, 2017
+
+
+
+6 hottest food destinations in Europe for...
+
+
+
+
+
+
+Where will your taste buds be delighted most this summer? What cuisine will have...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 20, 2017
+
+
+
+Naxos: Introducing the most underrated Greek...
+
+
+
+
+
+
+Naxos is still unheard of by many foreign visitors, despite being four hours from...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 14, 2017
+
+
+
+Visiting Greece? Here’s what you need to eat
+
+
+
+
+
+
+From hearty street food to fresh fine dining and even sampling some of the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 19, 2016
+
+
+
+Ever wondered what an Intrepid sailing trip...
+
+
+
+
+
+
+Sailing isn't like it was in the old days. Rates of scurvy have declined. Peg legs...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+5 times technology ruined my trip
+
+
+
+
+
+
+Technology has changed the way we live our day-to-day lives and (for worse or for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 29, 2015
+
+
+
+Greek financial crisis: our advice for travellers
+
+
+
+
+
+
+For those considering travelling to Greece in the near future, there are steps you...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 02, 2015
+
+
+
+Club Med: Intrepid’s May photocomp results are in
+
+
+
+
+
+
+Sparkling blue waters, photogenic sunsets, white-washed cliff-top villages and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2015
+
+
+
+Sandsational: these are the world’s 7 best beaches
+
+
+
+
+
+
+Picking the world’s best beach is a bit like arguing why your favourite colour...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 16, 2015
+
+
+
+“We need very little to be really happy” and...
+
+
+
+
+
+
+One of our favourite sailing skipper shares a few pearls of wisdom from the blue...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 28, 2015
+
+
+
+10 of the world’s best island getaways: how to...
+
+
+
+
+
+
+It’s the age-old question: if you were stranded on a deserted island, what would...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Greece travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aegean Sea
+
+
+
+
+Swim and snorkel in the sparkling Aegean Sea
+
+
+
+
+
+
+Athens to Santorini, 8 days
+
+
+
+
+
+
+
+
+Dubrovnik to Santorini, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Santorini
+
+
+
+
+Give in to the romance of Greece’s most stunning island
+
+
+
+
+
+
+Athens to Santorini, 8 days
+
+
+
+
+
+
+
+
+Sail Greece - Santorini to Mykonos, 8 days
+
+
+
+
+
+
+
+
+Sail Greece - Mykonos to Santorini, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Mykonos
+
+
+
+
+Indulge in the bars and cafes of magnificent Mykonos
+
+
+
+
+
+
+Dubrovnik to Santorini, 22 days
+
+
+
+
+
+
+
+
+Athens to Santorini, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Athens
+
+
+
+
+Discover the ancient Acropolis in Athens
+
+
+
+
+
+
+Best of Greece, 15 days
+
+
+
+
+
+
+
+
+Greece Real Food Adventure, 9 days
+
+
+
+
+
+
+
+
+Athens to Santorini, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Meteora
+
+
+
+
+Visit the 14th-century monasteries of Meteora, perched atop soaring karst pinnacles
+
+
+
+
+
+
+Mainland Greece Discovery, 8 days
+
+
+
+
+
+
+
+
+Best of Greece, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Delphi
+
+
+
+
+Visit the sanctuaries of Apollo and Athena among the mountaintop ruins of Delphi
+
+
+
+
+
+
+Athens to Santorini, 8 days
+
+
+
+
+
+
+
+
+Mainland Greece Discovery, 8 days
+
+
+
+
+
+
+
+
+Dubrovnik to Athens, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Greece
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Greece, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bus
+
+Live like a local resident by hopping on a local bus. Cheap, efficient and fast, it’s a great way to get around Greece’s busy cities.
+
+
+
+
+
+
+
+
+
+
+
+Ferry
+
+Take in awesome views of the blue-green Aegean as you hop between Greece’s famed islands aboard a ferry.
+
+
+Dubrovnik to Santorini
+
+Best of Greece
+
+Athens to Santorini
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Greece sailing tours
+
+
+
+
+
+
+
+
+
+Greece holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Athens (population 750,000)
+
+Population:
+
+10.7 million
+
+Language:
+
+Greek
+
+Currency:
+
+EUR
+
+Time zone:
+
+(GMT+02:00) Athens, Bucharest, Istanbul
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++30
+
+
+
+
+
+
+
+
+
+Best time to visit Greece
+
+
+
+
+
+
+×
+
+Best time to visit Greece
+
+
+
+
+Greece generally has a mild, Mediterranean climate, with July and August being the busiest months for tourism. With warm weather and plentiful sunshine, this is a great time for visiting the islands, swimming in the sea and lazing on the beach. Summers are generally hot and dry, with daytime temperatures rising to 30°-38°C (85°-100°F). Days are usually cooled by prevailing north winds, especially on the islands.
+
+By mid-September, temperatures begin to fall and crowds thin, but it can still be hot. The weather remains generally calm and balmy well into October. If you can't get to Greece in the spring, and beaches are not your primary goal, this is a fine time to visit. By late October, ferry service and flights are cutting back and most facilities on the islands begin to close for the winter. But the cooler atmosphere makes Athens and the mainland all the more pleasant.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+The origins of Greece’s current culture lie in its ancient heart. Greece is the celebrated birthplace of some of the world’s most famous art, architecture, language, dance, literature and culinary traditions. The hallmarks of Western medicine, philosophy, drama and government can all be attributed to the mighty ancient Greek civilisation.
+
+With more than 90% of the population being Greek Orthodox, religion plays an important part in everyday life. Religious festivals and ceremonies are commonplace, both in the mainland cities and small rural villages. Christmas and Easter are particularly important dates on the calendar, although religious celebrations are not limited to these times as there are daily, weekly and annual rites and rituals performed all throughout Greece’s mainland and islands.
+
+Family plays a strong part in Greek life, with extended families tending to remain close and gathering together for meals and celebrations. Special foods are created at different times of the year, some of which date back to centuries ago. Weddings are typically large affairs and usually celebrated with much merriment and fanfare. To be Greek is to be proud of your country, your heritage and your traditions.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Visitors to Greece will be spoilt with the very best of fresh produce and ancient cooking traditions.
+
+Things to try in Greece
+
+1. Olives and Olive Oil
+
+No trip to Greece is complete without savouring olives and their legendary oil. Greeks cook with copious amounts of olive oil and also serve it on the side with bread. Fresh green and black olives can be found everywhere – in markets, cafes, restaurants, supermarkets, and in people’s homes.
+
+2. Yaurti (Yoghurt)
+
+Thick, smooth and rich, the yoghurt in Greece is unlike other yoghurts around the world. Grab a bowl of it smothered in honey and nuts for breakfast, lunch or a snack.
+
+3. Feta
+
+The national cheese of Greece should definitely be sampled in its native environment. You’ll find this salty treat in fresh salads, baked into pies, stuffed into fish and fried and served with bread.
+
+4. Ouzo
+
+This strong, distilled spirit has a distinct aniseed flavour and is perfect for cleansing the palette before meals. Sip on some while visiting an ouzeri for an authentic Greek experience.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing land borders with
+Albania
+,
+Bulgaria
+,
+Turkey
+and
+Macedonia
+, Greece is located in Southern Europe and is surrounded by the Ionian, Mediterranean and Aegean Sea. Consisting of the mainland peninsula and an archipelago of more than 3,000 islands, Greece is typically mountainous, containing peaks, karsts and canyons all over. Despite the mountainous topography, there is much arable land on Greece with small-scale farms successfully producing olives, peaches, melons, grapes, tomatoes and grain for export and local use.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The early history of Greece is among the world’s most fascinating, and like the other ancient civilisations of Egypt and Rome, Greece has many monuments still standing after centuries. The Greeks have been both the conquerors and the conquered, withstood the Plague and other natural disasters, and birthed some of the greatest literature, scientific developments, mathematical formulas and thought movements.
+
+Recent History
+
+In 1821, the Greeks fought against Ottoman rule during the Greek War of Independence, which resulted in Greece being recognised as an autonomous region in 1828. This was a time of great upheaval for the Greek people, with political assassinations, battles and plundering. After autonomy was granted, many years of change followed, with continued war and confrontation alongside intermittent periods of relative peace. The two World Wars had a profound effect on Greece, with many battles fought in Greece during the early 1940s (during the Axis occupation). Athens was liberated from this occupation in 1944 and the Greek government was restored. Greece joined the United Nations (as a founding member) in 1945 and NATO in 1952. During this time, many Greeks started moving to other parts of the world in a mass wave of widespread migration. The
+USA
+,
+Australia
+and
+Europe
+were popular destinations in this move, which saw hundreds of thousands of Greeks immigrate to other lands. In 2004, Athens successfully hosted the Summer Olympics once again. Yet more recently, Greece has come under the shadow of the European debt crisis which has crippled the economy. Despite this, the spirit of the Greek people endures as it has for eons.
+
+
+
+
+
+
+
+
+Must-Eat Dishes of Greece
+
+
+
+
+
+
+×
+
+Must-Eat Dishes of Greece
+
+
+
+
+Top 10 Must-Eat Dishes of Greece
+
+1. Dolmades with Yoghurt
+
+Probably one of Greece’s most famous culinary triumphs these vine leaves stuffed with rice, pine nuts and herbs are usually served with fresh, tangy yoghurt and due to their supreme ‘eatability’ don’t last long.
+
+2. Grilled Octopus
+
+The Greek Islands are arguably the best place in the world to savour char grilled octopus. Nothing beats freshly caught seafood, teemed with a cool beer and a golden sunset.
+
+3. Horiatiki Salata
+
+Known as Greek Salad in the English-speaking world, the combination of olives, cucumbers, onions, tomatoes, feta, olive oil and oregano shows that the simple flavours are often the best.
+
+4. Mezedes
+
+These small plates of vegetables, cheese, olives, dips and peppers are typically served before meals and are a perfect, light starter to a meal.
+
+5. Fried Calamari
+
+Known as Kalamarakia Tiganita to Greeks, this quick and simple deep fried delicacy is best served simple – with a slice of lemon and an amazing view!
+
+6. Kleftiko
+
+This slow-baked lamb dish features the mouth-watering flavours of garlic and lemon. The cooking method ensures that the meat falls off the bone to create a tender masterpiece.
+
+7. Moussaka
+
+This classic Greek dish of layered eggplant, spiced meat and creamy sauce is delicious, decadent and delectable.
+
+8. Loukoumades
+
+Sweet tooths shouldn’t miss these deep fried doughy treats! Soaked in a sugary syrup or honey and cinnamon, they are small but simply sensational.
+
+9. Spanakopita
+
+A favourite with vegetarians, this dish of layered filo pastry, feta cheese and spinach is filling and flavoursome.
+
+10. Yiros
+
+For a cheap and tasty meal, head to a yiros cart to choose from tender, grilled beef, chicken, lamb or pork yiros. This popular hangover cure consists of oily meat, wrapped in bread with salad and tzadziki and could possibly be one of the best examples of fast food in the world.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+From public markets and designer boutiques to European chain stores, Greece has every aspect of retail cornered.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country.
+Australia
+and
+New Zealand
+generally have strict quarantine laws.
+
+Things to buy in Greece
+
+1. Komboloi (Worry Beads)
+
+These stress-relieving resin beads are meant to be turned through your fingers as you muse over life. With roots deep in ancient Greek cultural tradition, they make a great souvenir for friends wanting a slice of authentic Greece.
+
+2. Botanical Skincare
+
+Greece is home to many brands of premium, organic skincare. Stock up on luxurious olive oil soap or enriching yoghurt-based moisturisers before you head home.
+
+3. Mati
+
+Travel safely and ward off evil by attaching a Mati (an ‘Evil Eye’) to your backpack. They’re cheap, available almost everywhere in Greece and are a great reminder of your travels in the Aegean.
+
+4. Jewellery
+
+Whether you prefer gold, silver, amber resin or colourful beads, Greece has a huge variety of jewellery on offer. Prices are typically lower than in many other parts of the world, so it’s likely you’ll be able to snap up a few bargains.
+
+
+
+
+
+
+
+
+Festivals and Events in Greece
+
+
+
+
+
+
+×
+
+Festivals and Events in Greece
+
+
+
+
+Epiphany
+
+If you find yourself in Greece during this time, you’ll feel ‘blessed’. Each year, Athens’ ancient port of Piraeus sees this religious day celebrated in an extraordinary way. A local priest flings a crucifix into the sea and young men dive into the cold water to retrieve it. This ritual is echoed throughout Greece in small villages and on islands. This special ceremony is performed for locals, by locals, but tourists are welcome to watch and learn.
+
+Athens Festival
+
+This annual feast of Aegean culture features visuals arts, music, dance and theatre performances take place in both the ancient and modern performance venues of Athens. Don’t miss getting along to one of the performances if you’re travelling in Greece during this time.
+
+Epidaurus Festival
+
+This festival offers the chance to experience the classics of Greek drama being performed in their original setting - an ancient theatre. With performances being held every Friday and Saturday night during the festival, there are plenty of opportunities to see Greek tragedies as originally intended.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Recommended reading
+
+
+
+
+
+
+×
+
+Recommended reading
+
+
+
+Title
+
+Author
+
+Captain Corelli's Mandolin
+
+Louis de Bernieres
+
+The Corfu Trilogy
+
+Gerald Durrell
+
+The Colossus of Maroussi
+
+Henry Miller
+
+Zorba the Greek
+
+Nikos Kazantzakis
+
+The Greeks
+
+H.D.F. Kitto
+
+
+
+
+
+
+
+
+Greece travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Greece
+
+
+
+
+
+
+
+
+
+GREECE:
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Yes - in advance
+Switzerland: Not required
+UK: Not required
+USA: Not required
+
+
+
+
+
+
+
+Is tipping customary in Greece?
+
+
+
+
+
+
+
+
+
+Tipping is considered optional in Greece, but considering that most waiters and waitresses earn a low wage, rounding up the bill is considered polite. Tipping extra for good service is a personal choice – use discretion.
+
+
+
+
+
+
+
+What is the internet access like in Greece?
+
+
+
+
+
+
+
+
+
+Internet access is good in Greece and internet cafes are easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Greece?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good on mainland Greece, but less so on some of Greece’s more remote islands. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Greece?
+
+
+
+
+
+
+
+
+
+Western-style, flushable toilets are the standard in Greece. Expect to pay a small fee when using public toilets in some parts of Greece.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Ticket for short metro trip = 2 Euro
+Takeaway souvlaki = 2-3 Euro
+Greek coffee in a cafe = 4 Euro
+Beer in a bar or cafeteria = 4-6 Euro
+Simple meal at a restaurant = 12 Euro
+
+
+
+
+
+
+
+Can I drink the water in Greece?
+
+
+
+
+
+
+
+
+
+Drinking water from taps in Greece is considered safe, unless otherwise marked (tap water may not be of drinkable quality on some of Greece’s small and remote islands).
+
+
+
+
+
+
+
+Are credit cards accepted widely in Greece?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores in Greece. Smaller cafes and shops may not accept credit cards so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Greece?
+
+
+
+
+
+
+
+
+
+ATMs are common in Greece, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Greece?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Greece?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+6 Jan Epiphany
+
+27 Feb Orthodox Ash Monday
+
+25 Mar Independence Day
+
+14 Apr Orthodox Good Friday
+
+16 Apr Orthodox Easter Sunday
+
+17 Apr Orthodox Easter Monday
+
+1 May Labour Day
+
+4 Jun Orthodox Pentecost
+
+5 Jun Orthodox Whit Monday
+
+15 Aug Assumption Day
+
+28 Oct Ochi Day
+
+25 Dec Christmas Day
+
+26 Dec 2nd Day of Christmas
+
+Please note these dates are for 2017. For a current list of public holidays in Greece go to:
+http://www.worldtravelguide.net/greece/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Greece
+
+1. Be considerate of Greece’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+5. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+6. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+7. Please ask and receive permission before taking photos of people, including children.
+
+8. Refrain from touching or interfering with ancient monuments, relics or historic sites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

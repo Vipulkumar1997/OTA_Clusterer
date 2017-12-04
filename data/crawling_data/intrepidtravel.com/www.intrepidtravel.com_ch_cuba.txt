@@ -1,0 +1,5665 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Central America
+
+Cuba
+
+
+
+Behind the peeling pastels and crumbling masonry, behind Cadillac chrome and the tang of cigar smoke and fresh papaya, cobbled streets and colonial relics, behind economic embargoes and a cultural time warp, there’s the real Cuba.
+
+
+And the real Cuba isn’t easy to fit onto a postcard. On our Cuba tours (now open to Americans) we try to go a step beyond the clichés. Want to try a cigar? We’ll introduce you to the Viñales farmers that make them. Want to give salsa a go? Our leaders know the best clubs in Havana. From the Afro-Cuban rhythms of Trinidad to turquoise waters in Gaujimico, this is the Cuba most travellers never get to see
+
+
+Top Cuba travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+16 Dec 2017
+
+Cuba Sailing Adventure
+
+
+
+Cuba Sailing Adventure
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Cuba Sailing Adventure
+
+
+
+
+
+
+
+
+
+9
+
+
+FR2,080
+
+
+FR1,456
+
+
+
+
+View Trip
+
+
+
+
+
+
+17 Dec 2017
+
+Western Cuba
+
+
+
+Western Cuba
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Western Cuba
+
+
+
+
+
+
+
+
+
+7
+
+
+FR1,025
+
+
+FR820
+
+
+
+
+View Trip
+
+
+
+
+
+
+10 Jan 2018
+
+Cuba Trekking and Beaches
+
+
+
+Cuba Trekking and Beaches
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Cuba Trekking and Beaches
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,480
+
+
+FR2,108
+
+
+
+
+View Trip
+
+
+
+
+
+
+11 Jan 2018
+
+Best of Cuba Westbound
+
+
+
+Best of Cuba Westbound
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Best of Cuba Westbound
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,230
+
+
+FR1,896
+
+
+
+
+View Trip
+
+
+
+
+
+
+11 Jan 2018
+
+Grand Cuba Westbound
+
+
+
+Grand Cuba Westbound
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Grand Cuba Westbound
+
+
+
+
+
+
+
+
+
+21
+
+
+FR3,220
+
+
+FR2,737
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Best of Cuba
+
+
+
+Best of Cuba
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Best of Cuba
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,230
+
+
+FR1,896
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Grand Cuba
+
+
+
+Grand Cuba
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Grand Cuba
+
+
+
+
+
+
+
+
+
+21
+
+
+FR3,220
+
+
+FR2,737
+
+
+
+
+View Trip
+
+
+
+
+
+
+15 Jan 2018
+
+Cycle Cuba
+
+
+
+Cycle Cuba
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Cycle Cuba
+
+
+
+
+
+
+
+
+
+7
+
+
+FR1,310
+
+
+FR1,179
+
+
+
+
+View Trip
+
+
+
+
+
+
+17 Jan 2018
+
+Beautiful Cuba
+
+
+
+Beautiful Cuba
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Beautiful Cuba
+
+
+
+
+
+
+
+
+
+8
+
+
+FR1,695
+
+
+FR1,356
+
+
+
+
+View Trip
+
+
+
+
+
+
+18 Jan 2018
+
+Cuba Explorer
+
+
+
+Cuba Explorer
+Havana to Havana
+
+
+
+
+
+
+
+
+
+×
+
+Cuba Explorer
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,625
+
+
+FR1,381
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Cuba trips
+
+
+
+
+
+
+
+
+
+Best of Cuba
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,784
+
+
+
+
+
+Escape to Cuba on an exotic getaway through the sizzling streets of sultry Havana, soak...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beautiful Cuba
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,580
+
+
+
+
+
+Escape to Cuba on an adventure to this exotic Caribbean island and explore the sultry...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Cuba Westbound
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,672
+
+
+
+
+
+Escape to Cuba on an exotic getaway through the sizzling streets of sultry Havana, soak...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba on a shoestring
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR895
+
+
+
+
+
+From the colourful streets of old Havana to the idyllic island life of the Caribbean...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Cuba
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,330
+
+
+
+
+
+Explore laidback Cuba on a two-wheeled round-trip adventure from Havana. Cycle along...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba Sailing Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Set sail across the Caribbean Sea to visit the untouched and idyllic islands of Cuba. A...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Western Cuba
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR922
+
+
+
+
+
+Cuba is made all the more glorious by the fact that it has been relatively unchanged...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba Explorer
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,381
+
+
+
+
+
+Visit Cuba, the emerging Caribbean hotspot, with a 10-day tour from colourful Santiago...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Cuba
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,737
+
+
+
+
+
+Escape to Cuba on an adventure through this exotic Caribbean island to explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Mexico & Cuba
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR2,225
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba Trekking and Beaches
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,108
+
+
+
+
+
+Trek the Sierra Maestra’s best mountain trails on this active adventure across Cuba,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba Family Holiday
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,730
+
+
+
+
+
+Travel to Cuba and uncover the many layers of this intriguing nation. Visit iconic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Mexico & Cuba
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR5,470
+
+
+
+
+
+Embark on an adventure through Mexico and Cuba that spends time in Mexico City, Oaxaca,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba Encompassed
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,725
+
+
+
+
+
+Visit Cuba, the emerging Caribbean hotspot, with a 15-day tour from colourful Santiago...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Cuba Reverse
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,812
+
+
+
+
+
+Escape to Cuba on an adventure through this exotic Caribbean island to explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba & Costa Rica Discovery
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,135
+
+
+
+
+
+Explore the sultry streets of Havana, visit beautiful Cienfuegos and enjoy sizzling...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central America Discovery
+
+
+
+
+
+
+
+
+
+53 Days
+
+
+From
+FR5,540
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Central America
+
+
+
+
+
+
+
+
+
+38 Days
+
+
+From
+FR3,700
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Essence of Central America
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR7,586
+
+
+
+
+
+Marketplaces, waterfalls, Maya ruins – there's a wealth of excitement and beauty to be...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Central America
+
+
+
+
+
+
+
+
+
+65 Days
+
+
+From
+FR6,435
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vintage Cuba
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR895
+
+
+
+
+
+Go back in time on the streets of Cuba on this trip that take you from Havana to Santa...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Cuba tour reviews
+
+
+Our Cuba trips score an average of
+4.65 out of 5
+based on 1121 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Cycle Cuba,
+November 2017
+
+Ben Smith
+
+A fantastic way to visit Cuba and see a side of the country that would be very challenging to arrange on your own. The tour does require a moderate level of fitness given the sometimes challenging riding conditions but it is very well supported with excellent bikes and guides.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Beautiful Cuba,
+October 2017
+
+Dianne and Terry BROOK
+
+Well organised tour with great guide and driver.  Accommodation basic but adequate.  Minimum english spoken so to learn a bit of spanish to enhance your experience.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Cuba trip reviews
+
+Our Cuba trips score an average of
+4.65 out of 5
+based on 1121 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Cuba
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 23, 2017
+
+
+
+Havana have-tos: the experiences you can’t miss...
+
+
+
+
+
+
+Cuba’s capital, with its immense beauty and complexity, offers an invaluable...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+Why you cannot help but fall for Viñales, Cuba
+
+
+
+
+
+
+Viñales stole my heart. From cycling among limestone karsts to horse-riding...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 21, 2017
+
+
+
+A love letter to Havana, a city that taught me...
+
+
+
+
+
+
+There have been many stories written already about La Habana. Mine probably isn’t...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 07, 2017
+
+
+
+What to expect on ‘Hola Cuba’, by Americans who...
+
+
+
+
+
+
+At the end of a recent Hola Cuba trip, I asked a selection of American passengers...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 05, 2017
+
+
+
+Top 6 colorful cities around the world
+
+
+
+
+
+
+We don't want to attribute it solely to the Instagram age, but there's just...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 19, 2017
+
+
+
+Travelling Cuba solo was tough; here’s why it’s...
+
+
+
+
+
+
+If you’re not making friends with the locals, exploring the country in rattling...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 05, 2017
+
+
+
+How Cuba’s culinary scene might surprise even...
+
+
+
+
+
+
+I went into my Intrepid Travel tour thinking it'd be nine days of just eating rice...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 16, 2017
+
+
+
+How the new U.S. Cuba policy changes will...
+
+
+
+
+
+
+Here's what Trump's decision means for U.S. travelers, some options for how you...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 11, 2017
+
+
+
+What a tobacco farmer taught me about the art...
+
+
+
+
+
+
+Watching a fourth generation tobacco farmer roll an organic Cuban cigar became one...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 25, 2017
+
+
+
+What traveling to Cuba taught me about life,...
+
+
+
+
+
+
+When I describe Cuba after returning from my 9-day visit, the first word that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2017
+
+
+
+How we celebrate: Easter traditions around the...
+
+
+
+
+
+
+Whether it’s dressing as Roman soldiers in Costa Rica, following Jesus' footsteps...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 31, 2017
+
+
+
+What happens when you get blissfully lost in...
+
+
+
+
+
+
+The best way to have a real adventure is to rid yourself of expectations and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 22, 2017
+
+
+
+Havana good time: Tips for solo female...
+
+
+
+
+
+
+I love the autonomy of traveling on my own, feeling free to make plans (and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 26, 2016
+
+
+
+Travel season guide: when to visit our...
+
+
+
+
+
+
+Travel. It's all in the timing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 06, 2016
+
+
+
+American travel to Cuba: Q&A; with a local...
+
+
+
+
+
+
+The President just went there. The Rolling Stones just toured. What do improving...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 20, 2016
+
+
+
+The most famous US Presidential trips of all time
+
+
+
+
+
+
+With Obama touching down in Cuba for the first presidential visit in over 50 years...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 10, 2015
+
+
+
+Havana who? 5 reasons Trinidad is Cuba’s real star
+
+
+
+
+
+
+Quick, think of words that best describe Cuba. “Rum”, “cigars”, “Havana” probably...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 17, 2015
+
+
+
+Cuba through an iPhone lens: you’ve never seen...
+
+
+
+
+
+
+Cuba has a reputation for being pretty photogenic, but can an iPhone handle all...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 20, 2015
+
+
+
+Meet the ridiculously talented family that...
+
+
+
+
+
+
+Meet the Bartholomews, aka You Can't be Serious.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2015
+
+
+
+Sandsational: these are the world’s 7 best beaches
+
+
+
+
+
+
+Picking the world’s best beach is a bit like arguing why your favourite colour...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 16, 2015
+
+
+
+The Other Side of Paradise: a literary journey...
+
+
+
+
+
+
+Havana is a hard city to “get.” I think that’s why I like it so much.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 08, 2015
+
+
+
+Five reasons you should be visiting Cuba right now
+
+
+
+
+
+
+Cuba, where there's a Buena Vista Social Club soundtrack to accompany every style...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 08, 2015
+
+
+
+Yes, we’re offering a Cuba trip for Americans....
+
+
+
+
+
+
+If you’re an American who thought you’d never be able to get to Cuba, it’s time to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 01, 2015
+
+
+
+14 things you probably didn’t know about Cuba
+
+
+
+
+
+
+Fidel Castro, vintage Chevrolets, revolution, rum. These are just a few of the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 28, 2015
+
+
+
+10 of the world’s best island getaways: how to...
+
+
+
+
+
+
+It’s the age-old question: if you were stranded on a deserted island, what would...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 19, 2014
+
+
+
+What’s happening in Cuba and what does it...
+
+
+
+
+
+
+A “new chapter” in Cuba-US relations has begun. But what does it mean for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 26, 2014
+
+
+
+I’m on a boat: the Intrepid guide to sailing...
+
+
+
+
+
+
+There are a lot of myths about sailing the high seas, but with Intrepid's handy 5...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Havana
+
+
+
+
+Admire the classic cars and historic buildings of Havana’s Old Town
+
+
+
+
+
+
+Grand Cuba Reverse, 21 days
+
+
+
+
+
+
+
+
+Cuba & Costa Rica Discovery, 16 days
+
+
+
+
+
+
+
+
+Cuba Family Holiday, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Trinidad
+
+
+
+
+Experience Cuban hospitality while on a homestay
+
+
+
+
+
+
+Best of Cuba, 15 days
+
+
+
+
+
+
+
+
+Beautiful Cuba, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Soroa
+
+
+
+
+Travel through the majestic, tree-filled hills of Soroa
+
+
+
+
+
+
+Cycle Cuba, 7 days
+
+
+
+
+
+
+
+
+Beautiful Cuba, 8 days
+
+
+
+
+
+
+
+
+Western Cuba, 7 days
+
+
+
+
+
+
+
+
+
+
+
+Trinidad
+
+
+
+
+Be immersed in the Afro-Cuban rhythms of Trinidad’s music scene
+
+
+
+
+
+
+Best of Cuba Westbound, 15 days
+
+
+
+
+
+
+
+
+Cuba Explorer, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Vinales
+
+
+
+
+Visit Cuba’s famous tobacco farms in Vinales
+
+
+
+
+
+
+Cycle Cuba, 7 days
+
+
+
+
+
+
+
+
+Western Cuba, 7 days
+
+
+
+
+
+
+
+
+Cuba Encompassed, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Maria La Gorda
+
+
+
+
+Relax on the beautiful beaches of Maria La Gorda
+
+
+
+
+
+
+Cuba & Costa Rica Discovery, 16 days
+
+
+
+
+
+
+
+
+Best of Cuba, 15 days
+
+
+
+
+
+
+
+
+Grand Cuba Reverse, 21 days
+
+
+
+
+
+
+
+
+
+
+
+Camaguey
+
+
+
+
+Walk the character-filled streets of colonial Camaguey
+
+
+
+
+
+
+Grand Cuba Reverse, 21 days
+
+
+
+
+
+
+
+
+Cuba Explorer, 10 days
+
+
+
+
+
+
+
+
+Best of Cuba Westbound, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Cienfuegos
+
+
+
+
+Admire the architectural triumphs of Cienfuegos
+
+
+
+
+
+
+Cuba on a shoestring , 8 days
+
+
+
+
+
+
+
+
+Beautiful Cuba, 8 days
+
+
+
+
+
+
+
+
+Cuba Family Holiday, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Baracoa
+
+
+
+
+See the remnants of Cuba’s pirate past in Baracoa
+
+
+
+
+
+
+Best of Cuba, 15 days
+
+
+
+
+
+
+
+
+Grand Cuba, 21 days
+
+
+
+
+
+
+
+
+Best of Cuba Westbound, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Cuba
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Cuba, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bicycle
+
+Set out on the ultimate ride as you cycle through the changing scenery of Cuba. Pass plantations, mountains, national parks and beaches on this energetic and exciting ride of a lifetime.
+
+
+Cycle Cuba
+
+
+
+
+Accommodation in Cuba
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Cuba you may find yourself staying in a:
+
+
+
+
+
+
+
+Homestay
+
+Be welcomed by friendly families while staying with locals in Cuba. Be immersed in the cuisine and customs of the region on these stays that are high on authenticity.
+
+
+Cuba Family Holiday
+
+
+
+
+Cuba holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Havana (population 2.2 million)
+
+Population:
+
+11.4 million
+
+Language:
+
+Spanish
+
+Currency:
+
+CUC
+
+Time zone:
+
+(GMT-05:00) Bogota, Lima, Quito, Rio Branco
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code:
+
++53
+
+
+
+
+
+
+
+
+
+Best time to visit Cuba
+
+
+
+
+
+
+×
+
+Best time to visit Cuba
+
+
+
+
+Cuba's subtropical climate is ideal for travelling, with most places catching the cool trade winds that blow from the coast, giving Cuba pleasant temperatures year round. June, July and August are usually the hottest months, the dry season runs from November to April and the wet season from May to October. Even in the rainy season, downpours are short and heavy and shouldn't hinder travel plans. Tropical storms and hurricanes are more prevalent in September and October but rarely cause problems for travellers.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+With Spanish, African and Creole influences, modern Cuba is home to a fascinating tapestry of cultural influences. This is evident in the music, dance and food that the charismatic Cuban people are happy to share with visitors.
+
+It’s well known that Cubans loves music and dance – with everything from Afro-Cuban rhythms to classic melodies permeating the atmosphere of clubs, bars, restaurants and street corners. The modern arts are also embraced here, with ballet, modern dance and film also rising in popularity, so much so that Havana is now home to many internationally recognised film, literary and music festivals.
+
+Living in a Communist country means Cubans sometimes go without the luxury items that many Westerners take for granted, with certain foods and products not available to the Cuban public. Despite this, special events like birthdays, holidays and marriages are celebrated with gusto, with special foods, music and dance featuring. This love of life is also evident in the street parties, festivals and fiestas that are celebrated throughout the year. Coffee, cigars and rum are consumed freely and people dance with confident grace as the sound of trumpets and guitars fill the air. Visitors to Cuba will soon be enamored with this uniquely infectious way of life and culture, not seen anywhere else in the world.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Cuba typically doesn’t have access to a wide range of ingredients, so your dining experience may not be as varied as you like. Regardless, there are still lots of great treats to savour.
+
+Things to try in Cuba
+
+1. Coppelia Ice Cream
+
+Line up with locals to savour a sweet scoop of Coppelia ice cream. This Cuban institution serves tried and true favourites like chocolate and vanilla as well as exotic favourites mango and coconut.
+
+2. Pastelitos
+
+These small pastries can be either sweet or savoury depending on the filling. Cream cheese, guava and beef are the most popular fillings and make for a cheap, tasty meal on the run.
+
+3. Fritura de Maiz
+
+These deep-fried cheese and cornmeal fritters are a popular street food snack in Cuba and a great choice for vegetarians looking for a meat-free option.
+
+4. Rum
+
+The tipple of choice in Cuba is rum. Savour some Havana Club Rum straight-up, have it mixed up in a minty Mojito or sip on a Cuba Libre.
+
+5. Coffee
+
+Cuban coffee is of legendary quality, so be sure to get your caffeine-hit with a small yet rich cup of black gold.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+This island nation sitting in the Caribbean Sea is home to a diverse range of environments. From rolling hills to tobacco plantations, beaches, coral reefs and tropical rainforests, Cuba holds many of the regions plant and animal species. With more than 20% of the island covered with natural parks, there's much biodiversity here, making it a great place for eco-adventures, hikes, snorkelling and diving.
+
+Large cities like Havana evoke a time gone by. Grand buildings dating back to the 1950s exude a decaying grace not found elsewhere, which makes for great photographs but also makes daily life quite difficult at times. Due to a lack of building materials, new housing and infrastructure is rare, making living conditions quite cramped for Cuban city-dwellers. Rural life offers more space and a quieter pace, but less access to services. Regardless of where you travel in Cuba, the people are generally kind, humble and hospitable in both the big cities and small towns.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Originally inhabited by indigenous people, Christopher Columbus first sighted Cuba in 1492, and later claimed it as a Spanish territory. The Spanish went on to create many settlements around Cuba, which created conflict and warfare between the Spanish settlers and indigenous people. With the establishment of tobacco plantations and other cash crops like sugar cane, Cuba came to rely upon African slaves for labour during the 17th and 18th centuries. Bringing unique customs, music, language and food with them, the African slaves added to the melting pot of cultures already forming in Cuba. Due to Cuba’s rich natural environment and relative prosperity, the island became a prime target for pirates and other foreign invaders. When visiting Cuba today there are a number of fortresses and other historical remnants that act as a reminder of Cuba’s pirate past. After the Spanish-American War, Cuba was handed over to the
+United States
+, which assumed control until 1902, when power was then granted to a Cuban government.
+
+Recent History
+
+Two iconic figures play the largest roles in Cuba’s more recent history. Fidel Castro and Che Guevara are embedded in the national psyche of Cuba, their power and influence pivotal to the Cuban Revolution of 1959. After taking control, Castro soon set out to remove political opponents from the administration and gain control of newspapers, radio and television stations. Relations between the United States and Cuba became strained almost immediately with the US resenting Castro’s takeover and Communist rule. Trade embargoes were put in place after the failed Bay of Pigs invasion. The Cuban Missile Crisis of 1962 added further tension to relations between the US and Cuba, which continues into the present day. Standing alongside Fidel Castro as an equally important political figure, Che Guevara (although Argentinean) holds a very important place in Cuban history. A revolutionary, author, doctor and military leader, Guevara played pivotal roles in the guerrilla campaign leading up to the Cuban Revolution and the defence of the Bay of Pigs, as well as diplomatic relations between Cuba and the Soviet Union, up until his death in 1967. It’s impossible not to notice the reverence and honour held for Guevara when visiting Cuba. Street art, monuments, statues and museums dedicated to the man Cubans simply call ‘El Che’ can be found all over the country.
+
+
+
+
+
+
+
+
+Top 10 Essential Cuba Experiences
+
+
+
+
+
+
+×
+
+Top 10 Essential Cuba Experiences
+
+
+
+
+1. Get into the Groove
+
+Cubans love to dance, so find your rhythm and try some Salsa, Rumba, or Afro-Cuban Conga moves. From open-air street parties to jazz clubs, be sure to revel in the infectious beats and lively atmosphere of Cuba’s legendary nightlife.
+
+2. Meet Cigar-Rolling Superstars
+
+Don’t leave Cuba without seeing the meticulous art of cigar rolling in action. Master rollers prepare cigars delicately by hand, with different shapes, sizes and flavours being created in front of your eyes. Their specialist knowledge and skills are envied by the world.
+
+3. Get to Know a Caribbean Queen
+
+Named after a woman, the warm sun and azure waters of Maria la Gorda beach are made for swimming, diving and snorkelling. With reefs of black coral, hidden grottoes and miles of white sand, this beach is fit for royalty.
+
+4. Meander Along the Malecon
+
+Soak up fresh sea breezes and watch the waves crash against the seawall on a walk along Havana’s Malecon. Wait for sunset when the sun’s golden rays illuminate the faded charm of the buildings that line the boulevard.
+
+5. Catch Up Over a Coffee
+
+Home to many coffee plantations, Cuba knows how to deliver a good brew. Served short, hot, sweet and without milk, cupping a coffee in a Havana café or coffee bar is a great way to get to know the city… and get kudos from the locals.
+
+6. Capture Colourful Streetscapes
+
+Photographers will love snapping the vibrant street art and gritty graffiti found in Cuba’s neighbourhoods. From faded revolution-era murals to modern stencils, there’s plenty of Cuba to capture through a lense.
+
+7. Meet the Music-Makers
+
+Listen to the moving ballads and poetic love songs of guitar-playing Trovadores on the streets of Havana. The roots of modern Cuban music lie in the Trova, so don’t miss catching a performance.
+
+8. Get Your Game On
+
+Chess and dominoes are popular national past-times in Cuba. Watch locals play chess in the park or try to get in on a dominoes match in a coffee house or bar. Sports fanatics should head to a baseball game to see passionate fans get behind their favourite team. The baseball season runs from October to April and games are a low-cost, fun way to absorb Cuban culture and meet locals.
+
+9. Pig Out at a Paladar
+
+Cuba’s small, family-run restaurants, known as paladares, are a great way to experience local hospitality and Cuban home cooking. Some have a fun, 1950s retro vibe, others a more rustic feel, either way paladares offer a chance to experience a slice of homegrown Cuba.
+
+10. Get to Know Che Guavara
+
+From the iconic image of Che located in Revolution Square to the memorial and museum in Santa Clara there are plenty of ways to spend quality time with 'El Che' while in Cuba.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Cuba may not be known for it’s shopping, but look closely and you’ll find lots of unique souvenirs to take home as a reminder of your holiday.
+
+Before heading home, check with your local customs officials to ensure that you are able to import some items back into your home country.
+Australia
+and
+New Zealand
+for example have strict quarantine laws. The United States also has restrictions on the amount of tobacco and alcohol that can be brought back from Cuba.
+
+Things to buy in Cuba
+
+1. Art
+
+Cuba has a keen appreciation of the fine arts, so it’s not hard to find unique artworks by up-and-coming Cuban artists being sold at galleries and markets.
+
+2. Cigars
+
+The cliché is true - cigars are everywhere in Cuba. Be sure to buy authentic cigars from authorised sellers, as fakes are common. Purchasing straight from the factory is usually best.
+
+3. Coffee
+
+Cuban coffee is top quality, so stock up before you leave to enjoy a taste of Cuba from the comfort of your own home.
+
+4. Music
+
+With such a rich, musical heritage, Cuba is a great place to pick up a hand-crafted musical instrument or, if travelling light perhaps a CD.
+
+
+
+
+
+
+
+
+Festivals and events in Cuba
+
+
+
+
+
+
+×
+
+Festivals and events in Cuba
+
+
+
+
+Havana International Jazz Festival
+
+Local and international artists head to Havana every year to become a part of the cool jazz scene. From the impressive Teatro Nacional de Cuba to the city streets, the sweet sounds of jazz infuse the air of Havana during this festival.
+
+Habanos Cigar Festival
+
+Cigar connoisseurs gather each year to celebrate their love of the best cigar in the world - the Habano. With tastings, visits to plantations and factories, master classes and cigar-rolling contests on offer, this festival will intrigue the curious and delight cigar enthusiasts.
+
+Santiago de Cuba Carnival
+
+Watch this historic city come alive with street parades full of vibrant costumes, hot drum rhythms and lively dancers.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Our Man in Havana
+
+Graham Greene
+
+Before Night Falls
+
+Reinaldo Arenas
+
+Broken Paradise
+
+Cecilia Samartin
+
+Take Me with You
+
+Carlos Frias
+
+Adios Havana
+
+Andrew J. Rodriguez
+
+Blessed by Thunder
+
+Flor Fernandez Barrios
+
+Conversations with Cuba
+
+C. Peter Ripley
+
+
+
+
+
+
+
+
+Cuba travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Cuba?
+
+
+
+
+
+
+
+
+
+Tourists of most nationalities require a 'Tourist Card' which is similar to a tourist visa. These can be obtained through travel agents in your home country, or directly from Cuban embassies and consulates. Depending on the airline you are travelling with to Cuba, you may also be able to purchase the tourist card at the airport from the airline on the day of your departure - please check with your airline.
+
+If you are an American citizen, American permanent resident, or hold any type of American Visa, and are considering travelling to Cuba, please refer to the US Department of State Bureau of Consular Affairs website - travel.state.gov - for the latest advice. If flying with a charter airline from Miami, you can purchase your tourist card directly through the charter company. Passengers transiting through a third country can purchase the card at the airport where you connect to Havana. You can also purchase cards in advance through www.cubavisas.com
+
+
+
+
+
+
+
+Is tipping customary in Cuba?
+
+
+
+
+
+
+
+
+
+With most Cubans living modest lifestyles, leaving a tip for good service is a good idea. There is almost always free entertainment in bar and restaurants; the musicians and singers are usually not paid by the venue so we encourage you to tip when you have enjoyed the performance or background rhythms. Restaurant workers, hotel porters, maids and taxi drivers will appreciate a small sum, but be sure to tip in Cuban pesos as foreign currency isn’t easily exchanged in Cuba.
+
+
+
+
+
+
+
+What is the internet access like in Cuba?
+
+
+
+
+
+
+
+
+
+Internet access isn't widespread throughout Cuba but availability is increasing. The internet can sometimes be accessed from government departments and larger hotels, and most recently the main square of most cities now have Wi-Fi accessibility. You will need to purchase an internet card from certain hotels and outlets to sign on to the internet in any location. Please note that the connection may be slow, some websites may be censored and the cost is typically high.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Cuba?
+
+
+
+
+
+
+
+
+
+Your mobile phone may or may not work while in Cuba, depending on what type of phone you have. Before leaving your home country, ensure global roaming is activated with your provider, but be aware that your phone may not get reception due to Cuba having the lowest mobile phone penetration in Latin America.
+
+
+
+
+
+
+
+What are the toilets like in Cuba?
+
+
+
+
+
+
+
+
+
+Public toilets are rare in Cuba, but western-style flushable toilets are available in hotels, bars and restaurants. Bring your own toilet paper and soap as these are rarely provided. Due to the import restrictions, toilet seats can be in high demand so guesthouses may not have this luxury.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Can of soft drink = 1 CUC
+Cup of coffee = 1 CUC
+Cocktail = 3-4 CUC
+Meal in a nice restaurant = 15- 25 CUC
+
+
+
+
+
+
+
+Can I drink the water in Cuba?
+
+
+
+
+
+
+
+
+
+It's not advisable to drink water from the tap in Cuba. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Cuba?
+
+
+
+
+
+
+
+
+
+Some credit cards are accepted in Cuba (Visa and Mastercard are usually more widely accepted), although cards linked to US banking institutions won't be accepted. Debit cards (even Visa debit) generally don’t work either. We recommend you bring multiple cards from different banks to be sure you have access to funds. Ensure you also have enough cash and other forms of payment, as credit cards won’t always be accepted.
+
+
+
+
+
+
+
+What is ATM access like in Cuba?
+
+
+
+
+
+
+
+
+
+ATMs are accessible in large cities like Havana and Santiago, but are rare/non-existent in other parts of Cuba. Please note that you won't be able to use cards that are linked to US banking institutions. Ensure you have other payment options available in case you can’t access an ATM while travelling in Cuba.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Cuba?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey. Proof of travel insurance may be requested at Havana airport by immigration officials. Travellers failing to produce a valid document will be required to purchase a new policy at the airport, before being granted access to Cuba.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Cuba ?
+
+
+
+
+
+
+
+
+
+1 Jan Triumph of the Revolution / Liberation Day
+
+2 Jan New Year Holiday
+
+14 Apr Good Friday
+
+1 May Labour Day
+
+25 Jul National Revolutionary Festival
+
+26 Jul National Revolutionary Festival
+
+27 Jul National Revolutionary Festival
+
+10 Oct Independence Day
+
+25 Dec Christmas
+
+31 Dec Year End Celebration
+
+Please note these dates are for 2017. For a current list of public holidays in Cuba  go to:
+http://www.worldtravelguide.net/cuba/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Cuba
+
+Be considerate of Cuba’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5471 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South Africa Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South Africa tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+South Africa
+
+
+
+The whole ‘country of contrasts’ thing has become a bit of a cliche.
+
+
+But what else do you call a place where (in a three week period) you could happily slalom between penguins waddling on the Cape and lions stalking the bushveld, cinematic coastal switchbacks and burnt Kalahari sand, the oldest wine industry outside Europe and cutting edge fusion cuisine? ‘Contrast’, doesn’t really do South Africa justice. The beauty of a South Africa tour (besides the peace of mind that comes with an expert local guide) is being able to fit so much Africa into so little time. From the Stellenbosch winelands to Kruger, Blyde River and beyond, this is a place where you can take your safari with a side of espresso
+
+
+Top South Africa travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+7 Jan 2018
+
+South Africa Family Safari with teenagers
+
+
+
+South Africa Family Safari with teenagers
+Johannesburg to Johannesburg
+
+
+
+
+
+
+
+
+
+×
+
+South Africa Family Safari with teenagers
+
+
+
+
+
+
+
+
+
+12
+
+
+FR1,770
+
+
+FR1,593
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Vic Falls to Kruger
+
+
+
+Vic Falls to Kruger
+Victoria Falls to Johannesburg
+
+
+
+
+
+
+
+
+
+×
+
+Vic Falls to Kruger
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,175
+
+
+FR1,058
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Kruger to Vic Falls
+
+
+
+Kruger to Vic Falls
+Johannesburg to Victoria Falls
+
+
+
+
+
+
+
+
+
+×
+
+Kruger to Vic Falls
+
+
+
+
+
+
+
+
+
+8
+
+
+FR1,430
+
+
+FR1,216
+
+
+
+
+View Trip
+
+
+
+
+
+
+16 Jan 2018
+
+South Africa: Hike & Bike
+
+
+
+South Africa: Hike & Bike
+Cape Town to Cape Town
+
+
+
+
+
+
+
+
+
+×
+
+South Africa: Hike & Bike
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,850
+
+
+FR1,388
+
+
+
+
+View Trip
+
+
+
+
+
+
+21 Jan 2018
+
+Garden Route Adventure
+
+
+
+Garden Route Adventure
+Durban to Cape Town
+
+
+
+
+
+
+
+
+
+×
+
+Garden Route Adventure
+
+
+
+
+
+
+
+
+
+14
+
+
+FR1,290
+
+
+FR1,161
+
+
+
+
+View Trip
+
+
+
+
+
+
+17 Feb 2018
+
+Kruger & Coast
+
+
+
+Kruger & Coast
+Johannesburg to Durban
+
+
+
+
+
+
+
+
+
+×
+
+Kruger & Coast
+
+
+
+
+
+
+
+
+
+9
+
+
+FR940
+
+
+FR893
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our South Africa trips
+
+
+
+
+
+
+
+
+
+Okavango Experience
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR995
+
+
+
+
+
+Tour through Johannesburg, Maun and Victoria Falls on this trip through South Africa,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Africa Expedition - Kruger Walking Safari
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,200
+
+
+
+
+
+Embark on a South Africa expedition in northern Kruger National Park, hiking the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Southern Africa
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,920
+
+
+
+
+
+Travel to South Africa, Botswana and Zimbabwe and uncover their natural wonders. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kruger
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR975
+
+
+
+
+
+Travel from Zimbabwe to Botswana and South Africa on a real African adventure. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,101
+
+
+
+
+
+Travel to Africa and discover the unique, contrasting lands of Zimbabwe, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger, Coast & Cape
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,010
+
+
+
+
+
+Embark on an African odyssey! Visit South Africa, Swaziland and Lesotho. This tour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Africa Teenage Safari
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,920
+
+
+
+
+
+Enjoy this Teenage Family Adventure, while hiking, canoeing, snorkeling, rafting,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger & Cape Town by Train
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,640
+
+
+
+
+
+Enjoy the African wilds on a safari in Kruger, travel along the breathtaking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger & Cape Town by Train
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,225
+
+
+
+
+
+Enjoy the African wilds on a safari in Kruger, travel along the breathtaking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger & Coast
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR796
+
+
+
+
+
+Travel to Kruger National Park on an out-of-this-world African safari, visit Swaziland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Vic Falls
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,550
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Northbound
+
+
+
+
+
+
+
+
+
+64 Days
+
+
+From
+FR7,920
+
+
+
+
+
+Jump aboard this epic tour from Cape Town to Nairobi. From safaris in Tanzania and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Garden Route Adventure
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,160
+
+
+
+
+
+Visit Africa and travel from Durban to Cape Town. Tour the Hermanus Wine Region, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger & Cape Town by Plane
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,875
+
+
+
+
+
+Enjoy the African wilds on a safari in Kruger, travel along the breathtaking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing Southern Africa
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR6,745
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Southern Africa
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,455
+
+
+
+
+
+Visit Africa and travel through southern Africa's beautiful regions. Visit South Africa...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Namibia Discovery
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,865
+
+
+
+
+
+Crossing the border from Cape Town, South Africa, head towards Windhoek to encounter...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Kruger Camping
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR440
+
+
+
+
+
+Answer the call of the Kruger, South Africa's vast and famous game park that is teeming...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Okavango & Beyond
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,685
+
+
+
+
+
+Travel from Zimbabwe to South Africa via Botswana. The Okavango and Beyond trip is the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger to Vic Falls
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,190
+
+
+
+
+
+Travel from South Africa's capital to Botswana and Zimbabwe, visiting two of southern...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Cape Town
+
+
+
+
+
+
+
+
+
+48 Days
+
+
+From
+FR6,340
+
+
+
+
+
+Explore Africa as you travel from Kenya to Cape Town through Tanzania, Zanzibar, Malawi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,770
+
+
+
+
+
+See Africa encompassed on a tour through Kenya, Uganda, Rwanda, Tanzania, Malawi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Family Safari with teenagers
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,410
+
+
+
+
+
+Take your family to Victoria Falls, Okavango River and Chobe National Park on this teen...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Zanzibar
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR3,870
+
+
+
+
+
+See Africa on this incredible overland adventure from South Africa to Tanzania. Soak up...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Cape Town
+
+
+
+
+
+
+
+
+
+39 Days
+
+
+From
+FR4,390
+
+
+
+
+
+Explore Africa on this wildlife-rich adventure from Tanzania to South Africa. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Kenya
+
+
+
+
+
+
+
+
+
+49 Days
+
+
+From
+FR6,285
+
+
+
+
+
+Explore Africa as you wind your way up from South Africa, through Namibia, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town and Winelands
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR795
+
+
+
+
+
+Travel to South Africa with Intrepid travel to discover the wonders of Cape Town and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active South Africa
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,330
+
+
+
+
+
+Take part in a journey through South Africa's fantastically wild heartland, with hikes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Experience
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR15,955
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls and then onto...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger Experience - Lodge (3 days)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR480
+
+
+
+
+
+Head out into the wilds of Kruger National Park on thrilling game drives. Stay in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Africa Adventure
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR3,215
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger Experience - Lodge (4 days)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR595
+
+
+
+
+
+No holiday to South Africa is complete without a safari in Kruger Park. Spot wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Zanzibar
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR2,580
+
+
+
+
+
+Travel through Botswana to the thundering Victoria Falls and on to to the fragrant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Cape Town and Winelands
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,395
+
+
+
+
+
+Don’t miss a thing on this cycling adventure through the south west of South Africa –...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger Experience - Lodge (5 days)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR715
+
+
+
+
+
+Experience South Africa's Kruger Park and surrounding region on this five-day tour....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Gorillas
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR7,270
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Kenya
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR4,800
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+South Africa tour reviews
+
+
+Our South Africa trips score an average of
+4.61 out of 5
+based on 363 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Kruger, Coast & Cape,
+September 2017
+
+Ian Bowman
+
+Kruger Coast & Cape was an awesome trip full of highlights every day. From seeing unbelievable amounts of animals up close in the Kruger to the amazing landscapes of Drakensberg & Lesotho, no two days were the same. The camp sites are all great and so much is packed in the 3 weeks. Would definitely recommend this trip!
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Kruger & Cape Town by Plane,
+November 2017
+
+Ione Gearing
+
+I would recommend this trip to anyone, especially animal lovers the lodge you stay in is amaking and you get two safaris included with the opportunity to do more - our lodge even organised a night drive for us which was an incredible experience.
+
+Review submitted 24 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+South Africa trip reviews
+
+Our South Africa trips score an average of
+4.61 out of 5
+based on 363 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on South Africa
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+Calling all explorers: 5 uncharted adventures...
+
+
+
+
+
+
+On the hunt for your next big out-there adventure? These might make your decision...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 13, 2017
+
+
+
+6 reasons why South Africa is a destination...
+
+
+
+
+
+
+If you thought it was simply your one stop shop for safari, it's time to think...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 25, 2017
+
+
+
+Want to visit Lonely Planet’s 2018 Best in...
+
+
+
+
+
+
+Looking for adventure in 2018? Look no further.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+The top destinations for travel in December
+
+
+
+
+
+
+Whether you’re in the mood for mulled wine and Christmas markets or in need of a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 23, 2017
+
+
+
+5 LGBTQI-friendly travel destinations you might...
+
+
+
+
+
+
+For years, LGBTQ travellers have flocked to the usual suspects of queer-friendly...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 15, 2017
+
+
+
+A language guide for Southern Africa
+
+
+
+
+
+
+Learning a few words in the local language will gain you a lot of respect. So to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 04, 2017
+
+
+
+Cape Town: two cities, one mountain
+
+
+
+
+
+
+Stunningly beautiful, cosmopolitan and vibrant, Cape Town seems to have it all....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 05, 2017
+
+
+
+Faces of Cape Town: A day tour with a difference
+
+
+
+
+
+
+As our white SUV swings around the corner and begins the steep drive into Imizamo...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 08, 2016
+
+
+
+10 cool spots to visit in Cape Town
+
+
+
+
+
+
+In case you need more convincing, check out our top 10 cool spots to visit in Cape...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 26, 2016
+
+
+
+Flying solo on a South Africa group tour
+
+
+
+
+
+
+This 9-day overland tour, from the game parks of Kruger, through Swaziland and the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 10, 2016
+
+
+
+Blood Lions: The real story behind lion walks...
+
+
+
+
+
+
+There are currently thousands of lions and other predators being held in captivity...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 14, 2014
+
+
+
+Five of our favourite Christmas foods from...
+
+
+
+
+
+
+It doesn’t really matter where you’re from, it wouldn’t be Christmas without good...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 11, 2014
+
+
+
+8 African snacks you’ve just got to try
+
+
+
+
+
+
+In Africa, most action takes place on the streets and roadsides – people hawking...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South Africa travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Durban
+
+
+
+
+Catch some sun on the golden beaches of Durban
+
+
+
+
+
+
+Kruger & Coast, 9 days
+
+
+
+
+
+
+
+
+Kruger, Coast & Cape, 22 days
+
+
+
+
+
+
+
+
+Garden Route Adventure, 14 days
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg
+
+
+
+
+Feel the buzz of urban Africa in Johannesburg
+
+
+
+
+
+
+Kruger & Cape Town by Train, 11 days
+
+
+
+
+
+
+
+
+Explore Southern Africa, 18 days
+
+
+
+
+
+
+
+
+
+
+
+Cape Town
+
+
+
+
+Be captivated by the beautiful landscapes of Cape Town
+
+
+
+
+
+
+Kruger & Cape Town by Train, 11 days
+
+
+
+
+
+
+
+
+Cycle Cape Town and Winelands, 12 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in South Africa
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in South Africa, you may find yourself travelling by:
+
+
+
+
+
+
+
+Overland Vehicle
+
+Journey through some of the world’s most famous national parks aboard a customised safari vehicle, specifically designed to enhance wildlife viewing opportunities – you won’t miss a thing.
+
+
+Kruger, Coast & Cape
+
+Kruger & Coast
+
+Vic Falls to Kruger
+
+
+
+
+Accommodation in South Africa
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in South Africa you may find yourself staying in a:
+
+
+
+
+
+
+
+Homestay
+
+Experience the ultimate in African hospitality while staying with a local family in Zululand. Pick up some local language, be exposed to new customs and sample traditional cuisine on a homestay to remember.
+
+
+Kruger, Coast & Cape
+
+Kruger & Coast
+
+
+
+
+South Africa holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Pretoria (official, population 1 million); Bloemfontein (judicial, population 370,000); Cape Town (legislative, population 2.9 million)
+
+Population:
+
+49 million
+
+Language:
+
+Afrikaans, English, Ndebele, Xhosa, Zulu, Sotho, Tswana, Swati, Tshivenda, Tsonga, North Sotho
+
+Currency:
+
+ZAR
+
+Time zone:
+
+(GMT+02:00) Harare, Pretoria
+
+Electricity:
+
+Type M (see D)
+
+Dialing code:
+
++27
+
+
+
+
+
+
+
+
+
+Best time to visit South Africa
+
+
+
+
+
+
+×
+
+Best time to visit South Africa
+
+
+
+
+South Africa is an excellent year-round destination. Winters are mild, dry and good for wildlife viewing. Summers can get very hot and humid, but are a great time for visiting beaches and festivals. Spring is a great time for viewing wildflowers in the Northern and Western Cape provinces, and very little rain falls anywhere in autumn but the days are warm and the nights cool. Overall, there’s always a good time to head to South Africa.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+South Africa’s culture is one of the most diverse in the world. From indigenous tribes like the Zulu, San Bushmen and Xhosa to the Afrikaners of Dutch heritage, and immigrants of British descent, visitors will be able to experience a magnificent melting pot of customs and traditions. The significant Indian and Jewish populations also add to the ethnic mix. From the proud, beaded Zulu warriors that have inhabited the land for centuries to newly arrived immigrants from
+Europe
+and
+Asia
+, South Africa’s culture has been shaped by millions of people.
+
+The cuisine is generally a combination of Indian, Dutch, English and tribal flavours and techniques, while dress can range from modern fashion in the big cities to simple traditional, tribal dress in the bush. Although South Africa has made significant inroads towards peace and reconciliation since the end of apartheid, racial tensions are sometimes evident and it is generally best not to contribute to this in any way. Overall, most travellers will find South Africans to be welcoming, appreciative of your visit and ready to share their homeland and stories.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Things to try in South Africa
+
+1. Wine
+
+South Africa is fast becoming one of the most interesting wine producing regions in the world. Quality has risen steeply in the past decade so if you’re visiting the Stellenbosch Wine Region, be sure to sample some fine reds, which are world-class.
+
+2. Seafood
+
+With such easy access to the Indian Ocean and Southern Atlantic, South Africa boasts some of the best seafood dining experiences you’ll ever have. From an indulgent oyster platter at a Cape Town restaurant to a spicy seafood curry in Durban, the seafood here is fresh, cheap and flavoursome.
+
+3. Biltong
+
+Biltong tends to divide people. Some find this preserved, spiced meat snack impossible to refuse and others simply can’t stomach it. Either way, it’s extremely popular and readily available in markets, supermarkets and shops throughout South Africa.
+
+4. Boerewors
+
+Another one for the meat-lovers, this coiled, spicy sausage is a South African delicacy best done on the barbecue. Flavoured with coriander, cloves and nutmeg, this is a meat born from South African and Dutch traditions.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+South Africa showcases one of the most diverse and stunning natural environments in the world. Visitors are able to soak up golden rays on sun-drenched beaches, journey through acre upon acre of dry savannah, admire lush, green meadows, walk through tropical forest and stop to take in views of wide, ancient canyons. It’s also possible to stroll the streets of an urban city one day and meander along a dirt track passing small farms and villages the next. South Africa truly is a land of contrasts and this begins with the landscapes and environment.
+
+Located on the tip of Southern Africa, South Africa shares land borders with Botswana, Mozambique, Namibia, Zimbabwe, Lesotho and Swaziland. It also shares a long stretch of coastline with the Indian and South Atlantic Oceans. The topography of the land changes remarkably around the country, from the lofty plateaux of the inland region to the low-lying coast and mountainous ranges of the Cape. This variance in topography makes South Africa rich in many species of flora and fauna, something that attracts many tourists and travellers from all over the world.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The land of South Africa has been inhabited for centuries by tribes hailing from different areas of the African continent, including the San and Bantu people. Most tribes relied on hunting and gathering, but gradually were introduced to agriculture and animal husbandry over the years. From around 1200 AD, the tribal people of South Africa started to become influenced by outsiders, including Muslim traders, the Portuguese and the Dutch, who established a settlement in the mid 1600s.
+
+The Dutch continued to dominate the country until the 1800s, when the British became interested in the Cape Colony. During this time, the native population had become increasingly dissatisfied with being marginalised and treated poorly by their European colonisers. Many native people were used as slaves on plantations and were treated brutally by their ‘employers’ and many resented losing their land, culture and traditional way of life. Further to this, the Dutch descendants (known as Boers) didn’t appreciate the arrival of the British in a territory they had inhabited for years before their arrival. This frustration and anger regularly resulted in confrontation and armed conflict between the British, Boers and Zulus, culminating in a series of wars – most notably the Boer Wars.
+
+Recent History
+
+More recently, South Africa has managed to overcome the Apartheid era, a time where discrimination of black people was legalised. Until 1994, black people were unable to legally own land or vote in elections. Further to this, education, healthcare, beaches and public places like cinemas were segregated. During this time, South Africa was ruled and controlled by the white minority, much to the dissatisfaction of the black population and ultimately, the world. After much international pressure and many attempts at reform, the Apartheid era was finally ended in 1994, with Nelson Mandela stepping up to lead the nation as President. Due to this challenging history, modern day South Africa has many social issues to work on and resolve, but many of its people are filled with hope and optimism. In 2010, South Africa successfully hosted the FIFA World Cup, much to the delight of its citizens and the world.
+
+
+
+
+
+
+
+
+Top 10 Places of South Africa
+
+
+
+
+
+
+×
+
+Top 10 Places of South Africa
+
+
+
+
+Top 10 Photo-Worthy Places of South Africa
+
+1. Drakensberg Mountains
+
+Use your wide-angle lens to capture the majestic Drakensberg Mountain Range in all its panoramic glory. This impressive mountain range is the highest in Southern Africa and provides a wide and wonderful scope for impressive postcard-worthy shots.
+
+2. Stellenbosch
+
+Rolling green pastures, vineyards and orchards combine to create classic photo moments straight out of a guidebook. This cultured and charming area showcases a different side to South Africa, and will no doubt have people guessing where your photo was taken.
+
+3. Knysna
+
+This quaint seaside town located on South Africa’s Garden Route is one of the most photogenic in Africa. Whether you’re snapping the boats in the harbour, the dolphins frolicking in the waves or the wild and rocky coast, it’s hard not to snap Knysna in a good light.
+
+4. Soweto
+
+Fans of street art will love capturing the murals and memorials of spirited Soweto. The gritty urban landscapes and candid faces make it simple to capture the soul of this endearing, inspiring community.
+
+5. Cintsa
+
+This gem of the South African Coast has retained a village atmosphere despite its growing popularity with tourists. The beaches, bays and rock pools provide sensational photography moments, especially at dawn and dusk when the sun gives off incredible, moody light.
+
+6. Cape Town
+
+Easily one of the most picturesque cities in the world, Cape Town has some of the most photo-worthy landscapes in the world. From breathtaking Table Mountain to the stunning coast and beautiful beaches, Cape Town has profound natural beauty coming at you from every angle.
+
+7. Durban
+
+Sure, Durban’s beaches are special but the interesting mix of Indian, Muslim, African and European influences makes for great photography. Durban’s cultural cornucopia of markets, mosques and galleries offers rich fodder for snap-happy travellers looking to capture a different side of Africa.
+
+8. Lamberts Bay
+
+The tremendously large colony of Cape Gannet birds who live off Lamberts Bay is often photographed - and with good reason. The sight of hundreds of birds tightly packed into a small space against a backdrop of azure ocean provides a unique, snap-worthy photo subject.
+
+9. Blyde River Canyon
+
+This canyon is every bit as stunning as America’s Grand Canyon, yet in a different way. Lush greenery grows over most of the area and a diverse range of animal and plant life is supported within its deep cliffs and valleys. It’s difficult to take a bad photo here, as Mother Nature has kindly provided a near perfect canvas.
+
+10. Kruger National Park
+
+This iconic national park has some of the ‘most-photographed’ animals in the world. Visitors love capturing shots of lions hunting prey, elephants drinking at waterholes and cheetahs sleeping under trees. Mesmerising amber sunsets and rolling savanna only add to the atmospheric magic of it all.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+From the provincial markets of sleepy towns, through the malls of Johannesburg and to the galleries and cafes of Cape Town, there are many options for parting with money in South Africa. From budget market souvenirs to more indulgent bespoke buys, visitors will be pleased with the variety on offer here.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in South Africa
+
+1. Zulu Beads
+
+Zulu beadwork acts as a form of communication for Zulu people but visitors are usually drawn to buy beads for their vibrancy and visual appeal. Necklaces, bracelets and head pieces are particularly popular.
+
+2. Township Art
+
+This urban art form involves recycling common landfill items like soft drink cans, telephone wire, paper and tyres, and turning them into jewellery, ornaments, key rings, bags and toys. Township art makes a unique souvenir or gift as it supports local artists and keeps excess waste out of landfill.
+
+3. Gourmet Goodies
+
+The Cape area has loads of amazing providores and food producers, so this is the best place to stock up on chutneys, jams and preserves made from local mango, fig, oranges and grapes.
+
+4. Rooibos Products
+
+This caffeine-free herbal tea has been drunk in South Africa for generations, and is a cheap souvenir option for friends and family back home. You will also be able to find rooibos skincare and beauty products too
+
+
+
+
+
+
+
+
+Festivals and Events
+
+
+
+
+
+
+×
+
+Festivals and Events
+
+
+
+
+Freedom Day
+
+This national public holiday commemorates the anniversary of South Africa’s constitution democracy – a very important sentiment to Africans living in the post-apartheid world. Marked by military flyovers, song, dance and other entertainment, this is a time of celebration, peace and unity.
+
+Cape Town Jazz Festival
+
+Cape Town shines with two days of hot jazz performances from African entertainers at this very popular festival. Although many of the shows sell out well in advance, the free outdoor concert ensures no one misses out.
+
+Knysna Oyster Festival
+
+This annual festival held over 10 days in winter offers so much more than oysters. Sure, indulge in some oysters but don’t forget about the fun runs, marathons, wine tastings, eating competitions, live music and cooking demos.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Disgrace
+
+JM Coetzee
+
+Long Walk to Freedom
+
+Nelson Mandela
+
+Cry, The Beloved Country
+
+Alan Paton
+
+Welcome to Our Hillbrow
+
+Phaswane Mpe
+
+The Pick Up
+
+Nadine Gordimer
+
+
+
+
+
+
+
+
+South Africa travel FAQs
+
+
+
+
+
+Do I need a visa to travel to South Africa
+
+
+
+
+
+
+
+
+
+SOUTH AFRICA:
+
+Australia: No visa required
+Belgium: No visa required
+Canada: No visa required
+Germany: No visa required
+Ireland: No visa required
+Netherlands: No visa required
+New Zealand: No visa required
+Switzerland: No visa required
+United Kingdom: No visa required
+USA: No visa required
+
+Citizens of the above countries do not need visas to visit South Africa as a tourist for up to three months. Citizens of all other countries should check with the relevant consulates as to whether a visa is required.
+
+Entry Requirements – Passports:
+Please note that non-machine readable passports are no longer accepted by South African immigration. All visitors to South Africa must have a machine readable travel document (e-passport). Failure to present an e-passport will result in denied entry. Passengers with a valid visa issued in a non-machine readable passport will be handled on a case by case basis, but a fine will still be applicable.
+
+Entry Requirements - Yellow Fever Certificate:
+A valid Yellow Fever Vaccination Certificate is required for all passengers over one year of age who arrive or are transiting through South Africa, from a country or region listed by the World Health Organization as infected by yellow fever. Travellers unable to present a valid yellow fever vaccination certificate issued at least 10 days before arrival in South Africa will be refused entry. There is no option for travellers without a vaccination certificate to be vaccinated on arrival. Please note this also includes transiting through an infected country or region.
+
+Entry Requirements - Travelling with Children:
+Parents need to produce an original unabridged birth certificate if they are travelling with children. This regulation has been put in place to protect children from being abducted, kidnapped and child trafficking. The Department of Home Affairs has urged all parents to apply for unabridged certificates for their children. Additionally, further documentation including permission to travel, may be required if only one parent is travelling. These are requirements of the immigration regulation 6 (12)(a) for parents travelling with children. More information can be found here:
+http://www.dha.gov.za/index.php/civic-services/traveling-with-children
+
+We recommend travellers check all entry and visa requirements before travel as they can change.
+
+
+
+
+
+
+
+Is tipping customary in South Africa?
+
+
+
+
+
+
+
+
+
+It's considered polite to tip service workers in South Africa, as most receive a small wage. As a general rule, add 10-15% to bills at cafes, bars and restaurants (if it hasn’t already been added). Tour guides, drivers, valets and porters also should be tipped (5-10 ZAR should be sufficient).
+
+
+
+
+
+
+
+What is the internet access like in South Africa?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access the internet quite easily in the internet cafes of South Africa’s large cities but limited to no access should be expected in rural areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in South Africa?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is very good in South Africa’s large cities and towns, but less so in rural and mountainous areas. Ensure you have global roaming activated before leaving home if you wish to use your mobile phone. However a cheaper option may be to buy a sim card at the airport and purchase a plan with both calls and data.
+
+
+
+
+
+
+
+What are the toilets like in South Africa?
+
+
+
+
+
+
+
+
+
+South Africa is modern country with mostly flushable toilets. However, areas like national parks and villages may have squat toilets.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Can of soft drink = 6 ZAR
+Coffee in a cafe = 12 ZAR
+Beer in a bar = 15 ZAR
+Simple takeaway meal = 30 ZAR
+Bottle of wine = 30 ZAR
+Three-course restaurant meal = 300 ZAR
+
+
+
+
+
+
+
+Can I drink the water in South Africa?
+
+
+
+
+
+
+
+
+
+Tap water can be drunk in South Africa’s cities, however drinking tap water in rural areas isn't recommended. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found, some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in South Africa?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by large hotels, modern shops and western-style restaurants but not by smaller vendors. Ensure you have adequate cash to cover purchases not able to be made on credit.
+
+
+
+
+
+
+
+What is ATM access like in South Africa?
+
+
+
+
+
+
+
+
+
+There are many ATMs in the big cities and regional towns of South Africa. Rural areas, national parks and small villages will have limited to no ATMs, so be sure to carry other payment options before travelling out of the big cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in South Africa?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in South Africa?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan Public Holiday
+
+21 Mar Human Rights Day
+
+14 Apr Good Friday (Friday before Easter Sunday)
+
+17 Apr Family Day (Monday after Easter Sunday)
+
+27 Apr Freedom Day
+
+1 May Workers' Day
+
+16 Jun Youth Day
+
+9 Aug National Women's Day
+
+24 Sep Heritage Day
+
+25 Sep Public Holiday
+
+16 Dec Day of Reconciliation
+
+25 Dec Christmas Day
+
+26 Dec Day of Goodwill
+
+Please note these dates are for 2017. For a current list of public holidays in South Africa go to:
+http://www.worldtravelguide.net/south-africa/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for South Africa
+
+Be considerate of South Africa’s customs, traditions, religions and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+Avoid purchasing ivory and products harvested from endangered animals.
+
+Be sensitive towards South Africa’s fragile political and social history when talking with locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+
+
+
+
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

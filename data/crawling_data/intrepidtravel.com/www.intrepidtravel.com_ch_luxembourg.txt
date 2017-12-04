@@ -1,0 +1,3115 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luxembourg Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luxembourg tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Luxembourg
+
+
+
+Size aside, it’s pretty hard to fault Luxembourg One of the teeniest nations on the European map, this landlocked nation enjoys some of the highest living standards in the world – something which becomes rapidly apparent on arrival.
+
+
+Fly into Luxembourg City and you’ll be greeted by a capital that effortlessly blends the architectural romances of old-world
+Europe
+with the latest in urban conveniences. Enter the country by land and you’ll be presented with evergreen meadows, languidly flowing canals and stately cliff-top castles. Then there’s a hearty national cuisine to tuck into, a steaming nightlife to check out and elegant town plazas to wile away the hours in – and all squeezed into a plot of land less than 1,600 square kilometres. It just goes to show, size certainly isn’t everything.
+
+
+Our Luxembourg trips
+
+
+
+
+
+
+
+
+
+Madrid to Venice
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,650
+
+
+
+
+
+Elaborate architecture and exceptional cuisine, legendary landscapes and live history...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Berlin
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,910
+
+
+
+
+
+Packed with historical, culinary and artistic attractions, this journey from Barcelona...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,810
+
+
+
+
+
+Visit Spain, France, Germany, the Czech Republic and Italy on this epic journey that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Berlin
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,770
+
+
+
+
+
+Jump aboard a colourful adventure from Madrid to Berlin. Tour through beautiful beaches...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Venice
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR4,700
+
+
+
+
+
+Travel through numerous European countries starting in Spain and France, through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Rome
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,760
+
+
+
+
+
+Embark on an all-European adventure from Madrid  to Rome, stopping off in the grand...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Luxembourg travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Musée d'Histoire de la Ville de Luxembourg
+
+
+
+
+Brush up on Luxembourg history at the Musée d'Histoire de la Ville de Luxembourg
+
+
+
+
+
+
+Madrid to Berlin, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Travel by train
+
+
+
+
+Zip through the country’s verdant countryside by train
+
+
+
+
+
+
+Barcelona to Berlin, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Luxembourg Old Town
+
+
+
+
+Amble through Luxembourg City’s UNESCO World Heritage-listed Old Town
+
+
+
+
+
+
+
+
+
+
+Luxembourg holiday information
+
+
+
+
+Best time to visit Luxembourg
+
+
+
+
+
+
+×
+
+Best time to visit Luxembourg
+
+
+
+Luxembourg’s terrain varies considerably from north to south, and the weather accordingly. The northern one-third of the country, which forms part of Ardennes, is known as Oesling and the southern two-thirds Gutland. Summer (May to September) is the best time to visit, when the weather is at its warmest and driest, although rain does still fall across both regions throughout the year. On the whole, Oesling is slightly cooler and wetter than Gutland. Autumn can also be a good time to visit the north, as this is when the leaves turn and the carpet of autumn colours are breathtaking.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Luxembourg City
+
+Population:
+
+515,000
+
+Language:
+
+Letzebuergesch, German, French
+
+Currency:
+
+EUR
+
+Time zone:
+
+(GMT+01:00) Brussels, Copenhagen, Madrid, Paris
+
+Electricity:
+
+Type C (European 2-pin)
+
+Dialing code:
+
++352
+
+
+
+
+
+
+
+
+
+Further Reading
+
+
+
+
+
+
+×
+
+Further Reading
+
+
+
+Title
+
+Author
+
+How to Remain What You Are
+
+George Muller
+
+The Longest Winter: The Battle of the Bulge and the Epic Story of WWII’s Most Decorated Platoon
+
+Alex Kershaw
+
+Secrets of the Seven Smallest States of Europe: Andorra, Liechtenstein, Luxembourg, Malta, Monaco, San Marino and Vatican City
+
+Thomas M Eccardt
+
+
+
+
+
+
+
+
+
+Top 5 castles
+
+
+
+
+
+
+×
+
+Top 5 castles
+
+
+
+1. Bock Casemates/Luxembourg Castle
+
+Bock Casemates, in the centre of the capital, is where the country’s obsession with castles all began. Built by Count Siegfried back in AD 963, it inspired the development of Luxembourg City and was deemed so well fortified that it became known as the ‘Gibraltar of the North’. In 1867, as part of the conditions for the country’s independence, the demolition of the fort was ordered – an unfortunate edict that cost 16 years and 1.5 million gold francs. Fortunately some of the casemates and gates couldn’t be blown up without also destroying parts of the city, so there’s still 17 km of real-deal tunnels and staircases to wander through.
+
+2. Beaufort Castle
+
+This castle, which boasts an impressive moat, dates from the 11th century and is particularly interesting for the various renovations and extensions that its succession of owners have made. Passing from the Beauforts to the Orleys to the Velbrucks, the castle had to be sold following destruction incurred during the Thirty Year War (1618–48) and Johann Baron von Beck came out as the successful bidder. Governor of the province of Luxembourg on behalf of the Spanish King, von Beck ordered its revamping in the Renaissance style that was all the rage at the time before expiring from battle injuries. Passing into his son’s hands, the castle fell into disrepair and even served as a quarry for a time until Henri Even and Joseph Linckels, evidently thinking it deserving of greater glory, painstakingly restored it.
+
+3. Vianden
+
+Built between the 11th and 14th centuries, Vianden Castle features Gothic, Renaissance and Romanesque style architecture and exists as one of the largest fortified castles west of the Rhine. As is generally the fate of all Luxembourg’s castles at some stage, the castle fell into disrepair from the 17th century, helped none by a buyer’s decision to rip off and sell its tiles, windows, doors and furniture. Restoration began seven years later when the King bought Vianden back, and these days the castle ranks as one of Europe’s most important historical monuments.
+
+4. Esch-sur-Sûre
+
+Relatively small and modest in comparison to many of Luxembourg’s other castles, Esch-sur-Sûre is cleverly constructed on a neat bend of the River Sûre. The fortress is really only approachable from one direction – which rendered it pretty difficult to attack. A charming little town soon sprung up around it, and strolling along its riverside boulevards by evening with the illuminated ruins in the background makes for a very pleasant experience indeed.
+
+5. Wiltz Castle
+
+Don’t be thinking Luxembourg’s castles are all just about history, rubble, lords and dungeons – because there’s also Wiltz. Sure, the castle’s past may follow the usual tune – built, defended, defeated, deteriorated, restored – but nowadays it plays host to an annual music festival and houses the National Museum of Brewing. So when it comes to sheer coolness, you could probably say that Wiltz is king of the castles.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+About LUXEMBOURG
+
+Luxembourg as we now know it began in AD 963 when Siegfried, the Count of Ardennes, obtained sovereignty over a promontory called the Bock and had Lucilinburhuc Castle built. Enticed by the security this impressive fortification appeared to offer, migrants flocked in and a city grew (the ruins of Lucilinburhuc Castle can still be seen in Luxembourg City). Unfortunately the fortifications were also the envy of many a surrounding empire, and the population had to endure centuries of military invasions by jealous foreign armies looking to bolster their own strongholds. Successively occupied by the Bourbons, Habsburgs, Hohenzollerns and French, Luxembourg was finally granted its independence in 1867 in the Treaty of London (at the stipulated cost of having its fortifications demolished). Down a castle and with swathes of the country’s fertile lands having been usurped by Belgium over the years, the country diversified its economy and developed into an attractive haven for squillionaires who subscribe to the belief that paying tax sucks.
+
+As well as regularly ranking as one of the world’s richest and safest countries, Luxembourg is the globe’s only remaining Grand Duchy. What this means on the ground is that executive power over parliament rests with Grand Duke Henri – who looks exactly like what one would imagine a Grand Duke would – and his ministers. Admirably cognisant of the fact they have things pretty good, Luxembourg and its nationals are happy to share their good fortune and host the highest proportion of immigrants in the EU.
+
+
+
+
+
+
+
+Luxembourg travel FAQs
+
+
+
+
+
+Is tipping customary in Luxembourg?
+
+
+
+
+
+
+
+
+
+Bars and restaurants will often add a 15% service charge to the bill. If you believe the service you received was particularly good, feel free to throw in a few more Euros (this goes for hotel staff too). Higher-end restaurants will likely expect an additional 10% tip, as will taxi drivers.
+
+
+
+
+
+
+
+What is the internet access like in Luxembourg?
+
+
+
+
+
+
+
+
+
+There are only a few internet cafes in Luxembourg, but plenty of hotels and cafes have Wi-Fi (and it’s often free).
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Luxembourg?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage in Luxembourg is excellent and roaming agreements exist with most international mobile networks.
+
+
+
+
+
+
+
+What are the toilets like in Luxembourg?
+
+
+
+
+
+
+
+
+
+Toilets in Luxembourg are western-style and flushable.
+
+
+
+
+
+
+
+What will it cost for a:
+
+
+
+
+
+
+
+
+
+Cappuccino in a café = 3 Euro
+Beer at a bar = 4 Euro
+Meal at an inexpensive restaurant = 18 Euro
+Three-course meal for two at a mid-range restaurant = 75 Euro
+
+
+
+
+
+
+
+Can I drink the water in Luxembourg?
+
+
+
+
+
+
+
+
+
+Yes, the tap water in Luxembourg is perfectly safe to drink.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Luxembourg?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores and hotels in Luxembourg. Smaller cafes and shops may not accept credit cards, or have a minimum spend, so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Luxembourg?
+
+
+
+
+
+
+
+
+
+ATMs are common and easily found throughout Luxembourg.
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Luxembourg
+
+1. Be considerate of Luxembourg’s customs, traditions, religion and culture.
+
+2. Luxembourgers are very proud of their country’s unique identity. Do not lump them together with the French, Germans of Belgians or refer to Luxembourgish as a dialect of another language.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with the tap water.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+6. Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

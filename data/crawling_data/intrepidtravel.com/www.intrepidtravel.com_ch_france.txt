@@ -1,0 +1,5222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+France Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+France tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+France
+
+
+
+Where else in the world can you find such a high concentration of classic art, celebrated architecture, stylish boutiques, award-winning restaurants, chic galleries and world-class wineries?
+
+
+Home to culinary icons, influential artists, political masters and fashion greats, France is a captivating, enriching place to visit – be beguiled by the passion, spirit and irrepressible essence of France.
+
+
+Our France trips
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy - Chatillion sur Loire - Decize
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,740
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,460
+
+
+
+
+
+Set sail across the clear blue waters of Sardinia, exploring rugged coastlines, wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rome to Paris
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,325
+
+
+
+
+
+Take an epic tour through the heart of Italy, Switzerland and France. Visit ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Provence
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,650
+
+
+
+
+
+This cycling tour through Provence, visiting Avignon, Orange, St Remy and Arles, is the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Rome
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,235
+
+
+
+
+
+Travel through three of Europe's most enchanting countries. Visit Spain, head through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Venice
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,650
+
+
+
+
+
+Elaborate architecture and exceptional cuisine, legendary landscapes and live history...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cote d'Azur Sailing Adventure - Marseille to Nice
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,471
+
+
+
+
+
+Sail from Marseille to Nice along France's gorgeous Cote d'Azur. Stop in at the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cote D'Azur Sailing Adventure - Nice to Marseille
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,471
+
+
+
+
+
+Embrace Mediterranean life while sailing along the French Riviera, taking in the high...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Experience life at a different pace on this peaceful and relaxing drift down the Canal...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the French Alps
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,575
+
+
+
+
+
+Cycle the French Alps with Intrepid, conquering some legendary Tour de France routes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy- Decize - Chatillion sur Loire
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Homps to Castelnaudary)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Experience life at a different pace on this peaceful and relaxing drift down the Canal...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Berlin
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,910
+
+
+
+
+
+Packed with historical, culinary and artistic attractions, this journey from Barcelona...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy - Chatillion sur Loire - Decize
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Paris to Madrid
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Travel through France and Spain, exploring the delights of Paris, going on a wine tour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of France
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR3,075
+
+
+
+
+
+This Highlights of France tour, from Paris to Aix-en-Provence, will have you...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,810
+
+
+
+
+
+Visit Spain, France, Germany, the Czech Republic and Italy on this epic journey that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+France & Spain
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR5,515
+
+
+
+
+
+Jump aboard a colourful adventure from Paris to Barcelona. Tour through France's wine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Berlin
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,770
+
+
+
+
+
+Jump aboard a colourful adventure from Madrid to Berlin. Tour through beautiful beaches...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Venice
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR4,700
+
+
+
+
+
+Travel through numerous European countries starting in Spain and France, through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Paris to Marrakech
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR5,150
+
+
+
+
+
+Travel to France, Spain, Portugal and Morocco on a trip from Paris to Marrakech. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Rome
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,760
+
+
+
+
+
+Embark on an all-European adventure from Madrid  to Rome, stopping off in the grand...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Provence & Tuscany
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,075
+
+
+
+
+
+This cycling tour through Provence and Tuscany, from the perfect blend of scenic trail...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+France tour reviews
+
+
+Our France trips score an average of
+4.88 out of 5
+based on 74 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps),
+June 2017
+
+Maryanne Wallace
+
+Can't recommend Intrepid highly enough.  I usually travel solo (my preference!) and every trip sees the participants all getting along very well together.  I guess that is because Intrepid travelers are of like minds.  Leaders are always full of enthusiasm and their local knowledge is what appeals to me.  I travel to get involved in local cultures and customs and the Leaders' insights are perfect for this.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Berlin,
+September 2017
+
+Jeff Shepherd
+
+Fabulous. Too many highlights. Thousands of photos.
+People for the benefit of your fellow travellers please do not ignore trip notes advising backpacks preferred luggage. Pack light.
+
+Review submitted 21 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+France trip reviews
+
+Our France trips score an average of
+4.88 out of 5
+based on 74 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on France
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 27, 2017
+
+
+
+Trip or treat? Our spookiest adventures from...
+
+
+
+
+
+
+With Halloween fast approaching, things are getting eerie at Intrepid. Here are...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+5 European day hikes everyone should experience
+
+
+
+
+
+
+Europe’s varied geography lends itself to hundreds of day walks that require...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 05, 2017
+
+
+
+A local’s guide to the hidden gems of Paris
+
+
+
+
+
+
+We all know the Eiffel Tower and the Champs-Elysées, but discovering lesser-known...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 17, 2017
+
+
+
+5 beautiful islands in Europe you haven’t...
+
+
+
+
+
+
+There's nothing we love more than the small towns, coastal views, and endless...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 16, 2017
+
+
+
+We rank the 7 best breakfasts in Paris
+
+
+
+
+
+
+If you’re after something a little more nourishing than a croissant (or simply...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 10, 2017
+
+
+
+6 cities in France to visit before everyone...
+
+
+
+
+
+
+There's just so much more to France than its capital, Paris. Here are six of the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2016
+
+
+
+Sailing guide: Our favourite port stops on the...
+
+
+
+
+
+
+With port cities like Cannes and St Tropez, the Cote d'Azur is hands down one of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 07, 2016
+
+
+
+A day in the life of an Intrepid sailor
+
+
+
+
+
+
+Sailing the French Riviera is a tough job, but someone's got to do it. This time,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 31, 2016
+
+
+
+Seven days sailing on the French Riviera
+
+
+
+
+
+
+Sunshine, retro swimsuits, striped umbrellas, aquamarine Mediterranean waters and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 31, 2016
+
+
+
+Traveller stories: A night in Paris’...
+
+
+
+
+
+
+The streetlamps outside are shining through my window, silhouetting the shadowy f...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+6 tips for booking your first cycling trip
+
+
+
+
+
+
+Pedalling sets the perfect pace - you travel slowly enough to enjoy your...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 19, 2016
+
+
+
+Ever wondered what an Intrepid sailing trip...
+
+
+
+
+
+
+Sailing isn't like it was in the old days. Rates of scurvy have declined. Peg legs...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 20, 2016
+
+
+
+This is what it looks like to cruise the Canal...
+
+
+
+
+
+
+If you want to know what it looks like to spend 8 days, cruising from...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 25, 2016
+
+
+
+Paris then and now: is this the best photo...
+
+
+
+
+
+
+Most people come to Paris for croissants, the Moulin Rouge and gloating, in that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 27, 2016
+
+
+
+5 reasons you should try a sailing adventure
+
+
+
+
+
+
+Sailing used to be the domain of three types of people; pirates, the super-rich,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2016
+
+
+
+So hot right now: our 6 new favourite food...
+
+
+
+
+
+
+Food can take you places, according to science. And we agree.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 27, 2015
+
+
+
+Black as hell, strong as death and sweet as...
+
+
+
+
+
+
+Let your wanderlust percolate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 18, 2015
+
+
+
+7 reasons Sardinia is Europe’s hottest new...
+
+
+
+
+
+
+Introducing the most beautiful islands you’ve hardly ever heard of.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 29, 2015
+
+
+
+7 reasons you need to be cruising France’s...
+
+
+
+
+
+
+There is one way of exploring this impossibly romantic region that doesn’t occur...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 31, 2015
+
+
+
+A walking tour of Paris’ best foodie haunts ...
+
+
+
+
+
+
+When I landed in Paris for the first time, I spent a happy few hours Googling the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 27, 2015
+
+
+
+European history according to Asterix and Obelix
+
+
+
+
+
+
+Just like a regular history lesson, only interesting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2015
+
+
+
+Sandsational: these are the world’s 7 best beaches
+
+
+
+
+
+
+Picking the world’s best beach is a bit like arguing why your favourite colour...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 14, 2014
+
+
+
+Five of our favourite Christmas foods from...
+
+
+
+
+
+
+It doesn’t really matter where you’re from, it wouldn’t be Christmas without good...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+France travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carcassonne
+
+
+
+
+Catch an incredible sunset over Carcassonne's medieval walls
+
+
+
+
+
+
+The Canal du Midi  (Homps to Castelnaudary), 8 days
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps), 8 days
+
+
+
+
+
+
+
+
+Barcelona to Rome, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Dordogne Region
+
+
+
+
+Kayak past stunning scenery in the Dordogne Region
+
+
+
+
+
+
+Paris to Madrid, 14 days
+
+
+
+
+
+
+
+
+Paris to Marrakech, 29 days
+
+
+
+
+
+
+
+
+France & Spain, 28 days
+
+
+
+
+
+
+
+
+
+
+
+Dijon
+
+
+
+
+View the impressive cathedrals and churches of delightful Dijon
+
+
+
+
+
+
+Rome to Paris, 21 days
+
+
+
+
+
+
+
+
+Highlights of France, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Paris
+
+
+
+
+Stroll the romance-infused streets of Paris
+
+
+
+
+
+
+Paris to Madrid, 14 days
+
+
+
+
+
+
+
+
+Rome to Paris, 21 days
+
+
+
+
+
+
+
+
+Highlights of France, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Provence
+
+
+
+
+Explore the quaint hilltop villages of Provence
+
+
+
+
+
+
+Cycle Provence, 8 days
+
+
+
+
+
+
+
+
+Barcelona to Rome, 15 days
+
+
+
+
+
+
+
+
+Highlights of France, 9 days
+
+
+
+
+
+
+
+
+
+
+
+The Pyrenees
+
+
+
+
+Breathe in the fresh, mountain air while hiking in the Pyrenees
+
+
+
+
+
+
+Madrid to Berlin, 22 days
+
+
+
+
+
+
+
+
+Barcelona to Berlin, 15 days
+
+
+
+
+
+
+
+
+Madrid to Rome, 43 days
+
+
+
+
+
+
+
+
+
+
+
+Bordeaux
+
+
+
+
+Admire elegant architecture on the boulevards of Bordeaux
+
+
+
+
+
+
+Paris to Madrid, 14 days
+
+
+
+
+
+
+
+
+France & Spain, 28 days
+
+
+
+
+
+
+
+
+Paris to Marrakech, 29 days
+
+
+
+
+
+
+
+
+
+
+
+Loire Valley
+
+
+
+
+Cycle past medieval houses and gardens in the Loire Valley
+
+
+
+
+
+
+France & Spain, 28 days
+
+
+
+
+
+
+
+
+The Canal du Midi  (Homps to Castelnaudary), 8 days
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps), 8 days
+
+
+
+
+
+
+
+
+
+
+
+Nice
+
+
+
+
+Experience the seaside style and glamour of Nice
+
+
+
+
+
+
+Cote D'Azur Sailing Adventure - Nice to Marseille, 8 days
+
+
+
+
+
+
+
+
+Barcelona to Rome, 15 days
+
+
+
+
+
+
+
+
+Paris to Madrid, 14 days
+
+
+
+
+
+
+
+
+
+
+
+Avignon
+
+
+
+
+Soak up the rich culture and history of Avignon
+
+
+
+
+
+
+Cycle Provence, 8 days
+
+
+
+
+
+
+
+
+Highlights of France, 9 days
+
+
+
+
+
+
+
+
+Barcelona to Berlin, 15 days
+
+
+
+
+
+
+
+
+
+
+
+St Tropez
+
+
+
+
+Follow in the footsteps of the famous and wealthy to St Tropez and get a taste of the good life.
+
+
+
+
+
+
+Cote D'Azur Sailing Adventure - Nice to Marseille, 8 days
+
+
+
+
+
+
+
+
+Cote d'Azur Sailing Adventure - Marseille to Nice, 8 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in France
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in France, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bicycle
+
+France is one of the greatest places in the world to cycle. Whether you’re taking on a steep hill in the Pyrenees or gliding past the lavender fields of Provence, cycling in France is a true pleasure.
+
+
+The Canal du Midi  (Homps to Castelnaudary)
+
+Cycle Provence
+
+Paris to Madrid
+
+
+
+
+Accommodation in France
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in France you may find yourself staying in a:
+
+
+
+
+
+
+
+Hotel
+
+Most hotels used on Intrepid tours through France are small, family-run guesthouses, so expect staircases instead of lifts and small rooms big on character.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sailing tours in France
+
+
+
+
+
+
+
+
+
+France holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Paris (population 2.1 million)
+
+Population:
+
+65.3 million
+
+Language:
+
+French
+
+Currency:
+
+EUR
+
+Time zone:
+
+(GMT+01:00) Brussels, Copenhagen, Madrid, Paris
+
+Electricity:
+
+Type C (European 2-pin) Type E (French 2-pin, female earth)
+
+Dialing code:
+
++33
+
+
+
+
+
+
+
+
+
+Best time to visit France
+
+
+
+
+
+
+×
+
+Best time to visit France
+
+
+
+
+Depending on what you want to get out of your trip, there is always a good time to visit France. Winter is a great time to enjoy snow sports in the Alps and Pyrenees, while the summer is great for soaking up the sun on the beaches of the Cote d’Azur. Generally, France enjoys a temperate climate with cool winters and warm summers, except for the Mediterranean areas that bask in warm temperatures most of the year. Popular tourist spots can get crowded during the peak holiday periods of Christmas, Easter and the school holiday months of July and August; if travelling during these times, be prepared to share France with many other travellers and holidaying locals.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Passionate about the arts, great food and even greater wine, French people are also fierce defenders of the 'French' way of life. The stereotype of the typical French person being a liberal, dog-loving, intellectual may not ring true but you will most likely see many dogs in cafes and an open attitude towards everything from sexuality to smoking.
+
+France (Paris in particular) is a multicultural country with immigrants coming from
+Africa
+, the
+Middle East
+and other European countries. In fact, France has the largest Muslim and Jewish populations in
+Europe
+. In the recent past, this mix of cultures has created some tension among the population, with immigrant communities and students in particular protesting about employment rates and government restrictions.
+
+With many different cultures co-existing in modern France, there are a wide variety of customs, cuisines and religions to be observed. Expect to see churches as well as mosques, Indian restaurants near French patisseries, and the sultry sounds of modern jazz right around the corner from a street beat-boxer.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+The gastronomic pleasures of France are world-renowned, so travellers won’t be disappointed with the food of France. There’s something to suit all budgets here, from Michelin star restaurants to humble cafes and market stalls.
+
+Things to try in France
+
+1. Simple, fresh baguettes
+
+One of the best cheap eats in France has to be a fresh, crusty baguette. Buy a freshly prepared roll from a cafe or buy the ingredients separately from shops and markets, prepare yourself and eat by the banks of the Seine or in a park. C’est bon!
+
+2. Pastries, cakes and tarts
+
+Be overwhelmed by the array of cakes, flans, tarts, pastries, pies, biscuits and macaroons available in France. French pastry chefs set the benchmark for quality, so indulge away and work it off with a walk or cycle.
+
+3. Champagne and wine
+
+With famous wine regions like Bordeaux, Burgundy, Loire Valley, Alsace and Provence, France is the place to indulge in a tipple or two! Whether you’re sampling fine vintages straight from the cellar door or savouring a bottle in a Paris restaurant, don’t leave France without trying to the top quality wine and champagne.
+
+4. Cheese
+
+French people love their cheese, so when in France eat like the locals do! From soft cheeses like Brie and Camembert to strong, tangy Roquefort and hard, sharp Beaufort, try them all at the cheese shops and markets of France.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Bordered by
+Spain
+,
+Andorra
+,
+Luxembourg
+, Monaco,
+Switzerland
+,
+Italy
+,
+Germany
+and
+Belgium
+, France has a variety of natural environments, from the rolling fields of Provence and the beaches of the Mediterranean to the urbanised cityscapes of Paris. Much of France is flat, except for the mountainous Pyrenees in the south and the Alps in the east, which are both popular places for outdoor sports like hiking, skiing, snowboarding and mountain biking.
+
+The French capital is a fascinating mix of gritty charm and unusual beauty. Expect to see the full spectrum of life – from well-maintained boulevards lined with classy, up-market restaurants and boutiques, to neighbourhoods full of run-down housing and graffiti-clad industrial buildings. Paris is a city that has many different sides, where visitors can turn each corner and find something new.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+France has a fascinating history marked by war, invasion, imperialistic expansion and revolution. Enduring the ravages of the Black Death, and the uncertainty of political upheaval and civil unrest, it's probably these events that give the modern French people their passionate, fighting spirit.
+
+Recent History
+
+France’s recent history is as interesting as its beginnings. Invaded by Germany during World War I and World War II, France suffered many losses during both of these wars. Civilian and military lives were lost, strict rationing created harsh living conditions, and regular airstrikes and shelling created a climate of fear. The French Resistance has been the subject of many books and movies, mainly because it’s such an interesting example of the French spirit. The French Resistance is the name given to pockets of men and women who rallied against the Nazi occupation of France during World War II. Using guerrilla tactics, as well as underground press and other means, these groups provided safe houses and escape networks for Allied soldiers trapped behind enemy lines. They also provided intelligence and other information to the Allies, as well as committed acts of sabotage against the German military. Visitors to France can choose to see many sites that reflect these times including the beaches of Normandy and the battlefields of Ypres and the Somme.
+
+More recently, France has enjoyed the stability that comes with being a part of the European Union and NATO; even though unemployment remains high, France is currently enjoying more peaceful times than it has had in the past.
+
+
+
+
+
+
+
+
+Top 10 Iconic Landmarks of France
+
+
+
+
+
+
+×
+
+Top 10 Iconic Landmarks of France
+
+
+
+
+1. Notre Dame
+
+This iconic Gothic-style cathedral is a true Parisian great. If you think the outside is impressive, wait until you get inside to see the spectacular organ and stunning stained-glass windows.
+
+2. The Louvre
+
+Housing some of the world’s most famous and valuable art, the Louvre Museum is a Parisian icon in its own right. Apart from the artistic masterpieces held within, the unique blend of old and new architecture - capped off by the much-photographed glass pyramid - makes the Louvre a landmark not to be missed.
+
+3. Palace of Versailles
+
+Elaborate galleries, opulent furnishings, gold-framed paintings and manicured gardens, the Palace of Versailles is the ultimate in old-world luxury. See where Marie Antoinette resided in decadence before her execution and understand why she was reticent to leave.
+
+4. Chateau de Chambord
+
+Located in the Loire Valley, this chateau fit for a fairytale is a classic example of French Renaissance architecture at its finest. Not to be outshone, the surrounding gardens, lawns and water features complement this grand, national treasure.
+
+5. Le Pantheon
+
+This historic domed icon is located in Paris’ Latin Quarter and is the final resting place of many famous French historical figures including Voltaire, Victor Hugo, Louis Braille, Marie Curie and Alexandre Dumas. Head here to admire neoclassical architecture and catch up on some French history.
+
+6. Centre Georges Pompidou
+
+The revolutionary, post-modern design of this building put it on the world map back in the 1970s and today it’s still as relevant as when it was first built. Home to an art museum, library and research centre, this place has attracted millions of visitors over the years – drawn in by the peculiar architecture and innovative works housed inside.
+
+7. Arc De Triomphe
+
+Commissioned by pint-sized Napoleon Bonaparte in 1806, the grand Arc de Triomphe monument signifies triumph and victory. Best seen at night, the luminous golden hues provide atmospheric photographic opportunities
+
+8. Moulin Rouge
+
+There’s no mistaking the famous red windmill of the Moulin Rouge. Take a snapshot outside or head inside to catch a cheeky show full of bedazzled, feathered dancers.
+
+9. The Beaches of Normandy
+
+The historic ‘D-Day’ landings of Normandy were one of the most crucial military manoeuvres of World War II. Visiting the beaches where the largest amphibious invasion in world history took place is a must-do for history-buffs and novices alike.
+
+10. Eiffel Tower
+
+Over the years, Paris’ much-loved landmark has been the backdrop to many romantic proposals and magic movie moments. Choose to climb the stairs to the top to take in views of the Parisian skyline or simply bask in the romantic afterglow on the lawn underneath.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Home to designer fashion houses, luxurious perfumeries, exclusive boutiques and antique merchants, France isn’t a great shopping destination for those on a budget. Regardless, there’s much fun to be had whether you’re window shopping or indulging in the real thing.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in France
+
+1. Perfumeries
+
+Beautifully packaged scents are best bought in the chic perfumeries of Paris – known as the fragrance capital of the world. Some have been trading for more than a century, others are brand new – either way a bottle of perfume makes a lovely gift for a friend… or yourself.
+
+2. Bookshops
+
+Stocking everything from modern literature and high-end fashion magazines to hard-to-find classics, the bookshops of France are filled with mystery, romance and adventure – the perfect place to retreat on a rainy day. When the sun is shining, head to the Seine where booksellers line the banks selling comics, postcards and antique books.
+
+3. Flea Markets
+
+The flea markets of Paris are great places to pick up vintage pieces. From art deco brooches to pretty 1940’s purses, you’re guaranteed to find something unique on the cheap! Try Porte de Vanves and Porte de Saint-Ouen in Paris.
+
+4. Village Markets
+
+French provincial markets just ooze with charm. Peruse fresh produce, home-made jams, pickled vegetables, rich cheeses and summer flowers - and dream of living such an idyllic life.
+
+
+
+
+
+
+
+
+Festivals and events in France
+
+
+
+
+
+
+×
+
+Festivals and events in France
+
+
+
+
+Bastille Day
+
+France lights up with balls, parades, fireworks and street parties in this iconic holiday dedicated to the Fall of Bastille. Although this holiday is celebrated all over France, it is the celebratory vibe and decadent flourishes of Paris that best capture the triumphant spirit of this oh-so French holiday.
+
+Avignon Festival
+
+Performers and art lovers from around the world descend on Avignon for this three-week celebration of performance art. Dance, theatre, comedy and musical performances feature on the bill, with everything from open-air classical concerts and sweeping operatic epics to spoken word poetry.
+
+Mondial du Snowboard
+
+The alpine town of Les Deux Alpes hosts thousands of snowboarders for three days of top-flight snowboarding competition. See the latest and greatest tricks and boards before the season starts and party it up at night at the heaving music and bar scene. Non-boarders will appreciate the bike riding and skateboarding side shows.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+A Moveable Feast
+
+Ernest Hemingway
+
+Chocolat
+
+Joanne Harris
+
+Dangerous Liaisons
+
+Pierre Choderlos De Laclos
+
+I'll Never be French (no matter what I do)
+
+Mark Greenside
+
+A Year in Provence
+
+Peter Mayle
+
+A Very Long Engagement
+
+Sebastien Japrisot
+
+Marie Antoinette: The Journey
+
+Antonia Fraser
+
+
+
+
+
+
+
+
+France travel FAQs
+
+
+
+
+
+Is tipping customary in France?
+
+
+
+
+
+
+
+
+
+Restaurants will include a service fee within the bill; however, tipping extra (while not absolutely necessary) is customary and will be appreciated by wait staff. Usually rounding up the bill or leaving spare change is sufficient. Feel free to tip more if the service has been exemplary or if you’re feeling generous.
+
+
+
+
+
+
+
+What is the internet access like in France?
+
+
+
+
+
+
+
+
+
+Internet access is good in France - internet cafes and Wi-Fi hotspots are easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in France?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in France. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in France?
+
+
+
+
+
+
+
+
+
+Flushable toilets are the standard in France. Don’t be surprised to see that many public toilets in France (and other European countries) are unisex.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Short metro ride = 1.50-2 Euro
+Beer = 5 Euro
+Baguette snack = 5 Euro
+Budget meal in a café = 10 Euro
+High-end restaurant meal = 30 Euro
+
+
+
+
+
+
+
+Can I drink the water in France?
+
+
+
+
+
+
+
+
+
+Drinking water from taps is considered safe in France, unless otherwise marked. For environmental reasons, try to use a refillable water bottle rather than buying bottled water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in France?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores and hotels in France. Smaller cafes and shops may not accept credit cards so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in France?
+
+
+
+
+
+
+
+
+
+ATMs are very common in France, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to France?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in France?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+14 Apr Good Friday (only in Alsace and Moselle)
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+8 May Victory in Europe Day
+
+25 May Ascension Day
+
+4 Jun Whit Sunday
+
+5 Jun Whit Monday
+
+14 Jul Bastille Day
+
+15 Aug Assumption of Mary
+
+1 Nov All Saints' Day
+
+11 Nov Armistice Day
+
+25 Dec Christmas Day
+
+26 Dec St Stephen's Day (only Alsace and Moselle)
+
+Please note these dates are for 2017. For a current list of public holidays in France go to:
+http://www.worldtravelguide.net/france/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for France
+
+Be considerate of France’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7353 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Vietnam
+
+
+
+Move over, Thailand: Vietnam food is where it’s at.
+
+
+When we think of moped shoals in Ho Chi Minh City or cloth merchants in Hoi An, it’s the flavours we remember best. A crusty Bánh mì or streetside pho, seafood cù lao hotpots and (scarily addictive) condensed milk coffee. Vietnam tours are fun, plain and simple. But unlike other operators, we won’t just drop you in Ha Long Bay and call it a day. Our local leaders will introduce you to rice farmers in Sapa and fishermen on the Mekong Delta. They’ll guide you through the Cu Chi Tunnels, point out Nha Trang’s best beaches and take you on a rooftop bar crawl through Ho Chi Minh City. Our stomach’s rumbling already...
+
+
+Top Vietnam travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+12 Dec 2017
+
+Cycle Vietnam
+
+
+
+Cycle Vietnam
+Hanoi to Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+×
+
+Cycle Vietnam
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,115
+
+
+FR1,904
+
+
+
+
+View Trip
+
+
+
+
+
+
+12 Dec 2017
+
+Vietnam Discovery
+
+
+
+Vietnam Discovery
+Ho Chi Minh City to Hanoi
+
+
+
+
+
+
+
+
+
+×
+
+Vietnam Discovery
+
+
+
+
+
+
+
+
+
+15
+
+
+FR955
+
+
+FR812
+
+
+
+
+View Trip
+
+
+
+
+
+
+16 Dec 2017
+
+Classic Vietnam
+
+
+
+Classic Vietnam
+Ho Chi Minh City to Hanoi
+
+
+
+
+
+
+
+
+
+×
+
+Classic Vietnam
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,110
+
+
+FR1,899
+
+
+
+
+View Trip
+
+
+
+
+
+
+31 Dec 2017
+
+Best of Vietnam
+
+
+
+Best of Vietnam
+Ho Chi Minh City to Hanoi
+
+
+
+
+
+
+
+
+
+×
+
+Best of Vietnam
+
+
+
+
+
+
+
+
+
+20
+
+
+FR2,190
+
+
+FR1,862
+
+
+
+
+View Trip
+
+
+
+
+
+
+1 Jan 2018
+
+Best of Cambodia & Vietnam
+
+
+
+Best of Cambodia & Vietnam
+Bangkok to Hanoi
+
+
+
+
+
+
+
+
+
+×
+
+Best of Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+18
+
+
+FR2,050
+
+
+FR1,845
+
+
+
+
+View Trip
+
+
+
+
+
+
+2 Jan 2018
+
+Vietnam Express Southbound
+
+
+
+Vietnam Express Southbound
+Hanoi to Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+×
+
+Vietnam Express Southbound
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,180
+
+
+FR1,062
+
+
+
+
+View Trip
+
+
+
+
+
+
+2 Jan 2018
+
+Best of Vietnam & Cambodia
+
+
+
+Best of Vietnam & Cambodia
+Hanoi to Bangkok
+
+
+
+
+
+
+
+
+
+×
+
+Best of Vietnam & Cambodia
+
+
+
+
+
+
+
+
+
+18
+
+
+FR2,060
+
+
+FR1,854
+
+
+
+
+View Trip
+
+
+
+
+
+
+3 Jan 2018
+
+Scenic Vietnam
+
+
+
+Scenic Vietnam
+Hanoi to Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+×
+
+Scenic Vietnam
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,580
+
+
+FR1,264
+
+
+
+
+View Trip
+
+
+
+
+
+
+3 Jan 2018
+
+Cambodia & Vietnam Experience
+
+
+
+Cambodia & Vietnam Experience
+Bangkok to Hanoi
+
+
+
+
+
+
+
+
+
+×
+
+Cambodia & Vietnam Experience
+
+
+
+
+
+
+
+
+
+26
+
+
+FR1,910
+
+
+FR1,528
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Explore Vietnam
+
+
+
+Explore Vietnam
+Hanoi to Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+×
+
+Explore Vietnam
+
+
+
+
+
+
+
+
+
+11
+
+
+FR795
+
+
+FR716
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Vietnam trips
+
+
+
+
+
+
+
+
+
+Vietnam Express Southbound
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR944
+
+
+
+
+
+Travel from historic Hanoi to modern Ho Chi Minh City. Tour down the Mekong, visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Vietnam & Cambodia
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,854
+
+
+
+
+
+Travel into the heart and soul of Indochina on this comprehensive tour of Vietnam and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodian Traveller
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR799
+
+
+
+
+
+Travel through Cambodia from Ho Chi Minh City in Vietnam to Bangkok in Thailand on an...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Family Holiday
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,220
+
+
+
+
+
+Experience the Asia of old on a family adventure that captures the spirit of Vietnam....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Express Northbound
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,003
+
+
+
+
+
+Travel to Vietnam and see the ultimate Ho Chi Minh tourist spots. Visit hidden Hanoi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Vietnam
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,692
+
+
+
+
+
+Jump in the saddle for a two-wheeled adventure tour of Vietnam. Take in cultural...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR736
+
+
+
+
+
+Travel from Bangkok to Ho Chi Minh City on a journey of discovery. Uncover the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Real Food Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,647
+
+
+
+
+
+Travel the breadth of Vietnam, from Hanoi to Ho Chi Minh City, experiencing tranquil...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Discovery
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR791
+
+
+
+
+
+Discover Vietnam and all its wonders on this exciting two-week tour. Uncover hidden...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Comfort Vietnam Family Holiday
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,490
+
+
+
+
+
+Experience Vietnamese customs and charms on a 13-day family adventure from Hanoi to Ho...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam: Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,195
+
+
+
+
+
+Hike, bike and kayak across Vietnam on this active tour based out of Hanoi. Visit the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Vietnam
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR715
+
+
+
+
+
+Delve into Vietnamese culture on this 11-day journey from Hanoi to Ho Chi Minh City....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Vietnam
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,861
+
+
+
+
+
+Uncover the proud, spirited heart of Vietnam on this classic adventure. Tour to Halong...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Express
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR701
+
+
+
+
+
+Follow the Angkor trails on a trip to Thailand, Cambodia and Vietnam. Explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Scenic Vietnam
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,264
+
+
+
+
+
+Journey from Hanoi to Ho Chi Minh City on this 15-day Vietnam adventure. Trek in the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Discovery
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR782
+
+
+
+
+
+Travel to Cambodia on an Intrepid adventure from Ho Chi Minh City to Bangkok. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Treasures of Vietnam
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,235
+
+
+
+
+
+From Ho Chi Minh City to Hanoi, discover the delights of one of South-East Asia's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic South East Asia
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,470
+
+
+
+
+
+From Vietnam to Cambodia, discover incredible diversity, delectable cuisines, dramatic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Treasures of Vietnam
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,161
+
+
+
+
+
+From Ho Chi Minh City to Hanoi, discover the delights of one of South-East Asia's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,845
+
+
+
+
+
+Jump on this adventurous three-week journey to see the very best of Cambodia and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Indochina
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,836
+
+
+
+
+
+See Southeast Asia from two wheels on this 13-day adventure from Ho Chi Minh to Bangkok...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Vietnam
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR1,861
+
+
+
+
+
+From bustling Ho Chi Minh City to historical Hanoi, the Best of Vietnam tour is an...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,905
+
+
+
+
+
+Journey through the highlights of Cambodia and Vietnam, experiencing local life,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Vietnam Experience
+
+
+
+
+
+
+
+
+
+26 Days
+
+
+From
+FR1,528
+
+
+
+
+
+Experience Indochina on a trip through Thailand, Cambodia and Vietnam. Journey through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam and Cambodia Explorer
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR1,540
+
+
+
+
+
+Explore Indochina on a trip through Vietnam, Cambodia and Thailand. Travel from Hanoi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Vietnam Discovery
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,860
+
+
+
+
+
+Uncover the dramatic histories of these two beautiful countries on a trip through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Vietnam Discovery
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,690
+
+
+
+
+
+Uncover the dramatic histories of these two beautiful countries on a trip through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South East Asia Loop
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR3,565
+
+
+
+
+
+Travel into the heart and soul of Indochina on this comprehensive tour of Thailand,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Vietnam Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR895
+
+
+
+
+
+Experience the boundlessly welcoming and friendly nature of the ethnic hill tribe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Explorer
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,615
+
+
+
+
+
+Explore southern and central Vietnam’s lush highlands, hidden villages and charming...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Active Family Holiday
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,095
+
+
+
+
+
+Get the most out of your family getaway by cycling, kayaking, walking and cruising...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,495
+
+
+
+
+
+On this comfort trip get to know two noisy siblings forever linked in both culture and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Indochina Family Holiday
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,061
+
+
+
+
+
+Combine the excitement of Vietnam with the friendly warmth of Cambodia for an exotic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South East Asia Unplugged
+
+
+
+
+
+
+
+
+
+35 Days
+
+
+From
+FR2,902
+
+
+
+
+
+Embark on an epic journey to explore the best of Indochina. Venture out from Bangkok -...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Indochina Uncovered
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,850
+
+
+
+
+
+Indochina Uncovered snakes its way through the delights of Thailand, Laos and Vietnam,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Family Thailand, Laos and Vietnam Holiday
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Experience the sights, smells and tastes of Southeast Asia on a family tour through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sapa Adventure
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR312
+
+
+
+
+
+Trek through Vietnam's mountainous region in the north-west to experience hiltribe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Thailand Traveller
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,960
+
+
+
+
+
+From Ho Chi Minh City in Vietnam, explore Cambodia's fascinating history and impressive...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hanoi to Hong Kong
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,436
+
+
+
+
+
+Experience the eclectic allure of China on this adventure from Hanoi to Hong Kong....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle South East Asia
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR3,865
+
+
+
+
+
+Gear up for an energising and rewarding cycling tour that takes in the best of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hanoi to Hong Kong
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Experience the eclectic allure of China on this adventure from Hanoi to Hong Kong....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Thailand Traveller
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,990
+
+
+
+
+
+From Ho Chi Minh City in Vietnam, explore Cambodia's fascinating history and impressive...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hoi An to Hanoi
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,580
+
+
+
+
+
+Travel from Hoi An to Hanoi, spending time in the old imperial city of Hue, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam & China Adventure
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,865
+
+
+
+
+
+Two countries in one go! Enjoy a cocktail of experiences from the hustle and bustle in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Vietnam Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR891
+
+
+
+
+
+Trek through lush forests, discover colourful histories and break bread with ethnic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Vietnam Getaway
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR370
+
+
+
+
+
+See the contrasts of city and river life around Ho Chi Minh City on this exciting short...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Express Southbound - For Solo Travellers
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,120
+
+
+
+
+
+Travel from historic Hanoi to modern Ho Chi Minh City with a group of solo travellerse....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ho Chi Minh City to Hoi An
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR895
+
+
+
+
+
+Trek through lush forests, discover colourful histories and break bread with ethnic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,844
+
+
+
+
+
+Journey through the highlights of Cambodia and Vietnam, experiencing local life,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic South East Asia
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,595
+
+
+
+
+
+From Vietnam to Cambodia, discover incredible diversity, delectable cuisines, dramatic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Halong Bay Junk Cruise
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR222
+
+
+
+
+
+Cast away on a traditional junk boat and set sail through hundreds of limestone karsts...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mai Chau Adventure
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR207
+
+
+
+
+
+Venture into the lush environs of Mai Chau and enjoy two days of cycling through remote...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Hanoi
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR340
+
+
+
+
+
+Treat your tastebuds to a whole new world of flavour in Hanoi on this bite-sized food...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Explorer
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR2,395
+
+
+
+
+
+Explore southern and central Vietnam’s lush highlands, hidden villages and charming...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mekong Delta Farmstay
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR172
+
+
+
+
+
+See local industry, beautiful islands and what life is like along the mighty Mekong...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Active Family Holiday - Digital Detox
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,110
+
+
+
+
+
+Get the most out of your family getaway by cycling, kayaking, walking and cruising...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure Vietnam & Cambodia
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,154
+
+
+
+
+
+Travel from Hanoi down and over to Siem Reap, seeing the landmark attractions,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam & Cambodia Adventure
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Explore vibrant Vietnam, charismatic Cambodia and beguiling Bangkok on this awesome...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Vietnam Coastal Cruising - Ho Chi Minh to Danang
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,710
+
+
+
+
+
+Travel the south coast of Vietnam on a Peregrine small-ship adventure cruise, visiting...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Vietnam Coastal Cruising - Danang to Ho Chi Minh
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,710
+
+
+
+
+
+Cruise Vietnam’s south coast on a small-ship Peregrine adventure, visiting Hoi An, Nha...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North Vietnam Coastal Cruising - Hanoi to Danang
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,535
+
+
+
+
+
+Embark on a small-ship coastal cruise in Vietnam, visiting iconic Halong Bay, the cave...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North Vietnam Coastal Cruising - Danang to Hanoi
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,535
+
+
+
+
+
+Experience historic Hue, vibrant Hanoi and the limestone beauty of Halong Bay and Phong...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising the Coast of Vietnam - South to North
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR5,200
+
+
+
+
+
+Travel to Vietnam and embark on a small-ship adventure cruise to Nha Trang, Ha Long Bay...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising the Coast of Vietnam - North to South
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR5,200
+
+
+
+
+
+Experience the beautiful coast of Vietnam on a Peregrine small-ship adventure cruise to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Vietnam tour reviews
+
+
+Our Vietnam trips score an average of
+4.86 out of 5
+based on 3150 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Vietnam Express Southbound,
+November 2017
+
+Michael COOPER
+
+Great tour..nice being limited to number of people. We had 9 of us plus tour leader. All very well organised.. even when we had to change plans at last minute due to weather. Had opportunity to do' own thing' if fancied time away from rest of group. Thank you Intrepid, and our brilliant tour leader ..Thanh.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Express Southbound,
+November 2017
+
+Alex Finch
+
+Intrepid travel is an excellent travel agency for organising tours using local guides who really know how to get you the best experience possible.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Vietnam trip reviews
+
+Our Vietnam trips score an average of
+4.86 out of 5
+based on 3150 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Vietnam
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 26, 2017
+
+
+
+6 common scams in Vietnam (& how to avoid them)
+
+
+
+
+
+
+Stay one step ahead of the tourist traps.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 14, 2017
+
+
+
+A day in Hanoi, Vietnam: your go-to guide
+
+
+
+
+
+
+Our guide to getting the most out of your time in Vietnam’s bustling capital city.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 02, 2017
+
+
+
+Why you should think twice about haggling in...
+
+
+
+
+
+
+A how to, and how not to.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 28, 2017
+
+
+
+5 of our favourite foods from around the world
+
+
+
+
+
+
+Listen up, food lovers. If you’re anything like us, it’s likely your top priority...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2017
+
+
+
+10 under-the-radar destinations in Southeast...
+
+
+
+
+
+
+Here are 10 Southeast Asian spots about to take pride of place on your bucket list...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 16, 2017
+
+
+
+The top destinations for travel in January
+
+
+
+
+
+
+From the jungles of Central America to the beaches of Southeast Asia, here's where...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 20, 2017
+
+
+
+8 beaches in Vietnam you have to visit
+
+
+
+
+
+
+The best beaches in Vietnam – all turquoise waters and white-sand wonders – are...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 14, 2017
+
+
+
+7 cities that are even better at night
+
+
+
+
+
+
+To really experience a city, you’ve got to get to know it when the sun goes down....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 14, 2017
+
+
+
+10 reasons why you should travel to Nha Trang,...
+
+
+
+
+
+
+Located on the south central coast of Vietnam, Nha Trang is a paradise of city and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 15, 2017
+
+
+
+The best family holidays to book in 2017
+
+
+
+
+
+
+We're a firm believer in the fact that family travel can please both parents and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 11, 2017
+
+
+
+Top 6 things to do in Hoi An
+
+
+
+
+
+
+With a free day, we wanted to see as much of Hoi An as we could: the old stuff,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 03, 2017
+
+
+
+Northern Vietnam in one week: The ultimate guide
+
+
+
+
+
+
+From big cities brimming with foodie fun, to landscapes so surreal they will blow...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 30, 2017
+
+
+
+Meet the Intrepid leader who dedicated his life...
+
+
+
+
+
+
+The story of Jimmy Pham, an Intrepid Travel tour guide who went on to found KOTO,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 29, 2017
+
+
+
+How to cross the road in Vietnam
+
+
+
+
+
+
+Why did the Intrepid traveller risk life and limb to cross the road in Vietnam? To...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 29, 2017
+
+
+
+The best beaches in southeast Asia: a...
+
+
+
+
+
+
+Once you've sampled the food, culture and magnificent temples of southeast Asia,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 12, 2017
+
+
+
+The magic and madness of traveling in Vietnam...
+
+
+
+
+
+
+Now we were just two friends on an adventure, no barriers, with a foreign, exotic,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 05, 2017
+
+
+
+What to expect on an overnight train in Vietnam
+
+
+
+
+
+
+Station attendants march up and down the platform, blowing whistles to alert us to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 24, 2017
+
+
+
+Vietnam’s coffee culture: What to know and...
+
+
+
+
+
+
+There’s one thing above all that stands out as synonymous with Vietnam, and that’s...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 17, 2017
+
+
+
+6 sunset viewing spots in Vietnam
+
+
+
+
+
+
+Vietnam boasts some stunning settings from which to watch the sun rise and set....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 14, 2017
+
+
+
+Cycling Vietnam: Hanoi to Ho Chi Minh City
+
+
+
+
+
+
+The view didn’t matter. We’d got there, without having to call on the support...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 12, 2017
+
+
+
+Why we’re rethinking orphanage tourism
+
+
+
+
+
+
+Most travellers, donors and volunteers just want to help, but it's an industry...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 09, 2016
+
+
+
+Meet the NGO that’s fighting back against human...
+
+
+
+
+
+
+Just outside the Old Town in Hanoi sits one of the most important buildings in...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+6 tips for booking your first cycling trip
+
+
+
+
+
+
+Pedalling sets the perfect pace - you travel slowly enough to enjoy your...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 13, 2016
+
+
+
+What it’s like to do a Hmong homestay in the...
+
+
+
+
+
+
+I felt like I had hit the jackpot. I was truly living a day in the life of a Hmong...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 31, 2016
+
+
+
+When’s the best time to visit Asia?
+
+
+
+
+
+
+Spoiler alert: when it comes to Asia, there’s really never a bad time to visit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2016
+
+
+
+So hot right now: our 6 new favourite food...
+
+
+
+
+
+
+Food can take you places, according to science. And we agree.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 29, 2015
+
+
+
+Beyond the pho: a street-level guide to Vietnam...
+
+
+
+
+
+
+Yep, it does get better than banh mi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 27, 2015
+
+
+
+Black as hell, strong as death and sweet as...
+
+
+
+
+
+
+Let your wanderlust percolate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 20, 2015
+
+
+
+Overcrowded and ugly: how the world’s least...
+
+
+
+
+
+
+People don’t have a lot of time for 'ugly' travel. But why not? It's time to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2014
+
+
+
+Soup is for life, not just for lunch: five...
+
+
+
+
+
+
+Everyone knows soup is a great lunch option, but it's often overlooked for dinner....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 28, 2014
+
+
+
+These Asian tribes will blow your mind
+
+
+
+
+
+
+Believe it or not, the old world does survive, in the deep jungles and the high...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 18, 2014
+
+
+
+Dragons to the rescue in Vietnam
+
+
+
+
+
+
+Hanoi, Hoi An and Halong Bay - travellers to Vietnam are familiar with these...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 17, 2014
+
+
+
+Mot, hai, ba… beer in Vietnam
+
+
+
+
+
+
+“Half past eight in the evening and it is closing time in the large Bia Hoi...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hạlong Bay
+
+
+
+
+Cruise the sparkling waters of Halong Bay
+
+
+
+
+
+
+Classic Vietnam, 15 days
+
+
+
+
+
+
+
+
+Vietnam Discovery, 15 days
+
+
+
+
+
+
+
+
+Explore Vietnam, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Hue
+
+
+
+
+Admire ancient royal relics in Hue
+
+
+
+
+
+
+Vietnam Express Southbound, 10 days
+
+
+
+
+
+
+
+
+Vietnam Express Northbound, 10 days
+
+
+
+
+
+
+
+
+Explore Vietnam, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Nha Trang
+
+
+
+
+Relax on Nha Trang's stunning beaches
+
+
+
+
+
+
+Explore Vietnam, 11 days
+
+
+
+
+
+
+
+
+Vietnam Discovery, 15 days
+
+
+
+
+
+
+
+
+Classic Vietnam, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Vietnam
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Vietnam, you may find yourself travelling by:
+
+
+
+
+
+
+
+Overnight sleeper train
+
+Travelling aboard the Reunification Express is a fun way to journey through Vietnam. Interact with other passengers or sit by a window and watch the world go by.
+
+
+Explore Vietnam
+
+Vietnam Express Northbound
+
+Vietnam Express Southbound
+
+
+
+
+
+
+
+
+
+
+Bicycle
+
+Take time to wave to locals as you cycle at a leisurely pace past rice paddies and through simple villages in rural Vietnam
+
+
+Cycle Vietnam
+
+Cycle South East Asia
+
+
+
+
+Accommodation in Vietnam
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Vietnam you may find yourself staying in a:
+
+
+
+
+
+
+
+Overnight boat
+
+Sleeping aboard a traditional junk is a quintessential Vietnamese experience to be savoured. Slip into relaxation mode as you take in stunning views of the surrounding limestone karst scenery.
+
+
+Explore Vietnam
+
+Vietnam Express Northbound
+
+Vietnam Express Southbound
+
+
+
+
+
+
+
+
+
+
+Homestay
+
+Get acquainted with the Vietnamese way of life while on a memorable home stay. Be exposed to new languages, cuisine and customs while making friends with your hosts and neighbours.
+
+
+Vietnam Discovery
+
+Classic Vietnam
+
+Vietnam Real Food Adventure
+
+
+
+
+
+
+
+
+
+
+Farmstay
+
+Experience warm hospitality and unspoiled scenery on a farmstay in the heart of the Vietnamese countryside. Relax in comfortable rooms among fields and gardens, or head out to explore the local village.
+
+
+Best of Vietnam
+
+Hoi An to Hanoi
+
+
+
+
+
+
+
+Vietnam holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Hanoi (population 3 million)
+
+Population:
+
+90.5 million
+
+Language:
+
+Vietnamese
+
+Currency:
+
+VND
+
+Time zone:
+
+(GMT+07:00) Bangkok, Hanoi, Jakarta
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type C (European 2-pin)
+
+Dialing code:
+
++84
+
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The land now known as Vietnam has been inhabited since prehistoric times. Archaeological finds suggest that structured societies were in existence from as early as the 1st millennium BC. Early society was mostly feudal and agriculture-based, with various dynasties overseeing different parts of Vietnam until the Chinese invasion of 111 BC, which saw the societies of Vietnam and China become intertwined. Various Chinese dynasties dominated the area for hundreds of years, although revolts finally led to Vietnam gaining self-autonomy in 905. By 938, this period of Chinese imperial domination came to a close and Vietnam entered into an age of independence.
+
+Recent History
+
+During the 19th century, Vietnam came under the influence of French colonisers, who assumed control of Vietnam after the Sino-French War of 1884 and 1885. French Indochina was formed in 1887, and included parts of Vietnam, Cambodia and, later on, Laos. Although the French managed to suppress internal movements towards independence for many years, their control was finally relinquished in 1954 when Vietnamese forces overcame the French during the first Indochina War. Following this war, Vietnam was divided, with separate forces ruling the north (led by Ho Chi Minh) and the south (led by Ngo Dinh Diem, with support from the United States).
+
+The second Indochina War created wide-scale devastation and turmoil for the people of Vietnam, leading to mass migration to other parts of the world as asylum seekers tried to escape the conflict that ravaged their homeland. By the 1980s Vietnam's economy had all but collapsed, leading to further waves of migration out of Vietnam. More recently, Vietnam has benefited from the free market economy that was set up in 1986. Vietnam's economy continues to expand, with agriculture and industry providing the backbone, and the tourism sector also contributing. Although many Vietnamese people live below the poverty line, there have been widespread improvements in literacy and health which hopefully will continue to improve in the years to come.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Occupying a long, thin part of the Indochinese peninsula, Vietnam shares borders with
+China
+,
+Laos
+and
+Cambodia
+. Much of Vietnam's terrain is mountainous, particularly the north and central highland regions. Although people still choose to live in the densely forested highland regions, most of Vietnam's population is concentrated in the cities of the low lying areas, where infrastructure is more easily built and the land is fertile. One of the 12 great rivers of the world, the Mekong, runs through Vietnam and has been responsible for wide-scale flooding. A system of canals and levees has been quite successful in redistributing the water during monsoons, and has helped to alleviate flooding in the Mekong Delta and surrounding areas.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Vietnam has a nice mix of interesting markets and small shops, with handicrafts, art and clothing among the best picks.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Vietnam
+
+1. Tailored Clothing
+
+Hoi An is one of the best places in the world to get tailor-made clothing at a great price. Find a tailor, choose your fabric, get measured and return later to collect your custom-made fashion.
+
+2. Hilltribe Handicrafts
+
+Some of Vietnam's hilltribe people make excellent woven bags, clothing and jewellery which make meaningful souvenirs for friends back home.
+
+3. Coffee
+
+As one of the world's largest coffee exporters, Vietnamese coffee is among the world's best. If you’re a coffee fan, why not take a little taste of Vietnam home with you.
+
+4. Lacquerware
+
+The time consuming, intensive process of creating Vietnamese lacquer art results in a beautiful, smooth and polished finish that adorns everything from bowls to paintings and jewellery boxes. While not the cheapest of souvenirs, authentic lacquer art is worth spending a bit more on.
+
+
+
+
+
+
+
+
+Vietnam Top 10 Landscapes
+
+
+
+
+
+
+×
+
+Vietnam Top 10 Landscapes
+
+
+
+
+Top 10 Iconic Landscapes of Vietnam
+
+
+Halong Bay
+- There's nothing quite like Halong Bay first thing in the morning. As the mists clear, hundreds of huge karst towers appear, looming high above the boat. In the soft morning light it's like waking up in a watercolour painting of a mythical land.
+
+
+
+Hanoi
+- Motorbikes piled high with people, produce and even animals zip through the streets. It's crazy, haphazard and somehow it works. The best way to take it all in is from a rooftop cafe. Order an extra strong coffee and watch the chaos unfold below.
+
+
+
+Mekong Delta
+- This massive area of floating markets, emerald rice paddies and lush islands is home to some of the friendliest people on earth. Take a boat trip to one of the sleepy islands to get a front row view of life on the Delta, and meet the people who call it home.
+
+
+
+Sapa
+- Head to the hills and see the colourful villages of Vietnam's minority groups - the Zay, and the Blue and Black H'mong. The area is remote so the best way to experience it is on an overnight trek, spending the night as a guest of a local family.
+
+
+
+Qui Nho
+- Quaint Qui Nhon is a sleepy beach town off the main tourist trail. It's worth coming here just for the drive. The road hugs granite cliffs that plunge into the South China Sea, and islands, lagoons and sand dunes slowly give way to sugar plantations and rice fields.
+
+
+
+Hue
+- Jam-packed with imperial sites, Hue is one for the history buffs. Explore the Citadel with its ruined Forbidden Purple City before embracing your inner emperor and taking a dragonboat cruise down the Perfume River.
+
+
+
+Hoi An
+- This shoppers' paradise is home to more boot makers, tailors and handicraft than you could visit in a lifetime. While you wait for your suit to be made, hire a bicycle and explore the Old Town - the streets are blissfully car free.
+
+
+
+Ho Chi Minh City
+- Still known as Saigon to most, HCMC is a city on the go. It's fast-paced, exciting and full of amazing sites. Temples and markets collide with churches and skyscrapers for a heady mix of traditional, colonial and modern.
+
+
+
+Mai Chau
+- Mai Chau feels a million miles away from the bustle of Hanoi. Misty mountains and emerald rice paddies contribute to the air of peacefulness. Be sure to look out for the traditional fabrics woven by the White Thais that call this area home.
+
+
+
+Dalat
+- It's spring all year round in Vietnam's 'honeymoon capital'. Soak up the French-inspired atmosphere, spot the quirky local artists and explore the surrounding lakes, waterfalls and forests. C'est fantastique!
+
+
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Vietnam's ancient culture can be traced back centuries and over the years has been influenced in different ways by the Chinese, Khmer, French and American cultures. For most Vietnamese people, connection to family and community is paramount - whether they are from rural villages or living in the fast-paced cities. Most festivals and holidays are spent with the extended family - participating in rituals, feasting on special foods, giving symbolic gifts and paying respects to ancestors. Most Vietnamese people practice a form of religion that is an interesting mix of Buddhism, Confucianism and Taoism, although there are also a large number of practicing Catholics living in Vietnam. Having endured the hardship that the Vietnam War brought in the 1960s and 1970s, most Vietnamese people are keen to get on with life, living with a sense of optimism and humility.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Catfish and Mandala
+
+Andrew X Pham
+
+The Quiet American
+
+Graham Greene
+
+Peace is Every Step
+
+Thich Nhat Hanh
+
+The Girl in the Picture
+
+Denise Chong
+
+The Sorrow of War
+
+Bao Ninh
+
+
+
+
+
+
+
+
+Vietnam travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Vietnam?
+
+
+
+
+
+
+
+
+
+Most nationalities require a visa to travel to Vietnam.
+
+Some nationalities are exempt from visas for a stay of under 15 days. If you are planning on staying in Vietnam for longer than 15 days you will need to obtain a visa extension in advance (please contact your relevant Consulate or Embassy). Effective from 1st July 2015 - 30 June 2017 exempt visa nationalities include British, German, French, Spanish and Italian citizens travelling to Vietnam (for all purposes) for a period of up to 15 days, and on the basis of meeting all conditions prescribed by Vietnamese laws.
+
+Vietnam visas need to be arranged in advance. When obtaining your visa you should allow 3 weeks for processing, the cost is approximately US$60 to US$100. Check with your embassy or consulate for further details.
+
+Keep the customs and immigration form you receive on arrival, as you need it to complete exit formalities on departure.
+
+If your visa application asks for a point of contact, please write: Intrepid Vietnam 57A Nguyen Khac Hieu St, Hanoi, Vietnam Ph +84 4 3715 0996.
+
+Most nationalities do not require a letter of invitation for Vietnam but if you do need one, please contact your sales agent for more information.
+
+Read more about obtaining a visa for Vietnam
+
+
+
+
+
+
+
+Is tipping customary in Vietnam?
+
+
+
+
+
+
+
+
+
+Tipping isn't mandatory or customary in Vietnam, but a tip of spare change or another small amount would be appreciated by restaurants, drivers and other service workers, especially if the service has been particularly good.
+
+Read more about tipping in Vietnam
+
+
+
+
+
+
+
+What is the internet access like in Vietnam?
+
+
+
+
+
+
+
+
+
+Internet access is widely available in tourist areas and big cities, which have many internet cafes. Internet access is less frequent in rural and remote areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Vietnam?
+
+
+
+
+
+
+
+
+
+You'll be able to use your mobile phone in most urban areas of Vietnam, although remote and mountainous areas may not have network coverage. Ensure you have global roaming activated with your mobile carrier before you leave home if you wish to use your mobile while in Vietnam.
+
+Read more about mobile phone use in Vietnam
+
+
+
+
+
+
+
+What are the toilets like in Vietnam?
+
+
+
+
+
+
+
+
+
+You'll have to adjust to different standards of hygiene and sanitation while in Vietnam. The standard toilet is of the squat variety and this may take some getting used to, although western-style toilets can be found in large hotels and some tourist areas.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Quick city bus ride = 4,000 VND
+Local-style coffee at a cafe = 15,000 VND
+Bowl of pho from street stall = 20,000-30,000 VND
+Dinner at a simple restaurant = 70,000-100,000 VND
+Dinner at a up-market restaurant = 200,000+ VND
+
+
+
+
+
+
+
+Can I drink the water in Vietnam?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Vietnam. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead. Ask your leader where filtered water can be found; some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+Read more about water in Vietnam
+
+
+
+
+
+
+
+Are credit cards accepted widely in Vietnam?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by large shops, hotels and restaurants in Vietnam. However, they may not be accepted by smaller vendors such as small family restaurants, market stalls or in remote towns and rural areas. Make sure you carry enough cash for purchases, since credit cards aren't always an option everywhere in Vietnam.
+
+
+
+
+
+
+
+What is ATM access like in Vietnam?
+
+
+
+
+
+
+
+
+
+ATMs are found widely throughout Vietnam, so withdrawing cash shouldn't be problematic in most areas. Some smaller villages and rural areas may not have ATM access, so prepare for this before venturing too far from a city or major town.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Vietnam?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Vietnam?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year's Day Holiday
+
+26 Jan Lunar New Year Holidays
+
+27 Jan Lunar New Year Eve
+
+28 Jan Lunar New Year (Tet Nguyen Dan)
+
+29 Jan Lunar New Year (Tet Nguyen Dan)
+
+30 Jan Lunar New Year (Tet Nguyen Dan)
+
+31 Jan Lunar New Year (Tet Nguyen Dan)
+
+1 Feb Lunar New Year (Tet Nguyen Dan)
+
+6 Apr Hung Kings Commemoration Day
+
+7 Apr Hung Kings Commemoration Day Holiday
+
+30 Apr Reunification Day
+
+1 May Labor Day
+
+2 May Reunification Day Holiday
+
+2 Sep National Day
+
+4 Sep National Day Holiday
+
+Please note these dates are for 2017. For a current list of public holidays in Vietnam go to:
+http://www.worldtravelguide.net/vietnam/public-holidays
+
+
+
+
+
+
+
+What festivals are celebrated in Vietnam?
+
+
+
+
+
+
+
+
+
+The major festivals celebrated in Vietnam are Tet (Vietnamese Lunar New Year, February), Reunification Day (30 April), National Day (2 September) and Tet Trung Thu (Mid-Autumn Festival, late September).
+
+Read more about Vietnam's festivals and events
+
+
+
+
+
+
+
+When is the best time to visit Vietnam?
+
+
+
+
+
+
+
+
+
+The most popular times to visit Vietnam are spring (February-April) and autumn (September-December) but because of the huge variations in latitude and altitude, there is no one best time to go to Vietnam. It’s a good destination all year.
+
+Read more about the best time to visit Vietnam
+
+
+
+
+
+
+
+Weather in Vietnam
+
+
+
+
+
+
+
+
+
+Vietnam has an incredibly diverse tropical climate, and temperatures vary from 4°C (39°F) in Sapa in winter to humid 36°C (97°F) days in Saigon in the middle of the dry season. The monsoons bring heavy rain to the south, and a cooler winter to the north depending on when you plan to tour in Vietnam.
+
+Read more about weather in Vietnam
+
+
+
+
+
+
+
+What are the best things to eat in Vietnam?
+
+
+
+
+
+
+
+
+
+Traditional Vietnamese food is typified by its use of fresh herbs and vegetables and it's wide regional variance. Vietnamese food is influenced by its Chinese and Khmer neighbours and echoes of French colonisation. Some of the best things to eat in Vietnam are noodle soups (pho, bun mam, bun bo hue), bread rolls (banh mi), savoury pancakes (banh xeo) and fresh tropical fruits.
+
+Read more about what to eat in Vietnam
+
+
+
+
+
+
+
+What are the best things to drink in Vietnam?
+
+
+
+
+
+
+
+
+
+Our list of best things to drink in Vietnam includes fruit smoothies, fresh coconut juice straight from a freshly cracked green coconut, sugar cane juice, local beers and artisan rice wine.
+
+Read more about what to drink in Vietnam
+
+
+
+
+
+
+
+
+What to wear in Vietnam?
+
+
+
+
+
+
+
+
+
+While the tropical climate lends itself to layered, breathable clothing all year round, if you are taking a tour in the North, cold winters mean you might need to bring a fleece or jacket.
+
+Read more about what to pack for Vietnam
+
+
+
+
+
+
+
+Is Vietnam a gay-friendly destination?
+
+
+
+
+
+
+
+
+
+The LGBQTI community is gradually gaining recognition in Vietnam, with gay pride parades becoming a regular occurrence and a lift on same-sex marriage bans in 2015. With that said, Vietnam is stil a conservative culture and many still hide their sexuality from their families. Travellers will find Vietnam to be a gay-friendly country, with lively gay-friendly bars, restaurants, sauncas and hotels found in major cities like Hanoi and Ho Chi Minh City. It is generally recommended that both gay and straight couples resist showing public displays of affection.
+
+Read more about LGBTQI culture in Vietnam
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Vietnam
+
+Be considerate of Vietnam’s customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Vietnam, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Blue Dragon Children's Foundation
+
+This organisation supports some of the most vulnerable children in Vietnam. Homeless, disabled and poverty stricken kids are greatly assisted by the health, education and social development programs run by this worthy organisation.
+
+Image supplied by Blue Dragon Children's Foundation.
+
+
+
+
+
+
+
+
+
+
+
+Children's Hope in Action
+
+Caring for some of Vietnam's neediest children, this grassroots organisation provides life-saving medical treatment, therapy programs and education opportunities to families without means.
+
+Image supplied by Children's Hope in Action.
+
+
+
+
+
+
+
+
+
+
+
+KOTO Saigon Training Centre
+
+This not-for-profit restaurant and vocational training program changes the lives of disadvantaged youth in Vietnam. Providing hospitality training, English language education and life skills, the KOTO cafe not only serves up great food, but also changes people's lives in the process.
+
+Image supplied by KOTO.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

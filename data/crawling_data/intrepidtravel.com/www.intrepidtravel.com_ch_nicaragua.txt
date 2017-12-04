@@ -1,0 +1,3563 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nicaragua Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nicaragua tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Central America
+
+Nicaragua
+
+
+
+Central America’s largest, but least densely populated, country overflows with natural beauty.
+
+
+It can be hard to choose between chatting with monkeys, climbing volcanoes or picking a banana straight from the tree. The locals are incredibly welcoming and you’ll find new friends at every turn.
+
+
+Our Nicaragua trips
+
+
+
+
+
+
+
+
+
+Central American Journey
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR1,495
+
+
+
+
+
+Discover tropical paradise and ancient wonders on this tour of Central America,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central American Adventure
+
+
+
+
+
+
+
+
+
+32 Days
+
+
+From
+FR2,985
+
+
+
+
+
+Ruins, volcanoes and beachside playgrounds await on this awesome Central American...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing Central America
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR2,770
+
+
+
+
+
+Head from the forest to the beach on this amazing Central America tour visiting...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Central America
+
+
+
+
+
+
+
+
+
+44 Days
+
+
+From
+FR4,200
+
+
+
+
+
+Have the ultimate Central American adventure on this classic tour from Mexico to Panama...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Central America
+
+
+
+
+
+
+
+
+
+58 Days
+
+
+From
+FR5,490
+
+
+
+
+
+This captivating adventure through Central America travels through Mexico, Belize,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Central America
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,425
+
+
+
+
+
+Ride across the many and varied landscapes of Central America on a cycling tour of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Guatemala & Beyond
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR860
+
+
+
+
+
+Discover tropical paradise and ancient wonders on a tour of Central America, featuring...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Nicaragua, Costa Rica & Panama
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,615
+
+
+
+
+
+Ride across the many and varied landscapes of Central America on a cycling tour of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nicaragua & Costa Rica
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR780
+
+
+
+
+
+Discover the best of Nicaragua and Costa Rica on an all-encompassing adventure,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central America Discovery
+
+
+
+
+
+
+
+
+
+53 Days
+
+
+From
+FR5,540
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central America Explorer
+
+
+
+
+
+
+
+
+
+46 Days
+
+
+From
+FR4,265
+
+
+
+
+
+Escape on a Central American odyssey through Mexico, Belize, Guatemala, Honduras, El...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Central America
+
+
+
+
+
+
+
+
+
+65 Days
+
+
+From
+FR6,435
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on Nicaragua
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 08, 2017
+
+
+
+Interested in ecotourism? Here’s why you should...
+
+
+
+
+
+
+Defined by lakes and volcanoes, abuzz with coffee harvests and influenced by the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 13, 2017
+
+
+
+Why Granada is Central America’s must-visit city
+
+
+
+
+
+
+Quite possibly the most laid-back and accessible city in Central America, Granada...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 11, 2014
+
+
+
+Move over Mexico: 7 awesome foods from Central...
+
+
+
+
+
+
+Move over Mexico, your neighbours have some pretty sensational tastebud pleasers...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nicaragua travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Granada
+
+
+
+
+Explore Granada's charming colonial streets
+
+
+
+
+
+
+Complete Central America, 65 days
+
+
+
+
+
+
+
+
+
+
+
+Volcano Maderas
+
+
+
+
+Hike to a lagoon on the summit of Volcano Maderas
+
+
+
+
+
+
+Cycle Nicaragua, Costa Rica & Panama, 16 days
+
+
+
+
+
+
+
+
+
+
+
+Ometepe Island
+
+
+
+
+Take a boat to Lake Nicaragua’s Ometepe Island
+
+
+
+
+
+
+Central American Journey, 17 days
+
+
+
+
+
+
+
+
+
+
+
+
+Nicaragua holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Managua (population 1.8 million)
+
+Population:
+
+5.9 million
+
+Language:
+
+Spanish
+
+Currency:
+
+NIO
+
+Time zone:
+
+(GMT-06:00) Central America
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code:
+
++505
+
+
+
+
+
+
+
+
+
+Best time to visit Nicaragua
+
+
+
+
+
+
+×
+
+Best time to visit Nicaragua
+
+
+
+
+There are three distinct regions in Nicaragua: the Pacific coastal area, the north central mountains and the Caribbean lowlands, also know as the Mosquito Coast. Temperatures and rainfall vary depending on the region. Typically, the dry season is from December to May. Between June and October, the countryside is lush and fresh but humid. March and April are the hottest months, even in the north central mountain area. The Mosquito Coast experiences heavy rainfall even in the dry season.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+Central America’s largest country is blessed with one of the most pristine and varied landscapes in the region. Most famous are its perfect coastlines (both Caribbean and Pacific) and Lake Nicaragua with its 310 islands. There are jungles, volcanoes and beaches to explore and with
+Honduras
+to the north and
+Costa Rica
+to the south, Nicaragua is in good company.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Handy Links
+
+
+
+
+
+
+×
+
+Handy Links
+
+
+
+www.lonelyplanet.com/nicaragua
+
+www.nicaragua.com
+
+www.experiencenicaragua.com
+
+
+
+
+
+
+
+
+Top 5 Island Experiences in Nicaragua
+
+
+
+
+
+
+×
+
+Top 5 Island Experiences in Nicaragua
+
+
+
+1. Beach Bliss
+
+Lying back on a perfect sandy beach is, quite literally, the least you could do while in paradise. For slightly more strenuous activities, take a dive into the Caribbean, Pacific or Lake Nicaraguan waters; or get to know the fishermen as they haul in their daily catch.
+
+2. Get Fruity
+
+Head inland to taste the real treats of Ometepe’s volcanic soil. Wander through watermelon crops, pick bananas off the tree, inhale the smell of citrus and gaze over miles of coffee plantations.
+
+3. Climb a Volcano
+
+If those steamy peaks have you hankering after toasted marshmallows, pack your sense of adventure and head uphill. Volcano Maderas reaches 1340m and a climb up here is certainly not for the faint hearted.
+
+4. Monkey Around
+
+Go on safari, island-style, and spot howler monkeys, colourful parrots and diverse plant life.
+
+5. Go Petroglyph-ing
+
+The call of Lake Nicaragua’s islands have been attracting people for centuries. Discover cultural artefacts strewn across the islands and try to decipher the petroglyphs’ meaning.
+
+
+
+
+
+
+
+
+Further Reading
+
+
+
+
+
+
+×
+
+Further Reading
+
+
+
+Title
+
+Author
+
+The Jaguar Smile: A Nicaraguan Journey
+
+Salman Rushdie
+
+Nicaragua: Living in the Shadow of the Eagle
+
+Thomas W. Walker
+
+Culture & Politics in Nicaragua
+
+Steven White
+
+
+
+
+
+
+
+
+Nicaragua travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Nicaragua
+
+
+
+
+
+
+
+
+
+NICARAGUA:
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Not required
+Switzerland: Not required
+United Kingdom: Not required
+USA: Not required
+
+Please note that although a visa is not required, holders of British, US, Canadian, Australian, New Zealand, and most EU passports are now required to pay US$10 for a tourist card on arrival.
+
+
+
+
+
+
+
+Is tipping customary in Nicaragua?
+
+
+
+
+
+
+
+
+
+Tipping isn’t expected in Nicaragua but if you’ve received good service consider a 10% tip. Some high-end restaurants may include a service charge on your bill.
+
+
+
+
+
+
+
+What is the internet access like in Nicaragua?
+
+
+
+
+
+
+
+
+
+There are plenty of internet cafes available in the main towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Nicaragua?
+
+
+
+
+
+
+
+
+
+Reception is good in most coastal and urban areas. Ensure you have global roaming activated with your carrier if you wish to use your phone.
+
+
+
+
+
+
+
+What are the toilets like in Nicaragua?
+
+
+
+
+
+
+
+
+
+It's likely that you’ll encounter different types of toilets while travelling in Nicaragua. Western-style flushable toilets are commonly found in high-end resorts, hotels and restaurants, while squat toilets are common in rural areas and homes. Be prepared by carrying your own supply of toilet paper and soap, as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Bottle of soft drink = 20 NIO
+Beer in a bar or restaurant = 25 NIO
+Simple lunch = 75 NIO
+Three-course meal = 150 NIO
+Short taxi ride = 50 NIO
+
+
+
+
+
+
+
+Can I drink the water in Nicaragua?
+
+
+
+
+
+
+
+
+
+Drinking tap water in Nicaragua isn’t recommended. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Nicaragua?
+
+
+
+
+
+
+
+
+
+Credit cards are widely accepted.
+
+
+
+
+
+
+
+What is ATM access like in Nicaragua?
+
+
+
+
+
+
+
+
+
+There’s good access to ATMs in nearly all towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Nicaragua?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Nicaragua ?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+13 Apr Holy Thursday
+
+14 Apr Good Friday
+
+1 May Labor Day
+
+19 Jul Liberation Day
+
+14 Sep Battle of San Jacinto
+
+15 Sep Independence Day
+
+8 Dec Immaculate Conception
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Nicaragua go to:
+http://www.worldtravelguide.net/nicaragua/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Nicaragua
+
+1. Be considerate of Nicaragua’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+5. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+6. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+7. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+8. Please ask and receive permission before taking photos of people, including children.
+
+9. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3220 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Family holidays in Europe | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Family holidays in Europe and Turkey
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Family
+
+Europe family tours
+
+
+
+
+Ah, Europe. The quintessential holiday spot. But also a challenging one for families with its myriad different languages, cuisines and currencies to juggle. Our kid-friendly Euro trips take the hassle and expense out of a whirlwind European adventure. All your chalets, guesthouses and alpine trains are booked and ready, we’ve got warm baguettes and Bolognese on standby and an action-packed family-friendly itinerary with your name on it. Yep, it’s time to start dreaming Continental.
+
+
+Europe & Turkey family trips
+
+
+
+
+
+
+
+
+
+
+Summer Pyrenees Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR835
+
+
+
+
+
+Walk, ride and raft on this European adventure into the heart of the Pyrenees. Unleash...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summer Iceland Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,630
+
+
+
+
+
+Discover why Iceland is known as the land of fire and ice on this spectacular holiday....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Italy Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,880
+
+
+
+
+
+Travel to Italy on a family holiday with a difference. Climb volcanoes, see ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,410
+
+
+
+
+
+Discover Croatia with hiking in the Paklenica and Plitvice Lakes National Parks, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Turkey Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR640
+
+
+
+
+
+The family will love exploring Turkey’s coast, whether it’s walking through ruins in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Family Holiday
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,025
+
+
+
+
+
+Take your family on a Croatian adventure following the Dalmatian coast from Dubrovnik...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Italy Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,880
+
+
+
+
+
+Visit Venice, Cinque Terre, Pisa and Rome on an exciting family holiday through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Malta and Gozo Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR905
+
+
+
+
+
+Conquer the three islands of the Maltese archipelago on this delightful Family...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Azores Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,410
+
+
+
+
+
+Travel to the Azores Islands on a unique family adventure. Swim with dolphins off the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slovenia Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,315
+
+
+
+
+
+Hike, bike and raft on this exhilarating family adventure through Slovenia, covering...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Winter Slovakian Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,650
+
+
+
+
+
+The snowy Tatra mountains make a magical backdrop to a family winter holiday with a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Winter Iceland Family Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,529
+
+
+
+
+
+Get to know the colours of Iceland on a winter adventure that takes in belching geysers...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+Accommodation on Europe & Turkey trips
+
+
+For our continental adventures, we like to stay in small, locally run hotels where hospitality is key and family-friendly facilities are available. Fortunately Europe has plenty of great old buildings and character-filled properties to choose from. On our Turkey Active Holiday we sleep for two nights on a traditional Turkish gulet, and on our Italy Family Holiday we stay at a lovely guesthouse – Villa Giovanna, a locally run hotel surrounded by olive trees and Sorrento lemons, with great views over the Bay of Naples (and a pool, of course).
+
+
+
+
+A taste of whats in store...
+
+Each of Intrepid's family trips has been built with a smooth blend of action-packed activities and flexible family time, just the way we like it. Want to know the sort of adventures you can expect with us? We’ve picked out a few of our favourites.
+
+
+
+
+
+
+
+
+
+
+
+Explore the ruins of Pompeii
+
+History lessons don’t have to be dry and dull affairs. We’ll guide you and the kids through the old stone streets of Pompeii and bring the familiar story of its AD79 destruction to life. Learn about the city’s last few minutes at ground level, then climb Mt Vesuvius for a bird’s-eye view over Campania.
+
+Experience on
+Italy Family Holiday
+
+
+
+
+
+
+
+
+
+
+
+Cruise the Lycian Coast in a real Turkish gulet
+
+A gulet is an all-timber, handcrafted Turkish yacht, built specially for cruising the deep blue waters of the Mediterranean. It’ll be your home for a couple of nights on our Turkey active trips, the perfect base for island hopping, snorkelling and exploring the coves of the Lycian Coast.
+
+Experience on a
+Turkey Family Holiday
+
+
+
+
+
+
+
+
+
+
+
+Go cycling in the Pyrenees
+
+Ah the Pyrenees, Andorra’s classic summer destination and one of the best places to soak in the fresh mountain air. We’ll set you and the kids up in a chalet in Soldeu for a week of hiking, cycling, horse riding and even a wild white water rafting expedition.
+
+Experience on
+Summer Pyrenees Family holiday
+
+
+
+
+
+
+
+
+
+
+
+Try your hand at cheese making in Slovakia
+
+Kids plus farm animals plus a hands-on cheese making class in the gorgeous farmland of the Janosikove Diery Canyons is a recipe for fun. Meet the farm animals, milk the cows and join local artisans in making some of Europe’s best cheeses. It’s a rare glimpse into real Slovakian rural life.
+
+Experience on
+Winter Slovakian Family Holiday
+
+
+
+
+
+
+
+Reviews
+
+
+Our  trips score an average of
+4.78 out of 5
+based on 23 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Italy Family Holiday ,
+October 2017
+
+Melissa Smith
+
+Intrepid trips are full of interesting activities, cutting out the boring touristy bits and getting straight to the interesting local stories. The guides are passionate about what they do. It's also so relaxing to know that all the details are taken care of whilst being sure that every day of your holiday is going to be even better than you could plan yourself.
+
+Review submitted 31 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Summer Pyrenees Family Holiday,
+July 2017
+
+Marie Moynihan
+
+The trip was great - with just the right level of activity. The guides were fab and were very good with the kids, always encouraging them and making it fun for them. This holiday was the first holiday I felt like I could totally switch off - every thing was organised for you, so you didn't have to think about anything - you could just enjoy. Andorra is beautiful. White water rafting was highlight for the kids. Highly recommend this as a family holiday with teenagers - 12 and 15.
+
+Review submitted 31 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Italy Family Holiday ,
+September 2017
+
+Heath Helmore
+
+Had a wonderful time and would highly recommend the Italy Family Adventure
+
+Review submitted 09 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Italy Family Holiday ,
+August 2017
+
+Richard Askey
+
+Please read comments herein. One addition I would suggest - optional would be the walk up to Ravello - I did this alone - its 1500 steps up hill -.quite a killer but a fantastic UNESCO village when you arruvev
+
+Review submitted 07 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Summer Pyrenees Family Holiday,
+August 2017
+
+Tania Testa
+
+This is a great family holiday, full of activities - you will definitely sleep well each night! The guides make it an unforgettable experience and the white-water rafting is the highlight. I highly recommend spending time in this beautiful country and vow to come back to Andorra in the Winter for the skiing.
+
+Review submitted 20 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Summer Pyrenees Family Holiday,
+August 2017
+
+Sarah Cooke
+
+Great family holiday, challenging enough to feel you have accomplished something but not daunting.  Guides were fantastic, they really knew what they were doing so we always felt safe. Options to take it at your own pace.  We had a fantastic time, would definitely recommend.
+
+Review submitted 04 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Summer Pyrenees Family Holiday,
+August 2017
+
+Ruth Moran
+
+This holiday was awesome! The guides were absolutely fantastic, brilliant with the kids and full of fun. The physical activities were challenging though, don't be fooled into thinking that a family holiday won't have long walks!!
+
+Review submitted 30 Aug 2017
+
+
+
+
+
+
+
+
+
+
+
+Summer Pyrenees Family Holiday,
+August 2017
+
+David Overall
+
+Outstanding Holiday. Kids loved it especially the White Water Rafting. The team headed by Nick were amazing as was the food. Slight criticism was the transfers in that the coach drivers seemed to not be interested and were unwilling to go the extra mile that the rest of the team were.
+
+Review submitted 30 Aug 2017
+
+
+
+
+
+
+
+
+
+
+
+Italy Family Holiday ,
+August 2017
+
+Prital Nicholls
+
+A great trip for families, both my children enjoyed this trip immensely, much to their surprise.  The most active part is the trip up to Vesuvius  which is worth it.
+
+Review submitted 29 Aug 2017
+
+
+
+
+
+
+
+
+
+
+
+Summer Pyrenees Family Holiday,
+July 2017
+
+Christine Kelly
+
+The trip was seamless. It was the best family holiday we have ever been on. Everything was pitched perfectly, the transfers, the hotel, the activities just everything. Nuria and Nick were amazing hosts their hotel was perfect and the home cooked food every night simply couldn't be faulted.  Our guides were just fabulous ...we were sorry to leave everyone behind. Well done Intrepid and massive, love and thanks to Nick, Nuria, Stuart and Adele...we will be back!
+
+Review submitted 27 Aug 2017
+
+
+
+
+
+
+
+
+
+
+
+Summer Pyrenees Family Holiday,
+August 2017
+
+John Fahy
+
+Andorra is a hidden gem, a country I was unaware of , it is ckean safe and beautiful and I would recommend a visit there on one of the Intrepid trips
+
+Review submitted 24 Aug 2017
+
+
+
+
+
+
+
+
+
+
+
+Summer Pyrenees Family Holiday,
+July 2017
+
+Emma Rees
+
+Fantastic holiday ( although not restful ! ), we were a family group of 9, age range of 10 - 77....while not everyone did everything there was always options offered. I would highly recommend this trip !
+
+Review submitted 17 Aug 2017
+
+
+
+
+
+
+Show more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5740 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+China Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+China tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+China
+
+
+
+China feels like a hundred different moods, landscapes and countries rolled into one.
+
+
+Neon cities, remote villages, deserts, smoky markets and ancient artefacts - there are new adventures around every corner. Even after a lifetime in China, there would still be more to see, taste, admire and experience.
+
+
+Top China travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+6 Jan 2018
+
+China's Harbin Ice Festival
+
+
+
+China's Harbin Ice Festival
+Beijing to Beijing
+
+
+
+
+
+
+
+
+
+×
+
+China's Harbin Ice Festival
+
+
+
+
+
+
+
+
+
+5
+
+
+FR1,180
+
+
+FR1,062
+
+
+
+
+View Trip
+
+
+
+
+
+
+19 Jan 2018
+
+China Highlights
+
+
+
+China Highlights
+Shanghai to Beijing
+
+
+
+
+
+
+
+
+
+×
+
+China Highlights
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,485
+
+
+FR1,188
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our China trips
+
+
+
+
+
+
+
+
+
+China Highlights
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,262
+
+
+
+
+
+Get a taste of China on a short but sweet tour. China Highlights travels between...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+China Experience
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,460
+
+
+
+
+
+Travel to China and tour Beijing, visit the Great Wall of China, see the Terracotta...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Trans-Mongolian Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR4,070
+
+
+
+
+
+Travel on the Trans-Siberian and Trans-Mongolian Railways from Russia to China. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Trans-Mongolian Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,770
+
+
+
+
+
+Travel on the Trans-Siberian and Trans-Mongolian Railways from Russia to China. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+China Experience
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,340
+
+
+
+
+
+Travel to China and tour Beijing, visit the Great Wall of China, see the Terracotta...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to St Petersburg
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,645
+
+
+
+
+
+Explore China, Mongolia and Russia on a journey from Beijing to St Petersburg via...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tibetan Adventure
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR4,655
+
+
+
+
+
+Take a scenic and spiritual tour of China and Tibet. Travel across the roof of the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to Moscow
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,315
+
+
+
+
+
+Travel to China, Mongolia and Russia on the Trans-Siberian Railway from Beijing to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North China Getaway
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Travel to China on a getaway from Beijing to Shanghai. Visit Xi'an and Huangshan, see...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to St Petersburg
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR5,020
+
+
+
+
+
+Explore China, Mongolia and Russia on a journey from Beijing to St Petersburg via...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+China Highlights & Harbin Ice Festival
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,530
+
+
+
+
+
+Get a taste of China on this cultural and ice-filled adventure.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+China Family Holiday
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,710
+
+
+
+
+
+Travel to the land of the dragon and explore Beijing, Xi'an, Yangshuo, Chengdu and Hong...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+China Real Food Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Discover China and the tantalising sights, culture and food of Beijing, Chengdu, Xi'an...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to Moscow
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,490
+
+
+
+
+
+Travel to China, Mongolia and Russia on the Trans-Siberian Railway from Beijing to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore China
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,530
+
+
+
+
+
+Travel on lightning-fast trains to bustling cities and tranquil towns. See the sights...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to Hong Kong
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR2,710
+
+
+
+
+
+Adventure through Beijing, Xi’an, Shanghai and Hong Kong to experience the Great Wall...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Yunnan & Tiger Leaping Gorge
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,490
+
+
+
+
+
+Travel to China and visit the famous Tiger Leaping Gorge. Starting from Kunming, visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Yunnan & Tiger Leaping Gorge
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,430
+
+
+
+
+
+Travel to China and visit the famous Tiger Leaping Gorge. Starting from Kunming, visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South China Getaway
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,390
+
+
+
+
+
+Travel through Shanghai, Xiamen, Yangshuo, the Longji rice terraces and Hong Kong on a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hanoi to Hong Kong
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,436
+
+
+
+
+
+Experience the eclectic allure of China on this adventure from Hanoi to Hong Kong....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tibet Uncovered
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,395
+
+
+
+
+
+Enjoy an adventure travel experience on a round trip from Kathmandu. Tour across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel the Silk Road
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,795
+
+
+
+
+
+Retrace the path of the ancient Silk Road from Beijing to Xi'an, Zhangye and Turpan...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tibetan Journey
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,770
+
+
+
+
+
+Take a scenic and spiritual tour of China and Tibet. Travel from Beijing to the roof of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tibet Uncovered
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,295
+
+
+
+
+
+Enjoy an adventure travel experience on a round trip from Kathmandu. Tour across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Great Silk Road
+
+
+
+
+
+
+
+
+
+32 Days
+
+
+From
+FR5,795
+
+
+
+
+
+Travel the Silk Road from China through Kyrgyzstan and Uzbekistan
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hanoi to Hong Kong
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Experience the eclectic allure of China on this adventure from Hanoi to Hong Kong....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of China & Tibet
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR5,050
+
+
+
+
+
+Take it all in what China and Tibet has to offer for a blend of the modern and the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam & China Adventure
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,865
+
+
+
+
+
+Two countries in one go! Enjoy a cocktail of experiences from the hustle and bustle in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+China Expedition - Great Wall Marathon
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,430
+
+
+
+
+
+Get set for a marathon race along the famous Great Wall of China, explore old-meets-new...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+China's Harbin Ice Festival
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR1,062
+
+
+
+
+
+Brave the sub-zero temperatures of Harbin and you’ll be rewarded with the most...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North Korea Highlights
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR3,625
+
+
+
+
+
+Travel around the Democratic People’s Republic of Korea, its capital of Pyongyang and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Xi'an to Istanbul Overland
+
+
+
+
+
+
+
+
+
+80 Days
+
+
+From
+FR10,791
+
+
+
+
+
+Travel to Kyrgyzstan, Uzbekistan and Turkey. See the the Terracotta Warriors and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+China tour reviews
+
+
+Our China trips score an average of
+4.79 out of 5
+based on 412 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+China Highlights,
+November 2017
+
+Peter Hayes
+
+Pack light and wear running shoes, But keep your eyes open, becoues the time disappears so quickly
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+China Highlights,
+November 2017
+
+Jemma Matthews
+
+Great tour, awesome guide and amazing places!!! Highly recommend upgrade in overnight train - soft sleeper has slightly wider and longer beds and with the option of closing the door allowed it to be nice and cosy.
+
+Review submitted 29 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+China trip reviews
+
+Our China trips score an average of
+4.79 out of 5
+based on 412 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on China
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+Chengdu: a guide to China’s next hottest...
+
+
+
+
+
+
+I found Chengdu astonishingly laid-back, which is probably an adjective you never...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular places...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 18, 2017
+
+
+
+A guide to traditional Chinese street food
+
+
+
+
+
+
+One of the most popular forms of traditional Chinese food, everywhere from...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+What to expect on an adventure through Tibet
+
+
+
+
+
+
+From the window you see villagers herding yaks in valleys and gaze at the craggy...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 19, 2017
+
+
+
+The 10 best cities in China for travelers
+
+
+
+
+
+
+It's difficult to think of a country more diverse in its landscapes, its people,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 16, 2017
+
+
+
+Аnton and the Trans-Siberian Express: A...
+
+
+
+
+
+
+Teacher of Russian, fine tea connoisseur, Chinggis Khan Gold vodka enthusiast:...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 21, 2017
+
+
+
+Beyond the Great Wall: 7 unique experiences to...
+
+
+
+
+
+
+Sure, the Great Wall really is a site to behold, but it’s not the only adventure...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 26, 2017
+
+
+
+6 surreal landscapes to explore in China
+
+
+
+
+
+
+Let us take you on a journey through the weird and wonderful landscapes that China...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 09, 2017
+
+
+
+The Southern Great Wall of China has a newly...
+
+
+
+
+
+
+Introducing the Great Wall of China's little sis. Part of the lesser-known ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 28, 2016
+
+
+
+Island hopping in Hong Kong: exploring Lantau
+
+
+
+
+
+
+Forget the Cote d’Azur, Hong Kong is the ultimate place to go island-hopping. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+Which section of the Great Wall should you visit?
+
+
+
+
+
+
+China’s Great Wall stretches for over 6000kms, all the way from Jiayuguan in the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 14, 2016
+
+
+
+Which section of the Great Wall to visit? Here...
+
+
+
+
+
+
+China’s Great Wall stretches for over 6000kms, all the way from Jiayuguan in the ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 07, 2016
+
+
+
+This is what it looks like to eat your way...
+
+
+
+
+
+
+If your experience of Chinese cuisine stops at a double order of fried rice and a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+Introducing our brand new Expedition trips for...
+
+
+
+
+
+
+After months of planning, arguing, drinking and pondering, we've come up with the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 04, 2016
+
+
+
+Mothers of Intrepid: 3 amazing women you’ll...
+
+
+
+
+
+
+Whether it’s a Mongolian Nana or a Peruvian Mama, homestay cooking, hospitality ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 26, 2016
+
+
+
+Want to know what Overland travel really looks...
+
+
+
+
+
+
+There aren't many things left in the world that can be called a genuine Adventure,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 08, 2015
+
+
+
+Why we sometimes lose the travel itch (and how...
+
+
+
+
+
+
+"This was the life I’d chosen. It was the life I’d life a decent job in Vancouver,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 25, 2015
+
+
+
+This is what it looks like to travel the Trans...
+
+
+
+
+
+
+Travelling along the Trans-Mongolian railway was never a dream of mine. But then I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 22, 2015
+
+
+
+Say no to lemon chicken: alternatives to...
+
+
+
+
+
+
+It’s a funny thing, but there’s really no such thing as Chinese cuisine. Oh there...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 22, 2015
+
+
+
+Chop-stickler: A beginner’s guide to Chinese...
+
+
+
+
+
+
+Confucius once said, ‘to know what you know and what you do not know, that is true...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 19, 2015
+
+
+
+Made in China: 6 of Hollywood’s favourite...
+
+
+
+
+
+
+If you want to add an element of mystique, a dash of neon or a dollop of ancient...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 09, 2015
+
+
+
+Confucius say: 11 lessons from China’s most...
+
+
+
+
+
+
+Ancient wisdom or just showing off? Confucius say: let's begin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2014
+
+
+
+These five dumplings prove the theory that...
+
+
+
+
+
+
+Intrepid's in-house foodologist, James Shackell, sets out to prove a theory as old...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2014
+
+
+
+Backstage pass: 8 of the best festivals in Asia
+
+
+
+
+
+
+Shakespeare once said, ‘The sauce to meat is ceremony; meeting were bare without...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2014
+
+
+
+6 Asian hotels you really have to see to believe
+
+
+
+
+
+
+What is it about Asia that throws up strange and unusual places to rest your head?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+China travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kunming
+
+
+
+
+See stately pagodas in Kunming
+
+
+
+
+
+
+Yunnan & Tiger Leaping Gorge, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Yangzi River
+
+
+
+
+Enjoy a cruise down the Yangzi River
+
+
+
+
+
+
+China Experience, 21 days
+
+
+
+
+
+
+
+
+
+
+
+Hong Kong
+
+
+
+
+Discover the gastronomic delights of vibrant Hong Kong
+
+
+
+
+
+
+Beijing to Hong Kong, 23 days
+
+
+
+
+
+
+
+
+South China Getaway, 12 days
+
+
+
+
+
+
+
+
+China Experience, 21 days
+
+
+
+
+
+
+
+
+
+
+
+Chengdu
+
+
+
+
+Sample sizzling Sichuan cuisine in Chengdu
+
+
+
+
+
+
+China Real Food Adventure, 12 days
+
+
+
+
+
+
+
+
+China Family Holiday, 14 days
+
+
+
+
+
+
+
+
+China Experience, 21 days
+
+
+
+
+
+
+
+
+
+
+
+The Great Wall of China
+
+
+
+
+Walk a section of the iconic
+Great Wall of China
+
+
+
+
+
+
+North China Getaway, 12 days
+
+
+
+
+
+
+
+
+
+
+
+Xi'an
+
+
+
+
+Visit the Terracotta Warriors in Xi'an
+
+
+
+
+
+
+China Real Food Adventure, 12 days
+
+
+
+
+
+
+
+
+
+
+
+Yangshuo
+
+
+
+
+Cycle slowly through rural Yangshuo
+
+
+
+
+
+
+China Family Holiday, 14 days
+
+
+
+
+
+
+
+
+South China Getaway, 12 days
+
+
+
+
+
+
+
+
+China Experience, 21 days
+
+
+
+
+
+
+
+
+
+
+
+Shanghai
+
+
+
+
+Shop up a storm in sophisticated Shanghai
+
+
+
+
+
+
+China Real Food Adventure, 12 days
+
+
+
+
+
+
+
+
+Explore China, 13 days
+
+
+
+
+
+
+
+
+China Highlights, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Xitang
+
+
+
+
+Sip tea by a canal in charming Xitang
+
+
+
+
+
+
+China Highlights, 9 days
+
+
+
+
+
+
+
+
+China Highlights & Harbin Ice Festival, 13 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in China
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in China, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bicycle
+
+Cycling through China is a great way to see the country from ground level. Whether you're pedalling through the hutongs or the countryside, you'll see the sights and get to meet locals along the way.
+
+
+China Experience
+
+
+
+
+
+
+
+
+
+
+Bullet train
+
+Speed across China in a super fast bullet train. It's one of the most effective ways to cover long distances in a short time.
+
+
+
+
+
+
+
+
+
+
+
+Boat
+
+Cruising down the Yangzi River is a quintessential China travel moment. Take in the scenery and bask in the epic glory of the dramatic Three Gorges.
+
+
+
+
+
+Accommodation in China
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in China you may find yourself staying in a:
+
+
+
+
+
+
+
+Overnight Sleeper Train
+
+Sleeping on an overnight train may not be the most comfortable experience but you'll get the chance to mingle with locals, play cards with other travellers or simply sit back and watch the scenery whiz by.
+
+
+China Family Holiday
+
+
+
+
+
+
+
+
+
+
+Homestay
+
+For an authentic experience, enjoy staying with local families in the hilltribe villages of the Sapa region where hospitality, fun and traditional food await.
+
+
+
+
+
+China holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Beijing (population 13 million)
+
+Population:
+
+1.3 billion
+
+Language:
+
+Mandarin, Cantonese and many dialects
+
+Currency:
+
+CNY
+
+Time zone:
+
+(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type C (European 2-pin) Type I (Australian/New Zealand & Chinese/Argentine 2/3-pin)
+
+Dialing code:
+
++86
+
+
+
+
+
+
+
+
+
+Best time to visit China
+
+
+
+
+
+
+×
+
+Best time to visit China
+
+
+
+
+Due to China's large size, there are great variations in the climate - depending on what area you're travelling in, expect different temperatures and conditions. Autumn and spring are generally the better seasons to visit as temperatures are less extreme than in summer and winter. Be aware that travelling through China during Chinese New Year presents some challenges, with many businesses closing and public transport (especially rail) much busier due to locals moving around the country to visit their families.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+As one of the world's oldest cultures, China has a fascinating array of cultural treasures to observe, taste, admire and learn about. Ancient mythology and spirituality is infused throughout the traditional dance, art, music and literature of China, with many contemporary customs being directly attributed to century-old traditions. While modern China is changing at a rapid pace, with technological advances and infrastructure cropping up at a speedy rate, much of China still clings to age-old traditions and ways of life. This culture clash is particularly evident when visiting large cities like Beijing that are home to ancient hutongs, modern skyscrapers, time-worn temples and glorious UNESCO World Heritage sites, which can all be found near each other. Culturally, China has given the world everything from martial arts to mah jong, with the greater world enjoying China's rich cuisine, delicate art, evocative dance and enlightening philosophy. Although the language may be impenetrable for new comers and some of the customs and foods a little strange to western tastes, China's culture remains one of the world's most fascinating.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways of experiencing a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+China can lay claim to rich culinary traditions and some of the world's most celebrated cuisine.
+
+Things to try in China
+
+1. Sichuan Hot Pot
+
+Taste a bit of Chinese history by dipping into a fiery Sichuan hot pot filled with meat, vegetables, noodles and chilli. While each region in China has different varieties, the hot pots in Sichuan are among the fieriest.
+
+2. Dim Sum (Yum Cha)
+
+Sitting down to a dim sum banquet is one of Hong Kong's great culinary experiences. Bamboo baskets of salty dumplings and pots of cleansing tea change hands in this traditional feast that will leave you feeling very full.
+
+3. Green Tea
+
+China is home to one of the world's largest tea drinking cultures, with most locals sipping a few cups of tea daily. In western societies, green tea has risen in popularity of late, but has been used as a medicine in China for thousands of years.
+
+4. Peking Duck
+
+This famous roast duck dish from Beijing dates back to Imperial China. Succulent slices of duck served between delicate pancakes with green onions and hoisin sauce is simply one of the best flavour combinations in the world.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+As one of the world's largest countries, China's vast land mass spreads across a large part of northern
+Asia
+and includes a diverse range of terrain and people. With fertile rice terraces, inhospitable desert, towering mountain ranges, earthy steppes and life-giving rivers and channels, China is a revolving door of natural environments. The diversity of topography is also matched by the different ways of living that have evolved over the years. Contemporary China is a mixture of sleepy villages, busy port cities, burgeoning industrial centres and thriving metropolises.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+As one of the world's oldest civilisations, China has an intriguing history that spans thousands of years. The Yellow River is known as the Cradle of Chinese Civilisation as it is thought that Chinese civilisation originated on the banks of the river. China's early history is dominated by periods of dynastic rule, fragmentation and imperialistic expansion, with each dynasty contributing something different to the annals of history. Construction of the Great Wall of China was thought to have started during the Qin Dynasty, with the Ming Dynasty enhancing the wall at a later stage. The Tang Dynasty is known as a time of prosperity and artistic expression, the Song Dynasty is famed for being a time of scientific and technological discovery, and Kublai Khan's Yuan Dynasty saw an overall population decline that has been attributed to everything from an administration error to the arrival of the Bubonic Plague. With the Yuan Dynasty being overthrown by the Ming Dynasty in 1368, population numbers began to increase again and urbanisation grew quite rapidly. During this time, private enterprise flourished, with small-scale paper, silk and cotton trading providing trade income to the masses. The following period of rule known as the Qing Dynasty stretched from 1644 to 1911. This is generally seen as a time of rebellion and upheaval with the Taiping Rebellion, Nien Rebellion, Panthay Rebellion and Boxer Rebellion all testing the Qing's ability to rule. Thankfully, remnants of most of these periods of history can be found in China today.
+
+Recent History
+
+The Republic of China was formed in Nanjing in 1912 after a military uprising. During the following years, leadership changed hands many times until the People's Liberation Army succeeded in ousting the US backed Chiang Kai-Shek after a long and bloody battle. Mao Zedong became Chairman (leader) of the People's Republic of China, which was declared in 1949, and China's society was systematically converted to communism, with land reforms and collectivisation of agriculture changing the structure of society and daily life dramatically. Mao's death in 1976 triggered leadership changes and economic reforms which had impacts that have rippled out into the future. More recently, China has seen Hong Kong and Macau returned from foreign rule, has enjoyed a period of increased economic growth and basked in the international spotlight as the host city of the 2008 Summer Olympics.
+
+
+
+
+
+
+
+
+Top 10 Must-See Icons of China
+
+
+
+
+
+
+×
+
+Top 10 Must-See Icons of China
+
+
+
+
+1. The Great Wall
+
+At 6,000 km long, the Wall is like an old friend that keeps popping its head up on your travels. You're likely to glimpse it from train windows, but the best way to experience it is with a walk. It's steep, but with every step you're rewarded with an amazing sense of history.
+
+2. Terracotta Warriors
+
+These 8,000 soldiers and their horses have stood guard for 2,000 years over the First Emperor of China. Beautifully preserved and standing in full battle regalia, they are a highlight of any trip to China.
+
+3. Longji Terraces
+
+Nicknamed the dragon's backbone with good reason, the rice terraces soar into the sky like ribs from a mythical beast and bring different colours and moods with every season. Hike through them to small villages where life has remained unchanged for centuries.
+
+4. Shanghai
+
+This bustling metropolis is modern China at its best. Take in the futuristic skyline of the Bund, get a taste of Europe at the French Concession or grab a bargain at bustling Yuyuan Bazaar.
+
+5. Giant Pandas
+
+These gorgeous, black and white fur-balls originate from China but are loved by the world. Visit the breeding program in Chengdu that is helping to save this rare species and see for yourself why pandas have captivated the world.
+
+6. Yangzi River
+
+Take a cruise down the world's third largest river for front row seats to rural China. Explore tributaries, see the phenomenal Three Gorges Dam and take time out on deck to learn mah jong or brush up on your Mandarin.
+
+7. Emei Shan
+
+Take a cable car to the peak of this holy mountain. Then the active can choose to join pilgrims for the six hour hike back down, past cool streams and rainforests. Spend the night in a simple monastery and wake to the sound of monks chanting.
+
+8. Shaolin Temple
+
+Watch kung fu students practise their moves at the legendary Shaolin Temple. For those feeling game, there is the opportunity to attend a class and soak up some of the wisdom.
+
+9. Tiananmen Square
+
+Beijing's huge city square has seen many important historical events take place over the years. Surrounded by monuments and flags, this is an icon of China not to be missed.
+
+10. The Forbidden City
+
+This UNESCO World Heritage site located in the middle of Beijing has historical and political importance. As an imperial palace, the Forbidden City housed emperors - now this place is recognised as being the largest collection of preserved ancient wooden structures in the world. Don't miss it!
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+China is a shopper's wonderland with a multitude of different shopping experiences: from the massive malls of Beijing to the fashion boutiques of Shanghai and the small village markets that are dotted around the country.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in China
+
+1. Silk
+
+As the home of silk, Chinese silk is legendary. Greatly admired by the world for centuries, don’t leave China without picking up some silk fabric, clothing or scarves.
+
+2. Chinese Calligraphy Art
+
+This beautiful art form has been practised in China for centuries. Buy an antique art work or get a customised piece featuring your name made on the spot.
+
+3. Paper Cut Art
+
+This traditional art is a painstaking process that ultimately creates an intricately beautiful result. Associated with Chinese New Year, you will be able to find paper art souvenirs all year round, with flowers, animals and people being the most common.
+
+4. Chinese Knots
+
+These traditional, decorative handicrafts are seen as a symbol of health and prosperity, and make brilliant gifts for friends back home.
+
+
+
+
+
+
+
+
+Festivals and Events in China
+
+
+
+
+
+
+×
+
+Festivals and Events in China
+
+
+
+
+Chinese New Year
+
+This traditional holiday is considered the most important in China, where it is known as the Spring Festival. Even though the Lunar New Year falls on a specific day, satellite celebrations can be observed for 14 days around the time of Lunar New Year. Fireworks, feasts, lively parades, offerings and fairs are all geared towards clearing out the old, and welcoming in a new year of happiness, health and prosperity.
+
+Dragon Boat Festival
+
+This major holiday originally began as a time of warding off evil spirits and disease, and to this day people in China still see this festival as a time to cleanse, renew and cultivate peace.
+
+Xi'an Ancient Culture and Art Festival
+
+This annual celebration of ancient culture and art features performers from more than 30 countries. Stilt walking, dragon dance, traditional drumming, fire works, historical re enactments and folk art demonstrations celebrate and promote the ancient culture of China during this vibrant festival.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Last Chinese Chef
+
+Nicole Mones
+
+River Town
+
+Peter Hessler
+
+The Painted Veil
+
+Somerset Maugham
+
+Wild Swans
+
+Jung Chang
+
+The Last Days of Old Beijing
+
+Michael Meyer
+
+Mao's Last Dancer
+
+Li Cunxin
+
+Leaving Mother Lake
+
+Yang Erche Namu
+
+
+
+
+
+
+
+
+China travel FAQs
+
+
+
+
+
+Do I need a visa to travel to China?
+
+
+
+
+
+
+
+
+
+CHINA VISA
+
+Most nationalities require a visa for mainland China. You must obtain your Chinese visa in advance. It is not possible to get a visa on arrival and Chinese visas can be difficult to obtain outside your country of residence. You may be able to apply for your visa in Hong Kong If you have time here before your trip departs. You will need a Single Entry Tourist for your trip valid for 30 days.
+
+Hong Kong is not considered part of mainland China for immigration purposes and most nationalities do not require a visa. Please check with an embassy for specific requirements for Hong Kong.
+
+Please make sure if you have a transit anywhere in China before arriving at your destination that you check with your airline to see if the transit will require using your visa.
+
+INFORMATION REQUIRED FOR CHINESE VISA APPLICATION:
+
+List the destinations you will visit in China in chronological order on your application form. Do not mention Tibet anywhere on your application form, even if your tour goes here. You will be given a specific itinerary to use if booking a Tibet trip. While Tibet is not off limits to travellers, you must first obtain a Chinese visa BEFORE we apply for your Tibet permit on your behalf.
+
+Including Tibet on your visa application without being booked on a government arranged tour will lead to your visa being rejected.
+
+Name of Host/Inviting Organisation:
+
+This will be supplied at time of booking
+
+DOCUMENTS REQUIRED FOR VISA APPLICATION:
+
+* Hotel List - this will be sent to you at time of booking. If you do not receive this, email us with your booking number and trip details.
+
+* Official invitation from licensed Chinese tourism company - this will be provided from us together with the Hotel List to all travellers regardless of whether it is required by the consulate or not and will assist with your application.
+
+* Itinerary – print off a copy of your specific trip itinerary from our website and include it with your application, marking the dates you will visit each destination if required (exception - Tibet tours)
+
+* Photocopy of your passport
+
+* Passport size photos (up to 4 may be required)
+
+* Check with the consulate for any other specific requirements
+
+DOCUMENTS REQUIRED FOR TRAIN TICKET BOOKINGS:
+
+We require you send the following at the time of booking or at least 30 days prior to travel:
+
+*Clear, colour scanned copy of the personal details page of your passport
+
+(Please make sure that this copy is for the passport that you will be travelling on. If you have to renew your passport after booking please notify us as soon as you have a new passport number and bring your old passport with you on your trip in case it is requested)
+
+
+
+
+
+
+
+Is tipping customary in China?
+
+
+
+
+
+
+
+
+
+Generally, tipping is not expected on mainland China, although leaving spare change at restaurants and giving a small amount to porters or bar staff is becoming more commonplace (although not mandatory). Some large hotels and restaurants may already include a 10%-15% surcharge within the bill. The culture of tipping is different in Hong Kong, where taxi drivers and restaurants will usually round up the bill, and service staff like porters will generally expect a tip.
+
+
+
+
+
+
+
+What is the internet access like in China?
+
+
+
+
+
+
+
+
+
+Travellers can access the internet via internet cafes and Wi-Fi hot spots in China's cities. Internet access is less available in rural and remote areas. Please note that some web sites are censored in China.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in China?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in China's cities, but less so in remote and rural areas. Ensure global roaming is activated before leaving home if you want to use your phone.
+
+
+
+
+
+
+
+What are the toilets like in China?
+
+
+
+
+
+
+
+
+
+Most of China's toilets are squat toilets, although flushable toilets can sometimes be found in modern hotels and restaurants. Be sure to carry your own supply of toilet paper and soap, as these are rarely provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Metro ride = 3 RMB
+Can of soft drink = 3-5 RMB
+Bottle of beer = 7-10 RMB
+Basic lunch = 15 RMB
+Basic rice or noodle dinner 25 RMB
+Three-course dinner = 80 RMB
+
+
+
+
+
+
+
+Can I drink the water in China?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in China. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found; some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in China?
+
+
+
+
+
+
+
+
+
+Credit cards are accepted by China's large stores, hotels and restaurants, but less so by smaller vendors and market stalls where cash is usually the only payment option. Carry both modes of payment to be sure.
+
+
+
+
+
+
+
+What is ATM access like in China?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access ATMs in China's large cities and regional centres. Rural and remote areas will have less ATM access so ensure you have other payment modes before venturing out of the city.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to China?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in China?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+3 Jan New Year Holiday
+
+27 Jan Chinese New Year's Eve
+
+28 Jan Spring Festival
+
+29 Jan Spring Festival
+
+30 Jan Spring Festival
+
+31 Jan Spring Festival
+
+1 Feb Spring Festival
+
+2 Feb Spring Festival
+
+3 Apr Ching Ming Festival
+
+4 Apr Ching Ming Festival
+
+5 Apr Ching Ming Festival
+
+1 May Labour Day
+
+28 May Tuen Ng Festival / Dragon Boat Festival
+
+29 May Tuen Ng Festival / Dragon Boat Festival Holiday
+
+30 May Tuen Ng Festival / Dragon Boat Festival Holiday
+
+1 Oct National Day
+
+2 Oct National Day
+
+3 Oct National Day
+
+4 Oct National Day
+
+4 Oct Chinese Mid-Autumn Festival
+
+5 Oct National Day
+
+6 Oct National Day
+
+7 Oct National Day
+
+Please note these dates are for 2017. For a current list of public holidays in China go to:
+http://www.worldtravelguide.net/china/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for China
+
+Be considerate of China’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In China, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Braille Without Borders
+
+This organisation aims to facilitate the integration and acceptance of the blind in Tibetan society by providing rehabilitation and education for blind children. In Lhasa, they have a preparatory school, medical massage training and a Braille printing press. At the vocational training centre and farm in Shigatse they teach skills including animal husbandry, market gardening, agriculture, cheese production, bread baking and kitchen management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing Huiling
+
+This proactive not-for-profit organisation helps the disadvantaged local community to live more independent lives. Art and craft workshops teach skills and foster employment options while public education projects enlighten the community about the ways in which people with disabilities can contribute to society.
+
+Image supplied by Kim Bowden and Jane Crouch.
+
+
+
+
+
+
+
+
+
+
+
+Xi'an Huiling
+
+Providing skills, training, employment services and housing assistance, this organisation works to better the lives of disabled people in Xi'an by increasing the amount of opportunities available to this marginalised section of the population.
+
+Image supplied by Xi'an Huiling.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

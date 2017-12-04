@@ -1,0 +1,3445 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moldova Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moldova tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Moldova
+
+
+
+Many European countries advertise themselves as ‘off the beaten track’, but miniature Moldova, sandwiched between Romania and Ukraine, doesn’t even know the track exists.
+
+
+Only about 12,000 travellers a year visit Moldova, partly for its unspoiled natural good looks, but also for its wine. The country has some of the best up-and-coming vineyards on the continent, and they’re fuelling a bit of a cultural resurgence: you’ll find plenty of trendy bars, cafes and restaurants in the capital Chişinău. The only signs you’ve stepped into a Soviet time warp are the marble busts of Lenin lining the main boulevards, frowning over his goatee at a region outgrowing its communist roots.
+
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+Terms & Conditions
+
+
+
+
+
+×
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+
+
+
+1. Save 20% on new bookings to lesser-known destinations only departing between 1 January 2018 and 31 December 2018.
+2. Trips must be booked between 20 November 2017 and 18 December 2017.
+3. Offer only applies to the trips below:
+AMCW, BMXF, CJSO, HPSL, TIST, GGSX, HHSI, XMSG, ZMSB, YGSD, WMSZ, HJKB, KDOH, WMST, TESA, KFST, YBSM.
+4. Customers must quote the promo code 53253.
+5. This offer is not combinable with any other offer including loyalty.
+6. Offer does not apply to departures already discounted (can’t apply it via checkout).
+7. Intrepid Travel will donate 20% of the sold trip to the Intrepid Foundation.
+8. Trips must be booked between 20 November 2017 and 18 December 2017. Trip must depart between 1 January 2018 and 31 December 2018.
+9. Offer only applies to the land portion of the trip and cannot be applied to flights, insurance, or any additional services.
+10. The offer applies to Intrepid & Dragoman operated trips only. Third party operators can be found in the trip notes. Please note that the following are excluded: Polar voyages, Expeditions, Charity Treks, Short Break Adventures, Bite-Size Breaks, Urban Adventures and Dragoman trips to Bhutan, Rio Carnival and the Dragoman Family trips.
+11. A deposit of CHF300, GBP200, EUR275 and ZAR4000 is required at the time of booking, and full payment is required at least 60 days prior to travel.
+12. This sale is only valid for residents of Europe and Africa.
+13. There will be no extensions to the travel, booking or payment periods listed above.
+14. Intrepid Travel's Booking Conditions will also apply to the trip booked, and it is imperative that you examine those conditions before booking with Intrepid Travel. The most up to date Booking Conditions are accessible at http://www.intrepidtravel.com/booking-intrepid/booking-conditions.
+15. The trip is subject to availability and confirmation by Intrepid Travel at time of booking.
+
+
+Close
+
+
+
+
+
+
+Top Moldova travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+30 Apr 2018
+
+Moldova, Ukraine & Romania Explorer
+
+
+
+Moldova, Ukraine & Romania Explorer
+Bucharest to Kyiv
+
+
+
+
+
+
+
+
+
+×
+
+Moldova, Ukraine & Romania Explorer
+
+
+
+
+
+
+
+
+
+13
+
+
+FR2,250
+
+
+FR1,800
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Moldova trips
+
+
+
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,800
+
+
+
+
+
+Visit wineries, monasteries and Soviet breakaway republics in Moldova, and explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Europe in Depth
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,640
+
+
+
+
+
+Enjoy a fascinating tour of Eastern Europe through Hungary Romania, Moldova and Ukraine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Moldova tour reviews
+
+
+Our Moldova trips score an average of
+4.88 out of 5
+based on 24 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Expedition - Moldova, Ukraine & Romania,
+September 2017
+
+Anne Robinson
+
+Smaller group means more time in places and more tailored to you and your travel needs/wants. Expert trip leaders who assist in getting you to your destinations and activities and being so knowledgeable can help take the stress out of your trip. The local interactions are unlike any other company I have ever used and the care to give back to the local communities is something I feel is very important
+
+Review submitted 23 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Expedition - Moldova, Ukraine & Romania,
+September 2017
+
+Steven McLachlan
+
+This trip went to parts of Europe that are not popular destinations but they were well worth visiting. I would't want to miss visiting any of the places we went to but for me the highlights were Odessa, Kiev and Chernobyl. I loved the architecture and the food was delicious and good value.
+
+Review submitted 16 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Moldova trip reviews
+
+Our Moldova trips score an average of
+4.88 out of 5
+based on 24 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Moldova
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 16, 2017
+
+
+
+9 alternative travel spots for 2018
+
+
+
+
+
+
+Here at Intrepid we’re all about tackling the negative impact of over-tourism. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 18, 2017
+
+
+
+8 reasons to travel to Moldova, one of Europe’s...
+
+
+
+
+
+
+I'm going to make an embarrassing confession. Until recently I couldn't point to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+6 of Europe’s top ‘Not Hot’ spots for 2018
+
+
+
+
+
+
+Get there before everyone else does.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 14, 2017
+
+
+
+10 questions with the first documented woman to...
+
+
+
+
+
+
+Cassie De Pecol recently became the first woman on record to travel to all 196...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+Introducing our brand new Expedition trips for...
+
+
+
+
+
+
+After months of planning, arguing, drinking and pondering, we've come up with the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2016
+
+
+
+We’re launching a brand new expedition trip to...
+
+
+
+
+
+
+For the first time, we're stepping back into the soviet era on a special trip...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moldova travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Orheiul Vechi, Moldova
+
+
+
+
+In the country’s most important historical site, uncover cave churches and remote, stark beauty
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Mileștii Mici winery
+
+
+
+
+Explore some of 200 kilometres of underground passages, all lined with exceptional Moldovan wine
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Cathedral of Christ’s Nativity Chisinau
+
+
+
+
+See an important Moldovan symbol, where locals gather for celebrations or protests
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer, 13 days
+
+
+
+
+
+
+
+
+
+
+
+
+Moldova holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Chişinău
+
+Population:
+
+2,913,281
+
+Language:
+
+Romanian
+
+Currency:
+
+Leu (MDL)
+
+Time zone:
+
+EET (UTC +2)
+
+Electricity:
+
+Either Type C ‘Europlug’ or Type E ‘Schuko’ plug, 220-240V
+
+Dialing code:
+
++373
+
+
+
+
+
+
+
+
+
+Best time to visit Moldova
+
+
+
+
+
+
+×
+
+Best time to visit Moldova
+
+
+
+Moldova enjoys a typical continental climate with warm summers and cold winters, with temperature ranging from -5°C to 40°C. Spring and autumn are mild, and summers pleasant. The best time to visit areas like Chişinău, Tiraspol and Transnistria is from May to August. July and August are the high season. The first week of October is also a very good time, due to the annual Wine Festival in Chişinău.
+
+
+
+
+
+
+
+
+Geography and Environment
+
+
+
+
+
+
+×
+
+Geography and Environment
+
+
+
+Moldova is a small landlocked, mostly rural country of rolling steppes in the Balkans, surrounded by Ukraine to the north, east and south, and Romania to the west. This is one of Europe’s least known destinations, unspoilt even, where traditional village life can still be experienced, ancient ruins explored, forested hills hiked and growing city life uncovered.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Playing the Moldovans at Tennis
+
+Tony Hawks
+
+The Good Life Elsewhere
+
+Vladimir Lorchenkov
+
+Moldavian Autumn
+
+Ion Drutse
+
+
+
+
+
+
+
+
+
+Transnistria
+
+
+
+
+
+
+×
+
+Transnistria
+
+
+
+Transnistria is a thin strip of land between the Dniester River and the border of Ukraine, officially known as the Prednistrovie Moldovan Republic (PMR). It declared independence after the Soviet Union broke up into pieces, but is only recognised as an independent entity by other unrecognised former Soviet breakaway republics. It is, however, 'de-facto independent' from Moldova – with its own parliament, police force, currency and coat of arms among other things – and still upholds Soviet values.
+
+The security situation in Transnistria is unpredictable as the region is not under Moldovan control, and tensions may be heightened reflecting developments in eastern Ukraine. Many Western countries do not have an embassy or consulate in Moldova. Usually embassies in Russia or Romania provide consular assistance to travellers in Moldova, however they do not have any recourse inside the territory of Transnistria, and will only be of very limited or no assistance in the case of an emergency. Medical care is almost non-existent in Transnistria, especially for non-citizens. Even if you have travel health insurance, it will often not be valid in Transnistria (even though it may be valid in Moldova), and your insurance might not cover you for any expenses incurred for lost or stolen items. Please choose carefully when shopping for your travel insurance. Please also be aware that international credit/debit cards and traveller's cheques are not accepted anywhere in Transnistria.
+
+
+
+
+
+
+
+Moldova travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Moldova?
+
+
+
+
+
+
+
+
+
+Travellers from Europe, North America, Japan, Australia and New Zealand do not need a visa to visit Moldova. A 90-day stay within a 6-month period is permitted. Citizens of other countries must either obtain a visa in the nearest Moldovan embassy, at the airport, or at some land border crossings with Romania.
+
+
+
+
+
+
+
+Is tipping customary in Moldova?
+
+
+
+
+
+
+
+
+
+Service charges are not usually included on a bill. Consider adding a 5-10% tip.
+
+
+
+
+
+
+
+What is the Internet access like in Moldova?
+
+
+
+
+
+
+
+
+
+WiFi is fast and widespread in hotels and restaurants in the capital Chişinău and other big cities. 4G mobile internet is also available in most urban centres.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Moldova?
+
+
+
+
+
+
+
+
+
+Mobile coverage is good across the country, but roaming rates can be high. It’s simple and low-cost to purchase a local SIM card.
+
+
+
+
+
+
+
+What are the toilets like in Moldova?
+
+
+
+
+
+
+
+
+
+Moldova has Western-style flushable toilets.
+
+
+
+
+
+
+
+What will is cost for a...?
+
+
+
+
+
+
+
+
+
+Bottle of wine = 100 MDL (Moldovan Leu) (approx. USD 5)
+
+Meal for two in mid-range restaurant = 445 MDL (approx. USD 22)
+
+Museum entry = 20 MDL (approx. USD 1)
+
+Stuffed pastries = 53 MDL (approx. USD 2.5)
+
+
+
+
+
+
+
+
+Can I drink the water in Moldova?
+
+
+
+
+
+
+
+
+
+Water is safe to drink in Chişinău, but in more rural areas consider sticking with filtered water. For environmental reasons, try to avoid buying bottled water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Moldova?
+
+
+
+
+
+
+
+
+
+Credit cards are widely accepted in urban centres, less so in more rural parts. It is best to have a reserve of cash.
+
+
+
+
+
+
+
+What is ATM access like in Moldova?
+
+
+
+
+
+
+
+
+
+There are ATMs in Chişinău, but they are not always reliable.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Moldova?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Moldova?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+7 Jan Orthodox Christmas
+
+8 Jan Orthodox Christmas Holiday
+
+8 Mar International Women's Day
+
+16 Apr Orthodox Easter
+
+17 Apr Orthodox Easter Monday
+
+24 Apr Memorial/Parents' Day
+
+1 May International Solidarity Day of Workers
+
+8 May Public Holiday (workday move to 10 June Sat)
+
+9 May Victory Day
+
+1 Jun International Children's Day
+
+27 Aug Independence Day
+
+31 Aug National Language Day
+
+25 Dec Western Christmas
+
+Please note these dates are for 2017. For a current list of public holidays in Moldova go to:
+http://www.worldtravelguide.net/moldova/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Moldova
+
+1. Be considerate of Moldova’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. Be ready to remove your shoes when you enter a local’s house. It’s the common custom.
+
+6. Learn some local language and don't be afraid to use it – simple greetings will help break the ice.
+
+7. In Moldova’s Orthodox Churches, women can keep their hats on, but men should take theirs off.
+
+8. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+9. Please ask and receive permission before taking photos of people, including children.
+
+10. Don’t put your thumb between your first two fingers – this is considered a very rude gesture in Moldova.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

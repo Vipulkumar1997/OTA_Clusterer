@@ -1,0 +1,3484 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Georgia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Georgia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Georgia
+
+
+
+Georgia’s mix of natural beauty, medieval history and Soviet influences has made it one of Eastern Europe’s most fascinating destinations.
+
+
+Long hidden behind ‘the curtain’, it has emerged, butterfly-like on travellers’ maps. Boasting hilltop churches, meandering cobbled streets, mountainscapes and a wine region the French would envy, Georgia is sure to capture your imagination.
+
+
+Our Georgia trips
+
+
+
+
+
+
+
+
+
+Azerbaijan & Georgia Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Join this all-encompassing Intrepid small group adventure from eccentric Baku, to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Armenia & Georgia Food Expedition
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,785
+
+
+
+
+
+Taste your way across Armenia and Georgia on an unforgettable Intrepid Real Food...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Azerbaijan & Georgia
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,875
+
+
+
+
+
+Visit Azerbaijan and Georgia on this Eurasian tour across Baku, Gobustan, the Caucasus...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Azerbaijan & Georgia Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,195
+
+
+
+
+
+Join this all-encompassing small group adventure from eccentric Baku, to the lush green...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Georgia Adventure
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,415
+
+
+
+
+
+Visit the ancient cities of Tbilisi and Kutaisi, with nature hikes through Mestia and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Xi'an to Istanbul Overland
+
+
+
+
+
+
+
+
+
+80 Days
+
+
+From
+FR10,791
+
+
+
+
+
+Travel to Kyrgyzstan, Uzbekistan and Turkey. See the the Terracotta Warriors and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Georgia tour reviews
+
+
+Our Georgia trips score an average of
+4.58 out of 5
+based on 12 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Tbilisi to Istanbul,
+September 2017
+
+Janine Hall
+
+Great trip, which covers both Georgia and slice of turkey, mix of art, culture, history and walking through some beautiful places
+
+Review submitted 06 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Tbilisi to Istanbul,
+September 2017
+
+Roger Pearson
+
+Intrepid trips may not be for everybody, but for those who like small groups and a desire for adventure and exploration they offer a great new experience. Age is no limit and there is always a wide spred of age groups to enhance knowledge and variety
+
+Review submitted 06 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Georgia trip reviews
+
+Our Georgia trips score an average of
+4.58 out of 5
+based on 12 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Georgia
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 25, 2017
+
+
+
+Want to visit Lonely Planet’s 2018 Best in...
+
+
+
+
+
+
+Looking for adventure in 2018? Look no further.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 31, 2017
+
+
+
+10 must-see places when you visit Georgia
+
+
+
+
+
+
+From the peaks of the Caucasus mountains to Kakheti’s rolling semi-deserts, the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 20, 2017
+
+
+
+8 must-try Georgian dishes to eat in Tbilisi
+
+
+
+
+
+
+Given its proximity to Russia, it might be tempting to dismiss Georgian food as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 13, 2017
+
+
+
+5 new UNESCO World Heritage Sites worth a visit
+
+
+
+
+
+
+UNESCO just published its official list of Heritage Sites for 2017, adding over 20...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2016
+
+
+
+So hot right now: our 6 new favourite food...
+
+
+
+
+
+
+Food can take you places, according to science. And we agree.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 05, 2015
+
+
+
+Why Georgia should make your 2015 travel hit list
+
+
+
+
+
+
+Eurasia's hidden gem is an expedition waiting to happen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Georgia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Telavi
+
+
+
+
+Sample the local tipple in the Telavi Wine Region
+
+
+
+
+
+
+
+
+
+Chalato Glacier
+
+
+
+
+Take in stunning views on a hike to Chalato Glacier
+
+
+
+
+
+
+Georgia Adventure, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Gori
+
+
+
+
+Visit Stalin’s hometown in Gori
+
+
+
+
+
+
+
+
+
+Kutaisi
+
+
+
+
+Enjoy a traditional homestay in Kutaisi
+
+
+
+
+
+
+
+
+
+
+Georgia holiday information
+
+
+
+
+Best time to visit Georgia
+
+
+
+
+
+
+×
+
+Best time to visit Georgia
+
+
+
+
+Spring and autumn are the best times to head to Georgia. Summers (especially July and August) can be very hot and humid with temperatures reaching up to 40 degrees Celsius. This is a great time to escape to the Black Sea or the mountains to cool off. Winters can be very cold, although the country rarely freezes over. Power supplies are frequently interrupted however so don’t rely on heating. This is a beautiful, fertile region so bring an umbrella and expect rain at anytime of year!
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Georgia’s spiky topography makes for stunning scenery. The Greater Caucasus Mountains crisscross the country, divvying it up into pockets of forests, valleys and glaciers. Its only coastline runs 330 km along the stunning Black Sea. Georgia’s neighbours include the Russian Federation,
+Turkey
+,
+Armenia
+and
+Azerbaijan
+.
+
+
+
+
+
+
+
+
+Top 10 Georgian Gems
+
+
+
+
+
+
+×
+
+Top 10 Georgian Gems
+
+
+
+
+1. Tbilisi
+
+Set along a backdrop of hills and the Mtkvari River, Tbilisi is simply lovely. It’s been Georgia’s capital since the 5th century and the architecture tells the story of the city through the ages. There’s a fascinating mix of European, Byzantine, Middle Eastern and Soviet styles. Explore churches, winding alleys, parks and fortresses.
+
+2. Kutaisi
+
+One of the cradles of Georgian civilisation, Kutaisi is home to the immense Bagrati Cathedral. It may be in ruins but this 11th-century building still impresses from its hilltop.
+
+3. Gori
+
+Once an important strategic post in the Middle Ages, Gori is now better known as the birthplace of Stalin. Learn about his early years and how they shaped the man.
+
+4. Uplistsikhe
+
+Not far from Gori is one of the Caucasus’s oldest settlements. Dating back to the 5th century and the days of the Silk Road, Uplistsikhe has a 9th-century church, an ancient monastery and a 2nd-century Roman theatre to explore.
+
+5. Chalato Glacier
+
+Take the opportunity to hike to Chalato Glacier. Your efforts will be rewarded with stunning views of snow-covered peaks.
+
+6. Homestay Hospitality
+
+The Georgians are renowned for their hospitality. Be welcomed into a family home and get a taste of what it is to be Georgian. The houses may be simple but Georgian family life is rich.
+
+7. Kazbegi
+
+This nugget of a town may be distinctly Soviet in flavor but its setting is anything but dismal. Enjoy views out to Mt Kazbek and the hilltop Tsminda Sameba Church.
+
+8. Telavi Wine Region
+
+Whatever your favourite drop of wine, you’re sure to find a tipple to tickle your fancy here. Hundreds of varieties are grown and each village in the region has its own.
+
+9. Shaumta Monasteries
+
+One of the highlights of Telavi are the nearby monasteries. Dubbed the ‘old’ and ‘new’ monasteries, they’re nestled into woods among mountains. The old monastery dates back to the 5th century.
+
+10. Batumi
+
+Enjoy a beach break Georgian-style along the beautiful shores of the Black Sea. Take in views of rolling hills and holidaying locals as you sip on a Turkish coffee.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Stories I Stole
+
+Wendell Steavenson
+
+Georgia Through Its Folktales
+
+Michael Berman
+
+A Time of Miracles
+
+Anne-Laure Bondoux
+
+
+
+
+
+
+
+
+Georgia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Georgia?
+
+
+
+
+
+
+
+
+
+Most nationalities do not currently require a visa for Georgia, including Australia, New Zealand, Canada, UK, USA & all EU member states. Visa free nationalities can now only stay "visa free' in Georgia for 30 days. However, all nationalities should check with the nearest embassy for the latest visa information as this may be subject to change at short notice.
+For any questions regarding visas or supporting visa documents please get in touch with The Visa Machine on the following contacts:
+
+If you have any trouble with the online form or want to chase up the status of your application for Visa Support Documents please contact The Visa Machine on visasupport@thevisamachine.com or during UK working hours on +44(0) 207 148 6402.
+The Australian Visa Machine office can be contacted about actual Visa Applications (not Visa supporting documents) on gday@thevisamachine.com or on +61 (2) 61 452 265
+
+Please note the Australian office cannot assist with Visa Supporting Documents and or chasers. These must be directed to the UK office.
+
+Citizens and stateless persons permanently residing in the countries listed below may enter Georgia without a visa for short-term visit (Not exceeding 90 calendar days in any 180-day period).
+
+More countries are listed on the official Ministry of Foreign Affairs website - https://www.geoconsul.gov.ge/en/visaInformation
+
+
+
+
+
+
+
+Is tipping customary in Georgia?
+
+
+
+
+
+
+
+
+
+Tipping isn’t expected, but it’s welcome. When in a restaurant, just round up the bill.
+
+
+
+
+
+
+
+What is the internet access like in Georgia?
+
+
+
+
+
+
+
+
+
+There are plenty of internet cafes in Tbilisi but they’re harder to find outside the capital.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Georgia?
+
+
+
+
+
+
+
+
+
+Georgia has good mobile phone coverage. Ensure you have global roaming activated with your carrier if you wish to use your phone.
+
+
+
+
+
+
+
+What are the toilets like in Georgia?
+
+
+
+
+
+
+
+
+
+Georgia has western-style flushable toilets. Keep loose change handy to pay for public toilets and carry some paper with you, as the public toilets may not have any.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Bottle of soft drink = 1.50 GEL
+Beer in a bar or restaurant = 2.50 GEL
+Cup of coffee = 5 GEL
+Simple lunch = 10 GEL
+Three-course meal = 20 GEL
+Short taxi ride = 3 GEL
+
+
+
+
+
+
+
+Can I drink the tap water in Georgia?
+
+
+
+
+
+
+
+
+
+Yes, tap water is considered safe to drink.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Georgia?
+
+
+
+
+
+
+
+
+
+Credit cards are widely accepted.
+
+
+
+
+
+
+
+What is ATM access like in Georgia?
+
+
+
+
+
+
+
+
+
+There’s good access to ATMs in nearly all towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Georgia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Georgia ?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+7 Jan Orthodox Christmas
+
+19 Jan Orthodox Epiphany
+
+3 Mar Mother's Day
+
+8 Mar International Women's Day
+
+9 Apr Goergia's Independence Restoration Day
+
+14 Apr Orthodox Good Friday
+
+15 Apr Orthodox Holy Saturday
+
+16 Apr Orthodox Easter
+
+17 Apr Orthodox Easter Monday
+
+9 May Victory Day
+
+12 May Saint Andrew the First Called Day
+
+26 May Independence Day
+
+28 Aug Saint Mary's Day
+
+14 Oct Svetitskhovloba
+
+23 Nov Saint George's Day
+
+Please note these dates are for 2017. For a current list of public holidays in Georgia go to:
+http://www.worldtravelguide.net/georgia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Georgia
+
+Be considerate of Georgia’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

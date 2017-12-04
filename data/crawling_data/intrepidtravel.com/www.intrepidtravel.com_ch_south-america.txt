@@ -1,0 +1,3328 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South America Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South America
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+
+
+
+Hola South America!
+
+Think South America is all about Machu Picchu and the Galapagos? No way Jose! Travel with Intrepid and you’ll travel like a local, eat like a local, sleep like a local, and experience the real South America. And now, thanks to our partnership with the language learning experts at Babbel, you’ll talk like a local too.
+
+Book any trip before 15 August and receive a half price subscription to Spanish or Portuguese language learning online, courtesy of Babbel. There’s no better way to connect with local people and places, so say
+hola
+to
+la vida loca
+!
+
+
+
+
+
+
+
+
+Terms & Conditions
+
+
+
+
+
+
+
+
+
+Customers making a new South America booking between 1 July 2017 and 16 August 2017 will receive half price subscription to Spanish or Portuguese Babbel language learning.
+
+This offer is not combinable with any other offer including loyalty.
+
+Trips must be booked between 1 July 2017 and 16 August 2017. Trip must depart between 27 June 2017 and 31 March 2018.
+
+Offer only applies to the land portion of the trip and cannot be applied to flights, insurance, or any additional services.
+
+The offer applies to Intrepid & Dragoman operated trips only. Third party operators can be found in the trip notes. Please note that the following are excluded: Polar voyages, Expeditions, Charity Treks, Short Break Adventures, Bite-Size Breaks, Urban Adventures and Dragoman trips to Bhutan, Rio Carnival and the Dragoman Family trips.
+
+A deposit of CHF400, GBP200, EUR250 and ZAR4000 is required at the time of booking, and full payment is required at least 60 days prior to travel.
+
+This sale is only valid for residents of the United Kingdom, Europe and Africa
+
+There will be no extensions to the travel, booking or payment periods listed above.
+
+Intrepid Travel's Booking Conditions will also apply to the trip booked, and it is imperative that you examine those conditions before booking with Intrepid Travel. The most up to date Booking Conditions are accessible at
+www.intrepidtravel.com/booking-intrepid/booking-conditions
+
+The trip is subject to availability and confirmation by Intrepid Travel at time of booking.
+
+
+
+
+
+
+
+
+
+Colourful, candid and everything in between, South America beats to the rhythm of an infectious, eternal drum. It’s the sequined heat of Carnival and a cool breeze blowing across the Andes, a fiery Argentine tango and the soft silence of an Ecuadorian cloud forest. You taste it in the crackle of slow-cooked barbecue and the tang of a good pisco sour. About the only thing the continent lacks is monotony. From the rocky slopes of Galapagos to the dawn-lit ruins of Machu Picchu, South America is effervescent with sights, sounds and salsa. Now, pass the empanadas and let's talk adventure.
+
+Explore what it is really like to travel to South America
+
+
+
+
+
+
+What to see in 7-10 days in South America
+
+
+Stick to to one or two countries so you can see some of the big-ticket items but also relax and get a feel for daily life. Peru is ideal because you can fly into Cusco and visit Ollantaytambo in the Sacred Valley, then take the train to Aguas Calientes and see Macchu Picchu without the long hike. You could take the Inca Express to Puno and spend some time on Lake Titicaca, and even squeeze in a flight to Arequipa and the Colca Canyon.
+
+Another option would be to explore both Brazil and Argentina. There’s a mix of the great outdoors (Iguazu Falls), beautiful beaches (Rio de Janeiro), local villages, incredible food, world-class wine and plenty of dancing. Alternatively, with 10 days in Ecuador you could experience the Amazon, shop in the Otovalo Markets, visit historic Quito and meet locals in the vibrant little town of Banos.
+
+
+
+
+
+
+Trip Name
+
+Days
+
+Start city
+
+Destination
+
+Style
+
+From CHF
+
+
+
+
+
+
+
+Inca Trail
+
+
+8
+
+Lima
+
+Peru
+
+Original
+
+
+
+FR1,395
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador on a shoestring
+
+
+8
+
+Quito
+
+Ecuador
+
+Basix
+
+
+
+FR594
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Peru
+
+
+9
+
+Lima
+
+Peru
+
+Original
+
+
+
+FR1,995
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+What to see in 3 weeks in South America
+
+
+Combining three countries like Peru, Chile and Argentina will allow you to really get a feel for the destination. You’d get to explore the Amazon, trek the Inca Trail to Machu Picchu and wander the winery trail in Mendoza. However there would also be plenty of breathing room to wander the streets of Santiago and meet the laidback locals on Lake Titicaca.
+
+Swap Peru for Bolivia and you could add La Paz, Salar de Uyuni and a journey across the Bolivian altiplano to the mix. Nature lovers could use this time to hike through Patagonia’s Torres del Paine National Park and Argentina’s Los Glaciaries National Park. See the Perito Moreno Glacier, catch views of Mt Fitz Roy, journey along the Chilean Fjord Coast and drive the the famous Carretera Austral, probably one of the most stunning roads in South America.
+
+
+
+
+
+
+Trip Name
+
+Days
+
+Start city
+
+Destination
+
+Style
+
+From CHF
+
+
+
+
+
+
+
+Sacred Land of the Incas
+
+
+15
+
+Lima
+
+Peru
+
+Original
+
+
+
+FR2,371
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Wilderness
+
+
+15
+
+Buenos Aires
+
+Argentina
+
+Original
+
+
+
+FR3,978
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires to Rio Unplugged
+
+
+17
+
+Buenos Aires
+
+Argentina
+
+Basix
+
+
+
+FR2,191
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Inca Trail Adventure
+
+
+17
+
+Quito
+
+Ecuador
+
+Original
+
+
+
+FR5,059
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Bolivia & Argentina
+
+
+20
+
+La Paz
+
+Bolivia
+
+Basix
+
+
+
+FR2,484
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Buenos Aires
+
+
+21
+
+La Paz
+
+Argentina
+
+Basix
+
+
+
+FR2,297
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+What to see in 6 weeks in South America
+
+
+Now we’re talking. The world’s your empanada, so take some time to really think about which countries you want to focus on. You could cross the middle of South America, from Lima to Rio and trek the Inca Trail, walk on the Salar de Uyni salt flats, wander through Mendoza’s wine region, dance up a storm in Buenos Aires, witness the stunning Iguazu Falls, get a tan in Rio and look up at Christ the Redeemer when you’re done. Throw Ecuador into the mix and you’ll get to experience the Amazon, Quito, Cotopaxi Volcano and beautiful Banos.
+
+You could even spend a week in the wildlife playground of the Galapagos Islands, meeting giant Galapagos tortoises, white tip reef sharks, sea lions, marine iguanas and a staggering amount of birdlife. You won’t regret stopping in Colombia to experience the nightlife of Cali, the crayon-box colours of Cartagena’s buildings, the beaches, national parks and of course, the coffee.
+
+
+
+
+
+
+Trip Name
+
+Days
+
+Start city
+
+Destination
+
+Style
+
+From CHF
+
+
+
+
+
+
+
+Galapagos & Peru Adventure
+
+
+24
+
+Quito
+
+Ecuador
+
+Original
+
+
+
+FR6,069
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires to Santiago via Ushuaia
+
+
+34
+
+Buenos Aires
+
+Argentina
+
+Basix
+
+
+
+FR3,985
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru, Bolivia & Argentina Adventure
+
+
+40
+
+Lima
+
+Peru
+
+Basix
+
+
+
+FR5,455
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing South America
+
+
+47
+
+Quito
+
+Peru
+
+Basix
+
+
+
+FR6,125
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia to Brazil Explorer
+
+
+36
+
+La Paz
+
+Bolivia
+
+Basix
+
+
+
+FR5,135
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Rio
+
+
+60
+
+Lima
+
+Peru
+
+Basix
+
+
+
+FR7,151
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Buenos Aires
+
+
+42
+
+Lima
+
+Peru
+
+Basix
+
+
+
+FR5,116
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+Discover more on themes
+
+
+
+
+
+
+
+
+
+Trekking
+
+
+
+
+
+
+
+
+
+
+Cities
+
+
+
+
+
+
+
+
+
+
+Food
+
+
+
+
+
+
+
+
+
+
+Must Sees
+
+
+
+
+
+
+
+
+Festivals in South America
+
+
+
+January
+
+Fiesta de la Santa Tierra, Lake Titicaca, Peru
+
+During the Festival of the Sacred Land, half the population celebrates at the Temple of Pachamama (Mother Earth) and the other half at the Temple of Pachatata (Father Earth).
+
+Love parade, Santiago, Chile
+
+The world’s biggest electronic dance festival is a non-stop parade of music, with hundreds of DJs from around the world.
+
+February
+
+Rio Carnaval
+
+Held 40 days before Easter, Rio is home to the biggest Carnaval party in the world where over 2 million people come to play.
+
+Fiesta de la Virgen de la Candelaria, Puno, Peru
+
+The Virgin of Candelaria is Puno’s patron saint and she is honoured with a huge festival each year, featuring traditional dancing and dazzling costumes and masks.
+
+March
+
+National Grape Harvest Festival, Mendoza, Argentina
+
+Concerts, street festivals and a cut-throat beauty contest all come to a head in the first week of March with fireworks and gaucho displays.
+
+April
+
+Semana Santa, Uruguay
+
+During Holy Week there are rituals, processions and prayer meetings all around South America. In Uruguay the whole country shuts down.
+
+May
+
+Festival of the Snows, Peru
+
+Held on a remote Peruvian glacier, this is a three-day festival known as Qoyllurit’I. Around 30,000 pilgrims take part in music and dancing, finishing up with a torch-lit parade.
+
+June
+
+Inti Raymi, Cusco, Peru
+
+This Inca Festival of the Sun is held in celebration of the winter solstice. The sun god is honoured with parades and dances, and thousands of visitors fill the streets of Cusco.
+
+
+
+July
+
+Septenario Festival, Cuenca, Ecuador
+
+This Corpus Christi event is a weeklong celebration, where you can indulge in food, games and watch fireworks each night.
+
+Qoyllur Rit'I, Mahuayani, Peru
+
+August
+
+World Tango Championships, Buenos Aires, Argentina
+
+Enjoy free dance lessons and concerts as the world’s best tango dancers converge on the city to compete for the crown.
+
+Feria de las Flores, Medellín, Colombia
+
+This enormous flower festival features events such as the Cavalgata de Caballos (Horse Parade), Desfile de Carros Antiguos (Antique Car Parade) and the Desfile de Silleteros, a chance to see beautiful flower designs.
+
+September
+
+Rock in Rio, Brazil
+
+Starting out in 1985 with Queen and AC/DC as headliners, this has grown to become one of the biggest music festivals in the world.
+
+November
+
+Dia de los Difuntos, Ecuador
+
+All Soul’s Day honours the saints and the dead, where people visit the graves of their loved ones and honour them with special feasts.
+
+December
+
+Feri de Cali, Santiago de Cali, Colombia
+
+Not for the faint-hearted, this is two weeks of hardcore partying where the streets of Cali become awash with music and dancing.
+
+Independence Day, Chile
+
+- There is plenty on offer, including rodeos and military processions along with incredible food and wine.
+
+
+
+Browse our destinations in South America
+
+
+
+
+
+
+
+
+
+Argentina
+
+
+
+
+
+
+
+
+
+
+Bolivia
+
+
+
+
+
+
+
+
+
+
+Brazil
+
+
+
+
+
+
+
+
+
+
+Chile
+
+
+
+
+
+
+
+
+
+
+Colombia
+
+
+
+
+
+
+
+
+
+
+Ecuador
+
+
+
+
+
+
+
+
+
+
+Galapagos Islands
+
+
+
+
+
+
+
+
+
+
+Peru
+
+
+
+
+
+
+
+
+
+
+Uruguay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

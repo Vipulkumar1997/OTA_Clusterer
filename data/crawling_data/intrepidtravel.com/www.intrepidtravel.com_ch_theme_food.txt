@@ -1,0 +1,3469 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Food Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Food Tours & Travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Food
+
+
+
+
+Uncover a world of authentic, mouth-watering food tours designed to suit any budget, appetite and time frame. By pairing the classic grassroots Intrepid travel style with a special food focus, our itineraries aim to really get you under the skin of the world's most exciting food cultures. It might be spoiling your tastebuds with flavour-filled curries in
+Sri Lanka
+, bottling your own wine in
+Spain
+, making soba noodles in a cooking class in
+Japan
+, or tucking into Buddhist fare on an overnight monastery stay in
+South Korea
+.
+
+These are real-world experiences with a foodie twist: one part culture, one part adventure and three parts delicious. From bite-sized trips to gastronomic odysseys, we’ll get you munching, crunching, sipping and slurping just like the locals.
+
+
+
+
+
+
+
+New food trips
+
+
+
+
+
+
+
+
+
+
+Armenia & Georgia Food Expedition
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,785
+
+
+
+
+
+Taste your way across Armenia and Georgia on an unforgettable Intrepid Real Food...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Taiwan Food Expedition
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,050
+
+
+
+
+
+Taste the many flavours of Taiwan, from Taipei, Jiufen to Yilan and beyond. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Iran Real Food Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Taste the spices, meats and stews of Iran as you travel from Tehran to Shiraz.  Sample...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan Real Food Adventure
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,195
+
+
+
+
+
+Get a taste of Jordan via Amman, Petra and Wadi Rum. See why this jewel of the Levant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Slovenia to Macedonia Real Food Adventure
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,680
+
+
+
+
+
+Explore the culinary delights of Slovenia, Croatia, Kosovo, Albania, Montenegro and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan, Israel & the Palestinian Territories Real Food Adventure
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR4,370
+
+
+
+
+
+Discover the delectable dishes of Israel and the Palestinian Territories. Savour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure Peru, with Amazon Extension
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,230
+
+
+
+
+
+Indulge in mouth-watering cuisine and witness stunning sights on Intrepid's Real Food...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Italian Odyssey Real Food Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,165
+
+
+
+
+
+Explore the traditional delights of Italian cuisine while travelling through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+Browse food tours by region
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+
+
+
+
+
+
+India and Sri Lanka
+
+
+
+
+
+
+
+
+
+
+Europe, Morocco & The Middle East
+
+
+
+
+
+
+
+
+
+
+Central and South America
+
+
+
+
+
+
+
+
+Our Food Adventure tour styles
+
+
+
+
+
+
+
+
+
+
+Real Food Adventures
+
+8-15 days
+
+These are cross-country food tours designed to fully immerse you in a destination's food scene. Taste the freshest market produce, meet artisanal producers, find the best street food and learn the subtle changes in regional cuisine. But although these trips are packed with flavour, we haven't left out the essence of Intrepid travel: each real food adventure is filled with cultural exploration, historic highlights and plenty of grassroots travel. They're just seasoned to perfection - food travel at its best!
+
+Find a Real Food Adventure
+
+
+
+
+
+
+
+
+
+
+Bite-Sized Breaks
+
+2-3 days
+
+If you’re looking to take a bite from a particular region and don’t have a lot of time to do it, Bite-Sized Breaks are for you. They’re more focussed food itineraries, usually 2-3 days each, which dig down into the heart of a specific area. Whether it’s
+Beijing’s street market
+scene, Lima’s distinct local flavour or the cooking techniques of Northern India. They make a tasty add-on to a longer itinerary, delving a little deeper into what makes a region’s cooking unique. While these food tours may be a little shorter, they pack a punch.
+
+Find a Bite-sized Break
+
+
+
+
+
+
+
+
+
+
+Urban Appetisers
+
+2-6 hours
+
+These are our compact food tours, carefully designed to pack the most flavour into the shortest time. When you arrive in a new city, it’s always a challenge to unearth the most authentic local cuisine. But with Urban Appetisers, we’ll give you a quick 3-4 hour intro into the hidden gems and secret bars that really make a place tick. Cook up a storm in a local family’s own kitchen, kebab crawl your way through Istanbul, or find the trendiest eats in the backstreets of Brooklyn.
+
+Find an Urban Appetiser
+
+
+
+
+
+
+
+FAQs
+
+
+
+
+
+What food can I expect?
+
+
+
+
+
+
+
+
+
+Expect to eat the local way. We didn’t call these trips ‘food adventures’ for nothing. Forget Michelin stars and 20-course degustations – our local leaders will help you get behind the scenes of a local food culture, track down the freshest street food, discover the most authentic local restaurants and reveal the traditions and techniques that make these destinations so deliciously mouth-watering. From lining up with locals for fresh tortillas in a Mexican market to hopping between Logrono’s thriving tapas bars, they’ll show you local food from the perspective of those who eat it every day.
+
+
+
+
+
+
+
+How does a Food Adventure differ to a regular Intrepid trip?
+
+
+
+
+
+
+
+
+
+All of our food trips have been designed with one thing in mind – experiencing the best local food on the planet. But we all know that there’s much more to food than just eating it – so whether it’s browsing markets for fresh produce, sizzling up a storm in a cooking class or meeting a local street-food legend, we’ve stuffed your plate to the brim. And once you’ve devoured all the local food you can handle, we’ve made sure our Food Adventures are rolled up into a burrito with the lot so you won’t miss out on the iconic sights and authentic cultural experiences that are found on all our Intrepid trips.
+
+
+
+
+
+
+
+Is there any freedom & flexibility in the itineraries?
+
+
+
+
+
+
+
+
+
+Like all Intrepid itineraries, we’ve made sure our food trips provide free time between activities, allowing you to digest a destination either with your group or on your own. You might spend the morning exploring a buzzing local market with your guide and cooking a delicious local dish with your group before heading off on your own to wander the marbled halls of a museum or cycling through ancient alleys. We’ve also left plenty of mealtimes free of organised activities, which gives you the flexibility to ‘get your gourmet on’ at a fine dining restaurant or simply seek out your own ‘real food’ adventure. Needless to say, your leader will be there every step of the way with suggestions and recommendations.
+
+
+
+
+
+
+
+What transport is used?
+
+
+
+
+
+
+
+
+
+Sometimes, the best way to eat like a local is to travel like one too. That could mean jumping on a boat to discover the flavours of the Mekong Delta, riding the Tokyo subway to a sake bar or rattling along in a rickshaw in pursuit of Agra’s finest chaats. We love to use local transport because it gives us a chance to experience everyday local life from a new perspective.
+
+
+
+
+
+
+
+What is the accommodation like?
+
+
+
+
+
+
+
+
+
+Whether you’re spending the night in an ancient fortress or in the home of a local family, most of our trips include a memorable overnight stay that is designed to make your trip extra memorable. When we do choose to use hotels, all of our accommodation options are in our Original style, which means a mix of 2-3 star establishments that are safe, clean and comfortable.
+
+
+
+
+
+
+
+How do Food Adventures benefit local communities?
+
+
+
+
+
+
+
+
+
+It goes without saying that by eating in local restaurants, buying things from street-side sellers and using local guides, our trips help support local economies. But that’s just the start of it. Many of our itineraries incorporate visits to community projects and we offer carbon offsetting on all of our food trips. Above all, we are committed to a style of travel that is culturally, environmentally and socially responsible.
+
+
+
+
+
+
+Taste the world with these authentic recipes
+
+
+
+
+
+
+
+
+
+South Korean Bulgogi
+
+
+
+
+
+
+
+
+
+
+Moroccan Briouats
+
+
+
+
+
+
+
+
+
+
+Vietnamese Banh Xeo
+
+
+
+
+
+
+
+
+
+
+Indian Bhel Puri
+
+
+
+
+
+
+
+
+
+
+Mexican Tostadas
+
+
+
+
+
+
+
+
+Traveller reviews
+
+
+Our  trips score an average of
+4.81 out of 5
+based on 936 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure - Mexico,
+November 2017
+
+Jasmin Schoch Kumar
+
+Very interesting trip where we had the Feeling that we experienced a broad variety of things in a short time but without rush. Good Balance between included activities & meals and free time. We Extended our trip for 2 more days at the last place on the itinerary; Mazunte and we would recomend it to other travellers too.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure - Sri Lanka ,
+November 2017
+
+Rahel Kübler
+
+A perfect way to experience wonderful Sri Lanka with eyes, nose and palate!
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure - South India ,
+November 2017
+
+Mark Limacher
+
+South India was a revelation for me, as I had no idea how different and how culturally rich it would be.  I've spent lots of time in Southeast Asia, especially Indonesia and now see the powerful cultural influence of South India on the surrounding countries. The food, the lavish, mysterious temples and the wonderful Kerala "Backwater" region, kind of a crazy dream of canals, rice fields, water lilies, birdlife, obedient ducks and relaxing accommodation all made this a really fun tour.  Santo, our tour leader, worked hard, in an easy-going way, to makes sure we had a great time.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure - Sri Lanka ,
+November 2017
+
+dave Rendle
+
+You don't meet local people as a tourist - most importantly you meet local people directly!
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+trip reviews
+
+Our  trips score an average of
+4.81 out of 5
+based on 936 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+Read more about food tours
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+Why Taiwan should be at the top of your travel...
+
+
+
+
+
+
+Epic scenery, incredible food, amazing outdoor activities. Here’s why your next...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 24, 2017
+
+
+
+A local explains why South Korean food is the...
+
+
+
+
+
+
+Korean food doesn’t fare best in white-tablecloth atmospheres. It's more about...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 19, 2017
+
+
+
+Ribs, rock ‘n’ roll and raucous times: 4...
+
+
+
+
+
+
+Skipping America's Deep South is a big, fat, deep-fried, sugar-coated, bourbon...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 15, 2017
+
+
+
+Turkish delight: 6 delicious dishes to try in...
+
+
+
+
+
+
+I learned many things living in Turkey for three years, but perhaps the most...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 30, 2017
+
+
+
+Colonia del Sacramento: The underrated foodie...
+
+
+
+
+
+
+Colonia del Sacramento is one of the oldest towns in Uruguay, a UNESCO World...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 22, 2017
+
+
+
+From ceviche to sushi: a guide to Lima’s food...
+
+
+
+
+
+
+If there’s one thing limeños know and appreciate, it’s seafood. Here are the must...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 20, 2017
+
+
+
+Foodie? Here’s why you should travel to Thailand
+
+
+
+
+
+
+As an American venturing to the Far East, I figured I’d have some good pad thai...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 04, 2017
+
+
+
+7 reasons to make your Singapore layover a...
+
+
+
+
+
+
+In Singapore, the sun is (almost) always shining, the food is cheap, the history...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 02, 2017
+
+
+
+More than momos: A guide to Nepali cuisine
+
+
+
+
+
+
+If you ask anyone about Nepali cuisine, they’re sure to mention momos and dal bhat...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 28, 2017
+
+
+
+5 of our favourite foods from around the world
+
+
+
+
+
+
+Listen up, food lovers. If you’re anything like us, it’s likely your top priority...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 18, 2017
+
+
+
+A guide to traditional Chinese street food
+
+
+
+
+
+
+One of the most popular forms of traditional Chinese food, everywhere from...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 10, 2017
+
+
+
+A gluten-free guide to Europe
+
+
+
+
+
+
+While Europe is known for its ancient cultures, colourful architecture and bloody...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

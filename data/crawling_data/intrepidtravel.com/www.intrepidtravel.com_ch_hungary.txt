@@ -1,0 +1,3882 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hungary Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hungary tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Hungary
+
+
+
+Hungary offers travellers a slice of classic, Central European grace and grandeur.
+
+
+With cobbled streets, charming castles, magnificent concert halls and historic churches, Hungary is all class. But what might surprise travellers is that Hungary is also a burgeoning wine-producing region, home to bucolic villages, thermal lakes, steaming hot springs and markets filled with organic produce - what's not to love?
+
+
+Our Hungary trips
+
+
+
+
+
+
+
+
+
+Best of Central Europe
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,075
+
+
+
+
+
+The Best of Central Europe tour combines popular sights with unique experiences while...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Balkan Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,955
+
+
+
+
+
+Travel across historic Eastern Europe from Hungary to Croatia. Visit cultural sights...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Central Europe
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,825
+
+
+
+
+
+Travel through Germany, Czech Republic, Austria and Hungary and experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin to Venice
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,935
+
+
+
+
+
+Discover Central Europe from Germany to Italy. Travel from happening Berlin to ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the Danube
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,340
+
+
+
+
+
+Retrace the steps of ancient empires on this cycling tour through Austria, Slovakia and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest to Bucharest
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,495
+
+
+
+
+
+Enjoy a fascinating tour of Eastern Europe through Hungary and Romania. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Europe Explorer
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR2,530
+
+
+
+
+
+Travel from beautiful Budapest to ancient Sofia. Venture through the baroque town of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Venice
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,650
+
+
+
+
+
+Elaborate architecture and exceptional cuisine, legendary landscapes and live history...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vienna to Dubrovnik
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR3,910
+
+
+
+
+
+Travel from Vienna to Dubrovnik and discover Austria, the Czech Republic, Poland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest & the Balkans
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,080
+
+
+
+
+
+Set out from Budapest on a small group adventure down to Dubrovnik. Visit the White...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Christmas Markets of Central Europe
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,422
+
+
+
+
+
+Experience the festive markets of Central Europe. Go Christmas crazy in the market...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Europe in Depth
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,640
+
+
+
+
+
+Enjoy a fascinating tour of Eastern Europe through Hungary Romania, Moldova and Ukraine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Journey through Central Europe and Romania
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR3,470
+
+
+
+
+
+Enjoy a fascinating tour of Central and Eastern Europe through Austria, Slovakia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin to Rome
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,860
+
+
+
+
+
+Embark on a tour of Europe as you travel from Berlin to Rome visiting Germany, Poland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest to Venice
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,360
+
+
+
+
+
+Admire the opulent architecture of Budapest, be awed by the sheer tranquil beauty of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,810
+
+
+
+
+
+Visit Spain, France, Germany, the Czech Republic and Italy on this epic journey that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest to Rome
+
+
+
+
+
+
+
+
+
+26 Days
+
+
+From
+FR3,465
+
+
+
+
+
+Set out from Hungary experiencing the incredible cultures and cuisines of Serbia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Venice
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR4,700
+
+
+
+
+
+Travel through numerous European countries starting in Spain and France, through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Rome
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,760
+
+
+
+
+
+Embark on an all-European adventure from Madrid  to Rome, stopping off in the grand...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Hungary tour reviews
+
+
+Our Hungary trips score an average of
+4.94 out of 5
+based on 17 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Cycle the Danube,
+September 2017
+
+Lorraine Stirling
+
+The trip was great, just make sure you do a bit of practice, and if your feeling tired, just get on the bus.
+
+Review submitted 08 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Cycle the Danube,
+August 2017
+
+Deborah Leiter
+
+Intrepid is a great way to travel in a small group for an affordable price.  You tend to meet more like minded people while enjoying a cultural mix of travel companions.  I had never done a bike trip,  but this was definitely the right decision!
+
+Review submitted 23 Sep 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Hungary trip reviews
+
+Our Hungary trips score an average of
+4.94 out of 5
+based on 17 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Hungary
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 31, 2016
+
+
+
+Feeling Hungary? Our perfect weekend in Budapest
+
+
+
+
+
+
+Sliced in two by the Danube, Budapest has something of a split personality. Here's...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2015
+
+
+
+East meets best: seven things you didn’t know...
+
+
+
+
+
+
+For those that think culture, invention and beauty end as soon as you enter a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 30, 2014
+
+
+
+Opening doors in Budapest
+
+
+
+
+
+
+The capital of Hungary is an open gallery, a perfect example of well preserved and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hungary travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest
+
+
+
+
+Admire the ornate architecture and grand boulevards of elegant Budapest
+
+
+
+
+
+
+Balkan Adventure, 15 days
+
+
+
+
+
+
+
+
+Best of Central Europe, 15 days
+
+
+
+
+
+
+
+
+Cycle the Danube, 8 days
+
+
+
+
+
+
+
+
+
+
+
+
+Hungary holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Budapest (population 2 million)
+
+Population:
+
+9.9 million
+
+Language:
+
+Hungarian
+
+Currency:
+
+HUF
+
+Time zone:
+
+(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++36
+
+
+
+
+
+
+
+
+
+Best time to visit Hungary
+
+
+
+
+
+
+×
+
+Best time to visit Hungary
+
+
+
+
+July and August are the busiest months for tourists in
+Europe
+, outside of these times it tends to be less crowded. The Hungarian summer is warm, sunny and unusually long, but the tourist areas tend to get very crowded in late July and August, so some of the best months to visit are May, June and September. Hungary can be a little wet in May and June, but spring is just glorious. Autumn is beautiful, particularly in the hills around Budapest and in the Northern Uplands. Hungarian winters are typically cold and bleak, with museums and other tourist sights often closing.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Located in Central Europe, landlocked Hungary shares borders with
+Slovakia
+,
+Ukraine
+,
+Romania
+,
+Serbia
+,
+Croatia
+,
+Slovenia
+and
+Austria
+. While most of Hungary is flat, there's some mountainous terrain to be found in the north and near the Austrian border. While Hungary has no coastline, the country is rich in rivers, brooks, lakes and hot springs, with the Danube and the Tisza flowing through, as well as other tributaries. Blessed with a vast amount of arable land, Hungary has an extensive agriculture/viticulture industry, with vineyards, orchards, farms and grazing livestock a common sight when travelling out of the city.
+
+
+
+
+
+
+
+
+Classic Castles of Hungary
+
+
+
+
+
+
+×
+
+Classic Castles of Hungary
+
+
+
+
+Top 5 Classic Castles of Hungary
+
+1. Vajdahunyad Castle
+
+A blend of many different architectural styles, this urban castle located in Budapest showcases Gothic, Romanesque, Baroque and Renaissance features. Modelled on a Transylvanian castle, this unique building is now home to a museum dedicated to Hungarian agriculture, wine making and forestry.
+
+2. Fisherman's Bastion
+
+Providing exceptional panoramic views of Budapest, this white stone castle-like structure was built in 1905. Retaining a distinct 'Disney-like' air, this charming building has winding staircases, towers, parapets and a conical roof - hallmarks of all good fairytales!
+
+3. Festetics Palace
+
+This Baroque palace located in Zala County may technically not be a castle but definitely has all the opulence and grandeur of one. Built in the 18th century for the wealthy Festetics Family, this palace is now home to a coveted book collection (considered the greatest surviving aristocratic library in Hungary) as well as a museum and concert hall.
+
+4. Castle of Eger
+
+This ancient castle has survived invasions, explosions and the ravages of time to become one of Eger's most popular attractions. Surrounded by cobbled streets, the panoramic views from atop the fortress walls are splendid in clear weather.
+
+5. Brunswick Castle
+
+Built in 1775 for Count Antal Brunswick, this grand neo-gothic castle once played host to Beethoven. Now surrounded by a nature reserve and home to a museum, church and research institute, this impressive castle just outside of Budapest is well worth a day trip.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Hungarians: A Thousand Years of Victory in Defeat
+
+Paul Lendvai
+
+Enemies of the People: My Family's Journey to America
+
+Kati Marton
+
+Upon the Head of the Goat: A Childhood in Hungary
+
+Aranka Siegal
+
+Made in Hungary: A Life Forged by History
+
+Maria Krenz
+
+The Melancholy of Resistance
+
+Laszlo Krasznahorkai
+
+Fatelessness
+
+Imre Kertesz
+
+Skylark
+
+Dezso Kosztolanyi
+
+
+
+
+
+
+
+
+Hungary travel FAQs
+
+
+
+
+
+Is tipping customary in Hungary?
+
+
+
+
+
+
+
+
+
+Tipping is generally expected by service workers in Hungary. A tip of around 10% is sufficient for taxi drivers, wait and hotel staff.
+
+
+
+
+
+
+
+What is the internet access like in Hungary?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access the internet at cyber cafes and hotels in Hungary's cities. Regional and rural areas may have less internet access, but overall, Hungary is well connected to the web.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Hungary?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in most parts of Hungary. Be sure to activate global roaming on your phone before leaving home if you wish to use your mobile.
+
+
+
+
+
+
+
+What are the toilets like in Hungary?
+
+
+
+
+
+
+
+
+
+Most toilets in Hungary are of the modern, flushable variety. Public toilets are quite scarce in Hungary and expect to pay a small fee when visiting, as is standard practice in many other Central European countries.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Slice of cake in a cafe = 300-400 HUF
+Public transport ticket = 320 HUF
+Bottle of local beer = 600 HUF
+Bowl of hearty soup = 600 HUF
+Simple fast food meal = 1,000-1,500 HUF
+Three-course meal in a restaurant = 3000-10,000 HUF
+
+
+
+
+
+
+
+Can I drink the water in Hungary?
+
+
+
+
+
+
+
+
+
+The tap water in Hungary is considered safe to drink unless otherwise marked.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Hungary?
+
+
+
+
+
+
+
+
+
+Major credit cards are usually accepted by large hotels, restaurants, boutiques and shops. Smaller retailers like family-run restaurants, market stalls and small shops may not accept credit cards, so always carry enough cash to cover smaller purchases.
+
+
+
+
+
+
+
+What is ATM access like in Hungary?
+
+
+
+
+
+
+
+
+
+Travellers will be able to find ATMs throughout most of Hungary, especially in large cities and regional towns.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Hungary?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Hungary?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+15 Mar Revolution Day
+
+14 Apr Good Friday
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+5 Jun Whit Monday
+
+20 Aug Saint Stephen's Day
+
+23 Oct Republic Day
+
+1 Nov All Saints' Day
+
+25 Dec Christmas Day
+
+26 Dec 2nd Day of Christmas
+
+Please note these dates are for 2017. For a current list of public holidays in Hungary go to:
+http://www.worldtravelguide.net/hungary/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Hungary
+
+1. Be considerate of Hungary’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+5. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+6. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+7. Please ask and receive permission before taking photos of people, including children.
+
+8. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

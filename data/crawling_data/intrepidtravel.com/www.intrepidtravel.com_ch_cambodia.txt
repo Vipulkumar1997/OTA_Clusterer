@@ -1,0 +1,6113 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Cambodia
+
+
+
+Travelling in Cambodia is like winding back the South East Asian clock about 20 years.
+
+
+Beneath the Cardamom Mountains or on the banks of the Mekong, Khmer village life goes on pretty much as it always has (give or take the odd iPhone). And when you’re watching a sunrise over Angkor Wat or clambering Tomb-Raider-style over the ruins of Tha Promh, the modern world feels a long way off. But don’t be fooled by the epic history – Cambodia is a country on the move. With riverside boulevards and art galleries popping up in Phnom Penh, and Siem Reap’s growing reputation for hip cafes and thumping nightlife, Cambodia tours aren’t all about the temple-gazing. (Although we have to admit, the gazing is pretty darn good.)
+
+
+Top Cambodia travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+12 Dec 2017
+
+Cambodian Traveller
+
+
+
+Cambodian Traveller
+Ho Chi Minh City to Bangkok
+
+
+
+
+
+
+
+
+
+×
+
+Cambodian Traveller
+
+
+
+
+
+
+
+
+
+9
+
+
+FR855
+
+
+FR770
+
+
+
+
+View Trip
+
+
+
+
+
+
+13 Dec 2017
+
+Cambodia Adventure
+
+
+
+Cambodia Adventure
+Bangkok to Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+×
+
+Cambodia Adventure
+
+
+
+
+
+
+
+
+
+12
+
+
+FR845
+
+
+FR718
+
+
+
+
+View Trip
+
+
+
+
+
+
+23 Dec 2017
+
+Angkor Trails
+
+
+
+Angkor Trails
+Bangkok to Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+×
+
+Angkor Trails
+
+
+
+
+
+
+
+
+
+9
+
+
+FR865
+
+
+FR822
+
+
+
+
+View Trip
+
+
+
+
+
+
+24 Dec 2017
+
+Cambodia - Temples & Beaches
+
+
+
+Cambodia - Temples & Beaches
+Bangkok to Bangkok
+
+
+
+
+
+
+
+
+
+×
+
+Cambodia - Temples & Beaches
+
+
+
+
+
+
+
+
+
+14
+
+
+FR1,750
+
+
+FR1,575
+
+
+
+
+View Trip
+
+
+
+
+
+
+28 Dec 2017
+
+Best of Cambodia
+
+
+
+Best of Cambodia
+Phnom Penh to Phnom Penh
+
+
+
+
+
+
+
+
+
+×
+
+Best of Cambodia
+
+
+
+
+
+
+
+
+
+14
+
+
+FR1,285
+
+
+FR1,092
+
+
+
+
+View Trip
+
+
+
+
+
+
+4 Jan 2018
+
+Cambodia Encompassed
+
+
+
+Cambodia Encompassed
+Phnom Penh to Siem Reap
+
+
+
+
+
+
+
+
+
+×
+
+Cambodia Encompassed
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,615
+
+
+FR1,373
+
+
+
+
+View Trip
+
+
+
+
+
+
+4 Jan 2018
+
+Explore Cambodia & Vietnam
+
+
+
+Explore Cambodia & Vietnam
+Phnom Penh to Hanoi
+
+
+
+
+
+
+
+
+
+×
+
+Explore Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+17
+
+
+FR3,160
+
+
+FR2,844
+
+
+
+
+View Trip
+
+
+
+
+
+
+5 Jan 2018
+
+Cambodia Discovery
+
+
+
+Cambodia Discovery
+Ho Chi Minh City to Bangkok
+
+
+
+
+
+
+
+
+
+×
+
+Cambodia Discovery
+
+
+
+
+
+
+
+
+
+12
+
+
+FR920
+
+
+FR782
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Cycle Indochina (Vietnam, Cambodia & Thailand)
+
+
+
+Cycle Indochina (Vietnam, Cambodia & Thailand)
+Ho Chi Minh City to Bangkok
+
+
+
+
+
+
+
+
+
+×
+
+Cycle Indochina (Vietnam, Cambodia & Thailand)
+
+
+
+
+
+
+
+
+
+13
+
+
+FR2,295
+
+
+FR1,951
+
+
+
+
+View Trip
+
+
+
+
+
+
+10 Jan 2018
+
+Cambodia & Laos Encounter
+
+
+
+Cambodia & Laos Encounter
+Siem Reap to Luang Prabang
+
+
+
+
+
+
+
+
+
+×
+
+Cambodia & Laos Encounter
+
+
+
+
+
+
+
+
+
+12
+
+
+FR1,950
+
+
+FR1,658
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Cambodia trips
+
+
+
+
+
+
+
+
+
+Best of Vietnam & Cambodia
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,854
+
+
+
+
+
+Travel into the heart and soul of Indochina on this comprehensive tour of Vietnam and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodian Traveller
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR799
+
+
+
+
+
+Travel through Cambodia from Ho Chi Minh City in Vietnam to Bangkok in Thailand on an...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR736
+
+
+
+
+
+Travel from Bangkok to Ho Chi Minh City on a journey of discovery. Uncover the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Cambodia
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,158
+
+
+
+
+
+See the Best of Cambodia on a trip from the Cambodian capital Phnom Penh, via the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia - Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,088
+
+
+
+
+
+See the best of Cambodia, and learn about its fascinating history and customs, as you...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Express
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR701
+
+
+
+
+
+Follow the Angkor trails on a trip to Thailand, Cambodia and Vietnam. Explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Discovery
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR782
+
+
+
+
+
+Travel to Cambodia on an Intrepid adventure from Ho Chi Minh City to Bangkok. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic South East Asia
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,470
+
+
+
+
+
+From Vietnam to Cambodia, discover incredible diversity, delectable cuisines, dramatic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,845
+
+
+
+
+
+Jump on this adventurous three-week journey to see the very best of Cambodia and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Cambodia
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,125
+
+
+
+
+
+Unearth the essence of Cambodia on a leisurely journey that spends time seeing the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Indochina
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,836
+
+
+
+
+
+See Southeast Asia from two wheels on this 13-day adventure from Ho Chi Minh to Bangkok...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Real Food Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,088
+
+
+
+
+
+Munch your way through Cambodia on this mouth-watering food adventure from Phnom Penh...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Laos Encounter
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,695
+
+
+
+
+
+Experience Cambodia and Laos and get immersed in the culture and history of these...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,905
+
+
+
+
+
+Journey through the highlights of Cambodia and Vietnam, experiencing local life,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Laos Encounter
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,657
+
+
+
+
+
+Experience Cambodia and Laos and get immersed in the culture and history of these...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Vietnam Experience
+
+
+
+
+
+
+
+
+
+26 Days
+
+
+From
+FR1,528
+
+
+
+
+
+Experience Indochina on a trip through Thailand, Cambodia and Vietnam. Journey through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam and Cambodia Explorer
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR1,540
+
+
+
+
+
+Explore Indochina on a trip through Vietnam, Cambodia and Thailand. Travel from Hanoi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Vietnam Discovery
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,860
+
+
+
+
+
+Uncover the dramatic histories of these two beautiful countries on a trip through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Vietnam Discovery
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,690
+
+
+
+
+
+Uncover the dramatic histories of these two beautiful countries on a trip through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South East Asia Loop
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR3,565
+
+
+
+
+
+Travel into the heart and soul of Indochina on this comprehensive tour of Thailand,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia - Temples & Beaches
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,647
+
+
+
+
+
+Travel from Bangkok into Cambodia and discover Angkor marvels, Khmer hospitality,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR688
+
+
+
+
+
+Encounter Cambodia's complex history and welcoming culture on a small-group family...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,495
+
+
+
+
+
+On this comfort trip get to know two noisy siblings forever linked in both culture and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Indochina Family Holiday
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,061
+
+
+
+
+
+Combine the excitement of Vietnam with the friendly warmth of Cambodia for an exotic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Encompassed
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,372
+
+
+
+
+
+Set out on a small group adventure from Phnom Penh to Siem Reap and see the villages of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South East Asia Unplugged
+
+
+
+
+
+
+
+
+
+35 Days
+
+
+From
+FR2,902
+
+
+
+
+
+Embark on an epic journey to explore the best of Indochina. Venture out from Bangkok -...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Thailand Traveller
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,960
+
+
+
+
+
+From Ho Chi Minh City in Vietnam, explore Cambodia's fascinating history and impressive...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle South East Asia
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR3,865
+
+
+
+
+
+Gear up for an energising and rewarding cycling tour that takes in the best of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Thailand Traveller
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,990
+
+
+
+
+
+From Ho Chi Minh City in Vietnam, explore Cambodia's fascinating history and impressive...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia's Secrets of Angkor
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR407
+
+
+
+
+
+Discover the secrets of Angkor on an Intrepid tour through Cambodia's temples of Angkor...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Secrets of Angkor
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR377
+
+
+
+
+
+Discover the secrets of Angkor on an Intrepid tour through Cambodia's temples of Angkor...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,844
+
+
+
+
+
+Journey through the highlights of Cambodia and Vietnam, experiencing local life,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic South East Asia
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,595
+
+
+
+
+
+From Vietnam to Cambodia, discover incredible diversity, delectable cuisines, dramatic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Thailand & Cambodia
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,010
+
+
+
+
+
+Journey from Bangkok to Chiang Mai, Sukhothai and Kanchanaburi, then cross into...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure Vietnam & Cambodia
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,154
+
+
+
+
+
+Travel from Hanoi down and over to Siem Reap, seeing the landmark attractions,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam & Cambodia Adventure
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Explore vibrant Vietnam, charismatic Cambodia and beguiling Bangkok on this awesome...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Cambodia tour reviews
+
+
+Our Cambodia trips score an average of
+4.82 out of 5
+based on 2200 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Cambodia Discovery,
+November 2017
+
+deborah bell
+
+Am so lucky that I had seen both Laos and cambodia before the invasion of China and Chinese tourists who are not helping the locals in any way  and they need our help to survive eg tuk-tuk drivers, who struggle to make ends meet, let alone educate their children, which the government dosen't want as they will learn about democracy and freedom
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Best of Cambodia,
+November 2017
+
+Simon Martino
+
+Excellent trip, that gives a good overview of Cambodia.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Cambodia trip reviews
+
+Our Cambodia trips score an average of
+4.82 out of 5
+based on 2200 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Cambodia
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 26, 2017
+
+
+
+6 tips for travelling with a medical condition
+
+
+
+
+
+
+Travelling with your children always takes a bit of planning. Add in a medical...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2017
+
+
+
+10 under-the-radar destinations in Southeast...
+
+
+
+
+
+
+Here are 10 Southeast Asian spots about to take pride of place on your bucket list...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+The top destinations for travel in December
+
+
+
+
+
+
+Whether you’re in the mood for mulled wine and Christmas markets or in need of a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 11, 2017
+
+
+
+Travelling to Cambodia with my father and...
+
+
+
+
+
+
+It wasn’t until I travelled to Cambodia as an adult with my father that I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 27, 2017
+
+
+
+Cambodian cuisine: Everything you need to know
+
+
+
+
+
+
+Most people know little about this overlooked Asian cuisine. This is a shame,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 14, 2017
+
+
+
+10 questions with the first documented woman to...
+
+
+
+
+
+
+Cassie De Pecol recently became the first woman on record to travel to all 196...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 13, 2017
+
+
+
+5 new UNESCO World Heritage Sites worth a visit
+
+
+
+
+
+
+UNESCO just published its official list of Heritage Sites for 2017, adding over 20...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 08, 2017
+
+
+
+Meet Channa, the Intrepid leader in Cambodia...
+
+
+
+
+
+
+“The money I saved from working at Intrepid, plus the money my sisters saved from...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 29, 2017
+
+
+
+The best beaches in southeast Asia: a...
+
+
+
+
+
+
+Once you've sampled the food, culture and magnificent temples of southeast Asia,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2017
+
+
+
+Cambodia in one week: The ultimate guide
+
+
+
+
+
+
+Even though it's a small country, Cambodia's history is rich and its sites unique....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 13, 2017
+
+
+
+The importance of visiting Cambodia’s Killing...
+
+
+
+
+
+
+Cambodia is more than Angkor Wat. The genocidal history is devastating, but...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 22, 2017
+
+
+
+Eating spiders in Cambodia. Gimmick or gourmet?
+
+
+
+
+
+
+Unlike the humble cricket, spiders aren't a common snack anywhere but have become...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 12, 2017
+
+
+
+Why we’re rethinking orphanage tourism
+
+
+
+
+
+
+Most travellers, donors and volunteers just want to help, but it's an industry...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 21, 2016
+
+
+
+This restaurant chain is changing the lives of...
+
+
+
+
+
+
+We chat with Friends International, a charity that's offering skills training for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Dark Tourism sites: should we be visiting them?
+
+
+
+
+
+
+Dark tourism sites: part of cultural memory, or commercialising something sacred?...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+5 times technology ruined my trip
+
+
+
+
+
+
+Technology has changed the way we live our day-to-day lives and (for worse or for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+6 reasons you should think twice about...
+
+
+
+
+
+
+Orphanage tourism is what happens when good intentions and reality don’t quite...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 26, 2016
+
+
+
+How to be the friend everyone wants to travel with
+
+
+
+
+
+
+Here are our top tips for being MVP of your holiday (and life).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 14, 2016
+
+
+
+10 global dishes that are definitely outside...
+
+
+
+
+
+
+Farewell, comfort zone. It was nice knowing you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 21, 2015
+
+
+
+Your ultimate, no-nonsense guide to Cambodia
+
+
+
+
+
+
+This is the ultimate guide to make every moment in Cambodia count.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 27, 2014
+
+
+
+Recipes of the world: Amok Trei (Cambodia)
+
+
+
+
+
+
+Here’s a recipe for amok trei - fish curry - that you’ll learn to cook on Intrepid...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 30, 2014
+
+
+
+How to photograph the Temples of Angkor
+
+
+
+
+
+
+One of the best things about moving to Singapore seven years ago was having the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Angkor Wat
+
+
+
+
+View the awe-inspiring grandeur of Angkor Wat
+
+
+
+
+
+
+Cambodia & Laos Encounter, 12 days
+
+
+
+
+
+
+
+
+Classic Cambodia, 6 days
+
+
+
+
+
+
+
+
+Cycle Indochina, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Tonle Sap Lake
+
+
+
+
+See floating villages on a boat ride around Tonle Sap Lake
+
+
+
+
+
+
+Cambodia's Secrets of Angkor, 3 days
+
+
+
+
+
+
+
+
+Cambodian Traveller, 9 days
+
+
+
+
+
+
+
+
+Vietnam & Cambodia Adventure, 23 days
+
+
+
+
+
+
+
+
+
+
+
+Kompong Cham
+
+
+
+
+Walk the rustic streets of French-colonial Kompong Cham
+
+
+
+
+
+
+Vietnam and Cambodia Explorer, 22 days
+
+
+
+
+
+
+
+
+Cycle South East Asia, 27 days
+
+
+
+
+
+
+
+
+Cambodia & Vietnam Experience, 26 days
+
+
+
+
+
+
+
+
+
+
+
+Kampot
+
+
+
+
+Mingle with locals amid rice fields and plantations in rural Kampot
+
+
+
+
+
+
+Cambodia Encompassed, 10 days
+
+
+
+
+
+
+
+
+Cambodia Real Food Adventure , 9 days
+
+
+
+
+
+
+
+
+Real Food Adventure Vietnam & Cambodia, 20 days
+
+
+
+
+
+
+
+
+
+
+
+Phnom Penh
+
+
+
+
+Shop for the perfect memento in the markets of Phnom Penh
+
+
+
+
+
+
+Cycle South East Asia, 27 days
+
+
+
+
+
+
+
+
+Cambodian Traveller, 9 days
+
+
+
+
+
+
+
+
+Classic Cambodia & Vietnam, 20 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Cambodia
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Cambodia, you may find yourself travelling by:
+
+
+
+
+
+
+
+Remork
+
+The Cambodian version of the tuk tuk is a fun way to get around and perfect for short trips.
+
+
+
+
+
+
+
+
+
+
+
+Cyclo
+
+Take the slow road and see Cambodia from the ground level while being pedalled through the streets by a friendly cyclo rider.
+
+
+Cambodia Real Food Adventure
+
+
+
+
+
+
+
+
+
+
+Bicycle
+
+Get to know the countryside of Cambodia while riding a bicycle. Glide past fields of rice and wave hello to passing locals.
+
+
+Cambodia - Hike, Bike & Kayak
+
+Cycle Indochina
+
+
+
+
+Accommodation in Cambodia
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Cambodia you may find yourself staying in a:
+
+
+
+
+
+
+
+Homestay
+
+Experience rural life while staying with a local family. Make new friends, eat traditional, home-cooked meals and explore the Cambodian countryside.
+
+
+Cambodia Express
+
+Cambodia Adventure
+
+Cambodia Real Food Adventure
+
+
+
+
+
+
+
+
+
+
+
+Cambodia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Phnom Penh (population 2,000,000)
+
+Population:
+
+14.7 million
+
+Language:
+
+Khmer
+
+Currency:
+
+KHR
+
+Time zone:
+
+(GMT+07:00) Bangkok, Hanoi, Jakarta
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type C (European 2-pin)
+
+Dialing code:
+
++855
+
+
+
+
+
+
+
+
+
+Best time to visit Cambodia
+
+
+
+
+
+
+×
+
+Best time to visit Cambodia
+
+
+
+
+Any time of the year is a good time to travel in Cambodia, with each season having its advantages. The climate in Cambodia is generally hot and humid throughout the year. Temperatures stay in the 30s most of the year, dropping back to the 20s at night. There are officially two seasons in Cambodia – wet and dry. During November to May you can expect dry conditions, while June to October will have wetter weather.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+The Khmer culture has lasted for centuries, and is based on tradition, honouring ancestors, respecting elders and living a life of honesty, humility and kindness. Which is probably why Cambodians are known for being some of the most warm, hospitable and humble people in the world. Above all these qualities, Cambodians are known for their remarkable ability to get on with life after enduring the atrocities that ravaged the country in the 1970s.
+
+As with other neighbouring nations like Thailand, the concept of “saving face” is important. Displaying control and keeping a peaceful nature in public is paramount, as is not losing your temper or ridiculing others.
+
+Most Khmer people are Buddhist. Monks are highly regarded and respected in society, and religious festivals and ceremonies are important parts of daily life. When visiting Cambodia, expect to see orange-robed monks and many displays of faith - from people visiting large, elaborate temples to them praying over small, humble shrines.
+
+Despite the infiltration of modern ideas and concepts, Khmer customs and traditions are kept alive with traditional dance, art, festivals and costume enduring alongside modern pop music and dance.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Like most other Asian countries, rice, noodle soups and stir fries are common in Cambodia. Drawing on Thai, Chinese and Vietnamese cuisines, Cambodian food is strong in flavour but usually not as spicy as food from neighbouring countries.
+
+Things to try in Cambodia
+
+1. Amok
+
+This delicious dish consists of fish seasoned with coconut milk and chilli wrapped in a banana leaf and steamed. Found in up-market restaurants, cafes and markets – Amok is a national culinary treasure!
+
+2. Baguettes
+
+A remnant of Cambodia’s French-colonial past, fresh, crunchy baguettes are sold from street stalls and at markets - and make a great, low-cost breakfast or snack.
+
+3. Tropical Fruit
+
+Jackfruit, mangoes, bananas, pineapple, dragon fruit and watermelon are all plentiful in Cambodian. Get a street vendor to mix up a fresh juice or smoothie for a refreshing treat.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Bordered by
+Vietnam
+,
+Thailand
+and
+Laos
+, much of Cambodia is covered by forested area, although sadly, this is rapidly changing due to the growth of agriculture, logging and deforestation. Home to the largest lake in South-East Asia, Tonle Sap (Great Lake) connects to the Mekong River and swells to four times its normal size during the monsoon season.
+
+Most of the country is low-lying, except for pockets of mountains. Large cities like Siem Reap and Phnom Penh are typically built-up, busy and filled with modern conveniences like nightclubs, bars, public transport, internet cafes and restaurants. Smaller towns and rural areas enjoy more peace and space, with low-density, simple housing and a reliance on agriculture for income.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Evidence of early life in Cambodia dates back to 1500BC, and further evidence suggests that by the 1st Century, rice cultivation, fishing and animal husbandry were the basis of organised society in Cambodia. Various empires arose in the early stages of Cambodian history, with the Funan and Chenla Kingdoms reigning before the rise of the Khmer civilisation. Regarded as one of the most powerful empires in the world, the Khmer Empire prospered from the 9th to the 13th centuries. This was a time of growth and expansion, and many of the artistic treasures and archaeological monuments that Cambodia is known for come from this era. The world-famous temples of Angkor were built during this period, and hold important clues to how life was lived back then. Temple inscriptions depicting daily life, religious ceremonies and military exploits give us important insights into this fascinating civilisation. There are many theories that speculate on the decline of the Khmer Empire. It’s more than likely that a combination of factors including drought, the arrival of the Plague and the rise of neighbouring Thai superpower Ayutthaya resulted in the loss of momentum for a once-powerful empire. A period of decline followed, with the 15th to the 19th centuries marking a time of Cambodia having a lower profile in international affairs, until coming under French Colonial rule in 1863.
+
+Recent History
+
+The events that have shaped Cambodia’s recent history began with the Communist Party of Kampuchea overpowering the Khmer Republic after more than 100 days of fierce fighting. What followed was a radical change in society, with Pol Pot leading the country now known as Kampuchea. This brutal regime soon set about restructuring society and was responsible for committing awful atrocities against the civilian population. Religion and education were repressed, currency and banking were abolished and people were sent to work in the fields. Business people, educators, scholars and other high-ranking members of society were hunted down and murdered by the Khmer Rouge. It's estimated that hundreds of thousands of people (possibly millions) were murdered between 1975 and 1979. In addition to this, many more died of starvation and disease due to lack of medical care and nourishment.
+
+This nationalistic, murderous regime was finally overcome by the Vietnamese Army in 1979, signalling the beginning of the peace process and the establishment of the People’s Republic of Kampuchea. In 1993, millions of Cambodians voted to elect a new government, which then ratified a new constitution, and in 2004 a tribunal was established to serve justice to the people who committed atrocities during the Khmer Rouge era.
+
+Today, Cambodia is rebuilding and moving on from it’s tragic past. Many NGOs have set up programs that empower and support Cambodians with education, health care, training and counselling. While wide-scale poverty and other social problems remain, Cambodia continues to gain strength from its burgeoning tourism industry, and has recently been successful in increasing access to education and health care as well as improving overall living standards.
+
+
+
+
+
+
+
+
+Top 10 Must-Visit Places of Cambodia
+
+
+
+
+
+
+×
+
+Top 10 Must-Visit Places of Cambodia
+
+
+
+
+1. Phnom Penh
+
+Cambodia’s capital may be chaotic but there are moments of peace to be found. Relax in a riverfront bar, find serenity in a local temple or soak up the grand atmosphere of the Royal Palace.
+
+2. Battambang
+
+Beautiful Battambang is home to wonderful examples of French-Colonial architecture, ornate temples, peaceful pagodas and scenic villages. Choose to day trip here or stay longer to be immersed in this place of authenticity.
+
+3. Sihanoukville
+
+With brilliant beaches and a balmy, tropical climate, the port city of Sihanoukville offers a great beach break for weary travellers. Bask in golden sunshine, swim in azure waters, visit a nearby island or laze the day away swinging in a hammock.
+
+4. Siem Reap
+
+With vibrant markets, cool bars, excellent restaurants and superb street food - fun times, culinary adventures and a healthy dose of retail therapy are guaranteed in sensational Siem Reap.
+
+5. Kompong Cham
+
+Full of old-world charm and quiet beauty, Kompong Cham is a great place to switch gears and go slow. Wander the streets to admire decaying colonial buildings, visit a Wat for a quiet moment of reflection or sit on the riverbanks and watch fishermen glide by.
+
+6. Angkor
+
+The sprawling ruins of ever-impressive Angkor are not to be underestimated. From the smiling faces of the Bayon and the twisted trees of Ta Prohm, to the magnetic aura of mighty Angkor Wat, this archaeological site is both intriguing and inspiring.
+
+7. Kampot
+
+Riverside Kampot is a blissful place to unwind. Acting as gateway to nearby mountains, waterfalls, caves, ruins and national parks, this little haven of tranquillity has a great range of quaint guesthouses and cute cafes to keep travellers comfortable.
+
+8. Kratie
+
+Home to rare river-dwelling dolphins, amber sunsets and a gorgeous riverfront, Kratie may be small in size but is still a great spot to stop and get away from it all for a few days.
+
+9. Mondulkiri
+
+A world away from the rest of Cambodia, the mountainous Mondulkiri Province has its own unique culture. Minority groups live in traditional villages here, alongside lush landscapes and a temperate climate. It may be difficult to get to remote Mondulkiri but it’s well worth the journey.
+
+10. Ream National Park
+
+Home to a wide array of birds including eagles, kingfishers, storks and egrets, as well as many species of striking butterflies, a visit to Ream National Park is a great way to get in touch with Cambodia’s natural world.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Markets are plentiful in Cambodia - from the large markets like the Central and Russian Markets in Phnom Penh, to the smaller, local markets in regional areas. As with most markets in
+Asia
+, bargaining for a good price is commonplace.
+
+It's also a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Cambodia:
+
+
+Silver Jewellery
+
+
+
+Stone and Wood Carvings
+
+
+
+Traditional Cambodian Scarves (known as ‘Kramas’)
+
+
+
+Hand-Woven Baskets
+
+
+
+Silk Clothing and Sarongs
+
+
+
+
+
+
+
+
+
+
+Festivals and Events in Cambodia
+
+
+
+
+
+
+×
+
+Festivals and Events in Cambodia
+
+
+
+
+Khmer New Year (Chaul Chnam Thmey)
+
+An important celebration in the Khmer calendar, the Cambodian New Year sees three days of people taking part in rituals, playing traditional games, performing gestures of goodwill towards others and enjoying feasts. Most Cambodians return to their homes to spend time with their families during this time but it’s still a fabulous time to see Cambodia shine.\
+
+Pchum Ben Day
+
+"Ancestors’ Day" involves Cambodians visiting pagodas bearing food, flowers, rice and gifts, which are given to monks to offer to the afterlife so the dead do not haunt the living. This is a particularly poignant celebration given Cambodia’s recent history.
+
+Water Festival
+
+Celebrating the end of monsoon and the natural flow reversal of Tonle Sap and the Mekong, this festival is a visual feast featuring illuminated ornamental boats, music performances, colourful racing boats, fire works, dance, food and drink. With millions teeming into Phnom Penh, this is a great time to see Cambodia in high spirits – although it can get very crowded.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+First They Killed My Father
+
+Loung Ung
+
+When Broken Glass Floats: Growing Up Under the Khmer Rouge
+
+Chanrithy Him
+
+Angkor: Cambodia's Wondrous Khmer Temples
+
+Dawn Rooney
+
+Cambodia Now: Life in the Wake of War
+
+Karen Coates
+
+The Road of Lost Innocence: The True Story of a Cambodian Heroine
+
+Somaly Mam
+
+
+
+
+
+
+
+
+Cambodia travel FAQs
+
+
+
+
+
+Do I need a visa to travel Cambodia?
+
+
+
+
+
+
+
+
+
+Australia:Yes - on arrival
+Belgium: Yes - on arrival
+Canada: Yes - on arrival
+Germany Yes - on arrival
+Ireland: Yes - on arrival
+Netherlands: Yes - on arrival
+New Zealand: Yes - on arrival
+South Africa: Yes - on arrival
+Switzerland: Yes - on arrival
+United Kingdom: Yes - on arrival
+USA: Yes - on arrival
+
+Visas can be organised either in advance or on arrival. Check with your embassy or consulate and allow approx 3 weeks for processing. It is also possible to obtain your Cambodian visa on arrival at the airport or border crossing for approx. US$30 (cost subject to change) - you will need a passport photo.
+
+If a point of contact is requested, please write: Freedom Hotel, Road #6, Siem Reap, Cambodia.
+
+E visas are now available for most nationalities through the official website www.evisa.gov.kh
+E visa cost will be USD30 (visa fee) plus USD7 (processing fee)
+IMPORTANT - please note the Cambodia Government has reported many fraudulent E visa websites that pretend to be official e visa websites. Intrepid recommends only using the official E visa website above or by contacting your Travel agent.
+
+
+
+
+
+
+
+Is tipping customary in Cambodia?
+
+
+
+
+
+
+
+
+
+Tipping isn’t expected in Cambodia, but is appreciated. Feel free to tip drivers and restaurant staff if you feel the service has been good.
+
+
+
+
+
+
+
+What is the internet access like in Cambodia?
+
+
+
+
+
+
+
+
+
+Internet access is growing in Cambodia. Internet cafes are easily found in large cities, but the speed may be slower than what you’re used to.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Cambodia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in urban areas, but can be patchy and less reliable in rural areas. Ensure global roaming is activated on your phone before you arrive in Cambodia.
+
+
+
+
+
+
+
+What are the toilets like in Cambodia?
+
+
+
+
+
+
+
+
+
+Squat toilets are the most common in Cambodia, but western-style toilets can be found in large hotels and in tourist areas. Be prepared to pay a small fee when visiting public toilets, and always carry your own toilet paper and soap as they are usually not provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Large beer = US$1.50
+Meal in a mid-range restaurant = US$4-6
+Street snack = 2000-4000 Riel
+Souvenir t-shirt = US$3-4
+
+
+
+
+
+
+
+Can I drink the water in Cambodia?
+
+
+
+
+
+
+
+
+
+It's not recommended to drink the tap water in Cambodia. Filtered water is a better option; try to use a refillable canteen or water bottle rather than buying bottled water. Remember to avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Cambodia?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by modern hotels, restaurants and medium-large shops in tourist areas. Smaller shops, cafes, market stalls and places in remote areas probably won’t have facilities that support credit cards, so ensure you have enough cash to cover expenses while in rural areas or when visiting smaller vendors.
+
+
+
+
+
+
+
+What is ATM access like in Cambodia?
+
+
+
+
+
+
+
+
+
+ATMs are becoming more common in Cambodia’s large cities, so finding one while when staying in places like Siem Reap, Phnom Penh and Sihanoukville shouldn’t be a problem. Smaller towns and isolated areas will have very few, or none at all, so have enough cash to cover purchases as ATM access may not be available.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Cambodia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Cambodia ?
+
+
+
+
+
+
+
+
+
+1 Jan International New Year Day
+
+2 Jan New Year Holiday
+
+7 Jan Victory over Genocidal Regime Day
+
+9 Jan Victory Day Holiday
+
+11 Feb Meak Bochea Day
+
+13 Feb Meak Bochea Day Holiday
+
+8 Mar International Women's Day
+
+14 Apr Khmer New Year
+
+15 Apr Khmer New Year
+
+16 Apr Khmer New Year
+
+17 Apr Khmer New Year
+
+1 May International Labor Day
+
+10 May Visak Bochea Day
+
+13 May King's Birthday, Norodom Sihamoni
+
+14 May King's Birthday, Norodom Sihamoni
+
+14 May Royal Ploughing Ceremony
+
+15 May King's Birthday, Norodom Sihamoni
+
+15 May Royal Ploughing CeremonyHoliday
+
+16 May King's Birthday, Norodom Sihamoni
+
+1 Jun International Children's Day
+
+18 Jun King's Mother Birthday, Norodom Monineath Sihanouk
+
+19 Jun King's Mother Birthday, Norodom Monineath Sihanouk Holiday
+
+19 Sep Pchum Ben
+
+20 Sep Pchum Ben
+
+21 Sep Pchum Ben
+
+24 Sep Constitution Day
+
+25 Sep Constitution Day Holiday
+
+15 Oct Commemoration Day of King's Father, Norodom Sihanouk
+
+16 Oct Commemoration Day of King's Father, Norodom Sihanouk Holiday
+
+23 Oct Paris Peace Agreements Day
+
+29 Oct King Norodom Sihamoni Coronation Day
+
+30 Oct King Norodom Sihamoni Coronation Day Holiday
+
+2 Nov Bon Om Touk / Water Festival
+
+3 Nov Bon Om Touk / Water Festival
+
+4 Nov Bon Om Touk / Water Festival
+
+6 Nov Bon Om Touk / Water Festival
+
+9 Nov Independence Day
+
+10 Dec International Human Rights Day
+
+11 Dec International Human Rights Day Holiday
+
+Please note these dates are for 2017. For a current list of public holidays in Cambodia go to:
+http://www.worldtravelguide.net/cambodia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Cambodia
+
+Be considerate of Cambodia's customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+Ask permission, remove your shoes and cover your shoulders with a jacket or wrap before entering a place of worship.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Please ask and receive permission before taking photos of people, including children.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Refrain from touching or interfering with ancient monuments, relics or historic sites.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Cambodia, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Kaliyan Mith
+
+The Kaliyan Mith Program will provide quality skills training and business and employment support to caregivers of marginalized children in Siem Reap.
+
+Photo provided by Friends International
+
+
+
+
+
+
+
+
+
+
+
+The Angkor Centre for Conservation of Biodiversity (ACCB)
+
+Cambodia's first organization committed to wildlife and biodiversity conservation, ACCB rescues and rehabilitates threatened species, and educates and trains locals in environmental protection and management.
+
+Image supplied by ACCB.
+
+
+
+
+
+
+
+
+
+
+
+Green Gecko
+
+This inspiring centre is dedicated to supporting and empowering the street kids of Siem Reap with education, training, health care, counselling and creative workshops.
+
+Image supplied by Green Gecko.
+
+
+
+
+
+
+
+
+
+
+
+The Starfish Project
+
+This community-based humanitarian organisation assists disadvantaged Cambodians with housing, medical care, small business advice and water and sanitation. The Starfish Bakery and Cafe, handicraft shop and massage centre all provide employment opportunities for disadvantaged locals as well as crucial funds for the outreach projects.
+
+Image supplied by The Starfish Project.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

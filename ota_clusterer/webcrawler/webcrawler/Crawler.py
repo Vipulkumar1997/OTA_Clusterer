@@ -2,6 +2,7 @@ from scrapy.crawler import CrawlerRunner
 from ota_clusterer.webcrawler.webcrawler.spiders.WebCrawlingSpider import WebCrawlingSpider
 from scrapy.utils.project import get_project_settings
 from scrapy.utils.log import configure_logging
+import ota_clusterer.webcrawler.webcrawler.settings as scrapy_settings
 from twisted.internet import reactor
 import csv
 from ota_clusterer import settings
@@ -26,10 +27,13 @@ class Crawler:
         configure_logging()
         runner = CrawlerRunner(get_project_settings())
         for hostname in hostnames:
-            runner.crawl(WebCrawlingSpider, hostname=hostname, start_urls=['http://' + hostname])
+            runner.crawl(WebCrawlingSpider, hostname=hostname, start_urls=['http://' + hostname, 'https://' + hostname])
             d = runner.join()
             d.addBoth(lambda _: reactor.stop())
         reactor.run()
+
+    def set_obey_robotstxt_false(self):
+        scrapy_settings.ROBOTSTXT_OBEY = False
 
 
 def main():

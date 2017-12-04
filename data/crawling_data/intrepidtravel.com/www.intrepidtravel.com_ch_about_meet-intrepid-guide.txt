@@ -1,0 +1,3728 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meet your local leaders | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meet your local leaders
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+About
+
+Meet your local leader
+
+
+
+
+The best folk to show you the heart of a destination are the ones that live there, which is why we work exclusively with local leaders. Our leaders are not only just travel experts, they’re your teacher, travel guru and enthusiastic purveyor of grassroots experiences. They’ll just as easily steer you through the laneways of
+Marrakesh
+as help you strike up a conversation with the locals – and all with a smile.
+
+Why travel with a local leader?
+
+
+
+
+
+
+
+
+
+
+You can really get to know the locals
+
+A local leader is more than just a guide – they’re your key to mingling with the people. Whether it’s dropping in on the village baker in
+Assisi
+for a chat, or meeting a nomadic Berber in
+Morocco
+, our leaders are the bridge between you and the friendly locals.
+
+
+
+
+
+
+
+
+
+
+
+Learn what it means to be a local
+
+Our leaders are true locals – they know the urban legends behind every town square, the handy shortcuts down timeworn alleys, and the traditional dishes you won’t find on the tourist menu. With plenty of stories and tips to share, you’ll feel like an adopted local in no time.
+
+
+
+
+
+
+
+
+
+
+
+Discover the hidden highlights
+
+Don’t want to miss out on the key sites? Our local leaders will still show you the Colosseum, Trevi Fountain and Roman Forum, but after the tourists get back on the bus and leave they’ll take you down a hidden laneway and show you the 400-year old pizza restaurant that most tourists don’t get to see.
+
+
+
+
+
+
+
+
+
+
+
+Never run out of ideas for free time
+
+Nothing compares to that feeling of really exploring a city at your own pace; it’s even better when you’ve got a few handy pointers from a local. From tango classes in
+Buenos Aires
+to watching a sumo match in
+Osaka
+, our leaders can suggest the best ways to fill in your free time at each destination – and even help arrange it for you!
+
+
+
+
+
+
+
+
+
+
+
+Getting from A to B couldn’t be easier
+
+Our local leaders make your trip as seamless as possible – they’ll book train tickets and bus passes to get you from one destination to the next, make restaurant reservations, organise museum passes and sort the technical details. Most of all, they give you peace of mind so you can spend less time looking at time schedules and more time soaking up the views.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meet your local leaders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Every time I take my group somewhere, I get them to interact with the local people. I have a lot of friends so sometimes I arrange for them to meet my friends – or we go to my house and see my mother. I once had a girl who wanted to try homemade food so she went to my mother’s house and they made it together!'
+
+–
+Manuel,
+Peru
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Many people think you put 10 people on a bus and show them some Wikipedia. In reality, we go together to local areas and not many touristy places. We take our travellers to home stays and they have home cooked meals. We give them a local insight and it is honest.' –
+Emir,
+Turkey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Most people that travel with us expect to get the true local Vietnam experience – not only the itinerary but the local customs, local habits in each region, local food. We give them the chance to practice daily Vietnamese life. They can even learn to make rice paper rolls and candy.' –
+Vinh,
+Vietnam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hear what our leaders have to say
+
+While we can talk under water about the benefits of travelling with a local leader, we think its best to hear it from them in their own words. Here's what a few of our friendly leaders have to say.
+
+
+
+
+
+
+
+Ernesto
+
+
+
+
+
+
+
+
+Yamila
+
+
+
+
+
+
+
+
+Juan
+
+
+
+
+
+
+
+
+Yasmina
+
+
+
+Moving towards equality
+
+At Intrepid, we know that our greatest strength lies in our diversity. This is why we strive to promote equality and inclusiveness at every level of our business – whether it’s staff treading the boards at Head Office or a guide leading a group through the back streets of
+Tokyo
+. While 21% of our current leaders are female, our goal is to double the number of female leaders globally by 2020. It’s an exciting challenge spanning many countries and cultures, but it's all part of an ongoing effort to promote gender equality and women's independnece.
+
+Read more about our female leaders
+
+How we're giving back
+
+When you think about it, working together with local people makes a lot of sense. Not only does it provide employment opportunities, it also ensures we respect local cultures and support local economies. Tourism is a large source of income for many countries – and we strive to help locals make the most of that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'I love this job because I can support my family without needing to go abroad. I also love to see people from different parts of the world. Tourism is developing in Myanmar and this is good for the economy. I think Intrepid is great because of our responsible tourism. We are always reducing the risk of negative impacts and the money is always going back to the local people.' –
+Joseph,
+Myanmar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Intrepid Foundation
+
+While employing local leaders is a major cornerstone of our business, we believe there’s always more we can do. That’s why we established
+The Intrepid Foundation
+. The Foundation works with more than 70 grassroots projects from around the world, supporting initiatives in healthcare, education, gender equality, sustainability and human rights.  Every donation made to The Foundation is matched dollar for dollar by Intrepid Travel.
+
+These are just a few of the organisations The Intrepid Foundation proudly supports:
+
+The Kilimanjaro Porters Assistance Project (KPAP)
+
+
+
+
+
+
+
+KPAP is a local organisation in Tanzania that supports porters working on Mt Kilimanjaro. Unfortunately there are porters in the industry who work for reduced pay and in poor conditions, often without adequate clothing or equipment. With the assistance of The Intrepid Foundation, KPAP is able to support Kilimanjaro porters by providing advocacy and education. KPAP also works with the travel industry to maintain safe climbing practices for hardworking porters.
+
+You can find out more about KPAP or make a donation by clicking
+here
+.
+
+
+
+
+
+
+Stories from the road
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 26, 2017
+
+
+
+6 tips for travelling with a medical condition
+
+
+
+
+
+
+Travelling with your children always takes a bit of planning. Add in a medical...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+At sea: life on the water with Intrepid skipper...
+
+
+
+
+
+
+You’d think falling overboard would put you off sailing, but not skipper Mike Simon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2017
+
+
+
+Two Intrepid leaders take out Gold & Bronze at...
+
+
+
+
+
+
+It takes a pretty special person to not only bring a place to life, but to also...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 22, 2017
+
+
+
+Travelling India as a solo female: Finding love...
+
+
+
+
+
+
+It’s not long before a group of women, in vibrant saris and knotted hair take a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 31, 2017
+
+
+
+This is what it’s like to share a meal at a...
+
+
+
+
+
+
+Music is playing, people are walking and praying, and the atmosphere is festive...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 16, 2017
+
+
+
+Аnton and the Trans-Siberian Express: A...
+
+
+
+
+
+
+Teacher of Russian, fine tea connoisseur, Chinggis Khan Gold vodka enthusiast:...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 06, 2017
+
+
+
+Go with the Flo: Intrepid leader Florence talks...
+
+
+
+
+
+
+What's it like to travel through East Africa on a small group safari? Let's let an...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 26, 2017
+
+
+
+Celebrating life on Day of the Dead
+
+
+
+
+
+
+Some people confuse Day of the Dead celebrations with Halloween, but really, Dia...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 08, 2017
+
+
+
+Meet Channa, the Intrepid leader in Cambodia...
+
+
+
+
+
+
+“The money I saved from working at Intrepid, plus the money my sisters saved from...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 25, 2017
+
+
+
+Two Intrepid leaders nominated for World Guide...
+
+
+
+
+
+
+We’re thrilled to announce that two Intrepid local leaders have been named as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 25, 2017
+
+
+
+‘Travellers change my life and I change theirs’...
+
+
+
+
+
+
+Khalid Lamlih, an Intrepid local leader, talks about the power of meeting other...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 18, 2017
+
+
+
+Meet Sana, the Intrepid leader defying gender...
+
+
+
+
+
+
+Sana is just one person. One female leader in one male-dominated society. But...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 18, 2017
+
+
+
+Meet Pravin, the Intrepid Manager fighting for...
+
+
+
+
+
+
+"I believe things are changing here", reflects Pravin. "It won't be long before 50...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2017
+
+
+
+‘The best place to eat in Macedonia is somebody...
+
+
+
+
+
+
+The Balkan republic of Macedonia is like a tiny version of France, with a huge...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 04, 2017
+
+
+
+What happens on tour, stays on tour: our local...
+
+
+
+
+
+
+We chatted to a few of our leaders about some of their favourite moments on...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 03, 2017
+
+
+
+These travel tips from Intrepid Travel guides...
+
+
+
+
+
+
+Nobody knows more about travelling than Intrepid Travel’s network of local leaders...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 01, 2017
+
+
+
+Life after cancer: the survivor who fell in...
+
+
+
+
+
+
+“A few years ago, my husband was killed. My children grew up and got married...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 27, 2017
+
+
+
+Listen to the Swahili song that will get your...
+
+
+
+
+
+
+Intrepid mountain guide Samuel has climbed Kilimanjaro over 500 times. So when his...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 26, 2017
+
+
+
+Places in Mexico you must visit, according to...
+
+
+
+
+
+
+Sit down with Intrepid tour guide Balam and you're bound to learn something new,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 25, 2017
+
+
+
+Where to travel in Indonesia, according to an...
+
+
+
+
+
+
+Meet Maman. He's led Intrepid trips in Indonesia for over 10 years, and here he...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 19, 2017
+
+
+
+Your ultimate Hawaii island-by-island travel guide
+
+
+
+
+
+
+We sat down with Intrepid leader, Chadwick, to get the low down on the real Hawaii...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 05, 2017
+
+
+
+Why you should take the Quarry Trail to Machu...
+
+
+
+
+
+
+When I was told the Inca Trail was fully booked, I was disappointed. Hiking to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 23, 2017
+
+
+
+Meet the Leaders: Judy, Bahamas sailing skipper
+
+
+
+
+
+
+This week we're proud to introduce our very first female sailing skipper, Judy....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience it for yourself on an Intrepid tour
+
+
+
+
+
+
+
+
+
+
+Best of Morocco
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR943
+
+
+
+
+
+See the best of Morocco from Casablanca to Marrakech. Admire the city of Fes, see the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Express Southbound
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR944
+
+
+
+
+
+Travel from historic Hanoi to modern Ho Chi Minh City. Tour down the Mekong, visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Cuba
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,784
+
+
+
+
+
+Escape to Cuba on an exotic getaway through the sizzling streets of sultry Havana, soak...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mexico Unplugged
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,095
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Rajasthan
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,300
+
+
+
+
+
+Travel to India and visit the romantic Rajasthan region. Tour from Delhi to Pushkar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sacred Land of the Incas
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,371
+
+
+
+
+
+Discover Peru's sacred land of the Incas. Visit Lima, the Amazon, Cuzco, Puno, Lake...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Italy
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,775
+
+
+
+
+
+Immerse yourself in classic culture, history and incredible sights on this Best of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Japan: Land of the Rising Sun
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR3,703
+
+
+
+
+
+Experience the best of this fascinating country on a comprehensive tour of Japan. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Myanmar
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,860
+
+
+
+
+
+Travel to Myanmar (Burma) and discover mythical landscapes and amazing hospitality....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Wilderness
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,978
+
+
+
+
+
+Trek through South America's Patagonia region on an overland trip to Chile and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

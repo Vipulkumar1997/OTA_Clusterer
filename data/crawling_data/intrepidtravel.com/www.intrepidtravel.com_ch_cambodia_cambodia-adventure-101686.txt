@@ -1,0 +1,3304 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Adventure | Cambodia Tours | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Adventure
+
+
+
+
+
+
+
+
+
+
+
+Days
+
+12
+
+
+
+Style
+
+Basix
+
+
+
+Travellers rating
+
+
+238 reviews
+
+
+From
+
+FR718
+CHF
+
+
+
+
+
+View dates
+
+
+
+
+Home
+
+Asia
+
+Cambodia
+
+Cambodia Adventure
+
+
+
+
+
+
+
+
+
+
+Be romanced by the Cambodian spirit, culture and its scenic wonders
+
+
+
+
+Prepare for a unique adventure loaded with ancient sights and breathtaking beauty as you travel from the hustle of Bangkok to the bustle of Ho Chi Minh City. Discover the laidback charm and easy smiles of the Cambodian people, call into the ancient temples at Angkor, take on beguiling Phnom Penh and relax on the palm-fringed beaches of Sihanoukville. With a do-it-yourself approach that gives you the freedom to choose what interests you, we dare you to not be impressed by the Cambodia Adventure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start
+
+Bangkok, 
+  Thailand
+
+Finish
+
+Ho Chi Minh City, 
+  Vietnam
+
+Countries
+
+Cambodia
+,
+Thailand
+,
+Vietnam
+
+Style
+
+Basix
+
+Theme
+
+Explorer
+
+
+
+
+
+Code
+
+TKRR
+
+Physical rating
+
+
+Ages
+
+Min 
+  15
+
+Group size
+
+Min 
+  1, Max 
+  16
+
+
+
+
+
+
+
+Why we love this trip
+
+
+
+
+Get a taste of frenetic Bangkok, with its excellent street food, enchanting canals and sprawling marketplaces
+
+
+
+Enjoy the guidance of a local expert as you temple-hop at the Angkor complex, one of Southeast Asia's most stunning sights
+
+
+
+Confront the sobering but important Khmer history in Phnom Penh, with included visits to the Tuol Sleng Genocide Museum and Choeung Ek Memorial
+
+
+
+A homestay in the village of Chambok puts you right in the heart of everyday life in rural Cambodia
+
+
+
+Nature-lovers rejoice! Two days in Sihanoukville is your chance to delve into the mangrove forests of Ream National Park, or simply unwind on a secluded beach
+
+
+
+Your trip ends in Ho Chi Minh City, a perfectly action-packed place to visit in Vietnam whether you're short on time or wish to extend your stay
+
+
+
+
+
+
+Is this trip right for you?
+
+
+
+
+This trip involves a lot of public transport and some long days of driving, so some patience will go a long way towards your enjoyment here. Sit back, relax, watch the scenery go by, and embrace travelling like a local.
+
+
+
+Accommodation is basic – a combination of simple hotels, guesthouses and a homestay.
+
+
+
+This being a Basix trip, there are less included activities and meals, and more free time for optional activities. While this gives you freedom and flexibility, it does require a level of independence.
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Itinerary
+
+Expand All
+
+Collapse All
+
+
+
+
+This itinerary is valid for departures from 01 January 2017 to 31 December 2017.
+View the itinerary for departures between 01 January 2018 - 31 December 2018
+
+
+
+
+
+
+
+Day 1: Bangkok
+
+
+
+
+
+
+
+
+
+Sa-wat dee! Welcome to Thailand. Your adventure begins with a welcome meeting at 6 pm on Day 1. Please look for a note in the hotel lobby or ask the hotel reception where it will take place. With free time, why not take a riverboat to Chinatown and explore the crowded streets, uncover the magnificent Grand Palace and the Temple of the Emerald Buddha, wander down the tourist mecca of Khao San Road, or indulge in some Thai massage?
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Bangkok - Grand Palace - THB500
+
+Bangkok - Wat Pho Temple - THB200
+
+Bangkok - Thai Massage - THB250
+
+Bangkok - Jim Thompson's House - THB150
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 2: Siem Reap
+
+
+
+
+
+
+
+
+
+Travel from Bangkok to Siem Reap by private bus today (approximately 10 hours, including the border crossing and lunch). You will exit Thailand at Aranyaprathet and enter Cambodia at Poipet. Your leader will help you with border procedures. If you are getting your visa at the border you will need cash in US dollars. From Poipet to Siem Reap is approximately another 150 km. When you arrive, perhaps spend the evening relaxing in preparation for tomorrow's visit to Angkor Wat.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 3: Siem Reap / Angkor Wat
+
+
+
+
+
+
+
+
+
+Today you'll visit the world-famous Angkor complex with your guide. The ruins are scattered over an area of some 160 square kilometres; this is the biggest religious monument in the world. However, the main cluster of temples is close to Siem Reap, so you'll have plenty of time to fully appreciate the great archaeological sites of Angkor Wat (the astounding main attraction), the Bayon (a marvel of many sculpted decorations) and Ta Prohm (the eerily beautiful temples covered in jungle).
+
+Notes: A single-day Angkor Pass is included on this tour. If you'd like to return to Angkor outside of your included visit, you can buy a longer pass. Just ask your leader.
+
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Siem Reap - 1 day Angkor Pass
+
+Siem Reap - Angkor Temples Guided Tour
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 4: Siem Reap
+
+
+
+
+
+
+
+
+
+Enjoy free time in Siem Reap today. If you feel like some adventure, you can take the optional Angkor zip-line course, which gives you a birds-eye view of the rainforest, plus an adrenaline rush. Other options here include a visit to the sobering Landmine Museum – it's located a little further field but is well worth the journey. There is also the Siem Reap Street Food by Night Urban Adventure, a three-hour tour which allows you to taste the many flavours of the city and feel the buzz of the local markets.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Siem Reap - Tonle Sap Lake Boat Trip - USD15
+
+Siem Reap - Remork transport to Tonle Sap Lake - USD10
+
+Siem Reap - Angkor Zipline - USD129
+
+Siem Reap - Landmine Museum - USD5
+
+Siem Reap - Three Day Angkor Pass - USD62
+
+Siem Reap - Urban Adventure Cambodian Cook-Out - USD52
+
+Siem Reap - Street Food Tour - USD47
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 5: Kompong Cham
+
+
+
+
+
+
+
+
+
+Travel by public bus to Kompong Cham (approximately 5 hours). This peaceful town was once an important trading hub and is now a great opportunity to experience life in small-town Cambodia. A great option here is to visit the serene 11th-century Wat Nokor. You can also hire a bicycle to explore the rural island of Koh Paen, which is linked to Kompong Cham by an elaborate bamboo bridge (it's passable only in the dry season, take a ferry in the wet). The locals here make their living fishing, growing tobacco and sesame so it's a good place to go for a closer look at some of Cambodia's cottage industries. A little further afield are the twin 'mountain temples' of Phnom Pros and Phnom Srei.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Kompong Cham - Wat Nokor - USD1
+
+Kompong Cham - Bicycle hire - USD2
+
+Kompong Cham - Phnom Pros and Phnom Srei - USD10
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 6: Phnom Penh
+
+
+
+
+
+
+
+
+
+Travel by private bus to the capital city of Phnom Penh (approximately 3 hours). Cambodia's capital is set on a major junction of the Mekong and Tonle Sap rivers and boasts some fine examples of French-inspired architecture. A recommended option is to visit the Choeung Ek Memorial, where a stupa made of some 8,000 human skulls marks the site of the infamous Killing Fields, the execution ground for the torture victims of Tuol Sleng. Or learn about a brighter period of Cambodian history by visiting the Royal Palace and Silver Pagoda. Wat Phnom, shrouded in myth, is equally worth a visit, as is the National Museum with its excellent Khmer collection. Cyclo tours around the city are a great alternative to walking and generally include the central market, US Embassy, Wat Phnom, Mekong river front, independence monument and Royal Palace. Keen shoppers can hit the art-deco Psar Thmei (Central Market).
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Phnom Penh - Killing Fields of Choueng Ek - USD3
+
+Phnom Penh - Transport to Choeung Ek (Killing Fields) - USD15
+
+Phnom Penh - Royal Palace & Silver Pagoda - USD10
+
+Phnom Penh - Wat Phnom - USD2
+
+Phnom Penh - National Museum - USD10
+
+Phnom Penh - Cyclo tour - USD4
+
+Phnom Penh - Tuol Sleng Prison Museum (S21) - USD5
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 7: Chambok Homestay
+
+
+
+
+
+
+
+
+
+Travel by private bus (approximately 3 hours) into rural Cambodia to the region of Kampong Speu and village of Chambok. There's a lot of natural beauty to discover here, from waterfalls to swimming holes to bat caves nestled in the mountains. The Chambok community is renowned for its ecotourism. Tonight you'll join a local family in their home – a wonderful opportunity to participate in everyday Cambodian life. In the evening, enjoy a traditional Khmer dinner. You'll also be treated to a traditional dance performance while you're here.
+
+Notes: Facilities on this homestay are basic and multi-share. Mattresses, bedding and mosquito nets are provided.
+
+
+Accommodation
+
+
+Homestay (1 night)
+
+
+Included Activities
+
+
+Chambok - Traditional Dancing
+
+
+Meals Included
+
+
+Dinner
+
+
+
+
+
+
+
+
+Day 8: Sihanoukville
+
+
+
+
+
+
+
+
+
+A private bus takes you to Sihanoukville today (approximately 4 hours). Named after the Cambodian royal family, this town has miles of lovely beaches and warm, welcoming people. It's also a jumping-off point to many beautiful islands. Settle in and perhaps take a refreshing swim.
+
+Accommodation
+
+
+Guesthouse (1 night)
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 9: Sihanoukville
+
+
+
+
+
+
+
+
+
+Enjoy a day of free time. There are a variety of exciting optional activities on offer. You can take a boat to one of the nearby islands, enjoy a barbecue lunch or simply relax among swaying palms, white sands and blue waters. Perhaps make the trip out to the Ream National Park, which boasts 21 hectares of coastal mangrove forest and a great variety of animal and bird species. You may like to take a Khmer cooking class, or perhaps partake in some windsurfing or kitesurfing.
+
+Accommodation
+
+
+Guesthouse (1 night)
+
+
+Optional Activities
+
+
+Sihanoukville - Island Boat Trip & Snorkelling - USD20
+
+Sihanoukville - Ream National Park entry fee - USD5
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 10: Phnom Penh
+
+
+
+
+
+
+
+
+
+Take a local bus back to Phnom Penh (approximately 4 hours). This will be your last night in Cambodia before moving on to Vietnam tomorrow. If you're looking to indulge in some proper rest and relaxation, the Seeing Hands massage parlours are some of the best in the city, and all patronage supports the visually impaired masseurs whose years of expertise may be just what you need today.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Phnom Penh - Traditional Khmer massage - USD8
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 11: Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+Travel by local bus from Phnom Penh to Ho Chi Minh City (approximately 7 hours). You will exit Cambodia at Bavet and enter Vietnam at Moc Bai. Your leader will again assist you with border crossing procedures. Get out and discover the city's blend of old and new, East and West, when you arrive. Be sure to sample a baguette or some of the excellent coffee on offer – both markers of the city's strong French influence. Equally essential are visits to Reunification Palace (the site of South Vietnam's surrender in April 1975) and the War Remnants Museum. Some of Intrepid's Urban Adventures available in in this city include Mekong Discovery, Cyclos & Markets, Cu Chi Experience and Saigon Street Food by Night. If your staying longer in Ho Chi Minh City and you'd like to take one, your leader can help you book.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Ho Chi Minh City - Reunification Palace - VND40000
+
+Ho Chi Minh City - War Remnants Museum - VND15000
+
+Ho Chi Minh City - Cu Chi Tunnels - VND110000
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 12: Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+For your final day, there are no activities planned and you are free to depart the accommodation at any time.
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+
+
+Inclusions
+
+
+
+
+
+
+Meals
+2 breakfasts, 
+1 dinner
+
+
+
+
+
+
+
+Transport
+Private mini bus,
+        Public bus
+
+
+
+
+
+
+
+Accommodation
+Guesthouse (2 nights),
+                    Homestay (1 night),
+                    Hotel (8 nights)
+
+
+
+
+
+
+
+Included activities
+
+
+Siem Reap - 1 day Angkor Pass
+
+Siem Reap - Angkor Temples Guided Tour
+
+Chambok - Traditional Dancing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meals
+2 breakfasts, 
+1 dinner
+
+
+Transport
+Private mini bus,
+        Public bus
+
+
+Accommodation
+Guesthouse (2 nights),
+                    Homestay (1 night),
+                    Hotel (8 nights)
+
+
+Included activities
+
+
+Siem Reap - 1 day Angkor Pass
+
+Siem Reap - Angkor Temples Guided Tour
+
+Chambok - Traditional Dancing
+
+
+
+
+
+
+
+
+Dates & availability
+
+
+
+Trip search is unavailable.
+
+
+
+There are currently no scheduled departures on our Cambodia Adventure trip. If you are interested in other trips in the region visit one of the links below.
+
+
+Cambodia
+
+Thailand
+
+Vietnam
+
+
+
+
+
+
+Latest Departures
+
+
+
+Dates list
+
+
+
+
+
+
+
+Next trip departures
+
+
+
+Jump to a departure month
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+
+
+Important notes
+
+A single supplement is available on this trip please contact your sales agent if you would like to book a single supplement. Please note the following night is excluded from the single supplement; Day 7 homestay
+
+
+
+
+
+Essential trip information
+Want an in-depth insight into this trip? Essential Trip Information provides a detailed itinerary, visa info, how to get to your hotel, what's included - pretty much everything you need to know about this adventure and more.
+
+
+View Essential Trip Information
+
+
+
+
+
+Reviews
+
+
+Our Cambodia Adventure trips score an average of
+4.79 out of 5
+based on 238 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Cambodia Adventure,
+November 2017
+
+Brian Yau
+
+Having a local tour guide made the experience very genuine and authentic - without this, the trip would become far far less interesting, especially in a destination such as Cambodia.  Was a little disappointed in the organisation of Intrepid in the office (warning emails and missed transfer booking) but the overall itinerary, tour guide and execution of the trip was excellent.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Adventure,
+November 2017
+
+Ilse De Coninck
+
+Organized Adventure!
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Cambodia Adventure trip reviews
+
+Our Cambodia Adventure trips score an average of
+4.79 out of 5
+based on 238 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+Go to dates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+

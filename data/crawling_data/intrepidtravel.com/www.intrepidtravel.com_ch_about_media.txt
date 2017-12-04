@@ -1,0 +1,3206 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Media | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Media
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+About
+
+Contact us
+
+Media
+
+
+
+
+As a company whose job it is to travel all over the world having adventures, we’ve always got a few stories to share. Every year we’re releasing new trips, breaking new ground and partnering with causes close to our hearts. Have a browse through our media releases below, or if you need a press contact, try the list on the right.
+
+
+
+Media Releases
+
+
+
+
+
+Wed, 2015-05-20 - Be a cause for change on an Intrepid Travel Charity Trek
+
+
+
+
+
+
+
+
+
+As a traveller, have you ever wanted to ‘give back’ to the destinations you visit? Intrepid Travel is encouraging travellers to sign up to one of its Charity Treks in Mount Kilimanjaro, Mount Everest or Kokoda this year and be a real force for change.
+
+In joining one of these three Charity Treks, travellers are committing to fundraise $1500 AUD for NGOs and community projects supported by
+The Intrepid Foundation
+– from providing funding to train teachers and healthcare workers along the Kokoda Track to remote communities in the Nepalese Himalayas and an education project in Kilimanjaro. The trips will include a visit to these projects so travellers can see first-hand the lives they are helping improve.
+
+“Kilimanjaro, Kokoda and Everest Basecamp are some of the toughest treks in the world and will be all the more rewarding knowing that you will be making a real, tangible, positive change to underprivileged communities,” says James Thornton, Intrepid Travel Managing Director.
+
+“And while many people may be surprised to see Everest Basecamp included in our Charity Treks following the devastating earthquake that hit Nepal last month, infrastructure is likely to be up and running again by October and you’ll be putting your fundraising dollars in the hands of people that need them the most – local Nepalese communities.”
+
+The Intrepid Foundation has been working closely with children’s charity Plan International to help rebuild in the wake of the earthquake and provide ongoing support for the Kathmandu Valley. To date, over $370,000 has been raised by the Intrepid community – the most successful appeal The Intrepid Foundation has ever run.
+
+To take on a Charity Trek, travellers must register here:
+www.intrepidtravel.com/intrepid-charity-treks
+Places are limited.
+
+Charity Kilimanjaro Climb
+Dates: 5 September 2015
+Trip duration: 8 days
+Fundraising target: $1500 AUD
+Travel cost: $2215 AUD (flights not included)
+Charity: Village Education Project Kilimanjaro
+www.intrepidtravel.com/charity-kili-climb
+
+Charity Kokoda Trek
+Dates: 19 October 2015
+Trip duration: 11 days
+Fundraising target: $1500 AUD
+Travel cost: $4565 AUD (flights not included)
+Charity: The Kokoda Track Foundation
+www.intrepidtravel.com/charity-kokoda-trek
+
+Charity Everest Basecamp Trek
+Dates: 25 October 2015
+Trip duration: 15 days
+Fundraising target: $1500 AUD
+Travel cost: $1295 AUD (flights not included)
+Charity: Kathmandu Environmental Education Project
+www.intrepidtravel.com/charity-basecamp-trek
+
+
+
+
+
+
+
+
+
+Mon, 2015-04-27 - Intrepid to match donations in Nepal Earthquake Appeal
+
+
+
+
+
+
+
+
+
+Australia’s largest adventure travel company,
+Intrepid Travel
+, and its sister brands
+Peregrine
+and
+Geckos
+, is launching an appeal to assist with emergency relief in Nepal through its not-for-profit,
+The Intrepid Foundation
+.
+
+The appeal will raise funds for Plan International, who has sent emergency teams to respond to the needs of impoverished children and families affected by the earthquake in the Kathmandu Valley.
+
+Plan International is a long-term partner of The Intrepid Foundation. The children’s charity has been working in Nepal for more than 30 years to help impoverished children to access health, education and protection. The immediate priority of the appeal is to support children's core needs - including shelter, water, health care, and essential child protection mechanisms.
+
+Intrepid is encouraging travellers to give to the appeal by matching donations to the appeal dollar-for-dollar. All donations will go directly to Plan International with any administration costs entirely funded by Intrepid.
+
+“The situation in Nepal is heartbreaking. This is a part of the world that is close to the hearts of many of us, and we know that like us – Australian travellers will want to help” says James Thornton, Managing Director of Intrepid Travel. “We hope to raise a lot of money for local families in Kathmandu, and so we are matching donations to encourage people to give generously”.
+
+Please visit
+www.theintrepidfoundation.org/projects/emergency-earthquake-appeal/
+to make a donation.
+
+
+
+
+
+
+
+Fri, 2015-03-27 - Intrepid joins forces with Pollinate for Earth Hour
+
+
+
+
+
+
+
+
+
+To mark Earth Hour this Saturday 28 March, Intrepid Travel has announced a partnership with social startup Pollinate Energy and is encouraging people to donate just $10 to help improve the lives of India’s urban poor.
+
+Around 292 million people in India live without access to electricity, and many of those are forced to burn kerosene for light and heat. This indoor air pollution is the second highest cause of death by disease in India.
+
+Pollinate Energy aims to improve the lives of these people by giving them access to life-changing and affordable products. A small donation of $10 will go towards recruiting ‘pollinators’, or local entrepreneurs, to help distribute and sell solar-powered lamps in some of the country’s worst slums.
+
+“As a world leader in responsible travel, Intrepid is proud to support local communities wherever possible and engineer real change through our not-for-profit arm The Intrepid Foundation”, says Darrell Wade, Intrepid Co-Founder. “Through its efforts we’ve been able to provide educational services to disabled adults in Rajasthan, helped kick start nutrition and housing for Delhi’s street kids and recycled unwanted goods to help clothe and sustain the country’s most needy. We are delighted to partner with Pollinate this year and continue to make a real difference for India’s communities.
+
+“As we mark Earth Hour it’s worth remembering that, for many people, the darkness lasts a lot longer than 60 minutes. We encourage everyone to donate just $10 to light up an Indian family with clean, renewable energy.”
+
+Intrepid has a long history of advocacy and action on climate change. This year marks five years since the company achieved carbon neutral status in its offices and started offsetting trips – Intrepid off-set travel for more than 100,000 travellers each year, and have contributed more than one million dollars to seven different carbon abatement projects.
+
+“Earth Hour each year reminds us of the importance of our actions. On Saturday March 28, I encourage everyone to join us in turning the lights out and engaging in the conversation. Perhaps together we can find a way to reduce our collective carbon footprint and help to preserve the wonderful world in which we live.”
+
+Visit
+www.intrepidtravel.com/pollinate
+for more information and to donate.
+
+
+
+
+
+
+
+
+
+Fri, 2015-03-13 - Intrepid ventures into unknown territories with new Expedition range
+
+
+
+
+
+
+
+
+
+Is there anywhere genuinely new left for travellers to discover? That was the question considered by more than 1000 Intrepid Travel staff tasked with designing dream trips to the world’s most obscure destinations, as part of a new product incubator project for the world’s largest adventure travel company.
+
+Now Intrepid Travel has launched a range of Expedition trips, with itineraries in a southern Mexican jungle, Georgia, Kosovo and Papua New Guinea the first to be announced, and with more itineraries to off-the-map regions expected to be unveiled throughout 2015.
+
+The trips in the Expedition range will have limited departures in 2015, allowing Intrepid to test new product as well as satisfy the adventurous spirit of its most well-travelled customers and staff.
+
+More than 50 submissions met the criteria set out by Intrepid for the new range of exploratory-style tours, which required trips to be logistically possible, not include a ‘danger zone’, and to visit somewhere genuinely new and unusual.
+
+“Some of the dream itineraries submitted had us busily checking our maps and DFAT warnings – and all of them inspired us to want to pack our bags and do it!” says James Thornton, Managing Director of Intrepid Travel. “The ideas are a wonderful reminder of the passion for travel that we share with our customers.
+
+“While the trips are all new, the Expedition-style of travel marks a return for us to the early days of adventure travel. When Intrepid started 26 years ago there were times that we didn’t know exactly what we were doing each day, and that was part of the attraction for the travellers who joined us. Expeditions are back by popular demand.”
+
+Intrepid Travel acknowledges that the Expedition style of travel is not for everyone with a warning on its website that these are new trips and travellers should “expect some things to go wrong”.
+
+Visit
+www.intrepidtravel.com/theme/expeditions
+for more information.
+
+Intrepid’s new Expedition trips include the following (with more to come):
+
+Exploring the Mayan World
+Thick jungle, lost cities, and famous archaeologists – this is a true Indiana Jones style expedition. In 1946, Lacandon Maya led archaeologist Giles Healy to the ruins of Bonampak, deep in the jungles of southern Mexico, which turned out to be one of the great discoveries of the 20
+th
+century. Retrace Healy’s footsteps with a native Lacandon guide and a local archaeologist to discover some of the lesser known Mayan ruins and camp right next to an unnamed site. If hacking through the Mexican jungle isn’t enough adventure, travellers will also explore the markets of Oaxaca, colonial Puebla and Cristobel de las Casas.
+
+The 15-day trips costs from $2,995 per person, with one scheduled departure on 14 November 2015.
+
+Rabaul, Papua New Guinea
+There’s a lot more to Papua New Guinea than the Kokoda Trek. A famously crabby geography of rivers, valleys, gorges, mountains, volcanoes, lagoons and inlets carve up the country, making for an environment where different cultures have been able to develop in virtual isolation from each other and the outside world. This trip is designed to throw the traveller into the guts of rural PNG. The timing of this one-off expedition will see the canoe landing that kicks off the Kinavai Ceremony, the vibrant masks and costumes of the Rabaul Mask Festival and men dance through flames at the Baining Fire Dance. Encounter local village life in Matupit Island, visit war relics in Kokopo Town and cruise around the Duke of York Islands.
+
+The eight-day trip costs from $3705 per person, with one scheduled departure on 13 July 2015.
+
+Svaneti, Georgia
+Georgia’s isolated Svaneti region is remote and rugged in nature. Tribal traditions still hold sway here in a major way: the wheel only made an appearance in 1935, pagan elements suffuse Christian beliefs, stone watchtowers dominate the valleys of Mestia and Ushguli, and provincial cuisine is still preferred. Travellers will visit centuries old churches, explore watchtower-strewn landscapes, hike through verdant valleys to see Mt Shkara, and join a local family to help prepare a traditional meal.
+
+The ten-day trip costs from $1590 per person, with the first of two scheduled departures on 20 July 2015.
+
+Kosovo, Albania and Macedonia
+It’s hard to find a patch of Europe that hasn’t been overrun by travel - hard, but not impossible. Among the rocky mountains and green fields of Albania, Kosovo and Macedonia there are plenty of shepherds, monasteries, lakes, valleys and Byzantine churches – what is lacking is the crowds. It’s taken decades for the Balkans to wipe away memories of conflict and communism, but they’ve emerged strong and smiling. From hip cafes in Skopje, sailing on Lake Ohrid to the mosques of picture-perfect Prizren, this trip showcases Balkan beauty at its very best.
+
+The 15-day trip costs from $1795 per person, with one scheduled departure on 5 September 2015.
+
+
+
+
+
+
+
+Wed, 2015-02-25 - Intrepid Travel partners with Earthwatch on research trip in Daintree
+
+
+
+
+
+
+
+
+
+Intrepid Travel has launched a one-of-a-kind trip to the Daintree Rainforest of Northern Queensland in partnership with international field research organisation Earthwatch.
+
+The week-long expedition will go off-map, deep into the depths of the Daintree with some of Australia’s leading climate change scientists. Travellers will have the opportunity to participate in environmental field research that helps inform our understanding of this fragile ecosystem. Measuring and recording reptiles, taking readings of humidity and temperature and spotlighting for frogs at night are just some of the fieldwork activities travellers will help with.
+
+“Limiting our environmental impact on the places we travel to has always been at the forefront of Intrepid experiences, ever since our beginnings over 25 years ago,” says James Thornton, Managing Director. “Partnering with Earthwatch is a natural fit for Intrepid and we’re delighted to provide a rare opportunity for our travellers to make a meaningful difference to one of Australia’s most precious environments.”
+
+The trip departs from Cairns and heads to wild, isolated campsites in the Daintree Rainforest with very few facilities but an abundance of gorgeous scenery. Travellers will learn and put into practise real scientific techniques side-by-side with Earthwatch scientists and get up close and personal to rare animal and plant species.
+
+The expedition, along with many others that Earthwatch run, will aim to better understand the impact that climate change is having on this delicate ecosystem.
+
+Earthwatch – Wildlife of Australia’s Rainforests
+is a seven day trip and costs from $2,195 per person, including accommodation (camping), most meals and activities. Four departures are available in May and October 2015.
+
+
+
+
+
+
+
+
+
+Thu, 2014-11-27 - Intrepid Travel provides a new take on Asia for 2015
+
+
+
+
+
+
+
+
+
+Adventure tour operator Intrepid Travel has expanded its range of Asia trips for 2015, giving travellers the chance to explore paradise islands in the Philippines, travel overland from Burma to Thailand, get active in Cambodia and journey along the ancient Silk Road.
+
+Philippines Island Getaway
+Travelling up the long stretch of land known as Palawan on the Philippines west coast, this trip features the idyllic islands, white-sand beaches and verdant landscapes of this emerging Asian destination. Travellers will cruise the Puerto Princesa Subterranean River, snorkel and island-hop around the stunning limestone islands off El Nido and tackle a short jungle trek in Sabang to have lunch with members of the Batak tribe of Palawan, one of about 70 indigenous peoples of the Philippines.
+
+The eight-day trip is from $1,386 per person with the first departure on 12 March 2015.
+
+
+Burma to Thailand
+Intrepid’s first trip to journey from Burma to Thailand has been launched following DFAT lowering the level of travel advice for Burma’s border regions in May this year, ensuring that the crossing is now safer and easier. As one of the only tour operators to cross this border, travellers will experience the rarely visited seaside town of Dawei and explore the surrounding islands, home to ‘sea gypsies’, by long tailed boat before crossing into Thailand towards Kanchanaburi and ending the trip in Bangkok.
+
+While in Burma, travellers will visit the holy site of Shwedagon Paya, visit the spiritual Golden Rock landmark that houses a small pagoda atop a gold-gilded boulder, see ancient stone carvings at Kawkune cave, count one thousand Buddha statues in Lombumni Garden, and visit a Buddha meditation centre on Shampoo Island. There is also the chance to travel out to Thanbyuzayat to visit the graves of Allied POWs who toiled on the ‘Death Railway’ in the Second World War.
+
+The 14-day trip is from $2,119 per person with the first departure on 12 March 2015.
+
+Cambodia – Hike, Bike and Kayak
+Combining Cambodia’s fantastic food and unique culture with some serious outdoor adventure, this trip is for the adrenaline junkie. Travellers will explore the Angkor temples by bike, kayak out to view the rare Irrawaddy dolphins near Stung Teng, hike to waterfalls and also get the chance to relax on the island paradise of Koh Trong, near Kratie. This is the perfect tour to see Cambodia from a different perspective.
+
+The nine-day trip is from $1,116 per person with the first departure on 21 March 2015.
+
+Silk Road – Beijing to Kashgar
+A journey through China that retraces part of the ancient trade route that linked East and West, this Silk Road trip visits some of the country’s most spectacular relics and landscapes. A highlight of the trip is the Zhangye's picture-perfect danxia landscapes in this region's renowned geological park, where millions of years of erosion have created phenomenal rocky formations made up of many earthy colours, giving the illusion of a painting. The trip also takes in Beijing, the Terracotta Warriors in Xi’an, Kashgar’s Sunday Bazaar and the Maijishan Grottoes.
+
+The 12-day trip is from $2,065 per person with the first departure on 14 May 2015.
+
+Visit
+www.intrepidtravel.com/new-tours
+for more information.
+
+
+
+
+
+
+
+Mon, 2014-10-27 - Ditch the big cruise ship for a new sailing adventure with Intrepid Travel
+
+
+
+
+
+
+
+
+
+Intrepid Travel is offering adventurous travellers an alternative to large cruise ship tours of Europe and the Caribbean with new small group sailing adventures around the Mediterranean’s Cote d’Azur and Cuba’s Canarreos Peninsula.
+
+With the cruise market currently booming, travellers wanting to experience life on the seas but who would rather not sit idle on a big, expensive cruise ship need not miss out.
+
+“Intrepid’s new sailing itineraries in Cote d’Azur and Cuba are millionaire trips on a budget,” says James Thornton, Managing Director. “You don’t need a hefty bank balance to sit at our captain’s table! Intrepid sailing trips are all about adventure - navigate around small, pristine islands, learn the ropes of sailing and rub shoulders with the locals in quirky towns.”
+
+The only tour operator offering the chance to sail along the French Riviera, Intrepid’s
+Cote d’Azur Sailing Adventure
+travels from one celebrated port to the next, uncovering a side of France only the rich get to see. Swimming and snorkelling in the clear waters and idyllic beaches of the Iles d’Hyeres Archipelago is a highlight out at sea, while the charming cities of Marseille, St-Tropez, Cannes and Nice provide the evening’s wining and dining.
+
+The eight day trip begins in Marsaille and spends seven nights on board a yacht before ending in Nice. It is from $1,811 per person and the first departure is on 30 May 2015.
+
+The Canarreos Archipelago, comprising of around 350 islets south of Cuba in the Caribbean Sea, is the focus of Intrepid’s new
+Cuba Sailing Adventure
+. Travellers will discover hidden beaches, uninhabited islands and underwater scenery, including the chance to swim with turtles and manta rays. Disembarking at Cienfuegos will see travellers drinking a rum or two with new friends.
+
+The nine day trip begins in Havana and spends five nights on board a catamaran boat with all meals included before ending back in Havana. It is from $2,195 per person and the first departure is on 15 November 2015. Travellers can also add on the 8-day Classic Cuba trip beforehand to get a comprehensive land and sea experience in Cuba.
+
+For more information about Intrepid’s sailing adventures visit
+www.intrepidtravel.com/theme/sailing
+
+
+
+
+
+
+
+Tue, 2014-10-14 - Burma Lane chef John McLeay hosts Intrepid’s first Burma food adventure
+
+
+
+
+
+
+
+
+
+Renowned
+Burma Lane
+,
+Red Spice Road
+and
+Red Spice QV
+Executive Chef John McLeay will be uncovering the secrets of Burmese cuisine on Intrepid Travel’s inaugural Real Food Adventure in Burma.
+
+Not often regarded as a food destination like neighbouring countries Thailand and Vietnam, Burma is increasingly gaining recognition for its own unique cuisine and culinary traditions.
+
+The 11-day
+Real Food Adventure – Burma
+will feature authentic food experiences that reflect the country’s diverse food culture. John McLeay will accompany travellers on their first four days in Yangon before the trip heads north to explore the cultural centres of Pagan, Mandalay and Inle Lake.
+
+“John McLeay is an Australian restaurant icon and we are thrilled to have him on our very first special edition Food Adventure. John has travelled the lands of Burma, Cambodia, Thailand, China and Vietnam, learning the secrets of the region’s delicious yet delicate balance of flavours. When it comes to navigating the hectic markets of Burma, there is no-one better than John,” says James Thornton, Intrepid Travel Managing Director
+
+“Since their inception in 2013, Intrepid’s Real Food Adventures – with their focus on ‘grass roots’ food travel – are now in more than 15 countries worldwide and have been incredibly popular. This new ‘special edition’ trip is a foodie’s dream come true – what better way to delve deep into a country’s cuisine than with a celebrated food expert.”
+
+“Not many people know about Burmese food and how tasty it can be,” says John McLeay. “Learning about and tasting Burmese food right now is like getting the inside scoop on this cuisine as I believe within the next few years it will be incredibly hot. I’m very excited to share a little-known cuisine with people and I can’t wait to reveal some great restaurants and fun bars in Yangon.”
+
+Highlights of the Real Food Adventure – Burma include:
+
+A walking tour of Yangon’s Chinatown with John McLeay revealing his favourite street food stalls.
+
+Visiting the fish markets of Yangon before a hands-on master class with John McLeay.
+
+Sampling local delicacies at the street markets of Mandalay.
+
+Eating a home-cooked meal in an Inle Lake fishing village.
+
+Tasting local vintages at a winery on the shores of Inle Lake.
+
+Enjoying Yangon’s colonial past with high tea at The Strand.
+
+Exploring the stunning Shwedagon Pagoda and gilded temples of historic Pagan.
+
+The Real Food Adventure Burma – featuring chef John McLeay is from $2995 per person and departs on 17 February 2015. For more information visit
+www.intrepidtravel.com/tmgb
+
+Read more about John McLeay’s love affair with Burmese food:
+www.intrepidtravel.com/adventures/burmese-food-cuisine/
+
+
+
+
+
+
+
+Wed, 2014-09-24 - Small group adventure in Hawaii is a hit for Intrepid travellers
+
+
+
+
+
+
+
+
+
+Intrepid Travel’s first venture into Hawaii this year has been a hit with adventure travellers, with the small group travel company adding two new departures in 2015.
+
+Intrepid Travel’s ten day
+Hawaiian Highlights
+trip is the only small group multi-day tour that takes travellers beyond the most popular beaches, shopping meccas and tourist sites to explore the less touristy side of the islands.
+
+Instead, local leaders take intrepid travellers to spot humpback whales in Maui, surf at lesser known  beaches, explore the world’s largest and most active volcanoes, and kayak or zip line on pristine Kauai – the least developed island in the Hawaiian archipelago.
+
+While Hawaii is often thought of as a romantic destination, Intrepid’s first Hawaiian trip has been particularly popular with solo female travellers. More than 60% of bookings on the Hawaiian Highlights tour in 2014 were solo travellers, with women outnumbering men by two-to-one.
+
+“Hawaii isn’t just a fly and flop destination or a romantic getaway – it is a fascinating place for adventurous travellers who want to see more than a deck chair or shopping mall in Honolulu” says James Thornton, Intrepid Travel’s Managing Director.
+
+“There are plenty of moments to bask in the sun, but the national parks, wildlife and volcanoes create those lasting memories.”
+
+Intrepid expects to see further growth in numbers from Australia in 2015 as a result of the Qantas and West Jet alliance. Travellers can now fly to Vancouver via Honolulu, and explore the sun-filled islands before heading to the cooler climates of Canada.
+
+The Hawaiian Highlights trip is from $3,440 per person and has 11 departures in 2015.
+
+For more info see
+www.intrepidtravel.com/sssl
+
+
+
+
+
+
+
+Wed, 2014-07-09 - Spend a white Christmas in Europe with Intrepid Travel
+
+
+
+
+
+
+
+
+
+Leading small group adventure tour operator Intrepid Travel has launched three new winter trips in Europe, giving travellers the chance to explore magical Christmas markets, stay at an Ice Hotel and experience the Northern Lights.
+
+The eight-day
+Christmas Markets of Central Europe
+(from $1,840) gives travellers the chance to sample local festive food and soak up the festive atmosphere in Munich, Salzberg, and Budapest.
+
+Highlights include:
+
+The delights of the Christmas markets in Munich, including Kripperlmarkt for the perfect nativity scene and the city’s alpine Christmas market where festive tunes are sung.
+
+Wondering Salzburg’s atmospheric market in front of the city’s impressive cathedral amid aromas of spicy Glühwein, roasted chestnuts, toasted almonds and cinnamon-brushed baked apples.
+
+The delicious festive food of Vienna, including savoury Kartoffelpuffer (potato cakes) or spicy kirsch-gingerbread.
+
+Sipping on a glass of mulled wine while browsing Budapest’s brightly lit Christmas market in Vörösmarty Square.
+
+Departure dates on 30 November and 7, 14, and 20 December 2014.
+
+The five-day
+Ice Hotel Experience
+(from $1,245) in Romania focuses on spooky Transylvania and includes a visit to Bran (Dracula’s) Castle, the chance to explore medieval villages and experience a unique stay at an Ice Hotel.
+
+Highlights include:
+
+A surprisingly cosy night’s stay in the famous Ice Hotel. While inside temperatures hover around the zero degree centigrade mark, reindeer fur-lined chairs, specialist sleeping bags – and possibly a few cocktails – will keep anyone warm and snug.
+
+Romania’s rapidly modernising capital, Bucharest.
+
+The picturesque Prahova Valley en route to Peles Castle in Sinaia.
+
+An evening in Brasov, a charmingly atmospheric city nestled in the Carpathian Mountains.
+
+A tour of Bran Castle, rumoured one-time residence of Count Dracula and arguably Romania’s most famous landmark.
+
+Departure dates throughout January to March 2015.
+
+The six-day
+Northern Lights Escape
+(from $1,295) showcases the raw beauty of Iceland with waterfalls, glaciers, geysers, volcanoes and the beautiful Northern Lights.
+
+Highlights include:
+
+The magical spectacle of the Northern Lights (dependent on clear skies).
+
+The world’s northernmost capital, Reykjavik.
+
+Natural hot springs in the Geysir geothermal area, where the Strokkur geyser shoots water 30 metres in the air.
+
+The Gulfoss and Skogafoss waterfalls, the latter being one of Iceland’s biggest.
+
+The black sandy beaches of the South Shore.
+
+A walk on Europe’s biggest glacier, Vatnajakull, with crampons and axes.
+
+Departure dates on 12 and 19 February, 19 March and 12 November 2015.
+
+
+
+
+
+
+
+Thu, 2014-05-29 - Celebrate Day of the Dead in Mexico City with Intrepid Travel
+
+
+
+
+
+
+
+
+
+Travellers searching for the best Halloween costume party, cemetery ceremony and macabre personalities at the world’s most fascinating festival can join Intrepid’s Travel brand-new short break –
+Mexico City: Day of the Dead
+and truly become a part of the local celebrations.
+
+Running for the first time this year, Intrepid’s Day of the Dead experience will take place across five days in Mexico City over the Halloween period with an Intrepid Travel local leader providing travellers with an invaluable insider’s guide to the city’s lively festivities.
+
+Rather than mourning those who have died, Day of the Dead is all about remembering, praying and partying for friends and family who have passed away. Locals celebrate and honour life during Day of the Dead festivities, which kick off at midnight on October 31 and continue all the way through to November 2.
+
+On the Intrepid Travel Mexico City: Day of the Dead short break, travellers can:
+
+Visit the Frida Kahlo Museum and the Museum Anahuacalli, which was established by Frida’s husband Diego Rivera. Both artists were obsessed with death, which can be seen throughout their artwork. Special Day of the Dead activities and workshops will be available.
+
+Play dress up and head along to a Halloween costume party for a great night out.
+
+Take part in a traditional Day of the Dead ceremony in a cemetery at the town of Mixquic, where families decorate their loved one’s tombs. Expect music and tequila well into the night.
+
+Take a walk around Mexico City and visit the
+zocalo
+(main square) where people bring colourful decorated alters out for display.
+
+Take a trip out to Xochimilco to visit
+Isla de las Munecas
+, or Doll’s Island. Dedicated to the lost soul of a girl who drowned in mysterious circumstances, this small island is home to hundreds of dolls, many of them with severed limbs, decapitated heads and black eyes, who are said to be possessed by the girl’s spirit.
+
+
+“Central America has become one of Intrepid Travel’s fastest growing destinations and Mexico is one of the most popular countries in the region for our travellers,” said James Thornton, Manager Director. “We’re excited to offer this truly unique experience for the first time as it’s a great opportunity to party with the locals and gain an exclusive insight and appreciation into the Mexican way of life.”
+
+Intrepid Travel’s five day
+Mexico City: Day of the Dead
+festival experience is $760 per person and departs on 30 October 2014.
+
+ENDS
+
+
+
+
+
+
+
+Fri, 2014-05-23 - Intrepid Travel first to end elephant rides
+
+
+
+
+
+
+
+
+
+The world’s first responsible travel tour operator, Intrepid Travel is leading the way in animal protection in the tourism industry and is encouraging Australians to take action to become animal friendly travellers.
+
+The Melbourne-based adventure travel company ended elephant rides and visits to entertainment venues on all of its trips earlier this year, following an extensive three year research process to assess the welfare of captive elephants at entertainment venues in Asia.
+
+The research was conducted by the World Animal Protection (formally World Society for the Protection of Animals) with the support of Intrepid Travel, who have worked with the animal charity since 2000.
+
+Asian elephants are highly endangered and tourism demand has led to venues where elephants are forced to do unnatural performances. The research concludes that this causes pain and suffering to the elephants, and that the tourism industry has added to the number of elephants being poached from the wild.
+
+“We applaud recent moves in the tourism industry to end elephant rides,” said Geoff Manchester, Intrepid Travel Co-founder. “Responsible travel has been central to how we’ve run Intrepid for 25 years and as an industry we can do more to help protect wild animals from cruelty.
+
+“The issues are complex around animals in captivity, which is why Intrepid has been partnered with World Animal Protection for many years, and have been able to tap into their expertise on animal protection.
+
+“Our focus is on educating people, and teaching local communities about animal welfare and environmental conservation. While we once included elephant rides or entertainment venue visits, we’re now working with rehabilitation and sanctuary facilities. We hope that the increased patronage to commendable venues like this will help encourage others to lift their standards.”
+
+According to Intrepid Travel, the change has been popular with their travellers. “Intrepid Travellers want to know that their travel choices are not causing harm and appreciate learning how elephants are cared for without seeing them do unnatural performances,” said Manchester.
+
+World Animal Protection’s Dr Jan Schmidt-Burbach added: “Wild animals belong in the wild – not in entertainment. We welcome all progress within the tourism industry towards recognising this fact and taking action to prevent cruelty.
+
+“Helping people to understand the choices they can make whilst travelling can create positive experiences for them and for the animals that they encounter along the way.
+
+“World Animal Protection urges all tour operators to support animal friendly tourism and to help every customer make animal friendly choices when travelling.”
+
+Intrepid Travel is encouraging travellers to seek animal-friendly travel options in order to drive industry change. Travellers can download Intrepid Travel’s elephant welfare guidelines
+here
+.
+
+Over the past 11 years, The Intrepid Foundation, Intrepid Travel’s not-for-profit fund, has donated over AUD$430,000 to animal and wildlife conservancy projects including Friends of the Asian Elephant in Thailand and Animal Care in Egypt.
+
+ENDS
+
+About Intrepid Travel
+Intrepid Travel is a global adventure travel company that has been taking travellers off the beaten track to discover the world's most amazing places for 25 years. It offers more than 1,000 trips in more than 100 countries and on every continent. Every trip is designed to truly experience local culture - to meet local people, try local food, take local transport and stay in local accommodation. Award-winning tour leaders, small group sizes and included activities mean they offer travellers great value for money.
+www.intrepidtravel.com
+
+About The Intrepid Foundation
+Established in 2002, The Intrepid Foundation is a not-for-profit fund that helps Intrepid Travel and its travellers support and contribute to communities around the world. Support is brought to projects in health care, education, human rights, child welfare, sustainable development and in environmental and wildlife protection. Intrepid Travel matches all travellers’ donations dollar for dollar and covers all administration costs, guaranteeing that 100% of donations reach the nominated projects. In 11 years, The Intrepid Foundation has raised and distributed more than AU$3.4 million to more than 75 non-government organisations.
+www.theintrepidfoundation.org
+
+
+About WSPA
+At the World Society for the Protection of Animals, we have worked to expose animal cruelty and prevent animal suffering for more than 30 years. Working with individuals, organisations and governments across the globe, our campaigns range from ending the mass suffering of industrially farmed animals to protecting animals in disasters. Consultative status with the United Nations means we have a unique international platform to prove that the lives of animals are inextricably linked to our own, and now more than ever is the time to stop their suffering.
+
+
+
+
+
+
+
+Mon, 2014-05-12 - Intrepid urges travellers to take up gender equality charity challenges
+
+
+
+
+
+
+
+
+
+Intrepid Travel is urging travellers keen to put some meaning behind their next adventure to sign up this month for the few remaining places on the
+Kili Climb
+or
+Camino de Santiago Challenge
+and help raise funds to fight gender inequality.
+
+The two fundraising trips are part of Intrepid Travel’s three year gender equality initiative, Project SAMA, to support the education of girls – around 53 million girls in developing countries are denied access to primary school. In joining the Intrepid Kili Climb or Camino Challenge, travellers are committing to fundraise $1500 for early education projects in Uganda and Laos run by Plan International.
+
+“Reaching the roof of Africa and walking over 100km through Spain are not challenges to be taken lightly, and neither is the inequality that women and girls face every day,” said James Thornton, Managing Director. “Committing to one of these trips is a significant way in which our travellers can make a difference for females in the developing countries we visit, not to mention the immense satisfaction in conquering such a challenge.”
+
+The Kili Climb follows the popular Marangu Route to Mt Kilimanjaro. Passing vast grasslands, giant cacti fields and scenic alpine meadows, travellers trek with experienced guides and porters to reach Africa’s highest peak at 5,895 metres.
+
+The Camino Challenge sees travellers follow in the footsteps of millions of pilgrims on a walk along a 116km section of the Camino de Santiago. Beginning in the town of Sarria, travellers walk through picturesque villages, forests, fields and rural lanes to eventually arrive at the famous destination town of Santiago de Compostela.
+
+In taking on these challenges, travellers will add to the $150,000 already raised for Project SAMA. Meaning ‘equal’ in the Bahasa language, Intrepid Travel’s Project SAMA is currently in its third year of raising awareness around the importance of gender equality and raising funds for projects around the world that address gender inequalities, including eight Intrepid Foundation community projects focused on education and health programs for women and girls.
+www.intrepidtravel.com/sama
+
+To take on one of these challenges, travellers must register by 30 May 2014. Places are limited.
+
+Intrepid Kili Climb
+Dates: 8 to 15 August 2014 and 4 to 12 September 2014
+Trip duration: 8 days
+Fundraising target: $1500
+Travel cost: $1445 (flights not included)
+www.intrepidtravel.com/kili-climb
+
+Intrepid Camino de Santiago Challenge
+Date: 11 to 18 September 2014
+Trip duration: 8 days
+Fundraising target: $1500
+Travel cost: $995 (flights not included)
+www.intrepidtravel.com/Camino-de-Santiago-Challenge
+
+ENDS
+
+
+
+
+
+
+
+Tue, 2014-04-08 - Intrepid Travel takes full ownership of Urban Adventures
+
+
+
+
+
+
+
+
+
+Intrepid Travel Pty Ltd announced today that it has acquired the 50% stake in Urban Adventures Limited previously held by WHL Group, to take full ownership of the global day tour company.
+
+Launched as a joint venture by Intrepid Travel and WHL Group in October 2009, Urban Adventures has grown quickly since inception and the company is on course to carry 70,000 passengers on 265 trips in 90 cities this year.
+
+“The original idea behind Urban Adventures was to give travellers a taste of what an Intrepid Travel trip feels like” says James Thornton, Managing Director, Intrepid Group. “We’ve seen a huge appetite from customers for the unique local experiences on offer, and this deal allows us to fully integrate Urban Adventures with our portfolio of small group adventure travel brands”.
+
+Urban Adventures will continue to be led by Tony Carne as General Manager, overseeing new initiatives such as the clustering of Urban Adventures tours for the FIT market, and the recent launch of the Home Cooked range of tours which allow travellers to share a meal with a local family in their own home.
+
+The deal is subject to legal completion and will free up capital for the WHL Group to focus on other businesses such as Hotel Link Solutions and Green Path Transfers.
+
+ENDS
+
+
+
+
+
+
+
+Wed, 2014-03-12 - Intrepid Travel supports documentary on threatened Great Barrier Reef
+
+
+
+
+
+
+
+
+
+Intrepid Travel is pledging to help save Australia’s Great Barrier Reef, under significant threat from the effects of climate change, by supporting the funding of a ground breaking new documentary produced by Earth Hour Australia.
+
+This year’s Earth Hour, on Saturday 29 March at 8.30pm, marks ‘Lights Out for the Reef’ to bring attention to one of the world’s most iconic and endangered places. Earth Hour Australia is asking for donations to help fund a 30 minute documentary that will tell the powerful story of the threatened Great Barrier Reef, which will air on Channel Ten in the hours before millions switch off their lights.
+
+Intrepid Travel co-founder, Darrell Wade, is offering overwhelming support for this documentary by matching donations dollar for dollar up to $40,000. A gift of $20 will create $40, in effect doubling the impact of someone’s contribution towards the
+Lights Out for the Reef
+documentary.
+
+“Climate change is the biggest issue facing the world today and in the next 20 years,” said Darrell. “Earth Hour is a practical way of raising awareness about cutting carbon pollution and showing the world what we risk losing. Australia without the Barrier Reef is almost unimaginable, and yet it is what we’re on track for if we don't act. So if I can encourage a few extra people to donate by matching their donations, then I'm happy because my money goes twice as far - as well as theirs!”
+
+In the past 11 days, Earth Hour supporters have chipped in over $20,000 in small-dollar donations to fund the documentary’s creation and promotion.
+
+“As individuals, rarely do we have the means to broadcast a message with such power to move hearts and minds”, said Anna Rose, Earth Hour Australia National Manager. “Now we do. And we are absolutely thrilled that Darrell and Intrepid Travel are lending their support to such an important cause.”
+
+Earth Hour Australia has secured a world-class production team and well-respected celebrities including scientists Dr Karl and Tim Flannery and actor Michael Caton as well as YouTube sensations Natalie Tran (communitychannel) and The Axis of Awesome.
+
+Great Barrier Reef is one of the most vulnerable places in the world to climate change, with rising sea temperatures leading to more coral bleaching, rising sea levels affecting turtle nesting beaches, and ocean acidification threatening the viability of corals and the marine food chain. Already, over half of the Reef’s corals have been lost in the past 27 years. According to leading scientists, we must take much stronger action on climate change now if we are to avoid the effects of climate change on the reef becoming irreversible by 2030.
+
+Australians can visit
+www.earthhour.org.au/doco
+to donate now.
+
+International donations can be made via
+earthhourblue.crowdonomic.com/project/1089-climate-the-reef-documentary
+
+ENDS
+
+
+
+
+
+
+
+Wed, 2014-01-08 - Celebrate the New Year with Intrepid’s top travel challenges
+
+
+
+
+
+
+
+
+
+Small group adventure tour operator Intrepid Travel is challenging budding travellers to make a New Year’s resolution to step outside their comfort zone in 2014 and take on a travel challenge. Whether travellers want to test their body, expand their mind, engage their senses, or boost their adventurous side, there is always a journey to fit a travel challenge.
+
+To help kick start that travel goal, Intrepid have a range of challenging trips on offer at 15% off until 28 February 2014 for travel before 30 June 2014.
+
+Challenge your body
+Work off the Christmas bulge and take your body to its limits. Trek to Morocco’s
+Mount Toubkal
+which happens to be North Africa’s highest peak at 4,167m; work up a sweat on the seat of your bike and
+cycle Vietnam
+from north to south; discover an ancient city at the end of the legendary
+Inca Trail
+; conquer new heights and try catching your breath at
+Everest Base Camp
+; tackle the infamous
+Head-hunter’s Trail
+in the isolated Borneo jungle; or visit remote hill tribes on a
+jungle trek
+in the highlands of Northern Thailand.
+
+Challenge your mind
+Stop reading about ancient history and actually see the sites, the paintings and the artefacts and test your language skills along the way. Admire the work of the world’s best artists in the plethora of
+galleries in Italy
+; indulge in the history of the ancient rose coloured city of
+Petra
+; be transported back to
+ancient Egypt
+and come face-to-face with the pyramids; overcome the language barriers and learn a bit of Russian; uncover the tragedies of the Pol Pot regime in
+Cambodia
+; or join an army by lining up alongside the
+Terracotta Warriors
+in China.
+
+Challenge your senses
+Travel is all about heightening your senses – becoming overwhelmed with what you see, hear, touch, smell and taste of the local culture. Open your eyes to an explosion of colour at the
+Holi Festival
+in India; take your tastebuds to street food heaven in Malaysia; breathe in the marvellous spicy smells in a
+Moroccan souk
+; be mesmerised by the bright lights of
+Times Square
+; hear the sounds of
+Cuba’s dynamic music
+; or feel the sand through your toes and cool water on your skin in
+Cancun, Mexico
+.
+
+Challenge your adventurous side
+Feel the thrill of adventure travel and earn bragging rights amongst your friends. Get up close to the big five on the
+road to Zanzibar
+; snorkel with sharks at the
+Galapagos Islands
+; zip line over rainforest canopy in
+Costa Rica
+; hike above the Yangzi River through China’s
+Tiger Leaping Gorge
+; travel overland across the
+Tibetan plateau
+; or safari and catch a glimpse of tigers, rhinos and leopards in
+Nepal’s Chitwan National Park
+.
+
+ENDS
+
+
+
+
+
+
+
+Press office
+
+Please note that
+marketing and sponsorship requests should be sent to:
+marketing@intrepidravel.com
+
+We kindly ask that you only call our press office team on their mobile numbers with urgent enquiries.
+
+Australia and New Zealand
+
+kate.parker@intrepidtravel.com
++61 (0) 3 8594 3269
++61 (0)481 009 149
+
+UK & Ireland
+
+intrepid@brightergroup.com
+0207 326 9880
+
+USA
+
+Elyse Eisen/Kathryn Tromba/David Perez at MMGY New York
+intrepidtravel@mmgyglobal.com
++1 212.219.7560
+
+Canada
+
+michael.sadowski@intrepidtravel.com
++1 (416) 777 5545
+
+Europe
+
+intrepid@kprn.de
++49 3024 0477 1817
+
+Southern Africa
+
+intrepid@brightergroup.com
+0207 326 9880
+
+All other regions
+
+gillian.monahan@intrepidtravel.com
++61 (0) 3 8594 3181
++61 (0)410 277 127
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

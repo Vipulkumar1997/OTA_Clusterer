@@ -1,0 +1,3359 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Thailand, Myanmar & Indonesia | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Thailand, Myanmar & Indonesia
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Sailing
+
+Asia sailing tours
+
+
+
+
+Our Asian sailing trips follow a simple recipe. Start with a generous scoop of aquamarine water and secret strips of golden sand (remember to remove all traces of tourist crowds). Throw in a handful of rare corals and tropical fish, then add a dash of nautical navigating. Leave to simmer while you nap and work on that Thailand tan, then take off the heat and slow it right down with a guided trek to some jungle-covered ruins. Serve with a sizzling stir-fry courtesy of your on-board chef and a jaw-dropping island sunset for good measure. Want to try the recipe for yourself? We’ve got just the sailing tour for you…
+
+
+
+
+
+
+
+Our sailing trips in Asia
+
+
+
+
+
+
+
+
+
+
+Phuket Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,360
+
+
+
+
+
+Tour the Thai islands on a sailing trip that mixes the popular beaches with discreet...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar (Burma) Sailing Experience ex Phuket (Comfort)
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,225
+
+
+
+
+
+Cruise the pristine Myeik Archipelago in complete comfort on this sailing adventure in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar (Burma) Sailing Adventure ex Phuket
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Beginning in Phuket, sail around Burma's Myeik (Mergui) Archipelago in the Andaman Sea...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Phuket to Ko Phi Phi
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR715
+
+
+
+
+
+Take a Thai sailing tour between Phuket and Ko Phi Phi. Snorkel over a vibrant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Ko Phi Phi to Phuket
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR715
+
+
+
+
+
+Set sail on Thai waters between Ko Phi Phi and Phuket. Swim in clear blue waters, kick...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar (Burma) Sailing Expedition
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,080
+
+
+
+
+
+Beginning in Phuket, sail around Burma's Myeik (Mergui) Archipelago in the Andaman Sea...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Highlights of Asia sailing
+
+
+
+
+
+
+
+
+
+
+
+Explore the caves of Ko Hong
+
+Ko Hong is regarded by those in the know as the most beautiful island on the Andaman Coast. And that’s a big call. Most tourists need to organise day trips from Krabi to visit Ko Hong’s limestone cave system and secluded beaches, but not you. Pull up the catamaran and go for a swim right off the deck, or wander ashore and start exploring.
+
+Explore on the
+Phuket Sailing Adventure
+
+
+
+
+
+
+
+
+
+
+
+Hang with Moken fisherman on Bo Cho island
+
+If you want to picture Burma’s Myeik (Mergui) Archipelago, try to think of Thailand about 150 years ago. Well away from the tourist trail, islands like the beautiful Bo Cho are time capsules inhabited by the Moken – a tribe of free-diving fisherman who live off the land (no phones, power or internet required). You won’t find a port like this anywhere else.
+
+Explore on the
+Myanmar (Burma) Sailing Expedition
+
+
+
+
+
+
+
+
+
+
+
+Hike to a waterfall on Ko Phangan
+
+Ko Phangan is one of our favourite Thai islands, and Than Sadet one of our favourite waterfalls (you know you’re doing well when generations of Thai royalty have visited you for a dip). Hop off your catamaran and hike along lush river trails on your way to Than Sadet. Cool off in the falls, then relax at sunset with a beachside barbecue on Ko Phangan.
+
+Explore on the
+Sail Ko Phi Phi to Phuket
+
+
+
+
+
+
+
+Life on the boat
+
+When cruising the waters of the Andaman Sea, a twin-hulled catamaran is our vessel of choice. The size of the yacht may vary depending on the group, but the boat will usually have four twin-share cabins, 1-4 shared bathrooms, hot water showers and flushable toilets. Most meals, including lunches and dinners, are included on our Asia sailing trips, prepared by our resident chef on-board. Life on the boat is designed to be flexible: take a turn as skipper or kick back with a mai tai and a island sunset – it’s up to you.
+
+Meet your skipper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'I’ve been skippering boats since I was 21. I’ve sailed the Indian and Atlantic oceans, the Mediterranean and Caribbean seas, and now the Andaman Sea and the Gulf of Thailand. Sailing has to be one of the most peaceful forms of transport on the planet. If you have not experienced it, you’ll never know how incredible this feeling is. I see sailing as a great adventure. No two days are ever the same. You become acutely aware of your surroundings and the calming effect of the ocean.' – Michael,
+Myanmar (Burma)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best time to travel
+
+Thailand is lucky in that it’s very close to the equator and outside the cyclone zone of the Pacific and Indian Ocean, which means calm waters and idyllic sailing almost all the year round. The dry season (November to April) is generally the best choice however: there’s less chance of monsoonal rain and the balmy 30 degree days make for some wonderfully refreshing swims off the back of the boat. During the wet season (May to October), winds are better for sailing, but heavy rains can often blow in unpredictably. We run two sailing trips: on the west coast Nov through April, and on the east coast May through October.
+
+
+
+
+
+
+
+Reviews
+
+
+
+
+
+
+
+
+
+
+
+Sail Phuket to Ko Phi Phi - Quad Share,
+November 2017
+
+Denis Duval
+
+Excellent relaxing way to travel, no packing or repacking,  travel light, remember to pack something for sea sicknesses if susceptible or inexperienced.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Sail Phuket to Ko Phi Phi - Quad Share,
+November 2017
+
+Judith Martin
+
+This is a great trip to unwind and relax. You will find a lot of time to sit and contemplate life. Take a book! I took the three day option and was happy with that. Had I taken the longer option, personally, I think I would have risked becoming a bit bored.
+
+Review submitted 26 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Sail Phuket to Ko Phi Phi - Quad Share,
+November 2017
+
+Joshua Odendaal
+
+Excellent water based trip, ideal for exploring the islands of the Andaman sea.
+
+Review submitted 19 Nov 2017
+
+
+
+
+
+
+
+
+Need some inspiration?
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 27, 2017
+
+
+
+Malaysia’s Rainforest World Music Festival: the...
+
+
+
+
+
+
+Think back on your most treasured musical memories, your favourite festival...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 26, 2017
+
+
+
+6 common scams in Vietnam (& how to avoid them)
+
+
+
+
+
+
+Stay one step ahead of the tourist traps.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 26, 2017
+
+
+
+6 tips for travelling with a medical condition
+
+
+
+
+
+
+Travelling with your children always takes a bit of planning. Add in a medical...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 24, 2017
+
+
+
+A local explains why South Korean food is the...
+
+
+
+
+
+
+Korean food doesn’t fare best in white-tablecloth atmospheres. It's more about...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2017
+
+
+
+16 photos that prove you should visit remote,...
+
+
+
+
+
+
+This part of the world brims with mountain villages, waterfalls and wetlands,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2017
+
+
+
+What it’s like to road trip through Mongolia
+
+
+
+
+
+
+Light floods the green expanse and glides through the rooftops of the surrounding...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 11, 2017
+
+
+
+Beyond the Grand Palace: What to do, eat and...
+
+
+
+
+
+
+So much more than just a layover destination, Thailand's capital is brimming with...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 07, 2017
+
+
+
+Why Northern Sri Lanka should be on your travel...
+
+
+
+
+
+
+One day Northern Sri Lanka may have tourist trails, backpacker hostels and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 06, 2017
+
+
+
+5 great destinations for solo travel in India
+
+
+
+
+
+
+Much of the vast country is filled with friendly globetrotters and even friendlier...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 05, 2017
+
+
+
+First-time traveller? Here’s why Thailand is...
+
+
+
+
+
+
+You could say that I’ve led a life of travel and adventure, and yet my wanderlust...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 02, 2017
+
+
+
+Why you should think twice about haggling in...
+
+
+
+
+
+
+A how to, and how not to.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 27, 2017
+
+
+
+7 reasons why Southern Thailand is the perfect...
+
+
+
+
+
+
+Your first Tuk Tuk ride will be met with excitement, your first Buddhist temple...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 21, 2017
+
+
+
+5 experiences that prove Sri Lanka is an...
+
+
+
+
+
+
+If you’re an adventurous type, look no further than this teardrop-shaped island....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 20, 2017
+
+
+
+Foodie? Here’s why you should travel to Thailand
+
+
+
+
+
+
+As an American venturing to the Far East, I figured I’d have some good pad thai...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+At sea: life on the water with Intrepid skipper...
+
+
+
+
+
+
+You’d think falling overboard would put you off sailing, but not skipper Mike Simon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+Chengdu: a guide to China’s next hottest...
+
+
+
+
+
+
+I found Chengdu astonishingly laid-back, which is probably an adjective you never...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 14, 2017
+
+
+
+How to see the best of Bali, minus the crowds
+
+
+
+
+
+
+From hot springs to spring rolls, rolling rice terraces to volcano climbs at...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 12, 2017
+
+
+
+6 beautiful beaches in Thailand you should visit
+
+
+
+
+
+
+While Google Images would have you believe that Thailand is nothing but white sand...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2017
+
+
+
+7 new destinations to explore with Intrepid in...
+
+
+
+
+
+
+At Intrepid, we love exploring little-known corners of the globe. And in 2018, we...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 05, 2017
+
+
+
+Sumatra: Indonesia’s adventure paradise you...
+
+
+
+
+
+
+Despite being the sixth largest island in the world, Sumatra is wild and rugged...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

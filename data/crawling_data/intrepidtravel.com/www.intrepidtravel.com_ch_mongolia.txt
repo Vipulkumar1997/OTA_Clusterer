@@ -1,0 +1,4179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mongolia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mongolia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Mongolia
+
+
+
+Landing in the post-Soviet concrete of Ulaanbaatar, you might wonder where Mongolia keeps its famous wide-open spaces.
+
+
+But just wait until you catch your first glimpse of sunrise over the Asian Steppe. There’s no other view on Earth quite like it: mile after mile of rolling grassy tundra, dotted with white-domed Gers and broken up with golden dunes or the craggy peaks of Tavan Bogd. It’s probably no surprise that our Mongolia tours are all about the wilderness – soaking in the hot springs of Tsenkher or riding camels through the Khogno Khan Mountains – but you’ll find there’s more to this country than just good views. With its communist past and a (proudly) democratic future, Mongolia is ready to great the 21st Century with a smile.
+
+
+Our Mongolia trips
+
+
+
+
+
+
+
+
+
+Wild Mongolia
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,635
+
+
+
+
+
+Travel to Mongolia and discover a remote part of Asia. Visit nomad families, ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Trans-Mongolian Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR4,070
+
+
+
+
+
+Travel on the Trans-Siberian and Trans-Mongolian Railways from Russia to China. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Trans-Mongolian Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,770
+
+
+
+
+
+Travel on the Trans-Siberian and Trans-Mongolian Railways from Russia to China. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to St Petersburg
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,645
+
+
+
+
+
+Explore China, Mongolia and Russia on a journey from Beijing to St Petersburg via...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to Moscow
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,315
+
+
+
+
+
+Travel to China, Mongolia and Russia on the Trans-Siberian Railway from Beijing to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to St Petersburg
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR5,020
+
+
+
+
+
+Explore China, Mongolia and Russia on a journey from Beijing to St Petersburg via...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to Moscow
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,490
+
+
+
+
+
+Travel to China, Mongolia and Russia on the Trans-Siberian Railway from Beijing to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mongolia's Naadam Festival
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,975
+
+
+
+
+
+Embrace the festive atmosphere at the Naadam Festival, with visits to the region's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mongolia Overland
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,617
+
+
+
+
+
+Travel to Mongolia and visit Ulaanbaatar, Mongolia’s eccentric capital. Then embark on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Mongolia tour reviews
+
+
+Our Mongolia trips score an average of
+4.71 out of 5
+based on 14 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Wild Mongolia,
+August 2017
+
+John Williams
+
+The balance Intrepid offers in terms of time to yourself and time with your fellow travellers and the general excellence of the guides and drivers make Intrepid an excellent 
+I have normally travelled by myself however will always look to Intrepid for what I would term alkward destinations
+
+Review submitted 10 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Wild Mongolia,
+August 2017
+
+Sarah Lockwood
+
+One of my favourite trips so far! This is a wonderful way of exploring this beautiful country. Namuun and the drivers were absolutely excellent and made this trip a huge amount of fun and an awesome adventure.
+
+Review submitted 09 Sep 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Mongolia trip reviews
+
+Our Mongolia trips score an average of
+4.71 out of 5
+based on 14 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Mongolia
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2017
+
+
+
+What it’s like to road trip through Mongolia
+
+
+
+
+
+
+Light floods the green expanse and glides through the rooftops of the surrounding...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 16, 2017
+
+
+
+Аnton and the Trans-Siberian Express: A...
+
+
+
+
+
+
+Teacher of Russian, fine tea connoisseur, Chinggis Khan Gold vodka enthusiast:...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 08, 2017
+
+
+
+Gobi Desert: in the footsteps of velociraptors...
+
+
+
+
+
+
+David Attenborough has presented nature documentaries from some of the most exotic...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 08, 2017
+
+
+
+Meet the 24 year old who trekked across the...
+
+
+
+
+
+
+This International Women's Day we chat with the youngest Brit to walk the length...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2016
+
+
+
+7 hot travel spots to check out in 2017
+
+
+
+
+
+
+Featuring the hottest – and coolest – destinations on earth. How many have you be...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 15, 2016
+
+
+
+Why you need to see a ‘mini Naadam’ in Mongolia
+
+
+
+
+
+
+Travellers keen to experience a truly authentic Naadam Festival shouldn't be...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 04, 2016
+
+
+
+Mothers of Intrepid: 3 amazing women you’ll...
+
+
+
+
+
+
+Whether it’s a Mongolian Nana or a Peruvian Mama, homestay cooking, hospitality ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 26, 2016
+
+
+
+Want to know what Overland travel really looks...
+
+
+
+
+
+
+There aren't many things left in the world that can be called a genuine Adventure,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 10, 2015
+
+
+
+Start your engines: our ultimate guide to...
+
+
+
+
+
+
+The beaming and curious smiles of the locals watch on as we load our bags into the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 25, 2015
+
+
+
+This is what it looks like to travel the Trans...
+
+
+
+
+
+
+Travelling along the Trans-Mongolian railway was never a dream of mine. But then I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 27, 2015
+
+
+
+7 awesome beach-free summer breaks
+
+
+
+
+
+
+Who needs sun and sand? We've got the perfect alternative.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 28, 2014
+
+
+
+These Asian tribes will blow your mind
+
+
+
+
+
+
+Believe it or not, the old world does survive, in the deep jungles and the high...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mongolia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mongolian homestay
+
+
+
+
+Learn about nomadic life on a homestay with a Mongolian family
+
+
+
+
+
+
+Wild Mongolia, 15 days
+
+
+
+
+
+
+
+
+Mongolia's Naadam Festival, 15 days
+
+
+
+
+
+
+
+
+Beijing to Moscow, 16 days
+
+
+
+
+
+
+
+
+
+
+
+Karakorum
+
+
+
+
+See history unfold in Genghis Khan’s city of Karakorum
+
+
+
+
+
+
+Mongolia's Naadam Festival, 15 days
+
+
+
+
+
+
+
+
+Wild Mongolia, 15 days
+
+
+
+
+
+
+
+
+Mongolia Overland, 21 days
+
+
+
+
+
+
+
+
+
+
+
+Mongolian train ride
+
+
+
+
+Travel through the Mongolian steppe on a memorable train ride
+
+
+
+
+
+
+Trans-Mongolian Experience, 20 days
+
+
+
+
+
+
+
+
+Beijing to St Petersburg, 23 days
+
+
+
+
+
+
+
+
+Beijing to Moscow, 16 days
+
+
+
+
+
+
+
+
+
+
+
+Mongolian ger
+
+
+
+
+Spend a night sleeping in a traditional Mongolian ger
+
+
+
+
+
+
+Wild Mongolia, 15 days
+
+
+
+
+
+
+
+
+Beijing to St Petersburg, 23 days
+
+
+
+
+
+
+
+
+Wild Mongolia, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Mongolia
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Mongolia, you may find yourself travelling by:
+
+
+
+
+
+
+
+Camel
+
+Enjoy a memorable ride through the Mongolian desert on the back of a camel.
+
+
+
+
+
+
+
+
+
+
+
+Train
+
+Watch the Mongolian steppe whiz past while rattling on a train through the countryside.
+
+
+
+
+
+Accommodation in Mongolia
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Mongolia you may find yourself staying in a:
+
+
+
+
+
+
+
+Ger Camp
+
+Spend the night sleeping in a quintessential Mongolian icon, the ger. Built to withstand the harsh elements, these portable structures of circular beauty are surprisingly comfortable.
+
+
+
+
+
+
+
+
+
+
+
+Homestay
+
+Get in touch with Mongolian culture and cuisine while staying with a local family. Pick up some local language and learn about the Mongolian way of life while enjoying warm hospitality.
+
+
+
+
+
+Mongolia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Ulaanbaatar (population 1.2 million)
+
+Population:
+
+3 million
+
+Language:
+
+Mongolian
+
+Currency:
+
+MNT
+
+Time zone:
+
+(GMT+08:00) Irkutsk, Ulaan Bataar
+
+Electricity:
+
+Type C (European 2-pin) Type E (French 2-pin, female earth)
+
+Dialing code:
+
++976
+
+
+
+
+
+
+
+
+
+Best time to visit Mongolia
+
+
+
+
+
+
+×
+
+Best time to visit Mongolia
+
+
+
+
+Mongolia has an extreme continental climate due to its inland location. The best time for travelling is from May to October when the weather is pleasant. Due to the popularity of the Naadam Festival, July is the busiest time to go; it can get crowded, but Ulaanbaatar buzzes with an incredible vibe during this time.
+
+The wet season is from July to August and although it rains frequently during this time, the rain turns the countryside into a pleasant shade of green. It can get extremely cold from June to October, with snowstorms sometimes grounding flights and bringing transport systems to a halt.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Mongolia is known for its strong nomadic traditions, but life has recently become more urbanised for many citizens in this sparsely populated country. Almost 50% of the population live in or near an urban centre, while the other 50% live a semi-nomadic lifestyle in the countryside; although, settled agricultural communities can be found in rural areas and are growing each year. Despite this change in lifestyle, the rich nomadic heritage remains strong and traditional Mongol songs, dance, stories and clothing are still celebrated, especially during festivals and national holidays.
+
+Many Mongolian people are Buddhist - this is evident in the monasteries and temples that populate the urban areas as well as the remote regions. Shamanism is also still in existence in some of the more isolated regions of Mongolia where the proud cultures have been somewhat protected from modern influences.
+
+A common thread that links most Mongolians is respect for family and the importance of hospitality. Probably borne from the nomadic way of life, sharing with others and receiving guests with grace is a common theme that recurs in Mongolian society. Harsh conditions, a changeable climate and the uncertainty of nomadic life mean that most Mongolians go out of their way to provide a safe haven for family, friends and guests. It is for this reason that turning down food or not accepting a warm welcome is not advisable.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways of experiencing a country is by eating. Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Mongolian food will probably be very different to what you’re used to. Due to many Mongolians living a nomadic lifestyle, access to ingredients and different modes of cooking are limited. Fermented milk products and meats such as goat, mutton and horse are commonly eaten. Vegetarians might find eating difficult here, especially since refusing food is considered rude when visiting people’s homes. The cafes and eateries of Ulaanbaatar offer more variety and should be frequented.
+
+Things to try in Mongolia
+
+1. Buuz
+
+These steamed meat dumplings are usually served during festive times, but can be found in restaurants and cafes all year round.
+
+2. Khuushuur
+
+Similar to buuz, these meat-filled dumplings are fried, not steamed. Served in the cafes of Ulaanbaatar, these pastry pockets are a cheap, flavoursome snack.
+
+3. Vodka
+
+Russia’s influence on Mongolia is evident in the popularity of vodka among locals who pass the bottle around generously.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Bordered by
+China
+and
+Russia
+, Mongolia is a land of mountains and plateaus, grasslands, marshes and deserts. Even though Mongolia is landlocked, Lake Khovsgol (one of Asia’s largest freshwater lakes) provides 70% of Mongolia’s fresh water. This ancient lake provides much of the drinking water for the animal and human population, with the surrounding areas providing lush habitats for wolves, ibex, deer and bears. Due to Mongolia’s significant seismic activity, there are also many hot springs and volcanoes throughout the country.
+
+Mongolia is one of the least densely populated countries in the world, leaving much space for nomadic herders to roam. The fast-growing capital city of Ulaanbaatar is an exception, being home to high-density housing, universities and financial institutions. As an economic centre and transport hub, Ulaanbaatar has all the modern conveniences expected of an international city.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The area now known as Mongolia has been inhabited for more than 800,000 years. Archaeological evidence, such as rock paintings, points to groups of hunters and gatherers living throughout Mongolia in prehistoric times. Mongolia’s early history is coloured by battles and invasions, with various nomadic empires laying claim to the land. The most famous of these was the Mongol Empire, created by Genghis Khan in 1206. This empire was known as the largest land-based empire of its time and had great success invading and claiming foreign territory, before declining due to infighting, disunity and the rise of neighbouring territories.
+
+Recent History
+
+Modern Mongolia is an interesting mix of Mongol, Chinese and Russian influences. Rising up to gain independence from decades of communist rule, modern Mongolia is becoming more fast-paced and globalised as the years go by. Holding its first democratic election in 1990, Mongolia now enjoys a time of relative peace and stability, with tourism, agriculture and mineral resources providing more abundance and improvements in infrastructure and living conditions.
+
+
+
+
+
+
+
+
+Natural Wonders of Mongolia
+
+
+
+
+
+
+×
+
+Natural Wonders of Mongolia
+
+
+
+
+Top 10 Natural Wonders of Mongolia
+
+1. Lake Khovsgol
+
+This shimmering, azure jewel of Mongolia is simply stunning. Surrounded by majestic mountains and fresh, alpine meadows, Lake Khovsgol is a photographer’s dream and the perfect playground for nature lovers and adventurers.
+
+2. Selenge River
+
+This powerful river in Northern Mongolia is surrounded by lush landscapes and agriculture. Home to a wide variety of wildlife and birds, this fertile area shows Mongolia in all its natural glory.
+
+3. Gobi Desert
+
+Covering a large part of southern Mongolia, the atmospheric Gobi Desert is a vast, barren expanse of dunes, rocks and gravel. Surprisingly, there are traces of life here, from flocks of cashmere goats to rare Gobi bears. Think you’ve seen deserts before? The Gobi Desert is simply like no other in the world.
+
+4. Bayan Olgii
+
+Remote, rugged and rich in archaeological treasures, this isolated part of Mongolia rewards the patient traveller with impressive historic sites, panoramic vistas, unaffected people and a fascinating culture.
+
+5. Altai Tavan Bogd National Park
+
+Home to lakes, glaciers, alpine forests and dramatic valleys, the rugged landscapes of this national park will mesmerise visitors. Home to eagles, deer, moose and ibex, this stunning national park showcases Mongolia’s untamed beauty at its finest.
+
+6. Uran Uul
+
+This extinct volcano is no longer threatening - it hasn’t erupted for centuries and is now covered in verdant grass and lush greenery. Hike to the rim and enjoy the views of the surrounding valley.
+
+7. Darkhad Depression
+
+The 200-odd lakes of the Darkhad Depression possess a mystical, romantic beauty. The Mongolian steppe and surrounding Taiga forest provides the ideal environment for reindeer-breeding nomads who frequent this area throughout the year.
+
+8. Terkhiin Tsagaan Lake
+
+This lake in Central Mongolia is a place of peace, stillness and beauty. Its uncrowded shores are a great place to spot the wide range of aquatic birds that call this picturesque lake home.
+
+9. Tsenkher Hot Springs
+
+The hot springs of Tsenkher are the real deal. Natural, non-commercial and remote, the open-air springs offer hot and steamy rejuvenation amid unspoilt rugged mountain scenery.
+
+10. Gurvan Saikhan National Park
+
+The huge variety of flora and fauna within this national park make it a popular tourist spot. See finches, vultures, gazelles, wild camels and the elusive, endangered snow leopard.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Mongolia has loads of unique things to buy that you’re not likely to find anywhere else in the world. Look out for the items below in the shops and markets of Mongolia.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Mongolia
+
+1. Traditional clothing
+
+Vibrant and unique, Mongolian belts, boots and hats are great mementos of your visit.
+
+2. Art
+
+Supporting local artisans is a good way to give back to the local economy. Vibrant paintings by Mongolian artists can be found in galleries and markets.
+
+3. Cashmere
+
+Mongolia’s cashmere is among the world’s finest, so why not pick up a scarf, sweater or wrap before heading home.
+
+4. Felt
+
+Felt products are easily found in most shops and markets of Mongolia. Delicate felt slippers are super soft and make great gifts for friends.
+
+
+
+
+
+
+
+
+Festivals and Events in Mongolia
+
+
+
+
+
+
+×
+
+Festivals and Events in Mongolia
+
+
+
+
+Tsagaan Sar
+
+One of the most important Mongolian celebrations, the White Moon holiday (Lunar New Year) marks the end of winter. Mongolians typically celebrate by feasting on regional specialities and enjoying traditional song and dance with family and friends.
+
+Naadam Festival
+
+Dating back centuries, this traditional Mongol event is held in Ulaanbaatar with smaller versions also held throughout the countryside. This celebration of sport and fitness features wrestling, horse riding and archery competitions, as well as traditional song and dance and much vodka swilling.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Hearing Birds Fly: A Nomadic Year in Mongolia
+
+Louisa Waugh
+
+Modern Mongolia: From Khans to Commissars to Capitalists
+
+Morris Rossabi
+
+Mongolia: Travels in an Untamed Land
+
+Jasper Becker
+
+When Things Get Dark: A Mongolian Winter's Tale
+
+Matthew Davis
+
+Wild East: Travels in the New Mongolia
+
+Jill Lawless
+
+Genghis Khan and the Making of the Modern World
+
+Jack Weatherford
+
+
+
+
+
+
+
+
+Mongolia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Mongolia?
+
+
+
+
+
+
+
+
+
+MONGOLIAN VISA:
+
+Citizens of the UK, Ireland, Australia, New Zealand, South Africa and most EU countries will need a visa to enter Mongolia as a tourist for up to 30 days. Citizens of Canada will not need a visa for visits up to 30 days and citizens of the USA will not need a visa for visits of up to 90 days. Citizens of other countries should check with the relevant consulates as to whether a visa is required. If a visa is required, you will need to obtain it in advance. There is no visa on arrival in Mongolia at land or air borders.
+
+LETTERS OF INVITATION (LOI):
+
+Most embassies do not require a LOI. However, should you be required to present one with your visa application please contact us. There may be a fee for this service. In order for us to provide a LOI through our local partners we will require a clear, colour scan of your passport along with an indication of at which embassy you will be applying for your visa. Please allow up to 3 weeks for your LOI to be processed after which you will be able to apply for your visa.
+
+VISAS EN-ROUTE:
+
+You may be able to apply for your Mongolian visa in Beijing en-route if you have time here before your trip. Please plan carefully and check the current embassy requirements. You will need to organise this yourself and ensure you have all the correct documentation to obtain the Mongolian Visa.
+
+INFORMATION REQUIRED FOR VISA APPLICATION:
+
+You will need to apply for a Single Entry Tourist Visa (J) that covers the duration of your stay in Mongolia. Visas are usually valid for 3 months from the date of issue and enable to you to stay for up to 30 days from date of entry.
+
+Name and address of host person or organization in Mongolia:
+
+This will be supplied at time of booking
+
+DOCUMENTS REQUIRED FOR VISA APPLICATION:
+
+You may be required to provide a copy of your itinerary, indicating the dates of your tour, along with your application.
+
+
+
+
+
+
+
+Is tipping customary in Mongolia?
+
+
+
+
+
+
+
+
+
+Tipping isn’t a local custom in Mongolia; however, the bars and cafes of Ulaanbaatar are used to receiving tips from tourists. Use your discretion and tip if you feel like it.
+
+
+
+
+
+
+
+What is the internet access like in Mongolia?
+
+
+
+
+
+
+
+
+
+Internet access is widely available in Ulaanbaatar. Some cafes and coffee houses have Wi-Fi, while many hotels and guesthouses have internet connectivity. Internet availability is far less common outside of Ulaanbaatar, so expect no access when leaving the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Mongolia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in Mongolia, although coverage may be patchy in remote or mountainous areas.
+
+
+
+
+
+
+
+What are the toilets like in Mongolia?
+
+
+
+
+
+
+
+
+
+Flushable, European-style toilets are common in the hotels and restaurants of Ulaanbaatar. Throughout the rest of the country, squat toilets are the standard, with the exception of some ger camps and homestays, where toilets may be simple holes in the ground. Please be aware that, in most cases, soap and toilet paper aren’t provided, so make sure you come prepared.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Can of beer = 1500 MNT
+Simple meal in a local restaurant = 4000 MNT
+Dinner at an international restaurant = 10,000 MNT
+
+
+
+
+
+
+
+Can I drink the water in Mongolia?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Mongolia. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found. It's also advisable to avoid ice in drinks and to peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Mongolia?
+
+
+
+
+
+
+
+
+
+Major credit cards are usually accepted by most large hotels and restaurants in Ulaanbaatar and other large cities, however smaller establishments may not have credit card facilities. Ensure you have other payment options when visiting small shops and markets, and when travelling through rural areas.
+
+
+
+
+
+
+
+What is ATM access like in Mongolia?
+
+
+
+
+
+
+
+
+
+Travellers can access ATMs in Ulaanbaatar; however, rural regions run on a cash economy, so prepare for this when leaving the city.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Mongolia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Mongolia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+26 Feb Bituun (Lunar New Year's Eve)
+
+27 Feb Lunar New Year or Tsagaan Sar (White Moon)
+
+28 Feb Lunar New Year Holiday
+
+1 Mar Lunar New Year Holiday
+
+8 Mar International Women's Day
+
+1 Jun Mothers' and Children's Day
+
+11 Jul Naadam Holiday
+
+12 Jul Naadam Holiday
+
+13 Jul Naadam Holiday
+
+14 Jul Naadam Holiday
+
+15 Jul Naadam Holiday
+
+29 Dec Independence Day
+
+Please note these dates are for 2017. For a current list of public holidays in Mongolia go to:
+http://www.worldtravelguide.net/mongolia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Mongolia
+
+1. Be considerate of Mongolia’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. Before entering a place of worship, ask permission, remove your shoes and cover your shoulders with a jacket or wrap.
+
+4. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+5. Always dispose of litter thoughtfully, including cigarette butts.
+
+6. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+7. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+8. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+9. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+10. Please ask and receive permission before taking photos of people, including children.
+
+11. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+12. Be respectful of monks, this includes refraining from taking photos of them. Women should also avoid touching or handing items directly to monks.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+
+
+
+
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

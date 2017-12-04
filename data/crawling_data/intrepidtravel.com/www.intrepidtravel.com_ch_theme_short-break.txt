@@ -1,0 +1,4274 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short breaks | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short breaks
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Short Breaks
+
+
+
+
+Whether it's the ultimate holiday add-on or a mini adventure you seek, Intrepid's Short Break Adventures are sure to tick all the boxes. They are loaded with value, take the hassle out of planning and help you squeeze every last drop out of your next trip away.
+
+Short Breaks are the ideal add-on to a longer holiday – or a mini adventure of their own. With a duration of 2-8 days, they range from beach breaks to guided excursions, or are centred around an experience like hiking or cooking. Departures are frequent and usually guaranteed. Short Breaks are slightly different to our group tours, with the idea being that you maintain a level of independence during down time e.g. at night. You'll most likely travel on a join-in basis, which means you may or may not be joined by others for activities and transportation, depending on demand. However, we do offer some independent options where you'll travel on your own or with your own party.
+
+
+Find a short break trip by region
+
+Asia
+
+Remember that dream? The one that began on a pearly white beach fringed by waters of sapphire blue. Where waves of incense flooded tiny laneways, and in a small village, a rooster crowed until the rice fields were bathed in warm sunlight. But this is no dream. This is Asia - and it will take your breath away
+
+
+
+
+
+
+
+
+
+
+Everest in Full Picture - Basix
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR1,075
+
+
+
+
+
+Travel to Nepal and visit Kathmandu before venturing out into the Nepalese countryside...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chitwan Extension
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR445
+
+
+
+
+
+Travel to Nepal and visit the Chitwan National Park for a spectacular wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Active Chiang Mai
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR330
+
+
+
+
+
+Trekking in Chiang Mai, explore Thailand's lush jungle areas, go rafting on the Mae...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Varanasi Extension
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR305
+
+
+
+
+
+Lift your spirits as you float on the Ganges at dawn, explore the city and nearby Sarnath
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inside-Out Kathmandu
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR355
+
+
+
+
+
+Travel to Nepal and visit Kathmandu for a spectacular Himalayan experience. Trek from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sapa Adventure
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR312
+
+
+
+
+
+Trek through Vietnam's mountainous region in the north-west to experience hiltribe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Bangkok
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR260
+
+
+
+
+
+Take a bite out of Bangkok on this short but sweet amble through this culinary city....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break - Colombo
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR240
+
+
+
+
+
+Awaken the senses on a culinary odyssey in Sri Lanka's capital city, stopping in at the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hilltribe Experience
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR365
+
+
+
+
+
+Travel to Chiang Mai and trek through northern Thailand to discover hilltribe culture,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Delhi
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR297
+
+
+
+
+
+Take a delicious food-based tour of Delhi discovering markets, specialty dishes, sights...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South Vietnam Getaway
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR370
+
+
+
+
+
+See the contrasts of city and river life around Ho Chi Minh City on this exciting short...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Secrets of Angkor
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR377
+
+
+
+
+
+Discover the secrets of Angkor on an Intrepid tour through Cambodia's temples of Angkor...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taj Mahal Extension
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR312
+
+
+
+
+
+Visit India and travel from Delhi to Agra. Travel to the Taj Mahal and Agra’s Red Fort,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chiang Mai & Golden Triangle
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR512
+
+
+
+
+
+Travel to Thailand’s north on this tour to the famous Golden Triangle. Explore northern...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Halong Bay Junk Cruise
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR222
+
+
+
+
+
+Cast away on a traditional junk boat and set sail through hundreds of limestone karsts...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mai Chau Adventure
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR207
+
+
+
+
+
+Venture into the lush environs of Mai Chau and enjoy two days of cycling through remote...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chiang Mai & Elephants
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR355
+
+
+
+
+
+Help feed and bathe Chiang Mai elephants at a rescue centre dedicated to helping...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Walking Annapurna
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR355
+
+
+
+
+
+Travel to Nepal and hike the Annapurnas. Travel from Pokhara to Tanting, trekking to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Hanoi
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR340
+
+
+
+
+
+Treat your tastebuds to a whole new world of flavour in Hanoi on this bite-sized food...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+River Kwai & Ancient Thai Kingdoms
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR525
+
+
+
+
+
+Travel to Thailand and experience the bustling streets of Bangkok and the ancient ruins...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mekong Delta Farmstay
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR172
+
+
+
+
+
+See local industry, beautiful islands and what life is like along the mighty Mekong...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Africa
+
+From the stampeding wildebeest of the Serengeti to the forces of nature at Zimbabwe’s Vic Falls, Africa is where Mother Nature parades her finest wares at every opportunity. Trek through rainforests and steamy jungles, meet majestic Maasai warriors and trace the inscriptions of ancient civilisations - the impressiveness of this continent simply knows no bounds!
+
+
+
+
+
+
+
+
+
+
+Kruger & Cape Town by Train
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,640
+
+
+
+
+
+Enjoy the African wilds on a safari in Kruger, travel along the breathtaking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger & Cape Town by Train
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,225
+
+
+
+
+
+Enjoy the African wilds on a safari in Kruger, travel along the breathtaking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger & Cape Town by Plane
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,875
+
+
+
+
+
+Enjoy the African wilds on a safari in Kruger, travel along the breathtaking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Kruger Camping
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR440
+
+
+
+
+
+Answer the call of the Kruger, South Africa's vast and famous game park that is teeming...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mountain Gorillas of Rwanda
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR4,025
+
+
+
+
+
+Visit Rwanda and travel through some of Africa's most incredible landscapes. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ile Sainte-Marie Extension
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR395
+
+
+
+
+
+If white-sand beaches, crystal-clear lagoons and daily massages are your cup of tea,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serengeti & Ngorongoro Safari
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR1,970
+
+
+
+
+
+Discover the wonders of Tanzania – the Ngorongoro Crater and Serengeti National Park –...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town and Winelands
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR795
+
+
+
+
+
+Travel to South Africa with Intrepid travel to discover the wonders of Cape Town and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Madagascar Baobab Tree Trail
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,050
+
+
+
+
+
+Discover towering limestone shards, magnificent baobab trees and slow, meandering...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger Experience - Lodge (3 days)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR480
+
+
+
+
+
+Head out into the wilds of Kruger National Park on thrilling game drives. Stay in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar Beach Break
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR570
+
+
+
+
+
+Take a relaxing break on the island of Zanzibar. Swim, snorkel or dive into azure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger Experience - Lodge (4 days)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR595
+
+
+
+
+
+No holiday to South Africa is complete without a safari in Kruger Park. Spot wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Okavango Delta Fly-In Safari
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR2,217
+
+
+
+
+
+Retreat into the Botswana wilderness and discover all that the Okavango Delta has to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Masai Mara Walk
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR925
+
+
+
+
+
+Travel to Kenya and visit Nairobi. Embark on a journey across the Great Rift Valley to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger Experience - Lodge (5 days)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR715
+
+
+
+
+
+Experience South Africa's Kruger Park and surrounding region on this five-day tour....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Central & South America
+
+From the glamour and sheen of ‘The Land of Hopes and Dreams’ to the crumbling Mayan ruins of Mexico and the pulsating dancefloors of Rio De Janeiro - the America’s dish up two hemispheres worth of must-see sights and fun-filled sideshows.
+
+
+
+
+
+
+
+
+
+
+Mexico City Stopover
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR442
+
+
+
+
+
+Explore culture, history, arts and sights on this short stint in Mexico City. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Antigua
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR380
+
+
+
+
+
+Enjoy a taste of Guatemala on this bite-size tour of Antigua that takes in a cooking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+California Coast Express
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR885
+
+
+
+
+
+Explore the stunning California coast on this three-day tour from Los Angeles. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+The Middle East
+
+Travel a road that links antiquity with modernity, hear the melodic callto-prayer drift over the hum of modern traffic and marvel at 5000-yearold pyramids reflected in shining high-rise buildings only a decade old. Step into the exotic Middle East.
+
+
+
+
+
+
+
+
+
+
+Gallipoli Pilgrimage
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR125
+
+
+
+
+
+Visit Gallipoli and tour Anzac Cove, Lone Pine, The Nek and other places of historical...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Istanbul
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR255
+
+
+
+
+
+Get behind the scenes of Istanbul’s abundant food scene and discover all the secret...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abu Dhabi Discovery
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR330
+
+
+
+
+
+The capital of Abu Dhabi is the perfect introduction to the United Arab Emirates....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Petra Uncovered
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR610
+
+
+
+
+
+Travel to Jordan and visit Petra, the ancient 'lost city'. Be awed by ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dubai Discovery
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR337
+
+
+
+
+
+The stunning desert oasis is home to shopping, opulence, a building over half a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cappadocia Shortbreak
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR355
+
+
+
+
+
+Travel to Turkey and break away from the bustle of the big cities to experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

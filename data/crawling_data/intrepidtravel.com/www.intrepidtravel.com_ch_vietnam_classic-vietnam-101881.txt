@@ -1,0 +1,3594 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Vietnam | Vietnam Tours | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Vietnam
+
+
+
+
+
+
+
+
+
+
+
+Days
+
+15
+
+
+
+Style
+
+Comfort
+
+
+
+Travellers rating
+
+
+188 reviews
+
+
+From
+
+FR1,899
+CHF
+
+
+
+
+
+View dates
+
+
+
+
+Home
+
+Asia
+
+Vietnam
+
+Classic Vietnam
+
+
+
+
+
+
+
+
+
+
+
+
+From south to north, Vietnam is a kaleidoscope of wonderful people and picturesque landscapes. Imagine learning the mysteries of the Viet Minh in Ho Chi Minh City or exploring the beautiful lakes and boulevards of Hanoi - and what better way to get to know the locals than to be their guests on a Mekong Delta homestay? Experience historical temples, visit Vietnam's spectacular coastline, enjoy delicious banquets and explore lively cities - all with a touch of comfort - on this 15-day Classic Vietnam tour.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start
+
+Ho Chi Minh City, 
+  Vietnam
+
+Finish
+
+Hanoi, 
+  Vietnam
+
+Country
+
+Vietnam
+
+Style
+
+Comfort
+
+Theme
+
+Explorer
+
+
+
+
+
+Code
+
+TVKT
+
+Physical rating
+
+
+Ages
+
+Min 
+  15
+
+Group size
+
+Min 
+  1, Max 
+  12
+
+
+
+
+
+
+
+Why we love this trip
+
+
+
+
+Take a comprehensive trip through this South East Asian hotspot. The trip takes you from south to north, to the most popular tourists sites and off the beaten track
+
+
+
+Meet the locals on the Mekong Delta and stay for the night. The cultural exchange is often the highlight of many travellers trips
+
+
+
+Nha Trang has been called the 'Cannes of Vietnam' because of its sumptuous beaches and cosmopolitan feel. You'll have plenty of free time here to relax in the beaches and go snorkelling
+
+
+
+Go back in time at the ancient trading port of Hoi An. Experience the blend of influences from Europe and Asia, the nearby beaches and markets
+
+
+
+Halong Bay is a strange paradise of green waters and rocky islands. Enjoy a cruise through the beautiful landscape and indulge in the bay's fresh seafood
+
+
+
+
+
+
+Is this trip right for you?
+
+
+
+
+On your homestay in the Mekong Delta region, you’ll have basic bedding in a dorm style arrangement. Amenities are shared with cold water only. It’s not exactly the Hilton, but most travellers find it the highlight of their trip
+
+
+
+This trip includes an overnight train journey. Accommodation and amenities are shared and basic, but the experience of rubbing shoulders with the locals makes it all worthwhile. Plus you make the most of your time by travelling while you sleep.
+
+
+
+In Vietnam, the temperature varies greatly between north and south. While there is no best time of year, it's best to check the seasonal patterns on our country information page to see what the weather will be like when you go. This way you can prepare well for your trip
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Itinerary
+
+Expand All
+
+Collapse All
+
+
+
+
+This itinerary is valid for departures from 01 January 2017 to 31 December 2017.
+View the itinerary for departures between 01 January 2018 - 31 December 2018
+
+
+
+
+
+
+
+Day 1: Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+Xin chao! Welcome to Ho Chi Minh City, Vietnam. Your adventure begins with a welcome meeting at 6 pm today. You can arrive at any time during the day as there is free time until this important meeting. Please look for a note in the hotel lobby or ask reception where it will take place. We'll be collecting insurance details and next of kin information at this meeting, so please ensure you bring these details to provide to your leader.
+
+Ho Chi Minh City has a dynamic atmosphere and a French influence. If you arrive early perhaps head to Pham Ngu Lao Street to see the local open-aired market or visit Vinh Nghiem Pagoda.
+
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Meals Included
+
+
+Dinner
+
+
+Special Information
+An arrival transfer is included. In order to book this service please provide your booking agent with your flight details at least 2 weeks prior to your departure.
+
+You may wish to arrive a day early so you're able to attend the group meeting and have time to explore Hanoi. We'll be happy to book additional accommodation for you (subject to availability). If you're expecting to be late, please inform the hotel reception or your booking agent in advance.
+
+
+
+
+
+
+Day 2: Mekong Delta
+
+
+
+
+
+
+
+
+
+Start the day with a buffet breakfast at KOTO Restaurant, which is one of our Intrepid Foundation supported programs that teaches street children hospitality skills.
+
+Next, drive for about three hours to Cai Be. Here you’ll board a boat to explore the canals of the Mekong Delta. The delta is known as ‘Vietnam’s rice bowl’ for its abundance of rice paddies, fruit and flower orchards. During the boat trip, you’ll stop to sample some of the fresh tropical fruit and visit some cottage industries in the area.
+
+Around sunset you’ll make your way to your homestay to spend a night with the locals and enjoy a wonderful meal of local specialties.
+
+Accommodation
+
+
+Homestay (1 night)
+
+
+Included Activities
+
+
+Ho Chi Minh City - KOTO breakfast
+
+
+Meals Included
+
+
+Breakfast
+
+Lunch
+
+Dinner
+
+
+Special Information
+On the homestay, conditions will be basic. You’ll be sharing amenities and sleeping in a dorm-style arrangement. Bedding and mosquito nets will be provided but you’ll have cold water only.
+
+
+
+
+
+
+Day 3: Ho Chi Minh City
+
+
+
+
+
+
+
+
+
+Wake up early and see daily life begin on the delta at dawn. You’ll visit the nearby market, where locals from around the delta sell their produce.
+
+In the afternoon, return to Ho Chi Minh City and take a walking tour in town. Experience the hustle and bustle of former Saigon and explore some of the city's more interesting sights such as the War Remnants Museum and Reunification Palace.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Ho Chi Minh City - War Remnants Museum
+
+Mekong Delta - Local Market
+
+
+Optional Activities
+
+
+Ho Chi Minh City - Reunification Palace - VND40000
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 4: Ho Chi Minh City - Overnight Train
+
+
+
+
+
+
+
+
+
+Make a day trip to the famous Cu Chi Tunnels. This former Viet Cong stronghold provides an insight into the resourcefulness and tenacity of the Vietnamese people, and offers a glimpse of what like was like during the war.
+
+This evening, board an overnight train to Nha Trang. Conditions are basic on these trains and they may be a little dirtier than what you’re used to, however overnight trains are the best way to brush shoulders with the locals and make the best use of your time. Most trains have a dining carriage serving simple food, but some travellers like to take some fresh bread, cheese and fruit for the journey.
+
+Accommodation
+
+
+Overnight sleeper train (1 night)
+
+
+Included Activities
+
+
+Ho Chi Minh City - Cu Chi Tunnels
+
+
+Meals Included
+
+
+Breakfast
+
+
+Special Information
+There are shared hotel rooms available this afternoon before your overnight train journey. There is one room for up to to 4 members of the group. Single supplements do not apply to day use rooms.
+Sleeper trains typically have four or six berth compartments with bench seats that convert into sleeping bunks. A sheet, pillow and blanket are provided, although some travellers prefer to bring their own sleeping sheet. Depending on the configuration of the group, you may have to share with people of different genders or passengers who aren’t part of the group.
+
+
+
+
+
+
+Day 5: Nha Trang
+
+
+
+
+
+
+
+
+
+Arrive in Nha Trang and transfer to your hotel. Nha Trang has been referred to as the ‘Cannes of the Orient’ because of its beautiful beaches and cosmopolitan vibe. Enjoy a free day in Nha Trang. Perhaps you’d like to soak up more sun on the beaches, or make an optional visit to the nearby Po Nagar Cham Towers. This archaeological site dates back to the middle ages and is dedicated to the indigenous goddess Yan Po Nagar.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Nha Trang - Mud baths - VND280000
+
+Nha Trang - Po Nagar Cham Tower - VND22000
+
+
+Meals Included
+There are no meals included on this day.
+Special Information
+Prior to standard hotel check in this morning, shared day use rooms are provided with one room for up to 4 members of the group.
+
+
+
+
+
+
+Day 6: Nha Trang
+
+
+
+
+
+
+
+
+
+Today you’ll go on a boat trip to some of the nearby islands and visit a fishing village. You’ll also have plenty of free time to go swimming and snorkelling, and you’ll be treated to a seafood buffet on the cruise.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Nha Trang - Hon Mun Island swimming and snorkelling
+
+Nha Trang - Boat trip
+
+
+Meals Included
+
+
+Breakfast
+
+Lunch
+
+
+
+
+
+
+
+
+Day 7: Hoi An
+
+
+
+
+
+
+
+
+
+Take a short flight to Danang and then travel by minibus for one hour to Hoi An.
+
+The rest of the day is free for you to do some optional activities or soak up the ambience of the place. You may like to wander Hoi An Market and the street stalls selling paintings, woodwork, ceramics, lanterns and much more. It’s also famous for its talented tailors who can make beautiful items to order within a few hours.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 8: Hoi An
+
+
+
+
+
+
+
+
+
+Your leader will take you on a walk around the Old Town. The city was a major trading port with the west from the 17th century onwards, and has a various architectural influences from Europe, China and Vietnam. Today the city is being restored and looks exactly like it did over a century ago.
+
+The afternoon is free. You can rent a bicycle and take a trip out to the nearby beach. There’s also an optional Urban Adventure including a countryside bike ride and finishing up with a cruise along the Thu Bon River.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Hoi An - Ancient town walk and entrance ticket
+
+
+Optional Activities
+
+
+Hoi An - Street Food By Night Urban Adventure - USD28
+
+Hoi An - Hoi An Boat & Bike Urban Adventure - USD51
+
+
+Meals Included
+
+
+Breakfast
+
+Lunch
+
+
+
+
+
+
+
+
+Day 9: Hoi An
+
+
+
+
+
+
+
+
+
+Enjoy a free day in Hoi An.
+
+If you can muster an early rise this morning, head to the local produce market to watch animated shoppers haggling over fresh fish, spices and vegetables. Your leader can help you arrange an optional Vietnamese cooking course. Perhaps visit the ruins of My Son, Vietnam's most important Cham site. Set in a verdant valley, surrounded by hills and overlooked by the massive Cat's Tooth Mountain, the elaborate World Heritage-listed temples here reflect the rich cultural traditions of the Cham civilisation that flourished in this region between the 4th and 12th century.
+
+Make the most of your last day in Hoi An by doing any activities you couldn’t fit into your schedule yesterday.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Hoi An - My Son Cham day trip - USD35
+
+Hoi An - Hoi An Walking & Cooking Class Urban Adventure - USD49
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 10: Hue
+
+
+
+
+
+
+
+
+
+Continue on your journey today and drive over the spectacular Hai Van Pass, an incredibly scenic and mountainous stretch of highway with views of Lang Co Beach. Make a stop at beautiful Lang Co for an optional lunch.
+
+Arrive in Hue, Vietnam’s former Imperial capital. Here you’ll visit the Imperial Citadel and the Forbidden Purple City which was almost entirely destroyed by bomb blasts during the war.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Hue - Imperial citadel
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 11: Hue
+
+
+
+
+
+
+
+
+
+Take a cruise on a dragon boat along the Perfume River. You’ll stop off at the
+Thien Mu Pagoda, and see an active Buddhist monastery dating back to 1601. One of the most poignant displays is a car belonging to a former monk who set himself alight to protest against the treatment of Buddhists. You’ll also visit one of the royal tombs, that of Emperor Tu Duc, with its lake, frangipani and pine trees.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Hue - Perfume river cruise and Thien Mu Pagoda
+
+Hue - Royal tomb
+
+
+Meals Included
+
+
+Breakfast
+
+Lunch
+
+
+Special Information
+Perfume River Cruises may not be available during festival season. During these times you’ll travel by land to reach the activities.
+During your trip to Hue, you’re likely to visit a Buddhist nunnery or monastery for lunch. The lunch helps to provide economic support to these institutions, which rely on donations to survive, and gives you an insight into the unique traditions and food of Vietnamese Buddhism.
+
+
+
+
+
+
+Day 12: Hanoi
+
+
+
+
+
+
+
+
+
+Fly from Hue to Vietnam’s charming capital of Hanoi. This afternoon, take a half-day tour of Hanoi that captures the beauty and the history of the laid-back, tree-lined capital. You’ll visit major sights including the Temple of Literature and One Pillar Pagoda. You’ll also pass by the Hoan Kiem Lake and enter the ’36 Streets’ of the historic Old Quarter.
+
+If you have some free time this afternoon, you may like to visit the Vietnam Fine Arts Museum. This Museum plays a crucial role in maintaining and promoting the cultural heritage of Vietnam’s ethnic communities.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Hanoi - Temple of Literature
+
+Hanoi - Old Quarter Tour
+
+Hanoi - One Pillar Pagoda & HCM stilt house
+
+
+Optional Activities
+
+
+Hanoi - Fine Arts Museum - VND30000
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 13: Halong Bay
+
+
+
+
+
+
+
+
+
+Travel by private minibus for about four hours to the spectacular World Heritage site of Halong Bay. This is one of Vietnam’s most beautiful places, a secluded bay of emerald waters flecked with sandstone islands and caves. Go on a cruise to explore the rock formations and caves and in the warmer months, go for a swim or perhaps go kayaking out on the bay.
+
+You’ll spend the night on the boat. The sailing junk has twin-share cabins with air-conditioning and private facilities. There's also a dining room and bar where you’ll enjoy all of your meals, including a lavish seafood buffet for lunch.
+
+Accommodation
+
+
+Overnight boat (1 night)
+
+
+Included Activities
+
+
+Halong Bay - Overnight boat cruise
+
+
+Meals Included
+
+
+Breakfast
+
+Lunch
+
+Dinner
+
+
+Special Information
+It is recommended to pack a smaller overnight bag to take to Halong Bay for ease of boarding and disembarking. You can store your main luggage in Hanoi for tonight.
+
+Kayaking and swimming is restricted to designated zones within the bay.
+
+There are restrictions on the number of boats that are permitted to stay in the bay overnight, sometimes resulting in a shortage. To ensure all Intrepid travellers can enjoy the experience of a night on the water, occasionally you will stay on a larger boat (with approximately 12 cabins) and share your boat with another group. Or your group may be split across different vessels, in which case an Intrepid group leader will be present on each boat, and the route taken and inclusions on board will remain the same.
+
+
+
+
+
+
+Day 14: Hanoi
+
+
+
+
+
+
+
+
+
+Drive for about four hours back to Hanoi. Along the way, you’ll stop at Dong Trieu Factory to watch locals creating ceramic art pieces.
+
+On return to Hanoi this afternoon enjoy a unique water-puppet performance hosted by a family, who are experts in this art form.
+
+Enjoy a final dinner with your fellow travellers.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Hanoi - Local water puppet performance
+
+
+Optional Activities
+
+
+Hanoi - Hoa Lo 'Hanoi Hilton' Prison - VND30000
+
+Hanoi - Museum of Ethnology - VND180000
+
+
+Meals Included
+
+
+Breakfast
+
+Dinner
+
+
+
+
+
+
+
+
+Day 15: Hanoi
+
+
+
+
+
+
+
+
+
+There are no activities planned for the final day and you are able to depart the accommodation at any time.
+
+Optional Activities
+
+
+Hanoi - Hanoi Street Food By Night Urban Adventure - USD31
+
+Hanoi Urban Adventure - Citadels, Karsts & Cycle - USD88
+
+Hanoi Urban Adventure - Village Discovery by Bike - USD33
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+
+
+Inclusions
+
+
+
+
+
+
+Meals
+13 breakfasts, 
+
+5 lunches, 
+4 dinners
+
+
+
+
+
+
+
+Transport
+Boat,
+        Overnight sleeper train,
+        Plane,
+        Private Bus,
+        Private vehicle
+
+
+
+
+
+
+
+Accommodation
+Homestay (1 night),
+                    Hotel (11 nights),
+                    Overnight boat (1 night),
+                    Overnight sleeper train (1 night)
+
+
+
+
+
+
+
+Included activities
+
+
+Ho Chi Minh City - KOTO breakfast
+
+Ho Chi Minh City - War Remnants Museum
+
+Mekong Delta - Local Market
+
+Ho Chi Minh City - Cu Chi Tunnels
+
+Nha Trang - Hon Mun Island swimming and snorkelling
+
+Nha Trang - Boat trip
+
+Hoi An - Ancient town walk and entrance ticket
+
+Hue - Imperial citadel
+
+Hue - Perfume river cruise and Thien Mu Pagoda
+
+Hue - Royal tomb
+
+Hanoi - Temple of Literature
+
+Hanoi - Old Quarter Tour
+
+Hanoi - One Pillar Pagoda & HCM stilt house
+
+Halong Bay - Overnight boat cruise
+
+Hanoi - Local water puppet performance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meals
+13 breakfasts, 
+
+5 lunches, 
+4 dinners
+
+
+Transport
+Boat,
+        Overnight sleeper train,
+        Plane,
+        Private Bus,
+        Private vehicle
+
+
+Accommodation
+Homestay (1 night),
+                    Hotel (11 nights),
+                    Overnight boat (1 night),
+                    Overnight sleeper train (1 night)
+
+
+Included activities
+
+
+Ho Chi Minh City - KOTO breakfast
+
+Ho Chi Minh City - War Remnants Museum
+
+Mekong Delta - Local Market
+
+Ho Chi Minh City - Cu Chi Tunnels
+
+Nha Trang - Hon Mun Island swimming and snorkelling
+
+Nha Trang - Boat trip
+
+Hoi An - Ancient town walk and entrance ticket
+
+Hue - Imperial citadel
+
+Hue - Perfume river cruise and Thien Mu Pagoda
+
+Hue - Royal tomb
+
+Hanoi - Temple of Literature
+
+Hanoi - Old Quarter Tour
+
+Hanoi - One Pillar Pagoda & HCM stilt house
+
+Halong Bay - Overnight boat cruise
+
+Hanoi - Local water puppet performance
+
+
+
+
+
+
+
+
+Dates & availability
+
+
+
+Trip search is unavailable.
+
+
+
+There are currently no scheduled departures on our Classic Vietnam trip. If you are interested in other trips in the region visit one of the links below.
+
+
+Vietnam
+
+
+
+
+
+
+Latest Departures
+
+
+
+Dates list
+
+
+
+
+
+
+
+Next trip departures
+
+
+
+Jump to a departure month
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+
+
+Important notes
+
+1. Passport Details: Please provide your full name exactly as per passport at the time of booking (including any middle names listed on your passport), for internal flights and train tickets. Ticketing fees may apply for amendments to details within 45 days of departure, and in some cases you will be required to cover the cost of issuing a new ticket.
+Included day rooms on days 4 & 5 will also be shared.
+2. An airport arrival transfer is included. Please provide your flight details at the time of booking.
+3. A Single Supplement to have your own room is available on this trip and excludes nights 2 (Homestay), 4 (Overnight Train) and 13 (Overnight Boat) where you will be in shared accommodation.
+
+
+
+
+
+Essential trip information
+Want an in-depth insight into this trip? Essential Trip Information provides a detailed itinerary, visa info, how to get to your hotel, what's included - pretty much everything you need to know about this adventure and more.
+
+
+View Essential Trip Information
+
+
+
+
+
+Reviews
+
+
+Our Classic Vietnam trips score an average of
+4.89 out of 5
+based on 188 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Classic Vietnam,
+November 2017
+
+Kathryn Mocatta
+
+The Classic Vietnam  15 day tour was well organised, you get to experience the local way of life . Great activities like kayaking in Halong Bay ,bike riding through Hoi An and eating with a local family in their home. A highlight was the overnight cruize in Halong Bay pity it wasn't for two nights ! I would highly recommend this tour.
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Classic Vietnam,
+November 2017
+
+Kathryn Bailey
+
+Travelling in a Small group was great. We covered a lot of ground and had exceptional support and guidance from our leader. Intrepid was recommended to me and I would recommend them also.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Classic Vietnam trip reviews
+
+Our Classic Vietnam trips score an average of
+4.89 out of 5
+based on 188 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+Go to dates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+

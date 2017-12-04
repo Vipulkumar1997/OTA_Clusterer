@@ -1,0 +1,4651 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+Bolivia
+
+
+
+Bold and brash, Bolivia lifts travellers to its dizzying heights with stunning scenery, legendary landmarks and a rich, indigenous heritage.
+
+
+Bolivia is an energetic, enigmatic piece of South American sorcery – alive with passion, awash with colour, connected to the past but living very much in the present. Leave Bolivia off your travel list at your own peril.
+
+
+Top Bolivia travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+24 Dec 2017
+
+Bolivia Highlights
+
+
+
+Bolivia Highlights
+La Paz to La Paz
+
+
+
+
+
+
+
+
+
+×
+
+Bolivia Highlights
+
+
+
+
+
+
+
+
+
+12
+
+
+FR1,595
+
+
+FR1,196
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Bolivia trips
+
+
+
+
+
+
+
+
+
+Sacred Land of the Incas
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,371
+
+
+
+
+
+Discover Peru's sacred land of the Incas. Visit Lima, the Amazon, Cuzco, Puno, Lake...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia Highlights
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,196
+
+
+
+
+
+Visit South America and travel to Bolivia. Travel from La Paz to Sucre, visit the city...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Peru Adventure
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR6,069
+
+
+
+
+
+Visit South America and travel to the Galapagos Islands, Peru, Ecuador and Bolivia....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Peru & Bolivia
+
+
+
+
+
+
+
+
+
+25 Days
+
+
+From
+FR3,744
+
+
+
+
+
+Visit South America and travel to Peru and Bolivia. Travel from Lima to La Paz, visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Lima
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,961
+
+
+
+
+
+Travel from La Paz to Lima and discover the vibrant heart of Inca culture. Trek an Inca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Quito via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,470
+
+
+
+
+
+Visit South America and travel through Brazil, Argentina, Chile, Bolivia, Peru and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Quito to Rio via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,270
+
+
+
+
+
+Visit South America and travel through Ecuador, Peru, Bolivia, Argentina, Chile and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to La Paz
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,951
+
+
+
+
+
+Travel from Lima to La Paz and fall in love with Incan South America. Complete the Inca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Bolivia & Argentina
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR2,484
+
+
+
+
+
+Get off the tourist trail on this extraordinary adventure through Bolivia and Argentina...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Bolivia and Argentina
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,920
+
+
+
+
+
+Get off the tourist trail on this extraordinary adventure through Bolivia and Argentina...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru, Bolivia & Argentina Adventure
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR5,455
+
+
+
+
+
+Journey through South America, from Lima to Buenos Aires, and explore stunning...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore South America
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR5,245
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Adventure through Peru, Bolivia & Argentina
+
+
+
+
+
+
+
+
+
+35 Days
+
+
+From
+FR4,260
+
+
+
+
+
+Journey through South America, from Lima to Buenos Aires, and explore stunning...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South American Highlights
+
+
+
+
+
+
+
+
+
+44 Days
+
+
+From
+FR6,085
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Bolivia to Brazil
+
+
+
+
+
+
+
+
+
+31 Days
+
+
+From
+FR4,520
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina, Uruguay and Brazil. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of South America
+
+
+
+
+
+
+
+
+
+51 Days
+
+
+From
+FR6,228
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand South America
+
+
+
+
+
+
+
+
+
+58 Days
+
+
+From
+FR7,105
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivian Amazon Jungle
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR1,017
+
+
+
+
+
+Venture deep into the Amazon on this exciting five-day adventure in the jungle
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing South America
+
+
+
+
+
+
+
+
+
+47 Days
+
+
+From
+FR6,125
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate South America
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,380
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia to Brazil Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,135
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina, Uruguay and Brazil. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivian Salt Flats
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR540
+
+
+
+
+
+Travel from picturesque La Paz to the spellbinding Salar de Uyuni, the largest salt...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South America Encompassed
+
+
+
+
+
+
+
+
+
+56 Days
+
+
+From
+FR8,125
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivian Salt Flats & The Andean Desert
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR905
+
+
+
+
+
+Journey from La Paz to Uyuni and take part in an incredible 4WD safari across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuzco to La Paz
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,946
+
+
+
+
+
+Take a scenic Overland tour from Peru to Bolivia. Be wooed by the vibrant heart of Inca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Cuzco
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,946
+
+
+
+
+
+Discover Incan heartlands on this Overland Bolivia and Peru tour. Travel from La Paz to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago to La Paz
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,257
+
+
+
+
+
+Visit South America and travel through Chile, Argentina and Bolivia. Tour Santiago,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Santiago
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,227
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina and Chile from La Paz to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Buenos Aires
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,297
+
+
+
+
+
+Travel from La Paz to Buenos Aires and discover the heart of South America. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Rio
+
+
+
+
+
+
+
+
+
+60 Days
+
+
+From
+FR7,151
+
+
+
+
+
+Go Overland from Lima to Rio with Intrepid Travel. Uncover hidden treasures from Peru...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Buenos Aires
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR5,116
+
+
+
+
+
+Visit South America and travel through Peru, Bolivia and Argentina from Lima to Buenos...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Bolivia tour reviews
+
+
+Our Bolivia trips score an average of
+4.56 out of 5
+based on 189 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Discover Bolivia & Argentina,
+August 2017
+
+Jean Bowen
+
+see  notes.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+2017 Bolivia Highlights,
+October 2017
+
+David Jerram
+
+The trip to the Bolivian Alti Plana was a highlight of our extensive trip through South America. I am not sure how we would have managed this without using Intrepid. It was a fantastic trip.
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Bolivia trip reviews
+
+Our Bolivia trips score an average of
+4.56 out of 5
+based on 189 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Bolivia
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 01, 2017
+
+
+
+5 reasons to visit Bolivia (that aren’t Salar...
+
+
+
+
+
+
+If you haven’t been before, you might imagine Bolivia is one giant reflective salt...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 08, 2017
+
+
+
+From salt flats to geysers: The beauty of...
+
+
+
+
+
+
+My goal was to see Salar de Uyuni, the world’s largest salt flats.  A mass of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 19, 2017
+
+
+
+6 creepy natural wonders from around the world
+
+
+
+
+
+
+These spooky natural wonders of the world are all beautiful in their own weird way...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 30, 2017
+
+
+
+10 reasons why Bolivia should be on your bucket...
+
+
+
+
+
+
+Bolivia is in the unique position of sharing a border with five very distinct...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 17, 2016
+
+
+
+Shopping for spells at the Witches Market in La...
+
+
+
+
+
+
+Talismans, cure-alls and mystic ointments – welcome to Bolivia's famous Witches...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 13, 2016
+
+
+
+A Bolivian photoshoot with Tyson Wheatley
+
+
+
+
+
+
+If you're debating Bolivia vs Peru vs Ecuador for your next South American...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 11, 2016
+
+
+
+Everything you need to know about Bolivia’s...
+
+
+
+
+
+
+Unless you’re an astronaut (if you are – can we be friends?), most of us will...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salar de Uyuni
+
+
+
+
+Travel by 4x4 through the surreal scenery of the Salar de Uyuni
+
+
+
+
+
+
+Bolivian Salt Flats, 3 days
+
+
+
+
+
+
+
+
+Bolivia Highlights, 12 days
+
+
+
+
+
+
+
+
+Discover Bolivia & Argentina, 20 days
+
+
+
+
+
+
+
+
+
+
+
+Sucre
+
+
+
+
+Visit Bolivia’s whitewashed city of Sucre
+
+
+
+
+
+
+Discover Bolivia & Argentina, 20 days
+
+
+
+
+
+
+
+
+Bolivia Highlights, 12 days
+
+
+
+
+
+
+
+
+Explore Peru & Bolivia, 25 days
+
+
+
+
+
+
+
+
+
+
+
+Valle de la Luna
+
+
+
+
+View moon-like landscapes at the Valle de la Luna
+
+
+
+
+
+
+La Paz to Buenos Aires, 21 days
+
+
+
+
+
+
+
+
+La Paz to Santiago, 21 days
+
+
+
+
+
+
+
+
+
+
+
+La Paz
+
+
+
+
+Travel to Bolivia’s bustling capital, La Paz
+
+
+
+
+
+
+La Paz to Santiago, 21 days
+
+
+
+
+
+
+
+
+La Paz to Buenos Aires, 21 days
+
+
+
+
+
+
+
+
+Lima to La Paz, 22 days
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Sucre (constitutional, population 225,000); La Paz (administrative, population 880,000)
+
+Population:
+
+9.9 million
+
+Language:
+
+Quechua, Spanish, Aymara
+
+Currency:
+
+BOB
+
+Time zone:
+
+(GMT-04:00) La Paz
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type C (European 2-pin)
+
+Dialing code:
+
++591
+
+
+
+
+
+
+
+
+
+Best time to visit Bolivia
+
+
+
+
+
+
+×
+
+Best time to visit Bolivia
+
+
+
+
+May to October (winter) is generally considered to be the best time to visit Bolivia, as days are usually dry and clear. Summer (November to April) is the rainy season, and during this time it can get hot and humid. The peak tourist season runs from late June to early September. This season holds the best weather for travel, but is Bolivia's main fiesta season and holiday period, so some disruptions can be expected at times.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+One of only two landlocked nations on the South American continent, Bolivia is a mixture of highland plains, lush valleys, steep canyons and tropical forests. Bordering
+Peru
+and
+Chile
+in the west, Bolivia extends across the Andes ranges, cradling its capital city (La Paz) within the high plateau of the Altiplano. Over 40% of Bolivians live in this mountainous area, a landscape of volcanic flats and craggy peaks. Further west are two of Bolivia’s most contrasting features. To the southwest lies the Atacama Desert, one of the driest places on earth, while the far northwest encompasses Lake Titicaca, the world’s highest lake.
+
+
+
+
+
+
+
+
+Top 10 Bizarre Bits of Bolivia
+
+
+
+
+
+
+×
+
+Top 10 Bizarre Bits of Bolivia
+
+
+
+
+1. Giant Frogs
+
+No, Lake Titicaca’s high altitude isn’t causing you to hallucinate – you may have just caught a glimpse of the world’s largest aquatic frog. Measuring in at up to 50 centimetres long (the size of an adult foot!), the extremely rare Titicaca Water Frog can weigh up to 3 kilograms.
+
+2. Lost City of Titicaca
+
+So you weren’t hallucinating when you thought you saw a giant frog, but surely there's nothing else hiding beneath Titicaca’s surface? Wrong again. In 1988, taking hints from a local legend, divers descended to Titicaca’s murky depths and discovered a real-life lost city. The temple complex, believed to be pre-Inca, is said to be over 1,500 years old.
+
+3. El Tio and the Potosi Mines
+
+A sombre experience at the best of times, the plight of the Potosi miners is one of Bolivia’s more tragic tales. In many ways emblematic of this are the ghastly effigies of El Tio, the guardian of the mines and the god of the underworld. Workers offer cigarettes and coca leaves in the hope that they will receive good fortune, paying their respects to this terrifying spirit on each descent into the darkness of the mines.
+
+4. Macho Valley
+
+Not known for their subtlety, Bolivians have named this valley ‘Macho’ for a reason. Meaning ‘male’ in Spanish, this collection of phallic shaped rock formations is a sight for sore eyes.
+
+5. Bolivian Bus-Train
+
+Looking for a cheaper way to travel from Sucre to Potosi? Look no further than the Bolivian bus-train, a transport innovation like no other. Faced with the dilemma of having a complete railway but no train, locals simply converted a bus, swapping its tires for tracks. The result? A scenic and thrilling way to ascend this 4,000 metre climb - all for the very fair price of $3.50!
+
+6. The ‘Death Road’
+
+If the Bolivian bus-train doesn’t get your blood pumping, the harrowing ‘Death Road’ may literally send you over the edge. Snaking its way across the Yungas toward the Amazon rainforest, this road is among the world's most dangerous. But try telling that to the locals, who insist on driving massive trucks and buses at brisk speeds along its narrow, twisting path – at least affording their terrified passengers the views of a lifetime.
+
+7. Women’s Wrestling
+
+Bolivia’s newest sporting phenomenon comes in the form of feisty 'cholitas' (women). These ladies compete in professional wrestling bouts around the country, much to delight of their adoring fans. Part circus, part sport, all female - these unique sportswomen are undoubtedly some of wrestling’s fiercest competitors.
+
+8. Witches’ Market
+
+Creepy masks and odd trinkets sold by astrologists and sorcerers - Bolivia’s famous Witches’ Market never fails to leave a lasting impression. See real-life witches selling potions, casting spells and stirring cauldrons - this madhouse market is full of wacky characters and strange souvenirs.
+
+9. Salt Hotel
+
+Apart from being one of Bolivia’s most famous attractions, the Salar de Uyuni salt plain offers one of the quirkiest accommodation options on the market. For 30 dollars a night, visitors to the world’s largest salt flat can stay in a hotel made entirely from salt. That’s right, salt floors, a salt roof, a salt bar and even a salt dining table. One things for sure, you won’t be asking anyone to “pass the salt” in this zany hotel.
+
+10. The Dinosaur Wall
+
+Discovered by Bolivian construction workers in 1994, Cal Orko (or the Dinosaur Wall) is a prehistoric oddity of epic proportions. Found on the banks of a cement quarry, this collection of over 5,000 tracks from 330 different species of dinosaurs is a rarity in the world of palaeontology. Over 68 million years old, it's thought that this quarry was previously a gigantic lake, its steep slopes once traversed by gravity-defying dinosaurs keen for a drink. Nowadays, this precious landmark is beginning to crumble - resulting in conservation efforts from the Bolivian government.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Whispering in the Giant's Ear
+
+William Powers
+
+The Pearl
+
+John Steinbeck
+
+Devil in the Mountain: A Search for the Origin of the Andes
+
+Simon Lamb
+
+American Visa
+
+Juan de Recacoechea
+
+1491
+
+Charles C. Mann
+
+
+
+
+
+
+
+
+Bolivia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Bolivia?
+
+
+
+
+
+
+
+
+
+BOLIVIA TOURIST VISA
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Not required
+Switzerland: Not required
+United Kingdom: Not required
+United States: Yes - in advance
+
+Please note: if you are required to apply for a visa to enter Bolivia, you will need the following to support it:
+
+a copy of the Intrepid voucher that you receive after purchasing your trip
+
+a copy of the Itinerary which you can obtain from the Trip Notes for your specific trip on our website.
+
+
+
+
+
+
+
+
+Is tipping customary in Bolivia?
+
+
+
+
+
+
+
+
+
+While tipping isn't mandatory in Bolivia, it's customary to add spare change or a small amount to restaurant bills. Although most restaurants and bars may already include a 10% service charge within the bill, feel free to add more if the service was good. Taxi drivers generally don't expect tips.
+
+
+
+
+
+
+
+What is the internet access like in Bolivia?
+
+
+
+
+
+
+
+
+
+Internet cafes can be found in Bolivia's large cities and towns frequented by tourists. Internet availability is less widespread in rural and remote areas, so be prepared to disconnect for a while when travelling out of the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Bolivia?
+
+
+
+
+
+
+
+
+
+You should be able to use your mobile phone in Bolivia's cities, but prepare for less coverage in remote or mountainous areas. Ensure you have global roaming enabled before leaving your home country.
+
+
+
+
+
+
+
+What are the toilets like in Bolivia?
+
+
+
+
+
+
+
+
+
+Bolivia has a mix of flushable toilets and squat toilets so expect both. It's a good idea to carry your own toilet paper and hand sanitiser, as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+City bus fare = 1.50 BOB
+Cup of coffee in a cafe = 10 BOB
+Bottle or can of beer = 10 BOB
+Simple lunch = 20-25 BOB
+Dinner in a restaurant = 80 BOB
+
+
+
+
+
+
+
+Can I drink the tap water in Bolivia?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Bolivia. For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water - ask your leader where filtered water can be found. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Bolivia?
+
+
+
+
+
+
+
+
+
+Credit cards can be used at most top-end hotels, restaurants, shops and other tourist establishments. Expect to pay cash when dealing with smaller vendors, family-run restaurants and market stalls.
+
+
+
+
+
+
+
+What is ATM access like in Bolivia?
+
+
+
+
+
+
+
+
+
+ATMs can be found in most of Bolivia's major cities and tourist areas. ATMs are far less common in rural areas and small villages so have enough cash to cover purchases when travelling away from the larger cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Bolivia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Bolivia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+22 Jan Plurinational State Day
+
+23 Jan Plurinational State Day Holiday
+
+27 Feb Carnival
+
+28 Feb Carnival
+
+14 Mar Good Friday
+
+1 May Bolivian Labor Day
+
+15 Jun Corpus Christi Day
+
+21 Jun Winter Solstice (Aymara New Year)
+
+6 Aug Bolivian Independence Day
+
+7 Aug Bolivian Independence Day Holiday
+
+2 Nov All Saints Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Bolivia go to:
+http://www.worldtravelguide.net/bolivia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Bolivia
+
+Be considerate of Bolivia’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

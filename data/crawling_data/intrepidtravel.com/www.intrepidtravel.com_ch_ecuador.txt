@@ -1,0 +1,5650 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+Ecuador
+
+
+
+Ecuador might be smaller than its heavyweight South American neighbours, but this audacious land stakes a legitimate claim as the continent's most complete package.
+
+
+Blessed with a bonanza of perfect beaches and the remarkable
+Galapagos Islands
+, Ecuador’s wealth of natural riches make it a one-stop shop for incredible real life experiences. Come and indulge in a scoopful of the Amazon rainforest, a generous helping of the Andes and a refreshing glass of colonial Quito - Ecuador makes for a scrumptious serving of South America’s best.
+
+
+Top Ecuador travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+5 Jan 2018
+
+Galapagos Adventure - Northern Islands (Daphne)
+
+
+
+Galapagos Adventure - Northern Islands (Daphne)
+Quito to Quito
+
+
+
+
+
+
+
+
+
+×
+
+Galapagos Adventure - Northern Islands (Daphne)
+
+
+
+
+
+
+
+
+
+7
+
+
+FR3,170
+
+
+FR2,339
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Ecuador to Peru Adventure
+
+
+
+Ecuador to Peru Adventure
+Quito to Lima
+
+
+
+
+
+
+
+
+
+×
+
+Ecuador to Peru Adventure
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,020
+
+
+FR918
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Highlights of Ecuador & Peru
+
+
+
+Highlights of Ecuador & Peru
+Quito to La Paz
+
+
+
+
+
+
+
+
+
+×
+
+Highlights of Ecuador & Peru
+
+
+
+
+
+
+
+
+
+28
+
+
+FR3,395
+
+
+FR3,056
+
+
+
+
+View Trip
+
+
+
+
+
+
+9 Jan 2018
+
+Ultimate Galapagos - Central Islands (Daphne)
+
+
+
+Ultimate Galapagos - Central Islands (Daphne)
+Quito to Quito
+
+
+
+
+
+
+
+
+
+×
+
+Ultimate Galapagos - Central Islands (Daphne)
+
+
+
+
+
+
+
+
+
+10
+
+
+FR4,960
+
+
+FR3,592
+
+
+
+
+View Trip
+
+
+
+
+
+
+10 Jan 2018
+
+Pure Galapagos (Daphne)
+
+
+
+Pure Galapagos (Daphne)
+Isla Baltra to Isla Baltra
+
+
+
+
+
+
+
+
+
+×
+
+Pure Galapagos (Daphne)
+
+
+
+
+
+
+
+
+
+8
+
+
+FR4,035
+
+
+FR2,944
+
+
+
+
+View Trip
+
+
+
+
+
+
+16 Jan 2018
+
+Galapagos at a Glance - Southern Islands - (Daphne)
+
+
+
+Galapagos at a Glance - Southern Islands - (Daphne)
+Quito to Quito
+
+
+
+
+
+
+
+
+
+×
+
+Galapagos at a Glance - Southern Islands - (Daphne)
+
+
+
+
+
+
+
+
+
+6
+
+
+FR2,585
+
+
+FR1,929
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Ecuador trips
+
+
+
+
+
+
+
+
+
+Ultimate Galapagos - Central Islands (Daphne)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR4,564
+
+
+
+
+
+Come face-to-face with the extraordinary central islands of the Galapagos. Snorkel with...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active Galapagos
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,445
+
+
+
+
+
+Amazing wildlife, both on land and underwater, is the drawcard of the remote Galapagos...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Adventure - Northern Islands (Daphne)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,940
+
+
+
+
+
+Discover the natural treasures of the Galapagos Islands. Snorkel with sea lions in the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador on a shoestring
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR594
+
+
+
+
+
+Set off on an adventure through stunning Ecuador. Travel through the Amazon Jungle,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Absolute Galapagos (Daphne)
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR7,765
+
+
+
+
+
+Travel from Ecuador’s striking capital to the Galapagos Islands. Explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Venture
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,104
+
+
+
+
+
+From Quito, discover the unique flora and fauna of the Galapagos, visiting the islands...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Island Hopping
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,024
+
+
+
+
+
+Travel to the Galapagos Islands from Quito, Ecuador. Tour the Galapagos' highlights...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Peru Adventure
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR6,069
+
+
+
+
+
+Visit South America and travel to the Galapagos Islands, Peru, Ecuador and Bolivia....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos on a shoestring
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,094
+
+
+
+
+
+Experience the Galapagos without breaking the bank. Visit the islands of Isabela, Santa...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Inca Trail Adventure
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,059
+
+
+
+
+
+Travel to Ecuador and the wildlife-rich shores of the Galapagos Islands. Then visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos at a Glance - Southern Islands - (Daphne)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR2,395
+
+
+
+
+
+Travel to the Galapagos Islands and see the unique Scalesia cloud forest, myriad...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Quito via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,470
+
+
+
+
+
+Visit South America and travel through Brazil, Argentina, Chile, Bolivia, Peru and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Quito to Rio via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,270
+
+
+
+
+
+Visit South America and travel through Ecuador, Peru, Bolivia, Argentina, Chile and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador Amazon Wilderness - 5d (Sacha Lodge)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR1,830
+
+
+
+
+
+Venture into Ecuador's lush Amazon rainforest in search of monkeys, caimans, pumas,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Galapagos - (Daphne)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR4,595
+
+
+
+
+
+Travel from Ecuador’s striking capital to the Galapagos Islands. Explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Ecuador & Peru
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR2,650
+
+
+
+
+
+Experience the best of Ecuador and Peru: the Amazon Jungle, street food in Cusco,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Pure Galapagos (Daphne)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR3,674
+
+
+
+
+
+Come face-to-face with the extraordinary central islands of the Galapagos. Snorkel with...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador to Peru Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR867
+
+
+
+
+
+Explore Ecuador and Peru on this adventure through Quito, Banos, Cuenca and Lima.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore South America
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR5,245
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Ecuador & Peru
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,055
+
+
+
+
+
+Experience the best of Ecuador and Peru: the Amazon Jungle, street food in Cusco,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand South America
+
+
+
+
+
+
+
+
+
+58 Days
+
+
+From
+FR7,105
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador: Raft, Hike & Bike
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,430
+
+
+
+
+
+Raft a tributary of the Amazon River, hike magnificent Andean countryside and mountain...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing South America
+
+
+
+
+
+
+
+
+
+47 Days
+
+
+From
+FR6,125
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cotopaxi & Quilotoa
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR485
+
+
+
+
+
+Experience this Ecuadorian adventure from Quito to the volcanoes of Cotopaxi and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate South America
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,380
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Santa Cruz and around
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,104
+
+
+
+
+
+Travel from Quito out to the gorgeous Galapagos Islands. Sail pristine waters, be awed...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador Amazon Wilderness- 4d (Sacha Lodge)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR1,560
+
+
+
+
+
+Journey deep into the Amazon and spend three days in the jungle searching for wildlife,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador Amazon Jungle - 4 days
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR930
+
+
+
+
+
+Embark on an unforgettable journey into Ecuador's Amazon Jungle. Search for local...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Quito
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR1,898
+
+
+
+
+
+Travel Overland from Lima, Peru, to Quito, Ecuador. Hit the beach in Punta Sal, get...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Quito to Cartagena
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,778
+
+
+
+
+
+Take an exciting overland trip through Colombia. Travel from Quito to Cartagena,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cartagena to Quito
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,678
+
+
+
+
+
+Take an exciting overland trip through Colombia. Travel from Cartagena to Quito...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Peru & Galapagos
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR5,124
+
+
+
+
+
+Visit South America and travel to Peru. Visit Lima, Cuzco and Lake Titicaca, tour the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Galapagos - Southern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR5,495
+
+
+
+
+
+Travel to the Galapagos Islands and embark on a sailing adventure around southern...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Galapagos - Central Eastern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR5,495
+
+
+
+
+
+Travel to the Galapagos Islands and sail around the central eastern islands, witnessing...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Galapagos - South Eastern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR5,495
+
+
+
+
+
+Sail through the clear waters, meet the unique animals and soak in the beautiful and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Galapagos - Central Southern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR5,495
+
+
+
+
+
+Sail the aquamarine waters of the Galapagos’ central southern islands taking in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Explorer - Southern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR3,595
+
+
+
+
+
+Take to cerulean waters to explore the beautiful Galapagos Islands. See huge...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Galapagos - (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR9,950
+
+
+
+
+
+Take an in depth cruise through the beautiful Galapagos Islands, exploring islas...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Encounter - Southern Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR2,955
+
+
+
+
+
+Explore the Islands of the Galapagos on this startling adventure that highlights the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Encounter - Central Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR2,955
+
+
+
+
+
+Explore the central islands of the Galapagos on this startling adventure that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Explorer - Central Islands (Grand Queen Beatriz)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR3,595
+
+
+
+
+
+Take to cerulean waters to explore the beautiful Galapagos Islands. See huge...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Ecuador tour reviews
+
+
+Our Ecuador trips score an average of
+4.75 out of 5
+based on 595 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Ecuador on a shoestring,
+November 2017
+
+cody mctavish
+
+Just keep an open mind about everything and you will enjoy the whole trip.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Ecuador on a shoestring,
+November 2017
+
+Alex Geale
+
+Intrepid simplified travelling to a very foreign country for us so we felt safe at all times and were aware of all the local attractions. Transfers were reliable and our guide was knowledgeable and approachable. We had a blast!
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Ecuador trip reviews
+
+Our Ecuador trips score an average of
+4.75 out of 5
+based on 595 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Ecuador
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 07, 2017
+
+
+
+An etiquette guide to the Galapagos Islands
+
+
+
+
+
+
+About 97% of the Galapagos Islands are protected by national park, and within this...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 01, 2017
+
+
+
+The Galapagos in photos: What an Intrepid trip...
+
+
+
+
+
+
+Coming right up: giant tortoises and adorable seals, new friends and magical...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+The top destinations for travel in December
+
+
+
+
+
+
+Whether you’re in the mood for mulled wine and Christmas markets or in need of a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 12, 2017
+
+
+
+The essential Galapagos Islands packing guide
+
+
+
+
+
+
+To make the most of your time in this amazing archipelago, you need to be prepared.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+Where to find the best street art in South America
+
+
+
+
+
+
+Artists from across the world look to South America as the perfect canvas for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 22, 2017
+
+
+
+Ecuador: So much more than just the Galapagos
+
+
+
+
+
+
+Ecuador, small as it is, is actually packed with unique things to do and see. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 17, 2017
+
+
+
+Quito, Ecuador: South America’s lesser-known...
+
+
+
+
+
+
+For most travelers, Quito is simply a stopover on their way to the Galapagos. But...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 17, 2016
+
+
+
+What’s hot in South America? We ask the world’s...
+
+
+
+
+
+
+We asked a few of our favourite bloggers to give us their must-sees in South...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 04, 2016
+
+
+
+An Amazon adventure at Shiripuno Lodge
+
+
+
+
+
+
+There's only one place you need to stay to experience the real Amazon. This is it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+5 times technology ruined my trip
+
+
+
+
+
+
+Technology has changed the way we live our day-to-day lives and (for worse or for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 04, 2016
+
+
+
+We sent an internet addict on a trip without...
+
+
+
+
+
+
+No phone. No internet. No cheating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 06, 2015
+
+
+
+The best (and worst) times to visit the...
+
+
+
+
+
+
+When to go and what to see in the Galapagos Islands.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2015
+
+
+
+Meet Oswaldo, your Intrepid guide in the Galapagos
+
+
+
+
+
+
+"It's possible for the Galapagos Islands to be a model for the rest of the world,"...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2015
+
+
+
+20 photos that prove how incredible the...
+
+
+
+
+
+
+The Galapagos Islands: the most photogenic place on earth?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2015
+
+
+
+This is why you need to get to the Galapagos...
+
+
+
+
+
+
+The Galapagos video to end all Galapagos videos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2015
+
+
+
+Want to know what a Galapagos cruise is really...
+
+
+
+
+
+
+To answer that question, we quizzed some real-life Intrepid Travellers on a real...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 09, 2015
+
+
+
+One week in the Galapagos islands
+
+
+
+
+
+
+‘It feels like I’m not supposed to be here’: my first thought as the Galapagos...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 01, 2015
+
+
+
+The Galapagos Bowl: Ecuador’s star football...
+
+
+
+
+
+
+The USA isn't the only one celebrating football's day of days. The animals of the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 19, 2014
+
+
+
+5 of our favourite things about Ecuador
+
+
+
+
+
+
+Sure, Ecuador doesn’t have the famous ruins of Peru or the culinary draw of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 05, 2014
+
+
+
+The Galapagos Islands: where wildlife abounds
+
+
+
+
+
+
+Over 1000km west of the mainland of Ecuador you'll find something special and it'...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Islands
+
+
+
+
+See huge Galapagos tortoises in the wild
+
+Learn more about our trips in the Galapagos Islands
+
+
+
+
+
+
+Galapagos Venture, 9 days
+
+
+
+
+
+
+
+
+Active Galapagos, 10 days
+
+
+
+
+
+
+
+
+Galapagos on a shoestring, 7 days
+
+
+
+
+
+
+
+
+
+
+
+Quito
+
+
+
+
+Wander Quito’s history-infused colonial streets
+
+
+
+
+
+
+Quito to Cartagena, 19 days
+
+
+
+
+
+
+
+
+Rio to Quito via Ushuaia, 112 days
+
+
+
+
+
+
+
+
+
+
+
+Cuenca
+
+
+
+
+Chill out in the parks and plazas of Cuenca
+
+
+
+
+
+
+Lima to Quito, 20 days
+
+
+
+
+
+
+
+
+Rio to Quito via Ushuaia, 112 days
+
+
+
+
+
+
+
+
+
+
+
+Santa Fe Bay
+
+
+
+
+Swim through the rich underwater worlds of Santa Fe Bay
+
+
+
+
+
+
+Galapagos Santa Cruz and around, 7 days
+
+
+
+
+
+
+
+
+Galapagos Adventure - Northern Islands (Daphne), 7 days
+
+
+
+
+
+
+
+
+
+
+
+Amazon Rainforest
+
+
+
+
+Spot exotic wildlife in the Amazon Rainforest
+
+
+
+
+
+
+Amazing South America, 47 days
+
+
+
+
+
+
+
+
+Ultimate South America, 63 days
+
+
+
+
+
+
+
+
+
+
+
+Otavalo
+
+
+
+
+Shop for hand-crafted treasures in the markets of Ecuador
+
+
+
+
+
+
+Ecuador on a shoestring, 8 days
+
+
+
+
+
+
+
+
+Best of Ecuador & Peru, 28 days
+
+
+
+
+
+
+
+
+Quito to Cartagena, 19 days
+
+
+
+
+
+
+
+
+
+
+
+
+Ecuador holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Quito (population 1.5 million)
+
+Population:
+
+14.7 million
+
+Language:
+
+Spanish
+
+Currency:
+
+USD
+
+Time zone:
+
+(GMT-05:00) Bogota, Lima, Quito, Rio Branco
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code:
+
++593
+
+
+
+
+
+
+
+
+
+Best time to visit Ecuador
+
+
+
+
+
+
+×
+
+Best time to visit Ecuador
+
+
+
+
+There are two seasons in Ecuador, wet and dry, and they vary depending on the region you are travelling in. For the most part, Ecuador is a sunny, warm country, and even the wet season will bring its fair share of sunny days. The best time to visit is largely dependent on your itinerary, although it should be noted that the Christmas period (December - January) is often the busiest, so be prepared for large crowds. In the Amazon, August and December through March are the driest seasons and April to June are the wettest. In the highlands, the dry season is from June to September as well as December. The Galapagos and coastal regions are mainly influenced by ocean currents. The hot and rainy season runs from January to April. It doesn't rain much, but you can expect some downpours at times. From May to December it can be a bit cooler, with more overcast days. High seasons in the Galapagos (June through August, December and January) are generally determined by holiday trends and not by weather conditions.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Ecuador is one of the smallest countries in
+South America
+, tucked away on the continent’s Pacific coastline. Bordering
+Colombia
+in the north and
+Peru
+in the south, Ecuador contains its own segments of some of South America’s most famous landmarks, such as the Amazon rainforest and the Andes. Adding to Ecuador’s list of natural wonders are the incredible Galapagos Islands, which lie about 1000 km west of the mainland. These volcanic islands are famed for their association with botanist Charles Darwin, who spent considerable time studying their incredible biodiversity. Like many other South American countries, Ecuador’s coastline boasts a large number of pristine beaches. Mantra, Crucita, Canoa and Montanita are among the famous spots, however there are many other national parks and small coastal towns that offer their own variations of beachside bliss. Ecuador’s capital, Quito, is located in the north of the country, and is renowned for its colonial architecture. To the west of the city is Pichincha, one of Ecuador’s many spectacular volcanoes.
+
+
+
+
+
+
+
+
+Top 5 Natural Marvels of Ecuador
+
+
+
+
+
+
+×
+
+Top 5 Natural Marvels of Ecuador
+
+
+
+
+1. Volcanoes
+
+Ecuador is a climbing and mountaineering paradise, with some of the grandest (and most active) volcanoes in the world. Just south of Quito lies the ‘Avenue of Volcanos’, which includes the country's highest peak, and no less than nine awe-inspiring volcanos.
+
+2. Beaches
+
+Ecuador is a beach lover’s haven, with a well-earned reputation for supplying some of the most gorgeous spots on South America’s Pacific coast. While there are no shortage of backpacker havens and crowded Ecuadorian holiday spots, those seeking a little more privacy should check out the beautiful Manta and the gorgeous Machalilla National Park.
+
+3. The Andes
+
+Hard to ignore, the Andes form Ecuador’s rocky spine and are home to breathtaking tropical valleys, snow-capped peaks and fresh mountain lakes. A welcome escape from Ecuador’s hot summers, the Andes offer an unforgettable array of high-altitude adventures.
+
+4. The Amazon
+
+Rich in colour and natural diversity, Ecuador is blessed with a sizeable portion of the famous Amazon rainforest. Lying to the west of the Andes, this incredible jungle is home to some of the world’s most fascinating and unique species, as well as being an ideal place to enjoy activities such as canoeing, trekking and bird watching.
+
+5. Galapagos Islands
+
+Journey to a lost world and discover a wildlife sanctuary that continues to inspire visitors and scientists alike. Relatively untouched by human life, the Galapagos is an ecological Disneyland, the jewel in Ecuador’s already glistening crown.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Ecuador Effect
+
+David E Stuart
+
+Galapagos at the Crossroads
+
+Carol Ann Bassett
+
+The Queen of Water
+
+Laura Resau and Maria Virginia Farinango
+
+Living Poor: A Peace Corps Chronicle
+
+Moritz Thomsen
+
+The Panama Hat Trail
+
+Tom Miller
+
+Darwin in Galapagos: Footsteps to a New World
+
+K Thalia Grant and Gregory C Estes
+
+Galapagos
+
+Kurt Vonnegut
+
+
+
+
+
+
+
+
+Ecuador travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Ecuador?
+
+
+
+
+
+
+
+
+
+ECUADOR TOURIST VISA
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Not required
+Switzerland: Not required
+United Kingdom: Not required
+United States: Not required
+
+Citizens of the Republic of China, Afghanistan, Bangladesh, Eritrea, Ethiopia, Kenya, Nepal, Nigeria, Pakistan and Somalia, require an appropriate visa to enter Ecuador.
+
+
+
+
+
+
+
+Is tipping customary in Ecuador?
+
+
+
+
+
+
+
+
+
+Tipping isn't mandatory in Ecuador, but feel free to round up the bill or leave spare change at restaurants and cafes. Some restaurants may already include a 10% service charge, in which case, an extra tip isn't required.
+
+
+
+
+
+
+
+What is the internet access like in Ecuador?
+
+
+
+
+
+
+
+
+
+Ecuador's cities and tourist centres have internet access available in internet cafes and hotels. Less internet access is available in rural and remote areas, so prepare to disconnect when leaving the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Ecuador?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in Ecuador's cities and metropolitan areas, although expect limited coverage in remote, mountainous and isolated areas. Ensure you have global roaming activated with your carrier if you wish to use your phone while in Ecuador.
+
+
+
+
+
+
+
+What are the toilets like in Ecuador?
+
+
+
+
+
+
+
+
+
+Ecuador's toilets are a mixture of flushable toilets and squat toilets, so be prepared to encounter both. Carry your own supply of toilet paper and soap, as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Short bus ride = US$0.20
+Juice = US$1
+Street food snack = US$1.50
+Simple lunch = US$3-5
+Sit down dinner at a cafe or restaurant = US$10
+
+
+
+
+
+
+
+Can I drink the water in Ecuador?
+
+
+
+
+
+
+
+
+
+Travellers should avoid drinking tap water in Ecuador. For environmental reasons, try to avoid bottled water. Ask your leader where filtered water can be found as some hotels provide this. Remember to peel fruit and vegetables before eating and avoid ice in drinks.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Ecuador?
+
+
+
+
+
+
+
+
+
+Major credit cards are accepted by most large shops, hotels and restaurants, although smaller vendors and market stalls often only accept cash. Be sure to carry multiple methods of payment as credit cards aren't always an option everywhere in Ecuador.
+
+
+
+
+
+
+
+What is ATM access like in Ecuador?
+
+
+
+
+
+
+
+
+
+ATMs are easily found in the large cities and airports, although are less common in rural and remote areas. When travelling out of the city, be prepared by having enough cash, as ATMs aren't always available.
+
+
+
+
+
+
+
+Do I need travel insurance before travelling in Ecuador?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Ecuador?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+27 Feb Carnival
+
+28 Feb Carnival
+
+14 Mar Good Friday
+
+1 May International Worker's Day
+
+26 May The Battle of Pichincha
+
+10 Aug National Day
+
+9 Oct Independence of Guayaquil
+
+2 Nov All Souls' Day
+
+3 Nov Independence of Cuenca
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Ecuador go to:
+http://www.worldtravelguide.net/ecuador/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Ecuador
+
+Be considerate of Ecuador’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+If travelling in the Galapagos, respect the biodiversity of this area by not removing anything from the island - except rubbish!
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+
+
+
+
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

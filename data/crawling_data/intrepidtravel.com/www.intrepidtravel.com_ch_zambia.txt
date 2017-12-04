@@ -1,0 +1,3775 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zambia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zambia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Zambia
+
+
+
+Zambia is home to emerald green national parks with abundant crocodile, elephant and hippo populations.
+
+
+While the village communities holding centuries of traditional wisdom will stop you in your tracks, it's Mother Nature's 'Smoke that Thunders' (known as Victoria Falls to most) that steals the show as Zambia's standout attraction. Adrenaline-charged sports, markets full of tribal mementos and thrilling safari adventures play worthy supporting roles to Victoria Falls show-stopping spectacle.
+
+
+Our Zambia trips
+
+
+
+
+
+
+
+
+
+Africa Encompassed Northbound
+
+
+
+
+
+
+
+
+
+64 Days
+
+
+From
+FR7,920
+
+
+
+
+
+Jump aboard this epic tour from Cape Town to Nairobi. From safaris in Tanzania and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Vic Falls
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR3,790
+
+
+
+
+
+Explore the wilds of Africa on this action-packed adventure from the busy streets of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Cape Town
+
+
+
+
+
+
+
+
+
+48 Days
+
+
+From
+FR6,340
+
+
+
+
+
+Explore Africa as you travel from Kenya to Cape Town through Tanzania, Zanzibar, Malawi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Vic Falls
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,595
+
+
+
+
+
+Explore the best of south and east Africa with this adventure from the spicy beaches of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,770
+
+
+
+
+
+See Africa encompassed on a tour through Kenya, Uganda, Rwanda, Tanzania, Malawi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kenya
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,280
+
+
+
+
+
+Experience the exhilarating wild of Africa as you travel from Victoria Falls through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Zanzibar
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,595
+
+
+
+
+
+Travel from thundering Victoria Falls to the fragrant spice plantations of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Zanzibar
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR3,870
+
+
+
+
+
+See Africa on this incredible overland adventure from South Africa to Tanzania. Soak up...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Cape Town
+
+
+
+
+
+
+
+
+
+39 Days
+
+
+From
+FR4,390
+
+
+
+
+
+Explore Africa on this wildlife-rich adventure from Tanzania to South Africa. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Kenya
+
+
+
+
+
+
+
+
+
+49 Days
+
+
+From
+FR6,285
+
+
+
+
+
+Explore Africa as you wind your way up from South Africa, through Namibia, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas to Vic Falls
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR6,400
+
+
+
+
+
+Take an epic East African adventure from Kenya to Zimbabwe. Safari in the Serengeti, go...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Stone Town to Vic Falls
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Embrace the sights, sounds and culture of Africa on this eye-opening adventure from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Gorillas
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,025
+
+
+
+
+
+This East Africa adventure tour travels from Zimbabwe to Kenya. Visit Zanzibar beaches,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Zanzibar
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR2,580
+
+
+
+
+
+Travel through Botswana to the thundering Victoria Falls and on to to the fragrant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Stone Town
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Spot a host wildlife at the Luangwa River, gape at the mighty Victoria Falls, explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Gorillas
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR7,270
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Kenya
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR4,800
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on Zambia
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 03, 2017
+
+
+
+Why there’s never been a better time to visit...
+
+
+
+
+
+
+In our humble opinion, there's never been a better time to visit the Southern...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 15, 2016
+
+
+
+South Luangwa National Park: Africa’s best kept...
+
+
+
+
+
+
+Wildebeest aren't the only crowds on the Serengeti. If you're after a safari...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 15, 2016
+
+
+
+South Luangwa National Park: Africa’s best kept...
+
+
+
+
+
+
+Wildebeest aren't the only crowds on the Serengeti. If you're after a safari with...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zambia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zambezi River
+
+
+
+
+Canoe down the gentle Lower Zambezi River
+
+
+
+
+
+
+Cape Town to Zanzibar, 40 days
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound, 63 days
+
+
+
+
+
+
+
+
+Zanzibar to Vic Falls, 18 days
+
+
+
+
+
+
+
+
+
+
+
+Victoria Falls
+
+
+
+
+Be awed by the power of spectacular Victoria Falls
+
+
+
+
+
+
+Kenya to Vic Falls, 27 days
+
+
+
+
+
+
+
+
+Vic Falls to Zanzibar, 19 days
+
+
+
+
+
+
+
+
+Kenya to Cape Town, 48 days
+
+
+
+
+
+
+
+
+
+
+
+
+Zambia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Lusaka (population 1.3 million)
+
+Population:
+
+13.4 million
+
+Language:
+
+English, Bemba
+
+Currency:
+
+ZMK
+
+Time zone:
+
+(GMT+02:00) Harare, Pretoria
+
+Electricity:
+
+Type C (European 2-pin) Type D (Old British 3-pin) Type G (Irish/British 3-pin)
+
+Dialing code:
+
++260
+
+
+
+
+
+
+
+
+
+Best time to visit Zambia
+
+
+
+
+
+
+×
+
+Best time to visit Zambia
+
+
+
+
+August, September and October are some of the best months to spot wildlife, though the days heat up towards the end of this period, especially in the national parks. For cooler weather and greener landscapes, May to August is the time to visit as the weather is cooler but still dry. Wet season generally runs from November to April. At this time many of the national parks are closed and the animals are harder to spot.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Landlocked Zambia shares borders with Angola, Malawi, Mozambique, Namibia,
+Tanzania
+,
+Botswana
+,
+Zimbabwe
+and the Democratic Republic of Congo. While Zambia is one of the most urbanised countries in
+Africa
+, there are still areas of natural beauty to enjoy, with woodlands, savanna, grassland and forested national parks providing a home to mammals, birds, amphibians, reptiles and insects. As the source of the mighty Zambezi River (which flows through five other countries), Zambia can lay claim to one of the world's longest rivers. World Heritage-listed Victoria Falls (which is shared with neighbouring Zimbabwe) is an iconic feature of the Zambezi, inspiring awe and wonder for centuries.
+
+
+
+
+
+
+
+
+Top 5 Adventure Activities in Zambia
+
+
+
+
+
+
+×
+
+Top 5 Adventure Activities in Zambia
+
+
+
+
+Top 5 Adventure Activities in Zambia
+
+1. Canoeing
+
+Going on a canoe safari is a must-do adventure when travelling in Zambia. Take advantage of the Zambezi's many channels and estuaries and glide along, spotting animals, admiring the scenery and stopping for breaks along the way.
+
+2. Bungee Jumping
+
+Here's an adventure option for travellers with nerves of steel. Bungee jumping is a popular adrenaline sport for tourists visiting Zambia, with the Zambezi providing the perfect 'landing' (or dip) for brave jumpers. While not suitable for everyone - fit, healthy travellers with a lust for pushing their limits will love it.
+
+3. Gorge Swinging
+
+With plenty of sheer cliff walls and deep gorges, Zambia is the perfect place to try gorge swinging. Considered a little less intense than bungee jumping, this is a great way to have a memorable time while avoiding the deep panic and fear often induced by bungee jumping.
+
+4. White Water Rafting
+
+The powerful Zambezi provides low and high rapids suitable for experienced and novice rafters. Bring your energy and fitness, as this adventurous option isn't for passengers - you'll need to paddle hard and hold on tight at times.
+
+5. Scenic Flying
+
+Seeing Victoria Falls from a helicopter or micro aircraft may break the budget - but to experience the wonder and majesty of one of the Seven Wonders of the World from the air is surely worth the investment. This may not be one for those with a fear of heights (or flying) but definitely a worthy experience for thrill seekers with a sense of adventure.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Bitterness
+
+Malama Katulwende
+
+A Cowrie of Hope
+
+Binwell Sinyangwe
+
+The Unheard: A Memoir of Deafness and Africa
+
+Josh Swiller
+
+Rare Breed
+
+Connie Hall
+
+The Smoke That Thunders
+
+Dominic Mulaisho
+
+
+
+
+
+
+
+
+Zambia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Zambia?
+
+
+
+
+
+
+
+
+
+ZAMBIA:
+
+Australia: Yes - visa on arrival
+Belgium: Yes - visa on arrival
+Canada: Yes - visa on arrival
+Germany: Yes - visa on arrival
+Ireland: NO VISA REQUIRED
+Netherlands: Yes - visa on arrival
+New Zealand: Yes - visa on arrival
+South Africa: NO VISA REQUIRED
+Switzerland: Yes - visa on arrival
+United Kingdom: Yes - visa on arrival
+USA: Yes - visa on arrival
+
+Zambian visas are required by most nationalities, including from the EU, US and Australia. All nationalities should check with their nearest Zambian Embassy for more information. For most nationalities, Zambian visas are available at the point of entry. If you plan to purchase your visa on arrival you will need US$ cash.
+
+Please note: As of January 2016, the KAZA Visa for Zimbabwe and Zambia will be unavailable to purchase. Singular visas for Zambia remain available on arrival at point of entries.
+
+
+
+
+
+
+
+Is tipping customary in Zambia?
+
+
+
+
+
+
+
+
+
+Leaving a small amount (US$0.50-1) for hotel and restaurant staff and other service workers will help to supplement the low wages most people receive in Zambia.
+
+
+
+
+
+
+
+What is the internet access like in Zambia?
+
+
+
+
+
+
+
+
+
+Internet cafes can be found in Zambia's larger cities, however smaller towns and rural areas will have little to no access to the internet.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Zambia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in Zambia's cities and urban centres but less so in rural and remote areas. Ensure global roaming is activated before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Zambia?
+
+
+
+
+
+
+
+
+
+Visitors can expect to encounter a wide range of toilets while in Zambia. Western-style flushable toilets are available at many high-end hotels, bars, airports and tourist attractions while squat toilets are more common in rural areas and places frequented by locals. Be prepared by carrying your own toilet paper, soap or hand sanitiser, as these may not be provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Can of soft drink = 2,000 ZMK
+Street food snack or light meal = 1,000-5,000 ZMK
+Bottle of beer = 4500-7500 ZMK
+Lunch in a western-style café = 40,000 ZMK
+
+
+
+
+
+
+
+Can I drink the water in Zambia?
+
+
+
+
+
+
+
+
+
+Tap water isn't considered safe for tourists to drink. For environmental reasons, try to avoid buying bottled water. Ask your leader and accommodation provider for local advice on where drinking water can be accessed. Also, avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Zambia?
+
+
+
+
+
+
+
+
+
+Credit cards are accepted by some large hotels and tourist-driven establishments but usually not by smaller places like markets, shops and cafes. Ensure you have other modes of payment when travelling in Zambia.
+
+
+
+
+
+
+
+What is ATM access like in Zambia?
+
+
+
+
+
+
+
+
+
+ATMs can be found in Zambia’s major cities but are less commonly found in rural areas.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Zambia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Zambia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+8 Mar International Women's Day
+
+12 Mar Youth Day
+
+13 Mar Youth Day Holiday
+
+14 Apr Good Friday
+
+15 Apr Holy Saturday
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+25 May African Freedom Day
+
+3 Jul Heroes' Day
+
+4 Jul Unity Day
+
+7 Aug Farmers' Day
+
+18 Oct National Day of Prayer
+
+24 Oct Independence Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Zambia go to:
+http://www.worldtravelguide.net/zambia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Zambia
+
+Be considerate of Zambia’s customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

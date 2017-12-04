@@ -1,0 +1,3579 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Romania Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Romania tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Romania
+
+
+
+A place of mythic legends and dark tales, modern-day Romania impresses with its fine collection of ancient monasteries, age-old churches and character-filled castles.
+
+
+But it's the unexpected delights that also shine bright. Majestic mountains, forests made for hiking, a sophisticated capital brimming with architectural beauty and chic coastal resorts ensure Romania has plenty of aces up its sleeve.
+
+
+Our Romania trips
+
+
+
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,800
+
+
+
+
+
+Visit wineries, monasteries and Soviet breakaway republics in Moldova, and explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest to Bucharest
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,495
+
+
+
+
+
+Enjoy a fascinating tour of Eastern Europe through Hungary and Romania. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Europe Explorer
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR2,530
+
+
+
+
+
+Travel from beautiful Budapest to ancient Sofia. Venture through the baroque town of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Europe in Depth
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,640
+
+
+
+
+
+Enjoy a fascinating tour of Eastern Europe through Hungary Romania, Moldova and Ukraine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Journey through Central Europe and Romania
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR3,470
+
+
+
+
+
+Enjoy a fascinating tour of Central and Eastern Europe through Austria, Slovakia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Halloween in Transylvania
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,330
+
+
+
+
+
+From Bucharest to Sibiu, Sighisoara to Brasov get beneath the history, mythology and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Europe Express
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,095
+
+
+
+
+
+Enjoy a thrilling tour of Eastern Europe from Romania to Bulgaria. From Bucharest, head...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Romania tour reviews
+
+
+Our Romania trips score an average of
+4.79 out of 5
+based on 42 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Halloween in Transylvania,
+October 2017
+
+serafin david
+
+Finding Dracula. This is the trip to take in search of Dracula from modern city of Bucharest to riding horsecarts in Biertan to climbing towers in Sibiu and Sighisoara and exploring the insides of Bran Castle.
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Halloween in Transylvania,
+October 2017
+
+Arpana Kapoor
+
+The trip is a snap shot of Romania with a dash of Halloween fun! Great trip
+
+Review submitted 10 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Romania trip reviews
+
+Our Romania trips score an average of
+4.79 out of 5
+based on 42 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Romania
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 27, 2017
+
+
+
+Trip or treat? Our spookiest adventures from...
+
+
+
+
+
+
+With Halloween fast approaching, things are getting eerie at Intrepid. Here are...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 31, 2016
+
+
+
+The truth about travelling in Transylvania
+
+
+
+
+
+
+Contrary to popular belief, Transylvania actually does exist, but it’s nothing...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 09, 2016
+
+
+
+The truth about travelling in Transylvania
+
+
+
+
+
+
+Contrary to popular belief, Transylvania actually does exist, but it’s nothing li...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+Introducing our brand new Expedition trips for...
+
+
+
+
+
+
+After months of planning, arguing, drinking and pondering, we've come up with the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2016
+
+
+
+We’re launching a brand new expedition trip to...
+
+
+
+
+
+
+For the first time, we're stepping back into the soviet era on a special trip...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2015
+
+
+
+East meets best: seven things you didn’t know...
+
+
+
+
+
+
+For those that think culture, invention and beauty end as soon as you enter a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Romania travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maramures
+
+
+
+
+Be immersed in Romanian folklore and tradition in historic Maramures
+
+
+
+
+
+
+Budapest to Bucharest, 10 days
+
+
+
+
+
+
+
+
+Eastern Europe Explorer, 18 days
+
+
+
+
+
+
+
+
+
+
+
+Brasov
+
+
+
+
+Explore the ornate churches and merchants’ houses of Brasov, a 13th-century Saxon city
+
+
+
+
+
+
+Budapest to Bucharest, 10 days
+
+
+
+
+
+
+
+
+Eastern Europe Express, 9 days
+
+
+
+
+
+
+
+
+Eastern Europe Explorer, 18 days
+
+
+
+
+
+
+
+
+
+
+
+Bucharest
+
+
+
+
+See Bucharest's elegant palaces and grand squares on a guided walking tour
+
+
+
+
+
+
+Budapest to Bucharest, 10 days
+
+
+
+
+
+
+
+
+Moldova, Ukraine & Romania Explorer, 13 days
+
+
+
+
+
+
+
+
+Eastern Europe Express, 9 days
+
+
+
+
+
+
+
+
+
+
+
+
+Romania holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Bucharest (population 2.4 million)
+
+Population:
+
+22.2 million
+
+Language:
+
+Romanian
+
+Currency:
+
+RON
+
+Time zone:
+
+(GMT+02:00) Athens, Bucharest, Istanbul
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++40
+
+
+
+
+
+
+
+
+
+Best time to visit Romania
+
+
+
+
+
+
+×
+
+Best time to visit Romania
+
+
+
+
+July and August are the busiest months for tourists all over Europe because the weather is at its warmest. May and June are some of the best months to visit Romania, followed by September and early October as the weather is usually fine and the sites are less crowded than during peak season. Spring and autumn are considered optimal times for birdwatching in the Danube Delta. Romania has harsh winters, with most tourists choosing to travel to the ski resorts. Snow lingers as late as mid-May, and the hiking season doesn't begin in earnest until June. The resorts along the Black Sea coast get busy in late June and stay packed until mid-August. It tends to rain more in March, April, October and November.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Bordered by
+Bulgaria
+,
+Serbia
+,
+Ukraine
+,
+Hungary
+and
+Moldova
+, Romania also has a stretch of coastline along the Black Sea. Much of Romania's terrain is mountainous with the Carpathian Mountains and Transylvanian Alps occupying parts of the central and northern regions. Home to a large number of glacial and karstic lakes, rivers and lagoons, Romania's splendid scenery will take many by surprise. Considerable amounts of arable land, orchards, vineyards, rural pastures and farmland are significant features of Romania's countryside.
+
+
+
+
+
+
+
+
+Top 5 Classic Castles of Romania
+
+
+
+
+
+
+×
+
+Top 5 Classic Castles of Romania
+
+
+
+
+1. Bran Castle
+
+Possibly Romania's best known castle, Transylvania's Bran Castle is linked to the legend of Dracula, although somewhat tenuously. Regardless, tourists flock in to see the heritage art, historic treasures and secret passages that all good castles are made of. A short trip from Brasov, this interesting attraction should be high on every traveller's list.
+
+2. Hunyad Castle
+
+Watch towers? Check. Drawbridge? Check. Dark History? Check. Hunyad Castle has all the classic hallmarks of a typical European castle. Once the prison of notorious Vlad the Impaler, Hunyad Castle's unique Gothic-Renaissance style is a result of extensive restoration after years of neglect.
+
+3. Fagaras Castle
+
+This ancient fortress and castle may lack the opulence of others, but is worthy of admiration for its enduring powers. Still surrounded by the moat which protected it for centuries, Fagaras Castle is a wonderful example of effective fortification - with enormous walls and towers built to withstand war and invasion.
+
+4. Peles Castle
+
+Nestled within the Carpathian Mountains, this gorgeous castle straight out of a fairytale is the perfect example of palatial bliss. With 30 bathrooms, an impressive collection of fine art, an extensive armour collection, manicured gardens, marble fireplaces and imposing statues, Peles Castle is one of Romania's grandest.
+
+5. Pelisor Castle
+
+Located within the Peles Castle complex, this castle is most famous for its decadent room made of gilded gold. Featuring Art Nouveau-style furnishings and art, plush interiors and an oak panelled lobby, Pelisor Castle certainly works its old-world charm.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Out of the Transylvania Night
+
+Aura Imbarus
+
+Leaving: Memories of Romania
+
+Mihai Grunfeld
+
+The Seamstress
+
+Sara Tuvel Bernstein
+
+The Land of Green Plums
+
+Herta Muller
+
+Under a Red Sky
+
+Haya Leah Molnar
+
+
+
+
+
+
+
+
+Romania travel FAQs
+
+
+
+
+
+Is tipping customary in Romania?
+
+
+
+
+
+
+
+
+
+Tipping is expected by service workers who generally earn low wages and rely on tips for their livelihood. A tip of around 10% is sufficient for taxi drivers, wait and hotel staff but feel free to tip more for good service.
+
+
+
+
+
+
+
+What is the internet access like in Romania?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access the internet at cyber cafes and hotels in Romania's cities. Regional and rural areas may have less internet access but, overall, Romania is well connected to the web.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Romania?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in most parts of Romania but mountainous and remote areas may have patchy coverage. Be sure to activate global roaming on your phone before leaving home if you wish to use your mobile.
+
+
+
+
+
+
+
+What are the toilets like in Romania?
+
+
+
+
+
+
+
+
+
+Most toilets in Romania are of the flushable variety. Public toilets are quite scarce in Romania and expect to pay a small fee when visiting one, as is standard practice in many other European countries.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Local transport ticket = 1.50-2 RON
+Glass of local beer = 2-5 RON
+Cup of coffee = 5-6 RON
+Bottle of imported beer = 5-8 RON
+Simple lunch in a cafe = 20 RON
+Dinner at a nice restaurant = 40-50 RON
+
+
+
+
+
+
+
+Can I drink the water in Romania?
+
+
+
+
+
+
+
+
+
+The tap water in Romania is considered safe to drink in most parts of the country unless otherwise marked. Ask your leader if you're unsure of the water quality of the region you're travelling in.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Romania?
+
+
+
+
+
+
+
+
+
+Major credit cards are usually accepted by large hotels, restaurants, boutiques and shops. Smaller retailers like family-run restaurants, market stalls and small shops may not accept credit cards so always carry enough cash to cover smaller purchases.
+
+
+
+
+
+
+
+What is ATM access like in Romania?
+
+
+
+
+
+
+
+
+
+Travellers will be able to find ATMs throughout most of Romania, especially in large cities and tourist areas.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Romania?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Romania?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year's Holiday
+
+24 Jan Union of the Romanian Principalities
+
+16 Apr Orthodox Easter Sunday
+
+17 Apr Orthodox Easter Monday
+
+1 May Labour Day
+
+4 Jun Orthodox Pentecost
+
+5 Jun Orthodox Whit Monday
+
+15 Aug Assumption Day
+
+30 Nov Feast of Saint Andrew
+
+1 Dec Great Union Day / National Day
+
+25 Dec Christmas Day
+
+26 Dec 2nd Day of Christmas
+
+Please note these dates are for 2017. For a current list of public holidays in Romania go to:
+http://www.worldtravelguide.net/romania/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Romania
+
+1. Be considerate of Romania’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+5. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+6. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+7. Please ask and receive permission before taking photos of people, including children.
+
+8. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

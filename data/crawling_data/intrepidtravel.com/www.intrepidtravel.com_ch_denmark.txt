@@ -1,0 +1,3420 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Denmark Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Denmark tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Denmark
+
+
+
+Leave it to the Danes to invent hygge. It’s basically the national emoticon: a feeling of community, closeness, camaraderie and contentment all wrapped up in one ergonomically designed package.
+
+
+Of course it’s easy to be content when your country consistently tops liveability rankings, produces addictive crime dramas and is full of green fields, forget-me-nots and windmills. Yep, Denmark just seems to work. Design is minimal, politics is open, pedestrians and cyclists rule the streets and locals walk around looking tall and unfairly attractive. Come for the old-world charm, stay for the new-world outlook.
+
+
+Our Denmark trips
+
+
+
+
+
+
+
+
+
+A Taste of Scandinavia
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,215
+
+
+
+
+
+Discover stylish Scandinavia and bohemian Germany on the ultimate urban adventure,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Scandinavia
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR6,240
+
+
+
+
+
+A 22-day tour through the best of Scandinavia, including Copenhagen, Oslo, Bergen,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Scandinavia & Baltic Circuit
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR8,625
+
+
+
+
+
+A truly original 36-day itinerary, with highlights including Copenhagen, Gothenburg,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Helsinki to Oslo
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,535
+
+
+
+
+
+A picturesque 22-day tour through the best of northern Europe, including Finland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Denmark tour reviews
+
+
+Our Denmark trips score an average of
+4.23 out of 5
+based on 26 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+A Taste of Scandinavia,
+August 2017
+
+Eva Korecki
+
+Scandinavia was great but we were not prepared for the physical difficulty while travelling on local trasport and staying in hotels with (very often) hard access to the room. We were expecting a lower standard of traveling and accommodation but it was still a bit of a nasty surprise in comparison  to our Asian trips.
+
+Review submitted 25 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+A Taste of Scandinavia,
+July 2017
+
+Isabella Ghinis
+
+The perfect trip if you want to explore a part of the world but don't know exactly where you would like to go.
+
+Review submitted 25 Sep 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Denmark trip reviews
+
+Our Denmark trips score an average of
+4.23 out of 5
+based on 26 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Denmark
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 27, 2017
+
+
+
+Copenhagen cool: How to fit in with the locals...
+
+
+
+
+
+
+Any savvy traveler will attest to the fact that integrating with the locals is the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 10, 2016
+
+
+
+Stockholm vs Copenhagen: Which should you visit?
+
+
+
+
+
+
+Are you a stylish nature lover who likes security and convenience, or a hipster...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 10, 2016
+
+
+
+Stockholm vs Copenhagen: Which is best for you?
+
+
+
+
+
+
+Are you a stylish nature lover who likes security and convenience, or a hipster c...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 22, 2016
+
+
+
+The hygge life: our perfect weekend in Copenhagen
+
+
+
+
+
+
+A weekend in Copenhagen is one of the best ways to get a taste of Nordic culture....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+How to budget travel in Scandinavia
+
+
+
+
+
+
+Scandinavia has a reputation for minimalism, everywhere except its prices. Time to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 07, 2016
+
+
+
+The world’s most bike-friendly cities, ranked
+
+
+
+
+
+
+Scandinavia may be leading the way, but there are a few new bike-friendly cities...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Denmark travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rosenborg Castle
+
+
+
+
+Explore the most impressive of the city’s lavish royal residences
+
+
+
+
+
+
+
+
+
+Nyhvan
+
+
+
+
+Take in the pretty harbour of colourful 17th century buildings
+
+
+
+
+
+
+Scandinavia & Baltic Circuit, 36 days
+
+
+
+
+
+
+
+
+Helsinki to Oslo, 22 days
+
+
+
+
+
+
+
+
+Complete Scandinavia, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Torvehallerne Market
+
+
+
+
+Pick from fresh produce, feast on a smorrebrod, or sip coffee and watch city life
+
+
+
+
+
+
+A Taste of Scandinavia, 8 days
+
+
+
+
+
+
+
+
+Scandinavia & Baltic Circuit, 36 days
+
+
+
+
+
+
+
+
+Helsinki to Oslo, 22 days
+
+
+
+
+
+
+
+
+
+
+
+
+Denmark holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Copenhagen (population 1.3 million)
+
+Population:
+
+5.4 million
+
+Language:
+
+Danish
+
+Currency:
+
+DKK
+
+Electricity:
+
+Type C (European 2-pin) Type K (Danish 3-pin)
+
+Dialing code:
+
++45
+
+
+
+
+
+
+
+
+
+Best time to visit Denmark
+
+
+
+
+
+
+×
+
+Best time to visit Denmark
+
+
+
+
+With its northerly latitudes, early summer is the best time to see Denmark. June in particular is gorgeous, with warm weather, long summer days and fewer crowds than the peak summer season of July/August. Travelling in May or September can be lovely, although the weather may be a little more unpredictable. Midwinter, and February in particular, is the only time of year to avoid Denmark: many outdoor activities will be closed and the sky is a uniform grey, as the islands are battered by storms blown in from the North Sea.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Imagine a huge peninsula surrounded by about 443 islands. Massive bridges span the sea in between, connecting everything up, and what little land there is sits a precarious 30-odd metres above sea level. Denmark isn’t known for its soaring mountains and dramatic scenery. Most of the country is flat and formless, but beautiful nonetheless: rolling plains and flower fields, windmills turning on the horizon, white cliffs and the soft sand dunes of the north. It’s hard to measure the landmass with any accuracy, since the sea is constantly rising and falling, eroding and adding material to the coast. It’s a land of small wonders rather than big statements.
+
+
+
+
+
+
+
+
+Top 5 reasons to move to Denmark
+
+
+
+
+
+
+×
+
+Top 5 reasons to move to Denmark
+
+
+
+
+1. Progressive politics
+
+Denmark’s politics are based on compromise. Because no government has held an absolute majority since the beginning of the 20th century, everyone tends to get a say. Old, young, gay, straight, rich, poor – everyone’s welcome in Denmark. The result? People here actually like their government, and it’s rated as one of the most accountable and transparent systems in the world.
+
+2. Cities that work
+
+Denmark believes in ‘people-friendly cities’. You know, the ones where a city’s design actually makes life better for the people living in it. Bicycles and pedestrians rule the streets, public transport is ubiquitous, cheap and efficient, money is invested back into parks and infrastructure, and everyone gets a say. It’s a nice change to visit a country where they probably haven’t heard the phrase ‘traffic jam’.
+
+3. Sustainability
+
+It’d be hard to find a greener bunch than the Danes. Copenhagen in particular has been singled out for its commitment to sustainable development. It’s aiming to get 50 per cent of its citizens to cycle to work or school, not to mention going fully carbon neutral by 2025. It’s even got a special ‘Green Laboratory’ devoted to thinking up new eco-technologies for the country.
+
+4. Great design
+
+There’s a certain Danish attitude towards food, fashion, architecture and fine art: less is more. You’ll find a simple and functional aesthetic in just about everything in Denmark, from chairs to buildings to dinner. The Dane’s even designed the sweeping wings of the iconic Sydney Opera House. It all comes back to the notion of hygge: the idea that beautiful things can enrich people’s lives.
+
+5. Quality of life
+
+It’s the thing every country is searching for. Everyone except Denmark. This little country of 5.7 million people consistency tops global rankings for quality of life, and it’s mostly down to the ‘Solidarity System’. This is the country’s idea that no one should be left behind. So although citizens pay a lot of tax (especially the rich ones), the country is rewarded with low unemployment, universal health care, great childcare, public transport and free education. Worth it.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further Reading
+
+
+
+
+
+
+×
+
+Further Reading
+
+
+
+Title
+
+Author
+
+Miss Smilia’s Feeling for Snow
+
+Peter Hoeg
+
+Complete Fairy Tales
+
+Hans Christian Anderson
+
+Hamlet
+
+William Shakespeare
+
+Number the stars
+
+Lois Lowry
+
+
+
+
+
+
+
+
+Denmark travel FAQs
+
+
+
+
+
+Is tipping customary in Denmark?
+
+
+
+
+
+
+
+
+
+Tipping in Denmark is not required (although it may be appreciated). Most restaurants include a service charge in the price of your meal, and many service industries are paid very well, so they don’t rely on tips.
+
+
+
+
+
+
+
+What is internet access like in Denmark?
+
+
+
+
+
+
+
+
+
+Internet and Wi-Fi are easily available in Denmark, particularly in the major cities. Many cafes and bars will have Wi-Fi access, and internet cafes are common (if a little hard to find in some cases – just ask your concierge). The easiest way to get online is the public library, there’s one in every town.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone in Denmark?
+
+
+
+
+
+
+
+
+
+Denmark has great mobile coverage, so reception shouldn’t be a problem. To avoid roaming charges and international rates, consider picking up a pre-paid SIM card – you can find them at most convenience stores.
+
+
+
+
+
+
+
+What are the toilets like in Denmark?
+
+
+
+
+
+
+
+
+
+Toilet facilities are what you’d expect in any developed Western country – flush toilets are standard.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Beer: 6 USD
+Coffee: 5 USD
+Simple lunch at a cafe: 15 USD
+Dinner for two in a restaurant: 75 USD
+Train ticket: 3 USD
+Bottle of water: 1.5 USD
+
+
+
+
+
+
+
+Can I drink the water in Denmark?
+
+
+
+
+
+
+
+
+
+Denmark is one of the few places in the world where the regulations on the quality of tap water even exceed those for bottled water. As such, tap water is completely safe.
+
+
+
+
+
+
+
+Are credit cards widely accepted in Denmark?
+
+
+
+
+
+
+
+
+
+Major outlets and stores will accept international cards like Visa, Mastercard and AMEX, but some will only accept the local Dankort card. Nearly everywhere will require a PIN code, so make sure to check yours with your bank if you’re unsure. It’s also worth remembering that a lot of retailers will charge an extra 3-4% if you use a foreign credit card, often without warning.
+
+
+
+
+
+
+
+What is ATM access like in Denmark?
+
+
+
+
+
+
+
+
+
+ATMs are widely available in cities and towns (even the smaller ones), but may be closed at night for safety reasons. The term ‘ATM’ is not well known in Denmark, so if you’re looking for one ask for a ‘hæve-automat’.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Denmark?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Denmark?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+13 Apr Maundy Thursday
+
+14 Apr Good Friday
+
+16 Apr Easter Sunday
+
+17 Apr Easter Monday
+
+12 May Prayer Day
+
+25 May Ascension Day
+
+4 Jun Whit Sunday
+
+5 Jun Whit Monday
+
+5 Jun Constitution Day
+
+24 Dec Christmas Eve
+
+25 Dec Christmas Day
+
+26 Dec 2nd Day of Christmas
+
+Please note these dates are for 2017. For a current list of public holidays in Denmark go to:
+http://www.worldtravelguide.net/denmark/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Denmark
+
+1. Be considerate of Denmark’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. Make an effort to learn some Danish before you go. Locals will appreciate the effort
+
+5. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+6. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+7. Please ask and receive permission before taking photos of people, especially children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sudan Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sudan tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Sudan
+
+
+
+Home to historic ruins and more pyramids than Egypt, there’s no doubt: Sudan is out to impress.
+
+
+Years of conflict have kept travelers away, but this vast country will surprise you. Sudan is a land of sweeping sand dunes and vast desert; bustling souks and camel markets; where the two Niles meet and become one in the nation’s capital. Venture north to the ancient desert cities that line the unified Nile and unearth a wealth of hidden treasures – pyramids, tombs and ancient ruins provide a fascinating glimpse into the mighty kingdoms that ruled before. Experience Sudan’s legendary hospitality, where just a smile and a few words of Arabic can open doors into teahouses and homes, and see firsthand how the warmth of the Sudanese people is matched only by their arid surrounds.
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Sudan travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khartoum
+
+
+
+
+Take in the sights, sounds and smells of the bustling Omdurman Souk, Sudan’s largest and most famous market.
+
+
+
+
+
+
+
+
+
+Jebel Barkal
+
+
+
+
+Ancient Egyptians and Kushites thought this flat-topped mountain in Karima was holy. Climb the mountain or explore the hieroglyphics-covered temples and Nubian pyramids that surround it.
+
+
+
+
+
+
+
+
+
+Old Dongola
+
+
+
+
+Once an important city in medieval Nubia, Old Dongola is home to fascinating Christian ruins and the massive pyramid-like tombs of Islamic holy men.
+
+
+
+
+
+
+
+
+
+Meroe
+
+
+
+
+More than 50 pyramids – smaller than Egypt’s pyramids but just as impressive – rise from the sand in the former capital of the Kush kingdom.
+
+
+
+
+
+
+
+
+
+
+Sudan holiday information
+
+
+
+
+Sudan facts
+
+
+
+
+
+
+×
+
+Sudan facts
+
+
+
+
+
+
+Capital City:
+
+Khartoum
+
+
+
+Population:
+
+42.2 million
+
+
+
+Language:
+
+Arabic, English
+
+
+
+Currency:
+
+Sudanese Pound (SDG)
+
+
+
+Time Zone:
+
+(GMT+03:00) Nairobi
+
+
+
+Electricity:
+
+Type C (European 2-pin), Type D (Old British 3-pin)
+
+
+
+Dialing Code:
+
++249
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local culture of Sudan
+
+
+
+
+
+
+×
+
+Local culture of Sudan
+
+
+
+
+Hundreds of ethnic groups reside in Sudan, each with their own culture and traditions, although Arab culture predominates. This is particularly true in the north, where Sharia law rules the land, most of the population is Muslim and people tend to prefer traditional clothing to Western garb. Men wear long robes called jalabiya and women wrap a garment (called a thawb) around their entire body. This is worn for both religious reasons and to protect against the heat. Long, loose clothing offers greater relief from the scorching sun than shorts and t-shirts in Sudan.
+
+African culture and traditional animist beliefs are more common in the south. Many speak local dialects or English rather than Arabic and brew a strong beer in their homes called marissa in direct defiance of Sharia law. Music and dance are an important cultural element for some groups, while wrestling is linked to the identity of Sudan’s Nuba people.
+
+While lifestyle and culture can vary greatly across the country, all Sudanese people share a strong sense of hospitality and generosity. Locals will go out of their way to make sure guests are comfortable, offering their best food and drink, even when they can’t afford it; groups out to lunch will frequently invite complete strangers to join them; and people often keep a pot filled with water outside of their house for passer-bys in need of a drink. It’s a custom called sabeel and it originated as a gesture of kindness to neighbours who spent their days working in the fields (about 80% of Sudanese jobs are in agriculture).
+
+Although Sudan may have a long way to go before it recovers from years of government abuse, famine, and civil war, the people who call this country home are among the friendliest you’ll ever meet.
+
+
+
+
+
+
+
+
+Geography & environment
+
+
+
+
+
+
+×
+
+Geography & environment
+
+
+
+
+Located in northeastern Africa, Sudan is bound by Egypt to the north; the Red Sea, Eritrea and Ethiopia to the east; South Sudan and the Central African Republic to the south; and Chad and Libya to the west. Two major tributaries of the Nile River – the White Nile and the Blue Nile – merge near the centre of the country in the nation’s capital, Khartoum. The unified Nile continues north to
+Egypt
+, separating the Nubian Desert, which occupies the northeast of Sudan from the Libyan Desert, which occupies the northwest. Desert gives way to open savannah, largely flat to the east, but rising to two plateaux to the west and south. The western plateau makes up the war-torn region of Darfur. Sudan also contains several mountain ranges – the Nuba Mountains located near the border with South Sudan and volcanic peaks that make up the Marrah Mountains in Darfur.
+
+
+
+
+
+
+
+
+Shopping guide to Sudan
+
+
+
+
+
+
+×
+
+Shopping guide to Sudan
+
+
+
+
+Shopping opportunities in Sudan are largely limited to street vendors and local markets, called souks. The capital has a number of souks worth checking out, though Souk Omdurman is the largest in the country and perhaps the best place to shop unique Sudanese items and handicrafts. Vendors line an endless maze of narrow alleyways selling a wide range of goods, often cheaper than elsewhere in the city. Local crafts to keep an eye out for include grass and straw products, carved wooden statues and masks, goods made from copper and brass and gold jewellery. Friendly haggling is the norm at markets and payment is always in cash.
+
+Khartoum also has two relatively new shopping malls – Al Waha Mall and Afra Shopping Mall. Both malls house mostly independent shops that sell clothing, accessories, stationary and electronics.
+
+
+
+
+
+
+
+
+Sudan festival calendar
+
+
+
+
+
+
+×
+
+Sudan festival calendar
+
+
+
+
+Most festivals in Sudan are religious holidays and are celebrated privately with family and friends, although there are a few rowdy exceptions. Some of the biggest and most important festivals in Sudan include:
+
+1. Mawlid an-Nabi (The Prophet’s Birthday)
+
+The birth of the Prophet Muhammad is a national holiday in many Muslim-majority countries. In Sudan, Sufi Muslims celebrate the 12th day of the fifth month of the Islamic lunar calendar by throwing carnival-like festivals in public squares where religious scholars give public lectures, stories are told about the life of Muhammad and stalls sell food and sweets.
+
+2. Sufi Holiya Festival
+
+Social hierarchies and ethnic differences are put aside each October for this boisterous Sufi holiday meant to commemorate the death of a saint. Attracting Sufi Muslims from near and far, festivities begin with a parade and end with an all-night celebration where revellers dance and sing songs while traditional music is played.
+
+3. Eid al-Fitr
+
+This three-day festival, which marks the end of the Islamic fasting month of Ramadan, is typically celebrated with friends, family and food. Beginning on the first day of the tenth lunar month, people collect sweets and eat plenty of porridge (aseeda) as they move from house to house visiting neighbours.
+
+4. Eid al-Adha
+
+Meaning ‘festival (or feast) of the sacrifice’, Eid al-Adha is the most important Muslim holiday. Traditionally, people are meant to sacrifice an animal as a symbol of religious devotion, however many in Sudan are unable to afford this. Instead, people spend this day feasting with family.
+
+
+
+
+
+
+
+
+Food & drink in Sudan
+
+
+
+
+
+
+×
+
+Food & drink in Sudan
+
+
+
+
+Sudanese cuisine tends to be simple yet flavourful. Dishes rely heavily on grains and legumes due to the country’s dry climate and are flavoured with spices introduced by the Middle East and Mediterranean, such as cardamom, cinnamon and red pepper. Porridge and kisra (a Sudanese flatbread similar to roti) are dietary staples. Made from wheat, soghrum or corn flour, porridge is eaten like rice and usually served with a meat and vegetable stew (mullah).
+
+Falafel is a popular vegetarian dish, although in Sudan it is called tamiya and is made from broad beans. Fava beans are a common breakfast choice. Stewed with various spices, you’ll find food vendors and restaurants across the country serving bowls of this national dish.
+
+Meat is an essential part of the Sudanese diet and might be roasted, barbequed over charcoal, pan-fried or featured in soups and stews. A typical stew will contain chunks of beef or lamb, as well as sheep’s fat, onions, okra, tomato paste, yogurt or milk. Sheep organs (including the lungs, liver and stomach) are commonly eaten raw with onions, peanut butter and salt as an appetizer. In the south, fish from the Nile Rivers features more prominently in dishes.
+
+Peanuts, dates and figs are also important ingredients in Sudanese cooking, which are used to add both taste and texture. Peanuts are frequently used in soups or to coat meat while dates are often added to porridge.
+
+Sudan abides by Sharia law, which means alcohol is prohibited. That said, it isn’t hard to come by. Araqi is an illegally distilled date-based liquor that is usually drunk neat. Keep in mind that while visitors are usually exempt from punishment, the penalty for getting caught with an alcoholic drink is 40 lashes. Rather than alcohol, tea is the beverage of choice for most Sudanese. Turkish coffee is also quite popular.
+
+Must-try foods in Sudan
+
+1. Ful medames
+
+Sudan’s national dish turns the humble fava bean into something rich and flavourful. Beans are stewed with tomatoes, onions and various spices, and usually served with a variety of accompaniments including salad, tamiya, chilli sauce, tahini or sesame oil.
+
+2. Kisra
+
+A Sudanese flatbread made from sorghum flour. This dietary staple accompanies most meals.
+
+3. Goraasa be dama
+
+Chunks of beef are simmered in tomatoes and flavoured with cardamom, cinnamon and garlic to create a stew that is served on goraasa, a simple wheat-based flatbread.
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+
+
+
+Title
+
+Author
+
+
+
+What is the What
+
+Dave Eggers
+
+
+
+A Long Walk to Water
+
+Linda Sue Park
+
+
+
+Tears of the Desert: A Memoir of Survival in Darfur
+
+Halima Bashir
+
+
+
+Seasons of Migration to the North
+
+Tayeb Salih
+
+
+
+They Poured Fire on Us From the Sky
+
+Benjamin Ajak, Benson Deng and Alephonsion Deng
+
+
+
+
+
+
+
+
+
+
+Sudan travel FAQs
+
+
+
+
+
+When is the best time to visit Sudan?
+
+
+
+
+
+
+
+
+
+While Sudan’s north is dry for most of the year, the south is tropical and humid year round. Generally the shoulder and winter months from September to April are the best times to visit. Sudan is always hot but April to July are uncomfortably so, and this is also the wettest time of the year. You may encounter fierce dust storms from July to August and November to January.
+
+
+
+
+
+
+
+Is Sudan safe to visit?
+
+
+
+
+
+
+
+
+
+While parts of Sudan continue to suffer civil unrest, political tension and the threat of terrorist attack, this risk is relatively isolated to specific areas. Most governments do not recommend travel to southern and western Sudan, though the northeast region of the country is considered one of the safest parts of Africa. The people are incredibly warm and hospitable. Rest assured, Intrepid would not take you anywhere unless we were convinced it was safe.
+
+
+
+
+
+
+
+Do I need a visa to visit Sudan?
+
+
+
+
+
+
+
+
+
+Australia: Yes – required in advance
+Belgium: Yes – required in advance
+Canada: Yes – required in advance
+Germany: Yes – required in advance
+Ireland: Yes – required in advance
+Netherlands: Yes – required in advance
+New Zealand: Yes – required in advance
+South Africa: Yes – required in advance
+Switzerland: Yes – required in advance
+United Kingdom: Yes – required in advance
+USA: Yes – required in advance
+Travellers from most nations are required to obtain a visa to visit Sudan. Visa requirements can change at any time so contact your nearest Sudanese consulate or embassy for up-to-date information about visa requirements. Be aware that even if you have a visa, travellers with Israeli stamps or an Israeli visa in their passport will not be allowed to enter Sudan.
+
+Intrepid’s trips in Sudan are run in coordination with travel company, Dragoman. Please see their site for more information about visa requirements.
+
+It’s generally a good idea to make sure your passport is valid for a minimum of six months following your departure from Sudan and has a few blank pages for stamps.
+
+
+
+
+
+
+
+Is tipping customary in Sudan?
+
+
+
+
+
+
+
+
+
+Tipping is not normally expected in Sudan, but is a nice way to show your appreciation. A service charge is usually including on restaurant bills, in which case, there is no need to leave an additional tip.
+
+
+
+
+
+
+
+What is internet access like in Sudan?
+
+
+
+
+
+
+
+
+
+Internet cafes can be found in most cities but may be expensive and slow.
+
+
+
+
+
+
+
+Can I use my mobile phone while in Sudan?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in urban areas. Ensure global roaming is activated with your service provider before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Sudan?
+
+
+
+
+
+
+
+
+
+Both Western-style flushable toilets and squat toilets can be found in Sudan. It’s a good idea to carry your own toilet paper and hand sanitizer as they are rarely provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Cup of tea = USD 0.20
+Shawarma = USD 1.50
+Lunch at a mid-range restaurant = USD 10-15
+Dinner at a high-end restaurant = USD 20+
+
+
+
+
+
+
+
+Can I drink the tap water in Sudan?
+
+
+
+
+
+
+
+
+
+Tap water is not safe to drink in Sudan. For environmental reasons, try to avoid buying bottled water. Instead, pack a reusable water bottle. Your leader or hotel can tell you were to find filtered water or bring purification tablets.
+
+
+
+
+
+
+
+Are credit cards widely accepted in Sudan?
+
+
+
+
+
+
+
+
+
+Credit cards are not accepted in Sudan. Neither are debit cards, cash cards or travellers cheques, so expect to pay cash for all purchases.
+
+
+
+
+
+
+
+What is ATM access like in Sudan?
+
+
+
+
+
+
+
+
+
+There are no ATMs in Sudan that are able to access international funds, so make sure to bring enough cash to cover all your expenses.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Sudan?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Sudan?
+
+
+
+
+
+
+
+
+
+Jan 1: Independence Day
+Jan 8: Coptic Christmas
+June 25: Eid al-Fitr
+June 30: Revolution Day
+Sept 1: Eid al-Adha
+Sept 22: Islamic New Year
+Dec 1: Birth of Prophet Muhammad
+Dec 25: Christmas Day
+
+Many of these holidays are religious holidays and change each year as they are celebrated according to the Islamic lunar calendar. For an up-to-date list of public holidays in Sudan go to:
+https://www.worldtravelguide.net/guides/africa/sudan/public-holidays
+.
+
+
+
+
+
+
+
+
+Is Sudan a safe destination for LGBTQI-travellers?
+
+
+
+
+
+
+
+
+
+Discretion is highly advised for LGBTQI-travellers in Sudan, where homosexuality is illegal and sodomy is technically punishable by death (though this has not been enforced for years). That being said, travellers should not encounter any problems if they are discreet and avoid public displays of affection.
+
+For more detailed and up-to-date advice, we recommend visiting
+Equaldex
+or
+Smartraveller
+before you travel.
+
+
+
+
+
+
+
+Do I need any vaccinations before visiting Sudan?
+
+
+
+
+
+
+
+
+
+Sudan requires proof of yellow fever vaccination if you are travelling from a country with risk of yellow fever. Many African countries pose a risk (including Ethiopia, South Sudan and Kenya), so if you are planning on visiting other nearby nations before arriving in Sudan, you may be required to get this vaccine. Visit your doctor or travel clinic for up-to-date advice and make sure to schedule your vaccination 4-6 weeks before your departure date, as some require time to become effective. No other vaccines are required in order to enter Sudan but some are recommended for protection against disease.
+
+Recommended vaccines:
+1.    Hepatitis A (transmitted through contaminated water)
+2.    Typhoid (transmitted through contaminated water)
+3.    Yellow Fever (transmitted through mosquitoes). Yellow fever is a risk in Sudan south of Khartoum. Talk to your doctor or travel clinic about your travel plans to see if this vaccine is right for you.
+4.    Meningitis (bacterial disease transmitted by close contact with an infected person). Sudan is located in the ‘meningitis belt’ of sub-Saharan Africa. The disease is most common during the dry season, between December and June.
+
+
+
+
+
+
+
+Should I bring any medication when visiting Sudan?
+
+
+
+
+
+
+
+
+
+Malaria, yellow fever and Zika are all mosquito-transmitted diseases found in certain parts of Sudan. Zika can also be transmitted through sexual exposure. Since Zika has been tied to serious birth defects, pregnant women are advised to not travel to Sudan. You can protect yourself by wearing light coloured clothing, using a good bug repellent and taking anti-malaria medication. Talk to your doctor or travel clinic about your travel plans to determine what medication is right for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

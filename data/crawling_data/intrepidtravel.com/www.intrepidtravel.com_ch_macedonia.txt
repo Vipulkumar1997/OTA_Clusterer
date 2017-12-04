@@ -1,0 +1,3513 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Macedonia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Macedonia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Macedonia
+
+
+
+Craggy mountain backdrops, time-weathered monasteries, stunning lake panoramas, hearty national cuisine – Macedonia has only one missing ingredient from the standard Europe recipe.
+
+
+And happily, that happens to be crowds. Landlocked into relative obscurity in a region worshipped for its coast, Macedonia’s tract of the Balkans is often overlooked. Yet for those looking to venture beyond the Adriatic and Aegean, Macedonia’s rugged interior contains rewards aplenty. Excellent hiking can be had in the mountain forests, Lake Ohrid’s waters rival the clarity of Croatia’s and 500 years of Ottoman rule can be acutely felt in the capital’s bazaars. And to round it all out, the locals will be delighted to have you.
+
+
+Our Macedonia trips
+
+
+
+
+
+
+
+
+
+Western Balkans Uncovered
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,170
+
+
+
+
+
+Explore highlights and hidden treasures while travelling through Bulgaria, Albania,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Athens
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,325
+
+
+
+
+
+Explore highlights and hidden treasures while travelling through Albania, Croatia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kosovo, Albania & Macedonia Explorer
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,995
+
+
+
+
+
+This tour from Tirana combines little-known Balkan highlights with the most beautiful...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Slovenia to Macedonia Real Food Adventure
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,680
+
+
+
+
+
+Explore the culinary delights of Slovenia, Croatia, Kosovo, Albania, Montenegro and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Santorini
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,805
+
+
+
+
+
+Witness the jewels of the Mediterranean, from Dubrovnik to Santorini. Explore the old...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Balkans Real Food Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,150
+
+
+
+
+
+Explore the culinary delights of Croatia, Kosovo, Albania, Montenegro and Macedonia on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Macedonia tour reviews
+
+
+Our Macedonia trips score an average of
+4.89 out of 5
+based on 9 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure - Macedonia to Montenegro,
+September 2017
+
+Nerilee Wightman
+
+Real Food Adventure of Macedonia to Montenegro exceeded my expectations. I now have a better understanding of the culture & cuisine of the Balkans. This is an amazing region & our leader Metodi made the tour even more memorable. Highly recommended.
+
+Review submitted 30 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure - Macedonia to Montenegro,
+September 2017
+
+Andreas Christ
+
+If you like food and if you have an open minde i recommend taht you go on this tripp.
+
+Review submitted 12 Oct 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Macedonia trip reviews
+
+Our Macedonia trips score an average of
+4.89 out of 5
+based on 9 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Macedonia
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2017
+
+
+
+‘The best place to eat in Macedonia is somebody...
+
+
+
+
+
+
+The Balkan republic of Macedonia is like a tiny version of France, with a huge...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 08, 2017
+
+
+
+6 hottest food destinations in Europe for...
+
+
+
+
+
+
+Where will your taste buds be delighted most this summer? What cuisine will have...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 16, 2017
+
+
+
+Macedonia: A land of pies, passion and plenty
+
+
+
+
+
+
+"You forage, you find, you cook, you serve, you enjoy." One writer's food journey...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 24, 2016
+
+
+
+Macedonian wine guide: we chat with the country...
+
+
+
+
+
+
+When you say 'internationally renowned wine', places like Tuscany, Provence and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 19, 2015
+
+
+
+Mouth-watering Macedonia: 5 traditional dishes...
+
+
+
+
+
+
+Drawing heavily on Balkan and Mediterranean influences and packed full of garlicky...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 27, 2015
+
+
+
+7 awesome beach-free summer breaks
+
+
+
+
+
+
+Who needs sun and sand? We've got the perfect alternative.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Macedonia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tikves region
+
+
+
+
+Sample local drops on a wine-tasting tour in the Tikves region
+
+
+
+
+
+
+The Balkans Real Food Adventure , 12 days
+
+
+
+
+
+
+
+
+
+
+
+Pelister National Park
+
+
+
+
+Take a walk among the mountains and pine trees of Macedonia’s oldest national park
+
+
+
+
+
+
+Dubrovnik to Athens, 15 days
+
+
+
+
+
+
+
+
+Dubrovnik to Santorini, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Turkish heritage in Skopje
+
+
+
+
+Wander through Macedonia’s Turkish heritage in Skopje’s Old Bazaar
+
+
+
+
+
+
+The Balkans Real Food Adventure , 12 days
+
+
+
+
+
+
+
+
+Kosovo, Albania & Macedonia Explorer, 15 days
+
+
+
+
+
+
+
+
+Western Balkans Uncovered, 12 days
+
+
+
+
+
+
+
+
+
+
+
+
+Macedonia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Skopje
+
+Population:
+
+2 million
+
+Language:
+
+Macedonian
+
+Currency:
+
+MKD
+
+Time zone:
+
+(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++389
+
+
+
+
+
+
+
+
+
+Best time to visit Macedonia
+
+
+
+
+
+
+×
+
+Best time to visit Macedonia
+
+
+
+
+Macedonia has a climate somewhere between a transitional continental and Mediterranean climate, which can vary greatly between seasons and regions. The country’s mountainous areas can be subjected to brutally cold winters (December to February), while the lower lying areas can reach 40° C during summer (June to September). Between May and September is the best time to visit, unless you’re into skiing.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Even by Balkan standards, Macedonia’s history is characterised by complexity and controversy. Going back to the days of Alexander the Great (the country’s favourite son), Macedonia has been pin-balled between external powers, from the Romans to the Byzantines, the Serbs to the Ottoman Turks, the Bulgarians to the Greeks. In fact, it wasn’t until 1991 that the country officially attained its status as an independent nation – and even that remains a point of contention in certain circles.
+
+From the sixth century AD until the fourteenth, the territory was wrestled to-and-fro between the Byzantines, Slavs, Bulgars and Serbs before eventually falling to the Ottoman Empire in 1371. The country remained under Turkish rule until the empire’s decline in the eighteenth century, then was once again split up but this time between Greece, Bulgaria and Serbia. Various pushes for independence and ‘reunion’ with Bulgaria were then stymied by the two World Wars and the advent of communism.
+
+Recent History
+
+At the conclusion of World War II, the country was incorporated into the Socialist Republic of Yugoslavia under the leadership of Tito – an era during which, by and large, the territory prospered. With the collapse of European communism, however, came new calls for Macedonian independence, and the state peacefully ceded from the republic in 1992.
+
+Wary of ‘Macedonia’ being used as the country’s proposed name due to implied claims to Aegean Macedonia, Greece made its objections known and the compromise ‘The Former Yugoslav Republic of Macedonia’ was eventually arrived at. Greek ire was re-aroused in 1994, culminating in its enforcement of an economic embargo that was eventually lifted upon Macedonia’s changing of its flag and agreeing to discussions about its name. The country evaded being embroiled in the Yugoslav Wars of the 1990s, but experienced a potentially catastrophic civil conflict from 1997-2001 over tensions with its sizeable Albanian population. Hostilities were becalmed with a NATO ceasefire, but the Albanian-Macedonian relationship is still a touchy subject that’s best avoided. The same goes for Macedonian-Greek relations due to the still unresolved ‘naming issue’. And also Macedonian-Bulgarian relations for that matter.
+
+
+
+
+
+
+
+
+Top 5 Macedonian Festivals
+
+
+
+
+
+
+×
+
+Top 5 Macedonian Festivals
+
+
+
+1. The Galičnik Wedding Festival
+
+Back in the good old days, the villagers of Galičnik had only one day each year where Macedonian couples could get married: 12th July. These days, starry-eyed lovers can take their vows on whichever day they please, but for one lucky couple a traditional wedding ceremony is still a possibility. Held on the weekend closest to the 12th July, the Galičnik Wedding Festival commemorates the custom with dances, elaborate dress and a horse bridle being placed on the bride as a test of her obedience. Any Macedonian couple that has already been married in a civil service can apply for the role of official couple, with the winning entrant generally being the one with the prettiest bride.
+
+2. Tikveski Grozdober (Grape Carnival)
+
+Each September, Kavadarci, a small town in Macedonia’s seriously scenic wine-growing region, plays host to the Tikveški Grozdober festival. A celebration of both the town’s liberation and the beginning of the grape harvest, the festival swells with food stalls and music concerts and culminates in an extravagantly costumed carnival procession through the town’s main streets. Oh, and much wine drinking.
+
+3. Ilinden National Festival of Song and Dance
+
+The oldest folk festival in the country, the Ilinden Days, is a celebration of all the folk cultural edifices that have come to represent Macedonian identity over the years. Folk songs and dancing take centre stage here, all performed in traditional garb with traditional instruments. Held over four days, it provides a fascinating insight into traditional Macedonian culture, as well as serving to preserve its history.
+
+4. Pivo Fest Prilep Beer Fest
+
+Macedonia’s breweries aren’t as prolific as its wineries, but beer is still a pretty big player in national culture and deemed worthy a festival. The first Pivo Fest Prilep was held in 2003 and, in contrast to many of the country’s other tradition-orientated festivals, the focus here is on live music, grilled meats, skimpy attire and ales abundant. Perhaps unsurprisingly, it’s now one of the most popular summer events in the country.
+
+5. Carnival Procka
+
+Kicking off three days before the Easter fast begins, the Procka Carnival, which is also held in Prilep, is a celebration of the unconditional forgiveness demonstrated by Jesus for his fellow humans. During this brief holiday, the young ask for forgiveness from their elders, who reply by saying ‘you are forgiven from me and from God.’ If this all sounds a bit sombre (not to mention presumptuous), there’s also great feasting opportunities in preparation for the fasting ahead and things are livened up with parades of highly decorative ‘anything goes’ costumes.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Black Lamb and Grey Falcon
+
+Rebecca West
+
+The Golden Mean
+
+Annabel Lyon
+
+Hidden Macedonia
+
+Christopher Deliso
+
+Macedonia
+
+Harvey Parker and Heather Roberson
+
+
+
+
+
+
+
+
+Macedonia travel FAQs
+
+
+
+
+
+Is tipping customary in Macedonia?
+
+
+
+
+
+
+
+
+
+Tipping is not customary in Macedonia, but a 10-15% tip at a nice restaurant will be very much appreciated. Some top-end restaurants may include a service charge, in which case there is no need to tip additionally unless the service has really been excellent.
+
+
+
+
+
+
+
+What is the internet access like in Macedonia?
+
+
+
+
+
+
+
+
+
+Internet access exists in the major towns and connections are generally very good.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Macedonia?
+
+
+
+
+
+
+
+
+
+Roaming agreements are in place with most of the major international phone companies, and coverage is generally pretty good.
+
+
+
+
+
+
+
+What are the toilets like in Macedonia?
+
+
+
+
+
+
+
+
+
+Western-style, flushable toilets are fast becoming the standard in Macedonia, however squat toilets can still be found in public restrooms and at some cafes and restaurants
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+0.5 litre domestic beer = 75 MKD
+Cappuccino in a cafe = 75 MKD
+Meal at an inexpensive restaurant = 200 MKD
+Three-course meal for two at an expensive restaurant = 1,000 MKD
+
+
+
+
+
+
+
+Can I drink the water in Macedonia?
+
+
+
+
+
+
+
+
+
+Macedonia’s tap water is safe to drink, so stave off buying bottled water for the landfill it produces.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Macedonia?
+
+
+
+
+
+
+
+
+
+As a general rule, credit cards are really only accepted at upmarket restaurants and hotels.
+
+
+
+
+
+
+
+What is ATM access like in Macedonia?
+
+
+
+
+
+
+
+
+
+ATMs can be readily found in major towns and tourist centres.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Macedonia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Macedonia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+7 Jan Orthodox Christmas Day
+
+17 Apr Orthodox Easter Monday
+
+1 May Labour Day
+
+24 May Saints Cyril and Methodius Day
+
+25 Jun Ramazan Bajram
+
+26 Jun Ramazan Bajram Holiday
+
+2 Aug Day of the Republic
+
+8 Sep Independence Day
+
+11 Oct Revolution Day
+
+23 Oct Day of the Macedonian Revolutionary Struggle
+
+8 Dec Saint Clement of Ohrid Day
+
+Please note these dates are for 2017. For a current list of public holidays in Macedonia go to:
+http://www.worldtravelguide.net/macedonia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Macedonia
+
+1. Be considerate of Macedonia’s customs, traditions, religion and culture. Avoid expressing opinions about the country’s relations with Greece, Bulgaria or its significant Albanian population.
+
+2. Dress modestly and respectfully when entering places of worship. Shoulders to knees should be covered and shoes removed.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+6. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive and supports the local community.
+
+7. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+8. Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

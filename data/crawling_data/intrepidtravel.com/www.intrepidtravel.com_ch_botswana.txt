@@ -1,0 +1,5015 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Botswana
+
+
+
+Home to large populations of wildlife, rugged national parks, wetlands alive with birds and one of the world’s largest deltas, Botswana’s bounty of natural treasures is remarkable.
+
+
+With winter sunshine, a temperate climate and golden sunsets, it’s no wonder most locals have beaming smiles - they’re surrounded by some of Mother Nature’s greatest triumphs.
+
+
+Top Botswana travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+5 Jan 2018
+
+Explore Southern Africa
+
+
+
+Explore Southern Africa
+Johannesburg to Johannesburg
+
+
+
+
+
+
+
+
+
+×
+
+Explore Southern Africa
+
+
+
+
+
+
+
+
+
+18
+
+
+FR2,360
+
+
+FR2,124
+
+
+
+
+View Trip
+
+
+
+
+
+
+5 Jan 2018
+
+Okavango Experience
+
+
+
+Okavango Experience
+Johannesburg to Victoria Falls
+
+
+
+
+
+
+
+
+
+×
+
+Okavango Experience
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,260
+
+
+FR1,134
+
+
+
+
+View Trip
+
+
+
+
+
+
+10 Jan 2018
+
+Botswana Highlights
+
+
+
+Botswana Highlights
+Victoria Falls to Victoria Falls
+
+
+
+
+
+
+
+
+
+×
+
+Botswana Highlights
+
+
+
+
+
+
+
+
+
+9
+
+
+FR2,530
+
+
+FR2,151
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Experience Southern Africa
+
+
+
+Experience Southern Africa
+Johannesburg to Johannesburg
+
+
+
+
+
+
+
+
+
+×
+
+Experience Southern Africa
+
+
+
+
+
+
+
+
+
+16
+
+
+FR3,010
+
+
+FR2,559
+
+
+
+
+View Trip
+
+
+
+
+
+
+21 Jan 2018
+
+Okavango & Beyond
+
+
+
+Okavango & Beyond
+Victoria Falls to Johannesburg
+
+
+
+
+
+
+
+
+
+×
+
+Okavango & Beyond
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,620
+
+
+FR1,215
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Botswana trips
+
+
+
+
+
+
+
+
+
+Okavango Experience
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR995
+
+
+
+
+
+Tour through Johannesburg, Maun and Victoria Falls on this trip through South Africa,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Southern Africa
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,920
+
+
+
+
+
+Travel to South Africa, Botswana and Zimbabwe and uncover their natural wonders. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kruger
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR975
+
+
+
+
+
+Travel from Zimbabwe to Botswana and South Africa on a real African adventure. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Highlights
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Stay in a tree house, search for the Big Five in the Chobe National Park, meet Xwe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,101
+
+
+
+
+
+Travel to Africa and discover the unique, contrasting lands of Zimbabwe, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Visit Africa and travel through Botswana, Namibia and Zimbabwe on a tour from Windhoek...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Vic Falls
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,550
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Northbound
+
+
+
+
+
+
+
+
+
+64 Days
+
+
+From
+FR7,920
+
+
+
+
+
+Jump aboard this epic tour from Cape Town to Nairobi. From safaris in Tanzania and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing Southern Africa
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR6,745
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Southern Africa
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,455
+
+
+
+
+
+Visit Africa and travel through southern Africa's beautiful regions. Visit South Africa...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Okavango & Beyond
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,685
+
+
+
+
+
+Travel from Zimbabwe to South Africa via Botswana. The Okavango and Beyond trip is the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger to Vic Falls
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,190
+
+
+
+
+
+Travel from South Africa's capital to Botswana and Zimbabwe, visiting two of southern...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Cape Town
+
+
+
+
+
+
+
+
+
+48 Days
+
+
+From
+FR6,340
+
+
+
+
+
+Explore Africa as you travel from Kenya to Cape Town through Tanzania, Zanzibar, Malawi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,770
+
+
+
+
+
+See Africa encompassed on a tour through Kenya, Uganda, Rwanda, Tanzania, Malawi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Family Safari with teenagers
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,410
+
+
+
+
+
+Take your family to Victoria Falls, Okavango River and Chobe National Park on this teen...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Zanzibar
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR3,870
+
+
+
+
+
+See Africa on this incredible overland adventure from South Africa to Tanzania. Soak up...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Cape Town
+
+
+
+
+
+
+
+
+
+39 Days
+
+
+From
+FR4,390
+
+
+
+
+
+Explore Africa on this wildlife-rich adventure from Tanzania to South Africa. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Kenya
+
+
+
+
+
+
+
+
+
+49 Days
+
+
+From
+FR6,285
+
+
+
+
+
+Explore Africa as you wind your way up from South Africa, through Namibia, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Chobe National Park - Short Break
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR365
+
+
+
+
+
+Giraffes, lions, crocodiles, hippos and more await on this safari through the Chobe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Experience
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR15,955
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls and then onto...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Africa Adventure
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR3,215
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Photography Safari with Ben Mcrae
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR3,875
+
+
+
+
+
+Travel from Victoria Falls to Chobe National Park, cross the Makgadikgadi Pans to Maun,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Zanzibar
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR2,580
+
+
+
+
+
+Travel through Botswana to the thundering Victoria Falls and on to to the fragrant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Okavango Delta Fly-In Safari
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR2,217
+
+
+
+
+
+Retreat into the Botswana wilderness and discover all that the Okavango Delta has to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Gorillas
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR7,270
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Kenya
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR4,800
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Botswana tour reviews
+
+
+Our Botswana trips score an average of
+4.73 out of 5
+based on 380 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Okavango Experience,
+October 2017
+
+Cleo arathoon
+
+I would highly recommend Okavango Experience as it was run really smoothly, the experience was very authentic and the staff made the trip unforgettable.
+
+Review submitted 27 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Okavango Experience,
+October 2017
+
+Chi-Wei Chang
+
+I booked the Okavango trip with Intrepid on a friend's recommendation, who had also done this trip before. Everything was very well organized, safe, sanitary, and camping was more comfortable than expected. The quality and variety of food was a pleasant surprise, and there was great care taken for sanitation and balanced nutrition. The variety of activities and options was also well balanced; we got to see so many animals up close, and it was the best safari trip we could have gone on!
+
+Review submitted 20 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Botswana trip reviews
+
+Our Botswana trips score an average of
+4.73 out of 5
+based on 380 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Botswana
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 24, 2017
+
+
+
+Botswana in photos: the magic of an Intrepid...
+
+
+
+
+
+
+Three countries, nine days, and more incredible animal encounters than you could...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 24, 2017
+
+
+
+A road trip through Southern Africa
+
+
+
+
+
+
+If I was going to go to the other side of the world, I wanted to see how people...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 15, 2017
+
+
+
+A language guide for Southern Africa
+
+
+
+
+
+
+Learning a few words in the local language will gain you a lot of respect. So to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 21, 2017
+
+
+
+Africa through the lens with photographer Ben...
+
+
+
+
+
+
+Yep, this year we're launching a one-of-a-kind expedition into the wilds of Africa...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 07, 2017
+
+
+
+Chobe vs Okavango: Which one should you choose?
+
+
+
+
+
+
+We’ve put these Chobe and Okavango head to head in an epic ‘safari battle’. Who's...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 07, 2016
+
+
+
+It’s official, guys: here are the 6 hottest...
+
+
+
+
+
+
+Bring out the bucket list: here are six destinations that are gonna be hot, hot,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 09, 2015
+
+
+
+Life unplugged: 6 reasons your next family...
+
+
+
+
+
+
+An African family safari is on the once-in-a-lifetime end of the holiday spectrum....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 27, 2015
+
+
+
+7 awesome beach-free summer breaks
+
+
+
+
+
+
+Who needs sun and sand? We've got the perfect alternative.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khwai River
+
+
+
+
+Look for leopards and cheetahs along the Khwai River
+
+
+
+
+
+
+Amazing Southern Africa, 22 days
+
+
+
+
+
+
+
+
+Okavango & Beyond, 9 days
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Chobe River
+
+
+
+
+Spot hippos and crocodiles while cruising the Chobe River
+
+
+
+
+
+
+Explore Southern Africa, 18 days
+
+
+
+
+
+
+
+
+Explore Southern Africa, 18 days
+
+
+
+
+
+
+
+
+Botswana Highlights, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Okavango Delta
+
+
+
+
+Ride a canoe and camp out in the luscious Okavango Delta
+
+
+
+
+
+
+Cape Town to Vic Falls, 22 days
+
+
+
+
+
+
+
+
+Okavango Experience, 10 days
+
+
+
+
+
+
+
+
+Botswana Adventure, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Chobe National Park
+
+
+
+
+See herds of magnificent elephants in Chobe National Park
+
+
+
+
+
+
+Amazing Southern Africa, 22 days
+
+
+
+
+
+
+
+
+Okavango & Beyond, 9 days
+
+
+
+
+
+
+
+
+Explore Southern Africa, 18 days
+
+
+
+
+
+
+
+
+
+
+
+Khama Rhino Sanctuary
+
+
+
+
+See rare white rhinos on a game drive in Khama Rhino Sanctuary
+
+
+
+
+
+
+Explore Southern Africa, 18 days
+
+
+
+
+
+
+
+
+Okavango Experience, 10 days
+
+
+
+
+
+
+
+
+Experience Southern Africa, 16 days
+
+
+
+
+
+
+
+
+
+
+
+Moremi Game Reserve
+
+
+
+
+Explore the woodlands and floodplains of the Moremi Game Reserve
+
+
+
+
+
+
+Vic Falls to Kruger, 9 days
+
+
+
+
+
+
+
+
+Explore Southern Africa, 18 days
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound, 63 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Botswana
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Botswana, you may find yourself travelling by:
+
+
+
+
+
+
+
+Boat
+
+Admire waterbirds, hippos, crocodiles and classic African landscapes while on a boat cruise along the stunning Chobe River.
+
+
+Experience Southern Africa
+
+Okavango & Beyond
+
+
+
+
+
+
+
+
+
+
+Mokoro
+
+Navigate the famed waterways of Botswana’s Okavango Delta aboard a motorised canoe, known locally as a mokoro.
+
+
+Botswana Adventure
+
+Experience Southern Africa
+
+Botswana Highlights
+
+
+
+
+Accommodation in Botswana
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Botswana you may find yourself staying in a:
+
+
+
+
+
+
+
+Lodge
+
+For a softer safari experience, put your feet up at the end of a day of adventuring and rest in a comfortable lodge.
+
+
+Botswana Adventure
+
+Botswana Highlights
+
+
+
+
+Botswana holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Gaborone (population 138,000)
+
+Population:
+
+2 million
+
+Language:
+
+English, Setswana
+
+Currency:
+
+BWP
+
+Time zone:
+
+(GMT+02:00) Windhoek
+
+Electricity:
+
+Type D (Old British 3-pin) Type G (Irish/British 3-pin) Type M (see D)
+
+Dialing code:
+
++267
+
+
+
+
+
+
+
+
+
+Best time to visit Botswana
+
+
+
+
+
+
+×
+
+Best time to visit Botswana
+
+
+
+
+Winter (April through August) is a good time to visit Botswana. The days are usually mild and wildlife is generally quite easy to spot. The summer can bring frequent rain, which can make it difficult to travel around some of the national parks. Wildlife also tends to disperse during the summer rains, making animals a little harder to spot.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Botswana has quite a diverse culture, with many different tribal influences coexisting with European influences, which were brought to the country more recently. The tribal (or ethnic) groups within Botswana (Tswana, Kalanga, Basarwa and Kgalagadi) have different languages, traditional dances and clothing, and live a vastly different lifestyle to city-dwellers. Overall though, good manners will go a long way in Botswana, as formal greetings, respect for others and politeness are valued by most in society. Travellers will find most locals to be kind and welcoming, with offers of hospitality commonplace.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways of experiencing a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world. Food in Botswana is quite basic and usually consists of millet, sorghum, goat or beef, but there are a few highlights.
+
+Things to try in Botswana
+
+1. Seswaa
+
+This classic dish of shredded beef served with maize meal and cabbage is considered to be Botswana's national dish and can be found in most restaurants and cafes.
+
+2. Bush Tea
+
+Also known as Rooibos, this red-hued tea is drunk widely throughout Southern Africa. Pure, natural, high in antioxidants and void of caffeine, you'll see locals drinking it everywhere from city cafes to village huts.
+
+3. Fresh Fruit
+
+Local produce in Botswana is quite good but their melons are generally the stand out. For a cheap and healthy snack, try watermelon, marula or lerotse, which can be found at markets and street stalls.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Landlocked Botswana sits in Southern Africa and is bordered by
+Namibia
+,
+South Africa
+and
+Zimbabwe
+. Most of Botswana is relatively flat, although some mountainous areas can be found. Botswana’s topography is an interesting mix of desert, wetland and tableland, with the Kalahari Desert accounting for up to 80% of the country. Most of Botswana’s population choose to live in the eastern part of the country due to the central and southwest regions being dominated by the Kalahari Desert. Much of Botswana's north and west is taken up by the expansive Okavango Delta, which comprises more than 16,000 sq km of channels and islands.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The land of Botswana and surrounding regions have been inhabited by tribal groups for thousands of years, with tribes migrating into the area, from the lands now known as Zambia and Congo, sometime around 200-500 AD.
+
+In 1885, the region came under British influence and became known as the Bechuanaland Protectorate, mainly as a tactic to avoid being overrun by the Boers who were campaigning in the region. This status continued for decades, until increasing nationalism in the 1950s led to an internal push for independence.
+
+Recent History
+
+Although never officially colonised, Botswana was granted independence from Britain on September 30th, 1966. Diamonds were discovered in the country in 1967, which provided a steady stream of revenue that continues to this day. Unlike many other African nations, Botswana enjoys peace, prosperity and a relatively high standard of living. Equal rights and freedom of speech are granted to all under the constitution, the economy is stable due to the growth of the mining and tourism industries, and literacy rates are improving rapidly.
+
+
+
+
+
+
+
+
+Top 10 Animals of Botswana
+
+
+
+
+
+
+×
+
+Top 10 Animals of Botswana
+
+
+
+
+1. African Elephant
+
+Botswana is home to one of the world's largest populations of African elephants. Nothing beats encountering a herd of these majestic beasts while out on safari. It's an iconic African travel moment to treasure!
+
+2. Cape Vulture
+
+This endangered species is fully protected in Botswana, although the global population has sadly been in decline for years. Playing an important part in the food chain, this imposing bird can be found all throughout Botswana. See them while you can.
+
+3. Chacma Baboon
+
+Botswana's largest primate belongs to the old-world monkey family and can be found in the Okavango Delta region of Botswana. With a distinctive dog-like face and very sharp teeth, they aren't beauty pageant contenders but have a loveable charm of their own.
+
+4. Flamingo
+
+One of the most curiously beautiful birds in Africa, pink flamingos can be found in the salt pans and wetlands of the north. If you're heading to Botswana, try to catch them in all their blush-pink avian glory.
+
+5. Lesser Bushbaby
+
+The nocturnal bushbaby is a distant relative of the lemur and can be found in the northern parts of Botswana. While they are hard to spot, you can usually hear them crying out from the trees in the night.
+
+6. Lion
+
+Time seems to stand still when a pride of regal lions present themselves. Watch safari-goers and other animals stop in their tracks and collectively hold their breath in respect (and fear) for these beautiful beasts.
+
+7. Kori Bustard
+
+Large populations of the world's heaviest flying bird live in Botswana and are easily spotted due to their large, crested head. Although capable of flight, the kori bustard is usually found on the ground foraging for lizards and insects.
+
+8. Zebra
+
+There's no doubt - the national animal of Botswana is one of the most striking in the world. Zebras can be found in the reserves, parks and bush of Botswana and due to their zany black and white coat, they're not hard to spot.
+
+9. Black Mamba Snake
+
+While we hope there are no close encounters with this highly venomous snake, they're worth a mention as the black mamba is abundant in Botswana and known for being one of the most dangerous snakes in the world. Respect!
+
+10. Rhino
+
+Botswana has many sanctuaries dedicated to the preservation of endangered animals, and the community-based Khama Rhino Sanctuary is an excellent example of how the decline of a species can be put into reverse. See rare black and white rhinos here and marvel at their strength and enormity.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Botswana has everything from western-style malls to village markets and craft cooperatives. While Botswana’s wildlife and landscapes are undoubtedly the main attractions, there are enough shopping highlights here to fill a backpack.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Botswana
+
+1. Elephant Dung Paper
+
+Yes, you read it correctly, you’ll be able to find recycled paper products made from elephant dung in Botswana. Handmade cards, envelopes and journals make interesting, environmentally aware gifts for friends back home – and don’t worry, they don’t smell.
+
+2. Handmade Baskets
+
+The basket weavers of Botswana are considered among Africa’s best, so pick up a colourful, handwoven basket made using techniques that have been passed down through generations.
+
+3. Art
+
+Modern and traditional art by talented local artists can be found in sophisticated city galleries and sleepy country markets. Supporting local artisans is a good way to assist the community, empower people and ensure your souvenirs are authentic.
+
+
+
+
+
+
+
+
+Festivals and Events in Botswana
+
+
+
+
+
+
+×
+
+Festivals and Events in Botswana
+
+
+
+
+Maitisong Festival
+
+This annual performing arts festival gifts the city of Gaborone with a carnival of colour. Over nine days, the streets and performance venues are filled with traditional dancing, theatre, music and a whole lot of fun.
+
+Botswana Day
+
+This annual celebration of Botswana's independence sees locals indulging in food, beer and music. While not a cultural event, it's a great time to feast and party with locals as displays of happiness and national pride spill out on to the streets.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The No 1 Ladies Detective Agency
+
+Alexander McCall Smith
+
+Whatever You Do, Don't Run
+
+Peter Allison
+
+Botswana Time
+
+Will Randall
+
+Place of Reeds
+
+Caitlin Davies
+
+Far and Beyond
+
+Unity Dow
+
+
+
+
+
+
+
+
+
+Botswana travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Botswana?
+
+
+
+
+
+
+
+
+
+Australia: No visa required
+Belgium: No visa required
+Canada: No visa required
+Germany: No visa required
+Ireland: Yes - visa required
+Netherlands: No visa required
+New Zealand: No visa required
+South Africa: No visa required
+Switzerland: No visa required
+United Kingdom: No visa required
+USA: No visa required
+
+Citizens of countries not listed above, including most EU countries, should check with the relevant consulates as to whether a visa is required. For passengers requiring a visa to Botswana, application forms can be downloaded from
+http://www.gov.bw/en/
+as well as instructions for applying.
+
+Entry Requirements - Yellow Fever Certificate:
+A valid Yellow Fever Vaccination Certificate is required for all passengers over one year of age who arrive or are transiting through Botswana, from a country or region listed by the World Health Organization as infected by yellow fever. Travellers unable to present a valid yellow fever vaccination certificate issued at least 10 days before arrival will be refused entry. There is no option for travellers without a vaccination certificate to be vaccinated on arrival. Please note this also includes transiting through an infected country or region.
+
+Children travelling to Botswana:
+Please note that if you’re travelling to Botswana with a person under the age of 18 then you need to provide a certified copy of the child’s full unabridged birth certificate in order to enter the country (the one listing the child’s details and both parents’ details. - the short birth certificate which only lists the child’s details won’t be accepted).
+
+Additionally, if the child is travelling with only one parent, with neither biological parent, or is unaccompanied, then they must provide an affidavit of consent of the parent(s) that are not travelling, to prove that the trip is made with both parents' consent. Please contact your nearest Botswanan Embassy if you have further questions regarding this.
+
+
+
+
+
+
+
+Is tipping customary in Botswana?
+
+
+
+
+
+
+
+
+
+Although tipping isn’t mandatory in Botswana, a little generosity will be positively received by locals. Setting aside a small amount for porters, guides and drivers is wise, as is leaving spare change or rounding up the bill at restaurants. Restaurants and cafes in urban areas may expect a further 10% added to the bill.
+
+
+
+
+
+
+
+What is the internet access like in Botswana?
+
+
+
+
+
+
+
+
+
+Travellers will have access to internet cafes in Botswana’s larger cities, but limited to no access should be expected in rural areas and national parks.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Botswana?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in Botswana’s larger cities and towns but less so in rural areas. Ensure you have global roaming activated before leaving home if you wish to use your mobile phone.
+
+
+
+
+
+
+
+What are the toilets like in Botswana?
+
+
+
+
+
+
+
+
+
+Botswana has a combination of modern flushable toilets and squat/pit toilets, depending on where you are travelling and staying. Generally, large hotels, modern restaurants and city cafes have flushable toilets, while remote areas like national parks, campgrounds and villages typically have squat toilets.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Soft Drink = 2 BWP
+Snack = 4.50 BWP
+Bottle of beer = 5 BWP
+Basic Lunch = 15-20 BWP
+Dinner at a restaurant = 55-100 BWP
+
+
+
+
+
+
+
+Can I drink the tap water in Botswana?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Botswana. For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found, some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards widely accepted in Botswana?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by large hotels, modern shops and western-style restaurants but not by smaller vendors. Ensure you have adequate cash to cover purchases not able to be made on credit.
+
+
+
+
+
+
+
+What is ATM access like in Botswana?
+
+
+
+
+
+
+
+
+
+You will be able to find ATMs in the big cities, airports and regional towns of Botswana. Rural areas, national parks and small villages will have limited to no ATMs, so be sure to carry other payment options before travelling out of the big cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Botswana?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Botswana?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+3 Jan New Year Holiday
+
+14 Apr Good Friday
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+25 May Ascension Day
+
+1 Jul Sir Seretse Khama Day
+
+17 Jul President's Day
+
+18 Jul President's Day Holiday
+
+30 Sep Botswana Day
+
+2 Oct Botswana Holiday
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+Please note these dates are for 2017. For a current list of public holidays in Botswana go to:
+http://www.worldtravelguide.net/botswana /public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Botswana
+
+Be considerate of Botswana’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+Refrain from buying ivory or other products harvested from endangered animals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

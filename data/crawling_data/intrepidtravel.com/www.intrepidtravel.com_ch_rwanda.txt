@@ -1,0 +1,3709 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rwanda Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rwanda tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Rwanda
+
+
+
+From stealing magic moments with mountain-dwelling gorillas to experiencing heart-warming encounters with villagers, Rwanda will deliver experiences unlike any other.
+
+
+Volcanic mountains, dense forests, tranquil lakes and lively towns add a stunning backdrop to Rwanda’s real gems – the sincere, proud people and majestic, mysterious wildlife.
+
+
+Our Rwanda trips
+
+
+
+
+
+
+
+
+
+Gorillas & Game Parks
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,601
+
+
+
+
+
+The ultimate African adventure tour. See lions in Kenya's Lake Nakuru National Park,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas, Game Parks & Beaches
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR5,540
+
+
+
+
+
+Get closer to Africa’s incredible wildlife on this journey through Kenya, Uganda,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beaches, Game Parks & Gorillas
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR4,058
+
+
+
+
+
+Get closer to Africa’s incredible wildlife on this journey through Kenya, Uganda,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Northbound
+
+
+
+
+
+
+
+
+
+64 Days
+
+
+From
+FR7,920
+
+
+
+
+
+Jump aboard this epic tour from Cape Town to Nairobi. From safaris in Tanzania and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mountain Gorillas of Rwanda
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR4,025
+
+
+
+
+
+Visit Rwanda and travel through some of Africa's most incredible landscapes. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,770
+
+
+
+
+
+See Africa encompassed on a tour through Kenya, Uganda, Rwanda, Tanzania, Malawi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas to Vic Falls
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR6,400
+
+
+
+
+
+Take an epic East African adventure from Kenya to Zimbabwe. Safari in the Serengeti, go...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Gorillas
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,025
+
+
+
+
+
+This East Africa adventure tour travels from Zimbabwe to Kenya. Visit Zanzibar beaches,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Gorillas
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR7,270
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas & Chimps In Depth
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,668
+
+
+
+
+
+Visit Africa and travel to Kenya for an overland tour to spot gorillas and rhinos in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on Rwanda
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 02, 2016
+
+
+
+Everything you need to know about mountain...
+
+
+
+
+
+
+Getting to the gorillas takes more effort, more time and more expense than a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 28, 2016
+
+
+
+Stories from Rwanda: what it’s really like...
+
+
+
+
+
+
+I am in Volcanoes National Park in the North West corner of Rwanda, and I’m...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rwanda travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kigali
+
+
+
+
+Shop for Rwandan handicrafts in the markets of Kigali
+
+
+
+
+
+
+Gorillas & Game Parks, 16 days
+
+
+
+
+
+
+
+
+Gorillas, Game Parks & Beaches, 28 days
+
+
+
+
+
+
+
+
+
+
+
+Ruhengeri
+
+
+
+
+Enjoy local food and culture in the town of Ruhengeri
+
+
+
+
+
+
+Gorillas & Game Parks, 16 days
+
+
+
+
+
+
+
+
+Gorillas & Chimps In Depth, 21 days
+
+
+
+
+
+
+
+
+Mountain Gorillas of Rwanda, 4 days
+
+
+
+
+
+
+
+
+
+
+
+Nyungwe National Park
+
+
+
+
+See cheeky monkeys and chimpanzees in the Nyungwe National Park
+
+
+
+
+
+
+
+
+
+
+Transport in Rwanda
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Rwanda, you may find yourself travelling by:
+
+
+
+
+
+
+
+Safari Vehicle
+
+Get out of the city and into the heart of the African bush aboard a safari vehicle, purpose-built for negotiating rough terrain.
+
+
+Mountain Gorillas of Rwanda
+
+
+
+
+Accommodation in Rwanda
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Rwanda you may find yourself staying in a:
+
+
+
+
+
+
+
+Lodge
+
+Spend a night sleeping in a lodge surrounded by lush forest, rolling hills and twittering birdlife. It’s not often you get to stay within a national park.
+
+
+Mountain Gorillas of Rwanda
+
+
+
+
+Rwanda holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Kigali (population 851,000)
+
+Population:
+
+11.3 million
+
+Language:
+
+Kinyarwanda, French, English
+
+Currency:
+
+RWF
+
+Time zone:
+
+(GMT+02:00) Windhoek
+
+Electricity:
+
+Type C (European 2-pin) Type J (Swiss 3-pin)
+
+Dialing code:
+
++250
+
+
+
+
+
+
+
+
+
+Best time to visit Rwanda
+
+
+
+
+
+
+×
+
+Best time to visit Rwanda
+
+
+
+
+Rwanda has a tropical highland climate, with temperatures being pleasantly warm most of the year. March to May is the wet season, so expect frequent rain and thunderstorms during this period, which can make trekking and other outdoor activities uncomfortable at times.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Rwanda has a rich, vibrant culture based on traditional dance, crafts song and drumming. History and culture is communicated through the generations with songs, poetry and stories providing links to the past. Visitors to Rwanda should catch a cultural performance of dynamic dance and music to appreciate the heritage and identity that is carried by these songs and dances.
+
+There are three main ethnic tribes in Rwanda - Hutu, Tutsi and Twa, each having their similarities and differences. The Twa comprise less than 1% of the population, and are hunter-gatherers, having lived in Rwanda for centuries. The Hutu and Tutsi are not divided by ethnicity but by a social caste system, with the Tutsi traditionally living pastoral lives and being members of the ruling class, and the Hutu traditionally being seen as peasant farmers. This is malleable though, as intermarriage between the two is quite common, so children may have a Hutu father and a Tutsi mother. While this has lead to much division and conflict in the past, Rwanda has more recently enjoyed 15 years of relative harmony, with these ethnic groups living and working alongside each other in peace.
+
+Foreigners and travellers will find most Rwandans live simple lives, devoid of modern conveniences and perhaps it is because of this that Rwandans are known for being friendly, genuine and very accommodating to visitors. Homestays in particular provide valuable insights into the culture of Rwanda.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Rwandan food typically consists of simple meals made from locally grown produce. Sweet potato, corn, peas, beans and cassava feature heavily, and are usually fried or cooked in a stew. Spices and seasonings aren’t common in Rwandan cooking, so food may be a little bland for some – but just right for others who prefer their food less spicy.
+
+Things to try in Rwanda
+
+1. Fresh Fruit
+
+Bananas, avocados, mangoes and papaya are plentiful in Rwanda and are a cheap, fresh snack when bought from markets and street carts.
+
+2. Frites-Banane (Fried Plantains)
+
+Fried Plantains are a delicious snack and found just about everywhere in Rwanda.
+
+3. Meat
+
+Barbecued beef, goat and chicken are available at roadside street stalls in the larger cities.
+
+4. Beer
+
+Beer is popular with the men of Rwanda (women rarely drink). Primus, Mutzig and Amstel are the main beers available in Rwanda, as well as locally brewed banana beer.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing borders with
+Uganda
+, Burundi,
+Tanzania
+and the Democratic Republic of Congo, Rwanda is a densely populated, landlocked nation. Covered in grassland, mountains and rolling hills, most people in Rwanda live in villages surrounded by farmland. Plantations of cash crops like coffee and tea are common, but small subsistence farming is the main source of income for most Rwandans living in rural areas.
+
+The dense jungles and national parks of Rwanda house many species of animal including gorillas, baboons, chimpanzees and prolific birdlife. Unlike many other African bodies of water, freshwater Lake Kivu is free from crocodiles and hippos, so it’s a great spot for swimming, fishing and other recreational activities.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The original inhabitants of Rwanda, the Twa, lived a hunter-gatherer lifestyle for centuries before the arrival of the Hutu people. Then the Tutsi brought with them a feudal system of land ownership and society. In 1890 Germany took control of Rwanda, and ruled until 1916 when the Belgians overpowered the German forces during World War I. Under Belgian rule, clashes between the Tutsi and the Hutu were frequent and a precursor to the violence of the 1990s. Independence was granted in 1962, and the Hutu majority came into power. Because of this, Tutsi people were marginalised, with less access to education and employment opportunities. This imbalance created simmering tensions within Rwanda, culminating in armed conflict and displacement of people.
+
+Recent History
+
+In 1994, Rwanda erupted into civil war following the death of the president in a plane crash (the plane was shot by a missile while trying to land in Kigali). Months of bloodshed ensued - it's estimated that close to a million people were killed within a period of 90 days. Millions of Rwandans fled into neighbouring Uganda and Tanzania to escape the violence, murder and looting that had taken over their country. Due to the loss of life and infrastructure caused by the genocide of 1994, many Rwandans today live in poverty. Despite this, Rwanda is currently rising out of hard times to move into the future with increased prosperity and improved living conditions. The economy is slowly improving due to a flourishing tourism industry and a new government that has invested in education and infrastructure
+
+
+
+
+
+
+
+
+Top 10 Experiences of Rwanda
+
+
+
+
+
+
+×
+
+Top 10 Experiences of Rwanda
+
+
+
+
+Top 10 Amazing Experiences of Rwanda
+
+1. Gorillas in the Mist
+
+Trekking through the steamy jungle is well worth it once you set eyes upon a family of silverback gorillas. Watch them interact and play and marvel at how similar they are to humans. Watching these rare creatures is utterly captivating and engrossing – you won’t want to leave.
+
+2. National Treasures
+
+Stop in at the Butare National Museum, considered one of the best museums in East Africa. Featuring tribal art, traditional housing, musical instruments and other artefacts, this museum offers visitors a great grounding in Rwandan history and culture.
+
+3. Moving Memorial
+
+Be touched by the spirit of the Rwandan people when visiting the Kigali Genocide Memorial Centre. This place is dedicated to the people who lost their lives in the genocide of 1994, and provides a peaceful space for survivors to mourn and ultimately heal.
+
+4. Chill Out Lakeside
+
+Experience the serenity and beauty of Rwanda’s Lake Kivu. Whether you’re enjoying a relaxing walk on the shores or heading out on a boat, Lake Kivu provides a pocket of aquatic splendour in a landlocked country.
+
+5. Monkey Magic
+
+Have fun finding chimps, baboons and monkeys in the trees of the Nyungwe National Park. The dense rainforest terrain offers the perfect environment for these amazing creatures to live in.
+
+6. Home Sweet Home
+
+Experience true Rwandan hospitality while spending time with a local family on a homestay. Enjoy home cooking and new friendships – something you just can’t get when staying at a hotel.
+
+7. To Market
+
+Strolling through the markets of Kigali is a great way to get acquainted with this up-and-coming city. Buy some trinkets or fresh produce, chat with locals and watch market-life in action.
+
+8. Beach Bliss
+
+The small town of Gisenyi is home to unspoilt beaches where you won't have to fight for a spot to laze on them. Enjoy the isolation and make the most of the space in this pocket of paradise.
+
+9. Small Town Charm
+
+Known as the gateway town to the gorillas, Ruhengeri offers a change of pace to the crowds of Kigali. Be touched by the warmth and sincerity of the local people while staying in this town of about 80,000 people.
+
+10. Feel the Beat
+
+Soak up a bit of nightlife by getting your groove on to African and Western pop music in one of Kigali’s busy nightspots. New Cadillac and Republika Lounge are popular with both locals and expats, so why not see how the city comes to life after dark.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Rwanda’s markets are filled with bright delights, from fresh fruit and vegetables to vibrant fabrics. Souvenir-wise, the best picks are handicrafts and artwork by local artists. Woven baskets, colourful fabric bags, interesting jewellery, wood carvings and terracotta pots all make great mementos of your trip or gifts for friends back home.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+
+
+
+
+
+
+
+Festivals and Events in Rwanda
+
+
+
+
+
+
+×
+
+Festivals and Events in Rwanda
+
+
+
+
+Christmas
+
+With the majority of Rwandans being Christian, Christmas is an important time for most. Rwandans typically don’t celebrate Christmas in a commercial way, with most foregoing gift giving and choosing to spend time at church and with family. Church services are usually a formal affair and run for several hours, with locals getting dressed up in their finest attire to attend mass. Time is then spent eating and socialising with family and friends.
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+We Wish to Inform You That Tomorrow We Will be Killed With Our Families
+
+Philip Gourevitch
+
+Gorillas in the Mist
+
+Dr Dian Fossey
+
+A Thousand Hills
+
+Stephen Kinzer
+
+Left to Tell: Discovering God Amidst the Rwandan Holocaust
+
+Immaculee Ilibagiza
+
+An Ordinary Man: The True Story Behind Hotel Rwanda
+
+Paul Rusesabagina
+
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+Rwanda travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Rwanda
+
+
+
+
+
+
+
+
+
+RWANDA:
+Visas are required by all nationalities and need to be obtained in advance. You must apply for this visa online at www.migration.gov.rw.
+
+You'll need to apply for an Entry Visa on their website (Services tab, Visa) which should take approx 2-5 days to come through. You must print this Entry Facility out to present at the border.
+
+Nationals of Australia, Israel, New Zealand, USA, Germany, South Africa, Kenya, Great Britain, Sweden and Singapore are not required to pre-register, however must pay the visa fee upon arrival at the border post.
+
+The visa costs approx US$60 payable on the border, with the exception of national from Australia, Israel, New Zealand, USA, Germany, South Africa, Kenya, Great Britain, Sweden and Singapore for whom the visa fee is US$30.
+
+If you are asked to provide an address in Rwanda on your visa form, please use the address below -
+Centre Pastoral Notre Dame De Fatima
+Avenue de la Nutrition
+Ruhengeri, Rwanda
+
+Supporting Documents may also be required - the embassy will contact you if they require these.
+
+Note: Rwanda is constantly updating its visa information; therefore we recommended that you check the website carefully for the latest up to date information www.migration.gov.rw
+
+
+
+
+
+
+
+Is tipping customary in Rwanda?
+
+
+
+
+
+
+
+
+
+Tipping isn’t expected of you in Rwanda. It's up to the individual whether to tip or not. Rounding up a bill for good service at restaurants is a good idea.
+
+
+
+
+
+
+
+What is the internet access like in Rwanda?
+
+
+
+
+
+
+
+
+
+Internet access has recently improved in Rwanda. Travellers will be able to access the internet in large cities like Kigali but expect limited to no access in regional and rural areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Rwanda?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is quite good in Rwanda’s larger towns, but less so in rural and mountainous areas. Ensure you have global roaming activated before leaving home if you wish to use your mobile phone.
+
+
+
+
+
+
+
+What are the toilets like in Rwanda?
+
+
+
+
+
+
+
+
+
+Squat/pit toilets are the standard in Rwanda, except for western-style, flushable toilets that are sometimes available in large hotels and other modern buildings. Carry your own supply of soap and toilet paper as they are rarely provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Street snack = 300 RWF
+Beer at a bar or cafe = 1,000 RWF
+Meal at a mid-range restaurant = 7,500 RWF
+
+
+
+
+
+
+
+Can I drink the water in Rwanda?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Rwanda. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found; some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Rwanda?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by large hotels and western-style restaurants but not by smaller vendors. Ensure you have adequate cash to cover purchases not able to be made on credit.
+
+
+
+
+
+
+
+What is ATM access like in Rwanda?
+
+
+
+
+
+
+
+
+
+International ATMs are not so common in Rwanda. They can be found in Kigali and other larger towns, but may not accept foreign cards. Be sure to have other modes of payment before entering Rwanda, as relying solely on ATM usage isn’t wise. American dollars or euros can be exchanged easily at the airport, local forex bureaus and at banking institutions in Rwanda’s large cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Rwanda?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Rwanda?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+3 Jan New Year Holiday
+
+1 Feb National Heroes' Day
+
+7 Apr Tutsi Genocide Memorial Day
+
+14 Apr Good Friday
+
+1 May Labour Day
+
+25 Jun Eid al-Fitr / End of Ramadan
+
+26 Jun Eid al-Fitr / End of Ramadan
+
+1 Jul Independence Day
+
+4 Jul Liberation Day
+
+4 Aug Umuganura / Harvest Thanksgiving
+
+15 Aug Assumption Day
+
+1 Sep Eid al-Adha / Feast of Sacrifice
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+Please note these dates are for 2017. For a current list of public holidays in Rwanda go to:
+http://www.worldtravelguide.net/rwanda/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Rwanda Travel Tips
+
+Be considerate of Rwanda’s customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+Ask permission, remove your shoes and cover your shoulders with a jacket or wrap before entering a place of worship.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+Be respectful of Rwanda’s recent history. It's best to avoid discussing politics, ethnicity or genocide.
+
+When visiting the mountain gorillas or trekking in national parks, always follow the instructions of your guide and/or leader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

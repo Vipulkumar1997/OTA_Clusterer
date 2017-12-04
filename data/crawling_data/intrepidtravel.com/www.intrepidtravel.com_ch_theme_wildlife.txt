@@ -1,0 +1,7213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wildlife Tours | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wildlife trips
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Wildlife
+
+
+
+
+Get closer to nature. From the jungles of India to the African bush, our small group tours take you to the heart of nature. From elephants silhouetted against an Africa sunset to orangutans swinging in the treetops high above, spotting wildlife in any part of the world is a thrilling way to spend your time.
+
+That’s why we’ve created trips that focus on wildlife viewing and get right into the heart of an animal’s world. Stay in a range of accommodation, from safari lodges to wilderness camps for a truly wild experience. We only use expert local guides.
+
+
+Our wildlife trips
+
+
+
+
+
+
+
+
+
+
+Pure Galapagos (Daphne)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR3,674
+
+
+
+
+
+Come face-to-face with the extraordinary central islands of the Galapagos. Snorkel with...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica Family Holiday
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,795
+
+
+
+
+
+This family trip to Costa Rica has been crafted to balance organised activities and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Masai Mara Walk
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR925
+
+
+
+
+
+Travel to Kenya and visit Nairobi. Embark on a journey across the Great Rift Valley to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger Experience - Lodge (4 days)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR595
+
+
+
+
+
+No holiday to South Africa is complete without a safari in Kruger Park. Spot wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Photography Safari with Ben Mcrae
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR3,875
+
+
+
+
+
+Travel from Victoria Falls to Chobe National Park, cross the Makgadikgadi Pans to Maun,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Visit Africa and travel through Botswana, Namibia and Zimbabwe on a tour from Windhoek...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Okavango & Beyond
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,685
+
+
+
+
+
+Travel from Zimbabwe to South Africa via Botswana. The Okavango and Beyond trip is the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Cape Town
+
+
+
+
+
+
+
+
+
+48 Days
+
+
+From
+FR6,340
+
+
+
+
+
+Explore Africa as you travel from Kenya to Cape Town through Tanzania, Zanzibar, Malawi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger Experience - Lodge (5 days)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR715
+
+
+
+
+
+Experience South Africa's Kruger Park and surrounding region on this five-day tour....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger & Cape Town by Train
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,225
+
+
+
+
+
+Enjoy the African wilds on a safari in Kruger, travel along the breathtaking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger & Coast
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR796
+
+
+
+
+
+Travel to Kruger National Park on an out-of-this-world African safari, visit Swaziland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas & Game Parks
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,601
+
+
+
+
+
+The ultimate African adventure tour. See lions in Kenya's Lake Nakuru National Park,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Northbound
+
+
+
+
+
+
+
+
+
+64 Days
+
+
+From
+FR7,920
+
+
+
+
+
+Jump aboard this epic tour from Cape Town to Nairobi. From safaris in Tanzania and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,770
+
+
+
+
+
+See Africa encompassed on a tour through Kenya, Uganda, Rwanda, Tanzania, Malawi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Vic Falls
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,550
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Okavango Experience
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR995
+
+
+
+
+
+Tour through Johannesburg, Maun and Victoria Falls on this trip through South Africa,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Gorillas
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR7,270
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger, Coast & Cape
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,010
+
+
+
+
+
+Embark on an African odyssey! Visit South Africa, Swaziland and Lesotho. This tour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanzania Safari under Canvas
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR4,290
+
+
+
+
+
+Bursting with wildlife, the national parks of Tanzania will have you continually...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas to Vic Falls
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR6,400
+
+
+
+
+
+Take an epic East African adventure from Kenya to Zimbabwe. Safari in the Serengeti, go...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Namibia Discovery
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,865
+
+
+
+
+
+Crossing the border from Cape Town, South Africa, head towards Windhoek to encounter...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kruger
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR975
+
+
+
+
+
+Travel from Zimbabwe to Botswana and South Africa on a real African adventure. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Sarawak
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,558
+
+
+
+
+
+Hop aboard an adventure tour through the wilds of Borneo's Sarawak region. Crawl...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Southern Africa
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,920
+
+
+
+
+
+Travel to South Africa, Botswana and Zimbabwe and uncover their natural wonders. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Borneo
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,277
+
+
+
+
+
+Travel through the wild, untamed lands of beautiful Borneo. From magnificent Mt...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serengeti Trail
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,408
+
+
+
+
+
+Roam the vast Serengeti National Park and Ngorongoro Crater, camp beside Lake Victoria...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya & Tanzania Safari Under Canvas
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR7,930
+
+
+
+
+
+Experience the wild wonders of Kenya and Tanzania on this trip that delivers adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Masai Heartlands
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,365
+
+
+
+
+
+The wonders of Kenya and Tanzania unfold on this African adventure tour. Enjoy...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Borneo
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,935
+
+
+
+
+
+Journey through Borneo on an adventure that includes river cruising, jungle nature...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sabah Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,845
+
+
+
+
+
+This Sabah Adventure tour through the Borneo wilderness will truly capture your...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sabah Discovery
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,795
+
+
+
+
+
+From Kota Kinabalu to the orangutan and sun bear sanctuaries of Sepilok, whisk through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Madagascar
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,730
+
+
+
+
+
+Travel to Madagascar, off the east coast of Africa. Madagascar is teeming with wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Zanzibar
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR3,870
+
+
+
+
+
+See Africa on this incredible overland adventure from South Africa to Tanzania. Soak up...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Kenya
+
+
+
+
+
+
+
+
+
+49 Days
+
+
+From
+FR6,285
+
+
+
+
+
+Explore Africa as you wind your way up from South Africa, through Namibia, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas, Game Parks & Beaches
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR5,540
+
+
+
+
+
+Get closer to Africa’s incredible wildlife on this journey through Kenya, Uganda,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Southern Africa
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,455
+
+
+
+
+
+Visit Africa and travel through southern Africa's beautiful regions. Visit South Africa...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nairobi to Omo
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,782
+
+
+
+
+
+Travel to Africa and tour Kenya and Ethiopia on a trip from Nairobi to Arba Minch....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Omo to Addis
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,798
+
+
+
+
+
+Go off the beaten track on this immersive Ethiopian adventure, visiting remote tribes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Africa Adventure
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR3,215
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Zanzibar
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR2,580
+
+
+
+
+
+Travel through Botswana to the thundering Victoria Falls and on to to the fragrant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best of East Africa
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,195
+
+
+
+
+
+Step out onto the Serengeti and keep your eyes out for rhinos, lions, leopards and a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uganda Gorilla Shortbreak
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR2,150
+
+
+
+
+
+Travel to Africa to meet some of Uganda's rare and beautiful mountain gorillas. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo Family Adventure
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,343
+
+
+
+
+
+Travel to Borneo to visit orangutan sanctuaries and explore lush jungles. See the best...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya Wildlife Safari
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,035
+
+
+
+
+
+Travel to Africa and visit Kenya, where an Intrepid wildlife safari awaits. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro & Serengeti Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,435
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serengeti & Kilimanjaro
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR4,440
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Gorillas
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,025
+
+
+
+
+
+This East Africa adventure tour travels from Zimbabwe to Kenya. Visit Zanzibar beaches,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Vic Falls
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR3,790
+
+
+
+
+
+Explore the wilds of Africa on this action-packed adventure from the busy streets of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger to Vic Falls
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,190
+
+
+
+
+
+Travel from South Africa's capital to Botswana and Zimbabwe, visiting two of southern...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Tanzania
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,165
+
+
+
+
+
+Travel to Africa and visit the Serengeti, Kilimanjaro and Zanzibar. From Nairobi in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chiang Mai & Elephants
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR355
+
+
+
+
+
+Help feed and bathe Chiang Mai elephants at a rescue centre dedicated to helping...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,101
+
+
+
+
+
+Travel to Africa and discover the unique, contrasting lands of Zimbabwe, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing Southern Africa
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR6,745
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya Safari Under Canvas
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR4,439
+
+
+
+
+
+Visit Africa and forge into the heart of Kenya’s finest game parks on a overland lodge...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Experience
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR15,955
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls and then onto...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethiopian Highlands Northbound
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,293
+
+
+
+
+
+Travel to Africa and tour Ethiopia on a trip from Addis Ababa to Gondar. Discover...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Island Hopping
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,024
+
+
+
+
+
+Travel to the Galapagos Islands from Quito, Ecuador. Tour the Galapagos' highlights...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger Experience - Lodge (3 days)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR480
+
+
+
+
+
+Head out into the wilds of Kruger National Park on thrilling game drives. Stay in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Inca Trail Adventure
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,059
+
+
+
+
+
+Travel to Ecuador and the wildlife-rich shores of the Galapagos Islands. Then visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top End to the Outback 2017
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Journey from the eclectic city of Darwin to Kakadu and Litchfield National Parks and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outback to the Top End (ex Yulara) 2017
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Fly into Yulara and straight to Uluru, Kings Canyon, Litchfield, Kakadu and Katherine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outback to the Top End 2017
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Journey from outback Alice Springs via Uluru, Kings Canyon, Litchfield, Kakadu and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Territory Encompassed Southbound
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,245
+
+
+
+
+
+Enjoy this slow-paced journey from Australia's tropical Top End, to the Red Centre and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Territory Encompassed Northbound ex Yulara
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,245
+
+
+
+
+
+Journey from outback Alice Springs via Uluru, Kings Canyon, Litchfield and Kakadu to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Territory Encompassed Northbound
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,245
+
+
+
+
+
+Journey from outback Alice Springs via Uluru, Kings Canyon, Litchfield and Kakadu to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Darwin to Perth Overland (2017)
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,870
+
+
+
+
+
+Discover the wild heart of the Australian Outback through the mighty Kimberleys and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Cape Town
+
+
+
+
+
+
+
+
+
+39 Days
+
+
+From
+FR4,390
+
+
+
+
+
+Explore Africa on this wildlife-rich adventure from Tanzania to South Africa. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kenya
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,280
+
+
+
+
+
+Experience the exhilarating wild of Africa as you travel from Victoria Falls through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Zanzibar
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,595
+
+
+
+
+
+Travel from thundering Victoria Falls to the fragrant spice plantations of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Vic Falls
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,595
+
+
+
+
+
+Explore the best of south and east Africa with this adventure from the spicy beaches of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beaches, Game Parks & Gorillas
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR4,058
+
+
+
+
+
+Get closer to Africa’s incredible wildlife on this journey through Kenya, Uganda,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Nairobi
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,721
+
+
+
+
+
+Experience the best of East Africa on this road adventure. From Zanzibar to Nairobi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Great Ocean Road Adventure ex Adelaide (Original)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR325
+
+
+
+
+
+See the Twelve Apostles, Loch Ard Gorge, London Bridge and Grampians National Park on a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Great Ocean Road Adventure ex Adelaide (Basix)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR245
+
+
+
+
+
+See the Twelve Apostles, Loch Ard Gorge, London Bridge and Grampians National Park on a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Great Ocean Road Adventure ex Melbourne (Original)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR495
+
+
+
+
+
+See the Twelve Apostles, Loch Ard Gorge and London Bridge on a journey along the Great...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Great Ocean Road Adventure ex Melbourne (Basix)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR325
+
+
+
+
+
+See the Twelve Apostles, Loch Ard Gorge and London Bridge on a journey along the Great...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Fly the Drake (Island Sky) 2017 - 2018
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR11,215
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctica East & West: Peninsula in Depth (Ocean Endeavour) 2017 - 2018
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR12,415
+
+
+
+
+
+Be delighted by penguins, seals and whales on our most comprehensive expedition of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Fly the Drake (Island Sky) 2017 - 2018
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR13,870
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer (Sea Adventurer) 2017 - 2018
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR6,325
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Fly the Drake from Punta Arenas
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR9,055
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Crossing the Antarctic Circle from Punta Arenas
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR14,735
+
+
+
+
+
+Embark on an adventure of a lifetime while crossing the Antarctic Circle. Discover...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Circle via Falklands & South Georgia  2017 - 2018
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR13,370
+
+
+
+
+
+If you desire to ‘do it all’ on your Antarctic adventure, then this is the voyage for...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer: From Buenos Aires 10 day
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR6,230
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Kruger Camping
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR440
+
+
+
+
+
+Answer the call of the Kruger, South Africa's vast and famous game park that is teeming...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Highlights
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Stay in a tree house, search for the Big Five in the Chobe National Park, meet Xwe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Galapagos - Central Islands (Daphne)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR4,564
+
+
+
+
+
+Come face-to-face with the extraordinary central islands of the Galapagos. Snorkel with...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Adventure - Northern Islands (Daphne)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,940
+
+
+
+
+
+Discover the natural treasures of the Galapagos Islands. Snorkel with sea lions in the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos at a Glance - Southern Islands - (Daphne)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR2,395
+
+
+
+
+
+Travel to the Galapagos Islands and see the unique Scalesia cloud forest, myriad...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Galapagos - (Daphne)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR4,595
+
+
+
+
+
+Travel from Ecuador’s striking capital to the Galapagos Islands. Explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer (Island Sky) 2017 - 2018
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR11,285
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Broome to Perth Overland
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Soak up the laid-back lifestyle of Australia's West Coast. From isolated beaches and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perth to Broome Overland
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Soak up the laidback lifestyle on Australia's West Coast from Perth to Broome. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 Day Top End Adventure
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR860
+
+
+
+
+
+On a round trip from Darwin, travel to Kakadu National Park, Katherine and Nitmiluk...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 Day Kakadu/ Katherine/ Litchfield Adventure
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR910
+
+
+
+
+
+Set out on a camping safari through captivating Kakadu National Park. Experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kakadu Litchfield Adventure
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR605
+
+
+
+
+
+Set out on a camping safari through captivating Kakadu National Park. Experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adelaide to Alice Springs Overland
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR625
+
+
+
+
+
+Journey through Australia’s outback wonders on a seven-day adventure into the Red...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland ex Yulara
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR598
+
+
+
+
+
+This is the ideal short trip for those wanting to experience the Australian Outback in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR598
+
+
+
+
+
+Journey from the Red Centre to Adelaide. Watch the sun set over Uluru, trek through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Stone Town
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Spot a host wildlife at the Luangwa River, gape at the mighty Victoria Falls, explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+Tips for being a wildlife-friendly traveller
+
+Intrepid travellers are known for their caring and responsible approach to travel, especially when it comes to visiting animals in the wild. So learning to become a wildlife friendly traveller is easy, and we want to pass on some very simple tips to ensure your next wildlife adventure is 100% animal friendly.
+
+Find out more on how to be a wildlife-friendly traveller
+
+Watch a video on the protection of elephants in Thailand, find out what to avoid when souvenier shopping, 5 essential questions to ask when visiting wildlife, and how to view wildlife responsibly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Traveller reviews
+
+
+Our wildlife trips score an average of
+4.74 out of 5
+based on 865 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Gorillas & Game Parks,
+November 2017
+
+Alanna Dennis
+
+Super fun trip. You’ll see all sorts of wildlife that you won’t see at home! Be prepared to be uncomfortable at times, and be aware that the facilities are not always up to a western standard - and know that these things will fade into the background once you look back on the truly exceptional experiences you’ve had, and the stunningly beautiful places and things you’ve seen. Well worth it!!
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town,
+November 2017
+
+Karen Gregory
+
+The trip was great but I did think that the office staff were not as efficient as they should have been. Be very careful to check all details of a booking and question any vague or ambiguous trip notes.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town,
+November 2017
+
+Sharon Lovison
+
+AMAZING! That word was used after every activity, after every scenery change and literally after everything that we did.
+
+When I met Victor and Dan for the fist time, all I noticed was their smile. Sometimes you don't need words when you meet people. Dan helped me with my luggage and found me a locker, after that I was now part of the family. 
+
+From Day One, Victor, Dan and Henry were so kind, caring and made me and everyone feel at ease and so welcoming. It was refreshing to only meet someone for a few hours but then realise how comfortable they made you feel. 
+
+We had such a wide range of ages on our trip, but that didn't stop anyone from not being friends. From the first night, everyone just clicked. 
+
+Everyday was different and there was always something to see or do. Victor was very knowledgable and told us as much as he could at each place we went to. Especially on the safaris he was just as excited as we were when we saw a new animal. 
+
+Henry's food on the trip was fantastic. I really didn't think we would get the type of food that we did. On the days that we were out and about and on our own, we often said "It's not as good as Henry's" I never went hungry and hats off to him to make all these different meals and satisfy 17 different people. 
+
+This trip has been one of the best experiences of my life. So many memories. Victor, Dan and Henry made it the best trip possible for everyone and of course the other people on the trip too. I never imagined that I'd see all that I have. It exceeding my expectations way beyond belief.  I cannot recommend this trip to anyone enough, and if you're lucky to have these boys on your trip, then you are in for an amazing trip! There are too many words to describe this trip, just book it and see for yourself!
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+wildlife trip reviews
+
+Our wildlife trips score an average of
+4.74 out of 5
+based on 865 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+Read more about wildlife travel
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 02, 2017
+
+
+
+East Africa’s Wildebeest Migration: Everything...
+
+
+
+
+
+
+One of the biggest drawcards to visiting East Africa is the chance to see the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+8 reasons why your next adventure should be in...
+
+
+
+
+
+
+It’s not an easy destination to get to, which makes it the perfect spot for an...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 16, 2017
+
+
+
+7 wildlife experiences you can only have in...
+
+
+
+
+
+
+Camping with koalas and cosying up to kangaroos? Only in South Australia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 17, 2017
+
+
+
+Your Galapagos travel checklist: What to know...
+
+
+
+
+
+
+Your Galapagos go-to guide.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 20, 2017
+
+
+
+Where to spot leopards in Sri Lanka
+
+
+
+
+
+
+While the lion isn't much more than a majestic myth, another magnificent big cat...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 29, 2017
+
+
+
+Turtles and orangutans: witnessing wildlife...
+
+
+
+
+
+
+Sabah, a Malaysian state on the northern tip of Borneo, is home to some pretty...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 16, 2017
+
+
+
+How you can help save the orangutans
+
+
+
+
+
+
+Orangutans, with their shaggy orange fur, long limbs and cheeky grins, are the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 10, 2017
+
+
+
+How you can engage in ethical elephant tourism:...
+
+
+
+
+
+
+In 2014, Intrepid ended elephant riding on all trips after a report revealed...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 19, 2017
+
+
+
+The best thing about a family tour? Seeing your...
+
+
+
+
+
+
+'On the first day, the eight children pronounced themselves best friends and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 20, 2017
+
+
+
+What it’s like to safari in the Ngorongoro Crater
+
+
+
+
+
+
+From the windy lookout point, Ngorongoro Crater isn’t quite what I expected. Under...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 08, 2016
+
+
+
+How to travel like BBC’s Planet Earth
+
+
+
+
+
+
+If you want to embrace your inner Attenborough, these are the creatures and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 15, 2016
+
+
+
+South Luangwa National Park: Africa’s best kept...
+
+
+
+
+
+
+Wildebeest aren't the only crowds on the Serengeti. If you're after a safari with...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 06, 2016
+
+
+
+Traveller stories: a group photo competition in...
+
+
+
+
+
+
+A few days in, the group banter was as high as the Serengeti sun, but something e...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 11, 2016
+
+
+
+How we changed the elephant riding industry
+
+
+
+
+
+
+Over two years ago, we officially put a stop to elephant riding on Intrepid trips....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 10, 2016
+
+
+
+Blood Lions: The real story behind lion walks...
+
+
+
+
+
+
+There are currently thousands of lions and other predators being held in captivity...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 02, 2016
+
+
+
+Everything you need to know about mountain...
+
+
+
+
+
+
+Getting to the gorillas takes more effort, more time and more expense than a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 01, 2016
+
+
+
+Our easy-to-follow guide for ethical animal...
+
+
+
+
+
+
+Animal tourism can be a force for good, but it's up to all of us to make that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 12, 2016
+
+
+
+How to spot sloths in Costa Rica’s cloud forests
+
+
+
+
+
+
+If you want to get off your computer and spot sloths in the wild, one of the best...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 01, 2016
+
+
+
+The 20 connections you’ll experience on your...
+
+
+
+
+
+
+Just go with it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 20, 2016
+
+
+
+Moral dilemmas: should you do these things...
+
+
+
+
+
+
+When we travel, we face moral dilemmas every day. It's up to us to decide what...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 19, 2016
+
+
+
+Life in the north: our top 6 Arctic wildlife...
+
+
+
+
+
+
+One thing the Arctic does have is wildlife. Lots of it. On a size and scale that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 28, 2016
+
+
+
+Stories from Rwanda: what it’s really like...
+
+
+
+
+
+
+I am in Volcanoes National Park in the North West corner of Rwanda, and I’m...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 06, 2016
+
+
+
+Underbelly: why snake charming in Morocco isn’t...
+
+
+
+
+
+
+Along with mint tea, souks and tagines, snake charming was to me quintessentially...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 23, 2016
+
+
+
+This traveller got the coolest Antarctic...
+
+
+
+
+
+
+An antarctic experience involving whales, kayaks and life-changing adventure. In...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

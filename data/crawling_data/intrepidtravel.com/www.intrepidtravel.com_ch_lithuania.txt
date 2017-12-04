@@ -1,0 +1,3473 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lithuania Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lithuania tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Lithuania
+
+
+
+As the first Soviet republic to declare its independence from the Soviet Union in 1990, this slice of fairy-tale Europe – replete with medieval castles and primeval forests – is just begging to be explored
+
+
+Once the largest empire on the European continent, Lithuania’s history reads at time like a Game of Thrones episode and presents much for those looking to discover a new side of
+Europe
+. With architectural splendours spanning the gothic to renaissance to baroque to bohemian, a hearty national cuisine, and – would you believe it – a stunning stretch of sand dune coast, Lithuania bewitches all those who visit.
+
+
+Our Lithuania trips
+
+
+
+
+
+
+
+
+
+Baltic Experience
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,460
+
+
+
+
+
+Travel to Baltic Europe and visit Finland, Estonia, Latvia, Lithuania, Poland and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the Baltics
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,195
+
+
+
+
+
+Cycle through the Baltic States – Estonia, Latvia and Lithuania – from Tallin to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uncover Northern Poland and the Baltics
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,295
+
+
+
+
+
+Uncover the treasures of Poland, Lithuania, Latvia and Estonia with on an immersive...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Scandinavia & Baltic Circuit
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR8,625
+
+
+
+
+
+A truly original 36-day itinerary, with highlights including Copenhagen, Gothenburg,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Oslo to Berlin
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR6,480
+
+
+
+
+
+Travel through northern Europe on a tour from Oslo to Berlin. Visit Norway, Sweden,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Helsinki to Oslo
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,535
+
+
+
+
+
+A picturesque 22-day tour through the best of northern Europe, including Finland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Lithuania tour reviews
+
+
+Our Lithuania trips score an average of
+4.46 out of 5
+based on 39 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Baltic Experience,
+September 2017
+
+Frances Murphy
+
+All five Intrepid trips were really good (previously South India, Gourmet China, Middle East, Myanmar). Good group leaders and I like the small groups often they are experienced travellers from different countries.
+
+Review submitted 23 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Baltic Experience,
+September 2017
+
+Frederick Bluck
+
+Intrepid's Baltic Experience gives travellers a well-supported and well-structured opportunity to visit a range of destinations while someone else worries about the details.
+
+Review submitted 13 Oct 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Lithuania trip reviews
+
+Our Lithuania trips score an average of
+4.46 out of 5
+based on 39 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Lithuania
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 25, 2017
+
+
+
+A guide to Vilnius, Europe’s next hottest city...
+
+
+
+
+
+
+I imagine that Vilnius is akin to what Berlin was like decades ago. Youngsters in...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 27, 2017
+
+
+
+Trip or treat? Our spookiest adventures from...
+
+
+
+
+
+
+With Halloween fast approaching, things are getting eerie at Intrepid. Here are...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lithuania travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curonian Spit National Park
+
+
+
+
+Stroll along the rolling sand dunes of Curonian Spit National Park
+
+
+
+
+
+
+Oslo to Berlin, 29 days
+
+
+
+
+
+
+
+
+Baltic Experience, 15 days
+
+
+
+
+
+
+
+
+Helsinki to Oslo, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Aukstaitija National Park
+
+
+
+
+Wander the woods and waterways of Aukstaitija National Park
+
+
+
+
+
+
+Baltic Experience, 15 days
+
+
+
+
+
+
+
+
+Helsinki to Oslo, 22 days
+
+
+
+
+
+
+
+
+Oslo to Berlin, 29 days
+
+
+
+
+
+
+
+
+
+
+
+Klaipeda
+
+
+
+
+Take in the former Prussian capital of Klaipeda
+
+
+
+
+
+
+Helsinki to Oslo, 22 days
+
+
+
+
+
+
+
+
+Baltic Experience, 15 days
+
+
+
+
+
+
+
+
+Oslo to Berlin, 29 days
+
+
+
+
+
+
+
+
+
+
+
+Vilnius
+
+
+
+
+Learn about Lithuanian history on a guided tour of Vilnius Old Town
+
+
+
+
+
+
+Uncover Northern Poland and the Baltics, 11 days
+
+
+
+
+
+
+
+
+Baltic Experience, 15 days
+
+
+
+
+
+
+
+
+Helsinki to Oslo, 22 days
+
+
+
+
+
+
+
+
+
+
+
+
+Lithuania holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Vilnius (population 535,000)
+
+Population:
+
+3 million
+
+Language:
+
+Lithuanian
+
+Currency:
+
+EUR
+
+Time zone:
+
+(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++370
+
+
+
+
+
+
+
+
+
+Best time to visit Lithuania
+
+
+
+
+
+
+×
+
+Best time to visit Lithuania
+
+
+
+
+The warm summer months of May through to September are the best time to visit Lithuania, although it often rains a lot during July and August. From November to March it gets very cold, with temperatures often dropping below freezing and heavy snowfalls from December to April.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Lithuania’s fertile landscape is one of extremely flat low-lying plains, with a lake never too far off – there are more than 4,000 running through the country. The country has a 99-km-long stretch of sandy coast, and is one third covered by lush forest.
+
+
+
+
+
+
+
+
+Top 5 Quirky Attractions in Lithuania
+
+
+
+
+
+
+×
+
+Top 5 Quirky Attractions in Lithuania
+
+
+
+
+1. Hill of Witches
+
+On a small rise just outside Juodkrante, covered in fir pines and offering pretty views over the Curonian lagoon, is the fantastical and fun ‘Hill of Witches’. A collection of more than 70 wooden carvings and statues sit mischievously, depicting ghoulish witches, devils and other characters from Lithuanian lore and fairy tales. Some of the larger constructions can move and be clambered about on for entertaining photo opportunities. Each year master carvers from around the country converge on the hill to restore the statues, build new ones and possibly – though probably not – drink goat’s blood.
+
+2. Hill of Crosses
+
+A couple of hours drive from Vilnius is the Hill of Crosses, an arresting and poignant testament to Lithuania’s various struggles against foreign powers. Although it’s believed that the first cross was brought to the hill sometime in the mid-19th century, the practice of ascending the hill and leaving behind crosses, crucifixes and Catholic effigies gained considerable momentum during the 1970s and 80s as an act of peaceful defiance against the Soviet occupancy. On three occasions the Soviets razed the hill and destroyed the crosses, only to find them quickly replaced. Also a popular site of pilgrimage, the hill attracts thousands of Catholic faithfuls each year and there are now an estimated 100,000 crosses at the location.
+
+3. Devil's Museum
+
+Adroitly playing on humanity’s fascination with evil incarnate, The Devil’s Museum in Kaunas holds what is believed to be the world’s largest collection of all things diabolical. The exhibition opened in 1966 and is really more amusing than it is creepy. With the museum’s long-time tradition of accepting and displaying artworks gifted by visitors from across the globe, you’re just as likely to come across his royal Prince of Darkness depicted in an intricate wood carving as a nut-cracker, or in disguise as various political dictators. And for those looking to further descend into the underworld, a bar in the basement provides devilishly enticing vodka libations.
+
+4. The Frank Zappa Statue
+
+When Lithuania achieved its independence from the Soviet Union, the population rapidly set to tearing down all relics and reminders of their period under communist rule – thus leaving an abundance of headless pillars where Lenin and Stalin’s busts had once perched. Whatever was to be done with these? The situation looked hopeless. That is until civil servant and avid Zappa fan Saulius Paukstys came forward with the suggestion of a homage to his musical idol. Given that Zappa had no Lithuanian ancestry, or had even visited the country, local authorities weren’t sold on the idea – not initially, anyway. But when it was argued that Zappa did, after all, have Jewish features and because Jewish history was important to Lithuania… well, the rest is history. Funnily enough, it’s the only Frank Zappa effigy in the world.
+
+5. The Uzupis Constitution
+
+On 1 April 1997, the self-declared Republic of Užupis became Europe’s latest, and most bizarre, breakaway province. The announcement, which took the rest of Lithuania completely by surprise, was thought to be a rather amusing April Fool’s Day joke; however, with the launch of an official constitution, it quickly became apparent that the Republic was here to stay. Visitors can now have their passports stamped and pore over its 41-article constitution, which includes such oddities as ‘Everyone has the right to encroach upon eternity’, and ‘A dog has the right to be a dog’.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further Reading
+
+
+
+
+
+
+×
+
+Further Reading
+
+
+
+Title
+
+Author
+
+The Jungle
+
+Upton Sinclair
+
+The Seasons
+
+Kristijonas Donelaitis
+
+Between Shades of Gray
+
+Ruta Sepetys
+
+Between Giants: The Battle for the Baltics in World War II
+
+Prit Buttar
+
+A White Shroud
+
+Antana Skema
+
+
+
+
+
+
+
+
+Lithuania travel FAQs
+
+
+
+
+
+Is tipping customary in Lithuania?
+
+
+
+
+
+
+
+
+
+It's customary when dining in restaurants to round the bill up to the nearest euros.
+
+
+
+
+
+
+
+What is the internet access like in Lithuania?
+
+
+
+
+
+
+
+
+
+Internet access in Lithuania is excellent. Free wireless zones, as well as internet cafes, can be found all over the country.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Lithuania?
+
+
+
+
+
+
+
+
+
+Lithuania has excellent mobile phone coverage. Ensure you have global roaming activated with your carrier if you wish to use your phone.
+
+
+
+
+
+
+
+What are the toilets like in Lithuania?
+
+
+
+
+
+
+
+
+
+Latvia has western-style flushable toilets. Keep loose change handy to pay for public toilets.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Coffee = 1.50 EUR
+Domestic beer = 1.75 EUR
+Meal at an inexpensive restaurant = 4.35 EUR
+Meal at a mid-range restaurant = 20 - 25 EUR
+
+
+
+
+
+
+
+Can I drink the water in Lithuania?
+
+
+
+
+
+
+
+
+
+Yes, tap water is considered safe to drink.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Lithuania?
+
+
+
+
+
+
+
+
+
+Yes, credit cards are widely accepted.
+
+
+
+
+
+
+
+What is ATM access like in Lithuania?
+
+
+
+
+
+
+
+
+
+There’s good access to ATMs in nearly all towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Lithuania?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Lithuania?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+16 Feb Independence Day
+
+11 Mar Independence Restoration Day
+
+16 Apr Easter Sunday
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+7 May Mother's Day
+
+4 Jun Father's Day
+
+24 Jun St John's Day
+
+6 Jul Statehood Day (King Mindaugas' Day)
+
+15 Aug Assumption Day
+
+1 Nov All Saints' Day
+
+24 Dec Christmas Eve
+
+25 Dec Christmas Day
+
+26 Dec 2nd Day of Christmas
+
+Please note these dates are for 2017. For a current list of public holidays in Lithuania go to:
+http://www.worldtravelguide.net/lithuania/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Lithuania
+
+1. Be considerate of Lithuania’s customs, traditions, religion and culture. It’s important to remember that what may be acceptable behaviour, dress and language in your own country, may not be in another.
+
+2. Be cautious when mentioning Lithuania in the context of the former USSR. Even an inferred praising of Soviet practices is not likely to be appreciated.
+
+3. The tap water is considered safe to drink, so for environmental reasons try to avoid buying bottled water. Fill and refill a reusable water bottle or canteen instead.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. Learn some local language and don't be afraid to use it – simple greetings will help break the ice.
+
+6. Shop for locally-made products. Supporting local artisans helps keep traditional crafts alive and supports the local community.
+
+7. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+8. Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

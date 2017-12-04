@@ -1,0 +1,7534 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Walking Holidays & Tours | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Walking & Trekking holidays
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Walking & trekking
+
+
+
+
+Each journey may begin with a single step, but some require a few more steps than others. These are our walking and trekking trips. Here’s the idea: we provide you with expert trail guides, accommodation and porters (where necessary); you bring your legs and a sense of adventure. From the frosted peak of Kilimanjaro and Patagonia’s windswept trails to a more sedate stroll through the rice fields of Vietnam, there’s a calf-stretching trip to suit every level of fitness and expertise. All you have to do is put one foot in front of the other.
+
+
+Walking vs trekking
+
+Walking
+
+If conquering mountain peaks and fighting the elements sounds a tad extreme for what is, essentially, a holiday – never fear. We’ve got a range of walking trips designed to stretch the legs without making them feel like they’re about to fall off. Hike the grasslands of northern Thailand, wander through rice paddies in Mai Chau or amble along Turkey’s famous Lycian Way. It’s a simple recipe: fresh air, the wild outdoors and not a basecamp in sight.
+
+Trekking
+
+When does a walk become a trek? Probably somewhere between your first yak sighting and that moment when you realise all this mist is made of clouds. Our trekking trips cover some of the most famous routes on the planet – Kilimanjaro, Annapurna, Basecamp, the Inca Trail – but that doesn’t put them out of reach for the eager novice. All you need is a sturdy pair of boots, a bit of pre-trip training and the best guides in the business. That’s where we come in.
+
+Popular walks and treks
+
+
+
+
+
+
+
+
+
+
+Inca trail & Machu Picchu
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro Trek
+
+
+
+
+
+
+
+
+
+
+Mount Toubkal
+
+
+
+
+
+
+
+
+
+
+European Alps
+
+
+
+
+
+
+
+
+
+
+Everest Base Camp
+
+
+
+
+
+
+
+
+
+
+Annapurna Circuit
+
+
+
+
+
+
+
+All our walking and trekking trips
+
+
+
+
+
+
+
+
+
+
+Turkey - Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR960
+
+
+
+
+
+An adrenaline charged tour of Turkey. Visit the Blue Mosque in Istanbul, tour Anzac...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro - Marangu Route
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,337
+
+
+
+
+
+To hike Kilimanjaro is to conquer the highest peak in Africa. Travel up the mighty Mt...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hilltribe Experience
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR365
+
+
+
+
+
+Travel to Chiang Mai and trek through northern Thailand to discover hilltribe culture,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Wilderness
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,978
+
+
+
+
+
+Trek through South America's Patagonia region on an overland trip to Chile and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand - Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,435
+
+
+
+
+
+Jump aboard an active tour of Northern Thailand. Visit Bangkok, explore Chiang Mai,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Andorra: Hike, Bike & Raft
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR825
+
+
+
+
+
+Walk, ride and raft in the outdoor paradise that is the Pyrenees. Visit Andorra, bike...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Everest Base Camp
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,215
+
+
+
+
+
+Go trekking in Nepal on an adventure that takes you to Mt Everest Base Camp. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Annapurna Sanctuary
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR956
+
+
+
+
+
+Embark on a 16-day Annapurna trekking experience in Nepal. Cross the Himalayas and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Everest & Annapurna
+
+
+
+
+
+
+
+
+
+31 Days
+
+
+From
+FR2,630
+
+
+
+
+
+Journey out from Kathmandu to the rugged Himalaya. Follow the footsteps of Hillary up...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Travel to Peru and retrace the steps of the Inca, Peru's fascinating ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Express
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,030
+
+
+
+
+
+Travel to Peru to discover the Inca, Peru's ancient civilisation. Trek or train to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo - Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,765
+
+
+
+
+
+This Sabah Adventure tour through the Borneo wilderness will truly capture your...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Himalayan Teenage Adventure
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,596
+
+
+
+
+
+Experience trekking in the Himalayas with an experienced guide and explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro & Serengeti Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,435
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Serengeti & Kilimanjaro
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR4,440
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Tanzania
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,165
+
+
+
+
+
+Travel to Africa and visit the Serengeti, Kilimanjaro and Zanzibar. From Nairobi in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+New Zealand Adventure Northbound (ex Christchurch)
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR5,240
+
+
+
+
+
+This comprehensive New Zealand tour captures the best of both the North and South...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Island Hopping
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,024
+
+
+
+
+
+Travel to the Galapagos Islands from Quito, Ecuador. Tour the Galapagos' highlights...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mai Chau Adventure
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR207
+
+
+
+
+
+Venture into the lush environs of Mai Chau and enjoy two days of cycling through remote...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active Chiang Mai
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR330
+
+
+
+
+
+Trekking in Chiang Mai, explore Thailand's lush jungle areas, go rafting on the Mae...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Inca Trail Adventure
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,059
+
+
+
+
+
+Travel to Ecuador and the wildlife-rich shores of the Galapagos Islands. Then visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuzco to Lima
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,096
+
+
+
+
+
+Visit South America and travel through Peru from Cuzco to Lima. Follow the Inca Trail,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mount Toubkal Trek
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR560
+
+
+
+
+
+Trek to the summit of Mt Toubkal, North Africa’s highest peak, on this Moroccan...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sapa Adventure
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR312
+
+
+
+
+
+Trek through Vietnam's mountainous region in the north-west to experience hiltribe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Top End to the Outback 2017
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Journey from the eclectic city of Darwin to Kakadu and Litchfield National Parks and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Outback to the Top End (ex Yulara) 2017
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Fly into Yulara and straight to Uluru, Kings Canyon, Litchfield, Kakadu and Katherine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Outback to the Top End 2017
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Journey from outback Alice Springs via Uluru, Kings Canyon, Litchfield, Kakadu and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,412
+
+
+
+
+
+Hike to Ardoukoba Volcano, see whale sharks, join a nomad camel trek to Lake Assal and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Darwin to Perth Overland (2017)
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,870
+
+
+
+
+
+Discover the wild heart of the Australian Outback through the mighty Kimberleys and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure (Original)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR765
+
+
+
+
+
+Explore Kata Tjuta, be captivated by an Uluru sunset, walk through Kings Canyon and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure ex Yulara (Original)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR765
+
+
+
+
+
+Explore Kata Tjuta, be captivated by an Uluru sunset, walk through Kings Canyon and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure ex Yulara (Basix)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR630
+
+
+
+
+
+Explore Kata Tjuta, be captivated by an Uluru sunset, walk through Kings Canyon and te...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure (Basix)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR635
+
+
+
+
+
+Explore Kata Tjuta, be captivated by an Uluru sunset, walk through Kings Canyon, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active South Africa
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,330
+
+
+
+
+
+Take part in a journey through South Africa's fantastically wild heartland, with hikes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro - Rongai Route
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Approach Mt Kilimanjaro from the north for the opportunity to see amazing mountainside...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro - Machame Route
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,864
+
+
+
+
+
+Travel to Tanzania and embark on an ascent of mighty Mt Kilimanjaro along the Machame...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+5 Day Outback Camping Adventure
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR711
+
+
+
+
+
+Get to know the Red Centre at your own pace with a knowledgable guide and flexible...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Taste of Tasmania (Basix)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR548
+
+
+
+
+
+Discover beautiful Tasmania on this nature-filled journey. Uncover historic towns like...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Broome to Perth Overland
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Soak up the laid-back lifestyle of Australia's West Coast. From isolated beaches and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Perth to Broome Overland
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Soak up the laidback lifestyle on Australia's West Coast from Perth to Broome. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Adelaide to Alice Springs Overland
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR625
+
+
+
+
+
+Journey through Australia’s outback wonders on a seven-day adventure into the Red...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland ex Yulara
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR598
+
+
+
+
+
+This is the ideal short trip for those wanting to experience the Australian Outback in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR598
+
+
+
+
+
+Journey from the Red Centre to Adelaide. Watch the sun set over Uluru, trek through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore the Camino Way
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,146
+
+
+
+
+
+Walk the pilgrim’s trail on the Camino de Santiago across northern Spain. Get arty at...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Kokoda Track
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR3,545
+
+
+
+
+
+Experience a journey of epic proportions. Hike one of the most challenging and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Essential Peru
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR1,938
+
+
+
+
+
+Discover Peru in depth on this adventure tour through Peru that ends in La Paz, Boliva....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active Galapagos
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,445
+
+
+
+
+
+Amazing wildlife, both on land and underwater, is the drawcard of the remote Galapagos...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Trekking
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,440
+
+
+
+
+
+Visit South America and travel to Patagonia to experience the 'W' Trek in Torres del...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Reef to Rock Overland
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,005
+
+
+
+
+
+Get a fix of tropical Australia in Cairns and the Atherton Tablelands, then hit the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island Adventure (Original)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR335
+
+
+
+
+
+Travel to Kangaroo Island and enjoy natural stunning sceneries, myriad wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island Adventure (Basix)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR320
+
+
+
+
+
+Travel to Kangaroo Island and enjoy natural stunning sceneries, myriad wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar & Thailand Traveller
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,580
+
+
+
+
+
+Discover the timeless traditions of small-village Myanmar on this active adventure....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+5 Day Outback Camping Adventure ex Yulara
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR706
+
+
+
+
+
+Get to know the Red Centre at your own pace with a knowledgable guide and flexible...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Walking Annapurna
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR355
+
+
+
+
+
+Travel to Nepal and hike the Annapurnas. Travel from Pokhara to Tanting, trekking to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amalfi Coast: Hike, Boat & Kayak
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,655
+
+
+
+
+
+Mountains, forests and beaches – soak up the spectacular scenery of Italy’s Amalfi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Italian Lakes: Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,155
+
+
+
+
+
+Pamper the appetite and treat the senses on this exquisite journey through Italy’s Lake...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cinque Terre: Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,695
+
+
+
+
+
+Walk into a world that's a play of colourful houses and blue sea as you amble between...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Slovenia: Hike, Bike & Raft
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Based in Bled, hike Mt Vogel, bike through Triglav National Park and raft the rapids of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia: Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Pump up the octane on this active Croatia adventure. Enjoy hiking, mountain biking,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Everest Base Camp & Gokyo Lakes
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,925
+
+
+
+
+
+Take the ultimate trek. Walk in the Himalayas surrounded by some of the most incredible...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Trek Jordan
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,275
+
+
+
+
+
+Travel to Jordan and tour Amman, Madaba and the inspiring landscape of Wadi Rum. Trek...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madagascar: Hike & Bike
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Go trekking in Madagascar, an island like no other. Travel from Antananarivo to Ifaty,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,770
+
+
+
+
+
+Travel to South America and visit Peru on a family adventure through Lima,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Vietnam Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR895
+
+
+
+
+
+Experience the boundlessly welcoming and friendly nature of the ethnic hill tribe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Annapurna Explorer
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,088
+
+
+
+
+
+Go trekking in Nepal on an adventure that takes you around the Annapurna Circuit. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India: Hike, Bike & Raft
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,095
+
+
+
+
+
+From Rishikesh to Sari, Chopta, Chandrashila and Delhi, hike, bike and raft your way...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Safari to Kilimanjaro - Machame Route
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR5,140
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Peru with Inca Trail  (Machu Picchu & the Sacred Valley)
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Visit South America and cycle in Peru. Visit Lima, Cusco, the Sacred Valley and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+
+
+Trip Name
+
+Days
+
+Start city
+
+Destination
+
+Style
+
+From CHF
+
+
+
+
+
+
+
+Turkey - Hike, Bike & Kayak
+
+
+12
+
+Istanbul
+
+Turkey
+
+Original
+
+
+
+FR960
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro - Marangu Route
+
+
+7
+
+Marangu
+
+Tanzania
+
+Basix
+
+
+
+FR2,337
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hilltribe Experience
+
+
+5
+
+Chiang Mai
+
+Thailand
+
+Basix
+
+
+
+FR365
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Wilderness
+
+
+15
+
+Buenos Aires
+
+Argentina
+
+Original
+
+
+
+FR3,978
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand - Hike, Bike & Kayak
+
+
+12
+
+Bangkok
+
+Thailand
+
+Original
+
+
+
+FR1,435
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Andorra: Hike, Bike & Raft
+
+
+8
+
+Soldeu
+
+Andorra
+
+Original
+
+
+
+FR825
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Everest Base Camp
+
+
+15
+
+Kathmandu
+
+Nepal
+
+Original
+
+
+
+FR1,215
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Annapurna Sanctuary
+
+
+16
+
+Kathmandu
+
+Nepal
+
+Original
+
+
+
+FR956
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Everest & Annapurna
+
+
+31
+
+Kathmandu
+
+Nepal
+
+Original
+
+
+
+FR2,630
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail
+
+
+8
+
+Lima
+
+Peru
+
+Original
+
+
+
+FR1,395
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Express
+
+
+7
+
+Cuzco
+
+Peru
+
+Original
+
+
+
+FR1,030
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo - Hike, Bike & Kayak
+
+
+9
+
+Kota Kinabalu
+
+Malaysia
+
+Original
+
+
+
+FR1,765
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Himalayan Teenage Adventure
+
+
+11
+
+Kathmandu
+
+Nepal
+
+Original
+
+
+
+FR1,596
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro & Serengeti Adventure
+
+
+15
+
+Marangu
+
+Tanzania
+
+Basix
+
+
+
+FR4,435
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Serengeti & Kilimanjaro
+
+
+14
+
+Nairobi
+
+Tanzania
+
+Basix
+
+
+
+FR4,440
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Tanzania
+
+
+17
+
+Nairobi
+
+Tanzania
+
+Basix
+
+
+
+FR5,165
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+New Zealand Adventure Northbound (ex Christchurch)
+
+
+22
+
+Christchurch
+
+New Zealand
+
+Original
+
+
+
+FR5,240
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos Island Hopping
+
+
+8
+
+Isla San Cristobal
+
+Ecuador
+
+Original
+
+
+
+FR2,024
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mai Chau Adventure
+
+
+2
+
+Hanoi
+
+Vietnam
+
+Basix
+
+
+
+FR207
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active Chiang Mai
+
+
+4
+
+Chiang Mai
+
+Thailand
+
+Original
+
+
+
+FR330
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Inca Trail Adventure
+
+
+17
+
+Quito
+
+Ecuador
+
+Original
+
+
+
+FR5,059
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuzco to Lima
+
+
+17
+
+Cuzco
+
+Peru
+
+Basix
+
+
+
+FR2,096
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mount Toubkal Trek
+
+
+8
+
+Marrakech
+
+Morocco
+
+Basix
+
+
+
+FR560
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sapa Adventure
+
+
+5
+
+Hanoi
+
+Vietnam
+
+Original
+
+
+
+FR312
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Top End to the Outback 2017
+
+
+9
+
+Darwin
+
+Australia
+
+Basix
+
+
+
+FR1,795
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Outback to the Top End (ex Yulara) 2017
+
+
+9
+
+Yulara
+
+Australia
+
+Basix
+
+
+
+FR1,795
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Outback to the Top End 2017
+
+
+9
+
+Alice Springs
+
+Australia
+
+Basix
+
+
+
+FR1,795
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar
+
+
+11
+
+Djibouti City
+
+Djibouti
+
+Original
+
+
+
+FR2,412
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Darwin to Perth Overland (2017)
+
+
+22
+
+Darwin
+
+Australia
+
+Basix
+
+
+
+FR2,870
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure (Original)
+
+
+4
+
+Alice Springs
+
+Australia
+
+Original
+
+
+
+FR765
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure ex Yulara (Original)
+
+
+4
+
+Yulara
+
+Australia
+
+Original
+
+
+
+FR765
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure ex Yulara (Basix)
+
+
+4
+
+Yulara
+
+Australia
+
+Basix
+
+
+
+FR630
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure (Basix)
+
+
+4
+
+Alice Springs
+
+Australia
+
+Basix
+
+
+
+FR635
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active South Africa
+
+
+9
+
+Cape Town
+
+South Africa
+
+Original
+
+
+
+FR1,330
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro - Rongai Route
+
+
+8
+
+Marangu
+
+Tanzania
+
+Basix
+
+
+
+FR3,015
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro - Machame Route
+
+
+9
+
+Marangu
+
+Tanzania
+
+Basix
+
+
+
+FR2,864
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+5 Day Outback Camping Adventure
+
+
+5
+
+Alice Springs
+
+Australia
+
+Basix
+
+
+
+FR711
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Taste of Tasmania (Basix)
+
+
+6
+
+Hobart
+
+Australia
+
+Basix
+
+
+
+FR548
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Broome to Perth Overland
+
+
+10
+
+Broome
+
+Australia
+
+Basix
+
+
+
+FR1,295
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Perth to Broome Overland
+
+
+10
+
+Perth
+
+Australia
+
+Basix
+
+
+
+FR1,295
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Adelaide to Alice Springs Overland
+
+
+7
+
+Adelaide
+
+Australia
+
+Basix
+
+
+
+FR625
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland ex Yulara
+
+
+6
+
+Yulara
+
+Australia
+
+Basix
+
+
+
+FR598
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland
+
+
+6
+
+Alice Springs
+
+Australia
+
+Basix
+
+
+
+FR598
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore the Camino Way
+
+
+10
+
+Bilbao
+
+Spain
+
+Original
+
+
+
+FR2,146
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Kokoda Track
+
+
+11
+
+Port Moresby
+
+Papua New Guinea
+
+Original
+
+
+
+FR3,545
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Essential Peru
+
+
+21
+
+Lima
+
+Peru
+
+Basix
+
+
+
+FR1,938
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active Galapagos
+
+
+10
+
+Quito
+
+Ecuador
+
+Original
+
+
+
+FR2,445
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Trekking
+
+
+10
+
+Santiago
+
+Chile
+
+Original
+
+
+
+FR3,440
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Reef to Rock Overland
+
+
+7
+
+Cairns
+
+Australia
+
+Basix
+
+
+
+FR1,005
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island Adventure (Original)
+
+
+2
+
+Adelaide
+
+Australia
+
+Original
+
+
+
+FR335
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island Adventure (Basix)
+
+
+2
+
+Adelaide
+
+Australia
+
+Basix
+
+
+
+FR320
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar & Thailand Traveller
+
+
+12
+
+Yangon
+
+Myanmar (Burma)
+
+Original
+
+
+
+FR2,580
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+5 Day Outback Camping Adventure ex Yulara
+
+
+5
+
+Yulara
+
+Australia
+
+Basix
+
+
+
+FR706
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Walking Annapurna
+
+
+5
+
+Pokhara
+
+Nepal
+
+Basix
+
+
+
+FR355
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amalfi Coast: Hike, Boat & Kayak
+
+
+8
+
+Naples
+
+Italy
+
+Original
+
+
+
+FR1,655
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Italian Lakes: Hike, Bike & Kayak
+
+
+8
+
+Como
+
+Italy
+
+Original
+
+
+
+FR2,155
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cinque Terre: Hike, Bike & Kayak
+
+
+8
+
+Levanto
+
+Italy
+
+Original
+
+
+
+FR1,695
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Slovenia: Hike, Bike & Raft
+
+
+8
+
+Bled
+
+Slovenia
+
+Original
+
+
+
+FR1,395
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia: Hike, Bike & Kayak
+
+
+8
+
+Zadar
+
+Croatia
+
+Original
+
+
+
+FR1,395
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Everest Base Camp & Gokyo Lakes
+
+
+19
+
+Kathmandu
+
+Nepal
+
+Original
+
+
+
+FR1,925
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Trek Jordan
+
+
+8
+
+Amman
+
+Jordan
+
+Original
+
+
+
+FR1,275
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madagascar: Hike & Bike
+
+
+14
+
+Antananarivo
+
+Madagascar
+
+Original
+
+
+
+FR2,785
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Family Holiday with teenagers
+
+
+14
+
+Lima
+
+Peru
+
+Original
+
+
+
+FR2,770
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Vietnam Adventure
+
+
+10
+
+Hanoi
+
+Vietnam
+
+Original
+
+
+
+FR895
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Annapurna Explorer
+
+
+16
+
+Kathmandu
+
+Nepal
+
+Original
+
+
+
+FR1,088
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India: Hike, Bike & Raft
+
+
+12
+
+Delhi
+
+India
+
+Original
+
+
+
+FR2,095
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Safari to Kilimanjaro - Machame Route
+
+
+16
+
+Nairobi
+
+Tanzania
+
+Basix
+
+
+
+FR5,140
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Peru with Inca Trail  (Machu Picchu & the Sacred Valley)
+
+
+11
+
+Lima
+
+Peru
+
+Original
+
+
+
+FR2,260
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+Essential info
+
+
+
+
+
+Hiking without the hassle
+
+
+
+
+
+
+
+
+
+On all of our hikes, your accommodation is pre-booked and your luggage is transferred from one point to the next. All you have to carry is a daypack that contains water, any snacks or gadgets you may want and a few layers to keep you dry and warm. This means you get to enjoy the best of hiking without any of the hassles.
+
+
+
+
+
+
+
+Guided vs Self-guided
+
+
+
+
+
+
+
+
+
+We offer an extensive range of both small group and self-guided walking itineraries all over the world that cover everything from one-day hikes through to itineraries spanning 37 days. Armed with route notes and maps, self-guided walks allow you to explore at your own pace and are perfect for those wanting more independence. Or, if you want to concentrate more on the scenery, join a small group and explore with new friends. All your accommodation will be pre-booked, and your main luggage will be transferred between properties – so all you have to do is strap on your daypack and enjoy the walk!
+
+
+
+
+
+
+
+Fitness
+
+
+
+
+
+
+
+
+
+We have walks ranging from relatively easy to rather challenging. But no matter what degree of difficulty or distance you choose to walk, we recommend that you have a reasonable level of fitness to ensure that you get the most out of your walk or hike. Try to commit to some type of physical training program around six weeks before you depart. Here are some suggestions: Long walks: go on some long walks of 3-6 hours duration before you leave, wearing the boots you’re taking and carrying a small backpack to get comfortable with carrying your gear for long stretches. Aerobic exercise: running, distance cycling and the various aerobic classes offered at gyms (like pump, spin, zumba and circuit classes) all help to give you fitness and stamina. Strength training: doing body weight training like pushups, squats, dips, lunges, etc. helps to build up your muscle strength, which is needed for the steady climb up a mountain if you’re embarking on this type of hike (bootcamp sessions are perfect for this type of training).
+
+
+
+
+
+
+
+Gear
+
+
+
+
+
+
+
+
+
+You’ll need a comfortable daypack to walk with during the day and another piece of luggage (preferably not too large) for the rest of your gear to be transported or carried by porters or Sherpa (this depends on the walking trip you choose). Sturdy, good quality and well-fitted hiking shoes will make the difference between a great trip and terrible time – make sure you break them in before you go to minimise blisters. For some tips and ideas about what to take, check out Intrepid’s Ultimate Packing List – you won’t need half of what’s mentioned but things like wet-weather gear, a hat, layers of clothing, head torch, bandaids for blisters, water bottle and sunscreen are essential.
+
+
+
+
+
+
+
+Altitude sickness
+
+
+
+
+
+
+
+
+
+On some of our hikes you will encounter high altitudes. When climbing above 2,800 metres (9,200 feet), it is common for travellers to experience some adverse health effects due to the altitude, regardless of your age, gender and fitness. It even happened to Sir Edmund Hillary!
+
+There’s no real way to tell how your body will react to the rigours of altitude trekking, so it is important that you monitor your condition and discuss any prevailing symptoms with your guide. If you have any pre-existing conditions that could be exacerbated by high altitudes, be sure to get them checked out by a doctor before you leave.
+
+But above all, try not to worry, most of our travellers shake off the effects of altitude pretty quickly and enjoy a safe and rewarding trek.
+
+
+
+
+
+
+Traveller reviews
+
+
+Our Walking trips score an average of
+4.82 out of 5
+based on 1072 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Inca Trail Express,
+November 2017
+
+Lauren Pettit
+
+I am happy that I chose to travel to Peru with Intrepid!  I felt very safe the entire time and enjoyed all of the activities.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Express,
+November 2017
+
+Juanita Langton
+
+We took the train option and we were very happy with the experience. Our experience with the local culture and customs was insightful and everything we hoped for.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Everest Base Camp,
+November 2017
+
+richard pfeffer
+
+Everest Base Camp was a challenging and tough trek to unique part of the world....the experienced local guides made the journey in reach of everybody within the group. Aside from putting on our boots and "stuffing" our sleeping bags, there was not too much else to worry about.
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Express,
+November 2017
+
+Rory Gorman
+
+Intrepid took care of us and were efficient, on time and always friendly. Our guides Norma, Christian and Katie were great company and had lots of knowledge for us to draw on.
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Walking trip reviews
+
+Our Walking trips score an average of
+4.82 out of 5
+based on 1072 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+Latest posts on trekking holidays
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+8 things to do in Jordan that aren’t Petra or...
+
+
+
+
+
+
+Petra, Wadi Rum, the Dead Sea...Jordan's biggest attractions are well worth a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 21, 2017
+
+
+
+More than Machu Picchu: 5 of Peru’s other...
+
+
+
+
+
+
+Proud indigenous tribes, beautiful colonial cities, great surf and fantastic...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 21, 2017
+
+
+
+A walk in the wild: one traveller’s hike...
+
+
+
+
+
+
+The intriguing stories of Rastafarianism and the origins of humanity, unusual...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

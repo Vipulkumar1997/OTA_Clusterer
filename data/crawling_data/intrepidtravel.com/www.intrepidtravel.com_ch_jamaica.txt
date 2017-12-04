@@ -1,0 +1,3156 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jamaica Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jamaica tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Central America
+
+Jamaica
+
+
+
+There’s more to Jamaica than Bob Marley’s legendary tunes. Think idyllic beaches, Rastafarian culture and cuisine that gives delicious new meaning to the word ‘jerk’.
+
+
+This palm-fringed oasis really packs a punch (and we don’t just mean the rum variety). Irresistible Caribbean flavour oozes from every corner – from reggae rhythms and spicy plates of jerk to the sing-song sound of locals bantering in Patois. Whether you want to scuba dive among tropical fish, hike to the top of Blue Mountain Peak, or simply soak in the sun on Negril’s famous Seven Mile beach, this adventure-seekers playground has a little something for everyone. Add year-round good weather and a refreshing Red Stripe beer and you’ll soon see why everything is always ‘irie’ in Jamaica.
+
+
+Our Jamaica trips
+
+
+
+
+
+
+
+
+
+Best of Jamaica
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,050
+
+
+
+
+
+This eight-day exploration of Jamaican culture, food and language will take you to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on Jamaica
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2017
+
+
+
+7 new destinations to explore with Intrepid in...
+
+
+
+
+
+
+At Intrepid, we love exploring little-known corners of the globe. And in 2018, we...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 27, 2017
+
+
+
+10 of the coolest things to do in Jamaica
+
+
+
+
+
+
+Phosphorescent lagoons, dancehall parties, spicy street food...is this love? Here...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jamaica travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Montego Bay
+
+
+
+
+Practice your Patois while learning the basic tenets of Rastafarian philosophy at an indigenous Rastafari village.
+
+
+
+
+
+
+Best of Jamaica, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Kingston
+
+
+
+
+Explore the colonial home where Bob Marley lived and recorded, now preserved as the Bob Marley Museum.
+
+
+
+
+
+
+Best of Jamaica, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Negril
+
+
+
+
+Snorkel in calm aquamarine waters or simply relax on the white sands of Seven Mile Beach in this laid-back beach town.
+
+
+
+
+
+
+Best of Jamaica, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Dunn’s River Falls
+
+
+
+
+Water cascades 300 meters (1,000 ft) down naturally terraced steps to create this incredibly unique and climbable waterfall.
+
+
+
+
+
+
+Best of Jamaica, 8 days
+
+
+
+
+
+
+
+
+
+
+
+
+Jamaica holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital City:
+
+Kingston
+
+Population:
+
+2.8 million
+
+Language:
+
+English
+
+Currency:
+
+Jamaican Dollar (JMD)
+
+Time Zone:
+
+(GMT-05:00) Bogota, Lima, Quito, Rio
+
+Electricity:
+
+Type A (North American/Japanese 2-pin), Type B (American 3-pin)
+
+Dialing Code:
+
++1
+
+
+
+
+
+
+
+
+
+
+Culture and Customs
+
+
+
+
+
+
+×
+
+Culture and Customs
+
+
+
+
+In addition to its beautiful beaches and flavourful food, the people of Jamaica are an inherent part of the country’s appeal. Their friendly nature, sense of humour and colourful banter are hard to resist. Even Jamaican Patois, a mix of English and African languages, has a charming, almost musical air to it.
+
+As the birthplace of reggae and dancehall, music plays an important role in Jamaican culture. Historically linked to Rastafarianism, reggae was used to express spirituality and bring awareness to social and political injustice. Look no further than Jamaican icon, Bob Marley, who sang of ‘One Love’, to see this relationship at play. Gospel sounds are an integral part of church, while West African folk songs pepper daily life. Hand in hand with music is dancing – energetic and mesmerizing, few can resist swaying to the beat when island ‘riddims’ (rhythm in Patois) are played.
+
+Spirituality is also highly valued in Jamaica. Home to more churches per square mile than any other country, about 65% of the population is Christian, while the rest adhere to Hinduism, Islam, Judaism or various African religions. About one percent of the population follow the Rastafari philosophy, which seeks to recapture and celebrate African heritage. Despite being a small group, followers have left an indelible stamp on the country and their movement has spread to other parts of the world.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Many of the flavours and spices found in Jamaican food come from the Spanish, British, African, Indian and Chinese populations who inhabit the island. Taking advantage of the natural bounties at their disposal, Jamaican dishes feature plenty of fish, tropical fruits and produce. While the local cuisine has a reputation for being fiery, those with lower spice thresholds don’t need to worry as there are actually many dishes and snacks that don’t have chilli peppers. Meat dishes feature heavily in the local diet – jerk chicken, curry goat and oxtail are some of the more popular dishes – yet many Rastas believe adhering to a vegetarian or vegan diet is an important part of their faith, so a wide array of options for vegetarians is usually available as well.
+
+Nothing is more quintessentially Jamaican than a plate of jerk chicken with rice and peas. Be aware that most Jamaicans eat their meat well done, so proper jerk might be drier than what you’re used to. Side dishes are usually vegetarian and include plantain, a sweet tropical cooking banana that is sliced and deep fried, and callaloo, a staple Caribbean green. Slightly bitter and nutty-tasting, callaloo is often steamed and lightly seasoned with green onions, garlic, thyme and coconut oil.
+
+For a cheap and satisfying snack, nothing beats a vegetarian or spicy beef Jamaican patty. Available everywhere, Jamaican patties are similar to an empanada and get their golden hue from turmeric. Roadside stands selling boiled corn, roasted yams, soups, fried fish, coconut water and various tropical fruits are also easy to find.
+
+In addition to coconut water, skyjuice (shaved ice covered in fruit syrup) is a Jamaican favourite sold by many street vendors. This drink is best avoided, however, as the ice is not always sanitary. Luckily, Jamaica has plenty of other refreshing options to quench your thirst instead, like various types of rum punch or Red Stripe, a local Jamaican beer. If you’re after a java jolt, coffee harvested in Jamaica’s Blue Mountains is full-bodied, exceptionally smooth and among the rarest and most expensive coffee in the world.
+
+Must-try foods in Jamaica
+
+1. Curry goat
+
+A staple across the Caribbean, this slow-cooked savoury dish is packed with flavour. Chunks of goat and potato are simmered in curry powder and various other spices until it’s thick and tender.
+
+2. Rice and peas
+
+Rice and peas (which might be pigeon peas, kidney beans or black beans) are simmered in coconut milk, thyme and other spices to create a dish that is simultaneously sweet and savoury.
+
+3. Jerk chicken
+
+This quintessential Jamaican dish gets it’s distinct flavour from jerk spice (a mixture of Scotch bonnet peppers, pimento, cinnamon and nutmeg), which is dry-rubbed into the meat. Jerk pork and jerk fish are other variations worth trying.
+
+4. Saltfish and ackee
+
+A popular breakfast choice, the mild and creamy flesh of Jamaica’s national fruit (ackee) is boiled with salt-cured cod (salt fish), tomatoes and various spices to create a dish that is both sweet and salty.
+
+
+
+
+
+
+
+
+Geography and Environment
+
+
+
+
+
+
+×
+
+Geography and Environment
+
+
+
+
+Jamaica is a tropical island nation located south of Cuba and west of Haiti in the Caribbean Sea. More than 1,000 km (621 miles) of coastline stretch over numerous bays, keys, and islands to produce some of the most beautiful beaches in the Caribbean. Calm waters give way to white-sand beaches along the northern coast, whereas black-sand beaches can be found in the west. Miles of the well-developed coral reef is located along the north and east coast.
+
+More than just idyllic beaches, much of Jamaica is covered in rugged peaks, some of which are volcanic. The Blue Mountains and Dry Harbour Mountain occupy the eastern half of the country, descending westward into Cockpit Country, a hilly limestone landscape of ridges, caves, and sinkholes.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+As an island nation, shopping options aren’t as extensive as you might find elsewhere. Malls are relatively modest in size and most items are imported, making them more expensive than what you might expect. Your best bet while shopping in Jamaica is to look for locally-made goods. Jamaican rum and coffee are both great choices that can be purchased relatively cheaply at any local grocery store. Though Blue Mountain Coffee may seem pricey, it is still a fraction of the price of what you would find outside of the country. Rum distilleries, like Appleton’s and Hampden Estate, are also a good place to both sample and purchase locally-made rums.
+
+Head to craft markets to shop jewellery and handmade wood carvings, though be aware, many of the other goods commonly found in markets are neither handmade or locally-produced. Harbour Street Craft Market in Montego Bay and ‘Cooyah’ Market in Kingston are two of the biggest markets to practice your haggling skills. ‘Cooyah’ Market also stocks a wide array of Rastafarian clothing, which is typically red, green and gold (the colours of the Ethiopian flag). And of course, Bob Marley memorabilia can be found everywhere throughout the country.
+
+Be aware that US dollars are widely accepted, although technically it is illegal for vendors to sell items in foreign currency. Most places give change in Jamaican dollars regardless of the currency you pay with.
+
+
+
+
+
+
+
+
+Festivals and events in Jamaica
+
+
+
+
+
+
+×
+
+Festivals and events in Jamaica
+
+
+
+
+For many Jamaicans, music is an important part of daily life and inextricably intertwined with their culture and identity, so it makes sense that many of their festivals incorporate their musical heritage. Some of the best ones to keep an eye out for are:
+
+Bob Marley Birthday Bash
+
+Every year, the idyllic beach town of Negril celebrates the life of Bob Marley with a multi-day festival featuring authentic Jamaican music, food, and art. Festival dates vary slightly each year but always coincide with the beloved icon’s birthday on February 6th.
+
+Saint Ann Kite Festival
+
+Colourful and elaborate kites fill the sky over Saint Ann’s beach during the day, while concerts take over during the evening for this wholesome, yet entertaining annual March festival.
+
+Reggae Sumfest
+
+Jamaica’s largest music festival takes over Montego Bay every July. Attracting reggae icons, international artists, and energetic crowds for over 20 years, Sumfest just might be ‘greatest reggae show on earth’ like they profess to be.
+
+Jamaica’s Carnival (Bacchanal)
+
+In the months leading up to Easter, the infectious sounds of calypso and soca fill the air as Jamaica comes down with Carnival fever. Concerts, beach parties, street parades and weekly mas camps take place across the country, culminating in a grand parade in Kingston that rivals Rio’s in the spectacle. Featuring costumed revelers, high-energy dancing, pulsating music and a euphoric atmosphere – Carnival is a must for anyone wanting to experience the excitement and bacchanal of a proper Caribbean fete.
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+A Brief History of Seven Killings
+
+Marlon James
+
+Myal
+
+Erna Brodber
+
+Catch a Fire: The Life of Bob Marley
+
+Timothy White
+
+The True History of Paradise
+
+Margaret Cezair-Thompson
+
+Wide Sargasso Sea
+
+Jean Rhys
+
+
+
+
+
+
+
+
+
+Jamaica travel FAQs
+
+
+
+
+
+When is the best time to visit Jamaica?
+
+
+
+
+
+
+
+
+
+Jamaica experiences beautiful, warm weather all year round, although the risk of tropical storms tends to deter tourists during the summer months. Hurricane season tapers off around November, drawing most travellers to Jamaica between December and March, when the weather is consistently warm and sunny and there is little rainfall. Rainfall begins to increase in April and May, but shouldn’t hinder travel plans. Travel is cheapest between July and October when increased rainfall and sporadic heavy storms become common.
+
+
+
+
+
+
+
+Do I need a visa to visit Jamaica?
+
+
+
+
+
+
+
+
+
+Australia: No – not required
+Belgium: No – not required
+Canada: No – not required
+Germany: No – not required
+Ireland: No – not required
+Netherlands: No – not required
+New Zealand: No – not required
+South Africa: No – not required
+Switzerland: No – not required
+United Kingdom: No – not required
+USA: No – not required
+Travellers from most nations do not require a visa to visit Jamaica for stays of up to 90 days. Most travellers that do require a visa can obtain one on arrival. Check with your local consulate or embassy for up-to-date information.
+
+It’s recommended that your passport is valid for at least six months past your departure date and that it has a few blank pages for stamps.
+
+
+
+
+
+
+
+Is tipping customary in Jamaica?
+
+
+
+
+
+
+
+
+
+It is customary to leave a 10% tip at hotels and restaurants. Some will automatically add a 10 or 15% service charge, in which case there is no need to leave an additional tip.
+
+
+
+
+
+
+
+What is internet access like in Jamaica?
+
+
+
+
+
+
+
+
+
+The Internet can be accessed at internet cafes and hotels in large cities but is limited in rural and remote areas.
+
+
+
+
+
+
+
+Can I use my mobile phone while in Jamaica?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in major cities, but may not be available in rural and remote areas. Ensure global roaming is activated with your service provider before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Jamaica?
+
+
+
+
+
+
+
+
+
+Western-style flushable toilets are the norm in Jamaica. Most restaurants charge a small fee to use their restrooms.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Bottle of local beer = USD 1.20
+Plate of jerk = USD 3.50
+Simple meal at a local restaurant = USD 20
+Sit-down dinner at a nice restaurant = USD 30+
+
+
+
+
+
+
+
+Can I drink the tap water in Jamaica?
+
+
+
+
+
+
+
+
+
+Tap water is safe to drink in tourist areas and major cities though should be avoided in more rural parts. Regardless of where you are, it’s a good idea to avoid ice, as there is no guarantee the water used to make it was not contaminated. For environmental reasons, try to avoid buying bottled water. Instead, pack a reusable bottle. If you are in doubt about the quality of the water, your guide or hotel can tell you where to find filtered water.
+
+
+
+
+
+
+
+Are credit cards widely accepted in Jamaica?
+
+
+
+
+
+
+
+
+
+Major credit cards are generally accepted by medium-sized and larger businesses, particularly in tourist areas, but may not be accepted by smaller vendors or in more rural parts. It’s a good idea to always carry some cash in case credit cards are not an option.
+
+
+
+
+
+
+
+What is ATM access like in Jamaica?
+
+
+
+
+
+
+
+
+
+ATMs are widely available at airports and in larger towns and hotels, although they have a reputation for being unreliable. Many banks will give credit card cash advances if the ATM is not working. For safety reasons, it is recommended that you only use ATMs during business hours and avoid using them after dark.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Jamaica?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Jamaica?
+
+
+
+
+
+
+
+
+
+Jan 1: New Year’s Day
+March 1: Ash Wednesday
+Apr 14: Good Friday
+Apr 17: Easter Monday
+May 23: Labour Day
+Aug 1: Emancipation Day
+Aug 7: Independence Day
+Oct 16: National Heroes Day
+Dec 25: Christmas
+Dec 26: Boxing Day
+
+For a current list of public holidays in Jamaica go to:
+https://www.worldtravelguide.net/guides/caribbean/jamaica/public-holidays/
+
+
+
+
+
+
+
+Is Jamaica a safe destination for LGBTQI-travellers?
+
+
+
+
+
+
+
+
+
+A high amount of discretion is recommended for LGBTQI-travellers in Jamaica. Some of the country’s most prominent reggae and dancehall artists have been known to espouse anti-gay speech. Sexual acts between men are illegal and punishable by up to 10 years in prison, and homophobic-related violence is almost never prosecuted. Public displays of affection should always be avoided. That said, there is a large local gay population and an underground gay scene exists in Kingston.
+
+For more detailed and up-to-date advice, we recommend visiting
+Equaldex
+or
+Smartraveller
+before you travel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

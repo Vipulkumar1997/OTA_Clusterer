@@ -1,0 +1,3522 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Madagascar Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Madagascar tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Madagascar
+
+
+
+Madagascar showcases the very best of our wild, weird but oh so wonderful world.
+
+
+With biodiversity to rival the Galapagos Islands, towns of colonial magnificence, beautiful beaches of golden sand and a remarkable culture influenced by Europe, Africa and the East, Madagascar's rare riches are well worth discovering. Venture into national parks to experience profound moments in nature, mellow out on idyllic islands, stroll through heritage towns and spot quirky wildlife not found anywhere else on this earth.
+
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+Terms & Conditions
+
+
+
+
+
+×
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+
+
+
+1. Save 20% on new bookings to lesser-known destinations only departing between 1 January 2018 and 31 December 2018.
+2. Trips must be booked between 20 November 2017 and 18 December 2017.
+3. Offer only applies to the trips below:
+AMCW, BMXF, CJSO, HPSL, TIST, GGSX, HHSI, XMSG, ZMSB, YGSD, WMSZ, HJKB, KDOH, WMST, TESA, KFST, YBSM.
+4. Customers must quote the promo code 53253.
+5. This offer is not combinable with any other offer including loyalty.
+6. Offer does not apply to departures already discounted (can’t apply it via checkout).
+7. Intrepid Travel will donate 20% of the sold trip to the Intrepid Foundation.
+8. Trips must be booked between 20 November 2017 and 18 December 2017. Trip must depart between 1 January 2018 and 31 December 2018.
+9. Offer only applies to the land portion of the trip and cannot be applied to flights, insurance, or any additional services.
+10. The offer applies to Intrepid & Dragoman operated trips only. Third party operators can be found in the trip notes. Please note that the following are excluded: Polar voyages, Expeditions, Charity Treks, Short Break Adventures, Bite-Size Breaks, Urban Adventures and Dragoman trips to Bhutan, Rio Carnival and the Dragoman Family trips.
+11. A deposit of CHF300, GBP200, EUR275 and ZAR4000 is required at the time of booking, and full payment is required at least 60 days prior to travel.
+12. This sale is only valid for residents of Europe and Africa.
+13. There will be no extensions to the travel, booking or payment periods listed above.
+14. Intrepid Travel's Booking Conditions will also apply to the trip booked, and it is imperative that you examine those conditions before booking with Intrepid Travel. The most up to date Booking Conditions are accessible at http://www.intrepidtravel.com/booking-intrepid/booking-conditions.
+15. The trip is subject to availability and confirmation by Intrepid Travel at time of booking.
+
+
+Close
+
+
+
+
+
+
+Top Madagascar travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+24 Mar 2018
+
+Experience Madagascar
+
+
+
+Experience Madagascar
+Antananarivo to Ile Sainte-Marie
+
+
+
+
+
+
+
+
+
+×
+
+Experience Madagascar
+
+
+
+
+
+
+
+
+
+16
+
+
+FR2,550
+
+
+FR2,040
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Madagascar trips
+
+
+
+
+
+
+
+
+
+Experience Madagascar
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,730
+
+
+
+
+
+Travel to Madagascar, off the east coast of Africa. Madagascar is teeming with wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ile Sainte-Marie Extension
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR395
+
+
+
+
+
+If white-sand beaches, crystal-clear lagoons and daily massages are your cup of tea,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madagascar: Hike & Bike
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Go trekking in Madagascar, an island like no other. Travel from Antananarivo to Ifaty,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madagascar Baobab Tree Trail
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,050
+
+
+
+
+
+Discover towering limestone shards, magnificent baobab trees and slow, meandering...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Madagascar tour reviews
+
+
+Our Madagascar trips score an average of
+4.67 out of 5
+based on 45 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Experience Madagascar,
+November 2017
+
+kathy andreoli
+
+Madagascar is a unique island that    is not to be missed. While the roads and conditions may be tough you are treated to a passing scenery that is unique and timeless, from dry open plains to forested mountains, from leaping lemurs to crazy chameleons in all shapes and sizes. Not to be missed
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Madagascar: Hike & Bike,
+October 2017
+
+Fabienne Stettler
+
+I enjoyed the Active Madagascar trip very much. We hiked through beautiful nature (with amazing camping sites), interact with local peoples and saw lots of wildlife. I liked the fact, that we traveled for almost 10 days without seeing lots of tourists. Active Madagascar is the perfect way to see that wonderful country.
+
+Review submitted 29 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Madagascar trip reviews
+
+Our Madagascar trips score an average of
+4.67 out of 5
+based on 45 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Madagascar
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+8 reasons why your next adventure should be in...
+
+
+
+
+
+
+It’s not an easy destination to get to, which makes it the perfect spot for an...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 16, 2017
+
+
+
+9 alternative travel spots for 2018
+
+
+
+
+
+
+Here at Intrepid we’re all about tackling the negative impact of over-tourism. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 07, 2016
+
+
+
+Lost World: Madagascar as you’ve never seen it...
+
+
+
+
+
+
+We sent a video crew into the wilds of Madagascar to check out why it's been...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 28, 2016
+
+
+
+Wellness Travel in Madagascar. It’s now a thing
+
+
+
+
+
+
+Madagascar is not a traditional wellness destination. In fact it’s not even a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Madagascar travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ranomafana National Park
+
+
+
+
+Spot lemurs on a guided walking tour of Ranomafana National Park
+
+
+
+
+
+
+Experience Madagascar, 16 days
+
+
+
+
+
+
+
+
+
+
+
+Isalo National Park
+
+
+
+
+Embark on an adventure through stunning Isalo National Park
+
+
+
+
+
+
+Madagascar: Hike & Bike , 14 days
+
+
+
+
+
+
+
+
+Experience Madagascar, 16 days
+
+
+
+
+
+
+
+
+
+
+
+Tulear
+
+
+
+
+Soak up the secluded coastal beauty of Tulear
+
+
+
+
+
+
+Madagascar: Hike & Bike , 14 days
+
+
+
+
+
+
+
+
+
+
+
+
+Madagascar holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Antananarivo (population 1 million)
+
+Population:
+
+21 million
+
+Language:
+
+French, Malagasy
+
+Currency:
+
+MGA
+
+Time zone:
+
+(GMT+03:00) Nairobi
+
+Electricity:
+
+Type C (European 2-pin) Type D (Old British 3-pin) Type E (French 2-pin, female earth) Type J (Swiss 3-pin) Type K (Danish 3-pin)
+
+Dialing code:
+
++261
+
+
+
+
+
+
+
+
+
+Best time to visit Madagascar
+
+
+
+
+
+
+×
+
+Best time to visit Madagascar
+
+
+
+
+With such a unique ecosystem and environment, going on holiday to Madagascar at different times of the year offers a variety of challenges and benefits. September to November is considered one of the best times to visit, as these months sit right in between the cool, dry winter and the hot, rainy season. This time is also considered the best time to view birdlife. July to August offers cooler temperatures and the best chances for whale watching on the coast. January to March is cyclone season, but this is also the best time to see flowering orchids.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+This iconic island nation sitting off the coast of East Africa in the Indian Ocean is home to one of the most precious and unique natural environments in the world. Its isolated location means that a distinct variety of animal and plant species have been able to thrive without outside genetic influences. Possessing extinct volcanoes, hidden waterfalls, cool highlands, grassy plains, pristine beaches and islands, Madagascar was once completely covered in forest - but due to high levels of deforestation, most forest cover has been lost. Some tracts of rainforest do endure today, but it's estimated that the current level of forest cover is only 1-2 percent of what it once was. Despite this loss, hundreds of species of plants and trees thrive all over the island, from huge, ancient baobab trees to thorny cacti and resplendent ferns.
+
+
+
+
+
+
+
+
+Top 5 Strange Species of Madagascar
+
+
+
+
+
+
+×
+
+Top 5 Strange Species of Madagascar
+
+
+
+
+1. Fat-Tailed Dwarf Lemur
+
+Known to hibernate for up to eight months of the year, this cute critter lives off fat reserves stored in its hefty tail - saved especially for these months of inactivity.
+
+2. Aye Aye
+
+This odd-looking lemur can be found mainly on east coast of Madagascar. While it won't win any beauty contests, it can lay claim to being the largest nocturnal primate in the world. Its unique way of finding food (knocking on trees then gnawing through the wood to access the hidden grubs) makes the aye aye similar to the woodpecker.
+
+3. Fossa
+
+With a cat-like body and a dog-like face, this strange beast endemic to Madagascar is actually closely related to the mongoose species. A carnivorous predator, the fossa roams forests day and night in search of prey - preferably lemurs, rodents and other small mammals.
+
+4. Tenrec
+
+This bizarre little species can bare resemblance to many different animals due to the unique circumstances of its evolution. Sharing ancestry with animals as diverse as elephants, sea cows and aardvarks, most tenrecs look like small hedgehogs or otters and can range in size from a tiny 4cm to a robust 39cm.
+
+5. Satanic Leaf-Tailed Gecko
+
+Home to a whole raft of interesting and unusual reptiles, Madagascar's most devilish creation has to be the satanic leaf-tailed gecko. With red eyes, a tail shaped like a leaf and a head like Lucifer, it's no wonder locals are afraid of them.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Eighth Continent
+
+Peter Tyson
+
+Lords and Lemurs
+
+Alison Jolly
+
+Antipode
+
+Heather E. Heying
+
+Flashman's Lady
+
+George MacDonald Fraser
+
+The Sapphire Sea
+
+John B. Robinson
+
+
+
+
+
+
+
+
+Madagascar travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Madagascar?
+
+
+
+
+
+
+
+
+
+MADAGASCAR:
+Australia: Yes - Visa required
+Belgium: Yes - Visa required
+Canada: Yes - Visa required
+Germany: Ye - Visa required
+Ireland: Yes - Visa required
+Netherlands: Yes - Visa required
+New Zealand: Yes - Visa required
+South Africa: Yes - Visa required
+Switzerland: Yes - Visa required
+United Kingdom: Yes - Visa required
+USA: Yes - Visa required
+
+All nationalities require a visa for Madagascar. If you have an embassy in your home country you can obtain the visa prior to departure. 30 day tourist Visas are also available for most nationalities on arrival at Antananarivo airport. Currently the visa fee has been suspended. Visa and other entry and exit conditions change regularly so we recommend that you contact the nearest Embassy or Consulate of Madagascar for the most up to date information.
+
+Minors travelling to Madagascar with only one parent are required to carry a legal document signed by any non-travelling parents, giving approval for the child to travel, or other applicable documents, such as custody orders.
+
+
+
+
+
+
+
+Is tipping customary in Madagascar?
+
+
+
+
+
+
+
+
+
+Tipping isn’t mandatory, but a little generosity will be received positively especially when considering the low wages that most service workers are typically paid. Setting aside a small amount for porters, guides and drivers is wise, as is leaving spare change or rounding up the bill at restaurants.
+
+
+
+
+
+
+
+What is the internet access like in Madagascar?
+
+
+
+
+
+
+
+
+
+Cyber cafes are found in some of the larger cities like Antsirabe, Fianarantsoa and Antananarivo. Smaller towns and remote areas will have far less access, so prepare to disconnect when travelling out of urban centres.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Madagascar?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in Madagascar's large cities and towns, but less so in rural areas and on remote islands. Ensure you have global roaming activated before leaving home if you wish to use your mobile phone.
+
+
+
+
+
+
+
+What are the toilets like in Madagascar?
+
+
+
+
+
+
+
+
+
+Squat/pit toilets are the standard in Madagascar except for western-style flushable toilets that are sometimes available in large hotels and other modern buildings. Carry your own supply of soap and toilet paper, as this is rarely provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Short city bus ride = 300 MGA
+Snack at a market = 200-500 MGA
+Bottle of beer in a restaurant or bar = 4,000 MGA
+Basic meal in a café or restaurant = 8,000-12,000 MGA
+
+
+
+
+
+
+
+Can I drink the water in Madagascar?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Madagascar. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found, some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Madagascar?
+
+
+
+
+
+
+
+
+
+Major credit cards like Visa are usually accepted by large hotels and western-style restaurants in the capital but not by smaller vendors. Ensure you have adequate cash to cover purchases not able to be made on credit.
+
+
+
+
+
+
+
+What is ATM access like in Madagascar?
+
+
+
+
+
+
+
+
+
+ATMs that accept foreign cards can be found in large cities and the airport, although they're often unreliable or out of service. Be sure to carry a back-up method of payment in case ATM access becomes difficult.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Madagascar?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Madagascar?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+29 Mar Martyrs' Day
+
+16 Apr Easter
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+25 May Ascension Day
+
+4 Jun Whit Sunday / Pentecost
+
+5 Jun Whit Monday
+
+26 Jun ndependence Day
+
+15 Aug Assumption Day
+
+1 Nov All Saints' Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Madagascar go to:
+http://www.worldtravelguide.net/madagascar/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Madagascar
+
+1. While on holiday in Madagascar, be considerate of local customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+6. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+7. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+8. Please ask and receive permission before taking photos of people, including children.
+
+9. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+10. Madagascar is one of the world's most bio-diverse places. Let's keep it that way by not removing any flowers, leaves, coral, wood or organic materials from the island.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4671 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Central America
+
+Costa Rica
+
+
+
+Costa Rica hangs its jaunty Panama hat on two things: eco-tourism and adventure sports.
+
+
+It helps when more than a quarter of your country is protected rainforest with more biodiversity than USA and Europe combined, and the rest is a jaw-dropping combo of bubbling volcanoes, Pacific surf beaches and laid-back towns like Quepos and Sarapiqui. Costa Rica tours are all about nature putting on a show –you’ll quickly become a pro at spotting keel-billed toucans in the cloud forests of Monteverde or listening out for the distant whoop of white-faced capuchins – but really it’s the pace of life here that gets you. ‘Hustle’ and ‘bustle’ aren’t really in Costa Rica’s vocab. Pretty much what you’d expect from a country’s whose unofficial motto is pura vida (the pure life).
+
+
+Top Costa Rica travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+16 Dec 2017
+
+Costa Rica Express
+
+
+
+Costa Rica Express
+San Jose to San Jose
+
+
+
+
+
+
+
+
+
+×
+
+Costa Rica Express
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,710
+
+
+FR1,454
+
+
+
+
+View Trip
+
+
+
+
+
+
+2 Jan 2018
+
+Costa Rica & Panama Discovery
+
+
+
+Costa Rica & Panama Discovery
+San Jose to Panama City
+
+
+
+
+
+
+
+
+
+×
+
+Costa Rica & Panama Discovery
+
+
+
+
+
+
+
+
+
+13
+
+
+FR1,180
+
+
+FR885
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Costa Rica: Raft, Snorkel & Kayak
+
+
+
+Costa Rica: Raft, Snorkel & Kayak
+San Jose to San Jose
+
+
+
+
+
+
+
+
+
+×
+
+Costa Rica: Raft, Snorkel & Kayak
+
+
+
+
+
+
+
+
+
+8
+
+
+FR1,705
+
+
+FR1,364
+
+
+
+
+View Trip
+
+
+
+
+
+
+13 Jan 2018
+
+Classic Costa Rica
+
+
+
+Classic Costa Rica
+San Jose to San Jose
+
+
+
+
+
+
+
+
+
+×
+
+Classic Costa Rica
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,695
+
+
+FR1,526
+
+
+
+
+View Trip
+
+
+
+
+
+
+21 Jan 2018
+
+Cycle Nicaragua, Costa Rica & Panama
+
+
+
+Cycle Nicaragua, Costa Rica & Panama
+Granada to Panama City
+
+
+
+
+
+
+
+
+
+×
+
+Cycle Nicaragua, Costa Rica & Panama
+
+
+
+
+
+
+
+
+
+16
+
+
+FR3,905
+
+
+FR3,124
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Costa Rica trips
+
+
+
+
+
+
+
+
+
+Classic Costa Rica
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,625
+
+
+
+
+
+Travel to Costa Rica and discover a tropical playground of immense natural beauty....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central American Journey
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR1,495
+
+
+
+
+
+Discover tropical paradise and ancient wonders on this tour of Central America,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica & Panama Discovery
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR885
+
+
+
+
+
+From the mountains to the sea, this Costa Rica and Panama tour is a real adventure from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica Experience
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,080
+
+
+
+
+
+Encounter the natural beauty of Costa Rica, from La Fortuna’s volcano to Monteverde’s...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Raft, Snorkel & Kayak in Costa Rica
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,496
+
+
+
+
+
+Be captivated by Costa Rica on an adventure that combines thrill-seeking with the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central American Adventure
+
+
+
+
+
+
+
+
+
+32 Days
+
+
+From
+FR2,985
+
+
+
+
+
+Ruins, volcanoes and beachside playgrounds await on this awesome Central American...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica Family Holiday
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,795
+
+
+
+
+
+This family trip to Costa Rica has been crafted to balance organised activities and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica Express
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,453
+
+
+
+
+
+Costa Rica will reveal itself as a true gem of Central America on this fun, diverse and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing Central America
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR2,770
+
+
+
+
+
+Head from the forest to the beach on this amazing Central America tour visiting...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica Family Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,255
+
+
+
+
+
+Discover the pristine beaches, beautiful mountains and dramatic volcanoes of Costa Rica...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Raft, Snorkel, Kayak & Hike in Costa Rica
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR4,265
+
+
+
+
+
+Be captivated by Costa Rica on an adventure that combines thrill-seeking with the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Central America
+
+
+
+
+
+
+
+
+
+44 Days
+
+
+From
+FR4,200
+
+
+
+
+
+Have the ultimate Central American adventure on this classic tour from Mexico to Panama...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Central America
+
+
+
+
+
+
+
+
+
+58 Days
+
+
+From
+FR5,490
+
+
+
+
+
+This captivating adventure through Central America travels through Mexico, Belize,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Central America
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,425
+
+
+
+
+
+Ride across the many and varied landscapes of Central America on a cycling tour of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Nicaragua, Costa Rica & Panama
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,615
+
+
+
+
+
+Ride across the many and varied landscapes of Central America on a cycling tour of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba & Costa Rica Discovery
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,135
+
+
+
+
+
+Explore the sultry streets of Havana, visit beautiful Cienfuegos and enjoy sizzling...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hike, Raft & Canyon in Costa Rica
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,475
+
+
+
+
+
+Discover why Costa Rica is made for adventure seekers with a trip that journeys through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nicaragua & Costa Rica
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR780
+
+
+
+
+
+Discover the best of Nicaragua and Costa Rica on an all-encompassing adventure,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Guatemala & Costa Rica
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,570
+
+
+
+
+
+Encounter the cloud forests and shimmering Caribbean waters of Central America on an...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central America Discovery
+
+
+
+
+
+
+
+
+
+53 Days
+
+
+From
+FR5,540
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central America Explorer
+
+
+
+
+
+
+
+
+
+46 Days
+
+
+From
+FR4,265
+
+
+
+
+
+Escape on a Central American odyssey through Mexico, Belize, Guatemala, Honduras, El...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mexico & Costa Rica Experience
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR5,250
+
+
+
+
+
+Encounter the rich cultural heritage, exploding flavours and friendly people of Mexico...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Mexico & Costa Rica
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR3,395
+
+
+
+
+
+Get ready for an adventure through Mexico and Costa Rica's wild heartlands, passing...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Essence of Central America
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR7,586
+
+
+
+
+
+Marketplaces, waterfalls, Maya ruins – there's a wealth of excitement and beauty to be...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Central America
+
+
+
+
+
+
+
+
+
+65 Days
+
+
+From
+FR6,435
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+San Jose Stopover
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR417
+
+
+
+
+
+Discover modern Costa Rican life on a mini San Jose adventure, visiting the Central...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Costa Rica tour reviews
+
+
+Our Costa Rica trips score an average of
+4.62 out of 5
+based on 451 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Costa Rica Express,
+November 2017
+
+Barbara Hayers
+
+The holiday was good saw alot of the country but didn't realise how busy the parks would be we were travelling on the bus all day which I like as you do see the country side but I am sure there would be somewhere closer to see more off the wildlife as I wasn't interested in sitting on the beach I think I should have gone for some thing with more walking and quieter as the Antonio national park was crowded with hoards of people so we saw  loads of monkeys who were used to people.I didn't find it a unique experience .
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Raft, Snorkel & Kayak in Costa Rica,
+November 2017
+
+Susan Zebrowski
+
+This trip was the perfect blend of adventure, education, and pure fun.  The flowers, insects, animals and various locations were fascinating.  Everywhere you turn, there is something wonderful to see and experience.  The rafting was so much fun and an activity that really turned the group into a team.  Intrepid has flawlessly designed this trip.
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Costa Rica trip reviews
+
+Our Costa Rica trips score an average of
+4.62 out of 5
+based on 451 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Costa Rica
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 18, 2017
+
+
+
+Costa Rica in one week: The ultimate guide
+
+
+
+
+
+
+It’s not hard to fall in love with Costa Rica’s relaxed Pura Vida philosophy. It’s...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 16, 2017
+
+
+
+The top destinations for travel in January
+
+
+
+
+
+
+From the jungles of Central America to the beaches of Southeast Asia, here's where...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 20, 2017
+
+
+
+Tips for getting off the beaten path in Costa Rica
+
+
+
+
+
+
+From hidden beaches, to fluorescent rivers, to some surprising truths about the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 15, 2017
+
+
+
+The best family holidays to book in 2017
+
+
+
+
+
+
+We're a firm believer in the fact that family travel can please both parents and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 19, 2017
+
+
+
+The best thing about a family tour? Seeing your...
+
+
+
+
+
+
+'On the first day, the eight children pronounced themselves best friends and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2017
+
+
+
+How we celebrate: Easter traditions around the...
+
+
+
+
+
+
+Whether it’s dressing as Roman soldiers in Costa Rica, following Jesus' footsteps...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 10, 2017
+
+
+
+Discovering the joy of travel in Costa Rica
+
+
+
+
+
+
+"A wave of clarity crashed into me the second I arrived in Costa Rica, and the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 12, 2016
+
+
+
+How to spot sloths in Costa Rica’s cloud forests
+
+
+
+
+
+
+If you want to get off your computer and spot sloths in the wild, one of the best...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 11, 2014
+
+
+
+Move over Mexico: 7 awesome foods from Central...
+
+
+
+
+
+
+Move over Mexico, your neighbours have some pretty sensational tastebud pleasers...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cahuita
+
+
+
+
+Swim in the pristine waters of the Caribbean
+
+
+
+
+
+
+Raft, Snorkel & Kayak in Costa Rica, 8 days
+
+
+
+
+
+
+
+
+Raft, Snorkel, Kayak & Hike in Costa Rica, 18 days
+
+
+
+
+
+
+
+
+Costa Rica & Panama Discovery, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Monteverde
+
+
+
+
+Discover the cloud forests of Monteverde
+
+
+
+
+
+
+Costa Rica Experience, 9 days
+
+
+
+
+
+
+
+
+Costa Rica Express, 9 days
+
+
+
+
+
+
+
+
+Classic Costa Rica, 15 days
+
+
+
+
+
+
+
+
+
+
+
+San Jose
+
+
+
+
+Pick up some handmade crafts in Costa Rica’s colourful markets
+
+
+
+
+
+
+Discover Mexico & Costa Rica, 29 days
+
+
+
+
+
+
+
+
+Classic Costa Rica, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Manuel Antonio National Park
+
+
+
+
+Explore the beaches and forests of Manuel Antonio National Park
+
+
+
+
+
+
+Costa Rica Express, 9 days
+
+
+
+
+
+
+
+
+Costa Rica Family Adventure, 9 days
+
+
+
+
+
+
+
+
+Hike, Raft & Canyon in Costa Rica, 11 days
+
+
+
+
+
+
+
+
+
+
+
+
+Costa Rica holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+San Jose (population 315,000)
+
+Population:
+
+4.5 million
+
+Language:
+
+Spanish
+
+Currency:
+
+CRC
+
+Time zone:
+
+(GMT-06:00) Central America
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code:
+
++506
+
+
+
+
+
+
+
+
+
+Best time to visit Costa Rica
+
+
+
+
+
+
+×
+
+Best time to visit Costa Rica
+
+
+
+
+Year-round tropical warmth means there really isn’t a bad time to visit Costa Rica. December to April are normally the driest months; however, Costa Rica’s diverse topography and blanket of rainforests suggest that you should be prepared for at least some rain - a very small price to pay for such incredibly lush scenery. The good news is that even during the rainiest of seasons, the rainfall tends to be limited to a couple of hours a day… just enough time for you to enjoy a cup of Costa Rica's world-renowned coffee in one of its many cafes. Temperatures vary with altitude, with San Jose's temperatures ranging between 15C and 21C and the coastal areas experiencing much warmer climes.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Wedged between the mighty Pacific Ocean and the picturesque Caribbean, Costa Rica is best known for its incredible beaches and magical rainforests. While Costa Rica’s name (meaning ‘Rich Coast’) suggests that Costa Rica’s beauty is limited to its golden beaches, the backbone of this coastal nation consists of some truly stunning mountain ranges, many of which contain active and dormant volcanoes. For this reason, adventure sports such as zip-lining, whitewater rafting and cycling are popular in inland destinations such as La Fortuna and Montverde. Geographically, Costa Rica shares borders with Nicaragua to the north and Panama to the south, serving as a perfect starting point for exploring this fascinating part of the world.
+
+Apart from being a beach lover’s paradise, Costa Rica is renowned for its incredible biodiversity. Over half of the country is blanketed in forest, and those seeking to spot local wildlife will be enthralled by Costa Rica’s unique species of plants and animals. Scuba diving is another popular activity, with Costa Rica boasting some of the most beautiful bays, beaches and reefs in the world.
+
+
+
+
+
+
+
+
+Top 5 Beautiful Beaches in Costa Rica
+
+
+
+
+
+
+×
+
+Top 5 Beautiful Beaches in Costa Rica
+
+
+
+
+1. Tortuguero National Park
+
+One of Costa Rica’s best-kept secrets, this national park is the unspoilt paradise you’ve been searching for. Will you slip effortlessly into Tortuguero’s warm turquoise waters or simply relax on its idyllic shores? The choice is entirely yours.
+
+2. Manuel Antonio
+
+Leave the hassles of modern life behind and discover an eco-playground surrounded by unlimited coastal delights. Spend a day exploring misty rainforests before cooling off on one of Manuel Antonio’s delightful beaches, or head into town for some famous, fiery nightlife.
+
+3. Jaco
+
+Once a sleepy beach town, Jaco’s proximity to San Jose has made it a one-stop shop for those seeking big waves and even bigger parties. Not exactly a remote oasis, but there is no denying Jaco’s uber-cool surf-town vibe.
+
+4. Playa Tamarindo
+
+An upmarket alternative to Jaco’s backpacker bliss, Playa Tamarindo is an elegant town that delivers a ton of truly exquisite beaches. Pristine blue waters meet a backdrop of bottle green forests – it's no wonder that Playa Tamarindo is one of Costa Rica’s most famous destinations.
+
+5. Corcovado
+
+Well off the tourist trail, Corcovado’s ebony sands are not your average beach-going experience. Boasting diversity in colour, landscape and wildlife, Corcovado is perfect for those seeking beaches with character and charm.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Green Phoenix: Restoring the Tropical Forests of Guanacaste, Costa Rica
+
+William Allen
+
+The Ticos: Culture and Social Change in Costa Rica
+
+Mavis Hiltunen Biesanz
+
+Off the Map
+
+Dorien Kelly
+
+The Costa Rica Reader: History, Culture, Politics
+
+Steven Palmer and Ivan Molina
+
+
+
+
+
+
+
+
+Costa Rica travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Costa Rica?
+
+
+
+
+
+
+
+
+
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Yes - in advance
+Switzerland: Not required
+United Kingdom: Not required
+USA: Not required
+
+
+
+
+
+
+
+Is tipping customary in Costa Rica?
+
+
+
+
+
+
+
+
+
+While tipping isn't mandatory in Costa Rica, rounding up the bill and leaving spare change at restaurants and cafes is generally standard practice. 500 colones should be sufficient.
+
+
+
+
+
+
+
+What is the internet access like in Costa Rica?
+
+
+
+
+
+
+
+
+
+Costa Rica's cities and tourist centres have internet access available in internet cafes and hotel lobbies. Internet access is less available in rural and remote areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Costa Rica?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in Costa Rica's cities and metropolitan areas, although expect limited coverage in remote or mountainous areas. Ensure you have global roaming activated with your carrier if you wish to use your phone while in Costa Rica.
+
+
+
+
+
+
+
+What are the toilets like in Costa Rica?
+
+
+
+
+
+
+
+
+
+Costa Rica's toilets are a mixture of flushable toilets and squat toilets, so be prepared to encounter both. Carry your own supply of toilet paper and soap as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Coconut drink = 250 CRC
+Can of soft drink = 450 CRC
+Bottle of beer = 1000 CRC
+Basic lunch = 2000 CRC
+Sit down dinner in a restaurant = 5000-7500 CRC
+
+
+
+
+
+
+
+Can I drink the water in Costa Rica?
+
+
+
+
+
+
+
+
+
+Although tap water is considered safe to drink in Costa Rica's cities, it's probably a good idea to avoid drinking tap water in Costa Rica. For environmental reasons, try to avoid bottled water. Ask your leader where filtered water can be found as some hotels provide this. Remember to peel fruit and vegetables before eating and avoid ice in drinks.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Costa Rica?
+
+
+
+
+
+
+
+
+
+Major credit cards are accepted by most large shops, hotels and restaurants, although smaller vendors and market stalls often only accept cash.
+
+
+
+
+
+
+
+What is ATM access like in Costa Rica?
+
+
+
+
+
+
+
+
+
+ATMs are easily found in the large cities and airports, although are less common in rural and remote areas. When travelling out of the city, come prepared by having enough cash as ATMs aren't always an option.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Costa Rica?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Costa Rica ?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+11 Apr Juan Santamaria Day / Battle of Rivas
+
+13 Apr Maundy Thursday
+
+14 Apr Good Friday
+
+1 May Labor Day
+
+25 Jul Annexation of Guanacaste Day
+
+2 Aug Patron Saint Day / Our Lady of Los Ángeles
+
+15 Aug Mother's Day / Assumption Day
+
+15 Sep Independence Day
+
+16 Oct Cultures National Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Costa Rica go to:
+http://www.worldtravelguide.net/costa-rica/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Costa Rica
+
+Be considerate of Costa Rica’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+Admire coral while diving and snorkelling, but never remove coral from a reef or buy coral items from markets. Coral belongs in the sea.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

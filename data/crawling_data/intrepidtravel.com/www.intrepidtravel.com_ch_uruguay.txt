@@ -1,0 +1,3411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uruguay Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uruguay tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+Uruguay
+
+
+
+Uruguay is like the cool, unaffected half-sister of Brazil and Argentina.
+
+
+It may not be as shiny or make as much noise, but with over 300 km of superb coastline, a rich, fertile interior and some of the most welcoming faces in the region, this little stunner is fast becoming a superior destination in its own right. Strolling around Montevideo you could be forgiven for thinking you’d actually dropped into the heart of
+Europe
+. Uruguay’s mellow capital is regularly preceded by the adjectives ‘cosmopolitan’ and ‘lively’ - which it is - but what you'll also find is an eclectic and diverse city, teeming with infectious hospitality. Venture inland and you’ll discover working gaucho farms, charming agricultural centres and an intoxicating pace; or perhaps follow the crowds to some of the best beaches and surf towns in
+South America
+.
+
+
+Our Uruguay trips
+
+
+
+
+
+
+
+
+
+Buenos Aires to Rio Unplugged
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,191
+
+
+
+
+
+Experience Brazilian beaches, Uruguayan home cooking and vibrant Argentinean culture on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate South America
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,380
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia to Brazil Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,135
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina, Uruguay and Brazil. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South America Encompassed
+
+
+
+
+
+
+
+
+
+56 Days
+
+
+From
+FR8,125
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Iguazu to Buenos Aires
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,977
+
+
+
+
+
+Bookended by visits to roaring Iguazu Falls and sophisticated Buenos Aires, this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Buenos Aires
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR4,753
+
+
+
+
+
+Experience the culture and natural beauty of Brazil and Uruguay on this South American...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on Uruguay
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 30, 2017
+
+
+
+Colonia del Sacramento: The underrated foodie...
+
+
+
+
+
+
+Colonia del Sacramento is one of the oldest towns in Uruguay, a UNESCO World...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 23, 2017
+
+
+
+5 LGBTQI-friendly travel destinations you might...
+
+
+
+
+
+
+For years, LGBTQ travellers have flocked to the usual suspects of queer-friendly...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 21, 2017
+
+
+
+The beauty of Uruguay, South America’s...
+
+
+
+
+
+
+For the few of us lucky enough to have spent time in this little slice of paradise...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 07, 2016
+
+
+
+It’s official, guys: here are the 6 hottest...
+
+
+
+
+
+
+Bring out the bucket list: here are six destinations that are gonna be hot, hot,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uruguay travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Colonia del Sacramento
+
+
+
+
+Lose yourself amid the old-world allure of Colonia del Sacramento
+
+
+
+
+
+
+Rio to Buenos Aires, 28 days
+
+
+
+
+
+
+
+
+Iguazu to Buenos Aires, 15 days
+
+
+
+
+
+
+
+
+Bolivia to Brazil Explorer, 36 days
+
+
+
+
+
+
+
+
+
+
+
+Montevideo
+
+
+
+
+Trawl through one of Montevideo's lively open-air markets
+
+
+
+
+
+
+Bolivia to Brazil Explorer, 36 days
+
+
+
+
+
+
+
+
+Iguazu to Buenos Aires, 15 days
+
+
+
+
+
+
+
+
+Rio to Buenos Aires, 28 days
+
+
+
+
+
+
+
+
+
+
+
+Tacuarembo
+
+
+
+
+Savor delicious ranch-cooked meals with our guacho hosts
+
+
+
+
+
+
+Buenos Aires to Rio Unplugged, 17 days
+
+
+
+
+
+
+
+
+Ultimate South America, 63 days
+
+
+
+
+
+
+
+
+South America Encompassed, 56 days
+
+
+
+
+
+
+
+
+
+
+
+
+Uruguay holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Montevideo (population 1.3 million)
+
+Population:
+
+3.4 million
+
+Language:
+
+Spanish
+
+Currency:
+
+UYU
+
+Time zone:
+
+(GMT-03:00) Montevideo
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth) Type I (Australian/New Zealand & Chinese/Argentine 2/3-pin) Type L (Italian 3-pin)
+
+Dialing code:
+
++598
+
+
+
+
+
+
+
+
+
+Best time to visit Uruguay
+
+
+
+
+
+
+×
+
+Best time to visit Uruguay
+
+
+
+
+Given its humid sub-tropical climate, Uruguay is suitable to visit virtually all year round, although warm coats are needed in the winter months (June-August) when the temperature drops to an average of 10 degrees C. From there, the crowds rise in accordance with the mercury. And by the peak of summer (January), the coastline teems with tourists and holidaymakers, meaning a little more planning can be needed to ensure prime accommodation. Don’t be discouraged by peak season though - there are plenty of remote surf breaks and relaxed coastal towns in which to wile away the summer, and there’s always the option to head inland for a taste of fresh air and the country life!
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+Flanked in equal measure by
+Argentina
+,
+Brazil
+and the Atlantic, Uruguay is the second smallest nation in South America, with a staggering 50% of the population living in the capital. The temperature is mild, with summer highs in January tipping 30 degrees C, while the July winter temperature dips as low as 6 degrees C. The landscape is predominantly rolling grasslands, small but fertile hills and an abundant coastline. Rainfall is modest and evenly spread through the year, however the absence of large wind-blocking mountains means Uruguay can be prone to high winds.
+
+
+
+
+
+
+
+
+Top 5 Beaches in Uruguay
+
+
+
+
+
+
+×
+
+Top 5 Beaches in Uruguay
+
+
+
+1. Punta del Este
+
+As Uruguay's answer to the French Riviera's St Tropez, Punta del Este may be a little too glitzy or hectic for some - particularly in summer - but away from the hustle and bustle zone, there are miles of sublime beaches that stretch out either side of the city, plus several discount accommodation options tucked neatly away in other parts of town.
+
+2. Punta del Diablo
+
+Having drawn in droves of travellers for the past few years, Punta del Diablo can no longer claim to be a quieter option that its southern counterpart. But despite its growing popularly, this is easily one of the best beachside locales in Uruguay and well worth the trip north.
+
+3. Cabo Polonio
+
+Sitting on the east coast of Uruguay, this remote location can only be accessed on foot or by 4x4 across the sand dunes. With no electricity or running water, locals (to the tune of 75 people) use generators and collect rain water, making it the perfect place for a little escapism.
+
+4. La Pedrera
+
+A popular haunt for backpackers and Uruguayans, La Pedrera is characteristic of the small, idyllic beach towns north of Punta del Este. Here, it's still possible to find a sparsely populated stretch of white sand and top-notch surf breaks.
+
+5. Piriapolis
+
+With the enviable backdrop of one of Uruguay’s few mountains, Sugar Loaf, Piriapolis boasts a stack of great beaches plus a waterfront boardwalk and busy marina.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Tree of Red Stars
+
+Tessa Bidal
+
+The New Troy
+
+Alexandre Dumas
+
+The Invisible Mountain
+
+Carolina de Robertis
+
+City of your Final Destination
+
+Peter Cameron
+
+
+
+
+
+
+
+
+Uruguay travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Uruguay?
+
+
+
+
+
+
+
+
+
+URUGUAY TOURIST VISA
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Not required
+Switzerland: Not required
+United Kingdom: Not required
+United States: Not required
+
+
+
+
+
+
+
+Is tipping customary in Uruguay?
+
+
+
+
+
+
+
+
+
+It's customary to add 10% to restaurant bills (if this hasn’t already been included). Tipping elsewhere is optional, but leaving spare change at small cafes is a good idea as most Uruguayans typically earn little.
+
+
+
+
+
+
+
+What is the internet access like in Uruguay?
+
+
+
+
+
+
+
+
+
+Travellers should be able to access the internet at cyber cafes and Wi-Fi hot spots in Uruguay's major cities and towns. Remote and rural areas will have less internet availability, so be prepared for this when travelling out of the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Uruguay?
+
+
+
+
+
+
+
+
+
+Using your mobile phone while in the cities of Uruguay shouldn’t be problematic. Coverage may be less reliable in remote areas. Ensure you have global roaming enabled before leaving your home country if you wish to use your mobile.
+
+
+
+
+
+
+
+What are the toilets like in Uruguay?
+
+
+
+
+
+
+
+
+
+Western-style, flushable toilets are the standard in Uruguay, although it’s a good idea to carry your own toilet paper and soap as these aren’t always provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Cup of coffee in a cafe = 40-60 UYU
+Beer in a bar or restaurant = 40-60 UYU
+Basic, takeaway lunch = 80-100 UYU
+Dinner in an inexpensive restaurant = 180-220 UYU
+
+
+
+
+
+
+
+Can I drink the water in Uruguay?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink unless otherwise marked but outside of major cities and towns boiled water is recommended. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water; ask your leader where filtered water can be found. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Uruguay?
+
+
+
+
+
+
+
+
+
+Major credit cards are accepted by most large shops and hotels. Smaller vendors may not accept credit cards, so carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Uruguay?
+
+
+
+
+
+
+
+
+
+ATMs are commonly found in Uruguay's cities and urban areas. Remote regions will have less ATM availability, so prepare accordingly before travelling away from cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Uruguay?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Uruguay?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+6 Jan Epiphany / Three Kings Day
+
+27 Feb Carnival Monday
+
+28 Feb Carnival Tuesday
+
+13 Apr Holy Thursday
+
+14 Apr Good Friday
+
+17 Apr Landing of the Patriots
+
+1 May Labor Day
+
+18 May Battle of Las Piedras
+
+19 Jun Birth of Artigas
+
+18 Jul Constitution Day
+
+25 Aug Independence Day
+
+10 Oct Columbus Day
+
+2 Nov All Souls' Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Uruguay go to:
+http://www.worldtravelguide.net/uruguay/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Uruguay
+
+Be considerate of Uruguay’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with tap or filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

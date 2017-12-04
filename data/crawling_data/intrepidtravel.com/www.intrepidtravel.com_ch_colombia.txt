@@ -1,0 +1,4130 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Colombia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Colombia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+Colombia
+
+
+
+Gifted with tropical rainforests, romantic towns, magical beaches and colourful cities brimming with culture, Colombia could just be South America’s best-kept secret!
+
+
+Whether you’re seeking adventure sports, flamboyant fiestas, architectural wonders or wildlife encounters - charismatic Colombia is calling.
+
+
+Top Colombia travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+6 Jan 2018
+
+Explore Colombia
+
+
+
+Explore Colombia
+Cartagena to Bogota
+
+
+
+
+
+
+
+
+
+×
+
+Explore Colombia
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,745
+
+
+FR1,309
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Best of Colombia
+
+
+
+Best of Colombia
+Bogota to Bogota
+
+
+
+
+
+
+
+
+
+×
+
+Best of Colombia
+
+
+
+
+
+
+
+
+
+17
+
+
+FR3,540
+
+
+FR3,186
+
+
+
+
+View Trip
+
+
+
+
+
+
+20 Jan 2018
+
+Cafe Colombia
+
+
+
+Cafe Colombia
+Bogota to Cartagena
+
+
+
+
+
+
+
+
+
+×
+
+Cafe Colombia
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,910
+
+
+FR1,528
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Colombia trips
+
+
+
+
+
+
+
+
+
+Best of Colombia
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR3,670
+
+
+
+
+
+Get to know Colombia on a coffee-scented adventure that will take you through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cafe Colombia
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,870
+
+
+
+
+
+Get to know Colombia on a coffee-scented adventure that will take you through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Colombia
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,745
+
+
+
+
+
+Travel to Colombia and visit Cartagena, touring the delights of Tayrona National Park,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Colombia
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,308
+
+
+
+
+
+Travel to Colombia and visit Cartagena, Guachaca; touring the delights of Tayrona...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Quito to Cartagena
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,778
+
+
+
+
+
+Take an exciting overland trip through Colombia. Travel from Quito to Cartagena,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cartagena to Quito
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,678
+
+
+
+
+
+Take an exciting overland trip through Colombia. Travel from Cartagena to Quito...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Colombia tour reviews
+
+
+Our Colombia trips score an average of
+4.67 out of 5
+based on 122 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Best of Colombia,
+October 2017
+
+Ken Horowitz
+
+Treking as noted previously are difficult unless in excellent health
+
+Review submitted 14 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Explore Colombia,
+October 2017
+
+christine newton
+
+Columbia in its raw state. Loverly local food fish and plantaines. People happy to see visitors and totally safe with usualy caution when travelling.
+
+Review submitted 11 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Colombia trip reviews
+
+Our Colombia trips score an average of
+4.67 out of 5
+based on 122 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Colombia
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+Where to find the best street art in South America
+
+
+
+
+
+
+Artists from across the world look to South America as the perfect canvas for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 17, 2017
+
+
+
+An insider’s guide to Medellin: Colombia’s ...
+
+
+
+
+
+
+This is not a city of big sights or must-dos. Instead, it’s the sense that you are...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 07, 2017
+
+
+
+6 places that prove Colombia is South America’s...
+
+
+
+
+
+
+Colombia has everything. Caribbean beaches in the North, Pacific surf in the West....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 06, 2017
+
+
+
+I’ve visited Colombia 8 times; here’s why I’ll...
+
+
+
+
+
+
+Despite having traveled to over 45 countries, Colombia is unquestionably one of my...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 02, 2017
+
+
+
+Have words, will travel: how learning Spanish...
+
+
+
+
+
+
+Learning Spanish gave us a voice with which we could ask questions we were unable...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2016
+
+
+
+7 hot travel spots to check out in 2017
+
+
+
+
+
+
+Featuring the hottest – and coolest – destinations on earth. How many have you be...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 26, 2016
+
+
+
+Is Colombia’s Cocora Valley the world’s coolest...
+
+
+
+
+
+
+The pines disappeared and legions of towering wax palms stood in their place....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 28, 2016
+
+
+
+24-hours in Medellín, Colombia’s capital of cool
+
+
+
+
+
+
+What to do, eat and see in one of South America's biggest success stories.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 21, 2016
+
+
+
+Why the world needs to learn salsa, Colombian...
+
+
+
+
+
+
+I may well have become the feature of every ‘gringo tries to salsa’ YouTube video...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 17, 2015
+
+
+
+This couple quit their jobs to drive the Pan...
+
+
+
+
+
+
+My wife and I left our jobs and lives in San Francisco last year to drive the Pan...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 16, 2014
+
+
+
+Colombian soul: 7 of the country’s best spots
+
+
+
+
+
+
+South America is a land of miraculous scenery, rich cultures, captivating wildlife...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 11, 2014
+
+
+
+Why Colombians love ants with big arses
+
+
+
+
+
+
+If you love trying new things, then you'll definitely want to get your teeth into...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 17, 2014
+
+
+
+5 of Colombia’s most beautiful places
+
+
+
+
+
+
+Travel to Colombia and you’re sure to come back talking of the country’...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Colombia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manizales
+
+
+
+
+Learn about Colombian coffee on a plantation visit in Manizales
+
+
+
+
+
+
+Cartagena to Quito, 19 days
+
+
+
+
+
+
+
+
+Quito to Cartagena, 19 days
+
+
+
+
+
+
+
+
+
+
+
+Bogota
+
+
+
+
+Travel to the top of Montserrate for panoramic views of Bogota
+
+
+
+
+
+
+Explore Colombia, 10 days
+
+
+
+
+
+
+
+
+Best of Colombia, 19 days
+
+
+
+
+
+
+
+
+
+
+
+Tayrona National Park
+
+
+
+
+Bliss out beachside in Tayrona National Park
+
+
+
+
+
+
+Explore Colombia, 10 days
+
+
+
+
+
+
+
+
+Cartagena to Quito, 19 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Colombia
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Colombia, you may find yourself travelling by:
+
+
+
+
+
+
+
+Local bus
+
+Rub shoulders with locals while travelling on a local bus – it’s a great way to mix with different crowds and a cheap way to get around.
+
+
+Best of Colombia
+
+
+
+
+Accommodation in Colombia
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Colombia you may find yourself staying in a:
+
+
+
+
+
+
+
+Hacienda
+
+Sleeping in a hammock while staying at a traditional hacienda is an authentic treat for travellers who are happy to forego a mattress for a few days in favour of a real life experience.
+
+
+
+
+
+Colombia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Bogota (population 7.2 million)
+
+Population:
+
+44.7 million
+
+Language:
+
+Spanish
+
+Currency:
+
+COP
+
+Time zone:
+
+(GMT-05:00) Bogota, Lima, Quito, Rio Branco
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code:
+
++57
+
+
+
+
+
+
+
+
+
+Best time to visit Colombia
+
+
+
+
+
+
+×
+
+Best time to visit Colombia
+
+
+
+
+There is always a good time to visit Colombia, as the seasons vary throughout the country. While the climate generally remains constant throughout the year, the temperature can change depending on where you are. In the far north, the climate is usually tropical, warm and humid; while central Colombia can get quite cool - Bogota is known for its mild temperatures, particularly at night.
+
+The wet season is roughly from March to May and September to November, although this varies around the country. December to March is the peak travel period due to the dry conditions and holidays and festivals that proliferate across the country. During this time, expect more sunshine, but also more people competing for space in the cities and tourist regions.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Colombian culture tends to revolve around the Four F’s: Festivals, Food, Fun and Family. While this bold and beautiful nation loves to party, it’s also a very traditional, family-centred society, with many Colombians choosing to live near their families and remain at home until marriage. With most Colombians being Catholic, religion plays an important part in daily life, and visitors will be able to see this themselves while travelling through Colombia. Hundreds of churches and cathedrals populate the large cities, while smaller chapels are dotted throughout the villages and rural areas. Religious festivals like Easter and Christmas are celebrated with gusto – after quiet times of reverence come the massive street parties, parades and feasts. A variety of cultural influences collide at these events - Spanish, African and Caribbean customs and traditions have been brought to Colombia over the centuries and shaped its vibrant culture.
+
+The hallmarks and customs of daily life vary from region to region, with Bogota’s upwardly mobile citizens enjoying bars, driving cars and having access to a wide range of technology, cuisine and media. Colombia’s rural-dwellers (subsistence farmers, plantation workers and tribal groups) live a more simple existence in rustic housing and without traffic or the stresses of modern life. What unifies most Colombians though, regardless of living conditions or class, is a fierce love of Colombia, respect for God and loyalty to the family unit.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Colombia has rich culinary traditions, quality fresh produce and loads of cosmopolitan bars, cafes, food stands and restaurants to visit. For a summary of what to eat in South America, check out
+our in depth guide
+.
+
+Things to try in Colombia
+
+1. Arepas
+
+These popular thick corn tortillas can be found almost everywhere in Colombia. Baked or fried, with beef, cheese, pork, chicken or beans, they make the perfect breakfast or afternoon snack.
+
+2. Bandeja Paisa
+
+Originating from the Andean region of Colombia, this dish is a staple of most Colombian diets. Consisting of a plate of rice, beans, avocado, fried egg, chorizo and other meats, it’s a filling feast fit for a king!
+
+3. Ajiaco Bogotano
+
+This hearty chicken stew is a Bogota specialty. Packed with succulent chicken meat, corn, potatoes and herbs, it’s a tasty and satisfying budget meal.
+
+4. Tropical Fruit
+
+Colombia is known for having some of the best fresh produce in the world. Bananas and plantains are among the best, and you’ll be able to find street vendors selling them fresh, fried and grilled. Fruit shakes are also widely available and offer travellers a chance to sample some exotic fruits that they may not have tried before.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Located in the northwest of South America, Colombia shares borders with
+Venezuela
+,
+Brazil
+,
+Peru
+,
+Ecuador
+and Panama, and is the only South American country to have a coastline on both the Pacific and the Caribbean. Home to a wide variety of natural environments and varying terrain, travellers can expect to see mountains give way to low lying plains and tropical rainforests meet balmy beaches. Add sprawling metropolises, small farming communities, far-reaching plantations, fishing villages and colonial-era towns, and you’ve got an ever-changing landscape at your fingertips.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The area now known as Colombia was inhabited by Caribbean and Andean groups who lived in small communities based on organised agriculture. Spanish explorers were drawn to the land and fascinated by the proliferation of gold. The myth of El Dorado soon abounded, and the search for this land of gold soon became an obsession. From the creation of Santa Marta in 1525, colonisation spread rapidly throughout the rest of the country, leading to interest from neighbouring countries that were also keen to exploit Colombia’s natural resources. Many Africans soon started to arrive as a part of the slave trade, and provided a much-needed labour force for the colonisers. Life was tough for the slaves; however, African song, dance and other afro-traditions helped to shape Colombian culture well into the future.
+
+Recent History
+
+Independence from Spain rose to the top of Colombia’s agenda after years of resentment. Simon Bolivar soon became a local hero, fighting for independence from the Spaniards. It took many years but in 1819, Colombia was granted its freedom – Bolivar had fought his way into the minds and hearts of Colombia, where he is still revered. However, this spirit of freedom was short lived as Colombia descended into confrontation and civil war in the following years. Colombia seemed to be at the mercy of political opponents and guerrilla groups, weaving between periods of peace and extreme violence. By the 1970s, Colombia had a new wave of criminal activity stemming from the lucrative cocaine trade. Pablo Escobar became one of the world’s most notorious (and wealthy) criminals by controlling most of the world’s drug trade. Colombia became a dangerous place to live (and travel in) during this period, yet has recently emerged victorious from these dark days. With vastly improved national security and a growing economy based on agriculture, textiles and mineral mining, Colombia is welcoming back tourists with open arms.
+
+
+
+
+
+
+
+
+Top 10 Must-See Cities of Colombia
+
+
+
+
+
+
+×
+
+Top 10 Must-See Cities of Colombia
+
+
+
+
+1. Medellin
+
+What makes Medellin so magnificent? Once considered one of the most dangerous cities in the world, Medellin’s temperate weather, hospitable locals, gorgeous gardens and artistic enclaves have prevailed and this cultured city has emerged full of spirit, passion and optimism.
+
+2. Popayan
+
+This vibrant town may have been founded centuries ago, but nowadays Popayan has a youthful spirit due to the local university that attracts thousands of young Colombians to the region. Home to many of Colombia’s most celebrated poets, composers and painters, Popayan also has some of the most stirring Easter celebrations in the world.
+
+3. Cali
+
+Known locally at the ‘Capital of Heaven’, Cali’s museums and public art may dazzle you, but it’s the up and coming food and party scene that’s getting loads of attention. With modern restaurants serving international cuisine, local eateries offering traditional fare, lively salsa bars open until dawn and a fair worth travelling for in late December, Cali shouldn’t be missed!
+
+4. Barichara
+
+Less of a city and more of a colonial town, the faded charm of rustic Barichara has been endearing travellers for centuries. Coloured, whitewashed buildings with carved wooden doors and red roofs, quaint little churches and hilly streets make Barichara the perfect place to linger for a few days of quiet downtime.
+
+5. Bogota
+
+Colombia’s sprawling capital is a frenetic fusion of old and new, with skyscrapers towering over colonial buildings, wild traffic giving way to peaceful parks and cobblestone streets leading to bohemian night spots. With so much going on, you’ll be exhausted trying keep up with Bogota’s pace.
+
+6. Tunja
+
+Lofty Tunja’s historic architecture, spiritual sites and lively festivals make it an interesting destination for travellers from all walks of life. Whether you’re interested in magnificent art, colonial-era architecture or cultural enlightenment, Tunja delivers on all accounts.
+
+7. Cartagena
+
+Surrounded by walls built to guard against pirates, Cartagena captivates travellers with colonial mansions, cobbled streets, Spanish-style houses and brightly coloured buildings. History seems to drip from every street corner, especially when Cartagena takes on a golden glow by night.
+
+8. Pamplona
+
+Although one of Colombia’s less-visited spots, cultured Pamplona is well worth checking out. With a wealth of museums, galleries and churches nestled within its narrow streets and rousing Holy Week celebrations, Pamplona offers a peak into Colombian traditions and daily life.
+
+9. Santa Marta
+
+Seaside Santa Marta attracts flocks of tourists chasing sunshine, scuba diving and seafood. With beautiful beaches, atmospheric bars, chilled-out open-air cafes and heritage sites, Santa Marta should feature on every travellers list.
+
+10. San Gil
+
+This small city is emerging as one of Colombia’s hottest new destinations, mainly due to the plethora of adventure sports on offer in the surrounding areas. Test your limits with paragliding, caving, rafting and kayaking, and then relax in the pleasant botanical gardens and cafes of sunny San Gil.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Travellers might visit Colombia for the adrenalin sports, nature reserves and beaches, however retail therapy should also be included in that list, as Colombia’s shopping is surprisingly sensational.
+
+It’s a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Colombia
+
+1. Jewellery, Art & Handicrafts
+
+Some of the best artisans in South America live in Colombia. Choose from handcrafted gold jewellery, bright textile bags and scarves, and vibrant contemporary art available in galleries, markets and boutiques all over the country.
+
+2. Fashion & Accessories
+
+Colombia’s more cosmopolitan cities have enough fashion-forward boutiques and malls to keep most clothes-hounds happy. Medellin in particular is well known for being Colombia’s fashion capital, and is a true hotspot in the Latin American fashion world.
+
+3. Coffee Beans
+
+As one of the world’s largest producers of coffee beans, Colombia is a great place to pick up top quality beans at lower prices than back at home. Buying straight from the coffee regions ensures quality and freshness.
+
+
+
+
+
+
+
+
+Festivals and events in Colombia
+
+
+
+
+
+
+×
+
+Festivals and events in Colombia
+
+
+
+
+Carnival of Barranquilla
+
+With a slogan like “Who lives it, is who enjoys it”, Barranquilla’s Carnival is not one for the shrinking violets! One of the biggest and boldest carnivals in the world, travellers should relish the chance to get involved in this rich cultural celebration full of absurd costumes, frenetic dance, masked entertainers, deafening music and intense partying.
+
+Cali Fair
+
+Colombia’s capital of salsa springs to life late in the year with this happy celebration. Although salsa dance and music are the hallmarks of this fair, there’s also horseback riding, parades, concerts and feasts of traditional food to be enjoyed during this joyful celebration.
+
+Medellin Flower Fair
+
+See magical Medellin in full bloom every August, when this enchanting city’s balconies, gardens, terraces and courtyards burst into a symphony of floral wonders. With live music, classic cars, beauty pageants, dog shows, afro-inspired dance and flower exhibitions all competing for attention during this traditional festival, this is Medellin at its very best.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+One Hundred Years of Solitude
+
+Gabriel Garcia Marquez
+
+Beyond Bogota: Diary of a Drug War Journalist in Colombia
+
+Garry Leech
+
+The Armies
+
+Evelio Rosero
+
+The Dispossessed: Chronicles of the Desterrados of Colombia
+
+Alfredo Molano and Aviva Chomsky
+
+Twice Colombia: Adventure, Friendship and Adoption in the Andes Mountains
+
+Patricia L Woodard
+
+
+
+
+
+
+
+
+Colombia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Colombia?
+
+
+
+
+
+
+
+
+
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Not required
+Switzerland: Not required
+United Kingdom: Not required
+United States: Not required
+
+
+
+
+
+
+
+Is tipping customary in Colombia?
+
+
+
+
+
+
+
+
+
+While tipping isn’t mandatory, it's advisable to tip restaurant and hotel staff since many Colombians receive low wages. Any extra income will be welcomed.
+
+
+
+
+
+
+
+What is the internet access like in Colombia?
+
+
+
+
+
+
+
+
+
+Internet access is easily found in Colombia’s large cities and metropolitan areas, but less so in more remote areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Colombia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in Colombia, especially in large cities. Coverage may not be available in more remote areas, especially if travelling in mountainous regions. Ensure you have global roaming activated with your mobile carrier before you leave home if you wish to use your mobile while in Colombia.
+
+
+
+
+
+
+
+What are the toilets like in Colombia?
+
+
+
+
+
+
+
+
+
+Sit-down, flushable toilets are the standard in Colombia, although toilet paper and soap may not be provided, so be sure to carry your own. Public toilets are quite rare so don’t expect to find many, except at the airport or in museums or malls.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Soft drink = 1,500 COP
+Beer = 2,000 COP
+Simple meal in a local restaurant = 6,000 COP
+Meal in an international restaurant = 15,000-20,000 COP
+
+
+
+
+
+
+
+Can I drink the tap water in Colombia?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Colombia. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Colombia?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted in tourist shopping areas and large hotels, but are less commonly accepted by smaller vendors, in remote towns and rural areas. Make sure you carry enough cash for purchases, since credit cards aren't always an option in Colombia.
+
+
+
+
+
+
+
+What is ATM access like in Colombia?
+
+
+
+
+
+
+
+
+
+ATMS are common in large cities like Bogota and Medellin, and are found in and near shopping centres, tourist areas and hotels. ATMs are less common in rural areas and smaller towns, so you're advised to prepare for this by having enough cash before travelling out of the city.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Colombia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Colombia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+9 Jan Feast of Epiphany Holiday
+
+20 Mar Saint Joseph's Day
+
+13 Apr Maundy Thursday
+
+14 Apr Good Friday
+
+1 May Labor Day
+
+29 May Ascension Day Holiday
+
+19 Jun Corpus Christi Holiday
+
+26 Jun Sacred Heart Day
+
+3 Jul Feast of Saint Peter & Saint Paul
+
+20 Jul Independence Day
+
+7 Aug Battle of Boyacá Day
+
+21 Aug Assumption of Mary Holiday
+
+16 Oct Columbus Day Holiday
+
+6 Nov All Saints' Day Holiday
+
+13 Nov Independence of Cartagena Holiday
+
+8 Dec Feast of the Immaculate Conception
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Colombia go to:
+http://www.worldtravelguide.net/colombia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Colombia
+
+Be considerate of Colombia’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

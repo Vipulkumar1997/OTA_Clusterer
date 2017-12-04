@@ -1,0 +1,3364 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taiwan Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taiwan tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Taiwan
+
+
+
+When Portuguese sailors first saw Taiwan off the starboard bow in 1544 they christened it Ilha Formosa, the 'Beautiful Island'.
+
+
+And can you blame them? For 400 years communists, capitalists, imperialists and everyone in between have fought over its mist-shrouded forests, soaring peaks and plunging coastal cliffs. These days it’s definitely a case of ‘come for the adventure, stay for the stir-fries’, with some of the best fusion cuisine around, top road cycling, excellent mountain trekking and world-class coffee to boot. Technically it’s known as the Republic of China, but in the last 40 years this little green island has carved out its own destiny, one that’s definitely ‘made in Taiwan’.
+
+
+Our Taiwan trips
+
+
+
+
+
+
+
+
+
+Taiwan Food Expedition
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,050
+
+
+
+
+
+Taste the many flavours of Taiwan, from Taipei, Jiufen to Yilan and beyond. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Taiwan
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,560
+
+
+
+
+
+Discover Taiwan, a land of lush green landscapes, breathtaking Pacific coastal cliffs,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Taiwan tour reviews
+
+
+Our Taiwan trips score an average of
+4.17 out of 5
+based on 6 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Explore Taiwan,
+October 2017
+
+Sandra Hanson
+
+Intrepid is a well-organized company which provide interesting tours, with excellent leaders and drivers! Always generally happy with their itineraries!
+
+Review submitted 25 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Explore Taiwan,
+September 2017
+
+klara slabenakova
+
+Taiwan is a surprising destination, with very friendly and helpful locals. There are plenty of opportunities to partake in fun activities and visit scenic natural sites. It will definitely be a destination that you will enjoy and recommend to fellow travelers.
+
+Review submitted 02 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Taiwan trip reviews
+
+Our Taiwan trips score an average of
+4.17 out of 5
+based on 6 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Taiwan
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+Why Taiwan should be at the top of your travel...
+
+
+
+
+
+
+Epic scenery, incredible food, amazing outdoor activities. Here’s why your next...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 23, 2017
+
+
+
+5 LGBTQI-friendly travel destinations you might...
+
+
+
+
+
+
+For years, LGBTQ travellers have flocked to the usual suspects of queer-friendly...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 28, 2017
+
+
+
+5 unexpected natural wonders to visit in Taiwan
+
+
+
+
+
+
+The majority of visitors stick to the bustling capital of Taipei. But for anyone...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 28, 2016
+
+
+
+Why Taiwan is Asia’s next big food destination
+
+
+
+
+
+
+From small eats (‘xiao chi’) on the street, to Michelin-starred restaurants and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 15, 2015
+
+
+
+Travelling as a vegan? These are the 7...
+
+
+
+
+
+
+With vegan-diets becoming more common on a global scale, travellers are starting...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2014
+
+
+
+5 Reasons Taiwan is Asia’s hottest new destination
+
+
+
+
+
+
+Seen the best of Asia? Not yet you haven't. Check our our 5 reasons why Taiwan is...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2014
+
+
+
+Backstage pass: 8 of the best festivals in Asia
+
+
+
+
+
+
+Shakespeare once said, ‘The sauce to meat is ceremony; meeting were bare without...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taiwan travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luodong
+
+
+
+
+Sample delicious street food at the Luodong Night Markets
+
+
+
+
+
+
+
+
+
+Taipei
+
+
+
+
+Gain some wisdom at the Confucius Temple in Taipei
+
+
+
+
+
+
+Explore Taiwan, 11 days
+
+
+
+
+
+
+
+
+
+
+
+
+Taiwan holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Taipei
+
+Population:
+
+23.3 million
+
+Language:
+
+Mandarin
+
+Currency:
+
+TWD
+
+Time zone:
+
+(GMT+08:00) Taipei
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code:
+
++886
+
+
+
+
+
+
+
+
+
+Best time to visit Taiwan
+
+
+
+
+
+
+×
+
+Best time to visit Taiwan
+
+
+
+While there’s really no bad time to visit Taiwan, some months are more predictable than others. September to November is the best time to visit, when you’ll find balmy nights, rich autumn foliage and off-peak prices. Travelling in spring (March to May) is down to luck: it could be clear skies, monsoonal rain or even a sandstorm blown over from
+China
+. Swimming is best mid-year (June to August) when the weather can heat up, but there is always the small risk of typhoons.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Taiwan is a little like
+South America
+with its spine-like ridge of (often impassable) mountains running south-west through the centre of the island. The beauty of this setup is that topography and environment can change very quickly. You can be cycling through low-lying rice paddies around Taitung one day, traversing the high forest passes of Yushan the next, then finishing up on the white northern beaches around Fuguei Cape. Generally the central national parks and east coast are the most spectacular regions; the west coast is flat and highly developed with urban areas spreading over the river basins and flood plains that lead to the sea.
+
+
+
+
+
+
+
+
+Top 5 Attractions in Taiwan
+
+
+
+
+
+
+×
+
+Top 5 Attractions in Taiwan
+
+
+
+
+Top 5 Attractions in Taiwan
+
+1. Sun Moon Lake
+
+One of Asia’s best-kept secrets, Sun Moon Lake is easily the equal of any Como, Bled or Windermere. It’s a huge blue oasis hidden among the green peaks of Taiwan’s central mountain ranges. By day it’s merely beautiful, but in the blue-gold light of dawn, with mists rolling over the water and local fisherman paddling past, it’s like something out of a fairy tale.
+
+2. Taroko Gorge
+
+They have to shoot a James Bond chase scene through here, that’s all there is to it. Taroko Gorge was made for the cinema. It’s a winding maze of looming marble crags, huge cut-out roads tunnelling right into the mountains, rushing river gorges and looping alpine passes. If you are ever being chased by gangsters in your supercar, you want it to be here.
+
+3. Qingshui Cliffs
+
+Just google an image of ‘Qingshui Cliffs’ before we continue. All done? Now you know what we’re talking about. They’re basically a 21 km stretch of sheer jungle-covered cliffs plunging straight into the East China Sea, with a tiny highway clinging on about halfway up. This is not a journey for vertigo-sufferers, but for fans of jaw-dropping natural wonders, it’s a must-do.
+
+4. Taipei
+
+An easy one to tick off, since it’ll probably be your first stop in Taiwan. The northern city of Taipei is the island’s capital, and offers a beating, chaotic counterpoint to the Zen-like beauty of the southern national parks. If you think it’s crazy by day, just wait until night, when a neon glow lights the sky and lantern-lit markets spring up in the colourful Songshan district.
+
+5. Penghu Islands
+
+Penghu is one of Taiwan’s hidden gems, an archipelago of 90 islands between the mainland and China. They’re remote, but worth the journey, with brilliant beaches devoid of crowds, glorious temples, towering basalt columns and genuine old-fashioned Chinese hospitality. Penghu is also a windsurfing mecca and a nesting ground for rare green sea turtles. Not bad for one tiny volcanic island chain.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+A Thousand Moons on a Thousand Rivers
+
+Hsiao Li-Hung
+
+Forbidden Nation: A History of Taiwan
+
+Jonathan Manthorpe
+
+Four Years Without Socks
+
+Chris Murphy
+
+Orphan of Asia
+
+Wu Zhuoliu
+
+
+
+
+
+
+
+
+Taiwan travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Taiwan?
+
+
+
+
+
+
+
+
+
+TAIWAN VISA
+
+Nationals of most countries are eligible for the visa exemption program, which permits a duration of stay of 30-90 days. Please check with your nearest consulate for your specific eligibility.
+
+
+
+
+
+
+
+Is tipping customary in Taiwan?
+
+
+
+
+
+
+
+
+
+Tipping is not a city in Taiwan, nor is it really common practice, except perhaps in the more high-class hotels. Most restaurants have a service charge built into the price, and taxi drivers will usually return your change to you.
+
+
+
+
+
+
+
+What is the internet access like in Taiwan?
+
+
+
+
+
+
+
+
+
+As one of Asia’s more tech-savvy destinations, cyber cafes are common in the major cities. Free Wi-Fi can also usually be found at the local library.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Taiwan?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is excellent in Taiwan, apart from some of the more remote mountain areas. Ensure global roaming is activated before leaving home if you wish to use your mobile while travelling.
+
+
+
+
+
+
+
+What are the toilets like in Taiwan?
+
+
+
+
+
+
+
+
+
+Modern flushing toilets are commonplace in Taiwan, although it can be hard to find a public toilet in the large cities.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Beer = 50 TWD
+Simple lunch at a cafe = 60 TWD
+Dinner in a restaurant = 150 TWD
+Street meal = 40 TWD
+Train ticket = 20 TWD
+Bottle of water = 19 TWD
+
+
+
+
+
+
+
+Can I drink the water in Taiwan?
+
+
+
+
+
+
+
+
+
+Water in Taiwan is usually filtered, and therefore safe, but use your common sense. Restaurants will generally filter their water, as will most of the drinking fountains. If you can’t find these in the more rural areas, bring some purification tablets to treat the water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Taiwan?
+
+
+
+
+
+
+
+
+
+Most hotels and department stores accept VISA and Mastercard, but Diners and AMEX are not usually accepted. For restaurants and small stores, cash is the normal form of payment.
+
+
+
+
+
+
+
+What is ATM access like in Taiwan?
+
+
+
+
+
+
+
+
+
+ATM access in Taiwan is exceptional, with most of their ATMs able to withdraw money from anywhere in the world using the Plus or Cirrus system. There is usually a TWD 20,000 limit for cash withdrawals.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Taiwan?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Taiwan ?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+1 Jan Founding Day of the Republic of China
+
+2 Jan New Year's / Republic Day Holiday
+
+27 Jan Chinese New Year
+
+28 Jan Chinese New Year
+
+29 Jan Chinese New Year
+
+30 Jan Chinese New Year
+
+31 Jan Chinese New Year
+
+1 Feb Chinese New Year
+
+27 Feb 228 Peace Memorial Day (Additional Holiday)
+
+28 Feb 228 Peace Memorial Day
+
+3 Apr Qingming Festival /Tomb Sweeping Day (Additional Holiday)
+
+4 Apr Qingming Festival /Tomb Sweeping Day
+
+4 Apr Children's Day
+
+29 May Dragon Boat Festival (Additional Public Holiday)
+
+30 May Dragon Boat Festival
+
+4 Oct Mid-Autumn / Moon Festival
+
+9 Oct ROC National Celebration Day (Additional Holiday)
+
+10 Oct ROC National Celebration Day
+
+Please note these dates are for 2017. For a current list of public holidays in Taiwan  go to:
+http://www.worldtravelguide.net/taiwan/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Taiwan
+
+Be considerate of Taiwan’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, especially children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

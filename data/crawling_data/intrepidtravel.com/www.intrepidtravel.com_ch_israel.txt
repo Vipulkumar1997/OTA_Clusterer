@@ -1,0 +1,3555 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Israel Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Israel tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Middle East
+
+Israel
+
+
+
+Sacred sites that inspire reverence, ancient spaces that invoke awe, modern cities built to excite and simple villages that have sustained life for centuries
+
+
+Israel holds many treasures for travellers looking to delve into history and make a connection with the past. From the glistening coast to the barren depths of the Dead Sea, mountain village communities and cosmopolitan cities full of bars and boutiques, a journey through Israel will stir the soul, challenge perceptions and arouse wonder.
+
+
+Our Israel trips
+
+
+
+
+
+
+
+
+
+Discover Israel & the Palestinian Territories
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,030
+
+
+
+
+
+Visit significant religious and cultural sites on this week-long discovery of Israel...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Christmas in Israel and the Palestinian Territories
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Join a nine day Israel and Palestinian Territories adventure with Christmas in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Jordan, Israel & the Palestinian Territories
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,420
+
+
+
+
+
+Explore the best of the Middle East as you discover Jordan and Israel. Explore Wadi Rum...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Israel & the Palestinian Territories Real Food Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,925
+
+
+
+
+
+Discover the delectable dishes of Israel and the Palestinian Territories. Savour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Egypt, Jordan, Israel & the Palestinian Territories
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,895
+
+
+
+
+
+Experience the best of the Middle East across Jordan, Egypt, Israel & Palestine....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan, Israel & the Palestinian Territories Real Food Adventure
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR4,370
+
+
+
+
+
+Discover the delectable dishes of Israel and the Palestinian Territories. Savour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Israel tour reviews
+
+
+Our Israel trips score an average of
+4.53 out of 5
+based on 34 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Discover Israel  & the Palestinian Territories,
+November 2017
+
+Bharathi Narayanan
+
+In relation to this particular trip, we would suggest that it is best to do this trip in autumn or spring . As there is quite a bit of walking to do, it might be difficult to do it in summer.
+
+Review submitted 29 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Discover Israel  & the Palestinian Territories,
+November 2017
+
+Abby-Maree Clayton
+
+Great trip - so much packed into a week. Helped to get a better understanding of the region. Completely fell in love with Israel and definitely will be going back! This is a great introductory tour.
+
+Review submitted 28 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Israel trip reviews
+
+Our Israel trips score an average of
+4.53 out of 5
+based on 34 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Israel
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+Calling all explorers: 5 uncharted adventures...
+
+
+
+
+
+
+On the hunt for your next big out-there adventure? These might make your decision...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 01, 2017
+
+
+
+9 unique experiences in Israel and the...
+
+
+
+
+
+
+There aren't many places so small or so diverse you can travel from holy cities to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+The top destinations for travel in December
+
+
+
+
+
+
+Whether you’re in the mood for mulled wine and Christmas markets or in need of a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 23, 2017
+
+
+
+5 LGBTQI-friendly travel destinations you might...
+
+
+
+
+
+
+For years, LGBTQ travellers have flocked to the usual suspects of queer-friendly...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2017
+
+
+
+How we celebrate: Easter traditions around the...
+
+
+
+
+
+
+Whether it’s dressing as Roman soldiers in Costa Rica, following Jesus' footsteps...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 19, 2017
+
+
+
+The 5 best beaches in the Middle East
+
+
+
+
+
+
+We're betting when you think beaches, you don't think Egypt, Israel and Oman....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 26, 2016
+
+
+
+Marching in the Tel Aviv Pride
+
+
+
+
+
+
+One guy's experience of the biggest, proudest party in the Middle East.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 21, 2016
+
+
+
+The changing face of Egypt, Israel & Jordan
+
+
+
+
+
+
+In 1992, I travelled to Egypt, Israel and Jordan with about as much forethought as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Israel travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Druze village
+
+
+
+
+Be treated to a home-cooked meal while staying in a Druze village
+
+
+
+
+
+
+
+
+
+Tel Aviv
+
+
+
+
+Relive history on a walking tour of Tel Aviv's fascinating Old Quarter
+
+
+
+
+
+
+Egypt, Jordan, Israel & the Palestinian Territories , 21 days
+
+
+
+
+
+
+
+
+Discover Israel & the Palestinian Territories, 7 days
+
+
+
+
+
+
+
+
+Explore Jordan, Israel & the Palestinian Territories, 14 days
+
+
+
+
+
+
+
+
+
+
+
+
+Israel holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Jerusalem (population 705,000)
+
+Population:
+
+7.4 million
+
+Language:
+
+Hebrew, Arabic
+
+Currency:
+
+ILS
+
+Time zone:
+
+(GMT+02:00) Jerusalem
+
+Electricity:
+
+Type C (European 2-pin) Type H (Israeli 3-pin)
+
+Dialing code:
+
++972
+
+
+
+
+
+
+
+
+
+Best time to visit Israel
+
+
+
+
+
+
+×
+
+Best time to visit Israel
+
+
+
+
+Israel generally has a Mediterranean climate, with the summer months providing loads of sunshine and scorching temperatures that can reach 40ºC. June to August usually sees the highest temperatures, with milder weather prevailing during autumn (September and October) and spring (April and May). Winter (around November to March) provides cooler temperatures and light rain. Snow fall can sometimes occur in the highlands and even in Jerusalem. It's important to note that travel will be affected during religious holidays, with the majority of shops, businesses and public transport shutting down for major Jewish holidays. Israel offers a range of things to do in any weather, from skiing in the highlands to enjoying the sun near the Red Sea, so no matter what time you choose to go, it's a great place to travel all year round.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Travelling through Israel will reveal a wide range of environments and terrain. With beaches and chalk cliffs on the Mediterranean coastline, parched desert in the north, mountains in the south and fertile valleys in the centre of the country, Israel has diverse landscapes to traverse, depending on which part of the country you're visiting. Bordering
+Egypt
+,
+Jordan
+, Lebanon, Syria, the West Bank and Gaza Strip, the people of Israel live in vastly different ways - from the modern, upwardly-mobile population of faced-paced Tel Aviv to the quiet simplicity of village life in the mountains.
+
+
+
+
+
+
+
+
+Gorgeous Gardens of Israel
+
+
+
+
+
+
+×
+
+Gorgeous Gardens of Israel
+
+
+
+
+Top 5 Gorgeous Gardens of Israel
+
+1. Haifa's Baha'i Gardens
+
+Haifa's incredible UNESCO World Heritage-listed gardens dedicated to the Baha'i faith are among the world's most impressive. Featuring more than 450 plant species, landscaped terraces, shrines and breathtaking views of the city and the sea, these immaculately maintained gardens are infused with a sense of spirit and grace.
+
+2. Yarkon Park
+
+This huge public park provides a place of recreation, respite and relaxation to Tel Aviv's busy citizens. Home to sports, outdoor concerts, picnics and festivals, there are many different elements at play - from rock gardens, to rivers, tropical gardens, lakes and an impressive six acres of cacti.
+
+3. Wohl Rose Park
+
+With more than 400 different varieties of rose, ancient mosaics, fish ponds, sculptures and waterfalls, Jerusalem's Wohl Rose Park is one of the only rose parks in the whole of the Middle East.
+
+4. Akko's Baha'i Gardens
+
+These tranquil gardens filled with historic buildings, potted flowering plants, clean-cut hedges and manicured lawns are cared for with love and precision. Ancient olive groves and sycamore figs add a historic dimension to this horticultural triumph.
+
+5. Utopia Orchid Park
+
+Home to thousands of orchid species from around the world, a beautiful butterfly garden, strange carnivorous plants, spectacular fountains and a plant maze, this vast tropical garden area proves there is much more to Israel than desert.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Rock: A Tale of Seventh-Century Jerusalem
+
+Kanan Makiya
+
+A Wall of Light
+
+Edeet Ravel
+
+The Attack
+
+Yasmina Khadra
+
+The Hope
+
+Herman Wouk
+
+The Book of Saladin
+
+Tariq Ali
+
+A Tale of Love and Darkness
+
+Amos Oz
+
+I Saw Ramallah
+
+Mourid Barghouti
+
+
+
+
+
+
+
+
+Israel travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Israel?
+
+
+
+
+
+
+
+
+
+ISRAEL:
+Australia: No - not required
+Belgium: No - not required
+Canada: No - not required
+Germany No - not required
+Ireland: No - not required
+Netherlands: No - not required
+New Zealand: No - not required
+South Africa: No - not required
+Switzerland: No - not required
+United Kingdom: No - not required
+USA: No - not required
+
+It is important to be aware that many Arab and Islamic countries deny entry to any person that has evidence of a visit to Israel. Syria, Iran, Libya and several other countries are included in this list. If you are planning to visit any of these countries with the same passport you must request that your Israeli ‘tourist visa’ be stamped on a loose leaf ‘Form 17 L’ instead of in your passport. Likewise, if entering Israel through the land borders with Jordan please ask the Jordanian officials not to stamp an exit stamp in your passport. If you have evidence in your passport of visits to certain Islamic countries, Israeli border officials will scrutinize you regarding the purpose of your visit to Israel. They can sometimes appear difficult and the delay can be lengthy however patience and a friendly demeanor are advised.
+
+
+
+
+
+
+
+Is tipping customary in Israel?
+
+
+
+
+
+
+
+
+
+Tipping 10-15% for good service is standard practice in restaurants, bars and cafes. Taxi drivers and other service workers like hotel staff generally don't expect tips.
+
+
+
+
+
+
+
+What is the internet access like in Israel?
+
+
+
+
+
+
+
+
+
+Internet access is widespread in Israel, so accessing the internet via Wi-Fi hot spots and cyber cafes is easy in Israel's cities. Rural areas will have less internet connectivity, so beware of this when travelling through remote regions of the country.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Israel?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is excellent in Israel’s major cities and built-up areas. Expect limited to no phone coverage in more isolated areas like the desert. Ensure you have global roaming activated on your phone before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Israel?
+
+
+
+
+
+
+
+
+
+Most toilets in Israel are of the modern, flushable variety unless travelling in remote areas, where squat toilets can sometimes still be found.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Can of soft drink = 6-8 shekels
+One hour in an internet café = 15 shekels
+Take-away snack or light lunch = 25-30 shekels
+Simple dinner at a café or restaurant = 60-100 shekels
+
+
+
+
+
+
+
+Can I drink the water in Israel?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink in Israel, unless marked otherwise.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Israel?
+
+
+
+
+
+
+
+
+
+Most large hotels, restaurants and shops will accept credit cards.
+
+
+
+
+
+
+
+What is ATM access like in Israel?
+
+
+
+
+
+
+
+
+
+ATMs are easily found in Israel's cities and major towns. ATMs are less common in rural areas, so prepare accordingly before travelling out of urban centres.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Israel?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Israel?
+
+
+
+
+
+
+
+
+
+11 Apr Passover
+
+17 Apr Seventh day of Passover
+
+2 May Independence Day
+
+31 May Feast of Shavuot (Pentecost)
+
+21 Sep Rosh Hashanah (New Year) 1st Day
+
+22 Sep Rosh Hashanah (New Year) 2nd Day
+
+30 Sep Yom Kippur / Day of Atonement
+
+5 Oct First Day of Sukkot (Tabernacles)
+
+12 Oct Last Day of Sukkot (Tabernacles)
+
+Please note these dates are for 2017. For a current list of public holidays in Israel go to:
+http://www.worldtravelguide.net/israel/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Israel
+
+1. Be considerate of Israel’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully when visiting Orthodox communities and areas. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with tap or filtered water.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+6. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+7. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+8. Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

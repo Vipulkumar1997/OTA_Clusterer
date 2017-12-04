@@ -1,0 +1,5830 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Italy Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Italy tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Italy
+
+
+
+Home to artistic treasures, renowned sights, celebrated fashion and some of the tastiest food on the planet, Italy will surely impress.
+
+
+From Rome's ancient streets to the romantic canals of Venice, be seduced by a slice of La Dolce Vita.
+
+
+Top Italy travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+27 May 2018
+
+Highlights of Calabria & Sicily
+
+
+
+Highlights of Calabria & Sicily
+Amalfi to Palermo
+
+
+
+
+
+
+
+
+
+×
+
+Highlights of Calabria & Sicily
+
+
+
+
+
+
+
+
+
+15
+
+
+FR3,140
+
+
+FR2,512
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Italy trips
+
+
+
+
+
+
+
+
+
+Best of Italy
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,775
+
+
+
+
+
+Immerse yourself in classic culture, history and incredible sights on this Best of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Italy
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,145
+
+
+
+
+
+Travel from Venice to Rome via Florence and Italy's coast. The Highlights of Italy is...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rome to Amalfi
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,495
+
+
+
+
+
+Travel to Italy on a tour from Rome to Amalfi and explore the best of the region....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Tuscany
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,635
+
+
+
+
+
+Encounter the picturesque hills and olive groves of Tuscany on this cycling adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin to Venice
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,935
+
+
+
+
+
+Discover Central Europe from Germany to Italy. Travel from happening Berlin to ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,460
+
+
+
+
+
+Set sail across the clear blue waters of Sardinia, exploring rugged coastlines, wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amalfi Coast Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,539
+
+
+
+
+
+Sail Italy’s Amalfi Coast, exploring the Bay of Naples, Capri, Amalfi and Procida...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amalfi Coast: Hike, Boat & Kayak
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,655
+
+
+
+
+
+Mountains, forests and beaches – soak up the spectacular scenery of Italy’s Amalfi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Italy Experience
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,590
+
+
+
+
+
+Travel to Italy and savour the many flavours of this gastronomic haven on a journey...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rome to Paris
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,325
+
+
+
+
+
+Take an epic tour through the heart of Italy, Switzerland and France. Visit ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Italy - Procida to Amalfi
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR792
+
+
+
+
+
+Sail Italy’s Amalfi Coast from the colourful village of Procida, through ancient worlds...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Italy - Amalfi to Procida
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR792
+
+
+
+
+
+Sail Italy’s Amalfi Coast, stopping in at the ancient isle of Capri, exploring...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Rome
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,235
+
+
+
+
+
+Travel through three of Europe's most enchanting countries. Visit Spain, head through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Venice
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,650
+
+
+
+
+
+Elaborate architecture and exceptional cuisine, legendary landscapes and live history...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Italy Real Food Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,150
+
+
+
+
+
+Explore the traditional delights of Italian cuisine while travelling through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Southern Italy
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,850
+
+
+
+
+
+Take a tour through Italy’s less-visited southern region, absorbing the beauty of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Venice to Southern Italy
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR4,595
+
+
+
+
+
+From Venetian canals to the busy Bari port, explore the best of Italy on this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Italy Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,880
+
+
+
+
+
+Travel to Italy on a family holiday with a difference. Climb volcanoes, see ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cinque Terre: Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,695
+
+
+
+
+
+Walk into a world that's a play of colourful houses and blue sea as you amble between...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Italy Uncovered
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,810
+
+
+
+
+
+Discover la bella Italia on this intoxicating Italy Uncovered tour. Travel from Venice...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Calabria & Sicily
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,512
+
+
+
+
+
+Discover the secrets of Calabria and the highlights of Sicily on this 15-day adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rome to Sicily
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,505
+
+
+
+
+
+Travel to Pompeii, Amalfi, the Aeolian Islands, Taormina and Mt Etna on a tour from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Venice to Sicily
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR5,855
+
+
+
+
+
+Travel on an epic journey from Venice to Sicily and explore the best of Italy. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Italy Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,880
+
+
+
+
+
+Visit Venice, Cinque Terre, Pisa and Rome on an exciting family holiday through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Berlin to Rome
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,860
+
+
+
+
+
+Embark on a tour of Europe as you travel from Berlin to Rome visiting Germany, Poland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Italian Lakes: Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,155
+
+
+
+
+
+Pamper the appetite and treat the senses on this exquisite journey through Italy’s Lake...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Venice
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,355
+
+
+
+
+
+Travel from Split up to Venice, stopping to visit Zadar’s unique sea organ, World...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Italy
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,045
+
+
+
+
+
+Discover why Italy is one of the world's premier destinations on this culture-rich tour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Italy Real Food Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,150
+
+
+
+
+
+Indulge your tastebuds on a tour of southern Italy, visiting Rome, Alberobello,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Umbrian Discovery
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,390
+
+
+
+
+
+Visit Italy and tour through the countryside of Umbria. Travel to Italy's sacred sites...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest to Venice
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,360
+
+
+
+
+
+Admire the opulent architecture of Budapest, be awed by the sheer tranquil beauty of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rome to Southern Italy
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR3,250
+
+
+
+
+
+Kick off this Roman holiday in Rome, the heart of Italy. Live history as you explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Europe Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,810
+
+
+
+
+
+Visit Spain, France, Germany, the Czech Republic and Italy on this epic journey that...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Rome
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,425
+
+
+
+
+
+Fall in love with Croatia's Dalmatian coast and the lakes of Plitvice, get active in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest to Rome
+
+
+
+
+
+
+
+
+
+26 Days
+
+
+From
+FR3,465
+
+
+
+
+
+Set out from Hungary experiencing the incredible cultures and cuisines of Serbia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Barcelona to Venice
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR4,700
+
+
+
+
+
+Travel through numerous European countries starting in Spain and France, through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Rome
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,760
+
+
+
+
+
+Embark on an all-European adventure from Madrid  to Rome, stopping off in the grand...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Provence & Tuscany
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,075
+
+
+
+
+
+This cycling tour through Provence and Tuscany, from the perfect blend of scenic trail...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Italian Odyssey Real Food Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,165
+
+
+
+
+
+Explore the traditional delights of Italian cuisine while travelling through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Italy tour reviews
+
+
+Our Italy trips score an average of
+4.73 out of 5
+based on 483 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Best of Italy,
+October 2017
+
+claudia mcgrath
+
+If you like some independence but don't want to travel alone; if you don't want to travel on big buses with 40 people; if you don't want to promote invasive tourism but prefer to blend in with locals then try Intrepid tours small groups max 12 where fellow travelers become friends
+
+Review submitted 29 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Best of Italy,
+October 2017
+
+William Haynes
+
+Intrepid is a great way to travel because you get to see all the key highlights, you get to experience the local culture, you learn a lot and generally have a fun time with like minded travellers - without the hassles of organising everything; and it passes my cost/benefit analysis.
+
+Review submitted 28 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Italy trip reviews
+
+Our Italy trips score an average of
+4.73 out of 5
+based on 483 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Italy
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 26, 2017
+
+
+
+How to get off the beaten path in Rome
+
+
+
+
+
+
+Like in most of the world’s greatest cities, so many incredible sights equals so...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 16, 2017
+
+
+
+Italian gem: 12 photos that will inspire you to...
+
+
+
+
+
+
+The fact it's the largest Mediterranean island is, quite honestly, reason enough...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+5 European day hikes everyone should experience
+
+
+
+
+
+
+Europe’s varied geography lends itself to hundreds of day walks that require...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 01, 2017
+
+
+
+Calabria or Sicily: Where to travel on your...
+
+
+
+
+
+
+Sicily, Calabria, beaches, mountains? We weigh up the key decision-making factors...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 14, 2017
+
+
+
+How to spend the perfect 24 hours in Rome
+
+
+
+
+
+
+There’s so much more to Rome than just the tourist attractions. The atmosphere of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 06, 2017
+
+
+
+Lessons in experiencing La Dolce Vita in Italy
+
+
+
+
+
+
+Taking time to enjoy life’s great pleasures – family, friends, outdoors, food, and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 05, 2017
+
+
+
+Top 6 colorful cities around the world
+
+
+
+
+
+
+We don't want to attribute it solely to the Instagram age, but there's just...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 12, 2017
+
+
+
+How to discover Cinque Terre, away from the crowds
+
+
+
+
+
+
+The Cinque Terre dates back to the early medieval period and is considered by many...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 07, 2017
+
+
+
+A definitive list of everything you should eat...
+
+
+
+
+
+
+We’ve hunted down the best spots in Florence to grab breakfast, lunch and dinner ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 18, 2017
+
+
+
+7 unique Italian dishes to try, by region
+
+
+
+
+
+
+Here are seven Italian dishes you likely haven’t tried yet, in a region-by-region...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 08, 2017
+
+
+
+6 hottest food destinations in Europe for...
+
+
+
+
+
+
+Where will your taste buds be delighted most this summer? What cuisine will have...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 17, 2017
+
+
+
+Little-known secrets of the Amalfi Coast
+
+
+
+
+
+
+Ridiculously stunning coastline? Check. Picturesque towns? Also present. Fresh,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2017
+
+
+
+How we celebrate: Easter traditions around the...
+
+
+
+
+
+
+Whether it’s dressing as Roman soldiers in Costa Rica, following Jesus' footsteps...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 01, 2017
+
+
+
+6 cities in Italy to visit before everyone else...
+
+
+
+
+
+
+Beyond the sights of Rome and Venice, we recommend visiting these 6 underrated...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 28, 2017
+
+
+
+Exploring Ogliastra, Italy’s best-kept secret
+
+
+
+
+
+
+A Google search for “best European beaches” is what sparked my interest in the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 22, 2017
+
+
+
+Italy in one week: The ultimate guide
+
+
+
+
+
+
+To help every traveler maximize their time in Italy, we’ve curated a 7-day...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 12, 2017
+
+
+
+The Leaning Tower of Pisa is getting a…Ferris...
+
+
+
+
+
+
+Those visiting Pisa to see its Leaning Tower (most people, assumedly) will now be...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 07, 2017
+
+
+
+Beyond the Grand Canal: a non-touristy guide to...
+
+
+
+
+
+
+It is possible to have an authentic experience in Venice, far from the crowds....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+Cycling L’Eroica in Tuscany
+
+
+
+
+
+
+Bumping along a chalky track that snaked its way through the Tuscan countryside, I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+6 tips for booking your first cycling trip
+
+
+
+
+
+
+Pedalling sets the perfect pace - you travel slowly enough to enjoy your...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 20, 2016
+
+
+
+What to do with 8 days in Italy
+
+
+
+
+
+
+When you think of Italy, three things probably come to mind: pizza, pasta, and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Trendsetters: Europe tips from the UK’s top...
+
+
+
+
+
+
+There are 36 countries within a 3-hour flight of the UK. That’s pretty awesome,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 27, 2016
+
+
+
+5 reasons you should try a sailing adventure
+
+
+
+
+
+
+Sailing used to be the domain of three types of people; pirates, the super-rich,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 27, 2015
+
+
+
+Black as hell, strong as death and sweet as...
+
+
+
+
+
+
+Let your wanderlust percolate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 15, 2015
+
+
+
+Travelling as a vegan? These are the 7...
+
+
+
+
+
+
+With vegan-diets becoming more common on a global scale, travellers are starting...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 18, 2015
+
+
+
+7 reasons Sardinia is Europe’s hottest new...
+
+
+
+
+
+
+Introducing the most beautiful islands you’ve hardly ever heard of.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 27, 2015
+
+
+
+So there is an island in Sardinia full of...
+
+
+
+
+
+
+You read that correctly. One hundred. Miniature. Donkeys.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 02, 2015
+
+
+
+Club Med: Intrepid’s May photocomp results are in
+
+
+
+
+
+
+Sparkling blue waters, photogenic sunsets, white-washed cliff-top villages and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 06, 2015
+
+
+
+When in Rome: author Tessa Kiros shares her...
+
+
+
+
+
+
+When cookbook author Tessa Kiros turned 18 she left home in South Africa to travel...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 17, 2015
+
+
+
+Four awesome benefits of group travel, as told...
+
+
+
+
+
+
+The solo vs. group travel debate is always fierce. This one's for the skeptics,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 09, 2014
+
+
+
+A perfect day in Italy
+
+
+
+
+
+
+So it’s my second time travelling to Italy and I’m so excited just to be in my...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Italy travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Venice
+
+
+
+
+Ride a gondola through the famous canals of Venice
+
+
+
+
+
+
+Best of Italy, 15 days
+
+
+
+
+
+
+
+
+Highlights of Italy, 8 days
+
+
+
+
+
+
+
+
+Italy Real Food Adventure, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Tuscany
+
+
+
+
+Cycle through the countryside of Tuscany
+
+
+
+
+
+
+Italy Experience, 10 days
+
+
+
+
+
+
+
+
+Cycle Tuscany, 8 days
+
+
+
+
+
+
+
+
+Sardinia & Corsica Sailing Adventure, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Sorrento
+
+
+
+
+Admire the stunning blue hues of the Sorrento coast
+
+
+
+
+
+
+South Italy Real Food Adventure, 8 days
+
+
+
+
+
+
+
+
+Explore Southern Italy, 10 days
+
+
+
+
+
+
+
+
+Italy Family Holiday , 8 days
+
+
+
+
+
+
+
+
+
+
+
+Rome
+
+
+
+
+See ancient history come to life in Rome
+
+
+
+
+
+
+Rome to Amalfi, 8 days
+
+
+
+
+
+
+
+
+Italy Real Food Adventure, 8 days
+
+
+
+
+
+
+
+
+Rome to Southern Italy, 17 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Italy
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Italy, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bicycle
+
+Fields of grass scattered with wildflowers, quaint buildings and cobblestone lanes… cycling through the countryside of Italy is a great way to get around.
+
+
+Cycle Tuscany
+
+Classic Italy
+
+Best of Italy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Italy sailing tours
+
+
+
+
+
+
+
+
+
+Italy holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Rome (population 3.8 million)
+
+Population:
+
+61 million
+
+Language:
+
+Italian
+
+Currency:
+
+EUR
+
+Time zone:
+
+(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth) Type L (Italian 3-pin)
+
+Dialing code:
+
++39
+
+
+
+
+
+
+
+
+
+Best time to visit Italy
+
+
+
+
+
+
+×
+
+Best time to visit Italy
+
+
+
+
+Italy enjoys a temperate climate most of the year, with June, July and August being the warmest months. Popular tourist spots can get very busy and crowded during the European summer, but the sun is shining and the weather is hot so it's still a great time to go.
+
+April - May and September - October (while not as hot) still offer great conditions for travel, with milder temperatures and fewer crowds at the sights and beaches.
+
+It can get quite cold in the winter months, especially in the north, with cities like Milan, Turin and Venice often seeing snow, fog and rain in December and January. Major coastal tourist spots like the Amalfi Coast and Cinque Terre all but close (except to locals) during winter and are truly best seen in the warmer months.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+With the Renaissance, Vespa, slow-food movement, opera, Valentino, espresso, the Colosseum and the Sistine Chapel, the culture of Italy is as rich as its food. And with iconic cities like Rome, Venice, Florence and Naples featuring reminders of the past around every corner, it's easy to see why Italians are so very proud of their heritage. Italy drips with sensational artwork, ancient icons, ornate architecture and historic sights. The streets are filled with people and places that exude character and charisma, and the famous Italian artists, inventors and public figures that have contributed so much to the world are openly adored and celebrated.
+
+In general, Italians place great value on family, food and the enjoyment of life. Good quality food made with the best ingredients is preferred to processed, fast food. Eating is a pleasure to be enjoyed with friends and family, not a necessary inconvenience. Respect for the family unit is paramount, with many families choosing to live close to each other for life. Community is also an important element of Italian life and this can be seen with neighbours enjoying a passeggiata (an after dinner stroll and chat).
+
+Italians certainly live their lives with passion and this is evident in their zealous approach to driving, passionate patronage of football (soccer) matches and exuberant social life. It's common to see Italians debate politics, fashion, sport and current affairs with ferocious verve, which can sometimes be quite confronting for people from meeker cultural backgrounds. But lying underneath the bold, animated exterior of most Italians is a deep, passionate love of life itself.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Italy is famous for its food and rightly so! Carb-addicts will enjoy the bounty of pasta and pizza on offer, foodies will love the parmesan and olives, and those with a sweet tooth won't be able to resist the desserts and sweets. From fine dining to street carts, aperitivo and family-run kitchens, Italy's got cuisine covered.
+
+Things to try in Italy
+
+1. Gelato
+
+A true favourite, gelato shops and carts can be found nearly everywhere in Italy. Try traditional Italian flavours like bacio (choc-hazelnut), amarena (sour cherry) and limone (lemon) - the perfect accompaniment to sightseeing on a hot summer's day.
+
+2. Pizza
+
+Naples is the birthplace of pizza but you'll see it all over Italy. Gorge on a whole pizza in a restaurant or grab a slice from a street stall. Simple is usually the best - fresh basil and mozzarella are a top combo and a calzone is great to eat on the run.
+
+3. Pasta
+
+This is your chance to try all shapes - tortellini, spaghetti, farfalle, linguine, rigatoni, fettucine - and all sauces, from a fiery arrabiata to a hearty bolognese or a tangy puttanesca.
+
+4. Fresh Produce
+
+Fruit and vegetables are sold in street stalls and carts on the side of the road, even in big cities. For a healthy snack, pick up some fresh berries, cherries, grapes or figs. There's no self-service here so ask for what item you want - Italian fruit sellers don't appreciate fruit being handled before purchase.
+
+5. Coffee
+
+The quintessential Italian experience, sip an espresso while standing up at a cafe bar, just like the locals do. It's also cheaper.
+
+6. Wine
+
+Italy produces some of the world's best wine so savour a glass (or two!) of Sangiovese with dinner. Fans of white wine will love a crisp Pinot Grigio, a summer wine best served with seafood or chicken.
+
+7. Limoncello
+
+This lemon liqueur is super strong and usually served after dinner. Native to southern Italy, Limoncello can be found everywhere in Italy but especially on the Amalfi Coast.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing borders with
+Switzerland
+,
+France
+,
+Slovenia
+and
+Austria
+, Italy also encompasses the independent territories of San Marino and Vatican City and includes the islands of Sicily and Sardinia.
+
+Home to mountains, volcanoes, islands, beaches, spectacular cliffs and expansive stretches of coastline, the natural landscapes of Italy provide dramatic scenery as well as popular places to explore and relax for locals and visitors alike.
+
+The major cities of Italy, although industrialised, still retain buildings, churches and relics from the past. It's quite common to see modern shops housed in historic cobblestone streets and new Vespas perched in ancient piazzas. In smaller cities and more isolated areas, rural life is a whole lot slower and simpler. Permaculture remains popular, with many Italians growing fruit and vegetables in their backyards. The traffic and frenetic pace of the cities give way to idyllic olive groves, vineyards and farmhouses.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The rise of the Roman Empire has been the subject of much fascination, intrigue and interest from scholars, artists, travellers and students around the world, and through the ages. Dominating the world for many centuries, the modern world can pay great respect to the fruits of this mighty civilisation, with many important scientific inventions, art movements, architectural triumphs and philosophical ideas being born during Roman civilisation - most notably during the Renaissance.
+
+Founded sometime around 750 BC, Rome endures as one of the most important cities in the world. Home to such famous citizens as Julius Caesar, Emperor Augustus, Claudius, Nero, Mark Antony and Marcus Aurelius, Rome has enjoyed the great highs of dominating the Mediterranean region and the artistic triumphs of the Renaissance, but also the lows of the Great Fire of Rome, which ended up destroying a large part of the city. Rome has survived natural disasters, political turmoil, feuding families, the plague, war and more, to be the great city that is it today. Still a cultural and political powerhouse, any visit to Italy needs to include Rome's major sites in order to understand the birth of this nation. The Colosseum, The Pantheon, Circus Maximus and Palatine Hill are all great places to start.
+
+Lasting centuries, the amazing history of Ancient Rome is full of dramatic twists and turns, and we suggest you read up on it before visiting.
+
+Recent History
+
+After the Renaissance, Italy was unified with Sardinia in 1861, becoming the Kingdom of Italy. After World War I, Italy came under the fascist rule of Benito Mussolini, who ruled until 1943. Siding with Nazi Germany in World War II, the Italian Army suffered many losses and ultimately surrendered in 1945. After a referendum in 1946, Italy became a Republic and flourished well during the 1950s and 1960s. The post-war period marks a time of economic progress for Italy, also largely reflected by the rest of the world's increased economic stability during this period of relative peace.
+
+From the 1970s, Italians have lived with political upheaval and uncertainty. Corruption, organised crime, terrorism and government debt have created times of turmoil and concern. In 1994, media mogul Silvio Berlusconi was elected into office as Prime Minister but was forced to step down later in the year after losing support from his political partners. Undeterred, Berlusconi regained power in 2008 and has continued to rule Italy amid much controversy and scandal.
+
+
+
+
+
+
+
+
+Iconic Italian Landscapes
+
+
+
+
+
+
+×
+
+Iconic Italian Landscapes
+
+
+
+
+Top 10 Iconic Italian Landscapes
+
+1. Captivating Capri
+
+Be blown away by the shimmering beauty of this sun-bleached island that sits in the middle of a mass of blue-green water. Home to luminous sea caves, stunning cliff faces and whitewashed buildings, Capri is the perfect setting for a romantic escapade, relaxing boat ride or some serious sun worshipping.
+
+2. Tuscan Hills
+
+An enchanting mix of rolling green hills, vineyards, simple farmhouses and charming villages, Tuscan landscapes are effortlessly beautiful. Whether you're cycling around vineyards, hiking through the countryside or lying in a field of golden grass, Tuscany is made for life in the slow lane.
+
+3. Luscious Lake
+
+Picturesque Lake Como is considered one of the most beautiful lakes in Italy and any visitor will tell you why. A vast expanse of azure water set to a stunning mountainous backdrop, dotted with rustic villas and wildflowers, Lake Como is the sparkling jewel of Italy's north, naturally polished to perfection.
+
+4. Mighty Mount Vesuvius
+
+Sitting on the Bay of Naples, the austere beauty of brooding Mt Vesuvius offers a contrast to the luscious, green landscapes of the Mediterranean. A reminder of the raw power of nature, Mt Vesuvius is still active - yet a hike to the summit is possible and worthwhile for the sweeping views of the bay below.
+
+5. Wonderful Waterways
+
+No trip to Italy is complete without taking in the canals of Venice. A truly unique spectacle to behold, these classic waterways have served for centuries as a transport route for Venetians. Nowhere else in the world will you find a place such as this - hop onboard a gondola and ride the canals for an up close look at this fascinating city.
+
+6. The Romantic Road
+
+A journey along the winding roads of the Amalfi Coast offers panoramic sea views, alluring towns perched on cliffs and beaches bathed in sunlight. Admire the luscious landscapes dotted with fragrant lemon trees and olive groves, feel the soft touch of a gentle sea breeze and fall in love with this spectacular corner of the world.
+
+7. Authentic Italian Island
+
+Sitting under the watchful eye of moody Mt Etna, Sicily is a place where you can experience a taste of authentic Italy and see spectacular views at the same time. Surrounded by a sea of turquoise water speckled with volcanic islands, Sicily possesses diverse landscapes of rocky mountains, rural pastures, ancient ruins and villages steeped in history.
+
+8. The Pleasures of Piedmont
+
+While not as famous as other regions of Italy, the quiet, pastoral beauty of Piedmont is definitely pleasing to the eye. With classic vineyards, simple home-grown gardens, sleepy villages and divine cafes, Piedmont rewards visitors with attractive scenery and a serene vibe to match.
+
+9. The Dolomites
+
+Verdant green and carpeted in wildflowers during summer, and covered in a blanket of white snow during winter, the Dolomites are a breathtakingly beautiful sight to behold in any season. Whether you're scaling the epic slopes during summer hikes or skiing downhill during winter, making the most of these mountainous landscapes is too easy.
+
+10. The Five Lands
+
+A quintessentially beautiful Mediterranean landscape, the Cinque Terre is a destination to be cherished. Walk the rocky path over steep cliffs and pass character-filled villages perched over a brilliant blue sea. Wander past shady trees, gardens and groves as the sea reflects the radiance of the sun. This is panoramic perfection!
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Italians are known for their style and this is reflected in the designer fashion and furniture of Italy. Be prepared to part with money - shopping in Italy can get quite expensive - but the quality of handmade and tailored items is generally exceptional.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Italy
+
+1. Clothing
+
+Milan, Rome and other big cities are packed with high-end designer fashion boutiques, chic chain stores and tailors. Either way, when in Italy you're guaranteed to get the latest fashions straight from the catwalks of Europe.
+
+2. Colourful Ceramics
+
+Vibrant, hand-painted ceramic bowls, jugs and glasses can be found in the shops and markets of the Amalfi Coast and Sicily. A perfect reminder of the Mediterranean.
+
+3. Masks
+
+Venice is filled with shops selling elaborate, handcrafted masquerade masks. These colourful creations look great hung on walls and are a true Venetian keepsake.
+
+4. Leather Footwear, Bags and Accessories
+
+Florence and Rome are hot spots for sourcing gorgeous handmade leather items. Splash out on an 'investment purchase' - a leather handbag that will last a lifetime.
+
+
+
+
+
+
+
+
+Festivals and Events in Italy
+
+
+
+
+
+
+×
+
+Festivals and Events in Italy
+
+
+
+
+Easter (Pasqua)
+
+Beautifully decorated shop windows, colourfully painted eggs, church services, parades, feasts and fireworks make Easter a wonderful time to visit Italy and be immersed in Italian culture.
+
+Venice Historical Regatta (Regata Storica)
+
+Held on the first Sunday of September and dating back to the 13th century, this historic event sees the canals of Venice turned into a competitive rowing race between colourful, carved boats. Passionate supporters line the banks of the canals and street performers and artists come out to celebrate too.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Naples 44
+
+Norman Lewis
+
+The Sicilian
+
+Mario Puzo
+
+Ancient Rome: The Rise and Fall of an Empire
+
+Simon Baker
+
+The Name of the Rose
+
+Umberto Eco
+
+A Thousand Days in Venice
+
+Marlena de Blasi
+
+The Divine Comedy
+
+Dante Alighieri
+
+
+
+
+
+
+
+
+Italy travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Italy?
+
+
+
+
+
+
+
+
+
+ITALY:
+Australia: No - Not required
+Belgium: No - Not required
+Canada: No - Not required
+Germany: No - Not required
+Ireland: No - Not required
+Netherlands: No - Not required
+New Zealand: No - Not required
+South Africa: Yes - in advance
+Switzerland: No - Not required
+UK: No - Not required
+USA: No - Not required
+
+
+
+
+
+
+
+Is tipping customary in Italy?
+
+
+
+
+
+
+
+
+
+Tipping isn't customary in Italy; however, if restaurant service is particularly good or if you're feeling generous, a tip would be welcomed by most. Some restaurants charge a 'cover charge' which will be added to your bill.
+
+
+
+
+
+
+
+What is the internet access like in Italy?
+
+
+
+
+
+
+
+
+
+Internet access is good in Italy and internet cafes are easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Italy?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in Italy. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Italy?
+
+
+
+
+
+
+
+
+
+Western-style, flushable toilets are the standard in Italy. Expect to pay a small fee when using public toilets in some parts of Italy.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Cup of coffee = 2 Euro (less if you forego the table and stand up)
+A glass of beer = 5 Euro
+Bottle of wine in a restaurant = 16 Euro
+Small gelato cone = 3 Euro
+
+
+
+
+
+
+
+Can I drink the water in Italy?
+
+
+
+
+
+
+
+
+
+Drinking water from taps in Italy is considered safe. For environmental reasons, try to use a refillable water bottle rather than buying bottled water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Italy?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores in Italy. Smaller cafes and shops may not accept credit cards, so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Italy?
+
+
+
+
+
+
+
+
+
+ATMs are common in Italy, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Italy?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Italy?
+
+
+
+
+
+
+
+
+
+1 Jan New Year’s Day
+
+6 Jan Epiphany
+
+16 Apr Easter Sunday
+
+17 Apr Easter Monday
+
+25 Apr Liberation Day
+
+1 May International Workers' Day
+
+2 Jun Republic Day
+
+15 Aug Assumption Day
+
+1 Nov All Saints' Day
+
+8 Dec Immaculate Conception
+
+25 Dec Christmas Day
+
+26 Dec St Stephen's Day
+
+Please note these dates are for 2017. For a current list of public holidays in Italy go to:
+http://www.worldtravelguide.net/italy/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Italy
+
+1. Always dispose of litter thoughtfully, including cigarette butts.
+
+2. Please ask and receive permission before taking photos of people, including children.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+4. Try to use public transport wherever possible.
+
+5. Refrain from touching or interfering with ancient monuments, relics or historic sites.
+
+6. Learn some Italian and don't be afraid to use it - simple greetings will help break the ice.
+
+7. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

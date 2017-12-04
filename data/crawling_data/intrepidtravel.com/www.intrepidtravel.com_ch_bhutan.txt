@@ -1,0 +1,3858 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bhutan Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bhutan tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Bhutan
+
+
+
+You can’t help but fall in love with a country that measures its success in units of Happiness, scrawls phalluses on every available wall and prefers white-gloved cops to traffic lights.
+
+
+Welcome to Bhutan! A tiny Himalayan Kingdom where things are done differently (and awesomely) in equal measure. By law, 60% of the whole country is protected national forest, and it actually absorbs more carbon that it uses, which makes Bhutan tours perfect for trekkers, monastery-lovers, Buddhist pilgrims and the merely curious. Our local guides will lead you up to the Tiger’s Nest, introduce you to monks in the prayer halls of Gangte Goemba and show you where to find Paro’s hottest Ema datshi (chili novices, watch your step).
+
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+Terms & Conditions
+
+
+
+
+
+×
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+
+
+
+1. Save 20% on new bookings to lesser-known destinations only departing between 1 January 2018 and 31 December 2018.
+2. Trips must be booked between 20 November 2017 and 18 December 2017.
+3. Offer only applies to the trips below:
+AMCW, BMXF, CJSO, HPSL, TIST, GGSX, HHSI, XMSG, ZMSB, YGSD, WMSZ, HJKB, KDOH, WMST, TESA, KFST, YBSM.
+4. Customers must quote the promo code 53253.
+5. This offer is not combinable with any other offer including loyalty.
+6. Offer does not apply to departures already discounted (can’t apply it via checkout).
+7. Intrepid Travel will donate 20% of the sold trip to the Intrepid Foundation.
+8. Trips must be booked between 20 November 2017 and 18 December 2017. Trip must depart between 1 January 2018 and 31 December 2018.
+9. Offer only applies to the land portion of the trip and cannot be applied to flights, insurance, or any additional services.
+10. The offer applies to Intrepid & Dragoman operated trips only. Third party operators can be found in the trip notes. Please note that the following are excluded: Polar voyages, Expeditions, Charity Treks, Short Break Adventures, Bite-Size Breaks, Urban Adventures and Dragoman trips to Bhutan, Rio Carnival and the Dragoman Family trips.
+11. A deposit of CHF300, GBP200, EUR275 and ZAR4000 is required at the time of booking, and full payment is required at least 60 days prior to travel.
+12. This sale is only valid for residents of Europe and Africa.
+13. There will be no extensions to the travel, booking or payment periods listed above.
+14. Intrepid Travel's Booking Conditions will also apply to the trip booked, and it is imperative that you examine those conditions before booking with Intrepid Travel. The most up to date Booking Conditions are accessible at http://www.intrepidtravel.com/booking-intrepid/booking-conditions.
+15. The trip is subject to availability and confirmation by Intrepid Travel at time of booking.
+
+
+Close
+
+
+
+
+
+
+Top Bhutan travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+5 Jan 2018
+
+Bhutan Discovered
+
+
+
+Bhutan Discovered
+Thimphu to Paro
+
+
+
+
+
+
+
+
+
+×
+
+Bhutan Discovered
+
+
+
+
+
+
+
+
+
+7
+
+
+FR2,795
+
+
+FR2,236
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Bhutan trips
+
+
+
+
+
+
+
+
+
+Bhutan Discovered
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,236
+
+
+
+
+
+Distinctive and remote, Bhutan offers beauty, history and adventure by the bucketload....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal and Bhutan Journey
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR5,080
+
+
+
+
+
+Bhutan is the little secret of Asia. Overshadowed and nestled between China and India,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal & Bhutan Journey
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR5,710
+
+
+
+
+
+Journey into the heart of Nepal and experience the colourful sights and culture of this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kolkata to Kathmandu (via Bhutan) Overland
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,989
+
+
+
+
+
+Discover the monasteries and tea plantations of the Himalayas. From Kolkota in India to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Bhutan tour reviews
+
+
+Our Bhutan trips score an average of
+4.63 out of 5
+based on 8 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Bhutan Discovered,
+November 2017
+
+Morag Laycock
+
+A wonderful trip in a beautiful country
+
+Review submitted 29 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Bhutan Discovered,
+November 2017
+
+Miriam Blythe
+
+Just Beautiful!!
+
+Review submitted 24 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Bhutan trip reviews
+
+Our Bhutan trips score an average of
+4.63 out of 5
+based on 8 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Bhutan
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 16, 2017
+
+
+
+9 alternative travel spots for 2018
+
+
+
+
+
+
+Here at Intrepid we’re all about tackling the negative impact of over-tourism. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular places...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 14, 2017
+
+
+
+10 questions with the first documented woman to...
+
+
+
+
+
+
+Cassie De Pecol recently became the first woman on record to travel to all 196...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 12, 2016
+
+
+
+Is this the coolest Bhutan travel video ever?
+
+
+
+
+
+
+Dreamy colour washes, simple aesthetics and static camera angles – this isn't your...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 24, 2016
+
+
+
+Bhutan flight guide: how to get to Paro without...
+
+
+
+
+
+
+Unfortunately, despite coining Gross Domestic Happiness and living traffic-light...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 10, 2016
+
+
+
+6 reasons Bhutan might be the world’s most...
+
+
+
+
+
+
+Lots of nature? Check. An official happiness index? Check. Zero traffic lights?...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bhutan travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thimphu
+
+
+
+
+Experience Bhutanese art and culture in the museums of Thimphu
+
+
+
+
+
+
+Nepal & Bhutan Journey, 18 days
+
+
+
+
+
+
+
+
+
+
+
+Paro
+
+
+
+
+Be transported to another world on the streets of peaceful Paro
+
+
+
+
+
+
+Bhutan Discovered, 7 days
+
+
+
+
+
+
+
+
+Kolkata to Kathmandu (via Bhutan) Overland, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Punakha
+
+
+
+
+Be awestruck by panoramic views of the Bhutan Himalaya
+
+
+
+
+
+
+Nepal & Bhutan Journey, 18 days
+
+
+
+
+
+
+
+
+Kolkata to Kathmandu (via Bhutan) Overland, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Bhutan
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Bhutan, you may find yourself travelling by:
+
+
+
+
+
+
+
+Minibus
+
+Getting around in Bhutan can be difficult due to the elements and lack of sealed roads. So when you’re not hiking, expect to travel in a minibus.
+
+
+
+
+
+Accommodation in Bhutan
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Bhutan you may find yourself staying in a:
+
+
+
+
+
+
+
+Simple Hotel
+
+Intrepid prefers smaller character-filled hotels then hotel chains. When staying in Bhutan, enjoy staying in small hotels and guesthouses owned and run by friendly locals.
+
+
+
+
+
+Bhutan holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Thimpu (population 30,000)
+
+Population:
+
+708,427
+
+Language:
+
+Dzongkha
+
+Currency:
+
+BTN
+
+Time zone:
+
+(GMT+06:00) Astana, Dhaka
+
+Electricity:
+
+Type D (Old British 3-pin) Type F (German 2-pin, side clip earth) Type G (Irish/British 3-pin) Type M (see D)
+
+Dialing code:
+
++975
+
+
+
+
+
+
+
+
+
+Best time to visit Bhutan
+
+
+
+
+
+
+×
+
+Best time to visit Bhutan
+
+
+
+
+Although it can be wet from March to May, this is still a good time to visit Bhutan as there are plenty of birds around and the wildflowers are out in bloom. September to November is also a great time to visit as rainfall is lower and views are clear. Although it rains all year round, monsoonal weather can be expected in Bhutan between June and August. From December to February snowfalls may result in road closures and delays. Nevertheless, winter can be a good time to visit as the days are generally sunny (although cold) and the blanket of snow makes for picturesque panoramas.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Bhutan’s rich and remarkable culture is a real highlight for many visitors. Even though the internet and mobile phones have infiltrated Bhutan in recent years, the traditions and customs that are centuries old continue to endure. Bhutan’s dance, art, drama and music are linked to Buddhism, which is the most-practiced religion in Bhutan. As with most other Asian countries, monks are revered in Bhutanese society and generally afforded great respect for they are the guardians of the predominant faith. Visitors shouldn’t miss out on visiting one of Bhutan’s many monasteries to see daily rituals, monks and pilgrims. Religious festivals are celebrated all year round, from smaller regional festivals practiced only by villages, to large nationally recognised religious ceremonies and festivals. These festivals help to preserve and celebrate an ancient culture, and are full of parades, sports, dance, drumming and art. Bhutan’s distinctive traditional dress is another cultural highlight and it’s possible to see locals wearing fine woven dresses and jackets of different colours and decorations, which often define ones social class or standing.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Laced with chilli, Bhutanese food is known for being very spicy so be aware of this before digging in. Vegetarians will be spoilt for choice, meat isn’t as prevalent as in some other countries.
+
+Things to try in Bhutan
+
+1. Red Rice
+
+The people of Bhutan eat loads of rice and one thing you’ll notice here is that the rice is of a reddish colour. Grown in the fertile Paro Valley soil, this quick cooking rice has a nutty flavour and is typically paired with mushrooms and chilli.
+
+2. Chilli cheese
+
+Spicy, cheesy and delicious
+
+3. Momo
+
+Although a Tibetan dish, momo is also very popular and widely available in Bhutan. Essentially a dumpling, fillings usually range from cheese to pork or other meats, and are served in batches as a savoury snack.
+
+4. Red Panda Beer
+
+This locally brewed beer is made using a natural fermentation process and often bottled in recycled (pre-loved) beer bottles. Often touted as one of Asia’s best beers, Red Panda is a pleasant surprise - try it for yourself.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+This landlocked kingdom may occupy a small space on the world globe but there’s nothing small about the mountains that lie within! Sharing borders with
+China
+and
+India
+, Bhutan is known as 'The Switzerland of Asia' for its mountainous topography and similarity to Swiss landscapes. Bhutan has largely resisted overdevelopment, which has left much of its natural environment intact. As a result of this, Bhutan is one of the most species-rich countries in the world – with hundreds of species of mammals, birds and plants calling the Bhutanese valleys, mountains and meadows home. Endangered red pandas and snow leopards can be found in Bhutan as well as a huge variety of wild flowers and birds. Most Bhutanese people live simple lives with much less access to modern technology and infrastructure than others in neighbouring countries. There are still many villages that operate without running water and electricity; however, these facilities are widely available in the larger cities. Although Bhutan’s larger cities like Paro and Thimphu do have more access to technology, the pace of life is still slow and most traditional buildings have been preserved, as has the way of life.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+As one of the few countries in the world to have never been conquered or occupied by another, Bhutan has a long history of independent governance. Although its early history is shrouded in mystery, Bhutan is thought to have been inhabited from as early as 2000BC. Tibetan Buddhism was introduced into the region sometime around the 9th century, when many Tibetans fled neighbouring Tibet to seek refuge in Bhutan. The leadership and governance of Bhutan has always been linked to its religion, and this continues in today’s political, legal and religious leadership of the country. The 16th and 17th centuries saw some conflict with Tibet, although Bhutan was never officially taken over by its neighbour. External threats from the British presented themselves in the 18th and 19th centuries; however, once again Bhutan was never officially controlled or governed by an external power.
+
+Recent History
+
+In the last 40 years, Bhutan has had many ‘firsts’. Bhutan introduced a new monetary system and currency in 1974, and also opened up its borders to welcome foreign tourists in the same year. By 2000, Bhutan had its first television set and internet cafe, and by 2004 Bhutan became the first country in the world to ban the sale of tobacco products. Bhutan’s first constitution was drawn up in 2005, and its first democratic multi-party election was held in 2008, when the constitution was finally ratified. Today, Bhutan’s economy relies mainly on tourism, agriculture and forestry, although ‘Gross National Happiness’ continues to be valued more than economic abundance or growth in domestic product.
+
+
+
+
+
+
+
+
+Top Picks
+
+
+
+
+
+
+×
+
+Top Picks
+
+
+
+
+Top 10 Happiness-Inducing Experiences of Bhutan
+
+1. Magic Monastery
+
+Visiting the unbelievable ‘Tiger’s Nest’ Monastery (Taktshang), precariously perched atop a cliff face, is one of life’s rare pleasures. Surrounded by breathtaking panoramas, it’s easy to feel deep peace and contentment at the Tiger’s Nest.
+
+2. Tough Trekking
+
+There’s nothing quite like testing your physical limits out among the green hills and valleys of the Himalaya. The combination of fresh mountain air, majestic scenery and physical exertion makes for happy days.
+
+3. Fiery Flavours
+
+Wake up your taste buds and make them happy with a dose of Bhutanese cuisine. Local curries, stews and soups are often packed with zingy chilli – a smile-inducing prospect for those who love a little heat in their food.
+
+4. Lovely Locals
+
+Surrender to the warm and happy Bhutanese way of life when meeting and mingling with locals. Visitors have been charmed and touched by the humble happiness displayed by Bhutan’s residents, cultivated from a life of family, purpose and spiritual connection.
+
+5. Cultured Craftsmanship
+
+Traditional Bhutanese arts and crafts are beautiful mementos and a precious link to the past. The museums, galleries and workshops of Bhutan all display wonderful examples of fine weaving and delicate embroidery – perusing these age-old crafts is a cultural delight.
+
+6. Perfect Panoramas
+
+Simply sitting back in stillness and pondering the profound beauty of the Himalayan landscapes is an experience not to be overlooked while in Bhutan. Take the time to step away from distractions and appreciate Mother Nature's truly amazing canvas.
+
+7. Charming City
+
+Experience moments of bliss while walking down the character-filled streets of peaceful Paro. It’s hard not to smile at the colourful buildings, houses without front doors and locals dressed in traditional clothing.
+
+8. Mystical Moments
+
+Witnessing pilgrims and monks perform century-old Buddhist rituals is a moving and transcendental experience. Be carried away by the stirring chants and moved by the displays of devotion.
+
+9. Yak Attack
+
+Your first glimpse of a group of yaks grazing in the green meadows of Bhutan is definitely smile-worthy. Nomadic yak herders can be found all over the countryside – be captivated by this organic, uncomplicated lifestyle.
+
+10. Tea Time
+
+Yak butter tea may be an acquired taste but there’s something strangely satisfying about downing a cup of this warming traditional drink loved by the Bhutanese.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+If you’re after top quality handicrafts and colourful art, then Bhutan will delight. While Bhutan isn’t known as a top shopping destination, there are many talented artisans creating good quality souvenirs to buy here.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Bhutan
+
+1. Hand-Woven Fabric
+
+Traditional weaving is at its very best in Bhutan. Choose from colourful rugs, clothing, blankets and accessories when visiting one of the many textile stores and boutiques in Bhutan’s cities.
+
+2. Traditional Music
+
+Why not pick up a CD of Bhutanese harmonies, or chanting monks, as a melodic stress-buster for when you’re back at home and in work mode.
+
+3. Spiritual Souvenirs
+
+Vibrant prayer flags, fragrant incense and prayer beads make meaningful gifts for friends and family back home.
+
+
+
+
+
+
+
+
+Festivals and events
+
+
+
+
+
+
+×
+
+Festivals and events
+
+
+
+
+Paro Spring Festival (Paro Tshechu)
+
+The people of Paro welcome the start of spring with five days of cultural and spiritual celebration. Locals shake off the winter blues by indulging in sword dancing, drumming and feasting. Expect to see stirring rituals, colourful clothing and touching displays of faith if you’re lucky enough to travel during this time.
+
+Thimphu Festival (Thimphu Tschechu)
+
+This three-day festival is meant to be highly auspicious to all who attend. Bhutanese people travel from all over to attend this spiritual celebration that features prayers and rituals to invoke the gods as well as traditional dance, costume and theatre. This highly joyous time gives travellers an important insight into Bhutan’s culture and the chance to mingle with locals.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Buttertea at Sunrise: A Year in the Bhutan Himalaya
+
+Britta Das
+
+Treasures of the Thunder Dragon: A Portrait of Bhutan
+
+Ashi Dori Wangmo Wangchuck
+
+The Heart of the Buddha
+
+Elsie Sze
+
+Beyond the Sky and Earth
+
+Jamie Zeppa
+
+The Blessings of Bhutan
+
+Russ Carpenter
+
+The Divine Madman – The Sublime Life and Songs of Drukpa Kunley
+
+Translated by Keith Dowman
+
+Seeing with the Third Eye; Growing up with Angay in Rural Bhutan
+
+T. Sangay Wangchuk
+
+
+
+
+
+
+
+
+Bhutan travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Bhutan?
+
+
+
+
+
+
+
+
+
+All nationalities require a visa for entry to Bhutan, except Indian nationals holding a valid Indian passport. Visas must be obtained in advance.
+
+We keep the following information up to date as much as possible, but rules do change. It is important that you check for yourself.
+
+You must provide Intrepid at the time of booking with your full name, sex, date of birth, nationality, passport number & date of issue / expiry, plus a scanned copy of your passport, your email address and a contact number for you when you are in Bhutan.
+
+If you have not booked flights to Bhutan with Intrepid, we will also require your flight details to finalise the visa process.
+
+Intrepid will then forward you the scanned copy of your Bhutan Group visa shortly prior to your trip start date.
+
+You must show the copy of your Bhutan Group visa at the check-in for your flight to Bhutan and on arrival at the immigration in Bhutan where you will have your Bhutan visa stamped into your passport.
+
+ADDITIONAL ACCOMMODATION
+Travel in Bhutan is strictly controlled and to do any independent travel outside of a group tour is extremely difficult and expensive to arrange. We provide a group visa for travellers on our tours in Bhutan, which stipulates that all travellers must arrive and depart on the same days that our tour program starts and finishes. For this reason we are generally not able to provide additional accommodation outside of our tour dates and advise all travellers to book flights in and out of Bhutan that correspond with the start and finish day of the tour. In the rare case that no flights are available and you need to arrive earlier or depart later we are only able to book additional accommodation for you in conjunction with a special individual visa which can add around AUD1000 to the cost of your tour, to be paid at the time of booking.
+
+
+
+
+
+
+
+Is tipping customary in Bhutan?
+
+
+
+
+
+
+
+
+
+Tipping isn’t compulsory in Bhutan, but many people who work in tourism are accustomed to receiving tips so it's wise to set aside a small amount to show your appreciation for drivers, cooks and other service workers.
+
+
+
+
+
+
+
+What is the internet access like in Bhutan?
+
+
+
+
+
+
+
+
+
+You will be able to find some internet cafes in Thimphu and Paro. Most large hotels also have internet access. As expected, rural and remote areas will have limited to no internet access.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Bhutan?
+
+
+
+
+
+
+
+
+
+You will be able to use your mobile phone in some of Bhutan’s cities, although more remote areas may not have network coverage. Ensure you have global roaming activated with your mobile carrier before you leave home if you wish to use your mobile while in Bhutan.
+
+
+
+
+
+
+
+What are the toilets like in Bhutan?
+
+
+
+
+
+
+
+
+
+You will have to adjust to different standards of hygiene and sanitation while in Bhutan. The standard toilet is of the squat variety and this may take some getting used to, although western style, flushable toilets can be found in large hotels and some tourist areas.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Due to Bhutan’s unique tourism regulations, meals are included for all travel within Bhutan. Use local currency to buy small items like snacks and soft drinks and use US dollars to buy larger items like souvenirs. Expect to pay:
+
+Prayer flags = US$1
+Hand made coin purse = US$5-10
+Gofur (wooden bowl) = US$10-15
+Ceremonial mask = US$20-40
+
+
+
+
+
+
+
+Can I drink the water in Bhutan?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Bhutan. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found, some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Bhutan?
+
+
+
+
+
+
+
+
+
+International credit cards are not widely accepted in Bhutan. Some souvenir shops may have credit card facilities; however, credit cards aren't generally accepted elsewhere. Be prepared by carrying enough cash to cover your purchases.
+
+
+
+
+
+
+
+What is ATM access like in Bhutan?
+
+
+
+
+
+
+
+
+
+ATMs are very rare in Bhutan. Be sure to carry enough cash to cover your purchases as you won’t be able to rely on ATM or credit card access.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Bhutan?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Bhutan ?
+
+
+
+
+
+
+
+
+
+2 Jan Winter Solstice (Nyilo)
+
+28 Jan Traditional Day of Offerings
+
+21 Feb Birth Anniversary of Fifth King HM Jigme (Khesar Namgyel Wangchuck)
+
+22 Feb Birth Anniversary of Fifth King HM Jigme (Khesar Namgyel Wangchuck)
+
+23 Feb Birth Anniversary of Fifth King HM Jigme (Khesar Namgyel Wangchuck)
+
+27 Feb Losar (New Year) Year of the Fire Female Bird
+
+28 Feb Losar (New Year) Year of the Fire Female Bird
+
+2 May Birth Anniversary of Third King HM Jigme (Dorje Wangchuck)
+
+5 May Shabdrung Kuchoe
+
+9 Jun Lord Buddha's Parinirvana
+
+3 Jul Birth Anniversary of Guru Rinpoche
+
+27 Jul First Sermon of Lord Buddha
+
+23 Sep Blessed Rainy Day
+
+26 Sep Thimphu Tshechu (Thimphu Only)
+
+30 Sep Dashain (Nepali Festival)
+
+30 Sep Thimphu Tshechu (Thimphu Only)
+
+1 Oct Thimphu Tshechu (Thimphu Only)
+
+2 Oct Thimphu Tshechu (Thimphu Only)
+
+1 Nov Coronation of Fifth King HM Jigme (Khesar Namgyel Wangchuck)
+
+10 Nov Descending Day of Lord Buddha
+
+11 Nov Birth Anniversary of Fourth King Jigme (Singye Wangchuck / Constitution Day)
+
+17 Dec National Day
+
+Please note these dates are for 2017. For a current list of public holidays in Bhutan  go to:
+http://www.worldtravelguide.net/bhutan/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Bhutan
+
+Be considerate of Bhutan’s customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully.
+
+Don’t light up! Tobacco products are banned in Bhutan, so avoid bringing them into the country as penalties apply and smoking in public is not accepted.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+Religious iconography is everywhere in Bhutan in the form of stupas, mani stones, shrines and temples. Always show respect for these religious objects by avoiding sitting or posing in front of them.
+
+Show respect for Bhutan’s current and former king when conversing with local people.
+
+As a sign of respect, place a small donation in the donation box while visiting monasteries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

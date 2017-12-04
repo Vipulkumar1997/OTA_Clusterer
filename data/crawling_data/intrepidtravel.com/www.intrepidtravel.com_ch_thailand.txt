@@ -1,0 +1,6964 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Thailand
+
+
+
+Anyone who’s watched The Beach has dreamed of the day they could flee to some idyllic Thai archipelago, where jungle-covered karsts plunge into aquamarine waters and the sand is sugar white.
+
+
+But no matter how clichéd the fantasy, Thailand delivers in spades. The water around Krabi and Ko Tao really is that colour. Phi Phi’s limestone karsts really do look like some alien world. And the food? Let’s just say your local Pad Thai has nothing on Chiang Mai’s street stalls or the floating markets of Amphawa, where little old ladies do things with fish sauce and chili you never thought possible. From the waterfalls of Erewan to a homestay with the hill tribes of the Golden Triangle, these are Thailand tours beyond the tourist traps. Buckle up.
+
+
+Top Thailand travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+13 Dec 2017
+
+Sail Ko Phi Phi to Phuket
+
+
+
+Sail Ko Phi Phi to Phuket
+Ko Phi Phi to Phuket
+
+
+
+
+
+
+
+
+
+×
+
+Sail Ko Phi Phi to Phuket
+
+
+
+
+
+
+
+
+
+4
+
+
+FR745
+
+
+FR522
+
+
+
+
+View Trip
+
+
+
+
+
+
+15 Dec 2017
+
+Highlights of Thailand
+
+
+
+Highlights of Thailand
+Bangkok to Bangkok
+
+
+
+
+
+
+
+
+
+×
+
+Highlights of Thailand
+
+
+
+
+
+
+
+
+
+11
+
+
+FR1,635
+
+
+FR1,226
+
+
+
+
+View Trip
+
+
+
+
+
+
+17 Dec 2017
+
+Phuket Sailing Adventure
+
+
+
+Phuket Sailing Adventure
+Phuket to Phuket
+
+
+
+
+
+
+
+
+
+×
+
+Phuket Sailing Adventure
+
+
+
+
+
+
+
+
+
+7
+
+
+FR1,470
+
+
+FR1,029
+
+
+
+
+View Trip
+
+
+
+
+
+
+17 Dec 2017
+
+Sail Phuket to Ko Phi Phi
+
+
+
+Sail Phuket to Ko Phi Phi
+Phuket to Ko Phi Phi
+
+
+
+
+
+
+
+
+
+×
+
+Sail Phuket to Ko Phi Phi
+
+
+
+
+
+
+
+
+
+4
+
+
+FR770
+
+
+FR539
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Thailand - Hike, Bike & Kayak
+
+
+
+Thailand - Hike, Bike & Kayak
+Bangkok to Bangkok
+
+
+
+
+
+
+
+
+
+×
+
+Thailand - Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+12
+
+
+FR1,615
+
+
+FR1,292
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Thailand Real Food Adventure
+
+
+
+Thailand Real Food Adventure
+Bangkok to Chiang Mai
+
+
+
+
+
+
+
+
+
+×
+
+Thailand Real Food Adventure
+
+
+
+
+
+
+
+
+
+8
+
+
+FR1,130
+
+
+FR1,017
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Explore Northern Thailand
+
+
+
+Explore Northern Thailand
+Bangkok to Bangkok
+
+
+
+
+
+
+
+
+
+×
+
+Explore Northern Thailand
+
+
+
+
+
+
+
+
+
+8
+
+
+FR965
+
+
+FR869
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Best of Thailand & Malaysia
+
+
+
+Best of Thailand & Malaysia
+Bangkok to Singapore
+
+
+
+
+
+
+
+
+
+×
+
+Best of Thailand & Malaysia
+
+
+
+
+
+
+
+
+
+22
+
+
+FR2,830
+
+
+FR2,547
+
+
+
+
+View Trip
+
+
+
+
+
+
+13 Jan 2018
+
+Thailand Family Holiday with teenagers
+
+
+
+Thailand Family Holiday with teenagers
+Bangkok to Bangkok
+
+
+
+
+
+
+
+
+
+×
+
+Thailand Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,115
+
+
+FR892
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Bangkok to Singapore
+
+
+
+Bangkok to Singapore
+Bangkok to Singapore
+
+
+
+
+
+
+
+
+
+×
+
+Bangkok to Singapore
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,950
+
+
+FR1,658
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Thailand trips
+
+
+
+
+
+
+
+
+
+Best of Vietnam & Cambodia
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,854
+
+
+
+
+
+Travel into the heart and soul of Indochina on this comprehensive tour of Vietnam and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodian Traveller
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR799
+
+
+
+
+
+Travel through Cambodia from Ho Chi Minh City in Vietnam to Bangkok in Thailand on an...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR736
+
+
+
+
+
+Travel from Bangkok to Ho Chi Minh City on a journey of discovery. Uncover the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Northern Thailand
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR910
+
+
+
+
+
+Travel from Bangkok to Sukhothai, Lampang and Chiang Mai on this scenic tour through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand & Laos Adventure
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,036
+
+
+
+
+
+Travel from Bangkok to Vientiane on a tour through Thailand and Laos. Visit Thailand's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beautiful Northern Thailand
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,228
+
+
+
+
+
+Enjoy a comprehensive tour of Thailand that captures the true spirit of this enigmatic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Express
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR701
+
+
+
+
+
+Follow the Angkor trails on a trip to Thailand, Cambodia and Vietnam. Explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia Discovery
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR782
+
+
+
+
+
+Travel to Cambodia on an Intrepid adventure from Ho Chi Minh City to Bangkok. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand Beaches West Coast (Nov - Apr)
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,095
+
+
+
+
+
+Visit Thailand, a country with all the ingredients for a holiday in paradise. Pristine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic South East Asia
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,470
+
+
+
+
+
+From Vietnam to Cambodia, discover incredible diversity, delectable cuisines, dramatic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand Family Holiday
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,340
+
+
+
+
+
+Discover incredible sights, culture and history on a fantastic family holiday to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Cambodia & Vietnam
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,845
+
+
+
+
+
+Jump on this adventurous three-week journey to see the very best of Cambodia and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Phuket Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,360
+
+
+
+
+
+Tour the Thai islands on a sailing trip that mixes the popular beaches with discreet...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Indochina
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,836
+
+
+
+
+
+See Southeast Asia from two wheels on this 13-day adventure from Ho Chi Minh to Bangkok...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Vietnam Experience
+
+
+
+
+
+
+
+
+
+26 Days
+
+
+From
+FR1,528
+
+
+
+
+
+Experience Indochina on a trip through Thailand, Cambodia and Vietnam. Journey through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam and Cambodia Explorer
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR1,540
+
+
+
+
+
+Explore Indochina on a trip through Vietnam, Cambodia and Thailand. Travel from Hanoi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Thailand
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,226
+
+
+
+
+
+Thailand has been a traveller's favourite for decades, and there is little wonder why....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar (Burma) Sailing Experience ex Phuket (Comfort)
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,225
+
+
+
+
+
+Cruise the pristine Myeik Archipelago in complete comfort on this sailing adventure in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South East Asia Loop
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR3,565
+
+
+
+
+
+Travel into the heart and soul of Indochina on this comprehensive tour of Thailand,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Laos Traveller - Bangkok to Vientiane
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR939
+
+
+
+
+
+Discover Thailand and Laos, Bangkok and Vientiane. From the frenetic Thai capital to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bangkok to Singapore
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,720
+
+
+
+
+
+Take an adventure from Thailand to Singapore, via Malaysia. This tour of South East...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar (Burma) Sailing Adventure ex Phuket
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Beginning in Phuket, sail around Burma's Myeik (Mergui) Archipelago in the Andaman Sea...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Singapore to Bangkok Adventure
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,205
+
+
+
+
+
+From Singapore to Malaysia and Thailand, this tour of South-East Asia captures some of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia - Temples & Beaches
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,647
+
+
+
+
+
+Travel from Bangkok into Cambodia and discover Angkor marvels, Khmer hospitality,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand Beaches East Coast (May - Oct)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,215
+
+
+
+
+
+Visit Thailand, a country with all the ingredients for a holiday in paradise. Pristine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Phuket to Ko Phi Phi
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR715
+
+
+
+
+
+Take a Thai sailing tour between Phuket and Ko Phi Phi. Snorkel over a vibrant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand - Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,435
+
+
+
+
+
+Jump aboard an active tour of Northern Thailand. Visit Bangkok, explore Chiang Mai,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sail Ko Phi Phi to Phuket
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR715
+
+
+
+
+
+Set sail on Thai waters between Ko Phi Phi and Phuket. Swim in clear blue waters, kick...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand Real Food Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,017
+
+
+
+
+
+This trip to Thailand is full of adventure, fun and flavour. Eat in popular Bangkok...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active Chiang Mai
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR330
+
+
+
+
+
+Trekking in Chiang Mai, explore Thailand's lush jungle areas, go rafting on the Mae...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South East Asia Unplugged
+
+
+
+
+
+
+
+
+
+35 Days
+
+
+From
+FR2,902
+
+
+
+
+
+Embark on an epic journey to explore the best of Indochina. Venture out from Bangkok -...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Southern Thailand
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,090
+
+
+
+
+
+Cycling allows you to get closer to the real face of Thailand. From bicycles to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Indochina Uncovered
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,850
+
+
+
+
+
+Indochina Uncovered snakes its way through the delights of Thailand, Laos and Vietnam,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Family Thailand, Laos and Vietnam Holiday
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Experience the sights, smells and tastes of Southeast Asia on a family tour through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Bangkok
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR260
+
+
+
+
+
+Take a bite out of Bangkok on this short but sweet amble through this culinary city....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Hilltribe Experience
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR365
+
+
+
+
+
+Travel to Chiang Mai and trek through northern Thailand to discover hilltribe culture,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand Adventure East Coast (May - Oct)
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR2,410
+
+
+
+
+
+From the bustle of Bangkok to serene mountain scenery and a spell on some truly idyllic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Thailand West Coast (nov - apr)
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,020
+
+
+
+
+
+Rice paddies, coral reefs, elephants, temples and tuk-tuks, Thailand doesn’t get much...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Thailand East Coast (May - Oct)
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,060
+
+
+
+
+
+The delights of the north combine with the spoils of the south on this unforgettable...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Thailand Traveller
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,960
+
+
+
+
+
+From Ho Chi Minh City in Vietnam, explore Cambodia's fascinating history and impressive...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Thailand & Malaysia
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,690
+
+
+
+
+
+Travel from Bangkok to Sukhothai and Chiang Mai before visiting Penang and Kuala Lumpur...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar & Thailand Traveller
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,580
+
+
+
+
+
+Discover the timeless traditions of small-village Myanmar on this active adventure....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bangkok to Bali
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,315
+
+
+
+
+
+Take an adventure from Thailand to Bali, via Malaysia. This tour of South-East Asia...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle South East Asia
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR3,865
+
+
+
+
+
+Gear up for an energising and rewarding cycling tour that takes in the best of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cambodia & Thailand Traveller
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,990
+
+
+
+
+
+From Ho Chi Minh City in Vietnam, explore Cambodia's fascinating history and impressive...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Southern Thailand
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,175
+
+
+
+
+
+Beach hop along Phuket's Patong and Nai Ham beaches, explore the wilds of Khao Lak and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Chiang Mai & Golden Triangle
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR512
+
+
+
+
+
+Travel to Thailand’s north on this tour to the famous Golden Triangle. Explore northern...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand Explorer
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,295
+
+
+
+
+
+Travel from Bangkok to Sukhothai, Lampang and Chiang Mai, beach hop along Phuket's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic South East Asia
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,595
+
+
+
+
+
+From Vietnam to Cambodia, discover incredible diversity, delectable cuisines, dramatic...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Thailand & Cambodia
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,010
+
+
+
+
+
+Journey from Bangkok to Chiang Mai, Sukhothai and Kanchanaburi, then cross into...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar (Burma) Sailing Expedition
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,080
+
+
+
+
+
+Beginning in Phuket, sail around Burma's Myeik (Mergui) Archipelago in the Andaman Sea...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR947
+
+
+
+
+
+Take in the sights of Bangkok and Chiang Mai on this active family adventure tour,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand Adventure West Coast (Nov - Apr)
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR2,460
+
+
+
+
+
+Discover the best of Thailand’s west on a trip that takes you from the jungles of the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Chiang Mai & Elephants
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR355
+
+
+
+
+
+Help feed and bathe Chiang Mai elephants at a rescue centre dedicated to helping...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+River Kwai & Ancient Thai Kingdoms
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR525
+
+
+
+
+
+Travel to Thailand and experience the bustling streets of Bangkok and the ancient ruins...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam & Cambodia Adventure
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Explore vibrant Vietnam, charismatic Cambodia and beguiling Bangkok on this awesome...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising the Thai Islands - ex Phuket
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,805
+
+
+
+
+
+Join a small-ship cruise to the beautiful small islands off Southern Thailand’s west...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Thailand & Malaysia - Penang to Phuket
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Travel Malaysia and Thailand’s stunning west coast on a small-ship Peregrine adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Thailand & Malaysia - Phuket to Penang
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Uncover Malaysia and Thailand’s spectacular west coast on a small-ship Peregrine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Thailand tour reviews
+
+
+Our Thailand trips score an average of
+4.78 out of 5
+based on 637 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Highlights of Thailand,
+November 2017
+
+Matthew Wyatt
+
+Pack a lot of shirts, Thailand is very humid and these will need changing more often than socks and underwear.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Sail Ko Phi Phi to Phuket - Quad Share,
+November 2017
+
+Denis Duval
+
+Excellent relaxing way to travel, no packing or repacking,  travel light, remember to pack something for sea sicknesses if susceptible or inexperienced.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Thailand trip reviews
+
+Our Thailand trips score an average of
+4.78 out of 5
+based on 637 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Thailand
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 11, 2017
+
+
+
+Beyond the Grand Palace: What to do, eat and...
+
+
+
+
+
+
+So much more than just a layover destination, Thailand's capital is brimming with...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 05, 2017
+
+
+
+First-time traveller? Here’s why Thailand is...
+
+
+
+
+
+
+You could say that I’ve led a life of travel and adventure, and yet my wanderlust...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 27, 2017
+
+
+
+7 reasons why Southern Thailand is the perfect...
+
+
+
+
+
+
+Your first Tuk Tuk ride will be met with excitement, your first Buddhist temple...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 20, 2017
+
+
+
+Foodie? Here’s why you should travel to Thailand
+
+
+
+
+
+
+As an American venturing to the Far East, I figured I’d have some good pad thai...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 12, 2017
+
+
+
+6 beautiful beaches in Thailand you should visit
+
+
+
+
+
+
+While Google Images would have you believe that Thailand is nothing but white sand...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2017
+
+
+
+10 under-the-radar destinations in Southeast...
+
+
+
+
+
+
+Here are 10 Southeast Asian spots about to take pride of place on your bucket list...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 16, 2017
+
+
+
+The top destinations for travel in January
+
+
+
+
+
+
+From the jungles of Central America to the beaches of Southeast Asia, here's where...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 14, 2017
+
+
+
+10 questions with the first documented woman to...
+
+
+
+
+
+
+Cassie De Pecol recently became the first woman on record to travel to all 196...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 07, 2017
+
+
+
+How to spend the perfect 24 hours in Chiang Mai
+
+
+
+
+
+
+Even though there’s a wide range of things to see and do here, Chiang Mai’s Old...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 17, 2017
+
+
+
+Thailand in one week: The ultimate guide
+
+
+
+
+
+
+Buddhist culture, spicy food, chic shopping and plenty of natural wonders. Fret...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 30, 2017
+
+
+
+Why Ko Tao is the island you have to visit in...
+
+
+
+
+
+
+If you’re looking for an island paradise in Thailand, make sure you do not – I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 29, 2017
+
+
+
+The best beaches in southeast Asia: a...
+
+
+
+
+
+
+Once you've sampled the food, culture and magnificent temples of southeast Asia,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2017
+
+
+
+Your definitive guide to the best live music in...
+
+
+
+
+
+
+Bangkok’s nightlife has something for everybody – and that’s particularly...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 28, 2017
+
+
+
+Why Krabi, Thailand should be on your radar
+
+
+
+
+
+
+More than just parties and bars, Krabi is one of Thailand’s most beautiful...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 19, 2017
+
+
+
+Photoblog: Celebrating Yi Peng in Chiang Mai
+
+
+
+
+
+
+Once a year, when the moon is full, thousands of flickering lanterns swarm the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 11, 2016
+
+
+
+How we changed the elephant riding industry
+
+
+
+
+
+
+Over two years ago, we officially put a stop to elephant riding on Intrepid trips....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 21, 2016
+
+
+
+Meet the artisans who make Thailand’s alms...
+
+
+
+
+
+
+There are still a few centres for crafts made by street-side vendors, using...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+5 times technology ruined my trip
+
+
+
+
+
+
+Technology has changed the way we live our day-to-day lives and (for worse or for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 23, 2016
+
+
+
+Singled out: the best island escapes for solo...
+
+
+
+
+
+
+Listen up, solo travellers. This is what paradise looks like...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 31, 2016
+
+
+
+When’s the best time to visit Asia?
+
+
+
+
+
+
+Spoiler alert: when it comes to Asia, there’s really never a bad time to visit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2016
+
+
+
+5 sporting spectacles around the world that’ll...
+
+
+
+
+
+
+A sporting event can be a haven of knowledge for travellers, no matter the size of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 30, 2015
+
+
+
+US chef Andy Ricker shares his favourite Thai...
+
+
+
+
+
+
+Everyone knows you don't make friends with salad. But everyone also knows rules...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 30, 2015
+
+
+
+Chef and author Andy Ricker gives us a crash...
+
+
+
+
+
+
+American chef Andy Ricker has built his reputation on dishes with names like laap...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2015
+
+
+
+Sandsational: these are the world’s 7 best beaches
+
+
+
+
+
+
+Picking the world’s best beach is a bit like arguing why your favourite colour...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2015
+
+
+
+Life’s a beach: why are we so drawn to the ocean?
+
+
+
+
+
+
+The beach is the salty engine that drives global tourism. But why? What draws us...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 22, 2015
+
+
+
+9 reasons Laos should be on your Bucket List
+
+
+
+
+
+
+Small on fuss, big on awesome. Laos could be your favourite destination in...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 15, 2015
+
+
+
+Digital Detox: why you should go analogue for...
+
+
+
+
+
+
+What if you had to travel without the collected knowledge of humanity in your...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2014
+
+
+
+Crossing the border: our journey along the...
+
+
+
+
+
+
+The path from Burma to Thailand is a dark one, but it makes an amazing story. We...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 26, 2014
+
+
+
+I’m on a boat: the Intrepid guide to sailing...
+
+
+
+
+
+
+There are a lot of myths about sailing the high seas, but with Intrepid's handy 5...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 26, 2014
+
+
+
+Does a Thailand holiday live up to family...
+
+
+
+
+
+
+Could a family adventure in Thailand match up to your average resort holiday? Ben...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thailand travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Erawan National Park
+
+
+
+
+Cool off in the waterfalls of Erawan National Park
+
+
+
+
+
+
+Beautiful Northern Thailand, 15 days
+
+
+
+
+
+
+
+
+Thailand Family Holiday, 12 days
+
+
+
+
+
+
+
+
+
+
+
+Chiang Mai
+
+
+
+
+Get up-close to elephants in Chiang Mai
+
+
+
+
+
+
+Beautiful Northern Thailand, 15 days
+
+
+
+
+
+
+
+
+Explore Northern Thailand, 8 days
+
+
+
+
+
+
+
+
+Laos Traveller - Bangkok to Vientiane, 14 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Thailand
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Thailand, you may find yourself travelling by:
+
+
+
+
+
+
+
+Songthaew
+
+Share a ride with others in a Songthaew - a converted pick-up truck seen frequently throughout South-East Asia. Perfect for longer journeys between towns and villages.
+
+
+Thailand Beaches East Coast (May - Oct)
+
+Explore Northern Thailand
+
+Beautiful Northern Thailand
+
+
+
+
+
+
+
+
+
+
+Saamlaw
+
+See Thailand from the ground level on this three-wheeled wonder. Sometimes motorised but usually pedal-powered by a local, it’s a fun way to get from A to B or to see the sights of a new city.
+
+
+
+
+
+Accommodation in Thailand
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Thailand you may find yourself staying in a:
+
+
+
+
+
+
+
+Homestay
+
+Experience friendly Thai hospitality while staying with a local family living a traditional way of life. Make new friends, pick up some local lingo and leave smiling.
+
+
+Explore Northern Thailand
+
+Beautiful Northern Thailand
+
+Thailand Family Holiday
+
+
+
+
+
+
+
+
+
+
+Rafthouse
+
+The ultimate room with a view - spend the night on a floating bamboo rafthouse. Enjoy the seclusion, soak up the serenity and leave feeling refreshed and rejuvenated.
+
+
+Thailand Adventure East Coast (May - Oct)
+
+Singapore to Bangkok Adventure
+
+Beautiful Northern Thailand
+
+
+
+
+
+
+
+
+
+
+
+Thailand holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Bangkok (population 5.8 million)
+
+Population:
+
+67 million
+
+Language:
+
+Thai
+
+Currency:
+
+THB
+
+Time zone:
+
+(GMT+07:00) Bangkok, Hanoi, Jakarta
+
+Electricity:
+
+Type C (European 2-pin)
+
+Dialing code:
+
++66
+
+
+
+
+
+
+
+
+
+Best time to visit Thailand
+
+
+
+
+
+
+×
+
+Best time to visit Thailand
+
+
+
+
+Thailand's climate is generally hot, humid and at times (like other South-East Asian countries) monsoonal. The seasons differ from coast to coast, so depending on which areas you're visiting, the weather can vary.
+
+Thailand's north, east and west are great to visit from November to February, when the weather is cooler and dryer. If heading south, it's best to travel from January to April as these months provide conditions optimal for diving and snorkelling. This is peak time however, so be aware that popular places like Chiang Mai, Ko Samui and Phuket can get particularly busy. It can also get quite busy from July to August as it's northern hemisphere school holidays.
+
+The monsoon season is from July to November, so it can get quite wet and the weather may be uncomfortably hot and humid for those who aren't accustomed to it. Yet travelling during this time can provide a different picture of Thailand, and is generally a less crowded time of year. March to June is less wet but is the hottest time in terms of temperatures. If you don't mind the heat then this can be a good time to go on holiday to Thailand to avoid the crowds.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Most Thai people are Buddhist and live a conservative way of life. Monks are treated with great respect. Respect for the king is also paramount in Thailand, and as the world's longest serving monarch, this respect seems to grow with each year of his epic reign. Known for his efforts to improve the living standards of disadvantaged communities and preserving the Thai way of life, pictures of the King adorn many homes, restaurants and businesses in Thailand.
+
+'Saving face' is also an important part of being Thai, and this involves remaining calm, not losing your temper and avoiding confrontation in general. As the younger generation of Thais become more westernised with the infiltration of western ideas via the internet and other forms of media, some of the traditional ways of life appear to be dying out, particularly in larger cities.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Thailand has some of the best cuisine in the world, with everything from spicy dishes packed with chilli to milder coconut-based curries. With street stalls and night markets all over the country, it's really easy to pick up a snack wherever you are in Thailand. On many Intrepid trips you'll be given the opportunity to dine with a local family - this offers a great chance to see how meals are prepared and learn more about the ingredients.
+
+Things to try in Thailand
+
+1. Pad Thai (Phat Thai)
+
+A well-known dish but for good reason. This delicious plate of stir-fried rice noodles garnished with peanuts is full of flavour and can be served with fresh prawns, chicken, tofu or vegetables.
+
+2. Tom Yum (Tom Yam)
+
+Usually prepared with stock, lemongrass, kaffir lime leaves and chilli, this soup is widely available in Thailand and has been popularised around the world
+
+3. Massaman Curry (Kaeng Matsaman)
+
+A dish with Muslim origins, this filling curry traditionally features coconut milk, potatoes, beef, bay leaves and peanuts
+
+4. Seafood
+
+If staying on the coast or on one of the islands, be sure to make the most of the abundance of fresh seafood on offer. Seafood-based stir fries and fragrant curries, crab cakes, grilled fish and prawns are all great choices.
+
+5. Spirits & Beer
+
+Local spirits Mekhong (whisky) and Sang Som (rum) are popular, and an icy bottle of the local Singha beer is refreshing on a hot, humid day. Please note the legal drinking age in Thailand is 20.
+
+6. Coconut Milk
+
+For a super fresh thirst-quencher, try coconut milk straight from the husk
+
+7. Tropical Fruit
+
+Fruit shakes and fresh fruit juices are widely available from markets and restaurants - make the most of all the tropical fruits of Thailand.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing borders with South-East Asian neighbours
+Cambodia
+,
+Laos
+,
+Malaysia
+and
+Myanmar
+(Burma), Thailand's natural environment varies greatly from region to region. From the steamy jungles and misty highlands in the north to the white sand beaches and picturesque islands of the south, Thailand's everchanging landscape has been fascinating and entertaining travellers for centuries.
+
+The capital, Bangkok is a heaving, urban jungle with skyscrapers, street vendors, markets, cars, tuk tuks, bicycles and masses of people all competing for space. Despite this there are pockets of quiet beauty to be found with parks, temples and traditional shop fronts scattered throughout the city.
+
+Rural areas in the north are typically quieter, with locals living a more traditional way of life; the frenetic pace of the city giving way to a more slow-paced, agricultural-based lifestyle. Houses are simple, there's more space and less of the modern conveniences. Jungles, rivers, bamboo huts and teak houses are more commonly seen here, and birds and other animal life are more abundant.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Communities based on agriculture (such as rice growing) inhabited Siam (Thailand) as early as the 6th century. In the following centuries, Siam came under the influence of the Khmer, Dvaravati and Malay cultures, with some temples and monuments in modern-day Thailand showing evidence of this influence. In the 13th century, the city of Sukhothai in northern Thailand became an important capital. The ruins of the Sukhothai Historical Park (a UNESCO World Heritage site) feature remnants of the royal palace, temples and other buildings, and highlight the artistic and architectural features of the era.
+
+Ayutthaya rose to prominence as the new capital in the 14th century, and was considered a powerhouse of South-East Asia as one of the most important centres of trade in the world. Enduring many battles, invasions, overthrows and coups, Ayutthaya's far-reaching trade with other regions ensured a flourishing influence of art, weaponry, religion and cuisine. Much wealth was generated by this enormous empire, with grand palaces, ornate buildings and huge temples featured throughout the city. All this came to an end when the Burmese invaded in the 18th century, bringing the kingdom to ruin and resulting in the loss of many artistic and cultural treasures. Despite this, the ruins of the city are still standing, have been declared a UNESCO World Heritage site and are a great day trip from Bangkok.
+
+Recent History
+
+Thonburi was established as the capital of Siam by General Taksin in the late 18th century, yet this didn't last long with Taksim being deposed and executed not long after. Bangkok was then named capital by General Chakri, who became Rama I - the first king of the Rama Dynasty.
+
+Over the years, Siam (Thailand) remained the only South-East Asian country to remain free from European colonisation. In 1932, the Siamese Revolution resulted in a constitutional monarchy being formed, and in 1941, Thailand invaded French Indochina, overpowered the French and claimed Laos.
+
+In the last thirty years, Thailand has seen political power change hands many times, often due to coups, revolutions and protests. Despite this, Thailand’s economy continues to grow due to its strong tourist industry. Enduring all this, the much-loved King Rama IX has reigned as the Head of State since 1946 - claiming the title of the longest reigning monarch in the world and providing Thai people with a stable figure to rely upon.
+
+
+
+
+
+
+
+
+Top 10 Iconic Thai Landscapes
+
+
+
+
+
+
+×
+
+Top 10 Iconic Thai Landscapes
+
+
+
+
+Top 10 Iconic Thai Landscapes
+
+1. Bangkok
+
+Whether you're travelling by tuk-tuk through the crazy streets, cycling along backroads or taking a longtail through the khlongs, the journey in Bangkok is definitely half the fun. Drop in to the stunning Grand Palace, see the reclining Buddha at Wat Pho and wind your way through floating markets.
+
+2. Chiang Mai
+
+This northern capital is overflowing with experiences. Temple-hop through some - or all - of its 300 temples, take a cooking class to learn the secrets of Thai cuisine and explore the Night Bazaar for delicious food, designer goods and a foot massage to die for.
+
+3. Ko Tao
+
+If you ever wondered what was below Thailand's turquoise waters, this is the place to look. Learn to dive or pull on snorkelling gear to discover the fish and reefs that call this coastline home. Shark Island is close by for adrenaline seekers.
+
+4. Hilltribe Country
+
+Thailand's north is home to many of the country's minority groups. A hike along buffalo tracks will take you through colourful H'mong, Karen and Lisu villages. Spend a night as their guest for a unique insight into their life.
+
+5. Ayuthaya
+
+Modern meets ancient in Ayuthaya. The current city intertwines itself with the remnants of what was once one of Asia's great capitals. Walk the streets in search of clues to its imperial past and hire a bike to ride through the countryside, exploring the area's ruins.
+
+6. Sukhothai
+
+This former capital is a history buff's heaven. Nicknamed the 'Dawn of Happiness', Sukhothai still recalls Siam's golden age with its superb statues, marvellous monuments and lotus flowers in full bloom. A trip to the night market is a real eye-opener. Try everything from fried rice to fried bugs.
+
+7. Krabi
+
+The waters surrounding Krabi are dotted with hundreds of limestone karst islands. Kayakers and rock-climbers will love exploring them, while others can travel to the nearby floating villages or just relax on one of the region's perfect beaches.
+
+8. Golden Triangle
+
+The area where the Thai, Laotian and Burmese borders meet has long been associated with colourful cultures and an illicit opium trade. The opium may have gone but the colour hasn't and the markets offer all sorts of amazing local handicrafts.
+
+9. Khao Sok National Park
+
+For a real jungle experience, spend a couple of days in Khao Sok National Park. Thick rainforest, limestone cliffs, waterfalls and mountains make a wild playground. Hike, swim, explore caves and sleep to the sounds of exotic birds and animals.
+
+10. Kanchanaburi
+
+This tranquil town is the jumping off point for visits to the infamous Hell Fire Pass and River Kwai. Be sure to take a ride along the tracks of the Death Railway and reflect on the atrocities of war at the Jeath War Museum.
+
+
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Thailand offers great shopping - from lively street markets to huge shopping malls. Cities such as Bangkok and Chiang Mai have interesting night markets that are worth a visit. Bangkok's massive Chatuchak Market is an unforgettable metropolis filled with bizarre sights and smells. Selling everything from curious antiques and modern clothing to unique jewellery and colourful homewares, you'll need to dedicate a lot of time to navigate through this sometimes confusing market.
+
+Most importantly, have fun and don’t forget to haggle for a good price. It's also a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Thailand
+
+Vibrant fabric cushions, table cloths and hammocks
+
+Silver jewellery
+
+Handcrafted umbrellas or parasols
+
+Thai silk scarves, ties, wraps and other clothing
+
+Colourful Celadon ceramics
+
+Tailor-made clothes are inexpensive and can be made quickly, usually within a couple of days
+
+
+
+
+
+
+
+
+
+Festivals and Events in Thailand
+
+
+
+
+
+
+×
+
+Festivals and Events in Thailand
+
+
+
+
+Songkran
+
+Thai New Year is celebrated nationwide and is traditionally viewed as a time for cleansing and renewal. Locals make visits to Wats with offerings for Buddha and food for monks. More recently, emphasis has been placed on having fun and people being drenched with water are a common sight - from buckets, hoses and water pistols. Water is symbolically meant to purify and cleanse but with April being one of Thailand's hottest months, it also brings sweet relief from the heat.
+
+Loi Krathong
+
+Celebrated annually throughout Thailand, this 'Festival of Lights' sees thousands of biodegradable, homemade lanterns travel down the waterways of Thailand. Lakes, rivers and seas light up as the beautiful lanterns carry bad luck away and bring happiness and prosperity to the lantern bearer.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+One Fourteenth of an Elephant: A Memoir of Life and Death on the Thai-Burma Railway
+
+Ian Denys Peek
+
+Fieldwork
+
+Mischa Berlinski
+
+Sightseeing
+
+Rattawut Lapcharoensap
+
+Siam Becomes Thailand: A Story of Intrigue
+
+Judith A Stowe
+
+The Beach
+
+Alex Garland
+
+
+
+
+
+
+
+
+Thailand travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Thailand
+
+
+
+
+
+
+
+
+
+THAILAND:
+Australia: No - not required
+Belgium: No - not required
+Canada: No - not required
+Germany No - not required
+Ireland: No - not required
+Netherlands: No - not required
+New Zealand: No - not required
+South Africa: No - not required
+Switzerland: No - not required
+United Kingdom: No - not required
+USA: No - not required
+
+If entering by air you will be granted a 30 day stay on arrival.
+
+If entering by a land border, you will be granted a 15 day stay only (exceptions are citizens of the United States, United Kingdom, Canada, France, Italy, Germany and Japan who are eligible for 30 day visa at land borders). A visa extension can be obtained in Thailand at an immigration office for approx. 2000THB or alternatively you can apply for a Thailand visa in advance from your embassy or consulate that will allow a 30 day stay when entering at an overland border.
+If planning to enter Thailand via a land border multiple times during your travels, we recommend you pre-obtain a 60 day multiple entry visa from you embassy or consulate before you travel rather than attempting to obtain a visa at the border on multiple occasions which may result in being denied re-entry into the country.
+
+
+
+
+
+
+
+Is tipping customary in Thailand?
+
+
+
+
+
+
+
+
+
+Tipping isn't mandatory or customary in Thailand, but a tip of spare change or another small amount would be appreciated by restaurants, drivers and other service workers, especially if the service has been particularly good.
+
+
+
+
+
+
+
+What is the internet access like in Thailand?
+
+
+
+
+
+
+
+
+
+Internet access is widely available in tourist areas like Bangkok and Phuket, which have many internet cafes and Wi-Fi hot-spots. Internet access is less frequent in rural and remote areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Thailand?
+
+
+
+
+
+
+
+
+
+You'll be able to use your mobile phone in most urban areas of Thailand, although some of the islands or more remote areas may not have network coverage. Ensure you have global roaming activated with your mobile carrier before you leave home if you wish to use your mobile while in Thailand.
+
+
+
+
+
+
+
+What are the toilets like in Thailand?
+
+
+
+
+
+
+
+
+
+You'll have to adjust to different standards of hygiene and sanitation while in Thailand. The standard toilet is of the squat variety and this may take some getting used to, although western-style toilets can be found in large hotels and some tourist areas.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Thailand is one of the world's favourite budget travel destinations. Here's what you can roughly expect to pay for a:
+
+Bottle of beer = 80-100 TBH
+Street food snack = 25 TBH
+Short tuk tuk ride = 50 TBH
+Metered taxi to city from Bangkok Airport = 300-400 TBH
+
+
+
+
+
+
+
+Can I drink the water in Thailand?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Thailand. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found; some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Thailand?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by large shops, hotels and restaurants in Thailand. However, they may not be accepted by smaller vendors such as small family restaurants, market stalls or in remote towns and rural areas. Make sure you carry enough cash for purchases, since credit cards aren't always an option everywhere in Thailand.
+
+
+
+
+
+
+
+What is ATM access like in Thailand?
+
+
+
+
+
+
+
+
+
+ATMs are found widely throughout Thailand, so withdrawing cash shouldn't be problematic in most areas. Some smaller villages and rural areas may not have ATM access, so prepare for this before venturing too far from a city or major town.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Thailand?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Thailand? Health and Safety
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+11 Feb Magha Puja Day
+
+13 Feb Magha Puja Holiday
+
+6 Apr Chakri Memorial Day
+
+13 Apr Songkran Festival
+
+14 Apr Songkran Festival
+
+15 Apr Songkran Festival
+
+17 Apr Songkran Festival
+
+1 May National Labour Day
+
+5 May Coronation Day
+
+10 May Visakha Bucha Day
+
+11 Jul Khao Phansa Day
+
+12 Aug Her Majesty the Queen's Birthday
+
+14 Aug Her Majesty the Queen's Birthday Holiday
+
+23 Oct Chulalongkorn Memorial Day
+
+5 Dec His Majesty the King's Birthday
+
+10 Dec Constitution Day
+
+11 Dec Constitution Day (Observed)
+
+31 Dec New Year's Eve
+
+Please note these dates are for 2017. For a current list of public holidays in Thailand go to:
+http://www.worldtravelguide.net/thailand/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Thailand
+
+Be considerate of Thailand's customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+Ask permission, remove your shoes and cover your shoulders with a jacket or wrap before entering a place of worship.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Choose to not support businesses that promote cruelty towards or exploitation of endangered species.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Be respectful of Buddhist monks, this includes refraining from taking photos of them. Women should also avoid touching or handing items directly to monks.
+
+Thai people have a flexible approach to time and may not always be punctual. Accept this graciously and enjoy the ride.
+
+Thai people adore their King and highly respect the Royal Family. Knowing this, try to avoid disrespecting or criticising the monarch.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Thailand, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Friends of the Asian Elephant
+
+This non-government organisation aims to protect and conserve the welfare of elephants - both domesticated and wild. Providing treatment and rehabilitation to injured and mistreated elephants as well as education programs to vets, mahouts and carers, this organisation is dedicated to the elephants cause in many ways.
+
+Image supplied by Friends of the Asian Elephant
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

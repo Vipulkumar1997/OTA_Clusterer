@@ -1,0 +1,4289 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sri Lanka Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sri Lanka tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Sri Lanka
+
+
+
+Sri Lanka is what happens when you take an island resembling paradise and add a few thousand years of cross-cultural percolation.
+
+
+English sailors, Dutch traders, Portuguese spice merchants – they’ve all called Sri Lanka home. And they left behind a colonial legacy that makes this tea-scented spice island a historical goldmine. One minute you’re climbing a 1500 year-old Kashyapa temple, the next you’re checking out a colonial church in Colombo, chatting with Tamil fisherman or sipping a Ceylon brew in the misty highlands of Kandy. Our Sri Lanka tours are all about cramming as much colour (and curry) into your trip as possible. Trust us, you’ll soon see why they call this place the Pearl of the Indian Ocean.
+
+
+Top Sri Lanka travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+7 Jan 2018
+
+Circle Sri Lanka
+
+
+
+Circle Sri Lanka
+Negombo to Colombo
+
+
+
+
+
+
+
+
+
+×
+
+Circle Sri Lanka
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,190
+
+
+FR2,016
+
+
+
+
+View Trip
+
+
+
+
+
+
+23 Jan 2018
+
+Sri Lanka Real Food Adventure
+
+
+
+Sri Lanka Real Food Adventure
+Negombo to Colombo
+
+
+
+
+
+
+
+
+
+×
+
+Sri Lanka Real Food Adventure
+
+
+
+
+
+
+
+
+
+12
+
+
+FR2,000
+
+
+FR1,800
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Sri Lanka trips
+
+
+
+
+
+
+
+
+
+Circle Sri Lanka
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,906
+
+
+
+
+
+From Anuradhapura city to the Polonnaruwa ruins, Sigiriya rock to Mirissa and Galle to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sri Lanka Real Food Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,850
+
+
+
+
+
+Taste the true heart of Sri Lanka through its food. Go deep into a complex cuisine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Simply Sri Lanka
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR750
+
+
+
+
+
+Complete a loop of south and central Sri Lanka from Negombo to Colombo, passing through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sri Lanka Family Holiday
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,741
+
+
+
+
+
+Gather together your nearest and dearest for a holiday that will have you exploring...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Sri Lanka
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,225
+
+
+
+
+
+Discover a world of spice and splendour on a cycling trip across Sri Lanka, taking in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break - Colombo
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR240
+
+
+
+
+
+Awaken the senses on a culinary odyssey in Sri Lanka's capital city, stopping in at the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sri Lanka: Hike, Bike and Kayak
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,730
+
+
+
+
+
+Hike, bike and canoe through Negombo, Sigiriya, Knuckles, Kandy, Hatton, Ratnapura,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sri Lanka Explorer
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,620
+
+
+
+
+
+Begin in Negombo, travel north to the imperial ruins of Anuradhapura, visit off-the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Sri Lanka tour reviews
+
+
+Our Sri Lanka trips score an average of
+4.77 out of 5
+based on 611 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure - Sri Lanka ,
+November 2017
+
+Rahel Kübler
+
+A perfect way to experience wonderful Sri Lanka with eyes, nose and palate!
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Sensational Sri Lanka,
+October 2017
+
+Susan Zahn
+
+We become a very nice overview of Sri Lanka. Unfortunatly we did'nt see wild Elefants - that would be the south trip. We enjoyed the two days on the beach very much. This brake was necessarly. You live out he suitcase, but that was okay. After the trip we just stayed in a very nice Hotel by the beach. On this trip you travel and see a lot of temples. I learned a lot of buddism and hindi.
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Sri Lanka trip reviews
+
+Our Sri Lanka trips score an average of
+4.77 out of 5
+based on 611 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Sri Lanka
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2017
+
+
+
+6 of the best beaches in Sri Lanka (and when to...
+
+
+
+
+
+
+Check out the best beaches at the best times of year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 07, 2017
+
+
+
+Why Northern Sri Lanka should be on your travel...
+
+
+
+
+
+
+One day Northern Sri Lanka may have tourist trails, backpacker hostels and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 24, 2017
+
+
+
+Sri Lanka’s most fascinating historical sites
+
+
+
+
+
+
+It was the food that originally piqued my interest in Sri Lanka, but there is so...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 21, 2017
+
+
+
+5 experiences that prove Sri Lanka is an...
+
+
+
+
+
+
+If you’re an adventurous type, look no further than this teardrop-shaped island....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 20, 2017
+
+
+
+Where to spot leopards in Sri Lanka
+
+
+
+
+
+
+While the lion isn't much more than a majestic myth, another magnificent big cat...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 07, 2017
+
+
+
+9 of the best physical activities in Sri Lanka
+
+
+
+
+
+
+Be prepared to get sweaty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 04, 2017
+
+
+
+How to eat like a local in Sri Lanka
+
+
+
+
+
+
+Say yes to breakfast hoppers. Every time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 26, 2017
+
+
+
+5 reasons why Sri Lanka is the up-and-coming...
+
+
+
+
+
+
+Few places can boast such a range of stunning beaches, world class surf,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 10, 2017
+
+
+
+How you can engage in ethical elephant tourism:...
+
+
+
+
+
+
+In 2014, Intrepid ended elephant riding on all trips after a report revealed...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 19, 2017
+
+
+
+A Sri Lankan journey through the lens
+
+
+
+
+
+
+Sri Lanka's train journey is one thing not to be missed when visiting the popular...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 04, 2017
+
+
+
+How to bring the flavour of your travels home...
+
+
+
+
+
+
+Beat the post-holiday blues by recreating your travels in your own kitchen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 26, 2016
+
+
+
+Travel season guide: when to visit our...
+
+
+
+
+
+
+Travel. It's all in the timing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 04, 2016
+
+
+
+Love elephants? Enter this colouring...
+
+
+
+
+
+
+If you’re yet to get on-board with the whole ‘adult colouring-in’ thing, this is a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2016
+
+
+
+So hot right now: our 6 new favourite food...
+
+
+
+
+
+
+Food can take you places, according to science. And we agree.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 19, 2014
+
+
+
+Recipes of the world: Kukul MasVanjanaya ...
+
+
+
+
+
+
+Rice and curry is the king of Sri Lankan cuisine. There’s a slew of variations...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 27, 2014
+
+
+
+How to get a real taste of Sri Lanka
+
+
+
+
+
+
+Staying in local guesthouses and sharing family meals is the secret to enjoying t...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sri Lanka travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Negombo
+
+
+
+
+Catch sea breezes while strolling along the beach in Negombo
+
+
+
+
+
+
+Circle Sri Lanka, 15 days
+
+
+
+
+
+
+
+
+Simply Sri Lanka, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Galle
+
+
+
+
+Discover Sri Lanka’s colonial past in the forts and palaces of Galle
+
+
+
+
+
+
+Circle Sri Lanka, 15 days
+
+
+
+
+
+
+
+
+Simply Sri Lanka, 8 days
+
+
+
+
+
+
+
+
+Sri Lanka Family Holiday , 14 days
+
+
+
+
+
+
+
+
+
+
+
+Kandy
+
+
+
+
+Join pilgrims at one of Kandy’s spiritual temples
+
+
+
+
+
+
+Circle Sri Lanka, 15 days
+
+
+
+
+
+
+
+
+Simply Sri Lanka, 8 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Sri Lanka
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Sri Lanka, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bicycle
+
+Hiring a bike and pedalling around ancient cities full of crumbling ruins is a fun and interactive way to learn about Sri Lanka’s fascinating history.
+
+
+Circle Sri Lanka
+
+Cycle Sri Lanka
+
+
+
+
+
+
+
+
+
+
+Train
+
+Train travel in Sri Lanka is often a crowded affair but think of it as a great opportunity to live like a local and make new friends.
+
+
+Circle Sri Lanka
+
+Simply Sri Lanka
+
+
+
+
+Accommodation in Sri Lanka
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Sri Lanka you may find yourself staying in a:
+
+
+
+
+
+
+
+Basic Guesthouse
+
+Intrepid prefers smaller, character-filled guesthouses than hotel chains. When staying in Sri Lanka, enjoy staying in small hotels and guesthouses owned and run by friendly locals.
+
+
+
+
+
+Sri Lanka holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Colombo (population 2 million)
+
+Population:
+
+21.5 million
+
+Language:
+
+Sinhalese, Tamil
+
+Currency:
+
+LKR
+
+Time zone:
+
+(GMT+05:30) Sri Jayawardenepura
+
+Electricity:
+
+Type D (Old British 3-pin) Type G (Irish/British 3-pin)
+
+Dialing code:
+
++94
+
+
+
+
+
+
+
+
+
+Best time to visit Sri Lanka
+
+
+
+
+
+
+×
+
+Best time to visit Sri Lanka
+
+
+
+
+Sri Lanka is blessed with a tropical climate, with temperatures remaining in the high 20s throughout most of the year. To soak up some sunshine, be sure to come during the dry seasons (June - August and December – March). The rest of the time it's the monsoon season, so expect rain during this time.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+As an important stop on ancient trade routes, there’s a great mix of cultural influences present in modern day Sri Lanka. The majority of Sri Lankans are Sinhalese Buddhists, followed by Tamils (who are mostly Hindu) and a small amount of Christians and Muslims. Various religious festivals and holy times are celebrated regularly in Sri Lanka, from large nationwide holidays to local village celebrations. As a fairly conservative nation, most locals dress modestly and displays of affection are not considered appropriate in public. While consuming alcohol isn’t forbidden at most times, being publicly intoxicated is generally frowned upon.
+
+The influence of the British is still evident in Sri Lanka’s culture, cuisine and buildings. Drinking tea and playing cricket are the most obvious remnants of British colonial rule, although you’ll also find country cottages dotted throughout some rural regions with some serving traditional English fare like roast chicken and beef. Travellers will find that most Sri Lankans, despite having little, are quick to share their food and friendship. Known for being hospitable, generous and kind, when being offered tea or food in someone’s home, it is considered impolite to decline.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Things to try in Sri Lanka
+
+1. Curry
+
+Sri Lankan curries are among the hottest in the world, but don’t let that put you off. Fragrant, coconut-based curries packed with chilli, garlic, turmeric and coriander will give your tastebuds a treat.
+
+2. Seafood
+
+Being an island, Sri Lanka has access to an amazing array of seafood. Feast on fresh crab, swordfish, lobster and squid - or choose a fiery seafood-based curry.
+
+3. Hoppers
+
+These egg-filled crepe-like wonders can usually be found at breakfast buffets. Usually made from a rice flour and coconut milk batter, they are a Sri Lankan twist on the traditional pancake.
+
+4. Tea
+
+With miles of tea plantations, Sri Lankans have grown accustomed to drinking their popular home-grown cash crop. Tea is served with milk and sugar almost everywhere in Sri Lanka, mainly at breakfast and during the day.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Situated in the Indian Ocean, the island of Sri Lanka lies just under the Indian subcontinent, to the southwest of the Bay of Bengal. Much of Sri Lanka receives a high level of rainfall during the monsoon season, with the dry northern areas being the exception. Due to the high level of rainfall, tropical evergreen forest proliferates around the country. Despite extensive land clearing for agriculture, there are still pockets of national parks and biosphere reserves around the country that hold much flora and fauna, including herds of wild elephants, deer and a wide range of birds. Sri Lanka’s remaining forests and protected areas are rich in biological diversity and remain popular with tourists looking for wildlife and adventure.
+
+Sri Lanka’s main cities are typically built up, busy and increasingly becoming more multicultural and cosmopolitan. In comparison to Sri Lanka’s fast-paced, city-dwelling residents, many Sri Lankans still live in villages with simple housing and work predominantly in the agriculture and fishing industries.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Sri Lanka was occupied by hunter-gatherers for thousands of years before the arrival of Sinhalese tribal groups in the 6th century BC. Buddhism arrived on the island sometime during the 3rd century BC and as a result, the city of Anuradhapura became the capital and centre of Buddhism. This Buddhist Kingdom endured years of Tamil raids until Anuradhapura was abandoned in favour of Polonnaruwa in the south. By the 12th century, Tamil rulers had a permanent presence in the north, where Hinduism still flourishes today.
+
+The harbours of the south soon became important trading centres for Arab traders but by the 16th century a new wave of foreign influence began with the arrival of the Portuguese, then the Dutch. Sri Lanka’s wealth of cinnamon and geographic trading advantage appealed to the Portuguese, who slowly took over the island until the Dutch drove them out in the early 17th century. Remnants of this time can still be found in modern-day Sri Lanka, with colonial forts, cannons and other ruins dotted throughout the country, especially along the coast. By 1795, the British arrived and captured the island from the Dutch. Sugar, coffee, tea and rubber plantations were soon established by the British, along with Western schools, churches and colleges.
+
+Recent History
+
+Sri Lanka (Ceylon) was officially granted its independence in 1948, but continued to maintain relatively good relations with the British. By 1960, Ceylon had the world’s first female prime minster and in 1972, the name Ceylon was replaced with Sri Lanka, which had just become a republic (but remained a member of the Commonwealth). These changes in government and moves towards independence were largely Sinhalese-centric, which created some tension with parts of the Tamil population.
+
+From 1983 to 2009 Sri Lanka endured an intermittent civil war, which resulted in some displacement of people and human rights violations. More recently, parts of Sri Lanka were devastated by the 2004 tsunami, yet Sri Lanka has rebounded with an increasingly stable economy based on agriculture, tourism and telecommunications. With one of the best performing stock exchanges in the world, Sri Lanka has emerged from conflict, natural disasters and colonisation to become a rising tourist and economic hotspot.
+
+
+
+
+
+
+
+
+Top 10 Spiritual Spots in Sri Lanka
+
+
+
+
+
+
+×
+
+Top 10 Spiritual Spots in Sri Lanka
+
+
+
+
+Top 10 Spiritual Spots in Sri Lanka
+
+1. Bodhi Tree
+
+Located at the ancient site of Anuradhapura, this sacred fig tree is said to have grown from a sapling of the Bodhi Tree that Buddha was sitting under when he became enlightened. This holy spot has long been a pilgrimage site for Sri Lankans and is now becoming a place of spiritual interest for visitors too.
+
+2. Dewatagaha Mosque
+
+One of the oldest mosques in Sri Lanka, this prayer place for worshippers of Islam has stood in Colombo for hundreds of years. The striking domes and minarets stand out in the Colombo skyline and provide a spiritual epicentre for Sri Lanka’s Muslims.
+
+3. Temple of the Tooth
+
+This Buddhist temple, located in Kandy, is named for the holy relic (said to be Buddha’s tooth) that is housed inside. It's a World Heritage site that has survived bombings and the ravages of time - visit here to see worshippers deep in prayer under the elaborate golden roof.
+
+4. Dambulla Cave Temple
+
+This well-preserved series of cave temples is brimming with paintings and statues that date all the way back to the 1st century. With colourful depictions of Buddha, Sri Lankan kings and various Hindu gods and goddesses, this is one of the most elaborate cave complexes in Asia.
+
+5. Adam’s Peak
+
+Sacred to Buddhists, Hindus, Christians and Muslims, Adam’s Peak is arguably Sri Lanka’s most popular pilgrimage spot. Surrounded by wildlife reserves, the walking trail leading to the mountain is a stunning walk regardless of religious persuasion. Watching a stirring sunrise from the holy summit is nothing short of magnificent.
+
+6. Polonnaruwa Ruins
+
+These impressive ruins of an ancient kingdom are home to massive palaces, huge statues, imposing temples and an artificial lake. Although historically and culturally important, witnessing orange-robed monks praying at Gal Vihara (a Buddhist rock temple) is a spiritual moment you won’t soon forget.
+
+7. Sigiriya (Lion’s Rock)
+
+This magnificent UNESCO World Heritage site was once a mountain monastery many centuries ago. The rock inscriptions, paintings and ancient ‘graffiti’ show insight into the lives of the monks who lived within the caves and grottoes before King Kasyapa took to the throne and established a capital there.
+
+8. Anuradhapura
+
+The ancient ruins of Anuradhapura are a significant holy place for Sri Lanka’s Buddhists. As one of the oldest continuously inhabited cities in the world, there are many monasteries surrounding this area of supreme veneration.
+
+9. Munneswaram Temple
+
+This elaborate Hindu temple complex is known for its vibrant festivals in celebration of Navaratri and Sivaratri. During this time, the complex is filled with the buzz of devotees who come to attend daily pujas and bath in the nearby holy river.
+
+10. Mihintale
+
+If you choose to climb the thousand or so steps to the top of Mihintale’s hill, you’ll be rewarded with panoramic views and a deeper understanding of Buddhism, as this is the site where Buddhism is said to have originated in Sri Lanka.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Known for it’s fragrant spices, vibrant fabrics, stunning silver jewellery and one-of-a-kind antiques, it’s difficult to leave Sri Lanka without a backpack full of mementos. From far-flung rural marketplaces to the boutiques and galleries of Galle and Colombo, shopping in Sri Lanka has something for everyone at a relatively low cost.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Sri Lanka
+
+1. Handicrafts
+
+Although available all over the country, Kandy is one of the best places to buy locally made handicrafts. Choose from handmade brass and silver jewellery, vibrant fabric bags and scarves, and batik wall hangings.
+
+2. Spices
+
+Home to a multitude of plantations and spice gardens, it’s no wonder some of the world’s best spices come from Sri Lanka. Perhaps buy some saffron, cloves, cinnamon, turmeric and cardamom to take home a taste of Sri Lanka with you.
+
+3. Gem Stones
+
+If you’re after a low-cost gemstone, Sri Lanka is a top place to pick up a stone at great price. Birthstones are popular, as are girls' best friends – diamonds! As always, buy from a licensed gem store to guarantee authenticity.
+
+
+
+
+
+
+
+
+Festivals and Events in Sri Lanka
+
+
+
+
+
+
+×
+
+Festivals and Events in Sri Lanka
+
+
+
+
+Vesak Festival
+
+People all over Sri Lanka commemorate Buddha’s birthday by visiting temples, giving alms and singing devotional songs. Simple, luminous paper lanterns are hung outside homes and food is freely distributed to the public via roadside stalls.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+At the Water’s Edge
+
+Pradeep Jeganathan
+
+Running in the Family
+
+Michael Ondaatje
+
+Serendib
+
+Jim Toner
+
+When Memory Dies
+
+A Sivanandran
+
+Tea Time with Terrorists: A Motorcycle Journey into the Heart of Sri Lanka’s Civil War
+
+Mark Stephen Meadows
+
+
+
+
+
+
+
+
+Sri Lanka travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Sri Lanka?
+
+
+
+
+
+
+
+
+
+SRI LANKA:
+Australia: Yes - in advance
+Belgium: Yes - in advance
+Canada: Yes - in advance
+Germany: Yes - in advance
+Ireland: Yes - in advance
+Netherlands: Yes - in advance
+New Zealand: Yes - in advance
+South Africa: Yes - in advance
+Switzerland: Yes - in advance
+United Kingdom: Yes - in advance
+USA: Yes - in advance
+
+Foreign passport holders are required to obtain a visa prior to entry into Sri Lanka. This can be done on-line at the following website:
+www.eta.gov.lk
+
+Detailed information and application forms are provided here. The process is simple and the cost is US$20 for most countries.
+
+
+
+
+
+
+
+Is tipping customary in Sri Lanka?
+
+
+
+
+
+
+
+
+
+Sri Lankans work hard and typically receive a low wage, so tipping drivers, porters, maids and other service staff is a good idea. A small amount should suffice. When in restaurants, add 10% to the bill as a tip.
+
+
+
+
+
+
+
+What is the internet access like in Sri Lanka?
+
+
+
+
+
+
+
+
+
+Internet access is growing in Sri Lanka. Internet cafes are easily found in large cities, but the speed may be slower than what you’re used to.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Sri Lanka?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in urban areas, but can be patchy and less reliable in rural areas. Ensure global roaming is activated on your phone before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Sri Lanka?
+
+
+
+
+
+
+
+
+
+Squat toilets are the most common toilets in Sri Lanka. Always carry your own toilet paper and soap as they are usually not provided. Western-style flushable toilets can be found in upmarket restaurants, five-star hotels and in some tourist areas.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Soft drink = 100 LKR
+Beer = 200-250 LKR
+Simple lunch at local restaurant = 300 – 400 LKR
+Seafood dinner = 1,000-1,500 LKR
+
+
+
+
+
+
+
+Can I drink the water in Sri Lanka?
+
+
+
+
+
+
+
+
+
+It's not recommended to drink the tap water in Sri Lanka. Filtered water is a better option; try to use a refillable canteen or water bottle rather than buying bottled water. Remember to avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Sri Lanka?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by modern hotels, restaurants and medium-large shops in tourist areas. Smaller shops, cafes, market stalls and places in remote areas probably won’t have facilities that support credit cards, so ensure you have enough cash to cover expenses while in rural areas or when visiting smaller vendors.
+
+
+
+
+
+
+
+What is ATM access like in Sri Lanka?
+
+
+
+
+
+
+
+
+
+ATMs are becoming more common in Sri Lanka’s large cities, so finding one shouldn’t be a problem. Smaller towns and isolated areas will have very few, or none at all, so have enough cash to cover purchases as ATM access may not be available.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Sri Lanka?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Sri Lanka?
+
+
+
+
+
+
+
+
+
+12 Jan Duruthu Full Moon Poya Day
+
+14 Jan Tamil Thai Pongal Day
+
+4 Feb National Day
+
+10 Feb Navam Full Moon Poya Day
+
+24 Feb Mahasivarathri Day
+
+12 Mar Madin Full Moon Poya Day
+
+10 Apr Bak Full Moon Poya Day
+
+13 Apr Day prior to Sinhala & Tamil New Year Day
+
+14 Apr Sinhala & Tamil New Year Day
+
+14 Apr Good Friday
+
+1 May May Day
+
+10 May Vesak Full Moon Poya Day
+
+11 May Day following Vesak Full Moon Poya Day
+
+8 Jun Poson Full Moon Poya Day
+
+26 Jun Id-Ul-Fitr / Ramazan Festival Day
+
+8 Jul Esala Full Moon Poya Day
+
+7 Aug Nikini Full Moon Poya Day
+
+1 Sep Id-Ul-Alha / Hadji Festival Day
+
+5 Sep Binara Full Moon Poya Day
+
+5 Oct Vap Full Moon Poya Day
+
+18 Oct Deepavali Festival Day
+
+3 Nov Ill Full Moon Poya Day
+
+1 Dec Milad-Un-Nabi / Prophet Muhammad's Birthday
+
+3 Dec Unduvap Full Moon Poya Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Sri Lanka go to:
+http://www.worldtravelguide.net/sri-lanka/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Sri Lanka
+
+Be considerate of Sri Lanka’s customs, traditions, religions and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

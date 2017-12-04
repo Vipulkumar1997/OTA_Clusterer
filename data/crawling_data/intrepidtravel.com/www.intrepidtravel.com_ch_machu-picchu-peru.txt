@@ -1,0 +1,4143 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Machu Picchu Trek & Tours | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Machu Picchu Trek & Tours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+Machu Picchu
+
+
+
+
+These days, Machu Picchu is recognisable to people all over the world. It springs up in history books, on our friends’ Facebook walls and in – ahem – many a travel brochure. But it wasn’t always so. After the Incas abandoned their citadel in the 1500s, Machu Picchu remained hidden from the Spanish conquerors for centuries, used sporadically by local peasants until its discovery by an American archeologist in 1911.
+
+It’s easy to understand why so many tourists embark on a Machu Picchu trek each year, and why the site recently became one of the New Seven Wonders of the World. Standing at the Sun Gate as the mist lifts off the mountains, it’s impossible not to feel just this: a worldly sense of wonder.
+
+We incorporate a Machu Picchu tour into all of our small-group Peruvian adventures. Whether you want to hike through cloud forests along the classic Inca Trail, challenge yourself on the quieter Quarry Trail or simply take the train, our local leaders will keep you safe, informed and inspired every step of the way.
+
+Our Machu Picchu tours
+
+
+
+
+
+
+
+
+
+
+Inca Trail Express
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,030
+
+
+
+
+
+Travel to Peru to discover the Inca, Peru's ancient civilisation. Trek or train to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sacred Land of the Incas
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,371
+
+
+
+
+
+Discover Peru's sacred land of the Incas. Visit Lima, the Amazon, Cuzco, Puno, Lake...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail & Amazon
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,395
+
+
+
+
+
+Travel from the heights of the Andes to the exotic Amazon rainforest on this best of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Travel to Peru and retrace the steps of the Inca, Peru's fascinating ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peru Encompassed
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,615
+
+
+
+
+
+Encounter the highlights of Peru, witnessing Lima's attractions, flying over the Nazca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Peru
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Visit South America and travel to Peru. Visit Lima, Cuzco and Lake Titicaca, tour the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Peru Adventure
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR6,069
+
+
+
+
+
+Visit South America and travel to the Galapagos Islands, Peru, Ecuador and Bolivia....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Peru & Bolivia
+
+
+
+
+
+
+
+
+
+25 Days
+
+
+From
+FR3,744
+
+
+
+
+
+Visit South America and travel to Peru and Bolivia. Travel from Lima to La Paz, visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Majestic Peru
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,482
+
+
+
+
+
+Visit South America and travel through Peru. Tour through Lima, Pisco, Cuzco, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Inca Trail Adventure
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,059
+
+
+
+
+
+Travel to Ecuador and the wildlife-rich shores of the Galapagos Islands. Then visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Lima
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,961
+
+
+
+
+
+Travel from La Paz to Lima and discover the vibrant heart of Inca culture. Trek an Inca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Encounter
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,100
+
+
+
+
+
+Visit South America and travel through Peru. Tour Lima, the Amazon Jungle, Cuzco, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Ecuador & Peru
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR2,650
+
+
+
+
+
+Experience the best of Ecuador and Peru: the Amazon Jungle, street food in Cusco,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peru Family Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,540
+
+
+
+
+
+Visit Peru on this Family Adventure, travelling through Lima, Cuzco and Aguas Calientes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to La Paz
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,951
+
+
+
+
+
+Travel from Lima to La Paz and fall in love with Incan South America. Complete the Inca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Machu Picchu Explorer (Original)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR555
+
+
+
+
+
+Visit South America and travel through Peru. Tour Cuzco, the Sacred Valley,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Extension
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR790
+
+
+
+
+
+Take the historic Inca Trail hike and be rewarded with spectacular vistas and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing South America
+
+
+
+
+
+
+
+
+
+47 Days
+
+
+From
+FR6,125
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South America Encompassed
+
+
+
+
+
+
+
+
+
+56 Days
+
+
+From
+FR8,125
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peru, Chile & Argentina Explorer
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,828
+
+
+
+
+
+Travel through South America by way of jungle, waterfalls and ancient ruins. In 3 weeks...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cuzco to La Paz
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,946
+
+
+
+
+
+Take a scenic Overland tour from Peru to Bolivia. Be wooed by the vibrant heart of Inca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Cuzco
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,236
+
+
+
+
+
+Fall in love with Peru on this adventure tour. Travel from Lima to Cuzco via the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Dan Berlin's Inca Trail Journey
+
+
+
+
+
+
+Find out more about Dan's journey
+
+Machu Picchu trip reviews
+
+
+Our  trips score an average of
+4.77 out of 5
+based on 443 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Classic Peru,
+November 2017
+
+Edward Guinea
+
+Intrepid delivered on their promise for the “Classic Peru” trip. It was amazing to meet so many people and see so many treasures that are the result of Inca and other cultures in this incredible place!
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Peru Encompassed,
+October 2017
+
+Kelsey Low
+
+This was my first time travelling with Intrepid.   I didn't  want to travel to South America alone as a single woman so I picked a group trip. It has been a wonderful experience and I highly recommend them.  The itinerary covered every highlight I wanted to do and see. Mainly though it was the two guides I had that made the trip. Absolutely loved the trip and would book again with Intrepid in the future!
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Classic Peru,
+November 2017
+
+Pat Sgro
+
+Intrepid is my first choice for touring because they always try to create an experience that I simply could not find on my own. It's a balancing act to pack in enough stuff yet also include enough free time - Intrepid work hard to get this right. The local guides are fantastic too. With Intrepid I can experience and learn a lot more about a destination and people in a fraction of the time it would take otherwise. Great people to travel with!
+
+Review submitted 28 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Classic Peru,
+September 2017
+
+Stephen Wetton
+
+Strongly recommend training prior to travelling. Although we didn't have a lot of walking in our tour, my pre-training helped my ability to particpate, particularly at altitude. And drink water!
+
+Review submitted 26 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+trip reviews
+
+Our  trips score an average of
+4.77 out of 5
+based on 443 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+Articles on Machu Picchu treks
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 27, 2017
+
+
+
+The road to Machu Picchu starts at 385 lbs
+
+
+
+
+
+
+I laughed like a crazy person, as I stood on top of that pass. The thin air and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2017
+
+
+
+10 facts you probably don’t know about Peru
+
+
+
+
+
+
+We don't need to sell Peru to you – who doesn't want to see Machu Picchu in all...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 21, 2017
+
+
+
+More than Machu Picchu: 5 of Peru’s other...
+
+
+
+
+
+
+Proud indigenous tribes, beautiful colonial cities, great surf and fantastic...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 24, 2017
+
+
+
+What hiking to Machu Picchu as a solo traveler...
+
+
+
+
+
+
+When you first look up at all you have to achieve it can feel way too intimidating...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 05, 2017
+
+
+
+Why you should take the Quarry Trail to Machu...
+
+
+
+
+
+
+When I was told the Inca Trail was fully booked, I was disappointed. Hiking to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 09, 2017
+
+
+
+7 things no-one tells you about the Inca Trail
+
+
+
+
+
+
+Machu Picchu is undoubtedly awesome, but there’s a whole lot of stuff about the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 17, 2016
+
+
+
+Inca Trail permits are on sale! Here’s...
+
+
+
+
+
+
+Grab your trekking shoes and trail mix, guys. The Inca Trail is open for 2016!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 07, 2015
+
+
+
+“You’re never too old to be carried” and other...
+
+
+
+
+
+
+When we started out on our 42 kilometre trek along the Inca Trail, I was full of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 14, 2014
+
+
+
+14 awesome photos from Peru PLUS win an...
+
+
+
+
+
+
+Look at photos, enter competition, win trip to Peru. Easy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top deals in Machu Picchu
+
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+14 Dec 2017
+
+Sacred Land of the Incas
+
+
+
+Sacred Land of the Incas
+Lima to La Paz
+
+
+
+
+
+
+
+
+
+×
+
+Sacred Land of the Incas
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,790
+
+
+FR2,511
+
+
+
+
+View Trip
+
+
+
+
+
+
+30 Dec 2017
+
+Majestic Peru
+
+
+
+Majestic Peru
+Lima to Lima
+
+
+
+
+
+
+
+
+
+×
+
+Majestic Peru
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,920
+
+
+FR2,628
+
+
+
+
+View Trip
+
+
+
+
+
+
+31 Dec 2017
+
+Peru, Chile & Argentina Explorer
+
+
+
+Peru, Chile & Argentina Explorer
+Lima to Buenos Aires
+
+
+
+
+
+
+
+
+
+×
+
+Peru, Chile & Argentina Explorer
+
+
+
+
+
+
+
+
+
+21
+
+
+FR6,035
+
+
+FR4,828
+
+
+
+
+View Trip
+
+
+
+
+
+
+31 Dec 2017
+
+Inca Encounter
+
+
+
+Inca Encounter
+Lima to Cusco
+
+
+
+
+
+
+
+
+
+×
+
+Inca Encounter
+
+
+
+
+
+
+
+
+
+10
+
+
+FR2,800
+
+
+FR2,240
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Peru Encompassed
+
+
+
+Peru Encompassed
+Lima to Lima
+
+
+
+
+
+
+
+
+
+×
+
+Peru Encompassed
+
+
+
+
+
+
+
+
+
+21
+
+
+FR3,490
+
+
+FR2,967
+
+
+
+
+View Trip
+
+
+
+
+
+
+18 Jan 2018
+
+Explore Peru & Bolivia
+
+
+
+Explore Peru & Bolivia
+Lima to La Paz
+
+
+
+
+
+
+
+
+
+×
+
+Explore Peru & Bolivia
+
+
+
+
+
+
+
+
+
+25
+
+
+FR4,350
+
+
+FR3,480
+
+
+
+
+View Trip
+
+
+
+
+
+
+19 Jan 2018
+
+Inca Trail
+
+
+
+Inca Trail
+Lima to Cuzco
+
+
+
+
+
+
+
+
+
+×
+
+Inca Trail
+
+
+
+
+
+
+
+
+
+8
+
+
+FR1,520
+
+
+FR1,368
+
+
+
+
+View Trip
+
+
+
+
+
+
+19 Jan 2018
+
+Inca Trail & Amazon
+
+
+
+Inca Trail & Amazon
+Lima to Lima
+
+
+
+
+
+
+
+
+
+×
+
+Inca Trail & Amazon
+
+
+
+
+
+
+
+
+
+12
+
+
+FR2,530
+
+
+FR2,277
+
+
+
+
+View Trip
+
+
+
+
+
+
+20 Jan 2018
+
+Inca Trail Express
+
+
+
+Inca Trail Express
+Cuzco to Cuzco
+
+
+
+
+
+
+
+
+
+×
+
+Inca Trail Express
+
+
+
+
+
+
+
+
+
+7
+
+
+FR1,170
+
+
+FR1,053
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

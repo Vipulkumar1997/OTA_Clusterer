@@ -1,0 +1,3743 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Norway Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Norway tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Norway
+
+
+
+This Scandinavian land of great glaciers, isolated islands, dramatic fjords and multi-hued houses looks stunning all year round - blanketed in snow, drenched in sun or under the glint of the dazzling Aurora Borealis.
+
+
+From hiking over alpine meadows in the spring time, through hitting the slopes in winter to kicking back on lakes during summer, Norway may not be the cheapest travel destination, but is well worth the investment.
+
+
+Our Norway trips
+
+
+
+
+
+
+
+
+
+Spitsbergen Explorer
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR6,180
+
+
+
+
+
+Discover the essence of the Arctic on a trip around Spitsbergen, where polar bears,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+A Taste of Scandinavia
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,215
+
+
+
+
+
+Discover stylish Scandinavia and bohemian Germany on the ultimate urban adventure,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Scandinavia Explorer
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,215
+
+
+
+
+
+Discover Scandinavia on a trip to Norway, Sweden and Finland. Travel to Norway and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Scandinavia
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR6,240
+
+
+
+
+
+A 22-day tour through the best of Scandinavia, including Copenhagen, Oslo, Bergen,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Scandinavia & Baltic Circuit
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR8,625
+
+
+
+
+
+A truly original 36-day itinerary, with highlights including Copenhagen, Gothenburg,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Oslo to Berlin
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR6,480
+
+
+
+
+
+Travel through northern Europe on a tour from Oslo to Berlin. Visit Norway, Sweden,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Helsinki to Oslo
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,535
+
+
+
+
+
+A picturesque 22-day tour through the best of northern Europe, including Finland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Spitsbergen
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR5,830
+
+
+
+
+
+Breathe in the crisp Arctic air and discover Spitsbergen, the largest island in Norway...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spitsbergen Photography Adventure
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR7,545
+
+
+
+
+
+Grab your camera and capture the incredible wildlife and landscapes of Spitsbergen on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spitsbergen Highlights
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR3,380
+
+
+
+
+
+Experience an epic Arctic voyage in under a week – cross the 80th parallel on a cruise...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spitsbergen in Depth
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR7,545
+
+
+
+
+
+Soak up the essence of the Arctic on a voyage around Spitsbergen. Discover wild beaches...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spitsbergen, East Greenland and Iceland (Sea Adventurer) 2017
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR7,330
+
+
+
+
+
+Discover the wild beauty of the Arctic in Spitsbergen, East Greenland and Iceland. Be...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Norway tour reviews
+
+
+Our Norway trips score an average of
+4.7 out of 5
+based on 20 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Scandinavia Explorer,
+August 2017
+
+Eva Korecki
+
+Great trip of you are young, fit and healthy
+
+Review submitted 01 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Scandinavia Explorer,
+August 2017
+
+Sue Chamberlain
+
+The trip was a fantastic way to see the highlights of Scandinavia, in a fun, cost-effective way
+
+Review submitted 25 Sep 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Norway trip reviews
+
+Our Norway trips score an average of
+4.7 out of 5
+based on 20 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Norway
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+How to budget travel in Scandinavia
+
+
+
+
+
+
+Scandinavia has a reputation for minimalism, everywhere except its prices. Time to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 09, 2016
+
+
+
+The 15 most beautiful waterfalls in the world
+
+
+
+
+
+
+What makes the perfect waterfall? Height? Water volume? Sheer volume? We put the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 22, 2016
+
+
+
+Best of Instagram: want to know what Svalbard...
+
+
+
+
+
+
+Svalbard is about as close as most mortal are going to get to the North Pole. So...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 19, 2016
+
+
+
+Life in the north: our top 6 Arctic wildlife...
+
+
+
+
+
+
+One thing the Arctic does have is wildlife. Lots of it. On a size and scale that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2015
+
+
+
+Total eclipse of the heart: one traveller’s...
+
+
+
+
+
+
+First contact saw a massive cheer erupt and the special eclipse viewers we’d been...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Norway travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Naeroyfjord
+
+
+
+
+Journey through the UNESCO World Heritage-listed Naeroyfjord area
+
+
+
+
+
+
+Scandinavia Explorer, 15 days
+
+
+
+
+
+
+
+
+Oslo to Berlin, 29 days
+
+
+
+
+
+
+
+
+Complete Scandinavia, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Bryggen
+
+
+
+
+See the historic sights of Bergen's heritage-filled Bryggen area
+
+
+
+
+
+
+Oslo to Berlin, 29 days
+
+
+
+
+
+
+
+
+Complete Scandinavia, 22 days
+
+
+
+
+
+
+
+
+Scandinavia Explorer, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Oslo
+
+
+
+
+Explore the eclectic Scandinavian wonders of urban Oslo
+
+
+
+
+
+
+A Taste of Scandinavia, 8 days
+
+
+
+
+
+
+
+
+Scandinavia Explorer, 15 days
+
+
+
+
+
+
+
+
+Oslo to Berlin, 29 days
+
+
+
+
+
+
+
+
+
+
+
+
+Norway holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Oslo (population 483,000)
+
+Population:
+
+4.6 million
+
+Language:
+
+Norwegian Bokmal, Norwegian Nynorsk
+
+Currency:
+
+NOK
+
+Time zone:
+
+(GMT+01:00) Brussels, Copenhagen, Madrid, Paris
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++47
+
+
+
+
+
+
+
+
+
+Best time to visit Norway
+
+
+
+
+
+
+×
+
+Best time to visit Norway
+
+
+
+
+Because of the Gulf Stream, the climate in Norway is noticeably warmer than what would otherwise be expected at such high latitude. Summers can be moderately warm (up to 30 degrees Celsius), even in northern areas, but only for limited periods. The length of the winter and amount of snow varies around the country. In the north there is more snow and winters are dark; on the southern and western coasts, winters are moderate and rainy, while further inland the temperature can get below -25 degrees Celsius. March, April, October and November tend to be the rainiest months. Snow usually starts to fall in October/November in the northern areas (and in higher altitudes) and generally melts by the end of April. The Northern Lights are visible from parts of Norway, with September to April usually presenting the optimal conditions for viewing.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing borders with
+Sweden
+,
+Russia
+and
+Finland
+, Norway occupies the northern corner of the Scandinavian Peninsula, with the North Sea, Norwegian Sea and Barents Sea providing coastline on the rugged northern, southern and western sides of the country. Possessing more than 50,000 islands, majestic mountain ranges, pristine fjords, glacial lakes and dramatic waterfalls, Norway has some of the most beautiful landscapes in the world. On the flipside, Norway is also home to vibrant, modern cities and charming rural towns, with most of the population living in the more hospitable south of the country.
+
+
+
+
+
+
+
+
+Must-Visit Museums of Oslo
+
+
+
+
+
+
+×
+
+Must-Visit Museums of Oslo
+
+
+
+
+Top 5 Must-Visit Museums of Oslo
+
+1. Munch Museum
+
+Oslo's comprehensive museum dedicated to the stirringly dark works of Edvard Munch is well worth a visit. Norway's best known artist is given the royal treatment with no less than 1,200 of his paintings and 18,000 of his prints displayed here.
+
+2. Nobel Peace Centre
+
+A museum dedicated to the promotion of world peace can only be a good thing. Home to photography exhibitions, informative lectures and interactive galleries dedicated to Peace Prize Laureates, this place takes the concept of peace and gives it a high tech makeover.
+
+3. Holmenkollen Ski Museum
+
+Found at the base of Oslo's iconic ski jump, the world's oldest ski museum showcases the 4000-year-old history of the sport. Who knew people had been skiing that long? Take the elevator to the top of the tower for supreme views of the city.
+
+4. Vikingshipshuset
+
+This museum dedicated to the preservation of Viking ships and artefacts features an astonishing array of intact ships, utensils and tools. Showcasing classic Viking design and decoration, it's astounding to think many of these boats were built in the 9th century.
+
+5. Norwegian Folk Museum
+
+Home to the world's oldest open air museum, this celebration of Norway's culture, history and customs is a one-stop shop for everything 'Norway'. From wonderful examples of folk dress, Sami artefacts and art, to rare musical instruments and toys, photography and prints from the 1800s, you could easily spend a whole day here.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Ice Palace
+
+Tarjei Vesaas
+
+The Snowman
+
+Jo Nesbo
+
+Pan
+
+Knut Hamsun
+
+Mysteries
+
+Knut Hamsun
+
+The Castle in the Pyrenees
+
+Jostein Gaarder
+
+The Real Heroes of Telemark
+
+Ray Mears
+
+
+
+
+
+
+
+
+Norway travel FAQs
+
+
+
+
+
+Is tipping customary in Norway?
+
+
+
+
+
+
+
+
+
+Tipping is done on a voluntary basis in Norway and is generally left up to the discretion of the customer. If the service in a cafe or restaurant is good, feel free to leave spare change or round up the bill.
+
+
+
+
+
+
+
+What is the internet access like in Norway?
+
+
+
+
+
+
+
+
+
+Travellers should be able to access the internet at cyber cafes and Wi-Fi hot spots in Norway's major cities and towns. Remote and rural areas will have less internet availability, so be prepared for this when travelling out of the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Norway?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in Norway. Travellers should activate global roaming before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Norway?
+
+
+
+
+
+
+
+
+
+Western-style, flushable toilets are the standard in Norway.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Cup of coffee in a cafe = 30-40 NOK
+Beer in a bar or restaurant = 60 NOK
+Basic, takeaway lunch = 80-120 NOK
+Dinner in an inexpensive restaurant = From 200 NOK
+
+
+
+
+
+
+
+Can I drink the water in Norway?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink unless otherwise marked.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Norway?
+
+
+
+
+
+
+
+
+
+Major credit cards are accepted by most large shops and hotels. Smaller vendors may not accept credit cards, so carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Norway?
+
+
+
+
+
+
+
+
+
+ATMs are commonly found in Norway's cities and urban areas. Remote regions will have less ATM availability, so prepare accordingly before travelling away from cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Norway?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Norway?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+13 Apr Maundy Thursday
+
+14 Apr Good Friday
+
+16 Apr Easter Sunday
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+17 May Constitution Day
+
+25 May Ascension Day
+
+4 Jun Whit Sunday
+
+5 Jun Whit Monday
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+Please note these dates are for 2017. For a current list of public holidays in Norway go to:
+http://www.worldtravelguide.net/norway/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Norway
+
+1. Be considerate of Norway’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with tap or filtered water.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+5. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+6. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+7. Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

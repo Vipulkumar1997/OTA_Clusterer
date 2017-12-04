@@ -1,0 +1,3899 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethiopia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethiopia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Ethiopia
+
+
+
+The great land of Ethiopia is one of Africa's veiled treasures.
+
+
+Archaeological, cultural and natural riches await for travellers keen to delve into this ancient yet often overlooked destination. Trekking rugged ranges, visiting simple mountain villages, marvelling at time-worn relics dipped in mysticism and meeting genuine, unaffected people who have overcome famine and war makes for a life-affirming journey.
+
+
+Our Ethiopia trips
+
+
+
+
+
+
+
+
+
+Addis to Nairobi
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR2,920
+
+
+
+
+
+Travel to Africa and be immersed in traditional cultures, spot Africa's Big Five on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Incredible Ethiopia
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,140
+
+
+
+
+
+Travel through the untouched beauty and fascinating culture of Ethiopia. From Addis...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Incredible Ethiopia - Timket Festival
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,495
+
+
+
+
+
+Travel through the untouched beauty and fascinating culture of Ethiopia. From the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Ethiopia
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR3,695
+
+
+
+
+
+Travel through the untouched beauty and fascinating culture of Ethiopia. From Addis...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ethiopian Highlands
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,143
+
+
+
+
+
+Discover the delights of Ethiopia from the natural beauty of the Simien Mountains to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nairobi to Omo
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,782
+
+
+
+
+
+Travel to Africa and tour Kenya and Ethiopia on a trip from Nairobi to Arba Minch....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Omo to Addis
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,798
+
+
+
+
+
+Go off the beaten track on this immersive Ethiopian adventure, visiting remote tribes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ethiopian Highlands Northbound
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,293
+
+
+
+
+
+Travel to Africa and tour Ethiopia on a trip from Addis Ababa to Gondar. Discover...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Omo to Nairobi
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,553
+
+
+
+
+
+Travel from Arba Minch to Nairobi, via Ethiopia's remote Omo Valley and some of Kenya's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Addis to Arba Minch
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,102
+
+
+
+
+
+Travel to Africa and be immersed in traditional cultures on journey through changing...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ethiopian Explorer
+
+
+
+
+
+
+
+
+
+44 Days
+
+
+From
+FR4,915
+
+
+
+
+
+Travel to Ethiopia and visit the unique landscapes and cultures of this almost...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nairobi to Addis Ababa
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR4,113
+
+
+
+
+
+Travel to Africa and be immersed in traditional cultures, spot Africa's Big Five on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Omo to Addis
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,733
+
+
+
+
+
+Go off the beaten track on this immersive Ethiopian adventure, visiting remote tribes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Ethiopia tour reviews
+
+
+Our Ethiopia trips score an average of
+4.5 out of 5
+based on 12 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Incredible Ethiopia,
+September 2017
+
+Victoria Harrington
+
+Intrepid is my preferred travel company - always well organised, great leaders and best value!
+
+Review submitted 22 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Incredible Ethiopia,
+October 2017
+
+Iain Lyon
+
+Hiking at altitude along mountain paths requires a good level of fitness.
+There are beautiful things and landscapes to see in Ethiopia very worthwhile.
+This trip involves some very long drives.
+
+Review submitted 21 Oct 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Ethiopia trip reviews
+
+Our Ethiopia trips score an average of
+4.5 out of 5
+based on 12 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Ethiopia
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 02, 2017
+
+
+
+Why Ethiopia is Africa’s next must-visit...
+
+
+
+
+
+
+Ethiopia was going to be unlike anywhere else I'd seen in Africa — and I hadn't...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 19, 2017
+
+
+
+6 creepy natural wonders from around the world
+
+
+
+
+
+
+These spooky natural wonders of the world are all beautiful in their own weird way...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 16, 2017
+
+
+
+Why you should experience Ethiopia’s Timket...
+
+
+
+
+
+
+We jostled with the locals into the procession and followed the congregation. The...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 16, 2017
+
+
+
+The top destinations for travel in January
+
+
+
+
+
+
+From the jungles of Central America to the beaches of Southeast Asia, here's where...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+10 surprising facts about Ethiopia
+
+
+
+
+
+
+Diverse landscapes, a kaleidoscope of cultures and one of the world's fastest...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 21, 2017
+
+
+
+A walk in the wild: one traveller’s hike...
+
+
+
+
+
+
+The intriguing stories of Rastafarianism and the origins of humanity, unusual...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 24, 2016
+
+
+
+On trend: 5 ways travel is going to change in 2017
+
+
+
+
+
+
+Another year has nearly come and gone, but here at Intrepid HQ we’re gazing into ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2016
+
+
+
+7 hot travel spots to check out in 2017
+
+
+
+
+
+
+Featuring the hottest – and coolest – destinations on earth. How many have you be...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 18, 2016
+
+
+
+Ethiopia just took the running world by storm....
+
+
+
+
+
+
+Proud Ethiopians are cheering loud around the world. We think it's time the travel...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 11, 2014
+
+
+
+8 African snacks you’ve just got to try
+
+
+
+
+
+
+In Africa, most action takes place on the streets and roadsides – people hawking...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethiopia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Omo Valley
+
+
+
+
+Get acquainted with the customs and culture of remote Omo Valley tribes
+
+
+
+
+
+
+Omo to Nairobi, 16 days
+
+
+
+
+
+
+
+
+Omo to Addis , 15 days
+
+
+
+
+
+
+
+
+Nairobi to Omo, 16 days
+
+
+
+
+
+
+
+
+
+
+
+Simien Mountains
+
+
+
+
+Trek through the dramatic scenery of the Simien Mountains
+
+
+
+
+
+
+Ethiopian Highlands, 21 days
+
+
+
+
+
+
+
+
+Incredible Ethiopia, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Addis Ababa
+
+
+
+
+Taste sweet Ethiopian coffee in Addis Ababa
+
+
+
+
+
+
+Ethiopian Highlands, 21 days
+
+
+
+
+
+
+
+
+
+
+
+
+Ethiopia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Addis Ababa (population 2.2 million)
+
+Population:
+
+82 million
+
+Language:
+
+Amharic
+
+Currency:
+
+ETB
+
+Time zone:
+
+(GMT+03:00) Nairobi
+
+Electricity:
+
+Type C (European 2-pin) Type E (French 2-pin, female earth) Type F (German 2-pin, side clip earth) Type L (Italian 3-pin)
+
+Dialing code:
+
++251
+
+
+
+
+
+
+
+
+
+Best time to visit Ethiopia
+
+
+
+
+
+
+×
+
+Best time to visit Ethiopia
+
+
+
+
+Travellers can expect plenty of sunshine while visiting Ethiopia. Temperatures are typically warm and balmy, although they can vary greatly with altitude. The lowland areas tend to be more hot and humid, while the highlands offer cooler temperatures. Rain is common from July to September but otherwise, sunshine prevails for the rest of the year.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Landlocked Ethiopia is bordered by
+Kenya
+, Sudan, South Sudan, Somalia, Eritrea and
+Djibouti
+. Home to some of the most stunning and varied landscapes in
+Africa
+, Ethiopia is easily the most mountainous country in Africa, with the Simien and Bale ranges providing the highest peaks. The iconic Blue Nile (which is considered holy by locals) originates in Ethiopia's Lake Tana and runs through the country into neighbouring Sudan.
+
+
+
+
+
+
+
+
+Top 5 Must-See Sights of Ethiopia
+
+
+
+
+
+
+×
+
+Top 5 Must-See Sights of Ethiopia
+
+
+
+
+1. Churches of Lalibela
+
+These miraculous, ancient churches cut from rock are the main reason travellers journey to the town Lalibela. Surrounded by myth and legend, these unique churches have stood for centuries and remain a sacred site for Ethiopians.
+
+2. Aksum Ruins
+
+This UNESCO World Heritage-listed archaeological site is home to some of the most impressive ancient ruins in the world. Located in the north of Ethiopia and featuring obelisks, royal tombs and remnants of palaces, fables suggest that this was once the home of the Queen of Sheba.
+
+3. The Palace of Fasiladas
+
+The city of Gonder is home to many incredible buildings, but the restored Palace of Fasiladas counts among the most impressive. Located within the Royal Enclosure, this castle possesses an intriguing fusion of Portuguese, Indian and Moorish decorative styles.
+
+4. Blue Nile Falls
+
+Meaning "smoking water" in Amharic, these legendary falls are best seen during the rainy season when the water levels swell, creating a thunderous amount of white water.
+
+5. Debre Berhan Selassie Church
+
+This unusual little church located in Gonder was built in the 17th century and features an elaborately decorated interior like no other - more than 100 winged cherubs are painted on the ceiling. A must see when in Ethiopia.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Beneath the Lion's Gaze
+
+Maaza Mengiste
+
+Sweetness in the Belly
+
+Camilla Gibb
+
+Greater Ethiopia: The Evolution of a Multiethnic Society
+
+Donald N. Levine
+
+Chameleon Days: An American Boyhood in Ethiopia
+
+Tim Bascom
+
+Chains of Heaven
+
+Philip Marsden
+
+
+
+
+
+
+
+
+Ethiopia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Ethiopia?
+
+
+
+
+
+
+
+
+
+Most nationalities require a visa for entry to Ethiopia. Please see this website to find your closest embassy or consulate: http://www.embassiesabroad.com/embassies-of/Ethiopia. If you are flying into Addis Ababa you can obtain a visa on arrival. You'll need two passport photos and approximately US$40. You may be asked for proof of a return ticket - please carry your tour notes as proof that you are leaving overland. If you are entering at any border other than Addis Ababa airport you MUST obtain your visa in advance.
+
+
+
+
+
+
+
+Is tipping customary in Ethiopia?
+
+
+
+
+
+
+
+
+
+Tipping isn’t mandatory in Ethiopia but is considered polite in restaurants and bars. It's up to the individual to choose to tip or not but rounding up a bill for good service or leaving 1-2 birr is appropriate.
+
+
+
+
+
+
+
+What is the internet access like in Ethiopia?
+
+
+
+
+
+
+
+
+
+Internet cafes can be found in cities and large towns but less so in rural and remote places.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Ethiopia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is quite good in Ethiopia's urban areas, but less so in rural, remote and mountainous areas. Ensure you have global roaming activated before leaving home if you wish to use your mobile phone.
+
+
+
+
+
+
+
+What are the toilets like in Ethiopia?
+
+
+
+
+
+
+
+
+
+Squat/pit toilets are the standard in Ethiopia, except for western-style flushable toilets that are sometimes available in large hotels and other modern buildings. Carry your own supply of soap and toilet paper, as this is rarely provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Cup of coffee = 10-15 ETB
+Bottle of beer = 30-40 ETB
+Simple lunch = 40-60 ETB
+Nice dinner in a restaurant = 150-200 ETB
+
+
+
+
+
+
+
+Can I drink the water in Ethiopia?
+
+
+
+
+
+
+
+
+
+Tap water isn't considered safe for tourists to drink. For environmental reasons, try to avoid buying bottled water. Ask your leader and accommodation provider for local advice on where drinking water can be accessed. Also, avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Ethiopia?
+
+
+
+
+
+
+
+
+
+Credit cards are accepted only by a few large hotels in Addis Ababa as cash is the main mode of payment in Ethiopia. Ensure you have adequate cash to cover purchases not able to be made on credit.
+
+
+
+
+
+
+
+What is ATM access like in Ethiopia?
+
+
+
+
+
+
+
+
+
+There are a few ATMs that accept foreign cards in Ethiopia, mainly in Addis Ababa and other large cities. Withdrawing cash from ATMs can't necessarily be relied on, so carrying foreign currency (like US dollars) is recommended.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Ethiopia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Ethiopia?
+
+
+
+
+
+
+
+
+
+7 Jan Genna / Ethiopian Christmas
+
+19 Jan Timket / Epiphany
+
+2 Mar Adwa Victory Day
+
+14 Apr Siklet /Ethiopian Good Friday
+
+16 Apr Fasika / Ethiopian Easter
+
+1 May Labour Day
+
+5 May Arbegnoch Qen / Patriots' Victory Day
+
+28 May Dergue Downfall Day / National Day
+
+26 Jun Id Al-Fetir / End of Ramadan
+
+11 Sep Enkutatash / Ethiopian New Year
+
+2 Sep Id Al-Adaha / Feast of Sacrifice
+
+27 Sep Meskel / Discovery of the True Cross
+
+1 Dec Mawlid / The Prophet's Birthday
+
+Please note these dates are for 2017. For a current list of public holidays in Ethiopia go to:
+http://www.worldtravelguide.net/ethiopia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Ethiopia
+
+Be considerate of Ethiopia’s customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

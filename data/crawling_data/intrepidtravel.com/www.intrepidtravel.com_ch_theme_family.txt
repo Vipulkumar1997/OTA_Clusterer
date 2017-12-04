@@ -1,0 +1,3571 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Family Holidays & Tours | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Family Adventures
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Family
+
+
+
+
+Your sense of adventure doesn’t disappear just because you have kids, so why should your family holidays be limited to the usual suspects?
+
+We’ve developed a better style of family travel, one that favours real life experiences over the virtual ones. Start with kid-friendly hotels (swimming pool included), and then sprinkle in a tuk-tuk ride through the streets of Bangkok, a football match with Maasai tribesmen or sailing down the Nile in an Egyptian felucca. Who needs a ball pit and a buffet when you’ve got the whole world to play in?
+
+
+
+
+
+
+
+New family tours
+
+
+
+
+
+
+
+
+
+
+Croatia Family Holiday
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,025
+
+
+
+
+
+Take your family on a Croatian adventure following the Dalmatian coast from Dubrovnik...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bali Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,275
+
+
+
+
+
+Treetops, rapids, bikes and beaches – find it all as you travel to Ubud, Candi Dasa,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Italy Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,880
+
+
+
+
+
+Visit Venice, Cinque Terre, Pisa and Rome on an exciting family holiday through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mexico Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,880
+
+
+
+
+
+Travel from Playa del Carmen through to Merida, Valladolid and Tulum on a Yucatan...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanzania Family Safari
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,930
+
+
+
+
+
+Safari with your family in East Africa on an unforgettable Kenya and Tanzania adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Family Safari with teenagers
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,410
+
+
+
+
+
+Take your family to Victoria Falls, Okavango River and Chobe National Park on this teen...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Why do an Intrepid family tour?
+
+
+
+
+Just for families:
+The clue’s in the title. These trips are for families only (including any aunts, uncles or cousins who’d like to come along, of course). As long as you’re travelling with a child under the age of 18, you’re a family in our eyes. Plus, unlike other travel companies, children aged 17 years and younger receive a 10% discount off the price of their trip
+
+
+
+
+
+Travel with other families:
+Travelling the Intrepid way is a bit like travelling with a group of friends. Made up of 3-5 like-minded families, the kids tend to hit it off on these trips straight away, allowing you to enjoy some well earned R&R. We often find the whole family ends up making friendships with people from all over the world, staying in touch long after the adventure ends.
+
+
+
+
+Single parents:
+Being a single parent is challenging enough. Add in the difficulties of organising an international trip and the task becomes downright scary. But not with Intrepid. Not only have we taken care of all the logistics (accommodation, transport, tickets, activities), but your kids will have a ready-made pack of fellow explorers on standby, leaving you with more time to actually enjoy your holiday.
+
+
+
+
+
+Small group sizes:
+Intrepid’s family group sizes are small enough to avoid the crowds and reach some out-of-the-way places, but big enough for a good social mix. Our average group size of 10 allows us to hop aboard local boats, buses or trains, eat at friendly, family-run restaurants and kick back in traditional accommodation and homestays.
+
+
+
+
+
+
+Action packed:
+We know the biggest challenge on a family trip is keeping the kids entertained. So we’ve planned in advance. Nearly all of our hotels feature pools, and each day has a great mix of action-packed adventure and flexible free time. Your local leader can also suggest activities based on your kid’s hobbies or school curriculum.
+
+
+
+Where can we take a family adventure?
+
+
+
+
+
+
+
+
+
+Europe & Turkey
+
+
+
+
+
+
+
+
+
+
+Asia & Himalayas
+
+
+
+
+
+
+
+
+
+
+Africa & Middle East
+
+
+
+
+
+
+
+
+
+
+The Americas
+
+
+
+
+
+
+
+
+A taste of what's in store...
+
+Each of Intrepid's family trips has been built with a smooth blend of action-packed activities and flexible family time, just the way we like it. Want to know the sort of adventures you can expect with us? We’ve picked out a few of our favourites.
+
+
+
+
+
+
+
+
+
+
+ASIA & THE SUBCONTINENT
+
+Search for tigers in Ranthambhore National Park
+
+Welcome to the Jungle Book, Intrepid style. Join local trackers and search for Bengal tigers among the trees.
+
+
+
+
+
+
+
+
+
+
+EUROPE & TURKEY
+
+Sail a yacht along the Amalfi coast
+
+One classic 50-foot yacht, you, the kids and the blue, blue waters of the Amalfi Coast.
+
+
+
+
+
+
+
+
+
+
+AFRICA & THE MIDDLE EAST
+
+Meet the Bushmen of the Kalahari
+
+Learn traditional hunting techniques, pick up some hand-made handicrafts and explore nearby Deception Valley.
+
+
+
+
+
+
+
+
+
+
+THE AMERICAS
+
+Train through the Peruvian Andes
+
+Welcome to the Sacred Land of the Incas, where Quechua villages still cling to mountain slopes and stone ruins dot the peaks.
+
+
+
+
+
+
+
+FAQs
+
+Travelling companions
+
+
+
+
+
+
+
+
+1. Is it only parents and children that are allowed on family trips?
+
+
+
+
+
+
+
+
+
+Our family trips are just that – for the whole family. That means you don’t have to leave aunties, uncles and grandparents at home. As long as there is at least one child under the age of 18 travelling with you, you’re a family group. Older families should check out our regular Intrepid adventures.
+
+
+
+
+
+
+
+2. What’s the minimum age for children on a trip?
+
+
+
+
+
+
+
+
+
+Most of our trips have a minimum age of either 5 or 11 years old. Trips with a minimum age of 5 are suitable for all ages, and we can even tell you in advance the age of kids already booked on that departure. Most of our travellers are between the ages of 8 and 18 years old.
+
+
+
+
+
+
+
+3. Are there any restrictions on teenage trips?
+
+
+
+
+
+
+
+
+
+Our teenage trips have a minimum age of 11 and offer more active and challenging itineraries designed especially for older children. If you also have younger children, we will look at allowing them onto these trips on a case-by-case basis, depending on the activities on the trip and their ages.
+
+For more information, contact one of our travel experts or your travel agent.
+
+
+
+
+
+
+
+Food
+
+
+
+
+
+
+
+
+1. My child is a fussy eater. Will there be special meals for kids?
+
+
+
+
+
+
+
+
+
+Grassroots travel means that we try to do everything the local way, and that means eating at local restaurants. The food is always freshly made and delicious, and there is generally a great variety on offer.
+
+There are not always specific kids’ menus available, so if you feel your children might be hesitant to try the food, why not cook some of the local dishes at home before you go (and maybe take along snacks that you know they like).
+
+
+
+
+
+
+
+2. What if my child has a food allergy?
+
+
+
+
+
+
+
+
+
+We try to accommodate all food requirements, so make sure you advise us at the time of booking. Although we endeavour to have alternative options available, it may be difficult in some restaurants to determine if foods are 100% allergen-free. We advise that you take the same precautions as you would when eating out at a restaurant in your home country, and maybe take along snacks that you know are safe as a precaution.
+
+
+
+
+
+
+
+3. Is there always a vegetarian option?
+
+
+
+
+
+
+
+
+
+There is usually a vegetarian option available, and most picnic and buffet-style meals will have lots of salads, rice dishes and breads. Unlike big veggie destinations like India or South-East Asia, some countries do not traditionally offer a wide range of vegetarian options. Please talk to our travel experts if in doubt.
+
+
+
+
+
+
+
+Accommodation
+
+
+
+
+
+
+
+
+1. What standard can I expect the accommodation to be?
+
+
+
+
+
+
+
+
+
+Accommodation is clean and simple. You'll mainly stay in small, locally run, 2-3 star hotels and guesthouses that reflect the character of the area. Generally these will be a twin room with private facilities. Sometimes you'll stay in larger, more comfortable hotels or occasionally rustic accommodation with basic facilities. We use a variety of accommodation on most trips, chosen for their value for money, location and atmosphere. We also try and incorporate unique accommodation experiences, such as a night with a local tribe or sleeping under the stars in the desert.
+
+
+
+
+
+
+
+
+
+2. Will my family sleep in the same room?
+
+
+
+
+
+
+
+
+
+Families of two will always get a twin room to themselves. For groups of three we will try our best to find a triple room. Please be aware that in some places triple rooms are in short supply. This means, in practice, a triple room will often simply be a twin room with a mattress on the floor or a further bed squashed in. Where it’s impossible to provide a triple room, you can decide which of your party takes a separate single room.
+
+For families of four or more we will most likely find two twin rooms. Where possible, we’ll aim put you in a quadruple room. While we will do our very best to ensure that families are roomed close together (in some cases, we can arrange adjoining rooms), we can’t guarantee this. Most family holidays occur during peak season and we sometimes have little or no control over where your rooms will be.
+
+
+
+
+
+
+
+3. Will there be a swimming pool?
+
+
+
+
+
+
+
+
+
+Swimming is always a big draw for kids, so we try to use hotels with pools where possible. Depending on how far off the beaten track the itinerary wanders, there may not be hotels with pools nearby, but we’ll try to find you a freshwater lake or secluded beach where you can cool off.
+
+
+
+
+
+
+
+4. Can children from different families share rooms if they like?
+
+
+
+
+
+
+
+
+
+As the dynamic of the kids’ group evolves, you may find that they want to share rooms with their friends instead of siblings etc. Once keys have been allocated, we are happy for parents to decide on the rooming arrangements of the kids as they feel suitable.
+
+
+
+
+
+
+
+5. Does the hotel have TV/Wi-Fi/a restaurant?
+
+
+
+
+
+
+
+
+
+The amenities for each hotel we use are listed in the detailed trip notes that are included with each trip.
+
+
+
+
+
+
+
+Activities
+
+
+
+
+
+
+
+
+1. Can children opt out of activities if they like?
+
+
+
+
+
+
+
+
+
+Activities are definitely optional, and it may be possible to just watch, stay at the hotel or do some independent exploring. Either way, parents are responsible for their child at all times, so you will need to supervise if a child wants to opt out.
+
+
+
+
+
+
+
+2. Do we need specialist footwear for our children?
+
+
+
+
+
+
+
+
+
+We often cover a lot of ground, especially on our family treks where terrain can be challenging and steep. When rain is a possibility, you will all need waterproof footwear with a good grip. For any trips that aren’t specifically trekking, then a comfortable, sturdy pair of shoes such as trainers or sneakers will work fine.
+
+
+
+
+
+
+
+3. Do the itineraries cater specifically for children?
+
+
+
+
+
+
+
+
+
+Our family experts, many of whom are parents, have specifically crafted the itineraries to make sure they run at a family-friendly pace and keep travelling time to a minimum. Plenty of free time is included for families to participate in activities that suit their interests, and group activities are designed to work around meal times.
+
+
+
+
+
+
+
+4. Are there activities aimed at adults?
+
+
+
+
+
+
+
+
+
+Our activities are aimed at all ages, and we encourage every member of the family to get involved.
+
+
+
+
+
+
+
+Group leaders
+
+
+
+
+
+
+
+
+1. Are group leaders trained to work with children?
+
+
+
+
+
+
+
+
+
+Yes – our Family Adventure leaders are all experienced in working with children. They are friendly, organised and have a great rapport with the kids. They undergo extra rigorous training to make sure they can work well with the dynamic of the younger group members.
+
+
+
+
+
+
+
+2. Do group leaders provide childcare?
+
+
+
+
+
+
+
+
+
+Although we employ special leaders that have relevant experience in looking after children, they are not employed to provide childcare. Leaders are present to handle all logistics and make sure that your trip runs smoothly, but parents must be responsible for children at all times.
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+
+
+1. Are western-like medical facilities available during the trip?
+
+
+
+
+
+
+
+
+
+In most countries we travel to there are private, western-style hospitals or medical centres. If you have any medical issues, mention them to your leader (who in turn can contact the local operational office for advice or assistance), but also make sure to contact your insurance provider.
+
+The insurance provider will offer assistance, advice and usually have a recommended medical centre or hospital that has English-speaking medical staff.
+
+
+
+
+
+
+
+2. Should I bring a first aid kit?
+
+
+
+
+
+
+
+
+
+While not required, it’s always good to be prepared for any little bumps or bruises along the way. Without going overboard, we recommend bringing a supply of Band-Aids and disinfectant, some paracetamol, motion sickness tablets (if necessary), hydrolytes (or something similar) and any personal medical items that might be needed throughout the duration of the trip.
+
+
+
+
+
+
+
+3. What about prescription medicine?
+
+
+
+
+
+
+
+
+
+If a family member is travelling with prescription medicine, it is recommended that they travel with extra in the case of loss or if it is spoilt or damaged.
+
+We’d also recommend carrying a doctor’s letter or prescription with you and advising the Leader on Day 1 of the trip of any medical conditions. If you’re travelling with any medicine that needs to be refrigerated, you must let our sales team know at the time of booking.
+
+
+
+
+
+
+
+4. Do we need vaccinations and insurance?
+
+
+
+
+
+
+
+
+
+Please contact your local doctor or specialist traveller’s vaccination centre at least 60 days prior to departure. They can give you all the information about what specific vaccinations should be taken prior to your trip.
+
+All families must have comprehensive travel insurance to cover them in the event of illness or medical emergency, preferably a policy that includes repatriation. You’ll need to provide details of insurance to your leader on Day 1 of the trip.
+
+
+
+
+
+
+
+5. How safe is the transport?
+
+
+
+
+
+
+
+
+
+We regularly check all of our vehicles to ensure that they adhere to strict safety requirements. With the exception of a few buses in Burma, all Intrepid vehicles are fitted with seatbelts.
+
+
+
+
+
+
+
+6. How safe are the activities?
+
+
+
+
+
+
+
+
+
+When it comes to participating in organised activities, we use and regularly audit trusted operators who are well aware of the necessary safety equipment and procedures, including supplying correctly fitting life-jackets and helmets.
+
+
+
+
+
+
+
+7. Can we drink the water?
+
+
+
+
+
+
+
+
+
+Your group leader will be able to offer advice on a case-by-case basis. If you are advised not to drink groundwater, we recommend that you pack water purification tablets rather than buying bottled water (it’s better for the environment).
+
+
+
+
+
+
+
+8. What are the toilet facilities like?
+
+
+
+
+
+
+
+
+
+All of the hotels we use will have western-style flushing toilets. In some rural areas, please be advised that toilet facilities may be of a more rudimentary standard than your family enjoys at home. In these circumstances we recommend carrying hand sanitation products. Remember – it’s all part of the experience!
+
+
+
+
+
+
+
+
+
+Reviews
+
+
+
+
+
+
+
+
+
+
+
+Borneo Family Adventure,
+July 2017
+
+Amanda Baker
+
+The Borneo Family Adventure was a fantastic trip for the whole family and had something for everyone. We all loved the wildlife, and  the kids enjoyed being able to play with the other children.  A good mix of culture, history and wildlife in a beautiful  country with friendly people.
+
+Review submitted 05 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Family Holiday ,
+September 2017
+
+Amanda Bater
+
+This was the most incredible family holiday, we had a fabulous guide, made life long friends and a great adventure along the way. Highly recommended!! 10/10 thank you intrepid and Vinh Bui our super guide, who really is a true professional with a great sense of fun too.
+
+Review submitted 30 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Family Holiday ,
+September 2017
+
+Lee Hodge
+
+A great trip for families! We traveled with our daughters (aged 7 and 9) and absolutely loved this holiday. Our guide, Hoc, was fantastic - knowledgeable, helpful and always considerate of the children and how much they could do in a day (which fortunately turned out to be ALOT). Whilst the days were long, we saw and did so much in 13 nights. Hoi An and the Mekong Homestay were stand-outs for us, but the entire trip is well worth doing. We traveled with 4 families (8 adults, and 8 kids, ranging in age from 7-15) and in the end felt like one big family with the adults and kids all looking out for eachother. We're researching our next holiday now, and will do another Intrepid Family trip, as this one was a holiday we'll be talking about for a long time.
+
+Review submitted 29 Oct 2017
+
+
+
+
+
+
+
+
+
+
+Read more about family tours
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+Malta: Europe’s surprising best destination for...
+
+
+
+
+
+
+From outdoor excursions to indoor activities, Malta offers a variety of fun...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 11, 2017
+
+
+
+Travelling to Cambodia with my father and...
+
+
+
+
+
+
+It wasn’t until I travelled to Cambodia as an adult with my father that I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 25, 2016
+
+
+
+Want to travel with the family? 8 tips from...
+
+
+
+
+
+
+The Lorrimers are well and truly living the dream. In December 2015, young parents...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 01, 2016
+
+
+
+Surviving Singapore with my vegan teenager
+
+
+
+
+
+
+No surprises - teenagers suck, but I look forward to travelling with mine again,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 25, 2016
+
+
+
+Family travel 101: what to consider before...
+
+
+
+
+
+
+Despite what the cynics say, having a family doesn’t snuff out your sense of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 21, 2016
+
+
+
+Travelling with my parents in Australia’s Red...
+
+
+
+
+
+
+We paid for our tickets to enter Uluru National Park, sure, but we never really...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

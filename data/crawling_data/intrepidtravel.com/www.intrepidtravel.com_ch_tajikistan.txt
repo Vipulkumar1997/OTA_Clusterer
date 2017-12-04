@@ -1,0 +1,3302 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tajikistan       Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tajikistan                         tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Tajikistan
+
+
+
+Whatever the yardstick – geographic, linguistic, cultural, historical, economic – Tajikistan’s a country that revels in the obscure.
+
+
+Most locals speak Tajik, a modern Persian dialect in a region overwhelmingly Turkic; the landscape is absurdly altitudinous, its borders a result of arbitrary Soviet demarcations; the economy is propped up by overseas migrant remittances and illicit drug trafficking; and archaeological attractions run the gauntlet of Buddhist stupas, Silk Road bazaars and Zoroastrian ruins... What’s not to intrigue? Culturally captivating and naturally arresting, Tajikistan – arguably the Stans’ least developed land – is as enigmatic as countries come.
+
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+Terms & Conditions
+
+
+
+
+
+×
+
+
+
+20% OFF lesser-known destinations
+
+Book a trip before 18 December 2017 (departing between 1 January 2018 and 31 December 2018), get 20% OFF and we will donate another 20% to The Intrepid Foundation.
+
+
+
+
+1. Save 20% on new bookings to lesser-known destinations only departing between 1 January 2018 and 31 December 2018.
+2. Trips must be booked between 20 November 2017 and 18 December 2017.
+3. Offer only applies to the trips below:
+AMCW, BMXF, CJSO, HPSL, TIST, GGSX, HHSI, XMSG, ZMSB, YGSD, WMSZ, HJKB, KDOH, WMST, TESA, KFST, YBSM.
+4. Customers must quote the promo code 53253.
+5. This offer is not combinable with any other offer including loyalty.
+6. Offer does not apply to departures already discounted (can’t apply it via checkout).
+7. Intrepid Travel will donate 20% of the sold trip to the Intrepid Foundation.
+8. Trips must be booked between 20 November 2017 and 18 December 2017. Trip must depart between 1 January 2018 and 31 December 2018.
+9. Offer only applies to the land portion of the trip and cannot be applied to flights, insurance, or any additional services.
+10. The offer applies to Intrepid & Dragoman operated trips only. Third party operators can be found in the trip notes. Please note that the following are excluded: Polar voyages, Expeditions, Charity Treks, Short Break Adventures, Bite-Size Breaks, Urban Adventures and Dragoman trips to Bhutan, Rio Carnival and the Dragoman Family trips.
+11. A deposit of CHF300, GBP200, EUR275 and ZAR4000 is required at the time of booking, and full payment is required at least 60 days prior to travel.
+12. This sale is only valid for residents of Europe and Africa.
+13. There will be no extensions to the travel, booking or payment periods listed above.
+14. Intrepid Travel's Booking Conditions will also apply to the trip booked, and it is imperative that you examine those conditions before booking with Intrepid Travel. The most up to date Booking Conditions are accessible at http://www.intrepidtravel.com/booking-intrepid/booking-conditions.
+15. The trip is subject to availability and confirmation by Intrepid Travel at time of booking.
+
+
+Close
+
+
+
+
+
+
+Top  Tajikistan                         travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+9 May 2018
+
+Tajikistan Discovery
+
+
+
+Tajikistan Discovery
+Bishkek to Dushanbe
+
+
+
+
+
+
+
+
+
+×
+
+Tajikistan Discovery
+
+
+
+
+
+
+
+
+
+13
+
+
+FR2,095
+
+
+FR1,676
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our  Tajikistan                         trips
+
+
+
+
+
+
+
+
+
+Tajikistan Discovery
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,676
+
+
+
+
+
+Discover a true adventure on the roads of rugged and remote Tajikistan. Visit the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Tajikistan                         tour reviews
+
+
+Our  Tajikistan                         trips score an average of
+3.5 out of 5
+based on 4 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Tajikistan Discovery,
+September 2017
+
+Peter Burbridge
+
+This awesome trip took in stunning, truly stunning, scenery across the mountains and in the Wakhan valley. Sasha (driver) and Jam (guide) were both really good and looked after us well. The accommodation really is very basic but allows an exceptional itinerary. Tajik loos are atrocious. I hope you like lamb. I loved this trip and dream of the Panj Valley on the Afghan border.
+
+Review submitted 11 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Tajikistan Discovery,
+June 2017
+
+Stuart Forster
+
+If remote places fascinate you, check this tour out. Bureaucracy: Kyrgyzstan - no visa; Tajikistan - on line within 24 hours in my case. Bishkek and Dushanbe are modernising capital cities with new public buildings and quite good restaurants. Osh is a pleasant market town. The Pamirs are starkly desolate. The Panj River marking the border of Tajikistan with Afghanistan varies from broad and braided to rapids in steep narrow gorges flanked by high mountains. The road is an adventure in itself at times. We stayed in guesthouses run by the hospitable people making a living in this extreme region. Our Tajik guide, Jamshed helped us interact with local people and learn about their lives. There is some history with the odd fort and temple too. The conditions are sometimes challenging (See the Trip Notes) but I pleased to have done this journey.
+
+Review submitted 23 Jul 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Tajikistan                         trip reviews
+
+Our  Tajikistan                         trips score an average of
+3.5 out of 5
+based on 4 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on  Tajikistan
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 16, 2017
+
+
+
+9 alternative travel spots for 2018
+
+
+
+
+
+
+Here at Intrepid we’re all about tackling the negative impact of over-tourism. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tajikistan                         travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dushanbe, Tajikistan
+
+
+
+
+Discover Tajikistan's diverse pre-Islamic cultural heritage in the National Museum
+
+
+
+
+
+
+Tajikistan Discovery, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Wakhan Corridor, Tajikistan
+
+
+
+
+Take in amazing views of the Pamirs and the Hindu Kush while traversing the corridor
+
+
+
+
+
+
+Tajikistan Discovery, 13 days
+
+
+
+
+
+
+
+
+
+
+
+Karakul Lake, Tajikistan
+
+
+
+
+Sit alongside glacial Karakul Lake, appearing oasis-like out of the dust of the Karakoram Highway
+
+
+
+
+
+
+Tajikistan Discovery, 13 days
+
+
+
+
+
+
+
+
+
+
+
+
+Tajikistan                         holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Dushanbe
+
+Population:
+
+7,900,000
+
+Language:
+
+Tajik, Russian
+
+Time zone:
+
+
+
+Electricity:
+
+Type C (European 2-pin)
+
+Dialing code:
+
+
+
+
+
+
+
+
+
+Best time to visit Tajikistan
+
+
+
+
+
+
+×
+
+Best time to visit Tajikistan
+
+
+
+With more than fifty per cent of the country sitting at over 3,000 metres above sea level, Tajikistan’s weather wavers between extremes. Pay a visit in winter (November–February) and you’ll be greeted by daytime temperatures that can dip below freezing, particularly along the Pamir Highway. Rock up during summer (June–September) and temperatures will likely climb to over 40°C (and be accompanied by dust storms) – though this is the best time for a trip into the mountains. Otherwise spring (March–May) or autumn (September–November) is the most pleasant times to travel. Light rains may still fall on occasion, but the days are sunny and warm, and the skies clear.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+While evidence of human habitation has been found in the region dating back as far as 4,000 BC, Tajikistan as we now know it only came into formation with the break-up of the Soviet Union in 1991. Prior to this, the region – defined by extreme isolation and testing climes – principally existed as one sprawling swathe of independent tribal lands and villages, regularly getting overrun and ruled by a series of empires, Achaemenid, Kushan, Arab, Tibetan and Mongolian, until Imperial
+Russia
+moved in.
+
+With the 1917 overthrow of Tsarist autocracy, a Central Asian independence movement called the basmachi sought to make the most of the disarray by waging war against the Bolsheviks to no avail – in 1924 the Tajik Autonomous Soviet Socialist Republic was created as a part of Uzbekistan and the collectivisation of agriculture and implementation of other communist policies soon followed. The Tajiks suffered greatly under Soviet rule in the following decades, being targeted in purges, conscripted into the Soviet Army in World War II and lagging behind the other Soviet Republics in terms of industry and education. So when the Soviet Union collapsed in 1991, it looked like happy days were afoot.
+
+Unfortunately, this wasn’t the case. Split by various clan loyalties into numerous fighting factions, the country very soon plunged into civil war. By the time Emomalii Rahmon came to power in 1994, the number killed was estimated at over 100,000 and refugees numbered around 1.2 million. While his prime ministership and his party’s handling of democratic elections have not been without criticism, Rahmon has retained power through two successive elections.
+
+
+
+
+
+
+
+
+Top 5 Traditional Tajikistani Fashions
+
+
+
+
+
+
+×
+
+Top 5 Traditional Tajikistani Fashions
+
+
+
+Top 5 Traditional Tajikistani Fashions
+
+1. Traditional Dress
+
+Having been segregated from the rest of Tajik society by bad weather and roads for much of their history, the people of the Pamir Mountains have developed a certain style of dress that can still be seen in the region. Among Pamiri women, this amounts to a flowing kaftan-like costume, usually white and narrowing at the waste, with sleeves closely fitted to the wrist. A red skullcap, called a toki, typically completes the ensemble.
+
+2. Russian Dress
+
+When the Soviets came to town, elements of Russian fashion were gradually adopted and incorporated into Tajikistani culture. Western-style dress is now fairly common among the younger generations in urban areas, but you’re bound to spot plenty of women garbed in colourful loose-fitting dresses highly decorated and elaborately embroidered. A kerchief or shawl usually goes on the head.
+
+3. The Monobrow
+
+Get ready, you might need to read this one again: monobrows are in. Yep, that’s right: monobrows. And not just among the men either. An emblem of prestige and beauty, they’re upheld as a sign of feminine purity, and women not fortunate enough to sprout one naturally will sometimes resort to daubing the space between their eyes with a local herb called usma. So don’t stress if you forget to pack the tweezers.
+
+4. The Toki
+
+Tajik men and women alike are big fans of the toki: a type of cap that varies in design between genders and regions. Among northern Tajiks, the crown of the cap can be flat, boxed or conical, whereas that of mountain dwellers and plainsmen more closely resembles a skullcap.
+
+5. The Calf Cotton
+
+Head into the Pamir Mountains and you’ll probably spot a few insanely fit-looking old dudes with long strips of cotton wound around their calves. This isn’t so much a fashion statement as a practical measure: tightly bound calves adds extra muscle support when traipsing up and down mountains. Give them a nod of respect. They’ve probably ambled in this morning from that distant peak way over yonder.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Tajikistan’s Difficult Development Path
+
+Martha Brill Olcott
+
+Social and Economic Change in the Pamirs (Gorno-Badakhshan, Tajikistan)
+
+Frank Bliss
+
+Land Beyond the River: The Untold Story of Central Asia
+
+Monica Whitlock
+
+
+
+
+
+
+
+
+Tajikistan                         travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Tajikistan?
+
+
+
+
+
+
+
+
+
+TAJIKISTAN VISA
+
+All visitors to Tajikistan require a visa. You will need to obtain your visa & Gorno-Badakshan Autonomous Oblast (GBAO) permit online at the following link:
+https://www.evisa.tj/
+
+Below is the information required for filling out the application form:
+
+GBAO Permit - Yes
+
+Purpose of visit type - Tourism
+
+Purpose of visit - Tourism sightseeing or Tourism vacation
+
+Group identifier - leave blank
+
+Date of arrival - Day 5 of your trip
+
+Address in Tajikistan - This will be supplied at time of booking
+
+Upload your scanned, colour passport copy (no other documents are required) and submit the form for payment. You will then receive a link to download your e-visa. Please ensure you print a copy to bring with you on your trip.
+
+
+
+
+
+
+
+Is tipping customary in Tajikistan?
+
+
+
+
+
+
+
+
+
+In restaurants and eateries, yes. A 10 per cent gratuity is the standard for a decent meal and adequate service.
+
+
+
+
+
+
+
+What is the Internet access like in Tajikistan?
+
+
+
+
+
+
+
+
+
+Internet cafes exist in the bigger cities, though don’t expect wireless connections available in hotels or cafes.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Tajikistan?
+
+
+
+
+
+
+
+
+
+Roaming agreements are in place with most major international phone carriers, though coverage is mostly limited to urban areas.
+
+
+
+
+
+
+
+What are the toilets like in Tajikistan?
+
+
+
+
+
+
+
+
+
+Toilets in Tajikistan run the gamut of not-too-bad-at-all western-style toilets in plusher hotels and restaurants, very minimalist drop toilets everywhere else and ‘jeepers-creepers!’ in rural areas. Have emergency loo-paper with you wherever you go.
+
+
+
+
+
+
+
+What will it cost for a…
+
+
+
+
+
+
+
+
+
+domestic 0.5 litre beer from a supermarket – 4.50 SM
+cappuccino in a restaurant – 5.75 SM
+three-course meal for two in a mid-range restaurant – 60 SM
+
+
+
+
+
+
+
+Can I drink the water in Tajikistan?
+
+
+
+
+
+
+
+
+
+No, Tajikistan’s tap water is non-purified and untreated. Stick to bottled water or fill a reusable canteen with the filtered water that will be available at some hotels. Also steer clear of ice in drinks and only eat fruit that can be peeled or vegetables that have been well cooked.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Tajikistan?
+
+
+
+
+
+
+
+
+
+No. Don’t bank on being able to use your credit cards for any transactions. Tajikistan is overwhelmingly a cash-based economy.
+
+
+
+
+
+
+
+What is ATM access like in Tajikistan?
+
+
+
+
+
+
+
+
+
+ATMs – accepting Visa, Mastercard and Maestro – can be found in the major cities of Dushanbe, Penjikent, Khujand, Khorog, Isfara, Istaravshan and Qurghon-Teppa, plus a few smaller places besides. Some dispense US dollars, which (along with euros) are widely accepted. Try to carry with you small denominations, as small change for small purchases is in short supply.
+
+
+
+
+
+
+
+What public holidays are celebrated in Tajikistan?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year's Holiday
+
+8 Mar International Women's Day
+
+21 Mar Navruz Celebration
+
+22 Mar Navruz Celebration
+
+23 Mar Navruz Celebration
+
+24 Mar Navruz Celebration
+
+1 May International Day of Solidarity
+
+9 May Victory Day
+
+25 Jun Idi Ramazon / Ramadan Celebration
+
+26 Jun Idi Ramazon / Ramadan Celebration Holiday
+
+27 Jun Day of National Unity / Reconciliation
+
+1 Sep Idi Qurbon / Kurban Bayram Celebration
+
+9 Sep Independence Day
+
+11 Sep Independence Day Holiday
+
+6 Nov Constitution Day
+
+16 Nov President's Day
+
+Please note these dates are for 2017. For a current list of public holidays in Tajikistan go to:
+http://www.worldtravelguide.net/tajikistan/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Tajikistan
+
+Be considerate of Tajik customs, traditions, religion and culture
+
+Dress modestly and respectfully. Shoulders to knees should be covered and shoes removed when entering places of worship
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water
+
+Always dispose of litter thoughtfully, including cigarette butts
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive and supports the local community
+
+Refrain from supporting businesses that exploit or abuse endangered animals
+
+Please ask and receive permission before taking photos of people, including children
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

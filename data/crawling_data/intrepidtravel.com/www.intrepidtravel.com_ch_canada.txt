@@ -1,0 +1,4357 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+North America
+
+Canada
+
+
+
+Majestic mountains, wicked adventure sports, top hiking trails, cultured cities, a vibrant arts scene and some of the friendliest folk you'll find in the world make Canada a top destination to visit all year round.
+
+Our Canada trips
+
+
+
+
+
+
+
+
+
+Canadian Rockies
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Get set for pure adventure on this tour of the Canadian Rockies. Travelling from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Canadian Rockies & Northern Lights
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR3,740
+
+
+
+
+
+Marvel at snow-capped mountain ranges frozen wonderlands and the elusive northern...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Canadian Rockies
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,695
+
+
+
+
+
+Traverse the stunning scenery of the Canadian Rockies on this adventure trip. Snow...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+US & Canada Discovery
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,845
+
+
+
+
+
+From Chicago to New York, with Montreal and Boston in between, this tour of North...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Vancouver Island
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,145
+
+
+
+
+
+Cruise across the Strait of Georgia from Vancouver and discover the best of Vancouver...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Canadian Rockies & Vancouver Island
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,315
+
+
+
+
+
+Get set for pure adventure on this tour of the Canadian Rockies. Travelling from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+US & Canada Discovery Winter
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,656
+
+
+
+
+
+Get amongst Christmas markets and winter festivities in Canada and USA on a snow-filled...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Arctic Watch Lodge 8 days
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR10,540
+
+
+
+
+
+Spend eight spectacular days exploring Somerset Island’s Cunningham River area. Search...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Anchorage to Mexico City
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR6,581
+
+
+
+
+
+Travel along the spine of North America and the centre of Mexico on a tour that takes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northwest Passage Westbound
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR11,570
+
+
+
+
+
+Follow in the footsteps of legendary Arctic adventurers on a 17-day expedition through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northwest Passage Eastbound
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR11,570
+
+
+
+
+
+Follow the paths of legendary expeditions like Sir John Franklin on a cruise through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Canada tour reviews
+
+
+Our Canada trips score an average of
+4.77 out of 5
+based on 75 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Grand Canadian Rockies,
+September 2017
+
+Yvonne Lynes
+
+Intrepid is great, you can interact with other travellers as much or as little as you like, but the more you put in the more you get from the tour
+
+Review submitted 15 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Grand Canadian Rockies,
+September 2017
+
+William Smith
+
+The small group travel allows Intrepid to get deeper into into the destination areas and offers activities that larger companies either do not offer or charge extra for. The guides are very knowledgeable about the areas visited and are very flexible in giving group members an experience to remember.
+
+Review submitted 06 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Canada trip reviews
+
+Our Canada trips score an average of
+4.77 out of 5
+based on 75 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Canada
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 12, 2017
+
+
+
+Why you shouldn’t wait to go to the Canadian...
+
+
+
+
+
+
+Turquoise lakes, epic views, craft beers aplenty. Here's why you should go to the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 29, 2017
+
+
+
+Why winter is the perfect time to travel in Canada
+
+
+
+
+
+
+Fewer tourists, epic vistas, comfort food and snow: here are a few of our...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 08, 2017
+
+
+
+6 unexpected surf destinations around the world
+
+
+
+
+
+
+There are some epic breaks that don’t require a three thousand dollar flight or...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 01, 2017
+
+
+
+15 places in Canada that will give you instant...
+
+
+
+
+
+
+Say the word 'Canada' and it's likely that a desktop background-esque scene...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2017
+
+
+
+7 best travel destinations for the Canadian dollar
+
+
+
+
+
+
+Yes, a weak exchange rate hurts, but that doesn’t mean you're going to stay home...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2016
+
+
+
+7 hot travel spots to check out in 2017
+
+
+
+
+
+
+Featuring the hottest – and coolest – destinations on earth. How many have you be...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 09, 2016
+
+
+
+The 15 most beautiful waterfalls in the world
+
+
+
+
+
+
+What makes the perfect waterfall? Height? Water volume? Sheer volume? We put the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 19, 2016
+
+
+
+Life in the north: our top 6 Arctic wildlife...
+
+
+
+
+
+
+One thing the Arctic does have is wildlife. Lots of it. On a size and scale that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2016
+
+
+
+5 sporting spectacles around the world that’ll...
+
+
+
+
+
+
+A sporting event can be a haven of knowledge for travellers, no matter the size of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 02, 2016
+
+
+
+The 15 most spectacular glaciers to visit...
+
+
+
+
+
+
+Some of the most picturesque glaciers on planet Earth may be available for a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 24, 2016
+
+
+
+Live in Canada? Here’s where your travel dollar...
+
+
+
+
+
+
+Canadians are resilient. When they want to travel, they won’t let a weak exchange...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 06, 2015
+
+
+
+Check out photographer Callum Snape’s top eight...
+
+
+
+
+
+
+Prepare to be wowed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 29, 2015
+
+
+
+“The more obstacles there are, the wilder the...
+
+
+
+
+
+
+Callum Snape takes incredible photographs of Alberta, so we spoke to him about...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 15, 2015
+
+
+
+Yes, there is a place called Head-Smashed-In...
+
+
+
+
+
+
+The Pyramids, Great Barrier Reef, Angkor Wat…and Head-Smashed-In Buffalo Jump.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 15, 2015
+
+
+
+Six reasons Dinosaur Provincial Park beats...
+
+
+
+
+
+
+It’s hard to put Alberta’s Dinosaur Provincial Park into words. Picture Jurassic...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 13, 2015
+
+
+
+7 reasons Alberta is the best-looking place you...
+
+
+
+
+
+
+You know those landscapes that look too good to be real? Yeah, Alberta invented...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2015
+
+
+
+Q&A; with Canadian photographer Chris Burkard
+
+
+
+
+
+
+We recently started running trips in Alberta and Chris Burkard has taken loads of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 06, 2014
+
+
+
+Girl wins an Intrepid trip on the radio,...
+
+
+
+
+
+
+Sometimes, things happen in life that make you completely lose your mind. For one...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Glacier National Park
+
+
+
+
+See the icy landscapes of the Glacier National Park
+
+
+
+
+
+
+Canadian Rockies, 15 days
+
+
+
+
+
+
+
+
+Anchorage to Mexico City, 52 days
+
+
+
+
+
+
+
+
+
+
+
+Canadian Rockies
+
+
+
+
+View the impressive peaks of the Canadian Rockies
+
+
+
+
+
+
+Canadian Rockies, 15 days
+
+
+
+
+
+
+
+
+Grand Canadian Rockies, 12 days
+
+
+
+
+
+
+
+
+
+
+
+Banff National Park
+
+
+
+
+Enjoy the best of the great outdoors in Banff National Park
+
+
+
+
+
+
+Canadian Rockies, 15 days
+
+
+
+
+
+
+
+
+Grand Canadian Rockies, 12 days
+
+
+
+
+
+
+
+
+Anchorage to Mexico City, 52 days
+
+
+
+
+
+
+
+
+
+
+
+Vancouver
+
+
+
+
+Visit the hip cafes and bars of Vancouver
+
+
+
+
+
+
+Canadian Rockies, 15 days
+
+
+
+
+
+
+
+
+Grand Canadian Rockies, 12 days
+
+
+
+
+
+
+
+
+
+
+
+Churchill
+
+
+
+
+See Canada's magnificent polar bears up close in Churchill
+
+
+
+
+
+
+
+
+
+Whistler
+
+
+
+
+Explore the magical mountain terrain of Whistler
+
+
+
+
+
+
+Grand Canadian Rockies, 12 days
+
+
+
+
+
+
+
+
+Canadian Rockies, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Canada
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Canada, you may find yourself travelling by:
+
+
+
+
+
+
+
+Ferry
+
+Find your sea legs and enjoy a mode of transport that offers scenic views and a dose of fresh air. A ferry ride in Canada is a fun way to get acquainted with the coast.
+
+
+Grand Canadian Rockies
+
+
+
+
+
+
+
+
+
+
+Bicycle
+
+One of the best ways to see a place and get fit at the same time, cycling allows you the freedom to set your own pace and go where big tour buses often can't.
+
+
+
+
+
+Accommodation in Canada
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Canada you may find yourself staying in a:
+
+
+
+
+
+
+
+Campsites
+
+Have the ultimate outdoors experience by camping out under the stars with friends in the beautiful Canadian wilderness.
+
+
+
+
+
+Canada holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Ottawa (population 808,000)
+
+Population:
+
+34 million
+
+Language:
+
+English, French
+
+Currency:
+
+CAD
+
+Time zone:
+
+(GMT-05:00) Eastern Time (US & Canada)
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code:
+
++1
+
+
+
+
+
+
+
+
+
+Best time to visit Canada
+
+
+
+
+
+
+×
+
+Best time to visit Canada
+
+
+
+
+Canada's vast land mass makes for varying climate conditions, but generally, Canada gets quite cold - sometimes extremely! December - February are the coldest months and can make travelling difficult at times, although the snow is brilliant for snow-sports enthusiasts.
+
+June, July and August are the warmest months, and are perfect for summer outdoor activities like rafting, hiking, camping and canoeing. Due to the warmer temperatures, tourist spots and other popular places will be busier than other months. The months of May and September, while not typically as warm as the summer months, still offer great conditions for travelling and sightseeing, minus the crowds.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Anyone who has been to Canada will know that the Canadian stereotype is actually quite accurate. Well known for being welcoming, friendly, funny, hockey-mad, adventure-loving, sports enthusiasts, Canadians generally do a good job of living up to their reputation.
+
+Large cities like Vancouver are a cultural melting pot of nationalities, and attitudes towards different ways of life are generally quite liberal. This can be seen in the variety of cuisines, shops and people that populate the city.
+
+Known for loving the outdoors and enjoying adventure, both city-dwelling and rural-living Canadians typically remain active with hiking, cycling, canoeing and snow boarding all popular past times, no matter where they live.
+
+The Eastern side of Canada has a decidedly different quality to the West Coast, and retains much of its colonial heritage with the French language being widely spoken and French-influenced food and music being popular.
+
+Canada is also home to native people, with the people of the First Nations and the Inuit in the north calling Canada home. Like many indigenous people and tribes around the world, the people of the First Nations have an ongoing struggle in retaining and protecting their customs and heritage. Modern influences have had a negative impact on their culture and lifestyle, yet despite this, many still actively live and promote a traditional way of life, through the making of tribal music, handicrafts, art and clothing.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Things to try in Canada
+
+1. Poutine
+
+French fries topped with a gloriously messy mix of gravy and cheese curds may not be for everyone, but Poutine is a true Canadian classic… and the perfect hangover cure!
+
+2. Seafood
+
+If visiting the West Coast, Vancouver is known for having one of the best restaurant scenes in the world, and seafood is almost always on the menu. Feast on a fresh seafood banquet, try some inventive fusion-cuisine or grab some sushi for a quick bite.
+
+3. Boutique Beer
+
+Over the last few years, microbreweries have been popping up all over Canada. Whether you visit a microbrewery that brews chocolate-flavoured beer or eat at a restaurant that has a local beer menu, a Canadian boutique beer is worth trying.
+
+4. Maple Syrup
+
+It comes as no surprise that maple syrup is popular in Canada! So be sure to dose up your pancakes with loads of the stuff… and include a side of bacon too, as the locals do.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Canada is BIG! This is clear when looking at a map but even more obvious when travelling in Canada (after driving all day you could still be in the same province). With such a large land mass, it comes as no surprise that the environment varies widely depending on which area of Canada you are travelling in.
+
+Sitting in between the Atlantic and the Pacific Oceans, Canada shares a long land border with the
+United States
+in the South, and
+Alaska
+(US) and Greenland in the North. Mountains, forests and woodlands feature heavily throughout the country, with relatively flat prairies and plains dotted around also, providing arable land. There is much ice and tundra in the Arctic North, with only a few communities choosing to live there.
+
+Although a sparsely populated country, the cities of Canada are well-populated and built-up, although not overly crowded or busy. Expect skyscrapers, malls, the odd traffic jam and all the modern conveniences expected of contemporary cities. Parks, trees and public-art beautify most cities in Canada, and provide sweet relief to travellers and locals alike. Smaller communities exist in more remote areas, with quaint villages on both coasts relying on fishing, tourism and agriculture as main sources of income. Expect a slower pace of life, low-density housing and much less buzz than when in the city.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Canada has been occupied for centuries by different native tribes (some nomadic), who lived their lives with a strong connection to their ancestors and the earth. These people have recently become known as First Nations people. Living by hunting, gathering and fishing, the ability of First Nations people to live in a traditional way was greatly diminished once the French and British settlers arrived in Canada in the late 1500s. With colonisation, many First Nations people became dispossessed, with loss of land to development and the widespread hunting of bison creating food and land shortages.
+
+France and England fiercely competed for Canadian territory over the years, with the lucrative trade of fur being a commodity worth fighting for. After hundreds of years of fighting, the Treaty of Paris was signed in 1763, making Canada officially a British Territory.
+
+Recent History
+
+The British North America Act was passed in 1867 and with this, Canada became a self-governing state. After suffering major loss of troops in World War I, Canada was granted relative independence from Britain in 1931. Currently, Canada is still a member of the Commonwealth but the British monarch only retains a ceremonial role in the running of the country. More recently, Canada has continued to flourish as a nation, with wide-scale immigration leading to increased multiculturalism and a resource boom strengthening the economy. Playing host to the 2010 Winter Olympics, Canada is increasingly becoming known as a liberal, tolerant nation - home to legalised gay marriage, universal health care and some of the most liveable cities in the world.
+
+
+
+
+
+
+
+
+Outdoors Experiences in Canada
+
+
+
+
+
+
+×
+
+Outdoors Experiences in Canada
+
+
+
+
+Top 10 Outdoors Experiences in Canada
+
+1. Beautiful Bears
+
+Seeing polar bears in their natural habitat will take your breath away. Get out and explore the outskirts of Churchill in a tundra vehicle to get up close to these magnificent creatures.
+
+2. River Rafting
+
+The Kicking Horse River is an amazing channel of churning white water. For a dose of adventure, try whitewater rafting on this formidable force of nature.
+
+3. Sensational 'Snowscapades'
+
+Make the most of Canada's abundance of snow by getting out there and having fun in it! Channel your inner child and make snow angels or have a snowball fight with friends.
+
+4. Majestic Mountains
+
+The Rocky Mountains of Canada are well-known for a reason - their imposing beauty is unforgettable. Take in the epic landscapes while hiking and don't forget to have a camera handy to capture the best panoramas.
+
+5. Cycle Adventures
+
+Hop on a bike for some two-wheeled fun and pedal through stunning scenery in Whistler. Tear it up by racing a friend or go slow and take in the amazing views.
+
+6. Stanley Park Perfection
+
+A walk around Vancouver's Stanley Park will see you taking in gorgeous scenery, interesting sculptures, historic totem poles and beautiful birdlife. Stanley Park provides a slice of nature close to the city.
+
+7. Enchanted Camping
+
+Nothing beats getting away from it all to camp among the quiet stillness and natural splendour of the pristine Canadian wilderness.
+
+8. Animal Encounters
+
+Keep watch for deer, moose, caribou, bald eagles and timber wolves while hiking through the wilds of Jasper National Park in Alberta.
+
+9. Giant Glaciers
+
+Be astounded by the immense size and cool beauty of Canada's gigantic glaciers. Perhaps take a thrilling ride on an ice mobile to experience it all up close.
+
+10. Hit the Hot Springs
+
+Take a refreshing soak in the Yukon Territories Hot Springs. Immerse yourself in the soothing waters of this outdoor haven and feel your aches and pains melt away.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Canada may be home to one of the world's largest malls but the shopping experience certainly doesn't end there. The diversity of Canada's population is reflected in the eclectic mix of boutique stores stocking unique artisan wares, modern art, eco fashion and pop culture objects.
+
+Major cities like Vancouver have an abundance of interesting boutiques and galleries stocking literature, bespoke items and vintage posters while smaller towns are great for locally-produced gourmet food, wine and quirky kitsch souvenirs. The China Town areas of major Canadian cities offer a great shopping experience and are generally excellent for top-value market-buys, cheap eats and interesting sights. Choose to snap up bargains and major labels from chain stores and malls, but head for independent shopping strips, boutique shops and markets to find unique treasures and support local artists and creators.
+
+It's also a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+
+
+
+
+
+
+
+Festivals and Events in Canada
+
+
+
+
+
+
+×
+
+Festivals and Events in Canada
+
+
+
+
+Calgary Stampede
+
+This 10-day hoedown in the Rocky Mountains features rodeos, parades, barbecues and more cowboy hats than you can poke a stick at.
+
+Montreal International Jazz Festival
+
+More than 3,000 performers from over 30 nations entertain millions of travelling and local hip cats in this annual celebration of jazz.
+
+Canada Day
+
+No matter where you are in Canada, come July 1 you'll know that it's Canada Day! Canadians celebrate this national holiday with parades, fireworks, parties, concerts and barbecues. Be sure to get in the spirit and celebrate with the locals.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Sacre Bleus: An Unsentimental Journey Through Quebec
+
+Taras Grescoe
+
+Consolation
+
+Michael Redhill
+
+Burden of Desire
+
+Robert MacNeil
+
+The Golden Spruce: A True Story of Myth, Madness, and Greed
+
+John Vaillant
+
+The Vancouver Stories: West Coast Fiction from Canada’s Best Writers
+
+Intro by Douglass Coupland
+
+
+
+
+
+
+
+
+Canada travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Canada?
+
+
+
+
+
+
+
+
+
+CANADA TOURIST VISA
+Australia: Not required
+Belgium: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Yes - in advance
+Switzerland: Not required
+United Kingdom: Not required
+
+From 15 March 2016 the requirements for entry into Canada will change. Any nationalities who previously did not require a visa will be required to apply online for an Electronic Travel Authorization (eTA). See http://www.cic.gc.ca/english/visit/eta.asp for details and to apply. There is a fee of CA$7 for this service. Eligible travellers can apply online for an eTA already however it is not compulsory. On March 15, 2016, this entry requirement will become mandatory and travellers will need an eTA before they can board a flight to Canada.
+
+
+
+
+
+
+
+Is tipping customary in Canada?
+
+
+
+
+
+
+
+
+
+Tipping is very much a part of the culture in Canada. Tipping is expected in restaurants and cafes, and is not already included in the bill. Generally, add 15% to the bill or feel free to tip a higher amount if the service is particularly good or you're feeling generous. Overall, it's your choice but remember that wait staff are usually receiving the minimum wage, which is quite low in Canada. Tipping taxi drivers and valet attendants is also customary.
+
+
+
+
+
+
+
+What is the internet access like in Canada?
+
+
+
+
+
+
+
+
+
+Internet access is good in Canada, and it's easy to find in most cities and towns. Hotels, hostels and internet cafes are usually the best places to access the internet.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Canada?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in Canada but coverage may be patchy in remote areas such as national parks and other mountainous places. Ensure global roaming is activated before you enter Canada.
+
+
+
+
+
+
+
+What are the toilets like in Canada?
+
+
+
+
+
+
+
+
+
+Western-style, flushable toilets are the standard in Canada.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Cup of coffee = 1.70 CAD
+Local bus fare = 2.25 CAD
+Budget takeaway meal = 5 CAD
+Restaurant meal = 20 CAD
+
+
+
+
+
+
+
+Can I drink the water in Canada?
+
+
+
+
+
+
+
+
+
+Drinking water from taps in Canada is considered safe unless otherwise advised. For environmental reasons, try to use a refillable water bottle rather than buying bottled water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Canada?
+
+
+
+
+
+
+
+
+
+Major credit cards are accepted by most retailers and restaurants in Canada. As in most countries, be sure to carry adequate cash for smaller purchases.
+
+
+
+
+
+
+
+What is ATM access like in Canada?
+
+
+
+
+
+
+
+
+
+ATMs are very common in Canada, so finding one won't be a problem in most towns, cities and suburbs.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Canada?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Canada?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+14 Apr Good Friday
+
+22 May Victoria Day
+
+1 Jul Canada Day
+
+4 Sep Labour Day
+
+9 Oct Thanksgiving Day
+
+11 Nov Remembrance Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Canada go to:
+http://www.worldtravelguide.net/canada/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Canada
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Please ask and receive permission before taking photos of people, including children.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Canadian cities generally have excellent public transport options. When sightseeing, try to use buses, trains or monorails - or even better, walk.
+
+When camping or visiting national parks, refrain from feeding native animals or leaving food out.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+It’s not uncommon to encounter bears within campsites and national parks. Intrepid leaders have been trained for these situations and will inform the group on how to 'bear proof' the camp. There’s no reason to be alarmed as it is extremely rare for bears to attack humans. In this case, follow the instructions of your leader at all times.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

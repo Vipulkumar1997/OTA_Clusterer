@@ -1,0 +1,3929 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iran Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iran tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Middle East
+
+Iran
+
+
+
+Iran is a classic case of books and covers.
+
+
+It’s hard to reconcile the country you’ve heard about on the news with a place where iPhone-toting locals carve up the Alborz piste, old women invite you in for a hot Chelow kebab and Tinder dominates the dating scene. Conservative and unconventional, deeply religious and deeply surprising, Iran tours don’t fit into any easy pigeonhole. Which is kind of why we love them. Our local guides will show you all the highlights – the Golestan Palace, the Zoroastrian Fire Temple, Esfahan’s bustling bazaars – but they’ll also show you what it means to be a modern-day Iranian. And that’s one thing you won’t get from your average news bulletin
+
+
+Top Iran travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+14 Apr 2018
+
+Expedition - Iran Northern Explorer
+
+
+
+Expedition - Iran Northern Explorer
+Tabriz to Tehran
+
+
+
+
+
+
+
+
+
+×
+
+Expedition - Iran Northern Explorer
+
+
+
+
+
+
+
+
+
+8
+
+
+FR2,795
+
+
+FR2,236
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Iran trips
+
+
+
+
+
+
+
+
+
+Iran Adventure
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,395
+
+
+
+
+
+Welcome to the hidden world of Iran. Travel to Tehran and witness the fusion of old and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Iran
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,615
+
+
+
+
+
+Embark on a cycling adventure across the hidden world of Iran. Visit Tehran, Kashan,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Iran Real Food Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Taste the spices, meats and stews of Iran as you travel from Tehran to Shiraz.  Sample...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Expedition - Iran Northern Explorer
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,236
+
+
+
+
+
+Discover the diverse people and rugged beauty of Northern Iran on an in-depth...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tehran to Tashkent Overland
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR6,120
+
+
+
+
+
+Travel Central Asia’s famous silk route and visit Turkmenistan’s desert landscapes,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tashkent to Tehran Overland
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR6,120
+
+
+
+
+
+Exploratory Trip Warning - this is a new trip for us!...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Iran tour reviews
+
+
+Our Iran trips score an average of
+4.82 out of 5
+based on 103 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Iran Adventure,
+November 2017
+
+Wayne Ryan
+
+The Iran Adventure is a great way to get an overview of Iran, a nation full of positive surprises and friendly people.  If you are lucky you will get a wonderful modern young woman as your guide to provide insights into this fascinating country.
+
+Review submitted 26 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Iran Adventure,
+October 2017
+
+Mary Waters
+
+Fascinating country. Friendliest people; ticks all the boxes art, architecture, history past & present. Women take several scarves really fine cotton/linen & loose cotton/linen clothing - it is hot during the day even in October
+
+Review submitted 16 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Iran trip reviews
+
+Our Iran trips score an average of
+4.82 out of 5
+based on 103 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Iran
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2017
+
+
+
+Hidden gems: 9 less explored parts of popular...
+
+
+
+
+
+
+With the vast amount of Santorini Insta-spam flying around, you probably feel as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2017
+
+
+
+I’ve cycled through over 40 countries; here’s...
+
+
+
+
+
+
+I love cycling in the desert. I like the long and empty miles. I like riding into...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 16, 2017
+
+
+
+6 common misconceptions about travel in Iran
+
+
+
+
+
+
+Iran is one of my favourite destinations. It's simply beautiful. I love the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 21, 2017
+
+
+
+4 reasons why Northern Iran should be on your...
+
+
+
+
+
+
+You'll find volcanic plains, snowy peaks, and dense forests. You'll find...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 13, 2017
+
+
+
+5 new UNESCO World Heritage Sites worth a visit
+
+
+
+
+
+
+UNESCO just published its official list of Heritage Sites for 2017, adding over 20...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 02, 2017
+
+
+
+Everything you need to know about travel in Iran
+
+
+
+
+
+
+Travellers touch down in Tehran with images of shimmering mosques and palm trees,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 30, 2017
+
+
+
+Travel in Iran: the latest news for US Citizens
+
+
+
+
+
+
+At the moment, Iranian citizens are being denied entry to the United States. But...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 24, 2016
+
+
+
+On trend: 5 ways travel is going to change in 2017
+
+
+
+
+
+
+Another year has nearly come and gone, but here at Intrepid HQ we’re gazing into ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2016
+
+
+
+Iran on Instagram: 16 images that will...
+
+
+
+
+
+
+Iran is everything we've been taught the Middle East is not. And we have proof.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2016
+
+
+
+Iran on Instagram: 16 images that will...
+
+
+
+
+
+
+Iran is everything we've been taught the Middle East is not. And we have proof.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iran travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Esfahan
+
+
+
+
+Iran Revel in the bazaars and boulevards of Esfahan
+
+
+
+
+
+
+Iran Adventure, 14 days
+
+
+
+
+
+
+
+
+
+
+
+Abyaneh
+
+
+
+
+Iran Step back in time in the ancient red-rock town of Abyaneh
+
+
+
+
+
+
+
+
+
+
+Transport in Iran
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Iran, you may find yourself travelling by:
+
+
+
+
+
+
+
+Caravanserai
+
+Step into the exotic shoes of a Silk Road merchant while staying in a caravanserai in the desert. Over the centuries, little has changed about this experience.
+
+
+
+
+
+
+
+
+
+
+
+Metro
+
+Carrying more than a million passengers a day, the trains of Tehran are fast, efficient and affordable. Have fun getting around the city like a local.
+
+
+
+
+
+Accommodation in Iran
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Iran you may find yourself staying in a:
+
+
+
+
+
+
+
+Nomad Tent
+
+Spend an unforgettable night sleeping in a communal tent, just as local nomads have done for centuries.
+
+
+
+
+
+
+Travelling to Iran podcast
+
+Travelling to Iran with Intrepid is a 30-minute interview with Intrepid travellers who share their experiences after recently travelling to Iran. This podcast will provide tips and insights about travel in Iran including dress code for men and women, considerations when organising your visa, issues with money exchange and accessing cash, as well as our highlights.
+
+Download the podcast directly here
+or
+
+Iran in-depth: Unexpected tales from the
+
+Middle-East
+
+
+
+
+
+
+Along with synagogues, laughter workshops and Hooters restaurants, Tinder was the last thing Taz Liffman expected to find in one of the world’s staunchest Islamic republics.
+
+Read more >
+
+
+
+
+Iran holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Tehran (population 7.2 million)
+
+Population:
+
+76.9 million
+
+Language:
+
+Persian
+
+Currency:
+
+IRR
+
+Time zone:
+
+(GMT+03:30) Tehran
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++98
+
+
+
+
+
+
+
+
+
+Best time to visit Iran
+
+
+
+
+
+
+×
+
+Best time to visit Iran
+
+
+
+
+The climate of Iran is mostly arid or semi-arid with a subtropical climate along the Caspian Coast. Generally, the hottest month is July, the coldest months are December and January, and the wettest month is January. Tourists visit Iran during the summer months (June - September) for the sunshine and regional festivals, and during the winter months (November - March) for skiing. So no matter what time you choose to go, Iran is a great place to travel all year round.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Being one of the oldest continuously inhabited civilisations in the world, modern-day Iranian culture is enriched by centuries of tradition. Years of trade, conquest and invasion have created a distinct culture with myriad influences from far and wide, resulting in an overriding national identity and culture rich in symbolism. Religion plays an important part in many aspects of Iranian society - the legal and educational systems, dress, marriage, architecture, the arts and the media are all affected. As Iran is an Islamic nation, visitors can expect to see the hallmarks of Islam throughout Iran; mosques, the call to prayer, strict dress codes and the observance of Ramadan are the most easily noticed, although there is a complex network of rules, customs and traditions at play every day.
+
+Although Iran's population is largely youthful and urban-centric, rich Persian artistic traditions are alive in contemporary Iran, with much of the elaborate architecture, cuisine, handicrafts and popular poetry of Iran having their origins in ancient Persia. Iranian hospitality is world-famous; guests are often touched by the sincerity, politeness and generosity of spirit of their Iranian hosts. Accepting tea and food is considered polite if offered, as is acting graciously and modestly while visiting someone's home.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways of experiencing a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+With access to some of the world's best produce, prepared following age-old ancient culinary traditions, foodies will love travelling through Iran.
+
+Things to try in Iran
+
+1. Dried Fruit & Nuts
+
+Dried apricots, prunes, dates, raisins and figs can be bought from shops, street stalls and bazaars and make wonderful, healthy snacks. Also, you'll be able to find a wide variety of nuts sold by the bag - pistachios, almonds and walnuts are usually the best picks.
+
+2. Persian Ice Cream
+
+Flavoured with orange blossom, rose water, honey, nuts or saffron, Persian ice cream is different to western-style desserts. Often made with chunks of cream and wedged between two waffles, don’t miss the chance to try this type of sweet treat.
+
+3. Khoresht
+
+This hearty Persian stew can be found everywhere in Iran and has many variations. Meat eaters will love the split-pea and lamb combination while the eggplant, mushroom and spinach options will delight vegetarians.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing borders with Afghanistan,
+Armenia
+,
+Azerbaijan
+, Iraq, Pakistan,
+Turkey
+and
+Turkmenistan
+, Iran is located in the south-west corner of Asia. The Caspian Sea, Persian Gulf and Gulf of Oman provide shoreline in the north and south, and while Iran lacks a major river system, there are several small rivers and streams throughout the country. Much of Iran’s terrain is mountainous, with most of the population living in the basins, plateaus and plains. The deserts of Iran are mainly uninhabited with the exception of a few oases, while the major cities are quite modern with well-developed infrastructure and housing.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The country now known as Iran was known as Persia for hundreds of years and has been occupied by people for many centuries. Archaeological evidence suggests that people populated the land here as long as 7,000 years ago, with civilisations and societies developing as the surrounding nations and areas evolved. Persia's fate was very much tied up with the destinies of neighbouring countries, so as empires rose and fell (and leaders came and went), Persia was affected by invasions and confrontations with the Greeks, Mongols, Romans, Arabs, Turks and others.
+
+Under the reign of Darius the Great and Cyrus the Great (during the Achaemenid Empire), the Persian Empire expanded to be the largest empire of the time. During this period, coins were first introduced as a form of currency, building works on Persepolis began and a system of far-reaching highways and canals were built. Islam was brought to Persia around 637 AD; the population slowly adopted the religion and by the 11th century, the majority of the population was practising Islam. Despite adopting the religion of the conquerors, Persian culture, style and art was largely preserved, which led to the 'Islamic Golden Age' - a time where Persian literature, philosophy, science and art blossomed (750-1258).
+
+This time of creativity and prosperity was brought to an end by the Mongols, who invaded in 1219. This invasion proved devastating, with a monumental loss of culture occurring due to the widespread demolition of infrastructure, libraries and mosques. Famine and violence accounted for a steep decline in population, which was worsened by the arrival of the Plague during the 14th century. Persia was in better shape by the 16th century, with the Safavid Dynasty (1502-1736) establishing the modern nation-state of Iran.
+
+Recent History
+
+The Great Persian Famine of 1870 and 1871 accounted for up to 2 million deaths in the region, but Iran's fortunes changed with the discovery of oil in 1908. This discovery also increased interest from other nations wishing to capitalise on this precious commodity. Iran endured many changes in leadership due to invasions and coups during the 1940s, 50s and 60s, leading to the Iranian Revolution. The Iranian Revolution (also known as the Islamic Revolution) took place between 1978 and 1979 and resulted in the birth of the Islamic Republic. Ayatollah Khomeini served as leader until his death in 1989, after enduring the Iran-Iraq war, which was waged between 1980 and 1988. The Iraqi use of chemical warfare during this time caused international fury and lead to the deaths of many of Iran's people. More recently, Iran has been lead by Mahmoud Ahmadinejad since 2005.
+
+
+
+
+
+
+
+
+Beautiful Buildings of Iran
+
+
+
+
+
+
+×
+
+Beautiful Buildings of Iran
+
+
+
+
+Top 10 Beautiful Buildings of Iran
+
+1. Qavam House
+
+This elegant, traditional house located in Shiraz was built by the Qavam family in the mid 19th century but is now open to the public as a museum. The fine paintings and mirrored porch are the highlights, but the peaceful gardens, pools and courtyards are also worthy of attention.
+
+2. Abbasian House
+
+This large historic house located in Kashan was built in the late 18th century. Featuring several serene courtyards, highly detailed wall carvings, peaceful pools and arched doorways, this fine example of Kashani residential architecture is now preserved as a museum.
+
+3. Tomb of Hafez
+
+While not the largest or most elaborate of places, Shiraz’s Tomb of Hafez possesses a simple, organic beauty. The pavilion, memorial hall and surrounding gardens are well-preserved examples of Iranian architecture - a fitting memorial to one of Persia’s most loved mystical poets.
+
+4. Jameh Mosque of Yazd
+
+This exceptional example of Azari-style Persian architecture has stood in Yazd for centuries. People come to admire the blue-green tiles, deep-blue interior and grand arches, but it's mainly known for its grand minarets, which are among the tallest in Iran.
+
+5. Golestan Palace
+
+Visiting this divine palace complex is a must-do for visitors to Tehran. Colourful mosaics, decorated doors, dazzling mirrors, intricate marble carvings, lattice windows, elaborate chandeliers, bespoke furniture and grand paintings combine in a sea of regal brilliance. Don’t miss it!
+
+6. Khaneh Tabatabaei-ha
+
+Also known as 'The Tabatabaeis’ House', this gorgeous building is another fine example of traditional Persian architecture. Detailed wall murals, ornate stained-glass windows, reflective pools and well-manicured gardens create an atmosphere of opulence and grandeur.
+
+7. The Zoroastrian Complex of Amir Chakmak
+
+This unique three-tiered wonder of Yazd possesses beautiful order and symmetry. When lit up at night, its many arched alcoves provide a stunning spectacle to view and capture on camera.
+
+8. Persepolis
+
+This is the ancient crown jewel of Iran. The buildings of Persepolis may no longer be in as good a condition as they were thousands of years ago, but they are still full of beauty and mystery.
+
+9. Imam Mosque
+
+Previously known as the Shah Mosque, this UNESCO World Heritage site is considered a masterpiece. Featuring a glittering, tiled dome, walls of skilful calligraphy, stunning minarets and spectacular mosaic work throughout, this is one of the world's most beautiful buildings.
+
+10. Maqbaratoshoara
+
+This stunning mausoleum is the final resting place of many of Iran's celebrated poets, scientists and mystics. Built in the 1970s, it's a great example of contemporary architecture that manages to remain true to its cultural roots.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+With ancient bazaars, handicraft centres and modern boutiques, there are a huge variety of ways to shop in Iran - from bargaining with a bazaar vendor to buying fixed-price items from a museum gift shop.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+
+
+
+
+
+
+
+Festivals and Events in Iran
+
+
+
+
+
+
+×
+
+Festivals and Events in Iran
+
+
+
+
+Nowruz
+
+Also known as Persian New Year, this is one of the most important traditional holidays on the Iranian calendar. Heralding the advent of spring, this celebration with Zoroastrianism roots is a time of feasting with family, celebrating in nature, springcleaning the home and purchasing flowers and new clothes for the New Year. Many different types of rituals are performed during this time and can vary from family to family, area to area.
+
+Ramadan and Eid
+
+The ninth and holiest of months in the Islamic calendar, Ramadan is observed by most in Iran and is thought to be a time of spiritual rejuvenation. For this month, Muslims fast from sunrise to sunset, refraining from eating and drinking during daylight hours. Eid marks the end of fasting with three days of feasting and celebration.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Iran Awakening
+
+Shirin Ebadi and Azadeh Moaveni
+
+Rooftops of Tehran
+
+Mahbod Seraji
+
+The Septembers of Shiraz
+
+Dalia Sofer
+
+My Father's Notebook: A Novel of Iran
+
+Kader Abdolah
+
+In the Walled Gardens
+
+Anahita Firouz
+
+Understanding Iran
+
+William R Polk
+
+
+
+
+
+
+
+
+
+Travelling to Iran Podcast
+
+
+
+
+
+
+×
+
+Travelling to Iran Podcast
+
+
+
+Travelling to Iran with Intrepid is a 30-minute interview with Intrepid travellers who share their experiences after recently travelling to Iran. This podcast will provide tips and insights about travel in Iran including dress code for men and women, considerations when organising your visa, issues with money exchange and accessing cash, as well as our highlights.
+
+Download the podcast directly here.
+
+
+
+
+
+
+
+Iran travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Iran
+
+
+
+
+
+
+
+
+
+Most foreign visitors require a visa to enter Iran. Please be aware that this can be a frustrating and stressful process, and can take from 6-8 weeks. You will need to allow sufficient time for this and plan any other travel around your Iran trip accordingly. The cost of a visa also varies dependent on your nationality, and also changes regularly, making it hard for us to advise of the actual cost. But you should plan for it to cost somewhere around 100-180EUR depending if you get a visa before departure or on arrival.
+
+Iranian visas are issued in a two-step process and this will differ according to your nationality.
+
+An authorisation code for your visa must be issued by the Iranian Ministry of Foreign Affairs.
+
+A visa for your passport must then be obtained at an Iranian Embassy once the authorisation code has been issued, or on arrival (depending on your nationality).
+
+If you are travelling on UK, USA or CANADIAN passport please be aware that your visa process can take longer due to government regulations. Please check that you will have sufficient time to obtain a visa before departure.
+
+Follow the link below and select your nationality in the drop down list to access detailed visa information relevant to you. When your trips has been confirmed you can then proceed to the online visa authorisation code application.
+
+Iran Visa Authorisation Code Application
+
+
+
+
+
+
+
+
+
+Is tipping customary in Iran?
+
+
+
+
+
+
+
+
+
+It's customary to tip service workers in Iran, so set aside small amounts for porters, local guides, waiters, drivers and cleaners.
+
+
+
+
+
+
+
+What is the internet access like in Iran?
+
+
+
+
+
+
+
+
+
+You'll be able to access the internet in Iran's cities, with many major hotels and cafes having internet access. Expect little to no access in rural and remote areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Iran?
+
+
+
+
+
+
+
+
+
+Mobile phones from other parts of the world may not work in Iran, although it's possible to buy a low-cost prepaid SIM card in most of Iran's large cities.
+
+
+
+
+
+
+
+What are the toilets like in Iran?
+
+
+
+
+
+
+
+
+
+Squat toilets are the most common variety in Iran, although flushable western-style toilets can be found in some tourist areas and hotels. Carry your own supply of toilet paper and soap, as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Squat toilets are the most common variety in Iran, although flushable western-style toilets can be found in some tourist areas and hotels. Carry your own supply of toilet paper and soap, as these aren't always provided.
+
+
+
+
+
+
+
+Can I drink the water in Iran?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink but due to the high mineral content, visitors should avoid drinking tap water which can cause stomach upsets. For environmental reasons, try to avoid drinking bottled water - ask your leader or hotel where access to filtered water can be found.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Iran?
+
+
+
+
+
+
+
+
+
+Iran is very much a cash economy. This means travellers can rarely use debit or credit cards or travellers cheques while in Iran. A handful of tourist-orientated shops accept credit cards; otherwise, cash is the main method of trade in Iran. US dollars and euros are the only hard currencies accepted at Iranian banks and money-changers. Having those notes changed into Iranian rials is a fairly simple exercise.
+
+
+
+
+
+
+
+What is ATM access like in Iran?
+
+
+
+
+
+
+
+
+
+As with the question above, ATMs in Iran rarely accept foreign cards, so cash is the main form of currency. Bring US dollars and euros, which can be exchanged into local currency.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Iran?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Iran?
+
+
+
+
+
+
+
+
+
+10 Feb Anniversary of the Islamic Revolution
+
+2 Mar Martyrdom of Hazrat Fatemah
+
+19 Mar Oil Nationalisation Day
+
+21 Mar Noruz (Iranian New Year)
+
+22 Mar Noruz
+
+23 Mar Noruz
+
+24 Mar Noruz
+
+1 Apr Islamic Republic Day
+
+2 Apr Sizdehbedar (Nature Day)
+
+11 Apr Imam Ali's Birthday
+
+25 Apr The Prophet's Acension
+
+12 May Imam Mahdi's Birthday
+
+4 Jun Demise of Imam Khomeini
+
+5 Jun Khordad National Uprising (1963)
+
+16 Jun Martyrdom of Imam Ali
+
+26 Jun Eid Al-Fitr
+
+27 Jun Eid Al-Fitr
+
+20 Jul Martyrdom of Imam Sadeq
+
+1 Sep Eid Al-Adha
+
+9 Sep Eid Al-Ghadir
+
+30 Sep Tassoua
+
+1 Oct Ashura
+
+10 Nov Arbaeen
+
+19 Nov Martyrdom of Imam Reza
+
+6 Dec Birthday of Muhammad
+
+Please note these dates are for 2017. For a current list of public holidays in Iran go to:
+http://www.worldtravelguide.net/iran/public-holidays
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

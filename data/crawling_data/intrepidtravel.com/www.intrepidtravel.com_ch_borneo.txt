@@ -1,0 +1,3959 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Borneo
+
+
+
+This lush land of tribal warriors, mysterious head hunters and far-from-home war heroes has intrigued adventurers, anthropologists and explorers for centuries.
+
+
+From steamy jungles to blissful mountains, balmy beaches and peaceful villages, travellers love Borneo's bolunty of natural treasures seemingly tailor-made for fun, relaxation, exploration and adventure.
+
+
+Top Borneo travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+17 Dec 2017
+
+Borneo Family Adventure
+
+
+
+Borneo Family Adventure
+Kota Kinabalu to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Borneo Family Adventure
+
+
+
+
+
+
+
+
+
+11
+
+
+FR1,580
+
+
+FR1,343
+
+
+
+
+View Trip
+
+
+
+
+
+
+1 Jan 2018
+
+Borneo : Hike, Bike & Kayak
+
+
+
+Borneo : Hike, Bike & Kayak
+Kota Kinabalu to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Borneo : Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,695
+
+
+FR1,356
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Sabah Adventure
+
+
+
+Sabah Adventure
+Kota Kinabalu to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Sabah Adventure
+
+
+
+
+
+
+
+
+
+12
+
+
+FR1,990
+
+
+FR1,692
+
+
+
+
+View Trip
+
+
+
+
+
+
+18 Jan 2018
+
+Wild Sarawak
+
+
+
+Wild Sarawak
+Kuching to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Wild Sarawak
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,655
+
+
+FR1,407
+
+
+
+
+View Trip
+
+
+
+
+
+
+20 Jan 2018
+
+Classic Borneo
+
+
+
+Classic Borneo
+Kota Kinabalu to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Classic Borneo
+
+
+
+
+
+
+
+
+
+10
+
+
+FR2,030
+
+
+FR1,827
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Borneo trips
+
+
+
+
+
+
+
+
+
+Sabah Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,845
+
+
+
+
+
+This Sabah Adventure tour through the Borneo wilderness will truly capture your...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo Family Adventure
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,343
+
+
+
+
+
+Travel to Borneo to visit orangutan sanctuaries and explore lush jungles. See the best...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Borneo
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,935
+
+
+
+
+
+Journey through Borneo on an adventure that includes river cruising, jungle nature...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Sarawak
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,558
+
+
+
+
+
+Hop aboard an adventure tour through the wilds of Borneo's Sarawak region. Crawl...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo - Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,765
+
+
+
+
+
+This Sabah Adventure tour through the Borneo wilderness will truly capture your...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Borneo
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,277
+
+
+
+
+
+Travel through the wild, untamed lands of beautiful Borneo. From magnificent Mt...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sabah Discovery
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,795
+
+
+
+
+
+From Kota Kinabalu to the orangutan and sun bear sanctuaries of Sepilok, whisk through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo Family Holiday Comfort
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,400
+
+
+
+
+
+Discover the best that Borneo has to offer on this unforgettable family adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sarawak Rainforest World Music Festival
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,760
+
+
+
+
+
+Experience the acclaimed Sarawak Rainforest Music Festival along with Kuching and the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Borneo tour reviews
+
+
+Our Borneo trips score an average of
+4.74 out of 5
+based on 501 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Sabah Adventure,
+November 2017
+
+Stephanie Higgins
+
+This trip was excellent, the climb of Mt Kinabalu can be hard, but it is worth it, the guides are excellent - make sure you rent hiking poles, they are life savers!
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Sabah Adventure,
+November 2017
+
+Caroline McCormick
+
+My intrepid tour to Borneo was amazing just the right mix of experiences from climbing a mountain to the jungle to the a remote island.Best way to holiday in a group!
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Borneo trip reviews
+
+Our Borneo trips score an average of
+4.74 out of 5
+based on 501 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Borneo
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 27, 2017
+
+
+
+Malaysia’s Rainforest World Music Festival: the...
+
+
+
+
+
+
+Think back on your most treasured musical memories, your favourite festival...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 29, 2017
+
+
+
+Turtles and orangutans: witnessing wildlife...
+
+
+
+
+
+
+Sabah, a Malaysian state on the northern tip of Borneo, is home to some pretty...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 16, 2017
+
+
+
+How you can help save the orangutans
+
+
+
+
+
+
+Orangutans, with their shaggy orange fur, long limbs and cheeky grins, are the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 03, 2017
+
+
+
+Trekking in the lost world of Sabah
+
+
+
+
+
+
+The Maliau basin is possibly one of Sabah’s best-kept secrets. And when I was...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 07, 2016
+
+
+
+What it’s actually like to climb the via...
+
+
+
+
+
+
+You can’t climb Kinabalu's via ferrata without feeling there is something magical...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 10, 2015
+
+
+
+‘The mountain is the mountain, tomorrow is...
+
+
+
+
+
+
+The awful news that a 6.0 magnitude earthquake struck Mt Kinabalu on Friday has...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 13, 2014
+
+
+
+Expect the unexpected in Borneo
+
+
+
+
+
+
+I chose Borneo because I wanted to see amazing wildlife, stay in traditional vill...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poring
+
+
+
+
+Get steamy in the Poring Hot Springs
+
+
+
+
+
+
+Borneo Family Adventure, 11 days
+
+
+
+
+
+
+
+
+Borneo - Hike, Bike & Kayak, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Kota Kinabalu
+
+
+
+
+Cool off in the waters near Kota Kinabalu
+
+
+
+
+
+
+Sabah Adventure, 12 days
+
+
+
+
+
+
+
+
+Wild Sarawak, 10 days
+
+
+
+
+
+
+
+
+Best of Borneo, 21 days
+
+
+
+
+
+
+
+
+
+
+
+Sandakan
+
+
+
+
+Visit the temples and markets of Sandakan
+
+
+
+
+
+
+Best of Borneo, 21 days
+
+
+
+
+
+
+
+
+Classic Borneo, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Sabah
+
+
+
+
+Relax on the stunning beaches of Sabah
+
+
+
+
+
+
+Borneo - Hike, Bike & Kayak, 9 days
+
+
+
+
+
+
+
+
+Borneo Family Holiday Comfort, 10 days
+
+
+
+
+
+
+
+
+Borneo Family Adventure, 11 days
+
+
+
+
+
+
+
+
+
+
+
+Sepilok
+
+
+
+
+Meet the orangutans of Sepilok
+
+
+
+
+
+
+Borneo Family Adventure, 11 days
+
+
+
+
+
+
+
+
+Classic Borneo, 10 days
+
+
+
+
+
+
+
+
+Best of Borneo, 21 days
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo holiday information
+
+
+
+
+Best time to visit Borneo
+
+
+
+
+
+
+×
+
+Best time to visit Borneo
+
+
+
+
+Borneo's climate is typical for a tropical region - generally hot and humid all year-round. Temperatures are usually in the high 20s for most of the year, dropping back to the low 20s at night. Rainfall tends to be in short, heavy bursts followed by sunshine. The 'wet season' runs from November through to February but it does rain throughout the year, although our itineraries are rarely affected. The state of Sabah is known as the 'land below the wind' as it's below the monsoon belt.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Although an overused term, the island of Borneo truly is a melting pot of cultures, customs and religions. Home to more than 18 million people, a large majority of the population is Muslim, so most of society is quite conservative in accordance with Islamic law. Dressing modestly is recommended (covering legs and shoulders), as is being careful with public alcohol consumption and displays of affection. Indigenous people (like the Dayak and Penan people) make up the rest of Borneo's population, many of whom have either been converted to Christianity or hold animist beliefs. While many indigenous people rely on farming as a way of life, Borneo is still home to small numbers of tribal people who live a nomadic, hunter-gatherer existence. Unfortunately, deforestation and mining have encroached upon their traditional lifestyle (particularly in the last 30 years) yet despite this, many are still able to hunt and gather as their ancestors have done for centuries.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world. Borneo's cuisine has a distinctive Chinese/Malay influence, and with many night markets around the country, finding freshly prepared, low-cost food is simple.
+
+Things to try in Borneo
+
+Fresh Fruit
+- Take the chance to try fruits endemic to the region like rambutan, banana, jackfruit, salak, durian and mango.
+
+Sarawak Laksa
+- While laksa is available all over Borneo, a spicy Sarawak laksa filled with chicken, prawns, chilli, coriander, coconut, rice noodles and lime is a filling and tasty meal to remember.
+
+Seafood
+- Crab, prawns and whole fish are popular, particularly on the coast. Try whole steamed fish or 'otak' (fish wrapped in banana leaves and grilled over coals).
+
+Tuak
+- This locally brewed rice wine is popular in small villages around Borneo. Try it if you dare!
+
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+The South-East Asian island of Borneo sits just south of the South China Sea, with the Sulu Sea, Celebes Sea, Makassar Strait, Java Sea and Karimata Strait also surrounding the island. Split up between three countries (Brunei,
+Indonesia
+and
+Malaysia
+), the regions most visited by tourists (Sabah and Sarawak) belong to Malaysia. Home to the oldest rainforest in the world, large cave and river systems and mountains, Borneo has an incredible range of biodiversity with hundreds of species of birds, bats, plants, flowers and insects living in this ecologically precious part of the world. Sitting 4,095 m above sea level, Sabah's Mount Kinabalu is the third highest mountain in South-East Asia and a popular trekking spot for active travellers looking for a challenge.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Early on, Borneo was used as a port for trade, with the Chinese and Indians stopping in on the coast as a part of their trade route from 500 to 1300 AD. The Portuguese, Spanish, Dutch and British were soon to follow. Because of this, Borneo now has a rich diversity of international influences to draw upon from these years of trade and interaction with other cultures. With most of coastal Borneo falling under the rule of the Javanese Majapahit kingdom in the 14th century, the Sultanate of Brunei extended its rule in the north from the 15th to 17th century. By the 19th century, both the British and the Dutch had colonial interests in the area, with a dynasty led by James Brooke ruling Sarawak for many years. Brooke's interest in the area stemmed from his attempts at trade in the Far East and connections to the Sultanate of Brunei. Brooke's rule was fraught with controversy and battles with the Sea Dayak people, who interrupted trade and were labelled as pirates. James Brook was succeeded by his nephew, Charles, and then his son, Vyner, in this rule known as the 'White Rajahs' of Sarawak.
+
+Recent History
+
+Japan took control of Borneo during World War II, resulting in a high number of deaths for the local population. During the war, many British and Australian prisoners of war were sent to Borneo, with the most notorious spots being Sandakan where thousands of Allied soldiers perished due to disease, malnutrition and exhaustion. By the conclusion of the war in 1945, Borneo was freed from the Japanese yet only two decades later, Borneo was the site of more conflict, this time between Indonesia and Malaysia. This conflict arose from the union of Sabah and Sarawak with Malaya in the Federation of Malaysia in 1963. More recently, the Sultanate of Brunei became an independent nation (in 1984). Palm oil plantations have spread rapidly throughout Borneo in the last ten years, mainly due to the decline in the rubber industry. While these plantations have provided jobs and helped the economy in the short term, their proliferation has led to wide-scale deforestation, which surmounts to devastating habitat loss for many of Borneo's endangered species and displacement of indigenous people who rely on the forests and jungles to sustain their hunter-gatherer lifestyles.
+
+
+
+
+
+
+
+
+Top 10 Nature Spots of Borneo
+
+
+
+
+
+
+×
+
+Top 10 Nature Spots of Borneo
+
+
+
+
+1. Mount Kinabalu
+
+Seeing sunrise from the top of Mount Kinabalu is a fine payoff for making it to the top. The climb, while strenuous, is filled with beautiful flora, interesting animals and beautiful vistas - making this majestic mountain a true natural highlight of Borneo.
+
+2. Poring Hot Springs
+
+Located within the Kinabalu National Park, these steaming hot pools of water provide a relaxing place to unwind after trekking Mount Kinabalu. Sliding into the open air baths is a therapeutic way to soothe your muscles - a nice outdoor reward for completing such a climb!
+
+3. Bako National Park
+
+The oldest national park in Sarawak may be small, but with isolated beaches, jungles, waterfalls, rock formations and walking trails, visitors will be delighted in the perfect panoramas to photograph and range of wildlife viewing opportunities on offer.
+
+4. Turtle Island
+
+Lying just north of Sandakan, Turtle Island Park is a haven for endangered green and hawksbill turtles. Witnessing turtles landing onshore at dusk, or baby turtles hatching, is one of life's most unforgettable moments.
+
+5. Kinabatangan
+
+This district of Sabah is know for its incredible array of wildlife and diversity of habitat, with limestone caves, swamps, rivers, lakes, forests and mountains all contributing to the ecological diversity of the area. Home to such rare species as the Asian elephant, the proboscis monkey and the Sumatran rhinoceros, a visit to the jungle here will guarantee some wildlife viewing thrills.
+
+6. Sepilok
+
+Meeting the gentle orangutans of Sepilok is a must-do for visitors to Borneo. These orange-tinged creatures are captivating, entertaining and cheeky - and watching them play, eat and interact in the jungle of Sepilok is a privilege not to be missed.
+
+7. Headhunters' Trail
+
+Walking in the footsteps of one of the world's most mysterious, feared and intriguing people may not be for everyone, but walking along the famed Headhunter's Trail reveals a little bit of local history as well as many wondrous natural sights.
+
+8. Mulu National Park
+
+Visitors should overlook Mulu National Park at their own peril. Not visiting this World Heritage-listed area would mean missing out on canopy walks and treks that reveal exotic creatures, spectacular caves and stunning limestone karst formations.
+
+9. Danum Valley
+
+This area of pristine lowland rainforest is arguably one of Borneo's premier wildlife hot spots. Walk the trails and spot exotic birdlife, interesting plants, flying squirrels, vocal frogs and active gibbons.
+
+10. Gaya Island
+
+Get away from it all and revel in the seclusion of Gaya Island, located just off the coast of Kota Kinabalu. See tropical fish swimming through colourful reefs, learn to scuba dive, laze on the uncrowded beaches or grab a kayak and go exploring this slice of tropical beauty.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+While Borneo's wild landscapes and beautiful beaches are definitely the true highlight of any visit, there are still treasures to found in Borneo's markets.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Borneo
+
+Ikat Weaving -
+This traditional weaving process results in coloured, patterned textiles that can be used as clothing, wall hangings and home furnishings.
+
+Wood Carvings -
+Sarawak boasts a population of talented wood carvers -wooden bowls, charms, masks and figurines are all wonderful souvenir choices.
+
+Ceramics -
+Sarawak also has a wide range of good-quality ceramics and pottery thanks to the local populations of Chinese and Iban tribal potters, each group possessing their own distinctive style.
+
+
+
+
+
+
+
+
+
+Festival and events in Borneo
+
+
+
+
+
+
+×
+
+Festival and events in Borneo
+
+
+
+Rainforest World Music Festival
+
+This popular three-day music festival held in Kuching features a diverse range of world music performances, traditional music workshops, food and art. Growing larger each year, this relaxed festival allows festival-goers to interact with performers and be a part of the fun.
+
+Borneo Jazz
+
+International jazz acts and fans travel to Sarawak to celebrate their love of jazz grooves at this annual festival - considered one of Asia's best music events.
+
+Borneo International Kite Festival
+
+See the blue skies of Sarawak be transformed into colourful animation when thousands of vibrant kites take to the air. Fish, angels, snakes, demons and cats fly alongside surreal kaleidoscopic optical delights in this festival that kids and adults will delight in.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Into the Heart of Borneo
+
+Redmond O'Hanlon
+
+All Elevations Unknown
+
+Sam Lightner Jnr
+
+The Airmen and the Headhunters
+
+Judith Heimann
+
+Where Hornbills Fly
+
+Erik Jensen
+
+The White Rajah
+
+Tom Williams
+
+
+
+
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Borneo
+
+Be considerate of Borneo’s customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+Palm oil
+
+While travelling through eastern Sabah, you will likely notice that much of the land is covered in palm oil plantations. Palm oil is used throughout the world in a range of products from biscuits to cosmetics, and its use is on the rise. This growth comes at the expense of large areas of tropical forest and other ecosystems, cleared to make room for vast monoculture oil palm plantations. The clearing has destroyed critical habitat for many endangered species – including rhinos, elephants, tigers and the Borneo orangutan – and, if this wasn’t bad enough, the burning of the forest to make room for crops is a significant contributor to greenhouse gas emissions.
+
+Since palm oil is a significant contributor to Malaysia’s economy, consumers have the power to change the above practices by only purchasing Roundtable on Sustainable Palm Oil (RSPO) approved products. Sustainable palm oil production is legal, economically viable, environmentally appropriate and socially beneficial and helps prevent further illegal forest clearing. Currently, it is estimated that around 50% of the palm oil in Malaysia is currently RSPO approved. Purchasing RSPO-approved products will help shift plantations and producers that are non-certified to become more sustainable. RSPO-approved products have a certification on the label (a small palm tree) – keep an eye out for it.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Borneo, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+HUTAN
+
+The Intrepid Foundation has teamed up with HUTAN, a local community-run organisation based in the Kinabatangan region of eastern Sabah, which runs a conservation programme to protect orangutans. Their work has led to improved land management and reduced degradation of orangutan habitat.
+
+To learn more or donate, visit:
+theintrepidfoundation.org/projects/hutan/
+
+To learn more about palm oil production and the issues surrounding it, visit:
+http://www.worldwildlife.org/industries/palm-oil
+http://www.rspo.org/
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

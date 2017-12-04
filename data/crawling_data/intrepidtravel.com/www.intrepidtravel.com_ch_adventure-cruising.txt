@@ -1,0 +1,4079 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adventure Cruising | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adventure cruising
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Adventure Cruising
+
+
+
+
+Think ‘cruise’, and you probably picture Hawaiian shirt-clad retirees sipping Blue Lagoons by the pool all day. But with Adventure Cruising, it’s all about the destination.
+
+There’s no time to spend on shuffleboard or bad cabaret when you’re admiring breathtaking waterfalls or off wandering through little Croatian laneways with your
+local leader
+. On our adventure cruising vessel, we travel in a small group of travellers (no more than 31), so when we haul anchor into smaller ports and islands, you’ll get to know the locals rather than outnumber them.
+
+
+
+15% OFF 2018 Adventure Cruises
+
+Book a trip before 31 December 2017 (departing between 1 January 2018 and 31 December 2018) and get 15% OFF.
+
+Terms & Conditions
+
+
+
+
+
+×
+
+
+
+15% OFF 2018 Adventure Cruises
+
+Book a trip before 31 December 2017 (departing between 1 January 2018 and 31 December 2018) and get 15% OFF.
+
+
+
+
+1. Save 15% on new Adventure Cruising bookings only departing between 1 January 2018 and 31 December 2018.
+2. Trips must be booked between 27 November 2017 and 31 December 2017.
+3. This offer is not combinable with any other offer including loyalty.
+4. Trips must be booked between 27 November 2017 and 31 December 2017. Trip must depart between 1 January 2018 and 31 December 2018.
+5. Offer only applies to the land portion of the trip and cannot be applied to flights, insurance, or any additional services.
+6. The offer applies to Intrepid & Dragoman operated trips only. Third party operators can be found in the trip notes. Please note that the following are excluded: Polar voyages, Expeditions, Charity Treks, Short Break Adventures, Bite-Size Breaks, Urban Adventures and Dragoman trips to Bhutan, Rio Carnival and the Dragoman Family trips.
+7. A deposit of CHF300, GBP200, EUR275 and ZAR4000 is required at the time of booking, and full payment is required at least 60 days prior to travel.
+8. This sale is only valid for residents of Europe and Africa.
+9. There will be no extensions to the travel, booking or payment periods listed above.
+10. Intrepid Travel's Booking Conditions will also apply to the trip booked, and it is imperative that you examine those conditions before booking with Intrepid Travel. The most up to date Booking Conditions are accessible at http://www.intrepidtravel.com/booking-intrepid/booking-conditions.
+11. The trip is subject to availability and confirmation by Intrepid Travel at time of booking.
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our adventure cruising tours
+
+
+
+
+
+
+
+
+
+
+Cruising Iceland's Wild West Coast
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR3,349
+
+
+
+
+
+Discover the spectacular landscapes and remote villages of Iceland’s remote Westfjords,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Spain, Portugal and Morocco (Lisbon to Malaga)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,877
+
+
+
+
+
+Climb aboard the Harmony G for an unforgettable cruising adventure in Portugal, Spain...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cruise the Hidden Gems of Greece
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,745
+
+
+
+
+
+Join Intrepid for a small ship cruising adventure around Greece’s hidden hotspots, from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Croatia's Central Coast
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,755
+
+
+
+
+
+Embrace Dalmation life on this glorious 8-day adventure cruise on Croatia’s coast....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Coastal Cruising - Dubrovnik to Split (Royal Eleganza)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,887
+
+
+
+
+
+Join Intrepid for a small ship cruising adventure to Croatia. Voyage along the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Spain, Portugal and Morocco - Malaga to Lisbon
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,877
+
+
+
+
+
+Climb aboard the Harmony G and set sail for Spain, Portugal and Morocco on this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Coastal Cruising - Split to Dubrovnik
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,887
+
+
+
+
+
+Join Intrepid for a cruising adventure to Croatia. Voyage along the Dalmatian coast,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising the Thai Islands - ex Phuket
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,805
+
+
+
+
+
+Join a small-ship cruise to the beautiful small islands off Southern Thailand’s west...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Thailand & Malaysia - Penang to Phuket
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Travel Malaysia and Thailand’s stunning west coast on a small-ship Peregrine adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Thailand & Malaysia - Phuket to Penang
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Uncover Malaysia and Thailand’s spectacular west coast on a small-ship Peregrine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indonesian Island Cruise (Panorama II)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Join Peregrine on a small-ship adventure cruise in Indonesia, visiting the perfect...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South Vietnam Coastal Cruising - Ho Chi Minh to Danang
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,710
+
+
+
+
+
+Travel the south coast of Vietnam on a Peregrine small-ship adventure cruise, visiting...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South Vietnam Coastal Cruising - Danang to Ho Chi Minh
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,710
+
+
+
+
+
+Cruise Vietnam’s south coast on a small-ship Peregrine adventure, visiting Hoi An, Nha...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+North Vietnam Coastal Cruising - Hanoi to Danang
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,535
+
+
+
+
+
+Embark on a small-ship coastal cruise in Vietnam, visiting iconic Halong Bay, the cave...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+North Vietnam Coastal Cruising - Danang to Hanoi
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,535
+
+
+
+
+
+Experience historic Hue, vibrant Hanoi and the limestone beauty of Halong Bay and Phong...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising the Coast of Vietnam - South to North
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR5,200
+
+
+
+
+
+Travel to Vietnam and embark on a small-ship adventure cruise to Nha Trang, Ha Long Bay...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising the Coast of Vietnam - North to South
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR5,200
+
+
+
+
+
+Experience the beautiful coast of Vietnam on a Peregrine small-ship adventure cruise to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Why choose adventure cruising?
+
+
+
+
+
+
+
+
+
+Small ships, small ports
+
+Steer clear of the regular nautical routes and sail into small ports that larger cruise ships can’t reach.
+
+
+
+
+
+
+
+
+
+
+It’s all about the destination
+
+Most of the cruising is done during the early morning, meaning you have more time to explore and immerse yourself at each stop.
+
+
+
+
+
+
+
+
+
+
+Local flavours
+
+Expand your palate with an on-board menu tailored to reflect each destination. All our trips come with either half or full-board, plus an unforgettable ‘Local Night’ where your chefs will whip up a feast of regional fare.
+
+
+
+
+
+
+
+
+
+
+On board activities
+
+You don’t need on-board casinos and bowling alleys when you can pop on a snorkel and dive into the glittering Adriatic Sea, or pick up a kayak and paddle out into the blue.
+
+
+
+
+
+
+
+
+
+
+A lighter footprint.
+
+We carbon offset each of our trips and strive to have a low impact on local communities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our boats
+
+
+
+
+
+
+
+
+
+Panorama II
+
+
+
+
+
+
+
+
+
+
+Galileo
+
+
+
+
+
+
+
+
+
+
+Royal Eleganza
+
+
+
+
+
+
+
+
+
+
+Harmony G
+
+
+
+
+
+
+
+
+
+
+Panorama
+
+
+
+
+
+
+
+
+FAQs
+
+
+
+
+
+What’s the difference between Intrepid Sailing and Adventure Cruising?
+
+
+
+
+
+
+
+
+
+It all comes down to a matter of size. Our
+Intrepid Sailing
+range puts travellers on a real sailing vessel – mast, sails and all – and you can help sail the boat (or just relax with a book if you prefer). These boats are smaller, with our fleet comprised of single-hulled yachts in Europe and catamarans in Asia and the Caribbean. Each boat can accommodate up to 8 passengers plus crew.
+
+By contrast, our Adventure Cruises use larger boats that allow room for additional creature comforts – such as air conditioning and Wi-Fi. A bigger boat also carries more people, which is why you’ll be joined by up to 31 fellow travellers to share the journey. While our cruises use larger boats, these are still smaller than other commercial cruise ships. This means you can skip the queues waiting to get off the boat and spend more time in places that larger cruise liners simply can’t get to.
+
+
+
+
+
+
+
+What type of ship will I be on?
+
+
+
+
+
+
+
+
+
+We have two classes of ships – Motor Yacht and Motor Sailor – with both carrying around 30 passengers. Both ships rely on motors as their main means of propulsion, however the Motor Sailor also features the more romantic option of setting the sails to the wind too. The interior varies between ships – with some vessels offering more contemporary furnishings while others are more traditional in style.
+
+Please note only adventure cruises in Cuba and Greece offer a choice of ships. All other destinations have a single ship per itinerary.
+
+
+
+
+
+
+
+What are the cabins like?
+
+
+
+
+
+
+
+
+
+Being a larger boat, there’s more room for comfort and additional luxuries – such as air conditioning in each cabin, as well as a central music system and telephone connection for intra-ship communication. Cabins also feature wardrobe and storage space. Please be aware that, although cabin space is larger than on a sailing boat, cabins are still compact in size.
+
+All cabins on all ships have been fitted with private bathrooms and include hairdryers. Cabins are equipped with European type plugs, so please remember to bring an adaptor if necessary. Each guest on board will receive some handy toiletries too, such as shampoo and shower gel. A safe and stocked minibar (containing water) are in every cabin.
+
+
+
+
+
+
+
+Why are the cabins different prices?
+
+
+
+
+
+
+
+
+
+In the same way that hotels offer varying rates for rooms depending on views, location and space, prices on a cruise ship will also vary depending on differing levels of amenities.
+
+
+
+
+
+
+
+
+How long will be spent between sailing and being at port?
+
+
+
+
+
+
+
+
+
+Most sailing between ports will take place at night, allowing greater time to explore each new location during the day. This also allows you to make the most of any optional on-shore excursions or off-ship activities. It’s generally a good idea to familiarise yourself with the trip itinerary before arriving, as this will contain more in depth details about the excursions on offer and the amount of time scheduled at each port. While we do our best to stick to the itinerary, it’s important to remember that all sailing is reliant on the weather being cooperative. If there’s a turn in the weather, or maintaining the itinerary becomes unsafe, you can rely on your skipper to chart an alternative course.
+
+
+
+
+
+
+
+Will I get seasick?
+
+
+
+
+
+
+
+
+
+Seasickness is most often felt when the ship is cruising in open waters, although some passengers may feel symptoms while cruising through sheltered conditions along the coast. Some itineraries include a mix of coastline cruising as well as navigating open waters between islands and ports.
+
+Common symptoms of sea sickness include fatigue, uneasiness, dizziness, headaches, and, in some instances, vomiting. If you’ve never sailed before, or are unsure whether you’re susceptible to seasickness, it’s generally a good idea to pack some precautionary medication.
+
+Many symptoms of seasickness subside after some time to adjust to life on board the ship (usually a few hours to a day) and paracetamol tables can assist in easing this transition. If symptoms persist, there are a number of self-management techniques you can try – such as drinking ginger tea, sitting out in the open air (the higher on board the better) and watching the horizon. There are also a variety of medications available to help alleviate seasickness symptoms.
+
+Please note that there are no doctors aboard the ships and you will need to obtain any medication before arriving.
+
+
+
+
+
+
+
+Who will I be travelling with?
+
+
+
+
+
+
+
+
+
+Each of our cruise ships carries around 30 passengers, who are usually a mix of European, North American and Australian/NZ travellers of all ages.
+
+
+
+
+
+
+
+What if I’m travelling solo?
+
+
+
+
+
+
+
+
+
+Joining one of our adventure cruises is a great way to experience a destination and make some new friends. Solo travellers on all our cruises will be able to share a twin cabin with another passenger of the same gender. If you would rather a cabin to yourself, a single supplement can be paid for you to have a cabin for your own use.
+
+
+
+
+
+
+
+What language is spoken on the ship?
+
+
+
+
+
+
+
+
+
+The predominant language on board is English, however our staff may also speak German, French, Spanish or Russian depending on the departure. Most tours are multilingual environments, providing the opportunity to meet and learn from a variety of nationalities.
+
+
+
+
+
+
+
+Does the itinerary ever change?
+
+
+
+
+
+
+
+
+
+Cruising is, by its nature, always subject to winds, tides and weather. Sometimes we may need to adjust the itinerary, or vary the order in which destinations are visited, to accommodate this.
+
+
+
+
+
+
+
+What are the safety standards on board?
+
+
+
+
+
+
+
+
+
+All of our ships are built to SOLAS (Safety of Life at Sea) standards and are operated by an experienced captain and crew. Each ship is equipped with life jackets, flares, radio, life ring buoys, and emergency supplies.
+
+
+
+
+
+
+
+What is the official currency on board?
+
+
+
+
+
+
+
+
+
+While there is an optional credit system for expenses, the accepted currency on board is the Euro. Travellers who choose to use the credit system can settle their tab at the end of the cruise. Credit cards are accepted.
+
+
+
+
+
+
+
+What if I have dietary requirements?
+
+
+
+
+
+
+
+
+
+Most dietary requirements can be catered for, simply tell us if you have any allergies or dietary requirements at the time of booking. Unfortunately we are unable to cater for kosher and halal needs. If you require kosher or halal meals, please tell us at the time of booking and we will do our best to accommodate.
+
+
+
+
+
+
+
+Are alcoholic drinks available on board?
+
+
+
+
+
+
+
+
+
+Reasonably prices alcoholic drinks are available for purchase on all our ships. All prices on board use the Euro. For example, a cocktail may cost EUR5 while a glass of wine might be EUR3.50. The bar uses a chit system, where you sign for drinks as you purchase them, and the amount is added to your on-board account. This account is settled at the end of the tour.
+
+
+
+
+
+
+
+Can I go swimming from the ship?
+
+
+
+
+
+
+
+
+
+Absolutely! All ships are fitted with a swimming platform, usually located at the stern side of the ship. This platform allows easy access to and from the water during swimming stops. The crew will always be present, either from the ship or a small zodiac safety boat, and will watch out for the safety of swimmers. Additional towels are available during swim stops if needed. All ships are supplied with snorkelling and fishing gear that you are free to use, simply ask the crew and they’ll be happy to provide it. Some ships also offer kayaks and stand-up paddleboards for use at swim stops.
+
+
+
+
+
+
+
+Is there a dress code on board?
+
+
+
+
+
+
+
+
+
+The dress code on board is very casual – so feel free to leave your regulation Hawaiian shirt at home (or bring it if you really love it). It is generally a good idea to pack some smart dress, such as a sundress or a collared shirt, for the final night’s Captain’s Dinner. Smart dress might also come in handy if you plan to eat off the shop in port.
+
+
+
+
+
+
+
+How much luggage should I take?
+
+
+
+
+
+
+
+
+
+Due to the compact size of the boats and the sometimes rocky nature of a sailing trip, it is advisable that you bring fabric/canvas luggage. When choosing what kind of bag to pack, be mindful that you will need to wheel or carry it over a gangway connecting the boat to the port.
+
+
+
+
+
+
+
+What should I pack?
+
+
+
+
+
+
+
+
+
+While cruise ships have more space than smaller sailing vessels, there’s still only a finite amount of space on the boat. It’s best to avoid bulky suitcases and packing needless items such as surfboards, scuba gear and your favourite lilo.
+
+While the below list is not an exhaustive summary of what you should pack, it should give you some idea of what to expect:
+
+A medium-sized fabric bag that can be flattened or stored easily
+
+A small day pack for shore excursions
+
+Some flip flops or deck shoes that can get wet
+
+Sunscreen, sunglasses and a hat
+
+Seasickness tablets (just in case)
+
+Swimmers (don’t worry about the snorkel and fins – we provide those)
+
+Waterproof camera (for those sweet underwater shots)
+
+A light weatherproof jacket (just in case of high seas or seasonal showers)
+
+Please check your tour’s essential trip information for a more tailored packing list.
+
+
+
+
+
+
+
+Is there Internet available on board?
+
+
+
+
+
+
+
+
+
+Wi-Fi is available on board at an additional cost. Please note, Wi-Fi signal may be impaired or temporarily unavailable in more remote locations or when cruising.
+
+
+
+
+
+
+
+How accessible are the ships?
+
+
+
+
+
+
+
+
+
+Please note that none of the ships are fitted with lifts and moving between deck levels involves climbing steep stairways. To disembark the ship at port, you will need to walk down a narrow gangway connecting the dock to the ship. Our ships are small enough that they can dock at all ports, and this means tenders (small dinghies) are not required.
+
+
+
+
+
+
+
+Are flights included?
+
+
+
+
+
+
+
+
+
+Flights are not included in the tour cost, however we can assist with booking these. Intrepid has partnerships with many of the major airlines, which means we can get you the best price on flights for your intended travel dates. We know it can sometimes be challenging to organise flights - and some destinations are harder than others – which is why we can assist with negotiating dates, transfers and prices.
+Speak to us
+about how we can help.
+
+As cruising is a heavily weather-dependent activity, which can cause delays in returning to port, we recommend allowing an additional night at the end of the trip to ensure nobody misses any onward flights.
+
+
+
+
+
+
+
+Can I combine an adventure cruise with another Intrepid small group land tour?
+
+
+
+
+
+
+
+
+
+Yes, in fact this is a popular option for many travellers. There are short day tours available to help fill the days, and you can choose to bookend your cruise with an Intrepid tour too.
+Contact us
+or your local travel agent to find out more.
+
+
+
+
+
+
+
+Can you book additional accommodation, day tours and transfers?
+
+
+
+
+
+
+
+
+
+Yes. We can help you book any additional accommodation as needed as well as transfers and day tours.
+Contact us
+to find out more.
+
+
+
+
+
+
+Stories from the sea
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2017
+
+
+
+8 Croatian islands so beautiful that everyone...
+
+
+
+
+
+
+Traditionally the Dalmatian coast always lost out to sun-soaked hot-spots like the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 22, 2017
+
+
+
+Is Plitvice Lakes National Park the most...
+
+
+
+
+
+
+Answer: Yes! But to fully appreciate its natural beauty and serenity, you need to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+At sea: life on the water with Intrepid skipper...
+
+
+
+
+
+
+You’d think falling overboard would put you off sailing, but not skipper Mike Simon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+10 reasons why Zagreb, Croatia should be your...
+
+
+
+
+
+
+It may not have the Adriatic Sea or the beach, but I was immediately charmed by...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 19, 2017
+
+
+
+Your essential guide to sailing jargon
+
+
+
+
+
+
+If you’re just starting to cut your teeth on life at sea, here’s the essential...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+5 European day hikes everyone should experience
+
+
+
+
+
+
+Europe’s varied geography lends itself to hundreds of day walks that require...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2017
+
+
+
+How to protect your camera at sea (and also...
+
+
+
+
+
+
+Nothing's worse than damaging your camera while on the water. Follow these tips...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 18, 2017
+
+
+
+5 ways to stop seasickness
+
+
+
+
+
+
+Seasickness is never fun but thankfully it can be treated. Follow these five...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 10, 2017
+
+
+
+You should go to Croatia just for the art scene...
+
+
+
+
+
+
+In Croatia, artistic expression flavors every area of life. Contemporary...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 17, 2017
+
+
+
+5 beautiful islands in Europe you haven’t...
+
+
+
+
+
+
+There's nothing we love more than the small towns, coastal views, and endless...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 10, 2017
+
+
+
+Croatia in one week: The ultimate guide
+
+
+
+
+
+
+With its ancient walled cities, shimmering sapphire waters, impeccable wine and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Looking for a smaller boat?
+
+Want to feel the wind in your hair? Our sailing tours use smaller catamarans or yachts rather than multi-deck cruise ships. Travellers can lend a helping hand with navigating, tacking and steering, or (if that sounds like hard work) simply stretch out on deck with a good book.
+
+Find out more about Intrepid sailing tours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

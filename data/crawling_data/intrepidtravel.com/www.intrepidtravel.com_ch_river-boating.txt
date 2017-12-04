@@ -1,0 +1,3308 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+River Boating Tours and Trips | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+River Boating Tours and Trips
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Sailing
+
+River Boating
+
+
+
+
+Settle down with a cheese board, a glass of your favourite red and discover the true meaning of 'joie de vivre'.
+
+Life doesn’t get much better than leisurely cruising the countryside, drifting past sleepy hamlets while sampling some of the best cheese southern
+France
+has to offer. What river boating lacks in crystal clear waters and sandy beaches, it more than makes up for in delicious excursions – cycling through vineyards for a taste at the cellar door, loading up on croissants at the village bakery, and browsing fresh produce at farmers markets. Then there’s the history, Carcassonne’s legendary fortified city, monasteries where monks have crafted wine for centuries and the ruined remains of Castle Decize. Pick up a glass and join us - this is life in the slow lane, Intrepid-style.
+
+
+
+
+
+
+Our River Boating trips
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy - Chatillion sur Loire - Decize
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,740
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Experience life at a different pace on this peaceful and relaxing drift down the Canal...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy- Decize - Chatillion sur Loire
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Homps to Castelnaudary)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Experience life at a different pace on this peaceful and relaxing drift down the Canal...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy - Chatillion sur Loire - Decize
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,805
+
+
+
+
+
+Relax and sample some of the Burgoyne’s famous wine and cheese as you cruise down the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+Why choose River Boating
+
+
+
+
+
+
+
+
+
+
+
+Full inclusions
+
+Our river boating trips come with everything you need to make the most of your time on the water. That includes a leader to steer your boat, kitchen starter pack, BBQ, Wi-Fi and even bikes, so you can cycle to the nearby chateaux.
+
+
+
+
+
+
+
+
+
+
+
+No experience needed
+
+Your fully-trained onboard leader is there to help you sit back and relax while they operate the boat. If you’d like to pick up some boating skills, they can also show you the ropes.
+
+
+
+
+
+
+
+
+
+
+
+Best of both worlds
+
+While drifting along French waterways is a highlight of our trips, there's also plenty of free time on land to explore villages and see the sights. You can choose to walk or even ride along the river on a bike.
+
+
+
+
+
+
+
+
+
+
+
+Safety first
+
+Safety is our number one priority, which is why our boats are all top-of-the-line and range from brand new to a handful of years old.
+
+
+
+
+
+
+
+Highlights of River Boating
+
+
+
+
+
+
+
+
+
+
+Sample wines in Sancerre
+
+Sancerre’s greatest claim to fame is its number one export: sauvignon blanc. The region’s success comes down to the bed of chalk that runs beneath it, making it the perfect site for viticulture. Learn about Sancerre’s proud wine making traditions while visiting local cellar doors, and even a goat cheese farm.
+
+Visit Sancerre on our Waterways of Burgundy tour
+
+
+
+
+
+
+
+
+
+
+Cycle alongside the Canal du Midi
+
+Is there anything more quintessentially French than a morning bike ride to the boulangerie to pick up some fresh baguettes? Load up on croissants, eclairs and more, then ride along the canal back to your boat (or stop along the way and enjoy a guilty picnic on the banks).
+
+Saddle up on our Canal du Midi tour
+
+
+
+
+
+
+
+
+
+
+Wander the historic city of Carcassonne
+
+The second most visited tourist site in all of France (the first being the Eiffel Tower) has a history dating all the way back to the 6
+th
+Century BC, with just about every stone bridge, cobbled lane and fairy-tale castle having a story to share. Choose to walk these ancient streets or jump on a bike and race to the city’s enticing fromageries.
+
+Explore the streets of Carcassonne
+
+
+
+
+
+
+
+Our boats
+
+
+
+
+Grand Classique
+
+Spend one of the most relaxing weeks of your life cruising aboard the Grand Classique. Built for comfort and ease of operation (with a top speed of 15 kilometres/9 miles), the vessel is fitted with four twin/double cabins, a fully operational kitchen, air conditioning, Wi-Fi and  sundeck – the perfect viewpoint for watching the French countryside drifty on by.
+
+Click for deck plans and more information
+
+
+
+Gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQs
+
+
+
+
+
+Will my river boating trip be accompanied by a leader?
+
+
+
+
+
+
+
+
+
+Yes, all of our trips will be accompanied by a leader. They’ll be on hand to operate the boat (and encourage you to give it a go) and give you helpful information about the towns you’ll be travelling through. Our leaders are just as helpful off the boat, too. They’ll take you on walking or cycling tours of the towns and villages at each destination and can recommend local cafes, restaurants and bars to visit.
+
+
+
+
+
+
+
+Do I need to charter the whole boat?
+
+
+
+
+
+
+
+
+
+No. The beauty of travelling with Intrepid is that you can purchase this trip by the berth. This means you can be a single traveller, a couple or a group of friends and you will still pay a per person price. If you are a group of friends and would like to charter the entire boat for your own private use, get in touch with
+our Private Groups team
+.
+
+
+
+
+
+
+
+Do I need to have experience in sailing?
+
+
+
+
+
+
+
+
+
+You do not need any previous boating experience to take part in a river boating trip. On arrival, you’ll get an in-depth briefing on the specifics of your boat so you can cruise in confidence. Your leader will also be on hand and, if needed, we have additional staff on standby who can make their way to the boat.
+
+
+
+
+
+
+
+Will I need to help out onboard?
+
+
+
+
+
+
+
+
+
+In short, yes. The boat will be travelling along the Canal du Midi and the Canal Lateral a la Loire and we will encounter locks along the way. Locks are used to raise or lower boats in the canals as they pass through different elevations. Each time we enter a lock, we’ll need one traveller at the bow and one at the stern to hold ropes that guide the boat into and out of the lock, along with one person (usually the leader) behind the wheel. This is by no means strenuous work and is a unique feature of river boating, so we encourage all travellers to participate.
+
+
+
+
+
+
+
+When are the canal locks open?
+
+
+
+
+
+
+
+
+
+The locks are usually in operation from 9am to 5pm and closed for an hour at lunch. The route planner will give you distances between locks and their opening hours so you can plan your journey. On most days we will manoeuvre the boat so we can be one of the first boats through the lock at 9am. This means you can have a leisurely breakfast or go for a ride or walk before we set off each day.
+
+
+
+
+
+
+
+Can I steer the boat?
+
+
+
+
+
+
+
+
+
+Of course you can, that’s half the fun of river boating. The boat has a maximum speed of 15 km/hr on rivers and 6 to 8 km/hr on canals, so the boat is not moving at high speed. The steering wheel is located on the sundeck, with another wheel on the main deck for those rare days we encounter rain. There are only three controls: forward, reverse and neutral, and two buttons, a left and right, to control the thruster.
+
+
+
+
+
+
+
+Will I need additional insurance if I want to steer the boat?
+
+
+
+
+
+
+
+
+
+No. Included in the cost of the trip is Collision Damage Waiver insurance. All you need to do is nominate yourself (alongside other travellers) during the boat briefing as wanting to operate the boat and your details will be taken down and you will be covered by our insurance.
+
+
+
+
+
+
+
+Will I need to have a certain level of fitness to help out and get around the boat?
+
+
+
+
+
+
+
+
+
+You don’t need to be an athlete however you will need to be able to be comfortable moving around the boat. You will also need to be able to embark and disembark, to pick up a rope and secure it to a bollard, and hold on to it as we pass through a lock.
+
+Walking and bike tracks follow both canals for the most part and, if you feel like being active, you can take one of the included onboard bikes for a ride and head into one of the village markets. Another option is to take a leisurely walk each morning before the boat sets sail for the day.
+
+
+
+
+
+
+
+Do I have to pay a single supplement if I’m a single traveller?
+
+
+
+
+
+
+
+
+
+No. If you’re happy to share a cabin with a traveller of the same gender then you only pay the twin share price. When booking, your sales agent will check the gender mix on the boat before a confirmation is made. If you do not identify with the gender on your passport and would like us to take this into account when allocating cabins, please tell your sales agent at the time of booking or get in touch with our team.
+
+
+
+
+
+
+
+Can I get a single supplement if I don’t want to share a cabin?
+
+
+
+
+
+
+
+
+
+Yes. A single supplement can be requested at the time of booking. The cost of the single supplement is twice the cabin cost, however you do not pay twice for the included activities.
+
+
+
+
+
+
+
+What meals are included on your river boating trips?
+
+
+
+
+
+
+
+
+
+A ‘starter pack’ is included on each trip. The starter pack includes staples such as croissants, baguettes/bread, milk, butter, jam, sugar, tea, coffee, milk, juice, snacks, olive oil, wine, beer, soft drink, water and juice [see the Essential Trip Information for the complete list].
+
+The starter pack is enough to cover your first breakfast, morning and afternoon snacks, and a sunset drink on the first night. After the operational briefing the leader will take you to a local deli and supermarket to buy more supplies.
+
+One option for covering meals that aren’t included in your trip is for the group to contribute to a kitty on the first day of the trip (approximately EU 25-30, or US 30-35, per person) that can be managed by the group or designated individual. This can be used to purchase food at supermarkets or pay for the group’s meal at a restaurant. For evening meals, the leader will recommend local restaurants and pre-book them if needed. The boat also comes with a fully equipped kitchen and BBQ if you’d prefer to stay onboard and enjoy a meal on deck instead.
+
+If you have any allergies or special dietary requirements, please advise at the time of booking.
+
+
+
+
+
+
+
+How much freedom will I have to do my own thing?
+
+
+
+
+
+
+
+
+
+We have included activities and meals in our itineraries but you can always choose not to participate. If you wish to visit a town which isn’t included, our itinerary is flexible enough to try and accommodate your requests. Just speak to your leader and we’ll do our best to make it happen.
+
+
+
+
+
+
+
+Is there hot water and power available on board?
+
+
+
+
+
+
+
+
+
+Yes. Both are generated by the boat’s motor and you’ll be able to enjoy a hot shower at the end of the day. A number of bases also have shower and toilet facilities that are either free or available at a small fee. The onboard voltage is 220v.
+
+
+
+
+
+
+
+What else is included on the boat?
+
+
+
+
+
+
+
+
+
+Our trips include all linen, crockery, cutlery, pots and pans. WiFi is also available onboard and you’ll be able to play music by plugging your phone into the radio using a phone/MP3 jack or USB connection.
+
+
+
+
+
+
+
+Can you cater for special occasions?
+
+
+
+
+
+
+
+
+
+If you're having a significant birthday, anniversary or other special occasion, we can pre-order a special basket to help you celebrate. Beautifully presented, each gift basket comes brimming with local delicacies and specialty products from the region. Prices begin from approximately EU 90 (US 97). To find out more about gift baskets, please
+contact our staff
+.
+
+
+
+
+
+
+Reviews
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps),
+June 2017
+
+Maryanne Wallace
+
+Can't recommend Intrepid highly enough.  I usually travel solo (my preference!) and every trip sees the participants all getting along very well together.  I guess that is because Intrepid travelers are of like minds.  Leaders are always full of enthusiasm and their local knowledge is what appeals to me.  I travel to get involved in local cultures and customs and the Leaders' insights are perfect for this.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps),
+September 2017
+
+Jan Conlon
+
+I really recommend this trip it was a great way to experience the counrty side of France, it was a good balance of activities and free time
+
+Review submitted 24 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Homps to Castelnaudary),
+September 2017
+
+LAWRENCE GI BBS
+
+Canal cruising is the most relaxing holiday possible. Everybody at the locks were friendly and sharing the fun of navigating the 60 locks on the trip. Get Nestor to stop at the "Kiwi BBQ" site and enjoy the quiet countryside whilst the sun set. A highlight !!!
+
+Review submitted 30 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Waterways of Burgundy - Chatillion sur Loire - Decize,
+July 2017
+
+Stuart Marshall
+
+this trip is for the adventurist , it's hands on , great fun and relaxing. Motoring down the canal at a maximum of 8 km and hour watching the countryside pass by is superb.
+
+Review submitted 24 Jul 2017
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Homps to Castelnaudary),
+July 2017
+
+Dianne Thorstensen
+
+Please read all trip notes. This is very important. Note what is not included eg if you will have to cook, provide meals, how much physical activity is required etc
+
+Review submitted 23 Jul 2017
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps),
+June 2017
+
+Keith Green
+
+This is a food trip for people who want to experience southern France at a more leisurely pace than the typical group travel tour.
+
+Freshly baked baguettes, croissants, pain au chocolate, eclairs, tarte tatin made from whatever local fruit is in season and plenty of french butter to smear on everything (what is it about french butter that makes it so good?)  Cheese, wine, charcuterie (foie gras anyone?), cassoulet, oysters  . . . etc. 
+
+The pacing was perfect in that it allowed for exploring on your own, with the group, or simply relaxing on the boat and assisting your tour leader to navigate canal lockes that were the main trade routes of the 17th century and are still functioning today.
+
+The citadel of Carcassone is one of the finest examples of medieval castles still standing in Europe but don't worry, this isn't one of those trips where you are sprinting from castle to castle and monastery to monastery. There is just enough history to keep it interesting without overdoing it.
+
+Picture floating underneath medieval stone bridges and perfectly manicured 100 year old trees with castles and monasteries for scenery. Smearing foie gras on a fresh baguette on the rooftop deck of the boat and making sure you have enough sun cream to avoid sunburn. Not your typical organized group trip.
+
+Review submitted 27 Jun 2017
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps),
+June 2017
+
+Kate Green
+
+This trip is the perfect mix of travel and relaxation. The boat is a fun home base that allows you to sight see while sailing gently down the canal. The included activities are spaced so that you can have the maximum flexibility in tailoring the trip to your interests. Meeting locals, tasting wine, and enjoying French food all while spending a good portion of the day simply taking in the surroundings from the boat was spectacular. The close quarters on board mean that you really get to know your fellow travelers - sharing meals, cleaning up, and making decisions on what to see communally. The slow pace enhances the way you experience the region and the frequent stops, locks, and moorings allow for just enough activity to feel productive during the days spent lounging on board. One of the most relaxing group trips I've been on!
+
+Review submitted 27 Jun 2017
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps),
+June 2017
+
+Wendy Dawson
+
+If you love boats, dream of canals and living on board unfairly confined quarters with other adventurers, this is for You!  Requires a moderate degree of fitness to manage the steps inside the boat and getting on and off.  Be prepared and willing to have the thrill of being the crew whilst watching the locals in  action.  Enjoy the shadows of the trees lining the bank across the water, strolling along the canal and through small villages.... It is very relaxing, enjoyable and inspiring way to spend time in the slow lane.
+
+Review submitted 12 Jun 2017
+
+
+
+
+
+
+
+
+
+
+
+The Canal du Midi  (Castelnaudary to Homps),
+June 2017
+
+Michael Beale
+
+The boat trip from Castelnaudary to Homps was great fun, but take care not to take large hard suitcases as if the trip is full soft backpacks are easier for handling on the boat given the limited space in the rooms on the boat.   Do research before you come so ideas may be incorporated into the program.
+
+Review submitted 12 Jun 2017
+
+
+
+
+
+
+Show more
+
+
+
+
+
+Read more about River Boating
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 29, 2015
+
+
+
+7 reasons you need to be cruising France’s...
+
+
+
+
+
+
+There is one way of exploring this impossibly romantic region that doesn’t occur...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Looking for more boating adventures?
+
+
+
+
+
+
+
+
+
+
+Intrepid Sailing
+
+Want wide open oceans instead of canals? Raise the sails and set off on an adventure with our range of small-group sailing adventures.
+
+Read more about Intrepid Sailing
+
+
+
+
+
+
+
+
+
+
+Adventure Cruising
+
+Ditch the commercial liners for our range of small ship cruises, offering more creature comforts while exploring destinations like Iceland, Greece and Portugal.
+
+Read more about Adventure Cruising
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

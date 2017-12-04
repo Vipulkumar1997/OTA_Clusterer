@@ -1,0 +1,3947 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Russia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Russia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Russia
+
+
+
+Part fantasy, part historical drama, Russia reads as though it were a work of seminal fiction.
+
+
+A storybook landscape of castles, palaces and cathedrals, this romantic place sets the scene for a famous narrative of valiant champions, incredible riches, celebrated royalty and great tyrants. Yet the real magic of this dramatic country is its wonderfully resilient people and distinctive culture, which are a constant source of warmth in Russia’s massive backyard.
+
+
+Our Russia trips
+
+
+
+
+
+
+
+
+
+Russia Highlights
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,505
+
+
+
+
+
+Taste mystery and intrigue on a revealing tour of Russia – from the cultural city of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Russia Highlights
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Taste mystery and intrigue on a revealing tour of Russia – from the cultural city of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Trans-Mongolian Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR4,070
+
+
+
+
+
+Travel on the Trans-Siberian and Trans-Mongolian Railways from Russia to China. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Trans-Mongolian Experience
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR3,770
+
+
+
+
+
+Travel on the Trans-Siberian and Trans-Mongolian Railways from Russia to China. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Russia Expedition - Winter Trans-Siberian Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Travel the great Trans-Siberian railway on a winter expedition from Moscow to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to St Petersburg
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,645
+
+
+
+
+
+Explore China, Mongolia and Russia on a journey from Beijing to St Petersburg via...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to Moscow
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,315
+
+
+
+
+
+Travel to China, Mongolia and Russia on the Trans-Siberian Railway from Beijing to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to St Petersburg
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR5,020
+
+
+
+
+
+Explore China, Mongolia and Russia on a journey from Beijing to St Petersburg via...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beijing to Moscow
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,490
+
+
+
+
+
+Travel to China, Mongolia and Russia on the Trans-Siberian Railway from Beijing to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Russia Explorer
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,240
+
+
+
+
+
+Get a taste for the mystery of Russia as you travel through St Petersburg and Golden...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Russia Highlights - New Year
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,160
+
+
+
+
+
+Taste mystery and intrigue on a revealing tour of Russia - from the cultural city of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Russia Expedition - Footsteps of the Reindeer Herders
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,095
+
+
+
+
+
+Travel to the end of the earth with one of the world’s last remaining nomadic tribes,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Russia tour reviews
+
+
+Our Russia trips score an average of
+4.81 out of 5
+based on 277 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Beijing to St Petersburg,
+October 2017
+
+Isla Eichmann
+
+We found the trip an excellent combination of physical requirement, culture and use of local people.  The team leader combined her communication skills and relationship development to form a group that was fun loving and enjoyable.
+
+Review submitted 13 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Beijing to Moscow,
+September 2017
+
+MARK EVANS
+
+Having rarely travelled and now 62 I was a little worried how I'd cope on a trip this size . Fortunately all the details were taken care of and   I simply had to be ready each day to enjoy all the many activities . I  really got my moneys worth  .
+
+Review submitted 12 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Russia trip reviews
+
+Our Russia trips score an average of
+4.81 out of 5
+based on 277 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Russia
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+Calling all explorers: 5 uncharted adventures...
+
+
+
+
+
+
+On the hunt for your next big out-there adventure? These might make your decision...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 29, 2017
+
+
+
+Photo essay: Life on the edge of the Siberian...
+
+
+
+
+
+
+Ever wondered what an expedition to the ends of the earth looks like? Join one...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 16, 2017
+
+
+
+Аnton and the Trans-Siberian Express: A...
+
+
+
+
+
+
+Teacher of Russian, fine tea connoisseur, Chinggis Khan Gold vodka enthusiast:...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 24, 2016
+
+
+
+From Russia with love: 8 reasons you should...
+
+
+
+
+
+
+We love Russia. We love New Year. We love spending New Year in Russia. Here's why.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Trendsetters: Europe tips from the UK’s top...
+
+
+
+
+
+
+There are 36 countries within a 3-hour flight of the UK. That’s pretty awesome,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+Introducing our brand new Expedition trips for...
+
+
+
+
+
+
+After months of planning, arguing, drinking and pondering, we've come up with the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 23, 2016
+
+
+
+The Russian Ministry of Culture is trying...
+
+
+
+
+
+
+It's not often you watch something that you know is sponsored by a questionable...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 25, 2015
+
+
+
+This is what it looks like to travel the Trans...
+
+
+
+
+
+
+Travelling along the Trans-Mongolian railway was never a dream of mine. But then I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 05, 2015
+
+
+
+Why Georgia should make your 2015 travel hit list
+
+
+
+
+
+
+Eurasia's hidden gem is an expedition waiting to happen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 31, 2014
+
+
+
+Russia’s winter wonderland
+
+
+
+
+
+
+One of the stereotypes about winter in Russia is that it's cold and therefore som...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 26, 2014
+
+
+
+5 foods you really need to try in Russia
+
+
+
+
+
+
+The first Russian foods to come to mind are probably caviar and borscht, but in my...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Russia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moscow
+
+
+
+
+Take snapshots of the domes, churches and historic buildings of Moscow
+
+
+
+
+
+
+Russia Highlights, 8 days
+
+
+
+
+
+
+
+
+Russia Highlights - New Year, 11 days
+
+
+
+
+
+
+
+
+Beijing to Moscow, 16 days
+
+
+
+
+
+
+
+
+
+
+
+Saint Petersburg
+
+
+
+
+Marvel at the beautiful palaces of St Petersburg
+
+
+
+
+
+
+Russia Highlights, 8 days
+
+
+
+
+
+
+
+
+Russia Highlights - New Year, 11 days
+
+
+
+
+
+
+
+
+Trans-Mongolian Experience, 20 days
+
+
+
+
+
+
+
+
+
+
+
+
+Russia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Moscow
+
+Population:
+
+138.7 million
+
+Language:
+
+Russian
+
+Currency:
+
+RUB
+
+Time zone:
+
+(GMT+03:00) Moscow, St. Petersburg, Volgograd
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++7
+
+
+
+
+
+
+
+
+
+Best time to visit Russia
+
+
+
+
+
+
+×
+
+Best time to visit Russia
+
+
+
+
+The open plains stretching across Siberia in the east through to the Arctic in the north determine the Russian climate. Moscow and its milder cousin St Petersburg are prone to temperatures below 0°C (30°F) from November through to March, with few daylight hours and snow. One of the best times to visit Russia is in June, July and August, which are the warmest months (these months are also the wettest so be prepared for a little rain). June is also one of the best times to head north and see the incredible 'White Nights'. Being such a large country, one of Russia’s great joys is its diversity of climatic conditions - poor weather in one location doesn’t necessarily mean poor weather for the entire country.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+As the world’s largest country, Russia’s gigantic landmass spans two continents and runs parallel to the Arctic Sea at the top of the globe. To the east are Russia’s two largest cities - the stately capital of Moscow lies inland, while mighty St Petersburg sits perched on the banks of the Neva River. From the central Ural Mountains, Russia’s 102,000 km of waterways flow into the Baltic, White, Caspian and Black Seas, ensuring a landscape that is rich in colour. Infamous Siberia forms Russia’s western land, with a century of prison camps, exiles and secret bases making this remote part of the country the stuff of legends. Siberia’s vastness makes it an emerging location for adventure tourism, yet its icy tundras are still some of the most remote spots on the planet. The best way to experience Siberia is undoubtedly by rail, with the legendary Trans-Siberian Railway offering scenic glimpses and memorable stops at humble villages.
+
+
+
+
+
+
+
+
+Top 5 Soviet Surprises of Russia
+
+
+
+
+
+
+×
+
+Top 5 Soviet Surprises of Russia
+
+
+
+
+1. Sarov
+
+Ever wonder where all those nasty Cold War nuclear leftovers ended up? At least some of them can be found in Sarov, a town converted into a nuclear facility and hidden from the world until the collapse of the USSR. Nowadays, the town is keen to show off its collection of 30 kiloton bombs, as well as a scale model of the ‘Tsar Bomba’, the largest bomb ever detonated.
+
+2. Stalin’s Bunker
+
+Almost too good to be true, Stalin’s elaborate bunker sits 60 metres below an athletic field in the middle of suburban Moscow. Only recently discovered and refurbished, the bunker is now open to visitors, and is complete with annotated war maps, a pool table and Stalin’s famous pipe.
+
+3. Star City
+
+Once the highly secret and closely guarded base of the Soviet space program, this fully functioning city northeast of Moscow now serves as a training centre for current and aspiring cosmonauts. You can even be a cosmonaut for a day yourself, if you're willing to pay a price that is out of this world.
+
+4. Perm-36
+
+Not for the fainthearted, Perm 36 is one of the best-preserved Soviet gulag camps, and a relic of Siberia’s tragic past. While difficult to reach, the site is a worthy memorial to the millions of people who were once forced to live there.
+
+5. Vladivostok Fortress
+
+The largest port city in the Pacific has a wealth of abandoned military bunkers, tunnels and even a fortress to explore, all with a colourful Soviet history. Vladivostok's wide array of dark tunnels, decommissioned guns, old battle stations and antiquated bombs will definitely get historians and army nuts excited.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Letters from St Petersburg
+
+Victoria Hammond
+
+Speak, Memory
+
+Vladimir Nabokov
+
+Russian Winter
+
+Daphne Kalotay
+
+Gorky Park
+
+Martin Cruz Smith
+
+Natasha's Dance: A Cultural History of Russia
+
+Orlando Figes
+
+A People's Tragedy: The Russian Revolution
+
+Orlando Figes
+
+The Brothers Karamazov
+
+Fyodor Dostoevsky
+
+
+
+
+
+
+
+
+Russia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Russia?
+
+
+
+
+
+
+
+
+
+RUSSIA:
+Australia: Yes - in advance
+Belgium: Yes - in advance
+Canada: Yes - in advance
+Germany: Yes - in advance
+Ireland: Yes - in advance
+Netherlands: Yes - in advance
+New Zealand: Yes - in advance
+South Africa: Yes - in advance
+Switzerland: Yes - in advance
+United Kingdom: Yes - in advance
+USA: Yes - in advance
+
+LETTERS OF INVITATION (LOI)
+Most nationalities require a visa for Russia. You will need a Letter of Invitation (LOI), sometimes called a Voucher or Visa Support Letter in order to apply for your visa.
+
+You can obtain your LOI online through our local partners in Russia. Instructions and a link to the website will be sent to you at the time of booking. Read the instructions carefully and fill in the online application form. You will then be able to download your LOI instantly. Please note that we will add 3 days to the LOI duration before and after your trip dates for your convenience. If you are planning to stay longer than these dates please let us know as we will need to manually request a LOI to fit your specific travel plans.
+
+The LOI included in the cost of your tour is for a Single Entry Tourist Visa. LOIs for other types of visas may be organised at your own expense and paid directly to our local partners, Parallel 60 (www.visain.ru)
+
+INFORMATION REQUIRED FOR VISA APPLICATION:
+You must apply for your Russian visa in advance. Visas are not available on arrival or en-route. Once you have received your LOI it is your responsibility to apply for your own visa either directly at an embassy or by using a visa agent. We do not recommend trying to obtain your Russian visa outside of your home country or place of residence as your application may be refused.
+
+Use ONLY the information and dates on your LOI when filling in your visa application. There is no need to reference Intrepid Travel or include a copy of your itinerary as Parallel 60 is the official inviting organisation, not Intrepid. Do not be concerned if the destinations and accommodation listed do not match your Intrepid trip exactly. This information is for the purposes of obtaining the visa only, not an indication of where you must travel and stay in Russia.
+
+DOCUMENTS REQUIRED FOR VISA APPLICATION:
+* Letter of Invitation (LOI)
+* Photocopy of your passport
+* Passport size photo (up to 4)
+* Flight or other transport details - if required
+* Please check with the embassy for any other specific requirements
+
+VISA EXTENSIONS
+Please be aware that visa extensions are NOT possible in Russia.
+
+INFORMATION REQUIRED FOR TRAIN TICKET BOOKINGS:
+Train tickets in Russia are booked with passport numbers. Please make sure you provide us with your correct passport number. If you have to renew your passport after booking please notify us as soon as you have a new passport number and bring your old passport with you on your trip. If we receive changes to passport numbers less than 30 days prior to departure we cannot guarantee purchase of train tickets.
+
+We do NOT recommend travelling on multiple passports for trips that involve border crossings by train. This can cause difficulties with train ticket bookings and cause significant issues delays at Immigration.
+
+WARNING – MIGRATION CARDS
+All foreign citizens entering Russia are required to fill in a migration card. The entry portion of the card will be retained by Immigration upon arrival. The stamped exit portion of the card must be kept with your passport during your stay in Russia and submitted to Immigration upon departure. If you are not given a migration card at Immigration on arrival you must request one, even if the immigration official says that you do not need one. Loss or failure to receive the exit portion of the card will result in you not being able to travel on our trip as all hotels require this card for registration and may result in significant delays or fines upon departure.
+
+
+
+
+
+
+
+Is tipping customary in Russia?
+
+
+
+
+
+
+
+
+
+Tipping isn't mandatory in Russia, so is left up to the discretion of the individual. Some restaurants may already add a 10% surcharge to bills, otherwise feel free to leave spare change or round up the bill.
+
+
+
+
+
+
+
+What is the internet access like in Russia?
+
+
+
+
+
+
+
+
+
+Travellers will be able to find internet cafes in Russia's large cities like Moscow and St Petersburg, but less so in rural and remote areas. Internet access is available on the Trans-Siberian Railway for certain legs of the journey. This requires purchase of a local connection (around US$40), which will work with some laptops and certain 3G devices.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Russia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in the cities and regional centres of Russia, although coverage may not be available in remote areas. Remember to activate global roaming before leaving home if you wish to use your phone while in Russia.
+
+
+
+
+
+
+
+What are the toilets like in Russia?
+
+
+
+
+
+
+
+
+
+Travellers can expect to encounter both squat toilets and modern flushable toilets while travelling through Russia. Be prepared by carrying your own soap and toilet paper (as these aren't always provided). Additionally, some public toilets may require a small fee payment before access.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Trip on the metro = 25 RUB
+Internet access = 100 RUB per hour
+Bottle of beer = 35-50 RUB
+Snack at a cafe = 200 RUB
+Dinner at a restaurant = 800-1,500 RUB
+
+
+
+
+
+
+
+Can I drink the water in Russia?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Russia. For environmental reasons, try to avoid buying bottled water. Ask your leader or hotel where filtered water can be found and don't forget to avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Russia?
+
+
+
+
+
+
+
+
+
+Large hotels, restaurants and shops often accept international credit cards; however, smaller shops and vendors may only accept cash, so be sure to carry other modes of payment as credit cards aren't always an option in Russia.
+
+
+
+
+
+
+
+What is ATM access like in Russia?
+
+
+
+
+
+
+
+
+
+Travellers will be able to find ATMs in Russia's large cities and regional centres. Remote and rural areas will have less ATM availability, so prepare accordingly before venturing out of metropolitan areas.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Russia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Russia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year Holidays
+
+2 Jan New Year Holidays
+
+3 Jan New Year Holidays
+
+4 Jan New Year Holidays
+
+5 Jan New Year Holidays
+
+6 Jan New Year Holidays
+
+7 Jan Orthodox Christmas Day
+
+23 Feb Defender of Fatherland Day
+
+24 Feb Public Holiday  (in lieu of 1 Jan)
+
+8 Mar International Women's Day
+
+1 May Spring and Labour Day
+
+8 May Public Holiday (in lieu of 7 Jan)
+
+9 May Victory Day
+
+12 Jun Day of Russia
+
+4 Nov National Unity Day
+
+6 Nov National Unity Day Holiday
+
+Please note these dates are for 2017. For a current list of public holidays in Russia go to:
+http://www.worldtravelguide.net/russia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Russia
+
+Be considerate of Russia’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+Please refrain from drinking alcohol in public or on trains.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Russia, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Nochlezhka
+
+This Russian NGO helps the homeless people of St Petersburg with a night bus service that provides mobile care to this disadvantaged and marginalised population group. Tea, coffee, food, blankets, health care, warm clothing and links to social services help to alleviate the social disconnection and poverty these people face daily.
+
+Image supplied by Nochlezhka.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

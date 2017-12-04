@@ -1,0 +1,5260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chile Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chile tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+Chile
+
+
+
+Snaking its way along South America’s western coast, Chile flows across parched deserts and glacial plains, collecting all the hallmarks of this remarkable continent on its way.
+
+
+From smooth Santiago to remote southern lands, the world’s longest country has an even longer list of essential experiences.
+
+
+Top Chile travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+6 Jan 2018
+
+Best of Chile & Argentina
+
+
+
+Best of Chile & Argentina
+Santiago to Buenos Aires
+
+
+
+
+
+
+
+
+
+×
+
+Best of Chile & Argentina
+
+
+
+
+
+
+
+
+
+8
+
+
+FR2,580
+
+
+FR1,935
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Chile, Argentina & Brazil
+
+
+
+Chile, Argentina & Brazil
+Santiago to Rio de Janeiro
+
+
+
+
+
+
+
+
+
+×
+
+Chile, Argentina & Brazil
+
+
+
+
+
+
+
+
+
+14
+
+
+FR4,880
+
+
+FR4,392
+
+
+
+
+View Trip
+
+
+
+
+
+
+21 Jan 2018
+
+Patagonia Trekking
+
+
+
+Patagonia Trekking
+Santiago to Buenos Aires
+
+
+
+
+
+
+
+
+
+×
+
+Patagonia Trekking
+
+
+
+
+
+
+
+
+
+10
+
+
+FR3,695
+
+
+FR3,326
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Chile trips
+
+
+
+
+
+
+
+
+
+Patagonia Wilderness
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,978
+
+
+
+
+
+Trek through South America's Patagonia region on an overland trip to Chile and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Trekking
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,440
+
+
+
+
+
+Visit South America and travel to Patagonia to experience the 'W' Trek in Torres del...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Fly the Drake (Island Sky) 2017 - 2018
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR11,215
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Quito via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,470
+
+
+
+
+
+Visit South America and travel through Brazil, Argentina, Chile, Bolivia, Peru and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express - Crossing the Circle (Island Sky)
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR20,340
+
+
+
+
+
+This all-encompassing journey takes you to one of the world's most awe-inspiring...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Quito to Rio via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,270
+
+
+
+
+
+Visit South America and travel through Ecuador, Peru, Bolivia, Argentina, Chile and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires to Santiago via Ushuaia
+
+
+
+
+
+
+
+
+
+34 Days
+
+
+From
+FR3,985
+
+
+
+
+
+Discover penguins, glaciers and eye-popping cities on an epic South American adventure....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Fly the Drake from Punta Arenas
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR9,055
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Chile & Argentina
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,295
+
+
+
+
+
+Embark on an unforgettable journey through the amazing landscapes and captivating...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Bolivia & Argentina
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR2,484
+
+
+
+
+
+Get off the tourist trail on this extraordinary adventure through Bolivia and Argentina...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Bolivia and Argentina
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,920
+
+
+
+
+
+Get off the tourist trail on this extraordinary adventure through Bolivia and Argentina...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru, Bolivia & Argentina Adventure
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR5,455
+
+
+
+
+
+Journey through South America, from Lima to Buenos Aires, and explore stunning...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore South America
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR5,245
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Adventure through Peru, Bolivia & Argentina
+
+
+
+
+
+
+
+
+
+35 Days
+
+
+From
+FR4,260
+
+
+
+
+
+Journey through South America, from Lima to Buenos Aires, and explore stunning...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South American Highlights
+
+
+
+
+
+
+
+
+
+44 Days
+
+
+From
+FR6,085
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Bolivia to Brazil
+
+
+
+
+
+
+
+
+
+31 Days
+
+
+From
+FR4,520
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina, Uruguay and Brazil. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of South America
+
+
+
+
+
+
+
+
+
+51 Days
+
+
+From
+FR6,228
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand South America
+
+
+
+
+
+
+
+
+
+58 Days
+
+
+From
+FR7,105
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Chile
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,130
+
+
+
+
+
+Discover the natural beauty of Chile on a round trip from Santiago. Visit the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Fly the Drake (Island Sky) 2017 - 2018
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR13,870
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Chile, Argentina & Brazil
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR4,780
+
+
+
+
+
+Visit South America and travel through Chile, Argentina and Brazil on a tour from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing South America
+
+
+
+
+
+
+
+
+
+47 Days
+
+
+From
+FR6,125
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate South America
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,380
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia to Brazil Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,135
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina, Uruguay and Brazil. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of South America
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR7,048
+
+
+
+
+
+Packed full of highlights, this journey showcases the diversity of wonders across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South America Encompassed
+
+
+
+
+
+
+
+
+
+56 Days
+
+
+From
+FR8,125
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Easter Island
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR595
+
+
+
+
+
+Visit South America and travel to Easter Island to discover the history of one of the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Santiago
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR482
+
+
+
+
+
+Get under the skin of Santiago on this adventure that takes in vibrant backstreet bars,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru, Chile & Argentina Explorer
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,828
+
+
+
+
+
+Travel through South America by way of jungle, waterfalls and ancient ruins. In 3 weeks...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago Stopover
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR250
+
+
+
+
+
+From Santiago's historical centre to a celebrated nearby winery, this captivating...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ushuaia to Santiago
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR2,727
+
+
+
+
+
+Adventure through the wilds of Patagonia on a journey that begins in Ushuaia in the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Crossing the Antarctic Circle from Punta Arenas
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR14,735
+
+
+
+
+
+Embark on an adventure of a lifetime while crossing the Antarctic Circle. Discover...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago to La Paz
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,257
+
+
+
+
+
+Visit South America and travel through Chile, Argentina and Bolivia. Tour Santiago,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago to Buenos Aires via Ushuaia
+
+
+
+
+
+
+
+
+
+34 Days
+
+
+From
+FR3,586
+
+
+
+
+
+Visit South America and travel through Argentina and Chile, from Santiago to Buenos...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Santiago
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,227
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina and Chile from La Paz to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago to Ushuaia
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR3,126
+
+
+
+
+
+Tour Patagonia and discover one of the world's most amazing regions. Travel from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Buenos Aires
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,297
+
+
+
+
+
+Travel from La Paz to Buenos Aires and discover the heart of South America. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Rio
+
+
+
+
+
+
+
+
+
+60 Days
+
+
+From
+FR7,151
+
+
+
+
+
+Go Overland from Lima to Rio with Intrepid Travel. Uncover hidden treasures from Peru...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Buenos Aires
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR5,116
+
+
+
+
+
+Visit South America and travel through Peru, Bolivia and Argentina from Lima to Buenos...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Expedition - Andean Crossing
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Travel to Chile and Argentina and embark on an Andean crossing expedition with Intrepid...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Chile tour reviews
+
+
+Our Chile trips score an average of
+4.55 out of 5
+based on 77 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Best of Chile & Argentina,
+November 2017
+
+Rachel Lintott
+
+This trip is a great way to see the best bits of Chile and Argentina if you only have a 2 week holiday.  I definitely recommend adding an extra day or 2 before the trip starts in Santiago as I managed to book myself onto a day to go to Vina Del Mar and Valparaiso which is well worth a visit.  an extra day in Buenos Aires at the end is also recommended as although the walking tour was good it only covered a fraction of the city.  The city's Hop on Hop off bus is a great way to explore more.  The time in Mendoza and on the Estancia were my favourite!  They are both beautiful places and the opportunity to see the wine region and the real Argentina make this trip an amazing experience!
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Trekking,
+November 2017
+
+Kirsten Dressler
+
+n/a
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Chile trip reviews
+
+Our Chile trips score an average of
+4.55 out of 5
+based on 77 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Chile
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 25, 2017
+
+
+
+Want to visit Lonely Planet’s 2018 Best in...
+
+
+
+
+
+
+Looking for adventure in 2018? Look no further.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2017
+
+
+
+7 new destinations to explore with Intrepid in...
+
+
+
+
+
+
+At Intrepid, we love exploring little-known corners of the globe. And in 2018, we...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 20, 2017
+
+
+
+Chile beyond Patagonia: 4 destinations you don...
+
+
+
+
+
+
+I came to Chile to hike Patagonia. I left with a new appreciation of life. The...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 27, 2017
+
+
+
+A guide to Valparaiso, Chile’s city of artists
+
+
+
+
+
+
+A mere two hours from Santiago, but a world away, Valparaiso was, without question...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 02, 2017
+
+
+
+Have words, will travel: how learning Spanish...
+
+
+
+
+
+
+Learning Spanish gave us a voice with which we could ask questions we were unable...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 30, 2017
+
+
+
+Everything you need to know about trekking in...
+
+
+
+
+
+
+Patagonia. The word rolls off your tongue and has you dreaming of faraway lands...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 17, 2016
+
+
+
+What’s hot in South America? We ask the world’s...
+
+
+
+
+
+
+We asked a few of our favourite bloggers to give us their must-sees in South...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 18, 2016
+
+
+
+You Should Go To Patagonia If You Want To Feel...
+
+
+
+
+
+
+It was Friedrich Nietzsche that said “all truly great ideas are conceived by...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 15, 2016
+
+
+
+“It was just so beautiful”: trekking Patagonia...
+
+
+
+
+
+
+Youtube star and pro blogger Nadine Sykora knows a thing or two about travel. So...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 17, 2014
+
+
+
+Chile is South America’s unsung hero
+
+
+
+
+
+
+If you could trace a beaten track through South America, there’s a good chance you...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2014
+
+
+
+Hot Chile: 7 things to do on any Chilean holiday
+
+
+
+
+
+
+We went to Chile and searched high and low for unmissable adventures for anyone...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chile travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago
+
+
+
+
+Savour the modern delights of Santiago
+
+
+
+
+
+
+Santiago to Buenos Aires via Ushuaia, 34 days
+
+
+
+
+
+
+
+
+Santiago to La Paz, 21 days
+
+
+
+
+
+
+
+
+Ushuaia to Santiago, 23 days
+
+
+
+
+
+
+
+
+
+
+
+Patagonia
+
+
+
+
+Discover the inspiring glacial landscapes of Patagonia
+
+
+
+
+
+
+Patagonia Wilderness, 15 days
+
+
+
+
+
+
+
+
+Patagonia Trekking, 10 days
+
+
+
+
+
+
+
+
+Santiago to Ushuaia, 23 days
+
+
+
+
+
+
+
+
+
+
+
+Villarrica
+
+
+
+
+Hike to the rim of the Villarrica Volcano
+
+
+
+
+
+
+Ushuaia to Santiago, 23 days
+
+
+
+
+
+
+
+
+Rio to Quito via Ushuaia, 112 days
+
+
+
+
+
+
+
+
+Santiago to Buenos Aires via Ushuaia, 34 days
+
+
+
+
+
+
+
+
+
+
+
+Pucon
+
+
+
+
+Explore the beaches, mountains and forests of Pucon
+
+
+
+
+
+
+Santiago to Ushuaia, 23 days
+
+
+
+
+
+
+
+
+Ushuaia to Santiago, 23 days
+
+
+
+
+
+
+
+
+Quito to Rio via Ushuaia, 112 days
+
+
+
+
+
+
+
+
+
+
+
+Torres del Paine National Park
+
+
+
+
+Travel to Chile’s famous Torres del Paine National Park
+
+
+
+
+
+
+Patagonia Wilderness, 15 days
+
+
+
+
+
+
+
+
+Quito to Rio via Ushuaia, 112 days
+
+
+
+
+
+
+
+
+Buenos Aires to Santiago via Ushuaia, 34 days
+
+
+
+
+
+
+
+
+
+
+
+Easter Island
+
+
+
+
+Visit the magical moai stone heads of Easter Island
+
+
+
+
+
+
+Easter Island, 4 days
+
+
+
+
+
+
+
+
+
+
+
+
+Chile holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Santiago (population 4.6 million)
+
+Population:
+
+16.7 million
+
+Language:
+
+Spanish
+
+Currency:
+
+CLP
+
+Time zone:
+
+(GMT-04:00) Santiago
+
+Electricity:
+
+Type C (European 2-pin) Type L (Italian 3-pin)
+
+Dialing code:
+
++56
+
+
+
+
+
+
+
+
+
+Best time to visit Chile
+
+
+
+
+
+
+×
+
+Best time to visit Chile
+
+
+
+
+The best time to visit depends largely on your chosen activities and destinations as Chile’s substantial length ensures that the climate is incredibly varied. Summer (December to March) is possibly the best time to visit Chile, as the Parque Nacional Torres del Paine and lakes region are reasonably warm. The trade off however, is that the Atacama Desert can be very hot during this time. Summer is also festival time, so it's a good chance to experience Chile’s unique culture. For the central and northern regions, autumn is a comfortable time to visit, however during this time it can be quite cold in the south, especially at night. Snow fall is common during winter (July to September) in the south of the country, so this is the ideal time for a skiing or snowboarding holiday.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Chile is a land of quirky geographical characteristics, most noticeably its incredible length. Measuring in at over 4600km long, yet only 430km wide, Chile covers a massive geographic scale that includes a variety of unique landscapes as well as an impressive coastline. Straddled by the epic Andes, this gigantic mountain range acts as a natural border with
+Argentina
+in the east, while the Pacific Ocean - including the remote Chilean territory of Easter Island - forms Chile’s western coastline. The capital and largest city, Santiago, lies inland, roughly in the centre of the country. Further north, Chile shares a border with
+Peru
+and
+Bolivia
+, as well the largest section of the parched Atacama Desert, one of the world’s driest places. South of Santiago, Chile unfolds into the wilderness playground of Patagonia - a largely uninhabited, prehistoric landscape brimming with forests and enormous glaciers.
+
+
+
+
+
+
+
+
+
+
+Top 10 Must-Try Foods in Chile
+
+
+
+
+
+
+×
+
+Top 10 Must-Try Foods in Chile
+
+
+
+
+1. Empanadas de Pino
+
+This scrumptious portion of pastry stuffed with meat, olives, raisins and onions is a budget street food favourite.
+
+2. Caldillo de Congrio
+
+This famous Chilean stew is made from deep-fried, seasoned or baked eel. While not to everyone's taste, this is popular with locals… so popular that Chilean Nobel laureate Pablo Neruda once wrote an ode to the dish.
+
+3. Pan de Pascua
+
+This sweet Chilean cake is usually eaten around Christmas. Flavoured with ginger and honey and packed with fruit and nuts, it was brought to Chile by German migrants.
+
+4. Humitas
+
+Popular throughout most South American countries, this popular vegetarian dish features mashed sweet corn baked in a corn husk with spices and butter.
+
+5. Pastel de Choclo
+
+This succulent casserole of beef and/or chicken and vegetables, topped with corn batter is a local favourite in Chile.
+
+6. Asado Chileno
+
+A method of cooking that involves grilling meat over hot coals. Traditionally includes delicacies such as intestines and udders, but for the regular traveller, chicken and beef is just as tasty.
+
+7. Paila Marina
+
+With a coastline this huge it's no surprise that Chile has some of the freshest seafood in world. This aromatic shellfish stew spiked with garlic, cilantro and other herbs and spices is cooked and served in an earthenware bowl.
+
+8. Flan de Lucuma (Custard Flan)
+
+This tasty Mexican dish is also popular in Chile, where locals and visitors love to savour its delicious sugary goodness.
+
+9. Merken
+
+This aromatic seasoning made from dried peppers is a common ingredient in Chilean cuisine. Be warned, one sprinkle of this is all it takes to turn a meal from mild to searing hot.
+
+10. Charquican
+
+Although dried llama meat might not be everyone’s cup of tea, this famous dish is well worth a try. Fried and served with boiled potatoes, white corn, hard-boiled egg and fresh cheese, the charquican is complemented by a delicious sauce made from tomato and chilli.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Clandestine in Chile: The Adventures of Miguel Littin
+
+Gabriel Garcia Marquez
+
+The History of Chile
+
+John L Rector
+
+The Obscene Bird of Night
+
+Jose Donoso
+
+My Tender Matador
+
+Pedro Lemebel
+
+The Mermaid and the Drunks
+
+Ben Richards
+
+Desert Memories: Journeys through the Chilean North
+
+Ariel Dorfman
+
+My Invented Country: A Memoir
+
+Isabel Allende
+
+
+
+
+
+
+
+
+Chile travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Chile?
+
+
+
+
+
+
+
+
+
+CHILE RECIPROCITY TAX:
+All passengers with passports from Australia and Mexico must pay a reciprocity tax before entering Interpol control. The amounts are as follows:
+Australia - US$117
+México - US$23
+
+This tax applies only to travellers entering Chile via its international airport in Santiago. This tax doesn't apply to those entering Chile by another form of transport.
+
+
+
+
+
+
+
+Is tipping customary in Chile?
+
+
+
+
+
+
+
+
+
+Leaving an extra 10% on top of your restaurant bill is considered polite in Chile, as is tipping porters and other service workers. Feel free to leave spare change or tip extra if the service is particularly good.
+
+
+
+
+
+
+
+What is the internet access like in Chile?
+
+
+
+
+
+
+
+
+
+Internet access is widely available in cities and tourist areas where there are many internet cafes and Wi-Fi hot spots. Internet access is less frequent in rural and remote areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Chile?
+
+
+
+
+
+
+
+
+
+You'll be able to use your mobile phone in most urban areas of Chile, although some of the more remote areas may not have network coverage. Ensure you have global roaming activated with your mobile carrier before you leave home if you wish to use your mobile while in Chile.
+
+
+
+
+
+
+
+What are the toilets like in Chile?
+
+
+
+
+
+
+
+
+
+Toilets in Chile will vary depending on what area you are travelling in. Flushable, western-style toilets are common in the cities, large hotels, malls and clubs but more modest squat toilets are the standard in rural areas and while camping. Either way, carrying a supply of toilet paper and soap is a good idea, as these aren’t always available in public toilets.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+City bus fare = 350 CLP
+Cup of coffee in a café = 400 CLP
+Beer in a bar = 900 CLP
+Simple lunch = 2,000 CLP
+Dinner in a restaurant = 8,500 CLP
+
+
+
+
+
+
+
+Can I drink the water in Chile?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Chile. For environmental reasons, try to avoid buying bottled water and fill a reusable water bottle or canteen with filtered water instead. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Chile?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by large shops, hotels and restaurants in Chile. However, they may not be accepted by smaller vendors such as small family restaurants, market stalls or in remote towns and rural areas. Make sure you carry enough cash for purchases, since credit cards aren't always an option everywhere in Chile.
+
+
+
+
+
+
+
+What is ATM access like in Chile?
+
+
+
+
+
+
+
+
+
+ATMs are found widely throughout Chile, so withdrawing cash shouldn't be problematic in most areas. Some smaller villages and rural areas may not have ATM access, so prepare for this before venturing too far from a city or major town.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Chile?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Chile?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+14 Apr Good Friday
+
+15 Apr Holy Saturday
+
+19 Apr National Census Public Holiday
+
+1 May Labour Day
+
+21 May Navy Day
+
+26 Jun Saint Peter and Saint Paul
+
+16 Jul Our Lady of Mount Carmel
+
+15 Aug Assumption of Mary
+
+18 Sep Independence Day
+
+19 Sep Army Day
+
+9 Oct Columbus Day
+
+27 Oct Reformation Day
+
+1 Nov All Saints Day
+
+19 Nov Presidential Election Public Holiday
+
+8 Dec Immaculate Conception
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Chile go to:
+http://www.worldtravelguide.net/chile/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Chile
+
+Be considerate of Chile’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

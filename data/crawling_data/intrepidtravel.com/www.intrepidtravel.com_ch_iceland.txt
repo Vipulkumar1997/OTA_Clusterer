@@ -1,0 +1,4382 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iceland Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iceland tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Iceland
+
+
+
+Take one small island and maroon it miles from anywhere, cut off by freezing seas and Atlantic currents.
+
+
+Populate it with Viking descendants, power it with volcanoes and add in more Nobel Prize-winners per capita than anywhere on the planet. That’s pretty much Iceland, a kooky outlier that’s rocked the global travel scene. Partly this is down to geography. Iceland bubbles like a volcanic laboratory, with geysers, mud pools, badlands, glaciers and black sand beaches turning the landscape into some Dr Seuss fantasy world. And partly it’s down to people: a friendly, eccentric bunch who love live music, green thinking and hotdogs with remoulade and raw onions (yep, really). Once seen, never forgotten – that’s an Iceland tour.
+
+
+Top Iceland travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+19 Jan 2018
+
+Northern Lights Escape
+
+
+
+Northern Lights Escape
+Reykjavik to Reykjavik
+
+
+
+
+
+
+
+
+
+×
+
+Northern Lights Escape
+
+
+
+
+
+
+
+
+
+6
+
+
+FR1,325
+
+
+FR1,126
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Iceland trips
+
+
+
+
+
+
+
+
+
+Iceland Discovery
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,240
+
+
+
+
+
+Travel to Iceland and tour this North Atlantic island. Visit Reykjavik, Hvolsvollur,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Iceland's Wild West Coast
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR3,349
+
+
+
+
+
+Discover the spectacular landscapes and remote villages of Iceland’s remote Westfjords,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Lights Escape
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,126
+
+
+
+
+
+Discover the unique beauty of Iceland. Visit the Gullfoss waterfall, trek across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Arctic Express: Greenland's Northern Lights - Fly North, Fly South  (Ocean Nova) 2016 - 2017
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR6,110
+
+
+
+
+
+Fly from Iceland to Greenland and encounter breathtakingly beautiful landscapes,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Iceland Express
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR1,100
+
+
+
+
+
+Travel to Iceland and tour this North Atlantic island. Visit Reykjavik, Hvolsvollur,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Summer Iceland Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,630
+
+
+
+
+
+Discover why Iceland is known as the land of fire and ice on this spectacular holiday....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Winter Iceland Family Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,529
+
+
+
+
+
+Get to know the colours of Iceland on a winter adventure that takes in belching geysers...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Greenland Valleys and Fjords
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR8,340
+
+
+
+
+
+Join the ranks of the few that have explored the Arctic extreme of Europe – Greenland....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Greenland's Disko Bay
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR5,820
+
+
+
+
+
+Take a cruise around Greenland’s Disko Bay and witness Itilleq Fjord, Ilulissat...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spitsbergen, East Greenland and Iceland (Sea Adventurer) 2017
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR7,330
+
+
+
+
+
+Discover the wild beauty of the Arctic in Spitsbergen, East Greenland and Iceland. Be...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Iceland tour reviews
+
+
+Our Iceland trips score an average of
+4.43 out of 5
+based on 141 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Northern Lights Escape,
+November 2017
+
+Amie Lin
+
+Intrepid has always been my go-to travel group whenever I prefer not to travel solo. Being someone who has always lived in metropolitan areas and cannot drive a car, there are many places that are simply not accessible to me. The reason I prefer intrepid over other travel groups due to the fact that it is not a "tour" per se. The groups are always small, typically lead with local guides and often explore experiences off the beaten path. I never felt like I need to be herd around or force to go shopping. I see these trips more as convenient method of transportation and accomodation with opportunity to meet other interesting people. So far I have done around 6 trips with Intrepid and I am looking forward to many future trips.
+
+Review submitted 28 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Northern Lights Escape,
+November 2017
+
+Lorna Hart
+
+A great experience.. small friendly group....itinerary fully explained daily..
+
+Review submitted 24 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Iceland trip reviews
+
+Our Iceland trips score an average of
+4.43 out of 5
+based on 141 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Iceland
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 02, 2017
+
+
+
+How to travel Iceland on a budget
+
+
+
+
+
+
+Much like other Nordic countries, Iceland is notoriously expensive. But, Iceland...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 17, 2017
+
+
+
+Why Iceland is the dream destination for solo...
+
+
+
+
+
+
+This island destination features soothing hot springs, majestic wild horses and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 20, 2017
+
+
+
+7 reasons to consider a winter trip to Iceland
+
+
+
+
+
+
+I know from personal experience that a winter trip to Iceland is every bit as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular places...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 14, 2017
+
+
+
+7 waterfalls you should visit in Iceland
+
+
+
+
+
+
+With so many waterfalls throughout the country, it’s hard to decide which ones you...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 05, 2017
+
+
+
+Top 6 colorful cities around the world
+
+
+
+
+
+
+We don't want to attribute it solely to the Instagram age, but there's just...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 24, 2017
+
+
+
+The Westfjords: Iceland’s Final Frontier
+
+
+
+
+
+
+The Westfjords are splayed across the north-western corner of Iceland like the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 08, 2017
+
+
+
+6 unexpected surf destinations around the world
+
+
+
+
+
+
+There are some epic breaks that don’t require a three thousand dollar flight or...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 21, 2017
+
+
+
+5 ways to get more out of your Northern Lights...
+
+
+
+
+
+
+Dr Melanie Windridge has a PhD in fusion energy and wrote a book on the Northern...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 23, 2017
+
+
+
+6 experiences every traveler should have in...
+
+
+
+
+
+
+The volcanic island has exploded onto the radars of travelers in recent years, but...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 06, 2017
+
+
+
+6 hot springs in Iceland much better than the...
+
+
+
+
+
+
+When you think of hot springs in Iceland, you think the Blue Lagoon. Unfortunately...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 27, 2017
+
+
+
+Why Northern Iceland is the next big thing
+
+
+
+
+
+
+For those willing to venture more than just a couple of hours from Reykjavik, the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2017
+
+
+
+In photos: Iceland’s diverse, spectacular...
+
+
+
+
+
+
+We could ramble for years about how dramatic and dazzling Iceland is, but we'll...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 31, 2016
+
+
+
+Why everyone is talking about Iceland right now
+
+
+
+
+
+
+How one of the world's smallest, coldest countries became a tourism powerhouse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 16, 2016
+
+
+
+Why everyone is talking about Iceland right now
+
+
+
+
+
+
+How one of the world's smallest, coldest countries became a tourism powerhouse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 05, 2016
+
+
+
+How to spend 5 days in Iceland: your ultimate...
+
+
+
+
+
+
+Now that I’ve visited the country I spent the past year daydreaming about, I can...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 05, 2016
+
+
+
+How to spend 5 days in Iceland: your ultimate...
+
+
+
+
+
+
+Now that I’ve visited the country I spent the past year daydreaming about, I can ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Trendsetters: Europe tips from the UK’s top...
+
+
+
+
+
+
+There are 36 countries within a 3-hour flight of the UK. That’s pretty awesome,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 19, 2016
+
+
+
+Life in the north: our top 6 Arctic wildlife...
+
+
+
+
+
+
+One thing the Arctic does have is wildlife. Lots of it. On a size and scale that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 01, 2016
+
+
+
+Iceland’s tourism board just released a video...
+
+
+
+
+
+
+Need a lesson in hot tubbing 101? Iceland Academy's got your back.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 16, 2015
+
+
+
+Reykjavik calling: seven reasons you need to...
+
+
+
+
+
+
+Apart from being a game winner in Scrabble and relatively easy to pronounce (at...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 14, 2015
+
+
+
+Five Game of Thrones locations you can actually...
+
+
+
+
+
+
+Think you can guess your fav show’s shooting locations? You know nothing, Jon Snow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 20, 2015
+
+
+
+The day the music died: Eurovision’s 13 worst...
+
+
+
+
+
+
+In honour of this year’s entrants (and in the hopes they will learn from past...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 18, 2014
+
+
+
+5 of our favourite small towns in Iceland
+
+
+
+
+
+
+One thing should be made perfectly clear before diving into this list: every city,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 30, 2014
+
+
+
+Watching the Northern Lights in Iceland
+
+
+
+
+
+
+Aurora Borealis or The Northern Lights is a natural phenomenon where no one...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iceland travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Snaefellsnes
+
+
+
+
+Walk amid the strange, other-worldly volcanic landscapes of Snaefellsnes
+
+
+
+
+
+
+Iceland Discovery, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Akureyri
+
+
+
+
+Enjoy an exploratory tour of the northern port town of Akureyri
+
+
+
+
+
+
+Spitsbergen, East Greenland and Iceland (Sea Adventurer) 2017, 13 days
+
+
+
+
+
+
+
+
+Greenland Valleys and Fjords, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Skaftafell National Park
+
+
+
+
+View glaciers, lagoons, icebergs and waterfalls in Skaftafell National Park
+
+
+
+
+
+
+Winter Iceland Family Adventure, 8 days
+
+
+
+
+
+
+
+
+Northern Lights Escape, 6 days
+
+
+
+
+
+
+
+
+Iceland Express, 5 days
+
+
+
+
+
+
+
+
+
+
+
+Lake Myvatn
+
+
+
+
+Experience the remote lava fields, mineral baths and volcano cones of northern Iceland
+
+
+
+
+
+
+Iceland Discovery, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Jokulsarlon
+
+
+
+
+Lose yourself in the beauty of Jokulsarlon, Iceland’s famous glacial lagoon
+
+
+
+
+
+
+Iceland Express, 5 days
+
+
+
+
+
+
+
+
+Northern Lights Escape, 6 days
+
+
+
+
+
+
+
+
+Iceland Discovery, 10 days
+
+
+
+
+
+
+
+
+
+
+
+
+Iceland holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Reykjavik (population 103,000)
+
+Population:
+
+309,000
+
+Language:
+
+Icelandic
+
+Currency:
+
+ISK
+
+Time zone:
+
+(GMT) Monrovia, Reykjavik
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++354
+
+
+
+
+
+
+
+
+
+Best time to visit Iceland
+
+
+
+
+
+
+×
+
+Best time to visit Iceland
+
+
+
+
+Spring and summer are considered optimal times to visit Iceland. The early spring months bring warmer days, while summer offers long daylight hours with only brief nights. In the summer season, July and August are the warmest months and are the busiest tourist seasons. In September, tourism tends to slow down as the weather becomes unpredictable and the countryside is usually less accessible. However, there are plenty of attractions for the off-peak traveller, including the beauty of autumn colours and the awe-inspiring Northern Lights - a feature of our Iceland tours here at Intrepid. As to be expected, winters in Iceland can be challenging. During late December there's about four and a half hours of daylight and it's usually cloudy. In January, there are on average three sunny days in Reykjavík, with temperatures hovering around freezing point, often accompanied by chilling winds.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Surrounded by the Atlantic Ocean, Iceland possesses some of the world's most unique and incredible landscapes. Home to a huge amount of volcanic activity, Iceland is full of bubbling geysers, enormous glaciers, vast icefields, rugged mountains, dramatic waterfalls, glacial lakes and fjords - there is no other place quite like it. Being located so close the Arctic Circle, much of Iceland is uninhabitable, particularly the barren central regions. Most of the population live in coastal villages or cities and in the southern (more habitable) part of the country.
+
+
+
+
+
+
+
+
+Natural Phenomena of Iceland
+
+
+
+
+
+
+×
+
+Natural Phenomena of Iceland
+
+
+
+
+Top 5 Natural Phenomena of Iceland
+
+1. Northern Lights
+
+The Northern Hemisphere's Aurora Borealis has captivated and intrigued people for eons. Any winter tour of Iceland absolutely must include the Northern Lights. This stunning, natural light display that runs along magnetic fields brings hypnotic green, yellow and red shades to the night sky in Iceland from September to March. As one of nature's most magnificent triumphs, this is one unforgettable spectacle.
+
+2. Golden Falls
+
+Known locally as Gullfoss, this spectacular, three-tiered waterfall drops suddenly into a deep cavern, creating a dramatic landscape like no other. Surrounded by lush, green countryside, the mist and spray create rainbows in the air providing brilliant photo opportunities.
+
+3. Blue Lagoon
+
+The mineral-rich, azure waters of the Blue Lagoon are a magnificent sight to behold and are even better to soak in. Relaxing in the warm waters while admiring the sublime moonscape is a quintessential Iceland experience that just must be done.
+
+4. Lake Myvatn
+
+This awesome area in northern Iceland was birthed from volcanic eruptions millions of years ago and continues to be shaped by volcanic activity to this day. The combination of strange lava formations, thermal caves and a sprawling lake dotted with craters and rising rocks makes for an eerie yet beautiful landscape.
+
+5. Glacier Lagoon
+
+Also known as Jokulsarlon, this monumental glacier lake is the largest in Iceland. Featuring a parade of large and small blue icebergs floating on and under the pure, icy water, this lagoon is so exceptionally beautiful that it has been used as a backdrop for Hollywood films, a set for reality television shows and has even featured on a postage stamp. Make no mistake, by booking one of our Iceland tours, you'll ensure you don't miss this natural beauty.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Waking Up in Iceland
+
+Paul Sullivan
+
+The Tricking of Freya
+
+Christina Sunley
+
+Viking Age Iceland
+
+Jesse L Bycock
+
+Jar City
+
+Arnaldur Indridason
+
+The Far Traveler: Voyages of a Viking Woman
+
+Nancy Marie Brown
+
+
+
+
+
+
+
+
+Iceland travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Iceland
+
+
+
+
+
+
+
+
+
+ICELAND:
+Australia: No - Not required
+Belgium: No - Not required
+Canada: No - Not required
+Germany: No - Not required
+Ireland: No - Not required
+Netherlands: No - Not required
+New Zealand: No - Not required
+South Africa: Yes - in advance
+Switzerland: No - Not required
+UK: No - Not required
+USA: No - Not required
+
+
+
+
+
+
+
+Is tipping customary in Iceland?
+
+
+
+
+
+
+
+
+
+Tipping isn't expected in Iceland. Hotels, restaurants and cafes already include a service fee within the bill, so tipping extra isn't necessary.
+
+
+
+
+
+
+
+What is the internet access like in Iceland?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access the internet in cyber cafes and Wi-Fi hotspots in Iceland's cities and large towns. Rural and remote areas may have less internet access, so be prepared when travelling away from cities.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Iceland?
+
+
+
+
+
+
+
+
+
+Travellers will be able to use their mobile phones in Iceland's cities. Remote and isolated areas may have less mobile receptivity. Ensure global roaming is activated before leaving home if you wish to use your mobile while travelling.
+
+
+
+
+
+
+
+What are the toilets like in Iceland?
+
+
+
+
+
+
+
+
+
+Modern, flushable toilets are the standard in Iceland. Expect to pay a small fee when visiting public toilets.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Hotdog = 200 ISK
+Glass of beer = 600-800 ISK
+Simple lunch at a cafe = 500-1500 ISK
+Dinner in a restaurant = 2000-4000 ISK
+
+
+
+
+
+
+
+Can I drink the water in Iceland?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink in Iceland unless marked otherwise.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Iceland?
+
+
+
+
+
+
+
+
+
+Credit cards are accepted widely in Iceland and are used frequently by locals to pay for just about anything. Paying with a credit card at shops, guesthouses, supermarkets, restaurants, cafes and to pay for taxi rides shouldn't pose a problem.
+
+
+
+
+
+
+
+What is ATM access like in Iceland?
+
+
+
+
+
+
+
+
+
+ATMs are usually easy to find in Iceland's cities and villages and generally accept most foreign cards.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Iceland?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Iceland?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+24 Mar Maundy Thursday
+
+25 Mar Good Friday
+
+27 Mar Easter
+
+28 Mar Easter Monday
+
+21 Apr First Day of Summer
+
+1 May Labor Day
+
+5 May Ascension
+
+15 May Whit Sunday
+
+16 May Whit Monday
+
+17 Jun Independence Day
+
+1 Aug Commerce Day
+
+24 Dec Christmas Eve
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+31 Dec New Year's Eve
+
+Please note these dates are for 2017. For a current list of public holidays in Iceland go to:
+http://www.worldtravelguide.net/iceland/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Iceland
+
+1. Be considerate of Iceland’s customs, traditions, religion and culture.
+
+2. For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+3. Always dispose of litter thoughtfully, including cigarette butts.
+
+4. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+5. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+6. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+7. Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

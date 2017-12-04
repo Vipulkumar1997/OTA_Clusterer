@@ -1,0 +1,3336 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sailing the Caribbean| Intrepid Travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sailing the Caribbean
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Sailing
+
+Caribbean sailing
+
+
+
+
+Typically the haunt of America’s rich and famous, sailing in the Caribbean is now officially open to all.
+
+There’s a reason this equatorial paradise draws so many people each year in search of some R&R. Nowhere else will you find that unique blend of sultry Latin culture, postcard-worthy beaches, colonial history, world-class diving and lip-smacking Caribbean food. And what better way to explore the island chains and tiny archipelagos than your own private catamaran? Book a sun-soaked sailing Caribbean vacation today, then thank us tomorrow when your friends go green with envy.
+
+
+
+
+
+
+
+Our Caribbean sailing trips
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,955
+
+
+
+
+
+Set sail on amazing sailing expedition to one of the world’s best cruising destinations...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuba Sailing Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Set sail across the Caribbean Sea to visit the untouched and idyllic islands of Cuba. A...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+British Virgin Islands Sailing Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,059
+
+
+
+
+
+Explore the Caribbean on a British Virgin Islands sailing adventure. Sail, snorkel,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+Browse by country
+
+
+
+
+
+
+
+
+
+British Virgin Islands
+
+
+
+
+
+
+
+
+
+
+Cuba
+
+
+
+
+
+
+
+
+
+
+Bahamas
+
+
+
+
+
+
+
+
+Highlights of the Caribbean
+
+
+
+
+
+
+
+
+
+
+
+Discover Cuba’s hidden archipelago
+
+While not as well-known as its Caribbean neighbours, Cuba’s Canarreos Archipelago is home to stunning fine white sand beaches and turquoise waters filled with marine life. Very limited access to phone and internet means you can spend your day tracking iguanas on deserted islands, lounging on deck chairs (mojito in hand, of course) and tucking into freshly caught lobster dinner as the sun dips on the horizon.
+
+Explore on the
+Cuba Sailing Adventure
+
+
+
+
+
+
+
+
+
+
+
+Drop anchor at Dead Man's Bay
+
+It sounds like something from Pirates of the Caribbean, but Dead Man's Bay is the real deal. When the British Virgin Islands need a beach for their postcards, they usually turn to Dead Man's Bay. Park your yacht just offshort and spend the day chilling on chalk white sands or paddling in the warm shallow waters. No pirates guaranteed.
+
+Explore on the
+British Virgin Islands Sailing Adventure
+
+
+
+
+
+
+
+
+
+
+
+Take a dip at The Baths
+
+Take a few volcanic leftovers, leave them to cool for about 70 million years, then flood the area with warm blue waters and you have something similar to The Baths – British Virgin Island’s most photogenic spot. Park your yacht close to the massive boulders, go for a snorkel, then hike through the ‘Caves’ to the white sands of Devil’s Bay.
+
+Explore on the
+British Virgin Islands Sailing Adventure
+
+
+
+
+
+
+
+Life on the boat
+
+Curious to see what life in the Caribbean is really like? Here’s what to expect onboard an Intrepid sailing tour.
+
+
+
+
+
+
+
+
+
+
+Welcome to your new floating home – a catamaran with up to four twin-share cabins, three shared bathrooms and two hot showers. Each boat comes with plenty of deck space, a communal lounge area and kitchen below decks.
+
+
+
+
+
+
+
+
+
+
+
+Steaming bowls of pasta, fresh spicy tacos and a mountain of pancakes for breakfasts, anything is possible with one of our resident expert chefs on board. Bon appetit!
+
+
+
+
+
+
+
+
+
+
+
+Learn the tricks to ‘tacking’, ‘reaching’ and ‘coming about’ with your skipper and perhaps try putting your new skills to the test while helping to sail the boat.
+
+
+
+
+
+
+
+
+
+
+
+Stretch out on deck and relax with a good book in hand while the winds carry you across wide open waters. Getting hot? Ask your skipper to drop anchor for a refreshing dip.
+
+
+
+
+
+
+
+
+
+
+
+Head ashore during the day and discover the history and culture of each destination with your skipper. Every tour gives you plenty of time to get out and explore on your own while also offering optional activities.
+
+
+
+
+
+
+
+
+
+
+
+Incredible sunrises and sunsets are all in a day’s work in the Caribbean. Hang out with your new crew while soaking up the sun’s last rays, then stay up late swapping stories over a glass of rum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meet your skipper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'I’ve sailed since I was a child. I was lucky enough to professionally skipper my first yacht at 21 from the UK to Southern Spain, though I’m sure I was skippering rubber rowing boats long before that! For me, it’s the fresh air and sense of self-dependence that draws me to sailing. I’ve always felt closer to the real world on water than I ever have on land. It just makes sense somehow.'  – Dean,
+
+British Virgin Islands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Since my first visit over 30 years ago I’ve had a fascination and love affair with the Bahamas…everything from the gin clear water to the friendliness of the native people, the sea life, history, the loyal “pot cake” island dogs, the uncrowded unspoiled anchorages….and did I mention turquoise is my favourite colour?'  – Judy,
+
+Bahamas
+
+Read more about Judy in our interview
+here
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQs
+
+
+
+
+
+When’s the best time to visit the Caribbean?
+
+
+
+
+
+
+
+
+
+If you’re looking for sunny weather and smooth sailing (and who isn’t?) the best time to
+head to the Caribbean
+is December through to April. With more sunny days on average than any other time of the year, you’re increasing your chances of a rain-free trip. It’s worth remembering that topography of each island plays a part too: mountainous islands will attract more cloud cover, while chances of clear skies increase around the smaller archipelagos.
+
+
+
+
+
+
+Reviews
+
+
+Our  trips score an average of
+4.68 out of 5
+based on 41 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Cuba Sailing Adventure,
+November 2017
+
+Paulette Baker
+
+Sailing in Cuba was a great experience but be prepared for 2 long days at sea. The beaches are beautiful and the waters warm and inviting. The snorkelling is good and itt was amazing to swim with a pod of wild dolphins who turned up to see who we were.
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+May 2017
+
+Sam Malhotra
+
+Fabulous, once in a lifetime trip!  The Bahamas was one of the most beautiful locations I have ever been to, the weather was incredible and sailing enabled us to see The Bahamas in a really special way - getting into remote spots, breathtaking snorkeling everyday and some truly unique opportunities to interact with the natural world!  Skipper Judy is a complete star - she looked after a very international group with relaxed confidence and charm that engaged the group and inspired trust.  In particular, she helped me (a novice snorkeler) gain confidence in the water and so enabled me to have one the of the most spectacular experiences of my life!  Adriann (our cook) added even more warmth and personality by not only conjuring up delicious food and drinks every day (incredible!) but by also spending time to get to know everyone and look after them on an individual basis.  Between them, they created a fun, friendly and incredibly comfortable environment and made the trip for me.  I really can't recommend this trip enough!
+
+Review submitted 02 Oct 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+July 2017
+
+Kathleen Cleversley
+
+If you love being on the water and seeing lots of sea life then this trip is for you. As a group everyone got along and we all talked about how great it was to get to know Judy and Adrian.
+
+Review submitted 13 Jul 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+July 2017
+
+Emily Legault
+
+I have an amazing experience and checked a few things off my bucket list. I got to see a lot of wildlife including my favorite swimming with a sea turtle. I suggest keeping an open mind because you will have to share a bed with a stranger. It is a bit roughing it with the showers but it was well worth it. My bank card did not always work so bring enough money that you would need in advance. And also bring money to tip the cook as well, it was not included in the tipping. Wear lots of sun cream and smile and laugh!
+
+Review submitted 13 Jul 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+June 2017
+
+Susanne Metzger
+
+Our expectations were exceeded. Great crew making it a lifetime experience. Can recommend it definitely also for honeymooners. The Bahamas are a paradise and Judy will show you this paradise.
+
+Review submitted 02 Jul 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+June 2017
+
+Joel Sonderegger
+
+This trip has been awesome. A week in paradise aboard of a dream catamaran. Enjoy many snorkeling spots, exploring little island villages and anchorages on dream beaches. All you need for this amazing adventure are swimwear, flip flops, some t-shirts, sunscreen, and sunglasses. An experienced crew will take care of the rest.
+
+Review submitted 26 Jun 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+June 2017
+
+Beata Rzeznikiewicz
+
+This is a spectacular sailing experience in a spectacular location. Judy, the skipper is a happy, enthusiastic, inspirational woman, with hips of sailing knowledge and experience. Adriann, the chef is a brilliant guy, spoiled us to the limits with his wonderful food and constantly took care of us. We had a small, but great bunch of people and had lots of fun be it while snorkelling, feeding sea pigs or playing card games in the evening. I had a wonderful time and fell in love with emerald waters of the Sea of Abaco. I'd definitely recommend this trip to anybody who loves sea, sunshine and fun!
+
+Review submitted 25 Jun 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+June 2017
+
+Carmen López Soto
+
+Amazing experience and a completely different way to know the Bahamas. Judy and Adrian were awesome all through the week! Be careful with mosquito bites!
+
+Review submitted 25 Jun 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+June 2017
+
+Nancy Palasik
+
+Pack light... be prepared for anything and open to everything!   It's an amazing opportunity to learn new cultures and meet new people.  The destinations are amazing, but , it's the new friends that make the most impact!
+
+Review submitted 21 Jun 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+June 2017
+
+Darren Seyler
+
+If you are an avid snorkeller, then this trip is exactly what you are looking for. We snorkelled every day and visited some amazing reefs. Spending a week on a caravan was also a unique experience, but there were also many opportunities to go ashore as well. Judy, the Captain of the Abel,  is a very experienced sailor, and knows the places we visited like the back of her hand. All this and the fact that Adrian, the cook, was a certified chef, and a really good one at that, made the trip one of the best trips I have ever experienced! Sailing with Adrian and Judy was an absolute pleasure.
+
+Review submitted 18 Jun 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+May 2017
+
+Matt Harland
+
+Bahamas is a must do, best value for money.
+
+Review submitted 11 Jun 2017
+
+
+
+
+
+
+
+
+
+
+
+Bahamas Sailing Adventure,
+May 2017
+
+MARGARET WATERS
+
+This is a fantastic trip! A great way to see the Abaco Islands and snorkel in some really fun places.  The food on the trip was amazing.
+
+Review submitted 05 Jun 2017
+
+
+
+
+
+
+Show more
+
+
+
+
+
+Need some inspiration?
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 23, 2017
+
+
+
+Havana have-tos: the experiences you can’t miss...
+
+
+
+
+
+
+Cuba’s capital, with its immense beauty and complexity, offers an invaluable...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+At sea: life on the water with Intrepid skipper...
+
+
+
+
+
+
+You’d think falling overboard would put you off sailing, but not skipper Mike Simon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 27, 2017
+
+
+
+10 of the coolest things to do in Jamaica
+
+
+
+
+
+
+Phosphorescent lagoons, dancehall parties, spicy street food...is this love? Here...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 19, 2017
+
+
+
+Your essential guide to sailing jargon
+
+
+
+
+
+
+If you’re just starting to cut your teeth on life at sea, here’s the essential...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+Why you cannot help but fall for Viñales, Cuba
+
+
+
+
+
+
+Viñales stole my heart. From cycling among limestone karsts to horse-riding...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2017
+
+
+
+How to protect your camera at sea (and also...
+
+
+
+
+
+
+Nothing's worse than damaging your camera while on the water. Follow these tips...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 21, 2017
+
+
+
+A love letter to Havana, a city that taught me...
+
+
+
+
+
+
+There have been many stories written already about La Habana. Mine probably isn’t...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 18, 2017
+
+
+
+5 ways to stop seasickness
+
+
+
+
+
+
+Seasickness is never fun but thankfully it can be treated. Follow these five...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 07, 2017
+
+
+
+What to expect on ‘Hola Cuba’, by Americans who...
+
+
+
+
+
+
+At the end of a recent Hola Cuba trip, I asked a selection of American passengers...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 05, 2017
+
+
+
+Top 6 colorful cities around the world
+
+
+
+
+
+
+We don't want to attribute it solely to the Instagram age, but there's just...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

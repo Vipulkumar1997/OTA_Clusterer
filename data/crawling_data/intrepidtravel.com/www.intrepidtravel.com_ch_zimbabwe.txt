@@ -1,0 +1,4835 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zimbabwe Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zimbabwe tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Zimbabwe
+
+
+
+Blessed with abundant sunshine, striking scenery and one of the most stunning waterfalls on earth, Zimbabwe's natural beauty is world-famous.
+
+
+Home to determined locals full of creativity, enthusiasm and hope, expect a warm welcome and generous hospitality. Overlook Zimbabwe and you'll miss an important piece of Africa's ancient heart.
+
+
+Top Zimbabwe travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+7 Jan 2018
+
+Vic Falls to Zanzibar
+
+
+
+Vic Falls to Zanzibar
+Victoria Falls to Stone Town
+
+
+
+
+
+
+
+
+
+×
+
+Vic Falls to Zanzibar
+
+
+
+
+
+
+
+
+
+19
+
+
+FR1,795
+
+
+FR1,346
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Vic Falls to Kenya
+
+
+
+Vic Falls to Kenya
+Victoria Falls to Nairobi
+
+
+
+
+
+
+
+
+
+×
+
+Vic Falls to Kenya
+
+
+
+
+
+
+
+
+
+28
+
+
+FR3,595
+
+
+FR3,056
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Zimbabwe trips
+
+
+
+
+
+
+
+
+
+Okavango Experience
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR995
+
+
+
+
+
+Tour through Johannesburg, Maun and Victoria Falls on this trip through South Africa,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Southern Africa
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,920
+
+
+
+
+
+Travel to South Africa, Botswana and Zimbabwe and uncover their natural wonders. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kruger
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR975
+
+
+
+
+
+Travel from Zimbabwe to Botswana and South Africa on a real African adventure. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Highlights
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Stay in a tree house, search for the Big Five in the Chobe National Park, meet Xwe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Cape Town
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,101
+
+
+
+
+
+Travel to Africa and discover the unique, contrasting lands of Zimbabwe, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Visit Africa and travel through Botswana, Namibia and Zimbabwe on a tour from Windhoek...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Vic Falls
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,550
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Northbound
+
+
+
+
+
+
+
+
+
+64 Days
+
+
+From
+FR7,920
+
+
+
+
+
+Jump aboard this epic tour from Cape Town to Nairobi. From safaris in Tanzania and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing Southern Africa
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR6,745
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Southern Africa
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,455
+
+
+
+
+
+Visit Africa and travel through southern Africa's beautiful regions. Visit South Africa...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Vic Falls
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR3,790
+
+
+
+
+
+Explore the wilds of Africa on this action-packed adventure from the busy streets of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Okavango & Beyond
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,685
+
+
+
+
+
+Travel from Zimbabwe to South Africa via Botswana. The Okavango and Beyond trip is the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kruger to Vic Falls
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,190
+
+
+
+
+
+Travel from South Africa's capital to Botswana and Zimbabwe, visiting two of southern...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Cape Town
+
+
+
+
+
+
+
+
+
+48 Days
+
+
+From
+FR6,340
+
+
+
+
+
+Explore Africa as you travel from Kenya to Cape Town through Tanzania, Zanzibar, Malawi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Vic Falls
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,595
+
+
+
+
+
+Explore the best of south and east Africa with this adventure from the spicy beaches of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,770
+
+
+
+
+
+See Africa encompassed on a tour through Kenya, Uganda, Rwanda, Tanzania, Malawi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kenya
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,280
+
+
+
+
+
+Experience the exhilarating wild of Africa as you travel from Victoria Falls through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Zanzibar
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,595
+
+
+
+
+
+Travel from thundering Victoria Falls to the fragrant spice plantations of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Family Safari with teenagers
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,410
+
+
+
+
+
+Take your family to Victoria Falls, Okavango River and Chobe National Park on this teen...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Zanzibar
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR3,870
+
+
+
+
+
+See Africa on this incredible overland adventure from South Africa to Tanzania. Soak up...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Cape Town
+
+
+
+
+
+
+
+
+
+39 Days
+
+
+From
+FR4,390
+
+
+
+
+
+Explore Africa on this wildlife-rich adventure from Tanzania to South Africa. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Kenya
+
+
+
+
+
+
+
+
+
+49 Days
+
+
+From
+FR6,285
+
+
+
+
+
+Explore Africa as you wind your way up from South Africa, through Namibia, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas to Vic Falls
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR6,400
+
+
+
+
+
+Take an epic East African adventure from Kenya to Zimbabwe. Safari in the Serengeti, go...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Stone Town to Vic Falls
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Embrace the sights, sounds and culture of Africa on this eye-opening adventure from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls Short Break
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR465
+
+
+
+
+
+Situated on the border of Zambia and Zimbabwe the Victoria Falls are over a kilometre...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Experience
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR15,955
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls and then onto...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Africa Adventure
+
+
+
+
+
+
+
+
+
+30 Days
+
+
+From
+FR3,215
+
+
+
+
+
+Take a wild African adventure from South Africa to Zimbabwe. Travel north from Cape...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Gorillas
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,025
+
+
+
+
+
+This East Africa adventure tour travels from Zimbabwe to Kenya. Visit Zanzibar beaches,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Botswana Photography Safari with Ben Mcrae
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR3,875
+
+
+
+
+
+Travel from Victoria Falls to Chobe National Park, cross the Makgadikgadi Pans to Maun,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Zanzibar
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR2,580
+
+
+
+
+
+Travel through Botswana to the thundering Victoria Falls and on to to the fragrant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Stone Town
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Spot a host wildlife at the Luangwa River, gape at the mighty Victoria Falls, explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Gorillas
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR7,270
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Kenya
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR4,800
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Zimbabwe tour reviews
+
+
+Our Zimbabwe trips score an average of
+4.8 out of 5
+based on 5 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Zanzibar,
+August 2017
+
+Josie Misick
+
+Stanley was an excellent guide on this exciting trip. I loved every minute of all the activities, especially the walking safari so close to the Rhinos. The riding safari in the Zambezi NP was an incredible experience, and the ancient stone city of Great Zimbabwe was fascinating.
+
+Review submitted 11 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kenya,
+June 2017
+
+Karen Sizeland
+
+This trip offers an excellent opportunity to travel through East Africa, with a very good balance of both cultural and wildlife experiences.  The game drives were breath taking, with a wealth of animals to see in their natural environments.  I would highly recommend the hot air balloon experience in the Serengeti which was pure magic!
+
+Review submitted 27 Jul 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Zimbabwe trip reviews
+
+Our Zimbabwe trips score an average of
+4.8 out of 5
+based on 5 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Zimbabwe
+
+
+
+
+
+
+
+
+
+
+
+
+May 24, 2017
+
+
+
+A road trip through Southern Africa
+
+
+
+
+
+
+If I was going to go to the other side of the world, I wanted to see how people...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 15, 2017
+
+
+
+A language guide for Southern Africa
+
+
+
+
+
+
+Learning a few words in the local language will gain you a lot of respect. So to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 03, 2017
+
+
+
+Why there’s never been a better time to visit...
+
+
+
+
+
+
+In our humble opinion, there's never been a better time to visit the Southern...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 09, 2016
+
+
+
+The 15 most beautiful waterfalls in the world
+
+
+
+
+
+
+What makes the perfect waterfall? Height? Water volume? Sheer volume? We put the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zimbabwe travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hwange National Park
+
+
+
+
+Spot elephants on a 4x4 drive through Hwange National Park
+
+
+
+
+
+
+Explore Southern Africa, 18 days
+
+
+
+
+
+
+
+
+Vic Falls to Kruger, 9 days
+
+
+
+
+
+
+
+
+Botswana Adventure, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Harare
+
+
+
+
+Kick back in the cafes and parks of Harare
+
+
+
+
+
+
+Kenya to Vic Falls, 27 days
+
+
+
+
+
+
+
+
+Vic Falls to Zanzibar, 19 days
+
+
+
+
+
+
+
+
+Kenya to Cape Town, 48 days
+
+
+
+
+
+
+
+
+
+
+
+Bulawayo
+
+
+
+
+Admire local creativity in the markets of Bulawayo
+
+
+
+
+
+
+Explore Southern Africa, 18 days
+
+
+
+
+
+
+
+
+Vic Falls to Kruger, 9 days
+
+
+
+
+
+
+
+
+Kenya to Vic Falls, 27 days
+
+
+
+
+
+
+
+
+
+
+
+
+Zimbabwe holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Harare (population 1.6 million)
+
+Population:
+
+12.9 million
+
+Language:
+
+English, Shona, Ndebele
+
+Currency:
+
+USD
+
+Time zone:
+
+(GMT+02:00) Windhoek
+
+Electricity:
+
+Type D (Old British 3-pin) Type G (Irish/British 3-pin)
+
+Dialing code:
+
++263
+
+
+
+
+
+
+
+
+
+Best time to visit Zimbabwe
+
+
+
+
+
+
+×
+
+Best time to visit Zimbabwe
+
+
+
+
+Zimbabwe is located in a tropical zone but due to its high altitude, the climate remains temperate and comfortable all year, making it a suitable destination to visit all year round. May to October is the dry winter season and if wildlife watching, these months are perfect for easy viewing because animals flock to watering holes seemingly just for you. November to April is wetter and hotter but brings about a stunning, lush landscape that serves as a brilliant backdrop to photos.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Zimbabwe is home to a diverse range of cultures, with the predominant group being the Shona (of which most Zimbabweans belong). The ancient Shona tribal culture is rich in mythology and symbolism. Dance, song and crafts are prevalent in most African cultures but even more so in Zimbabwe where traditional soapstone carving, weaving, painting and beadwork are important features of Shona culture and folklore. The arrival of European settlers changed the face of Zimbabwe, with English cultural influences evident throughout contemporary Zimbabwe. Christianity is practiced by the majority of Zimbabweans, but ancestral worship and traditional beliefs endure, with many locals practicing animist rituals in tandem with church-attending.
+
+Other British influences are evident, with sports like cricket and rugby having a following and the British custom of tea drinking common throughout the country. Even though most Zimbabweans live in poverty and have endured many struggles, generally they still have a huge amount of kindness to bestow upon visitors. Travellers can expect to receive warm hospitality from most locals, who have a humble and somewhat inspiring approach to life.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Travellers will be able to find a range of dining options in Zimbabwe, from international cuisine to local traditional fare.
+
+Things to try in Zimbabwe
+
+1. Nhedzi Soup
+
+This wild mushroom soup is a national specialty and a good option for vegetarians in a country where game meat prevails in most restaurants and hotels.
+
+2. Kapenta
+
+This dried sardine-like fish is popular throughout Zimbabwe, where refrigeration isn’t available to all. Mainly sourced from Lake Kariba, visitors can order kapenta with a side of sadza (maize meal) in most restaurants.
+
+3. Zambezi Beer
+
+Zimbabwe’s national beer is locally brewed in Harare and widely available throughout most of the country. It's perfect for washing down lunch or dinner on a hot summer's day.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Zimbabwe is landlocked in southern Africa and bordered by
+Zambia
+,
+Botswana
+,
+South Africa
+,
+Mozambique
+and just meets the corner of
+Namibia
+. Although without access to the coast, Zimbabwe has access to water through the presence of the Zambezi and Limpopo river systems. The topography is a mixture of mountains and plateaus, which are home to wide range of flora and fauna. With grasslands and evergreen forests covering the land, Zimbabwe is home to a diverse variety of birds, mammals and plant species. With majestic mountains covered in emerald green forest, serene lakes and epic waterfalls, visitors will be treated to some of the most beautiful, unspoilt landscapes in the world while travelling through the countryside in Zimbabwe.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The land of Zimbabwe has been occupied since the 9th century, with tribes first emerging in the Limpopo Valley before starting to occupy the highlands. Zimbabwe's early society developed into a series of kingdoms which traded commodities such as gold and copper with other nations. The Great Zimbabwe ruins are a remnant of this illustrious time in Zimbabwean history and can be visited while travelling in the Masvingo area.
+
+Portuguese settlers arrived in the 16th century, having a devastating effect on the empire. Trade was halted and a series of wars rendered the empire near collapse at the dawn of the 17th century. The British arrived in the late 19th century, by way of Cecil Rhodes' British South Africa Company, which lobbied to colonise the area and control the land (and precious minerals within). By 1898 the area of Zimbabwe was known as Southern Rhodesia (with modern day Zambia known as Northern Rhodesia). The Shona and Ndebele (along with other indigenous tribes) staged revolts against their colonisers, which were largely unsuccessful and lead to displacement, with land unfairly being allocated to European settlers, rather than local tribal people whose ancestors and families had lived there for centuries. In part, this issue of disproportionate allocation of land would return to haunt modern Zimbabwe many years later.
+
+Recent History
+
+Although controversial, colonial rule endured until Zimbabwe gained its independence in 1980, with Canaan Banana serving as the first President. In 1988, changes to the constitution enabled Robert Mugabe to become President. By the 1990s ethnic tensions, confrontation and political instability were changing the face of modern Zimbabwe. Zimbabweans had endured demonstrations, displacement, violence, drought, food shortages and forcible land removal. The unstable economy, wildly fluctuating currency value and drop in tourism revenue translated into widespread poverty for many Zimbabweans. With the highest inflation rate in the world, Zimbabwe still suffers economic difficulties mainly due to the collapse of the once-strong agriculture sector. Despite this, Zimbabwe's people are irrepressible, the landscapes are as beautiful as ever and tourists have begun to return to experience the natural wonders and exotic wildlife of this great land.
+
+
+
+
+
+
+
+
+Top 10 Wild Animals of Zimbabwe
+
+
+
+
+
+
+×
+
+Top 10 Wild Animals of Zimbabwe
+
+
+
+
+1. Sable Antelope
+
+Zimbabwe’s national animal can be found grazing in herds in the woodlands and savanna of Zimbabwe. Lean, graceful and powerful, the sable antelope is considered one of the most magnificent antelope in the animal kingdom.
+
+2. Lion
+
+Prides of regal lions strut through Zimbabwe’s parks and reserves. Head on safari to find them stalking prey, at play or lazing in the sun – lion-spotting is one of world’s most sought after wildlife experiences for a reason, they are simply breathtaking to behold.
+
+3. Hippopotamus
+
+Hippos are a common sight while cruising on Lake Kariba. Watch them wallowing on the shores and lurking beneath the surface of the water. Although they look quite harmless, hippos are actually quite territorial and can get fierce, so don’t get too close.
+
+4. African Wild Dog
+
+Saved from the brink of extinction, the African wild dog is a recent conservation success story. While not completely out of the woods, population numbers have risen of late and if you’re lucky you’ll be able to encounter some of these highly intelligent canines while travelling in Zimbabwe.
+
+5. Black Rhino
+
+Sadly, black rhinos are on the critically endangered list due to poaching and loss of habitat. Zimbabwe still has pockets of these beautiful beasts and it’s possible to find them in reserves and protected areas.
+
+6. White Rhino
+
+Zimbabwe’s Matobo National Park is home to a significant population of rare white rhinos. Track them on foot with a local guide and be mesmerised at the sight of these enormous creatures quietly grazing in the protected valleys.
+
+7. Crocodile
+
+Keep your eyes peeled for these ancient reptiles that are expert at blending in with the scenery. Their menacing presence looms just under the water level – watch out for them while cruising Zimbabwe’s channels and rivers.
+
+8. Kudu
+
+This timid animal scares easily, so you’ll have to remain quiet if you hope to get close to one. With unique corkscrew-like horns, they are easy to spot but harder to capture on camera as they are great at making swift departures.
+
+9. Elephant
+
+Large groups of the mighty African elephant can be found wandering the terrain of Zimbabwe's Hwange National Park. Imposing and inspiring, elephants are one of the most beloved animals in the world – see why for yourself in Zimbabwe.
+
+10. African Fish Eagle
+
+The national bird of Zimbabwe is swift, nimble and majestic. Abundant near bodies of water, witnessing an African fish eagle swoop on the water and capture its prey is an unforgettable travel moment.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+While Zimbabwe lacks glitzy malls and heaving retail precincts, there are plenty of markets, galleries and workshops full of handicrafts and handmade wonders. It's also a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Zimbabwe
+
+1. Shona Stone Carvings
+
+The Shona people have lived in Zimbabwe for thousands of years and have cultivated a rare talent in carving stone. Their craft is widely appreciated by the international art world, so support local artists by picking up a creative carving straight from the source.
+
+2. Local Music
+
+Zimbabwean music is lively, moving and steeped in history. Featuring drumming, marimba, mbira, singing and chanting – pick up a CD and bring the spirit of Zimbabwe home to share with friends.
+
+3. Batik Fabric
+
+Zimbabwe has an impressive array of batik, known as sadza cloth. Featuring wildlife and scenes of daily life, they make great bedspreads, wall hangings and tablecloths.
+
+
+
+
+
+
+
+
+Festivals and Events in Zimbabwe
+
+
+
+
+
+
+×
+
+Festivals and Events in Zimbabwe
+
+
+
+Harare International Festival of Arts
+
+Held annually, this festival is jam-packed with exciting things to see and do, like watching energising dance and music performances, browsing eclectic stands at craft markets and indulging in food and festivities at night.
+
+Bulawayo Music Festival
+
+Held every two years, this music festival attracts classical musicians from all over the world, but also features local musicians who give energetic performances using traditional instruments.
+
+Zimbabwe International Film Festival
+
+See the brightest African filmmaking talent shine at this festival that showcases short features and documentary films made by local film-makers - a great way to learn about local culture and what it means to live in contemporary Africa.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Last Resort
+
+Douglas Rogers
+
+Where We Have Hope: A Memoir of Zimbabwe
+
+Andrew Meldrum
+
+When a Crocodile Eats the Sun
+
+Peter Godwin
+
+Nervous Conditions
+
+Tsitsi Dangarembga
+
+Butterfly Burning
+
+Yvonne Vera
+
+
+
+
+
+
+
+
+Zimbabwe travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Zimbabwe?
+
+
+
+
+
+
+
+
+
+ZIMBABWE:
+
+Australia: Yes - visa on arrival
+Belgium: Yes - visa on arrival
+Canada: Yes - visa on arrival
+Germany: Yes - visa on arrival
+Ireland: Yes - visa on arrival
+Netherlands: Yes - visa on arrival
+New Zealand: Yes - visa on arrival
+South Africa: Yes - visa on arrival
+Switzerland: Yes - visa on arrival
+United Kingdom: Yes - visa on arrival
+USA: Yes - visa on arrival
+
+Zimbabwe visas are required by most nationalities, including from the EU, US and Australia. All nationalities should check with their nearest Zimbabwe Embassy for more information. For most nationalities, Zimbabwe visas are available at the point of entry. If you plan to purchase your visa on arrival you will need US$ cash. The cost is approximately US$30/45.
+
+Please note: As of January 2016, the KAZA Visa for Zimbabwe and Zambia will be unavailable to purchase. Singular visas for Zimbabwe remain available on arrival at point of entries.
+
+
+
+
+
+
+
+Is tipping customary in Zimbabwe?
+
+
+
+
+
+
+
+
+
+Many Zimbabweans are struggling to make ends meet, so being generous by tipping service workers is a good idea. Generally, a minimum of US$1 should be put aside for porters, waiters, local guides and drivers. Rounding up the bill at restaurants and other establishments is common as small change is hard to come by.
+
+
+
+
+
+
+
+What is the internet access like in Zimbabwe?
+
+
+
+
+
+
+
+
+
+Internet cafes can be found in Zimbabwe's larger cities, however smaller towns and rural areas will have little to no access to the internet.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Zimbabwe?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in Zimbabwe's cities and urban centres but less so in rural and remote areas. Ensure global roaming is activated before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Zimbabwe?
+
+
+
+
+
+
+
+
+
+Visitors can expect to encounter a wide range of toilets while in Zimbabwe. Western-style flushable toilets are available at many high-end hotels, bars, airports and tourist attractions while squat toilets are more common in rural areas and places frequented by locals. Be prepared by carrying your own toilet paper, soap or hand sanitiser, as these may not be provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Snack from street vendor = US$1
+Espresso coffee in a cafe = US$1
+Bottle of beer = US$3
+Meal in a mid-range cafe or restaurant = US$10
+
+
+
+
+
+
+
+Can I drink the water in Zimbabwe?
+
+
+
+
+
+
+
+
+
+Tap water isn't safe for tourists to drink in Zimbabwe. For environmental reasons, try to avoid buying bottled water. Ask your leader and accommodation provider for local advice on where drinking water can be accessed. Also, avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Zimbabwe?
+
+
+
+
+
+
+
+
+
+Zimbabwe's currency and economy is classified as unstable. Credit cards are accepted by some tourist-driven establishments but are generally not a reliable option in Zimbabwe. Be prepared by carrying low denominations of US dollars and South African rand, as the Zimbabwean dollar is no longer an acceptable form of currency.
+
+
+
+
+
+
+
+What is ATM access like in Zimbabwe?
+
+
+
+
+
+
+
+
+
+ATMs can be found in Zimbabwe’s major cities but are less common in rural areas. Be prepared by carrying cash (US dollars and South African rand in small denominations).
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Zimbabwe?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Zimbabwe?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan Public Holiday
+
+14 Apr Good Friday
+
+15 Apr Holy Saturday
+
+16 Apr Easter
+
+17 Apr Easter Monday
+
+18 Apr Independence Day
+
+1 May Workers' Day
+
+25 May Africa Day
+
+7 Aug Heroes' Day
+
+8 Aug Defense Forces Day
+
+22 Dec National Unity Day
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+Please note these dates are for 2017. For a current list of public holidays in Zimbabwe go to:
+http://www.worldtravelguide.net/zimbabwe/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Zimbabwe
+
+Be considerate of Zimbabwe’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+Avoid purchasing ivory or other products harvested from endangered animals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

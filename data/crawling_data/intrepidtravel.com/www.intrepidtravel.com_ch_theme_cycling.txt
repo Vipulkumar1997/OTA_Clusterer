@@ -1,0 +1,4675 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycling Tours | Cycling Holidays | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycling tours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Cycling
+
+
+
+
+We think the world’s at its best when there’s nothing between it and you. No big bus window. No iPhone screen. No maps or walls or guidebooks. Just the wind and the open road.
+
+That’s the thinking behind our brand new cycling trips. There’s a nice simplicity to cycling. You start at A and slowly ride your way to B, powered by nothing but your own legs…and maybe a Provencal orange cake and a couple of extra-strength
+café au lait
+. This is cycling Intrepid-style. Which means it’s not the Tour de France. You don’t get prizes for coming in first, and the lycra bodysuits are definitely optional. These trips are for people who really want to
+see
+a place, not just travel it. Ride on.
+
+
+
+
+
+
+
+
+
+New cycling tours
+
+
+
+
+
+
+
+
+
+
+Cycle Iran
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,615
+
+
+
+
+
+Embark on a cycling adventure across the hidden world of Iran. Visit Tehran, Kashan,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Jordan (Petra & Wadi Rum)
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,370
+
+
+
+
+
+Pedalling past Petra, Jerash, Mount Nebo, Wadi Rum and more – experience the best...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the French Alps
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,575
+
+
+
+
+
+Cycle the French Alps with Intrepid, conquering some legendary Tour de France routes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the Baltics
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,195
+
+
+
+
+
+Cycle through the Baltic States – Estonia, Latvia and Lithuania – from Tallin to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Bali
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,220
+
+
+
+
+
+Discover Bali on a cycling adventure from Ubud to Sanur. Visit Mount Batur, Kintamani,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Peru (Machu Picchu & the Sacred Valley)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,670
+
+
+
+
+
+Visit South America and cycle in Peru. Visit Lima, Cusco, the Sacred Valley and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Peru with Inca Trail  (Machu Picchu & the Sacred Valley)
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Visit South America and cycle in Peru. Visit Lima, Cusco, the Sacred Valley and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Our cycling tours
+
+
+
+
+
+
+
+
+
+
+Cycle Vietnam
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,692
+
+
+
+
+
+Jump in the saddle for a two-wheeled adventure tour of Vietnam. Take in cultural...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Cuba
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,330
+
+
+
+
+
+Explore laidback Cuba on a two-wheeled round-trip adventure from Havana. Cycle along...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Tanzania
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,764
+
+
+
+
+
+Discover the best of Tanzania on this unique cycling adventure. Safari through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Croatia
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,730
+
+
+
+
+
+Discover the ancient cities of Croatia on this Dalmatian cycling tour. Ride to Split,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Tuscany
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,635
+
+
+
+
+
+Encounter the picturesque hills and olive groves of Tuscany on this cycling adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Morocco
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,375
+
+
+
+
+
+Discover the beauty of Morocco on a two-week cycling adventure. From the buzz of cities...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Indochina
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,836
+
+
+
+
+
+See Southeast Asia from two wheels on this 13-day adventure from Ho Chi Minh to Bangkok...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Iran
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,615
+
+
+
+
+
+Embark on a cycling adventure across the hidden world of Iran. Visit Tehran, Kashan,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the Danube
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,340
+
+
+
+
+
+Retrace the steps of ancient empires on this cycling tour through Austria, Slovakia and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Sri Lanka
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,225
+
+
+
+
+
+Discover a world of spice and splendour on a cycling trip across Sri Lanka, taking in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Japan
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR5,275
+
+
+
+
+
+Experience the best of this fascinating country on a comprehensive cycling tour of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Provence
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,650
+
+
+
+
+
+This cycling tour through Provence, visiting Avignon, Orange, St Remy and Arles, is the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Myanmar
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,665
+
+
+
+
+
+Climb into the driver's seat for a cycling tour through a land it often feels like time...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Central America
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,425
+
+
+
+
+
+Ride across the many and varied landscapes of Central America on a cycling tour of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Jordan (Petra & Wadi Rum)
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,370
+
+
+
+
+
+Pedalling past Petra, Jerash, Mount Nebo, Wadi Rum and more – experience the best...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Nicaragua, Costa Rica & Panama
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR3,615
+
+
+
+
+
+Ride across the many and varied landscapes of Central America on a cycling tour of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Southern Thailand
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,090
+
+
+
+
+
+Cycling allows you to get closer to the real face of Thailand. From bicycles to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle South East Asia
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR3,865
+
+
+
+
+
+Gear up for an energising and rewarding cycling tour that takes in the best of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the French Alps
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,575
+
+
+
+
+
+Cycle the French Alps with Intrepid, conquering some legendary Tour de France routes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle the Baltics
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,195
+
+
+
+
+
+Cycle through the Baltic States – Estonia, Latvia and Lithuania – from Tallin to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Bali
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,220
+
+
+
+
+
+Discover Bali on a cycling adventure from Ubud to Sanur. Visit Mount Batur, Kintamani,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Peru (Machu Picchu & the Sacred Valley)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,670
+
+
+
+
+
+Visit South America and cycle in Peru. Visit Lima, Cusco, the Sacred Valley and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Andalucia
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,035
+
+
+
+
+
+Experience southern Spain on this cycling adventure from Seville to Granada. Ride car...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Kerala and Goa
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,899
+
+
+
+
+
+Enjoy a cycling adventure along the south west coast of India, visiting Kerala,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Cape Town and Winelands
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,395
+
+
+
+
+
+Don’t miss a thing on this cycling adventure through the south west of South Africa –...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mont Ventoux extension
+
+
+
+
+
+
+
+
+
+1 Day
+
+
+From
+FR180
+
+
+
+
+
+Challenge yourself on this unguided early morning ride up the mighty Mont Ventoux, the ...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle India North & South
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR3,332
+
+
+
+
+
+Travel to India and cycle the romantic Rajasthan region. Tour from Delhi to Pushkar and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Provence & Tuscany
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,075
+
+
+
+
+
+This cycling tour through Provence and Tuscany, from the perfect blend of scenic trail...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Peru with Inca Trail  (Machu Picchu & the Sacred Valley)
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Visit South America and cycle in Peru. Visit Lima, Cusco, the Sacred Valley and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+Cycling tours by region
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+
+
+
+
+
+
+The Americas
+
+
+
+
+
+
+
+
+Cycling tours FAQ
+
+
+
+
+
+What’s the range of cycling tours available?
+
+
+
+
+
+
+
+
+
+Our cycling tours span the gamut of two-wheeled challenges: from a leisurely ride through Vietnam to cycling across landscapes of Cuba. Some of these trips include cycling as just one of a number of active adventures, others are more cycling focussed (ie. You’ll be riding almost every day).
+
+
+
+
+
+
+
+Should I bring my own bike on a cycling trip?
+
+
+
+
+
+
+
+
+
+To take the hassle out of preparing for your trip, we've included bike hire on all our dedicated cycling tours. Alternatively, you can bring your trusty bike from home. If you're bringing your own bike, make sure you let us know when booking so we can make sure your bike is appropriate for that particular tour. As always, check your Trip Notes for more information.
+
+
+
+
+Bringing your own bike
+– If you are a dedicated cyclist or just want to take your bike on a holiday, you can usually bring it along for the ride. You’ll need to box it up for transport on the plane: the easiest way to do this is to go to your local bike shop and ask if they will do it for you (a fee may apply). They often have boxes on hand from old stock and have the tools to remove the pedals and secure your handlebars. Airline fees will also apply, so check with your airline about costs. It's worth remembering not
+all
+trips will be able to accommodate your own bike, so let us know what you're planning at the time of booking.
+
+
+
+Hiring a bike
+–
+The bikes we use are from proven brands, very well maintained, typically less than 3 years old (most are newer) and specifically chosen to suit the terrain you'll be cycling on the trip. They come in the full range of sizes from extra small to extra large and usually have front suspension, flat bars, and 27 gears. The only thing you need to do is advise us of your height at the time of booking. We’ll handle the rest.
+If you'd like, you can always take your own saddle (seat) or gel over-cover for comfort sake, and if you want to use cleats, bring your pedals and shoes too.
+
+
+
+
+
+
+
+
+
+
+How do I fly with my bike?
+
+
+
+
+
+
+
+
+
+All airlines will have their own rules and fees when transporting bikes. Make sure you contact the airline (preferably) before you pay for your flights to see what charges and requirements they have.
+
+Before you go, you must box your bike for transport. See our section ‘taking your own bike vs. hiring one’ for more information.
+
+
+
+
+
+
+
+What do I have to carry while we ride?
+
+
+
+
+
+
+
+
+
+On all of our cycling tours your accommodation is pre-booked and your luggage is transferred from one point to the next. All you have to carry is water, and any snacks or gadgets you may want and a few layers to keep you dry and warm. A small, lightweight backpack may come in handy.
+
+
+
+
+
+
+
+Do I need to pack anything special?
+
+
+
+
+
+
+
+
+
+Helmets are compulsory on our cycling tours, so you can either bring your own or (to save on luggage space) buy one at a local bike shop once you arrive in-country. We also recommend you bring your own water bottle/hydration pack, and closed shoes. You may also wish to bring Cycling shorts, and (if you ride regularly at home) your own saddle and pedals. Many of our clients who do not ride regularly find a gel seat cover helpful in making the ride more comfortable. For more info on packing, check out the What to Pack section of your Trip Notes.
+
+
+
+
+
+
+
+How fit do I need to be?
+
+
+
+
+
+
+
+
+
+All you need to enjoy our cycling trips is the ability to ride a bicycle and a passion for seeing a destination on two wheels. That’s about it.
+
+While there are occasionally longer days on some itineraries, the vast majority of our cycling days are between 30-60kms and are done at a leisurely pace with plenty of opportunities to stop and enjoy the scenery/just take a break. Anyone with a reasonable level of fitness will get by with no troubles.
+
+Our cycling trips are done predominantly on sealed roads (with the odd unsealed section), but none of the trips require any specialist cycling skills. We’ve also researched extra riding routes in each of the destinations we visit, so if you want to stretch your legs a bit more, you can.
+
+
+
+
+
+
+
+What sort of safety precautions do you take?
+
+
+
+
+
+
+
+
+
+We run risk assessments on each and everyone of our cycling trips to make sure they’re up to scratch, and your cycling leaders have personally ridden every inch of the itinerary in advance. We’ve assessed the road conditions, the level of traffic and any potential blackspots. Our leaders are trained in cycling health and safety, as well as basic first aid, and we usually have a vehicle following us if an evacuation ever becomes necessary. We’ve also made sure our cycling tours depart during the milder months, when the weather isn’t too hot or too cold, so the ride should be as pleasant (and safe) as possible.
+
+
+
+
+
+
+
+Do I need special insurance for a cycling trip?
+
+
+
+
+
+
+
+
+
+Not as a rule. Any injuries you might suffer while riding should be covered by the more reputable comprehensive policies (we can recommend some good brands if you’re unsure of what to get). It’s always important to double check the fine print before departing on your trip, and be aware that (like all Intrepid trips) travel insurance is compulsory on our cycling itineraries.
+
+
+
+
+
+
+Traveller reviews
+
+
+Our Cycling trips score an average of
+4.84 out of 5
+based on 338 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Cycle Cuba,
+November 2017
+
+Ben Smith
+
+A fantastic way to visit Cuba and see a side of the country that would be very challenging to arrange on your own. The tour does require a moderate level of fitness given the sometimes challenging riding conditions but it is very well supported with excellent bikes and guides.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Cycle Myanmar,
+November 2017
+
+Lesley Cameron
+
+Just finished wonderful trip through Myanmar biking and cultural sights, fabulous organisation, brilliant guide, great company, lovely hotels, great food, beautiful scenery so much more than we expected or hoped for. Highly recommend Intrepid and Myanmar is one of our favourite destinations now. Most of the cycling was on quiet roads with great scenery. Will never forget the traditional ways of life and those ox carts and happy smiling people everywhere you go. Thank you!
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Cycle Myanmar,
+November 2017
+
+Glenn Rogers
+
+Cycle Myanmar is a fabulous trip.  Cycling is such a great way to experience the country and get closer to the locals.  There are so many amazing things to see in Myanmar. We had a very knowledgeable guide who led the trip extremely well and was great to be around - thanks Naing.  We thoroughly enjoyed our trip with Intrepid.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Cycle Morocco,
+October 2017
+
+Natalie Gibson
+
+Cycle Morocco was a great trip, the right balance of cycling and sightseeing and we got to see so much of the country in 2 weeks. Good value too and our guide was excellent. I would recommend to other travellers!
+
+Review submitted 29 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Cycling trip reviews
+
+Our Cycling trips score an average of
+4.84 out of 5
+based on 338 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+Our favourite cycling destinations
+
+
+
+
+
+
+
+
+
+
+Croatia
+
+The Croatian islands were built for cycling trips. Little olive groves and hilltop villages on Brac, Korcula’s cliff top switchbacks and charming local vineyards, nights spent recuperating with fresh seafood plucked straight from the Adriatic. Get ready for a blur of orange orchards, white pebble beaches and buckets of tangy gelato, Dalmatian-style. Check out our
+Croatia cycling trip
+.
+
+
+
+
+
+
+
+
+
+
+France
+
+Don’t worry, we won’t be leading you on any mountain climbs up to the Alpe d’Huez. French cycling for us is more about slipping into the rhythms of local Provencal life. Stopping for a picnic with the group by the Gardon River, browsing for antiques in Uzes or Tarascon, riding quiet country lanes outside Caderousse. It’s tough work, but someone’s gotta do it. Check out our
+Provence cycling trip
+.
+
+
+
+
+
+
+
+
+
+
+Vietnam
+
+More than 30 million Vietnamese can’t be wrong – this country looks better from handlebar height. We’ll set off from Hanoi, riding along cliff top passes and down quiet rice paddy roads. And after a long day in the saddle? Piping hot pho cut with lemon and chilli, and crusty banh mi all round. Check out our
+Vietnam cycling tour
+.
+
+
+
+
+
+
+
+
+
+
+Morocco
+
+It’s what you’d call a ‘classic’ cycling destination, but there’s no doubt Morocco is an up-and-comer in the world of two-wheeled adventure. Where else can you cycle silhouetted against the dunes of the Sahara? Swap your bike for a camel? Or spend the night with Berber tribesmen in your very own desert camp? Yep, this isn’t your typical cycling tour. Check out our
+Morocco cycling itinerary
+.
+
+
+
+
+
+
+
+
+
+
+Cuba
+
+Cuba ticks all the culture boxes (Cadillacs, cigars and nostalgia-soaked streets? Um, yes please.) But it’s a rider’s paradise too: mostly flat, relatively compact, with a big variety of landscapes. Think rural villages around Vinales, the pristine beaches of Cayo Jutias and  stunning forests of Las Terrazas. Muy bueno. Check out our
+Cuba cycling tour
+.
+
+
+
+
+
+
+
+
+
+
+Andalucía
+
+The whiff of orange blossom in the air, the twang of a flamenco guitar, some ridiculous white-washed village perched on a crag – Andalucía is almost clichéd in its Spanish-ness. It’s hard to imagine a better backdrop for a cycling trip, and our route from Seville to Granada is a perfect intro for beginner cyclists. Check out our
+Andalucia cycling trip
+.
+
+
+
+
+
+
+
+
+
+
+Tuscany
+
+A cycling trip in Tuscany? Just form an orderly queue. We’ll start on the cobbled lanes of Florence and work our way (in no particular hurry) through the rolling hills of Garfagnana and Barga’s sun-dappled vineyards and olive groves and on to the famed towns of Lucca and Pisa. If all that sounds like some Italian black and white movie starring a guy with a moustache, it’s because it is. Check out our
+Tuscany cycling trip
+.
+
+
+
+
+
+
+
+
+
+
+South Africa
+
+You’re zooming down a coastal road, with the green cliffs of the Cape on one side and the endless blue of the South Atlantic on the other. A couple of humpback whales surface cinematically out to sea, and the air carries the grapey tang of the Stellenbosch winelands. Yep, that’s cycling in South Africa for you. Check out our
+South Africa cycling itinerary
+.
+
+
+
+
+
+
+Show more
+
+
+
+
+A few of our cycling leaders
+
+Our local leaders are all cycling junkies, but they go through some pretty rigorous training before being allowed behind the handlebars of an Intrepid cycling tour. Each one has undergone on-road supervision and knows how to do safety checks, basic repairs and emergency first-aid. But they’re still regular Intrepid leaders, which means they know the best local bars, cafes and hidden spots (not to mention handling all the logistical stuff). You just focus on the ride.
+
+
+
+
+
+
+
+
+
+
+Justaz
+
+“Justaz was an excellent guide, so motivated, confident and very approachable. He always made sure the group was comfortable. Worth his weight in gold!”
+
+Breanne Chrimes
+–
+Kilimanjaro Marangu Route
+
+
+
+
+
+
+
+
+
+
+Chai
+
+“Chai is a real asset to intrepid. He knowledge and enthusiasm was great. He kept us going in the tough bits and made it a fun experience.”
+
+Geoff Barker
+–
+Thailand Hike, Bike and Kayak
+
+
+
+
+
+
+
+
+
+
+Is
+
+“The best tour guide I have ever had. She was always looking after our needs and nothing was too much trouble for her. Thank you, Is!"
+
+Pretesh Mistry
+–
+Thailand Hike, Bike and Kayak
+
+
+
+
+
+
+
+
+The bikes we use
+
+
+
+
+
+
+
+
+
+
+
+On most of our cycling trips we’ll be using hardtail mountain bikes, armed with front suspension. Depending on the country, we’ll use a mix of makes and models, like Giant Talon and Trek X Caliber 5, but they’re all pretty similar when it comes to form and function. Our bikes are serviced regularly in-country, by local experts who know their stuff. We’ve also got a support vehicle that travels around with the group, so any pesky broken chains or flat tyres can be fixed in a jiffy. Of course you can usually bring your own (check out the FAQ above for all the logistical info).
+
+
+
+
+
+
+
+Responsible cycling tours
+
+
+
+
+
+
+
+
+
+
+
+Everyone knows that riding a bike is good for you (even factoring in the odd Florentine gelato or Tuscan cellar door pitstop). But it’s good for the environment too. Our cycling itineraries (like all our trips) are 100% carbon offset, and obviously the majority of transport on the trips is powered by the greenest energy of all: yours. Each cycling trip has a support vehicle in tow, but it’s still one of the most eco-friendly ways to see the world. Trust us, we design it that way. For more info, check out our
+Responsible Travel policies
+.
+
+
+
+
+
+
+
+Bicycles For Humanity
+
+At Intrepid, we know a bike can changes lives. Provide a person in the developing world with a bike and it means they can travel twice as far, twice as fast and carry four times the load. The extra mobility and distance gained from using a bike can make all the difference when seeking medicine or trying to find work. This is why we’ve partnered with Bicycles for Humanity to help provide bikes to communities in Namibia, Africa.
+
+Bicycles for Humanity takes bikes people no longer use, repairs them, packs them up and ships them off to the African continent in 40-foot containers. These containers then become bike workshops on arrival – a place of employment, education and business for the communities who receive them. Each of these Bicycle Empowerment Centres are self-sustaining, micro-financed small businesses and a massive step towards financial independence for the community.
+
+We also help by donating a portion of each booking of our cycling trips directly to Bicycles for Humanity, as well as using our network of contacts to bring greater exposure to the amazing work the volunteer team do every day at Bicycles for Humanity.
+
+We are also proud to have Bicycles for Humanity as a partner of The Intrepid Foundation, where our financial support will go directly towards purchasing containers and shipping bikes to Namibia. Every donation to The Intrepid Foundation from our travellers is matched by us dollar for dollar. To find out more or to make a donation, visit
+The Intrepid Foundation website
+.
+
+
+Stories from the road
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2017
+
+
+
+I’ve cycled through over 40 countries; here’s...
+
+
+
+
+
+
+I love cycling in the desert. I like the long and empty miles. I like riding into...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+A practical guide to cycling in Japan: things...
+
+
+
+
+
+
+On a bicycle, you’re free to pedal at your own pace. You can hop on and off to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 06, 2017
+
+
+
+Meet the man cycling 12,000km from Cairo to...
+
+
+
+
+
+
+Meet Charles Butler. He's cycling from Egypt to South Africa, raising money for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 10, 2017
+
+
+
+The beauty of discovering Myanmar by bike
+
+
+
+
+
+
+Myanmar by bike was pure magic. The undulating hills made for excellent cycling,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 14, 2017
+
+
+
+Cycling Vietnam: Hanoi to Ho Chi Minh City
+
+
+
+
+
+
+The view didn’t matter. We’d got there, without having to call on the support...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 23, 2016
+
+
+
+Want to go cycling in Tanzania? Now you can
+
+
+
+
+
+
+Tanzania might not be a classic cycling destination, if only because cheetahs are...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

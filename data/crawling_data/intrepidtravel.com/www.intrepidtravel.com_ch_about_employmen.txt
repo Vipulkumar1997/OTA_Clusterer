@@ -1,0 +1,3400 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Employment with Intrepid | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Employment with Intrepid
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+About
+
+Contact us
+
+Employment
+
+
+
+
+As an Intrepid employee, there's more to work than the job you do. It's about becoming part of an energetic and diverse global family, with a zest for life and a lust for travel.
+
+We work hard to maintain an environment that hits the right note between professional and fun - because it's our belief that people are more inventive when inspired, more productive when passionate and more resourceful when recognised. And with offices around the world, there's always plenty of opportunities for fun, adventure and career development with Intrepid.
+
+
+Please be aware that there are unscrupulous agencies and individuals attempting to scam jobseekers using the Intrepid name. All we can do is help you keep your eye out for these fake advertisements on job boards.
+
+If a role is not advertised on this website, it may not be legitimate. Contact us directly and we’ll be happy to check it out for you. As always, please don’t send any personal information to anyone unless you’re sure you have received a genuine job offer.
+
+If you have been affected by this scam, please report it at "
+https://www.scamwatch.gov.au/
+”
+
+
+Current employment opportunities
+
+
+
+
+
+B2B Marketing Coordinator - Brixton, London
+
+
+
+
+
+
+
+
+
+Want to join the trade marketing team for the world’s leading adventure travel company? This could be the perfect role for you!
+
+We are recruiting for a B2B Marketing Coordinator to support our existing industry team in coordinating and delivering our trade strategy to our agent partners. You’ll be responsible for activity not just in the UK but also Ireland, Scandinavia and South Africa so attention to detail to ensure all messages are relevant is essential. Any relevant experience in these markets is advantageous.
+
+The ideal candidate should have some experience working within the travel industry, preferably within a travel agency, sales or marketing role. This is a dynamic and fast paced office where there is real opportunity and the ability to make a mark in the B2B world. You must be comfortable working in this environment and used to working to multiple deadlines.
+
+The successful candidate will be working alongside the B2B Marketing Executive for Europe and reporting into the B2B Marketing Manager who oversees the EMEA region. You should be comfortable working in a small team but also happy to make your own decisions.
+
+For more information about the role please view the
+job description
+.
+
+To apply please send a copy of your CV and a cover letter, detailing your experience and interest in the role, to
+sophie.holloway@intrepidtravel.com
+. Make sure you don’t miss out your best ever travel experience - we’re a company full of travellers and having a passion for travel is essential!
+
+
+
+
+
+
+
+Private Groups Sales Specialist, Brixton, London
+
+
+
+
+
+
+
+
+
+We are looking for a Sales Superstar in the Private Groups Team, London.
+
+If you like the sound of creating unique and exciting product for some well-known brands/agents and you are keen to be part of a small team with big growth plans - then we want to hear from you.
+
+The Groups Sales Specialist will be passionate about our style of travel and can deliver an excellent experience for our travellers.  We are looking for a candidate that is curious about understanding the business, a self-starter and interested in combining their sales skills with product.
+
+View the job description
+here
+.
+
+If you are interested in applying for the role, please email an expression of interest and CV to
+Joanna.reeve@intrepidtravel.com
+before the 15 December.
+
+
+
+
+
+
+
+EMEA Digital Marketing Executive - Brixton, London
+
+
+
+
+
+
+
+
+
+We're looking for a talented digital marketer to drive digital performance and results across all the Intrepid Group brands in the EMEA region.
+
+The ideal candidate will have;
+
+A minimum of 2 years’ experience in digital marketing
+
+A proven track record of delivery of digital campaigns across multiple channels including SEM and social media advertising
+
+A passion for travel
+
+For more information about the role please view the
+job description
+
+To apply please send a copy of your CV and a cover letter, detailing your experience and interest in the role, to
+andrew.steward@intrepidtravel.com
+. Please include why you feel you’d want to work for Intrepid, and tell us about your best travel experience ever - we’re a company full of travellers and having a passion for travel is essential!
+
+
+
+
+
+
+
+Europe B2B Marketing Executive - London, UK
+
+
+
+
+
+
+
+
+
+Are you:
+
+A travel regular
+Creative
+Vibrant and fun
+A marketing wordsmith?
+
+Do you:
+
+Want to join the world's leading adventure travel company?
+Want to work in a brand new office in the heart of Brixton with inspiration at your fingertips?
+Want to inspire others to have their very own real life travel experience?
+
+Your mission, should you choose to apply for it, is to join a dynamic marketing team as an B2B Marketing Executive and grow the Intrepid brand through our B2B marketing channel in Europe, especially Central Europe (Germany, Switzerland & Austria); creating compelling content, developing and maintaining exciting partnerships and implementing enticing campaigns.
+
+We're looking for a travel marketing superstar, a show stopper! Fluent in German and English (with excellent written and verbal skills) is essential for this role.
+
+Download
+job description
+
+To apply please send a copy of your CV and a cover letter, detailing your experience and interest in the role, to
+tom.smith@intrepidtravel.com
+. Please include why you feel you’d want to work for Intrepid, and tell us about your best travel experience ever - we’re a company full of travellers and having a passion for travel is essential!
+
+
+
+
+
+
+
+Travel Support Specialist (German Speaking) – Brixton, London, UK
+
+
+
+
+
+
+
+
+
+Join a dynamic team in the leading global Adventure travel company; inspire, support and prepare customers across our European Markets throughout their pre-travel experiences and become integral in the rapidly growing business in the EMEA region. Your mission - should you choose to apply for it - is to achieve and exceed customer feedback and response time targets, maintaining a high degree of accuracy, and never ceasing to delight our customers. If you have an appetite for travel, are driven by providing great service, and love talking to people, then we want to hear from you.
+
+Download job description
+
+To apply, please email your CV to
+ilovemondays@intrepidtravel.com
+
+
+
+
+
+
+
+Flights Specialist – Brixton, London, UK
+
+
+
+
+
+
+
+
+
+Join a dynamic team in the leading global Adventure travel company. Use your expertise and experience with Amadeus GDS along with your positive altitude, great customer service and outstanding attention to detail to become integral in the rapidly growing business in the UK and Europe. Your mission - should you choose to apply for it - is to achieve and exceed response time and accuracy targets, ensure all our flight bookings are thoroughly quality checked, and to provide excellent customer service to both our internal and external customers. If you have a passion for aviation, are driven by providing great service, and can spot the spelling mistake in this paragraph, then we want to hear from you.
+
+Download job description
+
+To apply, please email your CV to
+ilovemondays@intrepidtravel.com
+
+
+
+
+
+
+
+
+
+Customer Relations Representative, Brixton, London, UK
+
+
+
+
+
+
+
+
+
+Join a dynamic team in the leading global Adventure travel company;
+
+Support customers when they return from their travels and share their experiences with us in the rapidly growing business in the UK and Europe. The role can be a challenge, you will sometimes be dealing with unhappy customers but almost all of the time, complaints are resolved and result in customers who would be happy to travel with us again. Sometimes those customers turn into our biggest advocates and some of our Intrepid Legends, all due to the work of our awesome Customer Relations team. Turning around an unhappy customer into a happy one, is hugely rewarding. If you have an appetite for travel, are driven by providing great service, and love talking to people, then we want to hear from you.
+
+Download job description
+
+To apply, please email your CV to
+ilovemondays@intrepidtravel.com
+
+
+
+
+
+
+
+Assistant Purchasing & Reservations Manager - Mexico City, Mexico
+
+
+
+
+
+
+
+
+
+PEAK Destination Management Company (DMC) is the world’s largest adventure travel company operating amazing journeys for Intrepid Travel, Peregrine Adventures, Geckos, and many more.
+
+PEAK DMC will commence operations in Central America from 1st January 2018, operating across 8 countries. In preparation for our launch, we are now recruiting for a talented, motivated and commercially astute Assistant Purchasing & Reservations Manager to join the team at our Mexico office to be opened in Mexico City.
+
+The Assistant Purchasing & Reservations Manager will lead the sourcing, contracting and booking of suppliers across Mexico, ensuring the best possible value and service for our Brands; as well as assisting to build a competent and passionate reservations team in Mexico.
+
+To the successful candidate, we not only offer a relaxed working environment, there are a range of benefits that we enjoy.  Read more
+here.
+
+To apply, view the
+Job Description
+alongside our
+Company Values
+; then fill in this
+
+Application Form
+and send via email along with your CV to
+bradley.johndavis@peakdmc.com
+.
+
+Applications will be accepted until 31st December 2017.
+
+
+
+
+
+
+
+Adventure Consultant - Toronto, Ontario, Canada or Petaluma, California, USA
+
+
+
+
+
+
+
+
+
+We are always looking for great candidates to join a dynamic team at the world’s largest provider of small group adventures; inspire travellers to follow their inner wanderlust, create amazing travel experiences and become integral in our growing business in North America.
+
+We are looking for a passionate and customer focused Adventure Consultant to join the rapidly growing team at Intrepid in North America based in either Toronto, Ontario or Petaluma, California. We are a small team focused on helping each other deliver the best customer experience for our travellers.  If you love talking about travel, working in a great team environment, and providing top notch customer care then we want to hear from you.
+
+Please include a cover letter including the below:
+
+Your most memorable travel experience
+
+Tell us something we wouldn't know about you by reading your resume
+
+
+
+For more information on the role please view the
+Job Description
+and apply to
+workwithus@intrepidtravel.com
+along with your CV and cover letter.
+
+
+
+
+
+
+
+Software Engineer - Sri Lanka
+
+
+
+
+
+
+
+
+
+The main responsibility of this role will be to design and develop new applications and interfaces, enhance existing applications and interfaces as well to maintain the existing applications by performing bug fixes and service requests.
+
+
+
+Qualifications and Experience
+
+1 – 2 years working experience in the .Net stream is mandatory
+
+A bachelor degree or an equivalent qualification in Computer Science or Software Engineering
+
+Experience working with C#, .Net 2.0 above (.Net 4.0 preferred), and ASP.NET
+
+Experience working with SQL Server 2005/2012 or above database, including writing complex stored procedures
+
+Flexible to travel overseas as and when required
+
+Experience working with WPF, XML web services or WCF is an added advantage
+
+Experience with Crystal Reports or similar reporting framework is an added advantage
+
+
+
+Other Skills and Attributes
+
+Ability to work with a fast-paced team and deal with a variety of business stakeholders
+
+Strong time management and personal productivity skills
+
+Ability to interact with business and other technical resources effectively
+
+Demonstrated commitment to process and documentation
+
+Attention to detail and Positive “CAN DO ATTITUDE”
+
+
+
+To apply, view the
+Job Description
+and email your CV to
+techservicescolombo@intrepidtravel.com
+
+Applications will be assessed as they are received. Don't hesitate apply today!
+
+Applications will be accepted until 20th December 2017.
+
+
+
+
+
+
+
+Head of Business Development (North America) - Toronto
+
+
+
+
+
+
+
+
+
+Reporting to the Regional Director – North America; Head of Business Development heads up the Intrepid Group`s business development, account management and industry sales in North America.
+
+In this capacity the Head of Business Development must develop, lead and enhance performance of the Intrepid Group`s business development, account management and industry sales operations in this market
+
+Managing the entire operation of the Americas business development, account management and industry sales business; driving high performance in terms of profitable revenue & passenger growth while maximizing its productivity and efficiency.
+
+For more information, view the
+Job Description
+.
+
+Apply now by sending your CV to​
+leigh.barnes@intrepidtravel.com
+
+Applications will be accepted until 4th December 2017.
+
+
+
+
+
+
+
+Insights Analyst - Melbourne
+
+
+
+
+
+
+
+
+
+Our customers' digital experience is of the utmost importance to us. As Insights Analyst you'll be responsible for uncovering digital insights at Intrepid Group to drive business outcomes through informing & improving digital marketing, development, content creation, email marketing and ultimately, the customer experience of our products.​
+
+Your key responsibility will be to champion insights-led decision making across the marketing teams by providing regular reporting and uncovering insights from website and digital marketing activity.  You will play a key role in analysing the Intrepid Group brand’s online traffic and how that converts into offline and online sales, and customer satisfaction. Reporting to our Insights Manager, you will join a team of user experience, SEO and product management professionals embedded into agile delivery streams.
+
+Working with stakeholders you will define and communicate insights that improve conversion across digital channels. The role will support the digital transformation at the Intrepid Group from digital reporting & insights perspective in both execution and education.
+
+For more information, view the
+Job Description
+.
+
+​Apply now by sending your CV to​
+drew.martinez@intrepidtravel.com
+​.
+
+Applications will be accepted until 3rd December 2017.
+
+
+
+
+
+
+
+Privacy and Data Protection Officer - Melbourne (but flexible)
+
+
+
+
+
+
+
+
+
+Do you think Privacy matters?  We do too.  We want our customers to have a great data experience as well as a great travel experience and that’s why we are looking for a very special Privacy and Data Protection Officer to join our team.  If you are passionate about personal data, how it is collected, stored, managed, protected or used and equally passionate about the digital transformation in consumer experiences that great data intelligence can provide, then we want to chat with you.
+
+About the role
+
+As a member of our global team you will have a unique opportunity to improve and influence our policies and procedures across our 30 offices in five continents. With specialist knowledge of privacy and data protection requirements in Australia and Europe (including GDPR), and preferably also in New Zealand, USA and Canada, you will assume responsibility for the operational effectiveness of data privacy and data protection across our vast enterprise.
+
+This role will be responsible for providing legislative guidance and training regarding data privacy issues globally, as well as coordinating data privacy compliance efforts with relevant personnel from each of our operating brands. Commencing as a “hands on” role, you will continue to grow and develop your own skills and our privacy compliance culture to minimize risk.  The first tasks will be reviewing existing policies and conducting a Privacy Impact Assessment.
+
+Initially for a fixed 12-month term, this role could be performed part time (depending upon skills and experience) or under flexible work conditions. In a fast-paced and ever-changing working environment, we believe in the need to create mutual trust and collaboration. That’s why we employ good people and then let them get on with doing a great job, wherever they are in the world. The person in this role could be desk-surfing in our Melbourne headquarters, working from home, or from one of our regional offices.
+
+About you
+
+At Intrepid Group, we believe that success comes from doing what you love.  If you are organised, love working in the detail, get excite by data and want to grow your capabilities and ours, then this is the role for you.
+
+You will bring:
+
+Broad experience applying privacy principles (ideally Australian or European jurisdiction) - professional qualifications in legal, data protection or privacy is preferred.
+
+Sound knowledge of the forthcoming GDPR requirements in Europe ensuring the tasks required for compliance with GDPR are completed.
+
+Demonstrated ability to define and implement comprehensive compliance programs in complex organisations
+
+Experience in managing the practical aspects of data privacy risks, information security, data loss prevention
+
+Great candidates will also have:
+
+Clear understanding of how privacy and cyber relates to business risk
+
+Knowledge of data anonymization techniques to support research and business intelligence
+
+Strong communication skills - the ability to distil and summarize complex legislative concepts into guidance.
+
+About Us
+
+Run by travellers, for travellers, we are the world’s largest provider of small group adventure travel experiences. Our brands offer over 1,600 itineraries on every continent, catering for all ages, budgets and appetites for adventure. Our vision is to change the way people see the world through sustainable experience-rich travel.
+
+We believe that our strength comes from our differences and the freedom we have to be ourselves.  That’s why we’re committed to creating healthy global workplaces that provide equal opportunities and support for people of all cultures, races, ages, genders, sexual orientation, religions and physical abilities.
+
+Working in travel is a nice perk, with significant travel discounts. An even better one is knowing that the work you do matters. Globally renowned as a leader in responsible travel, Intrepid has been a carbon-neutral business since 2010. The Intrepid Foundation has raised $5m AUD for over 75 local and international charities by matching traveller donations dollar-for-dollar.
+
+
+
+Next Steps
+
+To apply, view the
+Job Description
+and email your CV to
+Chris.grabyn@intrepidtravel.com
+.
+
+Applications will be accepted until 6
+th
+December 2017.
+
+Due to the amount of applications we receive, unfortunately only shortlisted candidates will be contacted.
+
+
+
+
+
+
+
+Customer Relations Specialist - Petaluma or Toronto
+
+
+
+
+
+
+
+
+
+We are currently seeking qualified applicants to join a small but fast growing Customer Relations team in our dynamic North American region. This is a challenging role requiring a high level of interpersonal skill and the abilities to remain composed under pressure and to work very independently.
+
+For more information, view the
+Job Description.
+
+Apply now by sending your CV to
+Neil.Coletta@intrepidtravel.com.
+
+Applications will be accepted until 19th December 2017.
+
+
+
+
+
+
+
+Financial Accountant (North America) - Toronto
+
+
+
+
+
+
+
+
+
+The Financial Accountant is a key member of the North America Finance Team and will assist the Financial & Commercial Director with the monthly financial accounting tasks, as well as internal and external reporting and compliance requirements of our North American entities (USA & Canada). This will help to enable strategic and operational decision making, and to ensure compliance with all global and local corporate, statutory and regulatory requirements.​
+
+The role will involve maintaining an environment of robust and effective financial reporting processes, procedures and controls.
+
+Monthly completion of balance sheet reconciliations and intercompany reconciliations over assigned areas and ensuring P&L items are accurate and complete.
+
+Preparation of all month end and quarter end reporting requirements, including trial balance preparation and adjustments.
+
+Payroll and payables processing management.
+
+Preparation of audit files and statutory reporting.
+
+Management of taxation and licensing requirements.
+
+Champion and implement procedures, policies and internal controls to ensure efficient business processes to support the delivery of business objectives; and
+
+Ensure all industry compliance and group policy.
+
+For more information, view the
+Job Description
+.
+
+Apply now by sending your CV to
+Rob.cooney@intrepidtravel.com
+
+Applications will be accepted until 1st December 2017.
+
+
+
+
+
+
+
+Senior PR & Communications Manager AU/NZ - Melbourne
+
+
+
+
+
+
+
+
+
+We are now calling for expressions of interest.
+
+The new role will effectively manage Public Relations & Communications for the Australia & New Zealand region. ​
+
+Responsible for developing and implementing a multi-brand and multi-channel PR strategy  for the region the role will be accountable for the ideation and management of all public relations initiatives - both traditional and digital channels across consumer and trade media landscapes. Overseeing press office, media famils, proactive press releases, campaigns, activations and reactive requests, whilst building on and establishing key media relationships, will be vital to the long term growth and success of the business.
+
+For more information, view the
+Job Description
+.
+
+Apply now by sending your CV to
+Natalie.Placko@intrepidgroup.travel​
+
+Applications will be accepted until 14th December 2017.
+
+
+
+
+
+
+Current Leader opportunities
+
+
+
+
+
+Group Leader - Japan
+
+
+
+
+
+
+
+
+
+PEAK Destination Management Company (DMC) is the world’s largest adventure travel company operating amazing journeys for Intrepid Travel, Peregrine Adventures, Gecko’s, and many more. PEAK DMC will open its newest company in Kyoto, Japan in early 2017.
+
+If you are passionate about travel and exceeding traveller’s expectations join us as a Group Tour Leader. Group Leaders ensure the successful operation of each trip with particular reference to the health, safety, and overall experience of our travellers.
+
+To apply, view the
+Description
+of Services and email your CV, and a completed Leader Services
+Questionnaire
+, to
+jo.crisp@peakdmc.com
+.
+
+Applications will be assessed as they are received. Don’t hesitate express interest today!
+
+Due to the amount of interest we receive, only shortlisted candidates will be contacted.
+
+
+
+
+
+
+
+Group Leader - Central America
+
+
+
+
+
+
+
+
+
+PEAK Destination Management Company (DMC) is the world’s largest adventure travel company operating amazing journeys for Intrepid Travel, Peregrine Adventures, Geckos, and many more.
+
+PEAK DMC will commence operations in Central America from 1st January 2018, operating across 8 countries. In preparation for our launch, we are inviting expressions of interest from individuals wishing to become service providers for PEAK Central America as Group Leaders.
+
+To express interest, read the
+Description of Services
+and our
+“What Does it Take to be a Group Tour Leader?”
+document. Then, send your CV and a completed Leader Services
+Questionnaire
+to
+bradley.johndavis@peakdmc.com
+.
+
+Applications will be accepted until 30 November 2017.
+
+Applications will be assessed as they are received. Don’t hesitate, express interest today!
+
+Due to the amount of interest we receive, only shortlisted providers will be contacted.
+
+
+
+
+
+
+
+Group Leader - Europe
+
+
+
+
+
+
+
+
+
+As part of the Intrepid Group PEAK DMC is the operator for the vast majority of tours operated for such brands as Intrepid, Peregrine, Gecko´s and many more.
+
+We provide quality small group adventure holidays throughout the entire Europe, both scheduled and tailor-made and sustainably operated.
+
+Your responsibility as a tour leader will be leading groups of up to 16 customers on trips with a duration of one to three weeks to the most captivating destinations in more than thirty countries in Europe – from Portugal to Finland, from Ireland to Greece.
+
+Our season starts in April and finishes around October.
+
+
+
+Responsibilities include:
+
+
+Day-to-day running of our trips according to itinerary and budget
+
+
+
+Constantly show high levels of customer service to our guests
+
+
+
+Support PEAK DMC in enhancing the tours we operate
+
+
+
+Fulfil administrative requirements in a timely manner
+
+
+
+And many more…
+
+
+
+
+Requirements:
+
+
+European Union passport or EU residency permit for the entire EU (residency in the UK only is NOT sufficient)
+
+
+
+Customer Service Experience
+
+
+
+Basic computer skills including Email, Word and Excel
+
+
+
+Fluency in English and at least one other local language (the more the better)
+
+
+
+Travel experience in the region to be employed
+
+
+
+All applicants must have a valid senior first aid certificate before starting to work with us (can be obtained after successful application)
+
+
+
+
+Regions we a​re searching tour leaders for:
+
+
+Central Europe
+
+
+
+Baltic Countries
+
+
+
+Balkan Countries
+
+
+
+
+
+Limited availabilities for:
+
+
+Greece
+
+
+Spain/Portugal and Italy
+
+
+
+
+This offer is for part-time and seasonal full-time employment.
+
+For those positions (April to October 2018) job interviews are already ongoing.
+
+Please clarify in your application whether you want to apply for a full-time or part-time position.
+
+If you are a mature, highly motivated, organised, outgoing and adventurous person with excellent communication and leadership skills, we want to speak with you!
+
+
+
+View our
+Job Description
+and apply now by sending your CV and the filled out
+Application Form
+to
+europe.employment@peakdmc.com
+
+Applications are processed immediately, so don´t wait. CVs which are sent without the application answers will be disregarded.
+
+
+
+
+The recruitment period was extended
+
+Applications will now be accepted until 31st December 2017
+
+
+
+
+
+
+
+
+Group Leader Cycling- Europe
+
+
+
+
+
+
+
+
+
+As part of the Intrepid Group PEAK DMC is the operator for the vast majority of tours operated for such brands as Intrepid, Peregrine, Gecko´s and many more.
+
+We provide quality small group adventure holidays throughout the entire Europe, both scheduled and tailor-made and sustainably operated.
+
+Your responsibility as a specialist cycling tour leader will be leading groups of up to 16 customers on trips with a duration of about one week to the most captivating destinations in Italy, France, Croatia, the Baltics and along the Danube.
+Our season starts in April and finishes around October.
+
+
+
+Responsibilities include:
+
+Day-to-day running of our trips according to itinerary and budget incl. driving the support vehicle
+
+Strict adherence to our health & safety policies
+
+Constantly show high levels of customer service to our guests
+
+Support PEAK DMC in enhancing the tours we operate
+
+Fulfil administrative requirements in a timely manner
+
+And many more…
+
+
+
+Requirements:
+
+European Union passport or EU residency permit for the entire EU (residency in the UK only is NOT sufficient)
+
+Customer Service Experience
+
+Basic computer skills including Email, Word and Excel
+
+Fluency in English and at least one other local language (the more the better)
+
+Travel experience in the region to be employed
+
+Advanced cycling skills and ability to cycle 70 to 100 kms a day.
+
+Drivers license which allows you to drive a passenger vehicle incl. bicycle trailer
+
+All applicants must have a valid senior first aid certificate before starting to work with us (can be obtained after successful application)
+
+
+
+Regions we are searching tour leaders for:
+
+Italy
+
+France
+
+Baltics
+
+Croatia
+
+Austria/Hungary
+
+
+
+This offer is for part-time and seasonal full-time employment.
+
+For those positions (April to October 2018) job interviews are already ongoing.
+
+Please clarify in your cover letter that you are applying for a position as a cycling leader and let us know why you are a perfect cycling tour leader for us.
+
+Additional work as a "regular" tour leader can be provided.
+
+
+
+If you are a mature, highly motivated, organised, outgoing and adventurous person with excellent communication and leadership skills, we want to speak with you!
+
+View our
+Job Description
+and apply now by sending your CV and the filled out
+Application Form
+to
+europe.employment@peakdmc.com
+
+Applications are processed immediately, so don´t wait. CVs which are sent without the application answers will be disregarded.
+
+
+
+
+Applications will now be accepted until 31st January 2018
+
+
+
+
+
+
+
+
+
+
+
+Our Team
+
+We're incredibly proud of our small family of staff who each bring their unique skills and experience to our talent pool. In Intrepid offices around the world, you'll find dedicated, hard working people, who are passionate about what they do and thrive in a fun, positive team environment.
+
+Here are just a few ways you might forge out a career with Intrepid:
+
+Become a Travel Specialist
+
+Our specialist travel advisors have an abundance of experience, a wealth of knowledge and a passion for amazing adventures. If you've racked up your fair share of passport stamps, come from a background in travel or simply have a thirst for adventure and sensational people skills - there might just be a job with your name on it in one of our offices around the world.
+
+Become a Group Leader
+
+Do you want to make a career out of showing your country to the world? Are experienced in group tours or travel? Then it's time to consider a career as an Intrepid Group Leader. Our leaders come from a diverse range of backgrounds and experience, and share our passion for responsible travel. Key attributes such as high-level organisation, problem solving and people skills are essential to ensure you've got what it takes to give Intrepid travellers the most incredible experience.
+
+Join our industry sales team
+
+Are you passionate about travel, skilled at making sales and have great attention to detail? If so, the Intrepid Industry Sales team might be just the place for you. This team are at the heart of our business - its trips, trips and more trips, 24-hours a day! In fact you are almost always on someone's holiday! Servicing the needs of direct sales, wholesale agents and web customers, you could be talking to an agent one minute and emailing a potential holiday-maker in Europe the next. Sound like the right mix of fun and variety for you?
+
+
+
+Where we are in the world?
+
+Melbourne, Victoria, Australia
+It is Melbourne where the Intrepid story began although the team has increased dramatically from the days Darrell and Manch were a two man band working out of their kitchen! This is the biggest Intrepid office in the globe and based in the cosmopolitan CBD.
+
+Brixton, London, UK
+We're moved into the heart of uber cool Brixton! We have a fantastic new space in an old red brick Piano factory within 2 mins of Brixton Tube & Rail Station.
+
+Petaluma, California, USA
+Overlooking the Petaluma River and the hills of Sonoma County this has to be one of the most attractive work environments for Intrepid staff. It was ranked 33rd in the 100 best places to work by the American Outside Magazine.
+
+Toronto, Canada
+Tucked away in Toronto’s fashion district, our Queen St. W office space is truly a hub for adventure. This open space fosters an environment of open communication, collaboration and creativity. The office itself offers a relaxing lounge space, foosball table and two beer fridge’s, meaning there are no shortage of spots to celebrate a big win or a job well done!
+
+
+
+Our Culture
+
+Working for Intrepid can often be a fairly social affair, like team lunches in Hanoi, yoga sessions in the Beijing office or 'Frock up Fridays' in Melbourne - we always make time to supplement our busy working lives with some fun and frivolity.
+
+The thing that sets Intrepid apart is that all staff are encouraged to be themselves, make suggestions and share their ideas - even the crazy ones. After all, Intrepid Travel was born from a crazy idea two backpackers had while on holiday in Africa!
+
+The Intrepid Foundation
+
+In 2002 we established The Intrepid Foundation, which supports non-government organisations around the world and empowers travellers to positively impact the communities that we visit.   As one of our team, you could make a difference with innovative approaches and ideas that challenge the status quo and contribute to the planet, people, peace, partnerships and prosperity.  Just some of our many projects include funding research on elephant welfare in Thailand, supporting a renewable energy enterprise in India or rebuilding damaged schools in Nepal.
+
+Recruitment process
+
+Office-based hiring process
+
+The job application process with Intrepid is nice and straighthforward. Just a few simple steps and you’re on your way to beginning the adventure of a lifetime.
+
+Application process
+
+Once you’ve identified a vacancy that suits your talents and requirements, please ensure you have your CV ready in an electronic format. Answer some simple questions related to the job you’re applying for and attach both to an email directed to the relevant location
+
+Telephone screening
+
+If you are shortlisted the first stage of the process may involve a telephone call to discuss your CV and career aspirations in more detail. This is also a great opportunity for you to ask any questions you may have about life at Intrepid.
+
+Interview process
+
+Short-listed candidates will then be invited in to meet us in person. The initial interview will be a mix of behavioural and role specific questions and there is the potential for second round interviews to take place.
+
+Selection
+
+The final selected applicant will be given a verbal offer of the position, followed by confirmation in writing. The time frame for placement varies but generally may take between 2-4 weeks.
+
+Benefits
+
+Staff Travel Discounts - each permanent full time employee is entitled to a discount off Intrepid trips
+
+Employee Assistance Program (EAP) - Intrepid offers an EAP program which provides employees and immediate family members with assistances in times of hardship. We want to ensure our employees are safe and happy inside and outside of work.
+
+
+
+Training and development
+
+To keep up with the growing needs of the business, we also regularly create new roles and reengineer existing positions - which means we can offer opportunities for multi-skilled members of staff to redefine and grow their roles within the business, or try their hand at something different entirely.
+
+Performance reviews
+
+Reviews are held every 6 months with each office staff member, where issues such as future development, training opportunities and performance are discussed and evaluated. This maintains healthy two-way communication between employees and managers.
+
+Training and study support
+
+At Intrepid, we not only recognise the importance of continued learning and development - we support it. All staff may be entitled to study leave and can apply for financial support for external training programs, short courses or tertiary study.
+
+Internal training
+
+Being an international company, we adopt a blended approach to learning that involves training in a face-to-face ‘classroom’ setting, online training via webinars and virtual ‘classrooms’ where employees from across the globe interact. Regular courses and workshops are also run by both internal staff and professional facilitators, on topics ranging from product specific training to conflict management and customer service.
+
+
+
+Work Experience
+
+Plenty of people grow up wanting to forge a career in travel - and why wouldn't you? Breathtaking sights, golden sunrises, eye-popping cities… we're inclined to agree that it's the best industry there is! In the interest of helping out the next-gen of travel gurus, Intrepid offers students the chance to do work experience in our Melbourne office.
+
+As we receive a high volume of requests, all students must contact our HR Department, well in advance to be considered. Please email
+employment@intrepidtravel.com
+with the following information:
+
+Your name, email and phone number
+
+The course you are doing
+
+Details of how long a placement you need, and likely dates
+
+Your area of interest e.g. sales, operations
+
+Your skills and experience. What are you really good at?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8249 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Australia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Australia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Australia & Oceania
+
+Australia
+
+
+
+With bright blue skies, immense red deserts, sun-bronzed beaches and vast green wetlands, Australia is big, bold and full of contrasts.
+
+
+Come and experience the kaleidoscope of brilliant colours this country proudly showcases.
+
+
+Our Australia trips
+
+
+
+
+
+
+
+
+
+Uluru Adventure (Original)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR535
+
+
+
+
+
+This 3 Day Uluru Adventure is the ideal short trip for those wanting to experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Perth to Broome Overland
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Soak up the laidback lifestyle on Australia's West Coast from Perth to Broome. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Great Ocean Road and Grampians Discovery
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Visit Torquay, Lorne, Apollo Bay, Gibson Steps, the 12 Apostles, Warrnambool, The...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Perth to Darwin Overland
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,860
+
+
+
+
+
+The Aussie outback is calling on this awesome 4x4 tour of Western Australia and the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+5 Day Top End Adventure
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR860
+
+
+
+
+
+On a round trip from Darwin, travel to Kakadu National Park, Katherine and Nitmiluk...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Top End and Arnhem Land Adventure
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR1,130
+
+
+
+
+
+On a round trip from Darwin, enjoy exclusive access to Arnhem Land and travel to Kakadu...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Adelaide to Alice Springs Overland
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR625
+
+
+
+
+
+Journey through Australia’s outback wonders on a seven-day adventure into the Red...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Journey into Olkola Country
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR2,045
+
+
+
+
+
+Set out from Cairns and head into northern Queensland’s Cape York Peninsula and be...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rock to Rock
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR330
+
+
+
+
+
+Travel from Uluru to Watarrka National Park and back again. Walk the rim of Kings...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Perth to Adelaide Overland
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR999
+
+
+
+
+
+Traverse the map of Australia from Perth to Adelaide on a wildlife adventure trip...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Taste of Tasmania (Original)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR895
+
+
+
+
+
+Discover beautiful Tasmania on this nature-filled journey. Uncover historic towns like...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Australia's East Coast Encompassed, Sydney to Cairns
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,580
+
+
+
+
+
+Travelling from Sydney to Cairns, soak up the best of Australia’s east coast beaches,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Australia's East Coast Encompassed, Brisbane to Cairns
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,395
+
+
+
+
+
+Discover Fraser Island, the Whitsundays, Great Barrier Reef, Tully Gorge National Park...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Darwin to Melbourne Overland (Basix)
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,650
+
+
+
+
+
+Travel through Australia's amazing Top End, Red Centre, Oodnadatta Track and famou...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure (Original)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR765
+
+
+
+
+
+Explore Kata Tjuta, be captivated by an Uluru sunset, walk through Kings Canyon and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+5 Day Outback Camping Adventure
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR711
+
+
+
+
+
+Get to know the Red Centre at your own pace with a knowledgable guide and flexible...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Darwin to Perth Overland (2017)
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,870
+
+
+
+
+
+Discover the wild heart of the Australian Outback through the mighty Kimberleys and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+4WD Darwin to Broome Overland (2017)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,580
+
+
+
+
+
+Embark on an eye-opening journey across Australia’s rugged Top End, from balmy Darwin...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Broome to Perth Overland
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,295
+
+
+
+
+
+Soak up the laid-back lifestyle of Australia's West Coast. From isolated beaches and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR598
+
+
+
+
+
+Journey from the Red Centre to Adelaide. Watch the sun set over Uluru, trek through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR740
+
+
+
+
+
+Journey from the Red Centre to Adelaide. Watch the sun set over Uluru, trek through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland ex Yulara
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR740
+
+
+
+
+
+This is the ideal short trip for those wanting to experience the Australian Outback in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Melbourne to Alice Springs Overland (Basix)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,065
+
+
+
+
+
+Travel through the winding roads of Australia's most famous scenic drive, the Great...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Great Kimberley Overland  (Basix)
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,585
+
+
+
+
+
+Go off-road and experience the rugged gorges, serene pools, cascading waterfalls and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Esperance and Southwest Adventure
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR562
+
+
+
+
+
+Embark on an unforgettable journey that takes in Wave Rock, Fitzgerald and Cape Le...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kimberley Trail Broome to Darwin (Original)
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,395
+
+
+
+
+
+Travel through the stunning scenery of Western Australia and the Northern Territory,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+West Coast Encompassed Northbound
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Discover the serene shorelines of Broome, the freshwater swimming holes of Karijini...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Territory Encompassed Southbound
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,245
+
+
+
+
+
+Enjoy this slow-paced journey from Australia's tropical Top End, to the Red Centre and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure ex Yulara (Original)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR765
+
+
+
+
+
+Explore Kata Tjuta, be captivated by an Uluru sunset, walk through Kings Canyon and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure ex Yulara (Basix)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR630
+
+
+
+
+
+Explore Kata Tjuta, be captivated by an Uluru sunset, walk through Kings Canyon and te...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Red Centre Adventure (Basix)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR635
+
+
+
+
+
+Explore Kata Tjuta, be captivated by an Uluru sunset, walk through Kings Canyon, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uluru Adventure ex Yulara (Original)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR544
+
+
+
+
+
+This 3 Day Uluru Adventure is the ideal short trip for those wanting to experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uluru Adventure ex Yulara (Basix)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR445
+
+
+
+
+
+This 3 Day Uluru Adventure is the ideal short trip for those wanting to experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uluru Adventure (Basix)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR445
+
+
+
+
+
+This 3 Day Uluru Adventure is the ideal short trip for those wanting to experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Reef to Rock Overland
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,005
+
+
+
+
+
+Get a fix of tropical Australia in Cairns and the Atherton Tablelands, then hit the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rock to Reef Overland (ex Yulara)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,005
+
+
+
+
+
+This Rock to Reef is tailored for those people wanting to get off the beaten track and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Adelaide to Perth Overland
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,062
+
+
+
+
+
+Explore the southern map of Australia from Adelaide to Perth on a wildlife adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Expedition - Journey into East Arnhem Land
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR4,720
+
+
+
+
+
+Experience the unique culture and history of the Yolngu people on a visit to East...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rock to Reef
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,050
+
+
+
+
+
+This Rock to Reef is tailored for those people wanting to get off the beaten track and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rock to Reef Overland (ex Yulara)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,050
+
+
+
+
+
+This Rock to Reef is tailored for those people wanting to get off the beaten track and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Tasmania
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Skim through Hobart, the Tasman Peninsula, Cradle Mountain,  Launceston, Wineglass bay,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+4WD Broome to Darwin Overland (2018)
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,495
+
+
+
+
+
+Travel on an epic 4x4 tour from the glistening beaches of Broome, across the wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Adelaide to Darwin Overland 2017
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,045
+
+
+
+
+
+Travel through Australia's Flinders Ranges and the famous Oodnadatta Track to the ...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Top End to the Outback 2017
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Journey from the eclectic city of Darwin to Kakadu and Litchfield National Parks and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Outback to the Top End (ex Yulara) 2017
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Fly into Yulara and straight to Uluru, Kings Canyon, Litchfield, Kakadu and Katherine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Outback to the Top End 2017
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Journey from outback Alice Springs via Uluru, Kings Canyon, Litchfield, Kakadu and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Territory Encompassed Northbound ex Yulara
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,245
+
+
+
+
+
+Journey from outback Alice Springs via Uluru, Kings Canyon, Litchfield and Kakadu to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Territory Encompassed Northbound
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,245
+
+
+
+
+
+Journey from outback Alice Springs via Uluru, Kings Canyon, Litchfield and Kakadu to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Melbourne to Darwin Overland (Basix)
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,510
+
+
+
+
+
+Travel through Australia's amazing Great Ocean Road, through the Flinders Ranges and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Broome to the Bungle Bungles (Original)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR1,495
+
+
+
+
+
+Explore the unique landscape of the Bungle Bungles, cruise through Geikie Gorge in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Great Ocean Road Adventure ex Adelaide (Original)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR325
+
+
+
+
+
+See the Twelve Apostles, Loch Ard Gorge, London Bridge and Grampians National Park on a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Great Ocean Road Adventure ex Adelaide (Basix)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR245
+
+
+
+
+
+See the Twelve Apostles, Loch Ard Gorge, London Bridge and Grampians National Park on a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Great Ocean Road Adventure ex Melbourne (Original)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR495
+
+
+
+
+
+See the Twelve Apostles, Loch Ard Gorge and London Bridge on a journey along the Great...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Great Ocean Road Adventure ex Melbourne (Basix)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR325
+
+
+
+
+
+See the Twelve Apostles, Loch Ard Gorge and London Bridge on a journey along the Great...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Taste of Tasmania (Basix)
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR548
+
+
+
+
+
+Discover beautiful Tasmania on this nature-filled journey. Uncover historic towns like...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+4 Day Kakadu/ Katherine/ Litchfield Adventure
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR910
+
+
+
+
+
+Set out on a camping safari through captivating Kakadu National Park. Experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kakadu Litchfield Adventure
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR605
+
+
+
+
+
+Set out on a camping safari through captivating Kakadu National Park. Experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Adelaide Overland ex Yulara
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR598
+
+
+
+
+
+This is the ideal short trip for those wanting to experience the Australian Outback in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Leveque and the Kimberley Coast (Basix)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR570
+
+
+
+
+
+Travel to Broome and discover the coastal wonders of the Kimberley. Tour working pearl...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Broome to the Bungle Bungles (Basix)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR1,220
+
+
+
+
+
+Explore the unique landscape of the Bungle Bungles, cruise through Geikie Gorge in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Ocean Wildlife Adventure
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR355
+
+
+
+
+
+Head out on an exciting Southern Ocean Wildlife Adventure from Adelaide to experience...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Overnight Uluru Trip (camping)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR285
+
+
+
+
+
+Journey into outback Australia and experience Uluru, the Olgas and the intriguing...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Southern Ocean Wildlife Adventure (Original)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR485
+
+
+
+
+
+Head out on an exciting Southern Ocean Wildlife Adventure from Adelaide to experience...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Melbourne to Melbourne Adventure Loop (Original)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR490
+
+
+
+
+
+Discover the natural treasures of western Victoria – the Great Ocean Road, Twelve...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Melbourne to Melbourne Adventure Loop (Basix)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR325
+
+
+
+
+
+Discover the natural treasures of western Victoria – the Great Ocean Road, Twelve...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+5 Day Outback Camping Adventure ex Yulara
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR706
+
+
+
+
+
+Get to know the Red Centre at your own pace with a knowledgable guide and flexible...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Australia's East Coast Explorer, Sydney to Brisbane
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,255
+
+
+
+
+
+Travelling from Sydney to Brisbane, soak up the best of Australia’s east coast beaches,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Kimberley Overland (Original)
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,560
+
+
+
+
+
+Head underground in Tunnel Creek, take a shower beneath Manning Falls, camp beside a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Arnhem Land, Kakadu & Litchfield Adventure
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR865
+
+
+
+
+
+Uncover the hidden secrets of Kakadu, Arnhem Land, Litchfield National Park and more on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Kimberley Overland (Basix)
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Head underground in Tunnel Creek, take a shower beneath Manning Falls, camp beside a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kimberley Trail Broome to Darwin (Basix)
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Travel through the stunning scenery of Western Australia and the Northern Territory,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kimberley Trail Darwin to Broome (Basix)
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Travel through the stunning scenery of Western Australia and the Northern Territory,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kimberley Trail Darwin to Broome (Original)
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,395
+
+
+
+
+
+Travel through the stunning scenery of Western Australia and the Northern Territory,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Total Territory Outback and Top End
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,370
+
+
+
+
+
+Journey from outback Alice Springs via Uluru, Kings Canyon, Litchfield, Arnhem Land,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Total Territory Outback and Top End (ex Yulara)
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,370
+
+
+
+
+
+Journey from outback Alice Springs via Uluru, Kings Canyon, Litchfield, Arnhem Land,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Total Territory Top End and Outback
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,370
+
+
+
+
+
+Journey from lush Darwin via Litchfield, Arnhem Land, Kakadu and Katherine to Uluru,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uluru to Kakadu and Arnhem Land
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,020
+
+
+
+
+
+Darwin, Kakadu, Arnhem Land, Alice Springs, Uluru Kings Canyon, and more – this trip...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uluru to Kakadu and Arnhem Land (ex Yulara)
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,020
+
+
+
+
+
+Darwin, Kakadu, Arnhem Land, Alice Springs, Uluru Kings Canyon, and more – this trip...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kakadu and Arnhem Land to Uluru
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,020
+
+
+
+
+
+Journey from the eclectic city of Darwin to Kakadu and Litchfield National Parks and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Alice Springs to Melbourne Overland (Basix)
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,095
+
+
+
+
+
+Travel through Australia's amazing Red Centre, Oodnadatta Track and famou Great Ocean...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Australia's East Coast Explorer, Brisbane to Sydney
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Experience Australia's unique East Coast on a road trip from Brisbane to Sydney,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Eyre Peninsula Overland
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR675
+
+
+
+
+
+South Australia's Eyre Peninsula is one of the undisputed most beautiful coastal...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Outback and Kangaroo Island Adventure (Basix)
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,060
+
+
+
+
+
+Experience the Australian Outback and the pristine delights of Kangaroo Island. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Outback and Kangaroo Island Adventure ex Yulara (Basix)
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,060
+
+
+
+
+
+Experience the Australian Outback and the pristine delights of Kangaroo Island. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+West Coast Encompassed Southbound
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,870
+
+
+
+
+
+Discover the serene shorelines of Broome, the freshwater swimming holes of Karijini...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island and Wildlife Adventure (Basix)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR715
+
+
+
+
+
+Travel to Kangaroo Island and enjoy natural stunning sceneries, myriad wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island and the Great Ocean Road Adventure (Basix)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR605
+
+
+
+
+
+From Adelaide, savour the incredible natural environment of Kangaroo Island – with its...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island and the Great Ocean Road Adventure (Original)
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR710
+
+
+
+
+
+From Adelaide, savour the incredible natural environment of Kangaroo Island – with its...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island and Wildlife Adventure (Original)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR865
+
+
+
+
+
+Travel to Kangaroo Island and enjoy natural stunning sceneries, myriad wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island Adventure (Original)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR335
+
+
+
+
+
+Travel to Kangaroo Island and enjoy natural stunning sceneries, myriad wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kangaroo Island Adventure (Basix)
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR320
+
+
+
+
+
+Travel to Kangaroo Island and enjoy natural stunning sceneries, myriad wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Great Ocean Road and Kangaroo Island Adventure (Original)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR860
+
+
+
+
+
+From Melbourne, head along the Great Ocean Road – see the see the Twelve Apostles, Loch...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Great Ocean Road and Kangaroo Island Adventure (Basix)
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR685
+
+
+
+
+
+From Melbourne, head along the Great Ocean Road – see the see the Twelve Apostles, Loch...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uluru Adventure - Original ex Yulara (French speaking Guide)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR595
+
+
+
+
+
+This 3 Day Uluru Adventure is the ideal short trip for those wanting to experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uluru Adventure - Original (French speaking Guide)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR695
+
+
+
+
+
+This 3 Day Uluru Adventure is the ideal short trip for those wanting to experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uluru Adventure - Basix ex Yulara (French speaking Guide)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR695
+
+
+
+
+
+This 3 Day Uluru Adventure is the ideal short trip for those wanting to experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Uluru Adventure - Basix (French speaking Guide)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR595
+
+
+
+
+
+This 3 Day Uluru Adventure is the ideal short trip for those wanting to experience the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Melbourne to Perth Overland
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,545
+
+
+
+
+
+Start in the world most livable city of Melbourne and head west on the iconic Great...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Australia tour reviews
+
+
+Our Australia trips score an average of
+4.56 out of 5
+based on 245 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Uluru Adventure (Original),
+November 2017
+
+Nicole Schukaitis
+
+We felt 110% comfortable and there were very nice moments we were allowed to experience. We can recommend this tour 200%. ;-)
+
+Review submitted 27 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Uluru Adventure (Original),
+November 2017
+
+Amparo Lagoa
+
+The trip was well organiced, safe and with good accomodation facilities for  camp standards
+
+Review submitted 16 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Australia trip reviews
+
+Our Australia trips score an average of
+4.56 out of 5
+based on 245 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Australia
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 02, 2017
+
+
+
+It’s about time: Uluru finally bans climbers
+
+
+
+
+
+
+To the local Anangu people, climbing Uluru is a desecration of one of Australia’s...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 12, 2017
+
+
+
+Your ultimate guide to Melbourne, Australia
+
+
+
+
+
+
+Eat, drink and stroll your way around the world’s most liveable city.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular places...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 08, 2017
+
+
+
+Why one traveller quit her office job and moved...
+
+
+
+
+
+
+Sometimes we need a life change. One traveller recounts how an Intrepid trip...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+The top destinations for travel in December
+
+
+
+
+
+
+Whether you’re in the mood for mulled wine and Christmas markets or in need of a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 21, 2017
+
+
+
+Don’t leave Australia without visiting Tasmania...
+
+
+
+
+
+
+Tasmania's breathtaking landscapes include everything from white sandy beaches to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 18, 2017
+
+
+
+Finding room for reflection in the Australian...
+
+
+
+
+
+
+If there’s anywhere suited to a little soul-searching, it’s the Aussie Outback....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 13, 2017
+
+
+
+An extraordinary expedition into Australia’s...
+
+
+
+
+
+
+The Yolngu people of East Arnhem Land have lived in balance with nature and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2017
+
+
+
+4 things to discover in Australia’s Red Centre
+
+
+
+
+
+
+It may be one of the most arid regions on earth, and yep, there's a whole lot of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 01, 2017
+
+
+
+Life after cancer: the survivor who fell in...
+
+
+
+
+
+
+“A few years ago, my husband was killed. My children grew up and got married...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 14, 2017
+
+
+
+This is what a Tasmania group tour looks like
+
+
+
+
+
+
+Ah Tasmania. The Apple Isle. You may know it as the bit of Australia that often...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 25, 2017
+
+
+
+Oscar-inspired travel destinations for 2017
+
+
+
+
+
+
+For travel enthusiasts, Oscar season just means one more source of wanderlust:...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 13, 2017
+
+
+
+The 10 best beaches in Australia. Officially.
+
+
+
+
+
+
+Which strip of sand reigns supreme in Australia? Rub some zinc on your nose and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 19, 2017
+
+
+
+Bush tucker basics: 5 native ingredients you...
+
+
+
+
+
+
+We’re lucky to live in a country that has thousands of edible plant species –...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 15, 2017
+
+
+
+Sustainable tourism and the future of the...
+
+
+
+
+
+
+While the past 20 years have seen great progress in native title land claims, and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 04, 2017
+
+
+
+Meet the chef: an interview with Andrew Fielke
+
+
+
+
+
+
+The mastermind behind Intrepid's exclusive tour menus on why we should go back to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 01, 2017
+
+
+
+Can I eat that? A rough guide to Aussie bush...
+
+
+
+
+
+
+Heading into the bush? Keep your eyes peeled for this tasty bush tucker and you’ll...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 01, 2016
+
+
+
+7 things to do in: Kakadu National Park
+
+
+
+
+
+
+The Red Centre might be the beating heart of Australia, but Kakadu National Park...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 24, 2016
+
+
+
+Behind the scenes on a Kakadu group tour
+
+
+
+
+
+
+We get asked a lot what a group trip in Kakadu National Park looks like. What do...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 29, 2016
+
+
+
+Uluru through the lens: an Outback 50mm challenge
+
+
+
+
+
+
+In photography terms, a 50mm lens has a fairly narrow field of vision. So it...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 22, 2016
+
+
+
+It’s official: Indigenous Australians are the...
+
+
+
+
+
+
+72,000 years of history mapped in the human genome? Thanks for being awesome, sci...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 20, 2016
+
+
+
+It’s official: Indigenous Australians are the...
+
+
+
+
+
+
+72,000 years of history mapped in the human genome? Thanks for being awesome,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 04, 2016
+
+
+
+Australia just gained 17 new islands…in Antarctica
+
+
+
+
+
+
+Australia has just claimed 17 very cold, very small, very remote islands. Penguins...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 26, 2016
+
+
+
+Our latest adventure in Western Australia
+
+
+
+
+
+
+We've been singing Western Australia's praises for years now. Watch this and you...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 18, 2016
+
+
+
+Stories from the road: we explore Ningaloo Reef...
+
+
+
+
+
+
+We parked the car at a rusty, unmarked gate just off the road and mooched over the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+How I fell back in love with Australia
+
+
+
+
+
+
+Like many Australians, I’ve given my passport an absolute thrashing. As soon as I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 21, 2016
+
+
+
+Travelling with my parents in Australia’s Red...
+
+
+
+
+
+
+We paid for our tickets to enter Uluru National Park, sure, but we never really...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 30, 2016
+
+
+
+An Aussie roadtrip from Coral Bay to Cape Range...
+
+
+
+
+
+
+It’s a remote part of the country that retains that feeling of being completely...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 10, 2016
+
+
+
+Exploring Kalbarri National Park on Australia’s...
+
+
+
+
+
+
+The west coast of Australia. Where sunsets and surf are celebrated, and where...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 21, 2016
+
+
+
+The Pinnacles and Kalbarri: 5 spots to include...
+
+
+
+
+
+
+We found ourselves driving from Perth to the Pinnacles Desert, and then onto...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 07, 2016
+
+
+
+Meet the couple that crossed the Nullarbor in...
+
+
+
+
+
+
+Trina and I sat on my mum’s couch in Manchester, listening to a family friend try...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 14, 2016
+
+
+
+Photos: this is what it looks like to cross the...
+
+
+
+
+
+
+Two Poms, the Nullarbor and a beaten up Corolla named Betty. This has got Wolf...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 07, 2016
+
+
+
+It’s official, guys: here are the 6 hottest...
+
+
+
+
+
+
+Bring out the bucket list: here are six destinations that are gonna be hot, hot,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 14, 2015
+
+
+
+The world’s best city rivalries: why travellers...
+
+
+
+
+
+
+Whether it’s based on landmarks, music, fashion, food, sport, literature, location...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 02, 2015
+
+
+
+Great Barrier what? Meet Australia’s other...
+
+
+
+
+
+
+Here’s are 6 reasons to follow the Village People’s advice, point your compass due...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 23, 2015
+
+
+
+Into the wild: our five favourite spots in...
+
+
+
+
+
+
+The Kimberley really is one of the last true wildernesses on earth. Welcome to our...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2015
+
+
+
+Sandsational: these are the world’s 7 best beaches
+
+
+
+
+
+
+Picking the world’s best beach is a bit like arguing why your favourite colour...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 22, 2015
+
+
+
+Is bigger always better? A guide to Australia’s...
+
+
+
+
+
+
+No one quite knows why, but there’s a twist in the Australian psyche that has made...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 20, 2015
+
+
+
+Overcrowded and ugly: how the world’s least...
+
+
+
+
+
+
+People don’t have a lot of time for 'ugly' travel. But why not? It's time to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 19, 2015
+
+
+
+The ultimate guide to Australian slang
+
+
+
+
+
+
+For those wanting to master this distinctive lingo, Intrepid is here to help with...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 15, 2015
+
+
+
+An earth worth watching: inside our new...
+
+
+
+
+
+
+It’s got the biggest natural diversity of any place in Australia, and it’s where...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 02, 2014
+
+
+
+Australia on show in Intrepid’s August photo...
+
+
+
+
+
+
+For August - month two of our Intrepid photo competition 2015 - we shifted the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Australia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The West Coast
+
+
+
+
+Featuring the world’s most isolated capital city and cattle stations bigger than most European countries, the West Coast of Australia certainly feels like the Final Frontier. Perhaps visit the waterfalls and red rock gorges of Karijini National Park, take in a lazy sunset camel ride on Cable Beach, or unwind among the vineyards of the Margaret River.
+
+Find out more
+
+
+
+
+
+
+
+
+
+The Kimberley
+
+
+
+
+The Kimberley is where Western Australia really gets wild. While Broome could keep you occupied for days, it’s really the Kimberley’s natural beauty that lures you in. Cape Leveque and the Bungle Bungles are just the beginning. Away from the stretches of Cable Beach you find a region that rapidly unrolls into a world of dense rainforest, underground caves and boab-dotted horizons straight out of Africa.
+
+Find out more
+
+
+
+
+
+
+
+
+
+Kakadu
+
+
+
+
+Kakadu National Park is packed with billabongs, waterfalls, strange rock formations and all types of native wildlife. This is where Australia runs wild. ‘Roos bounce through the bushland, dingoes are spotted along rocky outcrops, dugongs wallow off the coast and, despite the name, crocs patrol the waters of Alligator River.
+
+Find out more
+
+
+
+
+
+
+
+
+
+Uluru (Ayers Rock)
+
+
+
+
+Even if you're not usually rocked by geology, put aside any reservations until you visit Uluru. 384 metres high, 10 kilometres in circumference, and concealing caves, cascades and rock art in its folds, this sandstone giant is at the heart of Australia in more ways than one.
+
+Find out more
+
+
+
+
+
+
+
+
+
+
+
+The Outback
+
+
+
+
+From seemingly endless red desert to cooling pools, towering rock formations to night skies bursting with stars, there’s a whole new world to discover on our Australian Outback adventures. Experience the power of standing at the base of Uluru, hear tales of the Aboriginal Dreaming with an Indigenous guide, cross incredible scenery in a 4WD, and walk among a carpet of wildflowers in the Flinders Ranges.
+
+Find out more
+
+
+
+
+
+
+
+
+
+Southern Ocean & The Nullarbor
+
+
+
+
+At first blush this 1,600-kilometre stretch of highway might seem devoid of anything interesting. But ask those who have travelled along its dusty length and you’ll usually hear the road makes for surreal travel.
+
+Find out more
+
+
+
+
+
+
+
+
+
+Kangaroo Island
+
+
+
+
+This mini Galapagos off the coast of South Australia is one of the country’s most beautiful and underrated wildlife sanctuaries. Grey kangaroos, fur seals, dolphins, echidnas, koalas and dozens of other species have flourished on the island without the threat of species introduced to the mainland.
+
+Find out more
+
+
+
+
+
+
+
+
+
+Great Ocean Road
+
+
+
+
+Australia’s answer to Route 66 practically speaks for itself. The Great Ocean Road is a winding coastal route of sandstone cliffs and dense rainforest hinterland that stretches all the way from Torquay in the East to Allansford in the West. While the region is famous for its Twelve Apostles, there are plenty of local secrets to be found if you’re willing to take the time.
+
+Find out more
+
+
+
+
+
+
+
+
+
+Tasmania
+
+
+
+
+From less-than-glamorous beginnings as a penal colony island founded by the British, Tasmania has developed into one of Australia’s most treasured traveller destinations.
+
+Find out more
+
+
+
+
+
+
+
+
+
+
+Accommodation in Australia
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Australia you may find yourself staying in a:
+
+
+
+
+
+
+
+
+
+Farmstay
+
+Get acquainted with the ins and outs of Australian farm life while staying on an impressive rural property.
+
+
+Perth to Adelaide Overland
+
+Adelaide to Perth Overland
+
+
+
+
+
+
+
+
+
+
+Bush Camp
+
+Get back to nature and experience sweet serenity while camping out under the stars in the Australian bush.
+
+
+
+
+
+
+
+
+
+
+
+Cabin
+
+Get cosy while staying in cabins nestled in the heart of the Aussie bush.
+
+
+Darwin to Perth Overland (2017)
+
+Broome to Perth Overland
+
+
+
+
+
+Discover East Arnhem Land
+
+
+
+
+
+Working in partnership with the Yolngu people, Intrepid Travel is launching a new community-based trip in the remote East Arnhem Land region of Australia's Northern Territory. With the Yolngu culture, customs and way of life being the focus of the trip, the experience will give travellers from near and far a chance to be immersed in this picturesque corner of Australia that is home to incredible cultural, linguistic and environmental riches.
+
+
+
+
+
+
+
+
+
+
+
+
+Find out more about East Arnhem Land expeditions
+
+Australian native food
+
+You might think the Australian Outback is an unforgiving place, but did you know it's home to thousands of edible plant species? You just need to know where to look. To make the flavours of the bush come alive, we've consulted with Aussie bush tucker specialist Andrew Fielke to create a set of special native food menus on each of our Outback and Top End trips. Now you can not only see and hear the bush, but taste it too.
+
+Find out more about Australian native food
+
+
+Australia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Canberra (population 307,000)
+
+Population:
+
+21.7 million
+
+Language:
+
+English
+
+Currency:
+
+AUD
+
+Time zone:
+
+(GMT+10:00) Canberra, Melbourne, Sydney
+
+Electricity:
+
+Type I (Australian/New Zealand & Chinese/Argentine 2/3-pin)
+
+Dialing code:
+
++61
+
+
+
+
+
+
+
+
+
+Best time to visit Australia
+
+
+
+
+
+
+×
+
+Best time to visit Australia
+
+
+
+
+Being such a large place, Australia has a wide range of climates so all year round there is somewhere great to visit.
+
+Summer (December to February) can get very hot, but is perfect for beach-going and other outdoors activities. In the far north it is also the wet season, which can get quite humid and some beaches may be closed due to jellyfish or 'stingers'.
+
+Winter (June to August) is pleasant and dry in the north but can get quite cold in the south, especially in Tasmania and Victoria where snowfall is common.
+
+Spring and autumn are great times to visit Australia as the weather is milder, but still warm enough for swimming in northern areas.
+
+Regardless of daytime temperatures, nights can get very cold in the desert areas of Central and Western Australia, so prepare accordingly.
+
+The main school holiday period is from Christmas to late January, and is considered the peak travel time within Australia; expect popular tourist spots to be crowded during this time.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+From large malls and boutique shopping strips to weekend arts and crafts markets and vintage shops, Australia is a top place to shop. Shopping in Australia may not be cheap, but there are plenty of unique finds and original souvenirs to bring home.
+
+Before heading home, check with your local customs officials to ensure that you are able to import certain items back into your home country. New Zealand, for example, has strict quarantine laws.
+
+Things to buy in Australia
+
+1. Indigenous Art
+
+The quality of Aboriginal art is excellent in the Top End and Central and Western Australia. Be sure to buy from reputable galleries and organisations to ensure authenticity and fair prices for artists. Community-run organisations are typically the better choice.
+
+2. Opals
+
+If you’re looking for one, Coober Pedy has the best quality and variety on offer.
+
+3. Pearls
+
+These precious gems are plentiful in Broome due to the booming pearling industry.
+
+4. Modern Art
+
+Melbourne and Hobart are modern art and craft hot spots, making them great places to pick up one-of-a-kind mementos.
+
+
+
+
+
+
+
+
+Top 10 Places To See in Australia
+
+
+
+
+
+
+×
+
+Top 10 Places To See in Australia
+
+
+
+
+1. Uluru
+
+Nothing will prepare you for seeing Australia's most famous landmark for the first time. An important part of Aboriginal Dreamtime stories, this ancient monolith is a photographer's dream as it changes colours with the sun; from dazzling orange to dusty purple.
+
+2. Great Barrier Reef
+
+See the world's largest reef system - so big it can be seen from outer space! This World Heritage site, just off the coast of Queensland, is home to whales, dolphins, turtles, sharks, colourful coral and more than 1,500 species of fish. Go scuba diving or snorkelling to explore this incredible underwater world.
+
+3. Twelve Apostles
+
+Although there's actually only eight 'Apostles', these spectacular limestone rock stacks are a popular tourist spot along Victoria's Great Ocean Road. Formed by erosion that began 10-20 million years ago, the stacks rise majestically from the churning Southern Ocean. Hit the boardwalks, tracks and viewing areas for spectacular views.
+
+4. Kakadu National Park
+
+This region is a place of breathtaking beauty and incredible biodiversity. Steeped in Dreamtime history, Kakadu nurtures a staggering variety of landscapes and wildlife. Venture deep into the wilderness and discover gushing waterfalls, deep gorges, shimmering waterholes and rocky outcrops adorned with 20,000-year-old art.
+
+5. Sydney Opera House
+
+Set against a backdrop of that famous bridge which spans the sparkling harbour, the Opera House is one of Australia's most iconic sights. Those familiar sails, adorned with more than a million white tiles, host thousands of events and performances each year. Catch a show to admire the ornate interior, or take in the spectacular view from a ferry.
+
+6. Kimberley
+
+From deep gorges and dusty outback roads, and lush rainforests to idyllic billabongs, the landscape of this beautiful region is truly enchanting. A trip to the Kimberly can be as active or relaxing as you wish - hike past the strange 'beehive' domes of the Bungle Bungle Ranges, explore underground caves at Tunnel Creek or simply relax on white sand beaches.
+
+7. Daintree
+
+With verdant tropical rainforest stretching to white, sandy beaches, the Daintree is nothing short of spectacular. This complex ecosystem in Far North Queensland is home to a prolific amount of wildlife including frogs, reptiles, bats and butterflies, as well as the highest concentration of primitive plants species in the world. Australia's largest rainforest is a true natural wonder just waiting to be explored.
+
+8. Wineglass Bay
+
+With its white sand, crystal-clear water and distinct crescent shape, Wineglass Bay on Tasmania's gorgeous Freycinet Peninsula is a pristine paradise. It's easy to see why it's often voted as one of the top 10 beaches in the world! Hike a trail to the summit overlooking the bay for breathtaking views, or descend to the beach and set up camp. Go snorkelling to discover colourful fish and perhaps some playful dolphins.
+
+9. Clare Valley
+
+This beautiful wine-producing region is famed for its delicious local produce, picturesque scenery, friendly people and, of course, its fabulous wine. Explore back roads lined with vines and go wine-tasting to sample the very best drops this region has to offer.
+
+10. Blue Mountains
+
+Covering over one million hectares, the World Heritage-listed Blue Mountains is rich in verdant rainforest, dramatic waterfalls, looming forests and an abundance of wildlife. Greet the iconic Three Sisters and wander the boardwalks to soak up this breathtaking area of Australian bush.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+The continent of Australia is known for being one of the flattest, hottest and driest places on earth; but despite this there are an astounding variety of terrains and environments on this island nation. While large areas of Australia are covered in desert, there are also tropical rainforests, alpine snowfields, dense bushland, beaches, gorges, lakes and rivers to be found. Australia’s national parks are home to many species of birds and mammals not found in the wild anywhere else in the world including kangaroos, koalas, wallabies and wombats. Boasting many stunning white sand beaches, Australia has a coastline like none other. From busy Bondi to surfing icons like Bell’s Beach and Tasmania’s stunning Wineglass Bay, there are endless places to swim, surf, snorkel and paddle.
+
+Despite Australia’s large landmass, most people tend to live in urban, coastal cities. Faster-paced cities like Sydney, Brisbane, Perth and Melbourne hold much of the population, as do regional satellite cities such as Albury, Dubbo, Bunbury, Townsville, Newcastle and Geelong.
+
+Outback towns have a unique flavour and a distinct way-of-life; things are slower here and due to smaller populations, space is plentiful with most locals relying on agriculture for a living. Venturing away from the city to visit the outback and rural areas of Australia is highly recommended as it gives travellers the chance to see a different side to Australia.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+With a strong history of immigration, modern Australia is made up of people from many different cultural backgrounds. This mix makes Australia an endlessly fascinating place to visit as travellers will be exposed to a variety of different customs and cultures during their stay. From the ancient, spiritual ways of the indigenous population to the wide array of faiths, foods and festivals on display in the big cities, Australia is a cultural melting pot.
+
+Despite the differences, there are many things that unify the people of Australia. Sports, in particular cricket, soccer and football (Australian Rules) are played and watched by the masses, irrespective of age, race, gender or income. Large sporting events like the AFL Grand Final, Melbourne Cup Day and the Boxing Day Cricket Test have universal appeal for Australians.
+
+Australians relish public holidays, with national and state holidays offering locals time to relax with friends and family over a barbecue or picnic. Making use of Australia’s natural environment is also paramount during this time, with outdoor activities like bushwalking, swimming at the beach or lazing in the park popular with locals.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways of experiencing a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Australia is a land that has been built by immigrants and these multicultural influences are evident in the wide array of food available. In the cities it’s possible to find world-class Vietnamese, Turkish, Italian, Greek, Chinese, Thai, Japanese and Indian restaurants, as well as excellent gastro-pub fare. Head to the outback and you’ll find authentic 'bush tucker', simple campfire meals and sizzling barbecues.
+
+Things to try in Australia
+
+1. Fresh Seafood
+
+With such an impressive coastline, it’s no wonder fresh oysters, prawns, mussels and ‘balmain bugs’ are devoured by locals and savoured by visitors. For those on a budget, there’s nothing wrong with eating fish and chips on the beach.
+
+2. Wine
+
+Australia creates some of the best wines in the world at South Australia’s Barossa Valley, Western Australia’s Margaret River and New South Wales’ Hunter Valley. Don’t miss the chance to taste some.
+
+3. Beer
+
+Whether you’re downing a can of VB in Victoria or sipping micro-brewed ale in Sydney, sharing a beer with mates is a social experience not to be missed when in Australia
+
+4. Hot Pies
+
+An Australian classic – savoury meat pies (or vegetable pies for the vegetarians) are best eaten with tomato sauce, and are easily found served in city cafes, country bakeries and football matches around Australia.
+
+
+
+
+
+
+
+
+Festivals and Events in Australia
+
+
+
+
+
+
+×
+
+Festivals and Events in Australia
+
+
+
+
+Anxiously anticipated by many – the Australian Rules Football Grand Final is a great time to be in Melbourne. Tickets are notoriously scarce but pubs, clubs and backyards overflow with people watching the ‘Big Game’ and celebrating (or commiserating) afterwards.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further Reading
+
+
+
+
+
+
+×
+
+Further Reading
+
+
+
+Title
+
+Author
+
+Tracks
+
+Robyn Davidson
+
+The Secret River
+
+Kate Grenville
+
+Cloudstreet
+
+Tim Winton
+
+In a Sunburned Country
+
+Bill Bryson
+
+The Floating Brothel
+
+Sian Rees
+
+Rabbit Proof Fence
+
+Doris Pilkington
+
+Songlines
+
+Bruce Chatwin
+
+
+
+
+
+
+
+
+Australia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Australia?
+
+
+
+
+
+
+
+
+
+AUSTRALIA:
+Belgium: Yes - required in advance
+Canada: Yes - required in advance
+Germany: Yes - required in advance
+Ireland: Yes - required in advance
+Netherlands: Yes - required in advance
+New Zealand: Not required
+South Africa: Yes - required in advance
+Switzerland: Yes - required in advance
+United Kingdom: Yes - required in advance
+USA: Yes - required in advance
+
+All travellers, except New Zealand citizens, must obtain a visa or travel authority before travelling to Australia. Failure to do so means you may not be allowed to board your flight to Australia. Most nationalities can obtain an Electronic Travel Authority via the internet before arrival. Please check the following website or with your relevant Australian visa issuing office for your nationalities requirements.
+https://www.eta.immi.gov.au/ETAS3/etas
+
+
+
+
+
+
+
+Is tipping customary in Australia?
+
+
+
+
+
+
+
+
+
+Tipping isn’t mandatory in Australia; however, rounding up the bill or leaving spare change is common practice. Restaurant staff, taxi drivers and other service workers welcome tips for good service.
+
+
+
+
+
+
+
+What is the internet access like in Australia?
+
+
+
+
+
+
+
+
+
+Internet access is widely available in most parts of Australia, with internet cafes and Wi-Fi hot spots commonly found in urban areas. Please note that internet access won’t be available in outback and remote areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Australia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is excellent in most parts of Australia, especially in large cities and urban areas. Remote, rural and mountainous places may have limited to no coverage, so be aware of this before venturing away from the city. Ensure global roaming is activated before leaving your home country if you want to use your mobile, or you can purchase a sim card when you arrive. The provider that will have coverage in the majority of Australia is Telstra, secondly Optus and then Vodafone. A hot tip – when you are in remote areas and don’t have mobile phone signal, turn your phone to flight mode which will conserve battery and prevent your phone from using data trying to search for internet signal.
+
+
+
+
+
+
+
+What are the toilets like in Australia?
+
+
+
+
+
+
+
+
+
+Western-style flushable toilets are the norm in Australia, and many of our campsites have proper facilities with flushing toilets. In remote areas such as the Kimberley, there is no established plumbing and therefore we have installed ‘drop toilets’. Some campsites we use are managed by the National Parks and have either eco-toilets or drop toilets, most of which are maintained regularly.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Newspaper = AU$2.00
+Cup of coffee = AU$3.50
+Pint of beer in a pub = AU$6.00
+Basic lunch at a mid-range cafe = AU$10-20
+
+
+
+
+
+
+
+Can I drink the water in Australia?
+
+
+
+
+
+
+
+
+
+Drinking water from taps in Australia is considered safe, unless otherwise marked. For environmental reasons, try to use a refillable water bottle rather than buying bottled water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Australia?
+
+
+
+
+
+
+
+
+
+Credit cards are widely accepted by shops, restaurants and cafes in Australia. Smaller establishments may only accept cash or require a minimum purchase for credit card use, so be sure to carry enough cash for smaller purchases.
+
+
+
+
+
+
+
+What is ATM access like in Australia?
+
+
+
+
+
+
+
+
+
+ATMs are commonly found in large cities and regional towns in Australia. ATM access will be very limited in remote areas so be aware of this before heading into national parks or the Outback.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Australia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+Australians are not required to be covered for hospital care due to being covered by Medicare. However we strongly recommend that Australians have a domestic travel insurance policy which covers personal liability, cancellation, curtailment and loss of luggage and personal effects. It is also strongly advisable that Australians have current ambulance cover in the case of emergency evacuation or incidents requiring ambulance transportation.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Australia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year's Day Additional Holiday
+
+26 Jan Australia Day
+
+14 Apr Good Friday
+
+15 Apr Easter Saturday
+
+17 Apr Easter Monday
+
+25 Apr Anzac Day
+
+12 Jun Queen's Birthday
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+Please note these dates are for 2017. For a current list of public holidays in Australia go to:
+http://www.worldtravelguide.net/australia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Australia
+
+1. Be considerate of Australia’s customs, traditions, religion and culture.
+
+2. Always dispose of litter thoughtfully, including cigarette butts.
+
+3. When camping or visiting national parks, refrain from feeding native animals or leaving food out.
+
+4. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+5. Try to use public transport wherever possible.
+
+6. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+7. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+8. Please ask and receive permission before taking photos of people, including children.
+
+9. Refrain from touching or interfering with ancient monuments, relics or historic sites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

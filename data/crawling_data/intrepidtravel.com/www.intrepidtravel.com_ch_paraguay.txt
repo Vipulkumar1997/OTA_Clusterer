@@ -1,0 +1,3272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paraguay Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paraguay tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+Paraguay
+
+
+
+Paraguay is landlocked, low profile, and proof that great things sometimes come in modest packaging.
+
+
+Surrounded by superstar neighbours, Paraguay has often overlooked thanks to its location off the well-worn gringo trail between Brazil and
+Argentina
+. But skip Paraguay and you’ll be missing out on an authentic slice of Latin America. After all, this is a country that lays claim to parts of stunning Iguazu Falls and throws a mean Carnaval come February. Paraguay is a land of extremes: you’ll find handmade artisanal stalls standing alongside mega shopping centres, the poor sharing fences with the wealthy, and horse-drawn carts clip-clopping through Asuncion’s modern streets. With a rich history and wealth of national parks to be discovered, all you have to do is decide where to begin.
+
+
+Our Paraguay trips
+
+
+
+
+
+
+
+
+
+Paraguay Expedition
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,255
+
+
+
+
+
+Travel to Paraguay on an Intrepid expedition, visiting Asuncion, Yaguaron, the wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Articles on Paraguay
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+Calling all explorers: 5 uncharted adventures...
+
+
+
+
+
+
+On the hunt for your next big out-there adventure? These might make your decision...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paraguay travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Asuncion
+
+
+
+
+Discover this riverside capital, the hub of Paraguay’s political, commercial, and cultural life. Founded in 1537, it’s one of the oldest cities in
+South America
+.
+
+
+
+
+
+
+
+
+
+Iguazu Falls and Salto del Monday
+
+
+
+
+Experience the thunderous might of Iguazu Falls, the world’s second largest falls. Close by is the spectacular Salto del Monday waterfall.
+
+
+
+
+
+
+
+
+
+El Pantalal
+
+
+
+
+Keep your eyes peeled for jaguars in the largest tropical wetlands in the world.
+
+
+
+
+
+
+
+
+
+Encarnacion
+
+
+
+
+Lounge at riverbank beaches before visiting the UNESCO World Heritage Jesus and Trinidad Jesuit Ruins on the edge of town.
+
+
+
+
+
+
+
+
+
+Gran Chaco
+
+
+
+
+Venture into the endless, empty wilderness of the Chaco. The grassy plains are thinly populated with ranchers, Amerindians, and German-speaking Mennonite colonies.
+
+
+
+
+
+
+
+
+
+Ybycui National Park
+
+
+
+
+Stumble on hidden waterfalls while chasing colourful butterflies and looking for Howler monkeys in this sub-tropical rainforest.
+
+
+
+
+
+
+
+
+
+
+Paraguay holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital City:
+
+Asuncion (population 525,294)
+
+Population:
+
+6.802 million
+
+Language:
+
+Spanish and Guarani
+
+Currency:
+
+Paraguayan guarani
+
+Time zone:
+
+GMT -4
+
+Electricity:
+
+Type C (European 2-pin)
+
+Dialing code:
+
++595
+
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Like most of South America, Paraguay’s Spanish colonial heritage has shaped much of its culture and customs. Paraguay makes an interesting case study as it’s managed to hold onto much more of its indigenous character than many of its South American counterparts.
+
+Most Paraguayans identify as ‘mestizos’ of mixed Spanish and Amerindian descent, and both Spanish and the indigenous language of Guarani share official status. Guarani is understood by about 95% of the population and spoken by more than 90%. It’s the only indigenous language of the Americas that are spoken by significant numbers of non-indigenous people. In the cities, both Spanish and Guarani can be heard but Spanish speakers can be few and far between in rural areas. At least a dozen other native languages are also spoken while English is relatively rare.
+
+Paraguay is the second poorest country in South America after
+Bolivia
+with a large gap between the rich and poor. That notwithstanding, its larger cities are sophisticated and modern with lively art scenes showcased in contemporary galleries and museums. Traditional ways of life persist in rural regions, where it can be more common to see horse-drawn carts than cars and trucks. Most of Paraguay’s indigenous people reside in the Gran Chaco wilderness and many live modestly off the land by hunting wild animals and foraging for berries. Their way of life is sadly coming under increasing threat from deforestation.
+
+Paraguayans are celebrated for being laidback, warm, open, and happy. In 2012, Paraguay was nominated as the happiest country in the world according to a Gallup poll on well-being.
+
+Here are some useful things to bear in mind about Paraguayan culture:
+
+1.    Men and women usually shake hands to greet each other, even if they’ve already met earlier in the day.
+
+2.    Paraguayans kiss twice on the cheeks when meeting friends and family members.
+
+3.    Like a lot of South America, punctuality isn’t given much importance. Expect scheduled events to start later than they’ve been billed.
+
+4.    Siestas are more common in rural areas than in cities and are usually taken straight after lunch between the hours of noon and 2 pm. Most shops will close during this period.
+
+5.    Lunch is the main meal of the day with dinner served late, typically at about 10 pm.
+
+6.    Roman Catholic is the predominant faith and conservative dress is expected when visiting religious sites.
+
+7.    Soccer is something of a second religion in Paraguay. The two most popular teams are Olimpia and Cerro Porteno.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Paraguay doesn’t have much of an international food scene, although Asian cuisine has grown in popularity in recent years. Paraguayan cooking typically combines Spanish-style traditions with indigenous influences.
+
+Must-try foods and drink in Paraguay
+
+1.    Terere
+
+Paraguayans drink a whole lot of terere, a yerba mate tea served cold in large wooden ‘guampas’ and sipped through metal ‘bombilla’ straws. It’s drunk in the early mornings, after lunch, and in the late evenings and its consumption is often a social affair, with guampas and bomillas passed between friends.
+
+2.    Asado
+
+Barbequed meats known as asado are really popular and served in ‘parrilla’ (grill) restaurants.
+
+3.    Empanadas
+
+Delicious hand-sized baked pastries stuffed with meat and egg. You’ll find these served throughout Paraguay.
+
+4.    Tortillas
+
+Tortillas are slightly different in Paraguay to other places in Latin America. In Paraguay, they’re more like fried dough and made with Paraguayan cheese.
+
+5.    Mandioca
+
+Mandiocas are a potato-like native crop and eaten boiled or fried with nearly every meal.
+
+6.    Chipa
+
+A small traditional bread made from mandioca flour and baked in an outdoor oven called a ‘tatacua’.
+
+7.    Sopa Paraguaya
+
+Masquerading as soup, this traditional dish is actually a delicious cornbread flavoured with cheese and onion.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Nestled in the very heart of the continent, Paraguay is bordered by Argentina to the south and southwest,
+Brazil
+to the east and northeast, and Bolivia to the northwest.
+
+Like neighbouring Bolivia, Paraguay is a landlocked country but it’s crisscrossed by navigable rivers such as the Rio Paraguay, which divides the country into Occidental and Oriental halves.
+
+Paraguay is roughly the size of California and quite sparsely populated. Most of the population lives in the eastern half, with about a third residing in the riverside capital of Asuncion.
+
+The environment ranges from the arid desolation of Chaco in the north to sticky subtropical rainforest in the Pararena region and the expansive tropical wetlands of El Pantanal, which Paraguay shares with Bolivia. Paraguay is a treasure trove of natural beauty with no less than 34 government-protected wildlife areas, home to diverse species that include crocodiles, jaguars, and pumas.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early history
+
+Before the Spanish arrived and colonised the country in the 16th century, the indigenous Guarani people had already been living in Paraguay for at least a millennium. Paraguay gained independence in 1811 and was subsequently ruled by a series of dictatorships, under whose direction the country became isolated from many of its neighbours. During the Paraguayan War (1861-1870), Paraguay lost a huge number of its population and ceded much of its territory to Argentina and Bolivia.
+
+Recent history
+
+Paraguay’s last authoritarian ruler Alfredo Stroessner was toppled in 1989 after a 35-year reign. 1993 saw the country’s first free, multi-party elections although Stroessner’s Colorado Party managed to hold on to power at successive elections. This hold was broken with Fernando Lugo’s election in 2008, however, Lugo was impeached in 2012 after a bloody land dispute. Horacio Manuel Cartes Jara won the subsequent election, bringing the Colorado Party back into power. Present-day democracy in Paraguay is probably best described as fragile but optimistic.
+
+Health and safety
+
+Intrepid takes the health and safety of its travellers seriously and takes every measure to ensure that trips are safe, fun, and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+Australia:
+www.smartraveller.gov.au/
+
+Canada:
+www.voyage.gc.ca/
+
+UK:
+www.fco.gov.uk/en/
+
+New Zealand:
+www.safetravel.govt.nz/
+
+US:
+travel.state.gov/
+
+The World Health Organisation also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Paraguay’s top picks – riverbank and lakeside beaches
+
+
+
+
+
+
+×
+
+Paraguay’s top picks – riverbank and lakeside beaches
+
+
+
+
+1.    San Jose
+
+Encarnacion’s pretty beach is a testament to the city’s status as the Pearl of the South. This southern side of the Parana River is highly accessible, with boardwalks and walkways along some eight kilometres of its waterfront. San Jose’s welcoming sands and clean waters get busy in the summer, especially by Paraguayan standards. During Carnival season, celebrations frequently spill out onto the strand.
+
+2.    La Rotonda
+
+La Rotonda goes after the fun factor in a big way. Flanked by scenic tree-lined hills, it’s found on Ypacarai Lake in the historic section of San Bernardino in the La Cordillera department. It boasts a Ferris wheel as well as water bicycle and canoe rentals.
+
+3.    Laguna Blanca
+
+Located in the department of San Pedro, Laguna Blanca’s thatched umbrellas, white sand, and lovely greenery are often held up as the Paraguayan beach ideal. Kayaks and rowboats are available to hire but visitors should be aware that only 100 people are allowed on the beach at any one time to maintain its peaceful, calm ambience. Making a reservation in advance is essential.
+
+4.    Dorada
+
+Playa Dorada is found in the department of Concepcion, where the Paraguay River meets the Apa River. It’s Paraguay’s most isolated beach and it may also be its best.
+
+5.    Paraiso
+
+Playa Paraiso is a broad beach of white sand that’s located on the Tebicuary River near the town of Villa Florida in the department of Misiones.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Paraguay
+
+1.    Nanduti lace
+
+‘Nanduti’, meaning ‘spiderweb’ in the Guarani language, is one of Paraguay’s most iconic crafts. Each piece consists of intricate geometric patterns embellished in colourful threads. It most likely first arrived from the Spanish island of Tenerife.
+
+2.    Leather
+
+Decorated leather items are particularly popular in the cities of Atyra, Ypacarai, and Concepcion. The most commonly sold items are covers for guampas, handbags, and belts.
+
+3.    Terere
+
+A guampa mate vessel or a metal bombilla straw make an unusual and unique souvenir.
+
+
+
+
+
+
+
+
+Festivals and events in Paraguay
+
+
+
+
+
+
+×
+
+Festivals and events in Paraguay
+
+
+
+
+Raucous celebrations are held for Independence Day on May 15 each year. The annual fiesta is marked with parades, huge barbecues, football matches, and fireworks. Carnival also takes place in February and is a huge affair, particularly in the city of Encarnacion.
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+At the Tomb of the Inflatable Pig: Travels Through Paraguay
+
+John Gimlette
+
+Forgotten Fatherland
+
+Ben Macintyre
+
+The News from Paraguay: A Novel
+
+Lily Tuck
+
+
+
+
+
+
+
+
+Paraguay travel FAQs
+
+
+
+
+
+When is the best time to visit Paraguay?
+
+
+
+
+
+
+
+
+
+Paraguay experiences two distinct seasons, hot and cool. Humid and rainy days are distributed fairly evenly between the two seasons although as a general rule, the east of the country gets substantial rainfall throughout the year while the semi-arid far west receives hardly any at all.
+
+The hot season in the summer runs from October to April with average daily highs of around 35 degrees Celsius (95 degrees Fahrenheit) and typically muggy, cloudy weather. Northwestern Paraguay has a tropical climate with wetter, hotter summers than the rest of the country. January is usually the hottest month of the year.
+
+The winter season is from May to September with cooler, changeable weather. Cold polar air blows in from Antarctica and lowers the air temperature to averages of between 6 and 21 degrees Celsius (42 - 71 degrees Fahrenheit). July is the coldest month of the year.
+
+Since the heat in summer can be intense, the best time to visit is between May and September when the weather is more temperate and pleasant. Partygoers should also look at visiting in February when the country erupts into Carnival.
+
+
+
+
+
+
+
+Do I need a visa to visit Paraguay?
+
+
+
+
+
+
+
+
+
+Canada: Yes, required in advance
+New Zealand: Yes, required in advance
+USA: Yes, required in advance
+United Kingdom: Yes, required in advance
+Australia: Yes, required in advance
+France: Yes, required in advance
+
+Citizens from the EU, Andorra, Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Iceland, Israel, Japan, Lichtenstein, Mexico, Nicaragua, Norway, Panama, Peru, Russia, South Africa, South Korea, Switzerland, Taiwan, Turkey, Ukraine, Uruguay, and Venezuela do not need visas for stays of less than 90 days with valid passports.
+
+Citizens of Australia, Canada, New Zealand, and the United States can apply for a 90-day visa on arrival at Silvio Pettirossi International Airport. If arriving at a different airport, visas must be arranged in advance. A reciprocity fee applies and varies according to nationality.
+
+Visitors from other countries must obtain a visa prior to travel.
+
+Contact your nearest Embassy or Consulate of Paraguay to determine if you are eligible for a visa and for up-to-date visa information. To learn more about visas, visit the official website of the Paraguayan government at
+http://www.mre.gov.py
+
+
+
+
+
+
+
+Is tipping customary in Paraguay?
+
+
+
+
+
+
+
+
+
+While tipping isn't mandatory in Paraguay, it's customary to add spare change or to round up your restaurant bills. Although some restaurants and bars may already include a 10% service charge within the bill, feel free to add more if the service is good. Taxi drivers generally don't expect tips.
+
+
+
+
+
+
+
+What is internet access like in Paraguay?
+
+
+
+
+
+
+
+
+
+Internet cafes can be found in large cities and towns frequented by tourists. Internet availability is less widespread in rural and remote areas, so be prepared to disconnect for a while when travelling out of the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone in Paraguay?
+
+
+
+
+
+
+
+
+
+You should be able to use your mobile phone in Paraguay's cities, but prepare for less coverage in remote or mountainous areas. Ensure you have global roaming enabled before leaving your home country.
+
+
+
+
+
+
+
+What are the toilets like in Paraguay?
+
+
+
+
+
+
+
+
+
+Public toilets aren’t always readily available in Paraguay and, when they are, you will often be required to pay a fee to use them. Most bus terminals will charge around USD 0.25 for access and a small supply of paper. It’s advisable that you use the toilets in restaurants and hotels when you can. It’s important to remember that you do not flush the toilet paper as plumbing systems are still rather antiquated. There is a bin beside the toilet to dispose of paper. Most buses will have an on-board toilet, however budget services (or services in remote areas) may not. It's a good idea to carry your own toilet paper and hand sanitiser, as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Hour ride on the bus = US 1.80
+Hour of Internet use in a cyber café = US 0.50
+1kg of laundry at a public Laundromat = US 2.15
+Bottle of beer = US 0.89
+Simple lunch = US 4.45
+
+
+
+
+
+
+
+Can I drink the water in Paraguay?
+
+
+
+
+
+
+
+
+
+Drinking tap water in Paraguay is not recommended. For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water ¬– ask your leader where this can be found. In rural areas where it’s not possible to buy bottled water, it is recommended that water be treated before drinking. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Paraguay?
+
+
+
+
+
+
+
+
+
+Credit cards are widely accepted in Paraguay’s large cities and towns, especially VISA and Mastercard, and can be used at most top-end hotels, restaurants, shops and other tourist establishments. Keep in mind that credit cards may not be accepted so readily in small towns and rural areas, so always have alternative payment methods available.
+
+
+
+
+
+
+
+
+What is ATM access like in Paraguay?
+
+
+
+
+
+
+
+
+
+ATMs can be found in most of Paraguay's major cities and tourist areas. ATMs are far less common in rural areas and small villages so ensure you have enough cash to cover purchases when travelling away from the larger cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Paraguay?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of healthcare around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Paraguay?
+
+
+
+
+
+
+
+
+
+1 January: New Year's Day
+1 March: Heroes' Day
+13 April: Maundy Thursday
+14 April: Good Friday
+16 March: Easter Sunday
+1 May: Labour Day
+14 May: Independence Day
+12 June: Chaco Armistice Day
+15 August: Founding of Asunción
+29 September: Boqueron Battel Victory Day
+8 December: Immaculate Conception
+25 December: Christmas Day
+
+For a current list of public holidays in Paraguay go to:
+https://www.worldtravelguide.net/guides/south-america/paraguay/public-holidays/
+
+
+
+
+
+
+
+Is Paraguay a safe destination for LGBTQI-travellers?
+
+
+
+
+
+
+
+
+
+It is generally advised that LGBTQI-travellers should exercise caution while travelling in Paraguay. While homosexuality is legal and LGBTQI recognition is growing, the country remains conservative and homosexuality is not yet widely accepted. The Paraguayan government has no plans to recognize same-sex marriage in the near future. There is a small gay bar scene in Asuncion.
+
+For more detailed and up-to-date advice, we recommend visiting
+Equaldex
+or
+Smartraveller
+before you travel.
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people and their culture, economies and environment. It's important to remember that what may be acceptable behaviour, dress, and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+Responsible Travel
+
+1.    Be considerate of Paraguay’s customs, traditions, religion, and culture.
+2.    For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+3.    Always dispose of litter thoughtfully, including cigarette butts.
+4.    Learn some local language, either Spanish or Guarani, and don't be afraid to use it – simple greetings will help break the ice.
+5.    Shop for locally made products wherever possible. Supporting local artisans helps keep traditional crafts alive.
+6.    Refrain from supporting businesses that exploit or abuse endangered animals. If it doesn’t feel right, then it probably isn’t.
+7.    Please ask and receive permission before taking photos of people, including children. Be prepared to offer a tip in exchange for a photo.
+8.    When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

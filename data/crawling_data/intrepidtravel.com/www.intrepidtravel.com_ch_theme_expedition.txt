@@ -1,0 +1,3504 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expedition trips: Brand new off-map adventures | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expedition trips: Brand new off-map adventures
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Themes
+
+Expeditions
+
+
+
+
+The way we see it, there are adventures, and then there are
+Adventures
+. The kind where you trek deep into the Congo jungle in search of gorillas or
+meet warrior tribes in far east India
+. Stuff you don’t find in your typical travel brochure. For us, adventures like this are at the heart of what it means to
+be
+Intrepid: something original, unexpected, and as far from ‘the usual’ as you’re going to get.
+
+This year we’ve pulled out all the stops. We’ve turned the world upside down and shaken it until all the cool stuff falls out: stuff like a groundbreaking food expedition through
+Armenia and Georgia
+, trekking in Patagonia and
+camping with Berber people in the Atlas Mountains
+.
+
+Welcome to our exclusive Expedition trips for 2018 and 2019. Wave goodbye to that beaten path.
+
+
+Brand new Expeditions
+
+
+
+
+
+
+
+
+
+
+Armenia & Georgia Food Expedition
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,785
+
+
+
+
+
+Taste your way across Armenia and Georgia on an unforgettable Intrepid Real Food...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Africa Expedition - Kruger Walking Safari
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR2,200
+
+
+
+
+
+Embark on a South Africa expedition in northern Kruger National Park, hiking the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Taiwan Food Expedition
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,050
+
+
+
+
+
+Taste the many flavours of Taiwan, from Taipei, Jiufen to Yilan and beyond. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Christmas in Israel and the Palestinian Territories
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR3,015
+
+
+
+
+
+Join a nine day Israel and Palestinian Territories adventure with Christmas in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Russia Expedition - Winter Trans-Siberian Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Travel the great Trans-Siberian railway on a winter expedition from Moscow to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India Expedition - Tea & Tribes
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,808
+
+
+
+
+
+Experience remote and unexplored India on a round-trip from Kolkata. Visit Sikkim,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Paraguay Expedition
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,255
+
+
+
+
+
+Travel to Paraguay on an Intrepid expedition, visiting Asuncion, Yaguaron, the wild...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Expedition - Andean Crossing
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Travel to Chile and Argentina and embark on an Andean crossing expedition with Intrepid...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Republic of Congo Expedition - Gorilla Trek
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR6,308
+
+
+
+
+
+Get up close and personal with the lowland gorillas in Odzala-Kokoua National Park on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+Returning favourites
+
+We launched Expedition trips for the first time in 2015, and they were a raging success. So we decided to bring a few of the favourites back. Book quick – these fill up fast.
+
+
+
+
+
+
+
+
+
+
+Turkey Expedition – Black Sea & Beyond
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Travel to north and east Turkey with Intrepid and discover the lesser-known regions of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco Expedition – Walking with Berber Nomads
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR995
+
+
+
+
+
+Experience authentic nomadic culture as you join a traditional Berber family migrating...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,412
+
+
+
+
+
+Hike to Ardoukoba Volcano, see whale sharks, join a nomad camel trek to Lake Assal and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Myanmar (Burma) Sailing Expedition
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,080
+
+
+
+
+
+Beginning in Phuket, sail around Burma's Myeik (Mergui) Archipelago in the Andaman Sea...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Russia Expedition - Footsteps of the Reindeer Herders
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,095
+
+
+
+
+
+Travel to the end of the earth with one of the world’s last remaining nomadic tribes,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+China Expedition - Great Wall Marathon
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,430
+
+
+
+
+
+Get set for a marathon race along the famous Great Wall of China, explore old-meets-new...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+Expedition highlights in 2018
+
+
+
+
+
+
+
+
+
+
+Meet the Nenet tribe of Russia
+
+Eking out a living on the edge of the Siberian wilderness, Nenet reindeer herders lead a rustic existence far from modern Russia. For the first time, this nomadic tribe is inviting travellers into their home to experience their way of life. Travel from St Petersburg to Salekhard and be hosted in traditional yurt huts, sweat it out in a
+Russian
+banya and try your hand fishing on the banks of Horomdo Lake.
+
+Find out more
+
+
+
+
+
+
+
+
+
+
+Camp out in Patagonia
+
+Curling south towards Antarctica, Patagonia is one of the few remaining tracts of unspoiled wildlife on Earth. Discover sprawling glaciers, mountains and wild pastures on a special expedition through Argentina and Chile, including visits to Tronador Volcano and Todos los Santos Lake. While you’ll spend days trekking through incredible landscapes, you’ll also camp on the homestead of a 200-year-old house and soothe your feet in natural thermal pools found deep in the Patagonian forest.
+
+Find out more
+
+
+
+
+
+
+
+
+
+
+Plate up in the Caucasus
+
+Italy, France and Greece might hog the gastronomic spotlight in Europe, but look a little further afield and you’ll find
+Armenia
+and
+Georgia
+can more than hold their own. Journey from Yerevan to Tbilisi and discover the centuries-old recipes that continue to thrive in this corner of Eastern Europe, with the opportunity to get hands on making Georgian dumplings and khachapuri (cheese-filled bread). With included visits to brandy distilleries, wineries and meals in family homes, this is an expedition crafted for adventurous foodies.
+
+Find out more
+
+
+
+
+
+
+
+
+
+
+Journey to India’s edge
+
+Everyone knows about the colourful chaos of Mumbai and New Delhi, but few visit the outer reaches of India’s wetlands and mountains. Climb aboard a steam-powered train for a captivating ride through the Himalayas, stopping to track one-horned rhinos through Kaziranga National Park, meet warrior tribes in Nagaland, and pay homage to Tibetan Buddhists in cliff-side villages. Beginning and ending in Kolkata, this is a unique opportunity to explore West Bengal.
+
+Find out more
+
+
+
+
+
+
+
+Previous Expedition reviews
+
+
+Our  trips score an average of
+4.86 out of 5
+based on 36 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar,
+November 2017
+
+Shane Edwards
+
+The Djibouti trip was fantastic. Spectacular sights and friendly people. It's a laid back place and a few words of Afar always elicits a smile.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Expedition Djibouti - Footsteps of the Afar,
+November 2017
+
+Stephanie Obst
+
+This trip is not fot the faint-hearted, but if you have a sense of adventure you'll love it (unless you don't like rough desert landscapes).
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Tamang Heritage & Langtang Valley Trek,
+November 2017
+
+Jared Sibosado
+
+Great Experience. The fitter you are the more you will enjoy it. Beware food is mostly vegetarian style.
+
+Review submitted 25 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+trip reviews
+
+Our  trips score an average of
+4.86 out of 5
+based on 36 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+Need some inspiration?
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+Calling all explorers: 5 uncharted adventures...
+
+
+
+
+
+
+On the hunt for your next big out-there adventure? These might make your decision...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 30, 2017
+
+
+
+Why Taiwan should be at the top of your travel...
+
+
+
+
+
+
+Epic scenery, incredible food, amazing outdoor activities. Here’s why your next...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 29, 2017
+
+
+
+Photo essay: Life on the edge of the Siberian...
+
+
+
+
+
+
+Ever wondered what an expedition to the ends of the earth looks like? Join one...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2017
+
+
+
+16 photos that prove you should visit remote,...
+
+
+
+
+
+
+This part of the world brims with mountain villages, waterfalls and wetlands,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2017
+
+
+
+Want to hike through Morocco with a Berber...
+
+
+
+
+
+
+Hypnotic, exotic, and a slice of pure magic. If you thought the cities of Morocco...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 21, 2017
+
+
+
+4 reasons why Northern Iran should be on your...
+
+
+
+
+
+
+You'll find volcanic plains, snowy peaks, and dense forests. You'll find...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Expedition El Mirador: our latest off-map...
+
+
+
+
+
+
+Up until the early 20th Century, El Mirador was a secret known only to nature. ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+Introducing our brand new Expedition trips for...
+
+
+
+
+
+
+After months of planning, arguing, drinking and pondering, we've come up with the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2016
+
+
+
+We’re launching a brand new expedition trip to...
+
+
+
+
+
+
+For the first time, we're stepping back into the soviet era on a special trip...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 16, 2015
+
+
+
+“Papua New Guinea is truly the last frontier.”...
+
+
+
+
+
+
+When we sat down this year to plan our brand new expedition trips, we knew we...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 05, 2015
+
+
+
+“We’re going deep into the jungle…expect...
+
+
+
+
+
+
+How to get off the beaten track, off the beaten track. (That's not a typo).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 15, 2015
+
+
+
+An earth worth watching: inside our new...
+
+
+
+
+
+
+It’s got the biggest natural diversity of any place in Australia, and it’s where...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

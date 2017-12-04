@@ -1,0 +1,7173 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peru Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peru tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+Peru
+
+
+
+Full of mystery and culture dating back millennia, Peru is an indomitable land of deserts etched with enigmatic lines, Amazonian rainforests teeming with wildlife, and soaring mountains harbouring secret cities.
+
+
+While many travellers come to visit the country’s most famous site, the ruins of
+Machu Picchu
+, the real Peru lies within its warm, proud inhabitants – many of whom can trace their bloodlines back to the Incas. Whether you’re exploring the cobbled streets of Arequipa, bobbing on the floating islands of Lake Titicaca or uncovering mummies in Nazca, our Peru tours will have you feeling like a modern-day Indiana Jones. Just don’t forget to pack your fedora.
+
+
+Top Peru travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+14 Dec 2017
+
+Sacred Land of the Incas
+
+
+
+Sacred Land of the Incas
+Lima to La Paz
+
+
+
+
+
+
+
+
+
+×
+
+Sacred Land of the Incas
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,790
+
+
+FR2,511
+
+
+
+
+View Trip
+
+
+
+
+
+
+23 Dec 2017
+
+Essential Peru
+
+
+
+Essential Peru
+Lima to La Paz
+
+
+
+
+
+
+
+
+
+×
+
+Essential Peru
+
+
+
+
+
+
+
+
+
+21
+
+
+FR2,585
+
+
+FR1,939
+
+
+
+
+View Trip
+
+
+
+
+
+
+30 Dec 2017
+
+Majestic Peru
+
+
+
+Majestic Peru
+Lima to Lima
+
+
+
+
+
+
+
+
+
+×
+
+Majestic Peru
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,920
+
+
+FR2,628
+
+
+
+
+View Trip
+
+
+
+
+
+
+31 Dec 2017
+
+Peruvian Pathways
+
+
+
+Peruvian Pathways
+Lima to Lima
+
+
+
+
+
+
+
+
+
+×
+
+Peruvian Pathways
+
+
+
+
+
+
+
+
+
+14
+
+
+FR3,640
+
+
+FR2,912
+
+
+
+
+View Trip
+
+
+
+
+
+
+31 Dec 2017
+
+Inca Encounter
+
+
+
+Inca Encounter
+Lima to Cusco
+
+
+
+
+
+
+
+
+
+×
+
+Inca Encounter
+
+
+
+
+
+
+
+
+
+10
+
+
+FR2,800
+
+
+FR2,240
+
+
+
+
+View Trip
+
+
+
+
+
+
+31 Dec 2017
+
+Peru, Chile & Argentina Explorer
+
+
+
+Peru, Chile & Argentina Explorer
+Lima to Buenos Aires
+
+
+
+
+
+
+
+
+
+×
+
+Peru, Chile & Argentina Explorer
+
+
+
+
+
+
+
+
+
+21
+
+
+FR6,035
+
+
+FR4,828
+
+
+
+
+View Trip
+
+
+
+
+
+
+31 Dec 2017
+
+Highlights of South America
+
+
+
+Highlights of South America
+Lima to Rio de Janeiro
+
+
+
+
+
+
+
+
+
+×
+
+Highlights of South America
+
+
+
+
+
+
+
+
+
+27
+
+
+FR8,810
+
+
+FR7,489
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Explore South America
+
+
+
+Explore South America
+Quito to Buenos Aires
+
+
+
+
+
+
+
+
+
+×
+
+Explore South America
+
+
+
+
+
+
+
+
+
+42
+
+
+FR5,245
+
+
+FR4,721
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Ultimate Peru, Argentina & Brazil
+
+
+
+Ultimate Peru, Argentina & Brazil
+Lima to Rio de Janeiro
+
+
+
+
+
+
+
+
+
+×
+
+Ultimate Peru, Argentina & Brazil
+
+
+
+
+
+
+
+
+
+30
+
+
+FR5,875
+
+
+FR5,288
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Peru Encompassed
+
+
+
+Peru Encompassed
+Lima to Lima
+
+
+
+
+
+
+
+
+
+×
+
+Peru Encompassed
+
+
+
+
+
+
+
+
+
+21
+
+
+FR3,490
+
+
+FR2,967
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Peru trips
+
+
+
+
+
+
+
+
+
+Inca Trail Express
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,030
+
+
+
+
+
+Travel to Peru to discover the Inca, Peru's ancient civilisation. Trek or train to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sacred Land of the Incas
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,371
+
+
+
+
+
+Discover Peru's sacred land of the Incas. Visit Lima, the Amazon, Cuzco, Puno, Lake...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail & Amazon
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,395
+
+
+
+
+
+Travel from the heights of the Andes to the exotic Amazon rainforest on this best of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Travel to Peru and retrace the steps of the Inca, Peru's fascinating ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru Encompassed
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,615
+
+
+
+
+
+Encounter the highlights of Peru, witnessing Lima's attractions, flying over the Nazca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Peru
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Visit South America and travel to Peru. Visit Lima, Cuzco and Lake Titicaca, tour the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Peru Adventure
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR6,069
+
+
+
+
+
+Visit South America and travel to the Galapagos Islands, Peru, Ecuador and Bolivia....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Peru & Bolivia
+
+
+
+
+
+
+
+
+
+25 Days
+
+
+From
+FR3,744
+
+
+
+
+
+Visit South America and travel to Peru and Bolivia. Travel from Lima to La Paz, visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Majestic Peru
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,482
+
+
+
+
+
+Visit South America and travel through Peru. Tour through Lima, Pisco, Cuzco, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Galapagos & Inca Trail Adventure
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,059
+
+
+
+
+
+Travel to Ecuador and the wildlife-rich shores of the Galapagos Islands. Then visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Essential Peru
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR1,938
+
+
+
+
+
+Discover Peru in depth on this adventure tour through Peru that ends in La Paz, Boliva....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Lima
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,961
+
+
+
+
+
+Travel from La Paz to Lima and discover the vibrant heart of Inca culture. Trek an Inca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru Real Food Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,225
+
+
+
+
+
+Indulge in mouth-watering cuisine and witness stunning sights on Intrepid's Real Food...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Quito via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,470
+
+
+
+
+
+Visit South America and travel through Brazil, Argentina, Chile, Bolivia, Peru and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Quito to Rio via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,270
+
+
+
+
+
+Visit South America and travel through Ecuador, Peru, Bolivia, Argentina, Chile and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peruvian Pathways
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,730
+
+
+
+
+
+Travel to Peru and discover it fascinating landscapes and traditions. Spy wildlife in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Encounter
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,100
+
+
+
+
+
+Visit South America and travel through Peru. Tour Lima, the Amazon Jungle, Cuzco, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Ecuador & Peru
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR2,650
+
+
+
+
+
+Experience the best of Ecuador and Peru: the Amazon Jungle, street food in Cusco,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru Family Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,540
+
+
+
+
+
+Visit Peru on this Family Adventure, travelling through Lima, Cuzco and Aguas Calientes...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lake Titicaca
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR72
+
+
+
+
+
+Travel from Puno to Lake Titicaca and take a boat ride on the world's highest navigable...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to La Paz
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,951
+
+
+
+
+
+Travel from Lima to La Paz and fall in love with Incan South America. Complete the Inca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR2,770
+
+
+
+
+
+Travel to South America and visit Peru on a family adventure through Lima,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Machu Picchu Explorer (Original)
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR555
+
+
+
+
+
+Visit South America and travel through Peru. Tour Cuzco, the Sacred Valley,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru, Bolivia & Argentina Adventure
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR5,455
+
+
+
+
+
+Journey through South America, from Lima to Buenos Aires, and explore stunning...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore South America
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR5,245
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Adventure through Peru, Bolivia & Argentina
+
+
+
+
+
+
+
+
+
+35 Days
+
+
+From
+FR4,260
+
+
+
+
+
+Journey through South America, from Lima to Buenos Aires, and explore stunning...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South American Highlights
+
+
+
+
+
+
+
+
+
+44 Days
+
+
+From
+FR6,085
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Peru- For Solo Travellers
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,030
+
+
+
+
+
+Visit South America and travel to Peru. Visit Lima, Cuzco and Lake Titicaca, tour the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Ecuador & Peru
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,055
+
+
+
+
+
+Experience the best of Ecuador and Peru: the Amazon Jungle, street food in Cusco,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of South America
+
+
+
+
+
+
+
+
+
+51 Days
+
+
+From
+FR6,228
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand South America
+
+
+
+
+
+
+
+
+
+58 Days
+
+
+From
+FR7,105
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru: Bike, climb & hike
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,450
+
+
+
+
+
+Travel to Peru to discover the Inca, Peru's ancient civilisation. Travel by foot, bike...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Peru
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,584
+
+
+
+
+
+Explore the Andes and the Chachapoya culture as you travel to Lima, Gocta Waterfalls,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Peru (Machu Picchu & the Sacred Valley)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,670
+
+
+
+
+
+Visit South America and cycle in Peru. Visit Lima, Cusco, the Sacred Valley and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Real Food Adventure Peru, with Amazon Extension
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,230
+
+
+
+
+
+Indulge in mouth-watering cuisine and witness stunning sights on Intrepid's Real Food...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Extension
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR790
+
+
+
+
+
+Take the historic Inca Trail hike and be rewarded with spectacular vistas and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing South America
+
+
+
+
+
+
+
+
+
+47 Days
+
+
+From
+FR6,125
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru Amazon - 4 days
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR352
+
+
+
+
+
+Journey through the Amazon Jungle in Peru and discover stunning wildlife and friendly...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate South America
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,380
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of South America
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR7,048
+
+
+
+
+
+Packed full of highlights, this journey showcases the diversity of wonders across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South America Encompassed
+
+
+
+
+
+
+
+
+
+56 Days
+
+
+From
+FR8,125
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru, Chile & Argentina Explorer
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,828
+
+
+
+
+
+Travel through South America by way of jungle, waterfalls and ancient ruins. In 3 weeks...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Lima
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR180
+
+
+
+
+
+Travel to Lima for a true Peruvian culinary experience. Visit a pisco bodega, take a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Quito
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR1,898
+
+
+
+
+
+Travel Overland from Lima, Peru, to Quito, Ecuador. Hit the beach in Punta Sal, get...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuzco to La Paz
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,946
+
+
+
+
+
+Take a scenic Overland tour from Peru to Bolivia. Be wooed by the vibrant heart of Inca...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Cuzco
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,236
+
+
+
+
+
+Fall in love with Peru on this adventure tour. Travel from Lima to Cuzco via the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Cuzco
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,946
+
+
+
+
+
+Discover Incan heartlands on this Overland Bolivia and Peru tour. Travel from La Paz to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cuzco to Lima
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,096
+
+
+
+
+
+Visit South America and travel through Peru from Cuzco to Lima. Follow the Inca Trail,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Peru, Argentina & Brazil
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR5,765
+
+
+
+
+
+Travel from the city sights of Lima through to the vibrant beat of Rio via Machu Picchu...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Peru & Galapagos
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR5,124
+
+
+
+
+
+Visit South America and travel to Peru. Visit Lima, Cuzco and Lake Titicaca, tour the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Peru, Argentina and Brazil
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR4,595
+
+
+
+
+
+Travel from the city sights of Lima through to the vibrant beat of Rio via Machu Picchu...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Rio
+
+
+
+
+
+
+
+
+
+60 Days
+
+
+From
+FR7,151
+
+
+
+
+
+Go Overland from Lima to Rio with Intrepid Travel. Uncover hidden treasures from Peru...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Buenos Aires
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR5,116
+
+
+
+
+
+Visit South America and travel through Peru, Bolivia and Argentina from Lima to Buenos...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Peru with Inca Trail  (Machu Picchu & the Sacred Valley)
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Visit South America and cycle in Peru. Visit Lima, Cusco, the Sacred Valley and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Peru tour reviews
+
+
+Our Peru trips score an average of
+4.77 out of 5
+based on 1481 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Inca Trail Express,
+November 2017
+
+Lauren Pettit
+
+I am happy that I chose to travel to Peru with Intrepid!  I felt very safe the entire time and enjoyed all of the activities.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Sacred Land of the Incas,
+November 2017
+
+Lois Pope
+
+Intrepid always go that much further
+in making your trip interesting and
+adventurous doing unusual things.
+Protecting the environment/wildlife is of
+much importance to them.  Group
+leaders are attentive, well organised
+and informative.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Peru trip reviews
+
+Our Peru trips score an average of
+4.77 out of 5
+based on 1481 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Peru
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 22, 2017
+
+
+
+From ceviche to sushi: a guide to Lima’s food...
+
+
+
+
+
+
+If there’s one thing limeños know and appreciate, it’s seafood. Here are the must...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 27, 2017
+
+
+
+The road to Machu Picchu starts at 385 lbs
+
+
+
+
+
+
+I laughed like a crazy person, as I stood on top of that pass. The thin air and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 24, 2017
+
+
+
+Introducing Northern Peru, home to the ‘new...
+
+
+
+
+
+
+Imagine Machu Picchu. Spectacular, historic, utterly iconic. And then magnify the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 17, 2017
+
+
+
+7 reasons to visit Peru (that aren’t Machu Picchu)
+
+
+
+
+
+
+Food, waterfalls, epic hikes and camelids, to name a few.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 15, 2017
+
+
+
+An insider’s guide to visiting Cusco, Peru
+
+
+
+
+
+
+Having lived in Cusco for more than a year and a half, I’ve come to discover some...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2017
+
+
+
+10 facts you probably don’t know about Peru
+
+
+
+
+
+
+We don't need to sell Peru to you – who doesn't want to see Machu Picchu in all...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+Where to find the best street art in South America
+
+
+
+
+
+
+Artists from across the world look to South America as the perfect canvas for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 21, 2017
+
+
+
+More than Machu Picchu: 5 of Peru’s other...
+
+
+
+
+
+
+Proud indigenous tribes, beautiful colonial cities, great surf and fantastic...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 10, 2017
+
+
+
+Everything you need to know about trekking Peru...
+
+
+
+
+
+
+Circling condors, challenging trails, volcanoes, waterfalls, and hot springs make...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 08, 2017
+
+
+
+6 unexpected surf destinations around the world
+
+
+
+
+
+
+There are some epic breaks that don’t require a three thousand dollar flight or...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 04, 2017
+
+
+
+How to bring the flavour of your travels home...
+
+
+
+
+
+
+Beat the post-holiday blues by recreating your travels in your own kitchen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 15, 2017
+
+
+
+The best family holidays to book in 2017
+
+
+
+
+
+
+We're a firm believer in the fact that family travel can please both parents and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 28, 2017
+
+
+
+In search of one of the world’s rarest cacao...
+
+
+
+
+
+
+I was deep in the Andes, in one of the rarest cacao farms in the world, watching a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 05, 2017
+
+
+
+Discovering Huacachina, the surreal desert...
+
+
+
+
+
+
+I'd made it to Huacachina, the only desert oasis in South America, and I was about...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 05, 2017
+
+
+
+Why you should take the Quarry Trail to Machu...
+
+
+
+
+
+
+When I was told the Inca Trail was fully booked, I was disappointed. Hiking to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 09, 2017
+
+
+
+7 things no-one tells you about the Inca Trail
+
+
+
+
+
+
+Machu Picchu is undoubtedly awesome, but there’s a whole lot of stuff about the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 28, 2016
+
+
+
+Changing lives on the high plains of Puno
+
+
+
+
+
+
+Elevation in Peru pose a big challenge for travellers, but what's less talked...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 28, 2016
+
+
+
+Changing lives on the high plains of Puno
+
+
+
+
+
+
+Elevation in Peru pose a big challenge for travellers, but what's less talked abo...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 06, 2016
+
+
+
+We just got the Rainforest Alliance tick of...
+
+
+
+
+
+
+Rainforest Alliance aims to see people and planet prosper together. We're proud to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 21, 2016
+
+
+
+Going solo: the joys of travelling by yourself
+
+
+
+
+
+
+I realized something on my Intrepid trip. I am most comfortable when I am...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 21, 2016
+
+
+
+Flavours of Nikkei: lifting the lid on Peru’s...
+
+
+
+
+
+
+When I think of Peruvian cuisine, I think traditional. Juicy lomo saltado spiked...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 04, 2016
+
+
+
+Mothers of Intrepid: 3 amazing women you’ll...
+
+
+
+
+
+
+Whether it’s a Mongolian Nana or a Peruvian Mama, homestay cooking, hospitality ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 02, 2016
+
+
+
+What it’s really like to trek the Inca Trail
+
+
+
+
+
+
+I had decided to tackle the Inca Trail during one of those life reassessments that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 27, 2016
+
+
+
+What it’s like to do a homestay in the Peruvian...
+
+
+
+
+
+
+Here we are in a house that now feels like a home, preparing dinner like a family...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 14, 2016
+
+
+
+10 global dishes that are definitely outside...
+
+
+
+
+
+
+Farewell, comfort zone. It was nice knowing you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 28, 2016
+
+
+
+Quarry Trail FAQ: The ‘other’ route to Machu...
+
+
+
+
+
+
+Heard of the Quarry Trail? That's cool - neither have the tourist crowds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 27, 2016
+
+
+
+How to make Pisco Sours like a pro
+
+
+
+
+
+
+So what is a Pisco Sour? And why do people get so obsessed with it? And where the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 27, 2016
+
+
+
+Our guide to Peru’s tastiest street food
+
+
+
+
+
+
+May contain traces of Guinea Pig...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 17, 2016
+
+
+
+Inca Trail permits are on sale! Here’s...
+
+
+
+
+
+
+Grab your trekking shoes and trail mix, guys. The Inca Trail is open for 2016!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2015
+
+
+
+Meet Dan Berlin, the first blind athlete to run...
+
+
+
+
+
+
+When Dan Berlin lost his vision due to cone-rod dystrophy, his life changed. One...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 07, 2015
+
+
+
+“You’re never too old to be carried” and other...
+
+
+
+
+
+
+When we started out on our 42 kilometre trek along the Inca Trail, I was full of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 02, 2015
+
+
+
+Chef Alejandro Saravia and the last roast...
+
+
+
+
+
+
+We asked Melbourne culinary legend Alejandro Saravi for something delicious, easy...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2015
+
+
+
+The chef behind Pastuso sits down to talk all...
+
+
+
+
+
+
+Peruvian chef Alejandro Saravia arrived in Australia on New Year’s Eve 2006 with...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 17, 2014
+
+
+
+Helping South America build a brighter future
+
+
+
+
+
+
+South America is a beautiful destination, candid and colourful, but many South...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 17, 2014
+
+
+
+Paddington Bear: getting wild in South America
+
+
+
+
+
+
+It may come as a shock that cheerful, marmalade-loving, wellington-wearing...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2014
+
+
+
+Recipes of the world: Trout Ceviche (Peru)
+
+
+
+
+
+
+Peruvian cured fish, ceviche, is a delicious dish. Here's how to make it at home.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 26, 2014
+
+
+
+What’s Intrepid doing to help community...
+
+
+
+
+
+
+Studies suggest that the world’s indigenous people greater degrees of deprivation...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 14, 2014
+
+
+
+14 awesome photos from Peru PLUS win an...
+
+
+
+
+
+
+Look at photos, enter competition, win trip to Peru. Easy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 20, 2014
+
+
+
+5 of the best things about Classic Peru
+
+
+
+
+
+
+My Classic Peru trip with Intrepid Travel was a phenomenal mix of culture and here...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 27, 2014
+
+
+
+An hour of power in the Amazon
+
+
+
+
+
+
+Little did I know that all my amazing travel experiences in Peru would be topped...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 13, 2014
+
+
+
+Rediscovering Peru food as we know it
+
+
+
+
+
+
+I am not a writer or a storyteller. I am a man of flavours and ingredients coming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 01, 2014
+
+
+
+5 Peru ruins you didn’t know you should visit
+
+
+
+
+
+
+Don't stop at Machu Picchu. Peru has a wealth of other captivating and crowd-free...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peru travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arequipa
+
+
+
+
+Be dazzled by the 'White City' of Arequipa
+
+
+
+
+
+
+Peru Encompassed, 21 days
+
+
+
+
+
+
+
+
+Peru, Bolivia & Argentina Adventure, 40 days
+
+
+
+
+
+
+
+
+Ultimate South America, 63 days
+
+
+
+
+
+
+
+
+
+
+
+Nazca
+
+
+
+
+Unravel ancient history at mysterious Nazca
+
+
+
+
+
+
+Peru Encompassed, 21 days
+
+
+
+
+
+
+
+
+Amazing South America, 47 days
+
+
+
+
+
+
+
+
+Peru, Bolivia & Argentina Adventure, 40 days
+
+
+
+
+
+
+
+
+
+
+
+Machu Picchu
+
+
+
+
+Spend a day exploring mighty Machu Picchu
+
+
+
+
+
+
+Inca Trail Express, 7 days
+
+
+
+
+
+
+
+
+Sacred Land of the Incas, 15 days
+
+
+
+
+
+
+
+
+Peru Encompassed, 21 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Peru
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Peru, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bicycle
+
+Cruise along the coast while pedalling a bike through the colourful neighbourhoods of Lima
+
+
+
+
+
+
+
+
+
+
+
+Canoe
+
+Spot exotic flowers, birds and mammals while enjoying a canoe ride down the mighty Amazon
+
+
+Inca Trail & Amazon
+
+Peru Encompassed
+
+Sacred Land of the Incas
+
+
+
+
+
+
+
+
+
+
+Train
+
+Everyone gets a window seat while riding on the Vistadome train - the clear roof and windows allow maximum viewing for all.
+
+
+Peru Family Adventure
+
+Inca Trail Express
+
+Peru Encompassed
+
+
+
+
+Accommodation in Peru
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Peru you may find yourself staying in a:
+
+
+
+
+
+
+
+Homestay
+
+Experience home-grown hospitality and food while staying with a local family who live right on the shores of Lake Titicaca
+
+
+Explore Peru & Bolivia
+
+Peru Encompassed
+
+Sacred Land of the Incas
+
+
+
+
+
+
+
+
+
+
+Jungle Lodge
+
+Stay close to the action in a lodge located within the wilds of the awesome Amazon Jungle.
+
+
+Peru Family Adventure
+
+Peru Encompassed
+
+Sacred Land of the Incas
+
+
+
+
+
+
+
+
+
+
+Camp
+
+Camping along the Inca Trail is one of world's most sought-after travel experiences. Bond with fellow travellers over some food and rest up before another day of trekking.
+
+
+
+
+
+Peru holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Lima (population 8.2 million)
+
+Population:
+
+29.9 million
+
+Language:
+
+Spanish, Quechua
+
+Currency:
+
+PEN
+
+Time zone:
+
+(GMT-05:00) Bogota, Lima, Quito, Rio Branco
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin) Type C (European 2-pin)
+
+Dialing code:
+
++51
+
+
+
+
+
+
+
+
+
+Best time to visit Peru
+
+
+
+
+
+
+×
+
+Best time to visit Peru
+
+
+
+
+Peru is a fascinating country with four distinct geographical regions. Not many countries can offer beaches, mountains, rainforests and deserts on one visit. These distinct regions offer something for everyone - that's why most Intrepid tours operate all year round. June, July and August are considered the driest months in the highlands and Amazon basin and are optimal for hiking and river journeys. However, even during the rainy season in the Amazon, the rains only fall for a few hours at a time. In the Andes, the rainy season can sometimes just mean a bit of overcast weather. The advantage to travelling in these areas at this time is that many other travellers make the mistake of postponing their plans until the dry season, leaving you with more of Peru to yourself. The best time to visit the infamous Nazca Lines or the coastal areas is from December to April, although the other months of the year are perfectly good times to visit also. Remember that the Inca Trail is closed for cleaning during February, although there are other treks to Machu Picchu which are available at this time.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Like many other South American nations, contemporary Peru is a rich mix of the modern and the ancient. The population is made up of Quechuans, Peruvians of Spanish descent and small groups of people from Asia, Africa and the Caribbean nations. With a long history of migration, many Peruvians may identify with several ethnic groups. While city dwellers tend to live modern lives, the Quechua communities of Peru have lived in the Andes for hundreds of years and live more of a traditional village-based lifestyle that revolves around markets and agriculture. While visiting Quechuan communities, travellers will be able to observe a markedly different way of life - with locals speaking a different language and wearing traditional clothing that isn't often seen in Peru's large cities. While the official religion is Christianity, some people still practice traditional rituals and customs alongside Christian beliefs. Indigenous celebrations and festivals offer fascinating insights into the ancient customs of Peru that have been carried into contemporary society from Inca times, with centuries-old food, clothing, song and dance playing an integral role in these celebrations.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Food in Peru tends to be hot and spicy, and while meat features quite heavily on the menu, vegetarian options aren't too hard to come by considering potatoes and avocados are in abundance. If you want to know about South American food in general, we have all the info you need over
+here
+.
+
+Things to try in Peru
+
+1. Papas Rellenas
+
+This popular street food consists of baked potato stuffed with beef, onion and spices. The perfect budget backpacker snack.
+
+2. Choclo con Queso
+
+How can something as simple as corn on the cob with cheese be so tasty? This street food triumph is a winner - it's perfect for fussy eaters, vegetarians and the budget conscious.
+
+3. Pisco Sour
+
+The national drink of Peru gets whipped up with lime juice, egg white and sugar to create this well known cocktail. Try it in Pisco… actually why not try it all over Peru?
+
+4. Mate de Coca
+
+Rumoured to help with altitude sickness, this tea made from coca leaves is drunk by locals all over the Andes region and is hailed for its 'medicinal' properties.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing borders with
+Bolivia
+,
+Brazil
+,
+Chile
+,
+Colombia
+and
+Ecuador
+, Peru also has a long stretch of coast along the Pacific Ocean. Home to a diverse range of landscapes, Peru can lay claim to parts of the Amazon Basin, Andean mountain range and Lake Titicaca as well as areas of tropical savanna, desert, cloud forest, mangroves and beaches. Peru's major cities are decidedly colonial, with historic buildings from the colonial era sitting alongside newer constructions. Out of the cities, rural life is largely agriculture-based, with locals working on potato, maize, coffee, rice and other farms.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Archaeological evidence indicates that early life in Peru started up to 11,000 years ago, with nomadic people living a hunter-gatherer lifestyle. Organised civilisations based on land cultivation appear to have been established some time around 6000 BC. Over the centuries, Peru has seen many different civilisations rise and fall, grow and decline and evidence of these ancient civilisations can be found all around the country today, with the Nazca Lines being one of the most enigmatic examples.
+
+However, the Incas can lay claim to being one of the most famous and revered empires of all. Spanning from 1438 to 1532, the audacious Inca Empire was responsible for one of the world's most impressive archaeological ruins - Machu Picchu. While certainly a scene-stealer, there are also many other reminders of the Inca throughout Peru, with the ruins at Sacsayhuaman also holding much significance. The decline of the Incas began some time around 1532, with the arrival of Spanish colonisers, civil war and the devastating smallpox virus contributing to the instability of the once-great empire. The indigenous population was decimated by infectious diseases brought from Europe, for which they had no immunity.
+
+By 1542, the Spanish Crown had created the Viceroyalty of Peru yet over the years various indigenous uprisings and rebellions indicated the level of dissatisfaction the original population felt at having their traditional way of life, identity and land interfered with by foreigners. These disputes finally led to the War of Independence, which lasted from 1810 to 1824, when Spanish troops were defeated in the Battle of Ayacucho. Peru's independence was finally officially recognised in 1879.
+
+Recent History
+
+Peru's more recent history has been dominated by military coups and regional disputes with the years between 1960 and 1990 being a time of political instability and economic difficulty. With world commodity prices levelling out, Peru's agriculture-based economy suffered, as did its population who were largely reliant on farming. New leadership in the 1990s and beyond has led to economic reforms and trade promotion, which has driven economic growth for the country. With a focus on mining, construction, tourism and private investment, Peru withstood the Global Economic Crisis of 2008 considerably well and managed to avoid the high inflation and economic uncertainty that plagued many other nations. Celebrating the centenary of the re-discovery of Machu Picchu in 2011, Peru continues to enjoy widespread international attention for its cultural and historical riches.
+
+
+
+
+
+
+
+
+Top 10 Must-Visit Places of Peru
+
+
+
+
+
+
+×
+
+Top 10 Must-Visit Places of Peru
+
+
+
+
+1. Machu Picchu
+
+No matter how many photos you've seen, nothing can prepare you for the reality. Time slips away as you try to uncover the ruins' secrets and marvel at how such grandeur is possible in a place so remote.
+
+2. Cuzco
+
+History comes to life in Cuzco. You can't turn a corner without coming across another reminder of its Inca past. Ruins are everywhere, and even the elegant colonial buildings have been built upon old Inca temples, houses, and markets.
+
+3. Sacred Valley
+
+This fertile valley is packed with Inca sites including the massive fortress of Ollantaytambo. Be sure to come on market day when the laidback villages come to life. The cobbled streets fill with every colour, produce and animal imaginable.
+
+4. Amazon Jungle
+
+Spend mornings watching colourful macaws and monkeys, the afternoon learning about traditional plant usage or spotting crocs in oxbow lakes. Then, at night, get your torch ready to seek out some of the jungle's larger creatures.
+
+5. Lima
+
+Peru's capital is home to unexpected treasures. Dig beneath the city's surface to uncover pre-Columbian temples, a touch of colonial elegance and a huge dose of modern distractions; like the cafe-rich district of Miraflores.
+
+6. Arequipa
+
+The White City, as it's affectionately known, is spectacular. Surrounded by canyons, volcanoes and deserts, the location is perfect for exploring Peru's wild side. But the true beauty of the city is in its elegant buildings, built from white volcanic rock.
+
+7. Colca Canyon
+
+While the canyon is a dramatic sight (it's twice as deep as the Grand Canyon), it's a glimpse of the elusive Andean condor that will really get your heart racing. With a wing span of 3.2m this bird doesn't just glide, it soars.
+
+8. Lake Titicaca
+
+Big enough to house countless island communities, coca smugglers and the entirety of Bolivia's navy, Lake Titicaca is massive. Remnants of ancient cultures are everywhere and many communities live on reed islands as they have done for hundreds of years.
+
+9. Nazca Lines
+
+The Nazca Lines are one of the world's great mysteries. Shapes of spiders, monkeys and birds are drawn into the desert landscape over 500 sq km. The most amazing part? They are only visible from the air.
+
+10. Aguas Calientes
+
+Whether you've just trekked the Inca Trail or travelled by train through the Sacred Valley, Aguas Calientes is the perfect place to stop, soak in a steaming thermal bath and reflect on the adventure so far.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+With rich handicraft traditions on display in all the markets across the country, Peru is a great place to pick up handmade souvenirs at low prices.
+
+It's also a good idea to check with your local customs officials to ensure that you are able to bring some items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Peru
+
+1. Alpaca Wool Clothing
+
+As one of the largest alpaca wool producers in the world, travellers will be able to find alpaca wool clothing almost everywhere in Peru. Beautiful shawls, ponchos and jumpers are the perfect way to keep warm, as Peruvians have traditionally done for centuries.
+
+2. Chullos
+
+The classic hallmark of any backpacker who has travelled through South America - the chullo (knitted hat with ear flaps) might be a bit of a travel cliché but will be a well received as a gift back home.
+
+3. Jewellery
+
+Good quality gold and silver earrings, rings and bracelets are widely available throughout Peru, with classic Inca-style designs proving popular.
+
+
+
+
+
+
+
+
+Festivals and Events in Peru
+
+
+
+
+
+
+×
+
+Festivals and Events in Peru
+
+
+
+
+Inti Raymi
+
+Hundreds of thousands of people gather at the ruins of Sacsayhuaman (just outside of Cusco) each year for this ancient celebration known as the 'Festival of the Sun'. Dating back to the Inca Empire, this ceremony once used to involve animal sacrifices (to appease the Sun God) but these days, historical re-enactments spare the animals.
+
+El Senor de los Milagros
+
+Even though this is one of the most important Catholic rituals in the world, you don't have to be a believer to be moved by the stirring sight of thousands of purple-clad people walking down the streets of Lima in honour of the Lord of Miracles.
+
+La Diablada
+
+Held on the shores of Lake Titicaca, this week-long festival commemorates the liberation of the city and pays respects to the gods of the lake. Expect to see locals dressed up in colourful devil-like costumes parading through the streets to the sounds of traditional music.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Last Days of the Incas
+
+Kim MacQuarrie
+
+The Conquest of the Incas
+
+John Hemming
+
+Aunt Julia and the Scriptwriter
+
+Mario Vargas Llosa
+
+American Chica
+
+Marie Arena
+
+Touching the Void
+
+Joe Simpson
+
+
+
+
+
+
+
+
+Peru travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Peru
+
+
+
+
+
+
+
+
+
+PERU TOURIST VISA
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Not required
+Switzerland: Not required
+United Kingdom: Not required
+United States: Not required
+
+
+
+
+
+
+
+Is tipping customary in Peru?
+
+
+
+
+
+
+
+
+
+While tipping isn't mandatory in Peru, it's customary to add spare change or a small amount to restaurant bills. Although most restaurants and bars may already include a 10% service charge within the bill, feel free to add more if the service was good. Taxi drivers generally don't expect tips.
+
+
+
+
+
+
+
+What is the internet access like in Peru?
+
+
+
+
+
+
+
+
+
+Internet cafes can be found in Peru's large cities and towns frequented by tourists. Internet availability is less widespread in rural and remote areas, so be prepared to disconnect for a while when traveling out of the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Peru?
+
+
+
+
+
+
+
+
+
+You should be able to use your mobile phone in Peru's cities, but prepare for less coverage in remote or mountainous areas. Ensure you have global roaming enabled before leaving your home country.
+
+
+
+
+
+
+
+What are the toilets like in Peru?
+
+
+
+
+
+
+
+
+
+Peru has a mix of flushable toilets and squat toilets, so expect both. It's a good idea to carry your own toilet paper and hand sanitizer, as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Short ride on a public city bus = 1 PEN
+1 hour of internet use in a cyber café = 3 PEN
+Bottle of beer = 4 PEN
+Street cart snack/lunch = 6 PEN
+Lunch in a café = 15 PEN
+Dinner at a nice restaurant = 30 PEN
+
+
+
+
+
+
+
+Can I drink the water in Peru?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Peru. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Peru?
+
+
+
+
+
+
+
+
+
+Credit cards can be used at most top-end hotels, restaurants, shops and other tourist establishments. Expect to pay cash when dealing with smaller vendors, family-run restaurants and market stalls.
+
+
+
+
+
+
+
+What is ATM access like in Peru?
+
+
+
+
+
+
+
+
+
+ATMs can be found in most of Peru's major cities and tourist areas. ATMs are far less common in rural areas and small villages so have enough cash to cover purchases when travelling away from the larger cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Peru?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Peru?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+13 Apr Maundy Thursday
+
+14 Apr Good Friday
+
+1 May Labor Day
+
+29 Jun St. Peter and St. Paul
+
+28 Jul Independence Day
+
+29 Jul Independence Day Holiday
+
+30 Aug Santa Rosa de Lima
+
+8 Oct Battle of Angamos
+
+1 Nov All Saints' Day
+
+17 Nov APEC Public Holiday (Lima & Callao Only)
+
+18 Nov APEC Public Holiday (Lima & Callao Only)
+
+19 Nov APEC Public Holiday (Lima & Callao Only)
+
+8 Dec Immaculate Conception
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Peru go to:
+http://www.worldtravelguide.net/peru/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Peru
+
+Be considerate of Peru’s customs, traditions, religion and culture.
+
+Dress modestly and respectfully when visiting communities, sacred sites and places of worship.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Peru, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Kusimayo
+
+Kusimayo improves the living conditions of children and adults affected by poverty and malnutrition in one of Peru’s poorest regions: the high plains of Puno.
+
+Photo provided by Kusimayo
+
+
+
+
+
+
+
+
+
+
+
+Living Heart
+
+This non-profit organisation helps the Andean women and children of the Sacred Valley area with education, conservation, nutrition and health programs.
+
+Image supplied by Roxana Mori.
+
+
+
+
+
+
+
+
+
+
+
+Project Peru
+
+Project Peru offers food, clothes, shelter, education, health and fun activities to the children living in their children’s refuge in the desert shanty towns of Lima.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

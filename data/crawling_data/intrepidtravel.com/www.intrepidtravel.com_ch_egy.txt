@@ -1,0 +1,4496 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Egypt Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Egypt tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Middle East
+
+Egypt
+
+
+
+Awesome ancient wonders, endless golden sands and atmospheric local souqs make Egypt the ultimate travel destination.
+
+
+From the enigmatic aura of the Sphinx to the imposing glory of the Pyramids, step into the Land of the Pharaohs and discover the exotic charms of evocative Egypt.
+
+
+Top Egypt travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+16 Dec 2017
+
+Jordan & Egypt Express
+
+
+
+Jordan & Egypt Express
+Amman to Cairo
+
+
+
+
+
+
+
+
+
+×
+
+Jordan & Egypt Express
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,230
+
+
+FR1,046
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Egypt trips
+
+
+
+
+
+
+
+
+
+Egypt Adventure
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR980
+
+
+
+
+
+Visit Egypt and adventure along the River Nile through the land of the pharaohs, from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Egypt Experience
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,995
+
+
+
+
+
+Travel to Egypt and experience the history and culture of the land of the pharaohs on a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Egypt & Jordan
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,645
+
+
+
+
+
+Take an adventure holiday through Egypt and Jordan. Visit Cairo, the Pyramids of Giza,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Egypt & Jordan
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR3,840
+
+
+
+
+
+Travel to Egypt and experience the history and culture of the land of the pharaohs on a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Egypt Family Holiday
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR945
+
+
+
+
+
+Travel to Egypt and see the Pyramids and the Great Sphinx in Giza. Cruise down the Nile...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan & Egypt Express
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,045
+
+
+
+
+
+Follow in the footsteps of prophets on an adventure tour through Jordan and Egypt....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan & Egypt Uncovered
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,560
+
+
+
+
+
+Embark on an unforgettable small group adventure through the majestic lands of Jordan...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Egypt
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,405
+
+
+
+
+
+Explore Egypt. Discover Cairo, cruise along the Nile, visit the Pyramids of Giza,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Egypt, Jordan, Israel & the Palestinian Territories
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,895
+
+
+
+
+
+Experience the best of the Middle East across Jordan, Egypt, Israel & Palestine....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Egypt Experience - Abu Simbel Sun Festival
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Travel to Egypt and experience the history and culture of the land of the pharaohs on a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Middle East Discovery
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR4,490
+
+
+
+
+
+Travel from Egypt to Turkey on this magical Middle East Discovery tour. See the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Egypt tour reviews
+
+
+Our Egypt trips score an average of
+4.78 out of 5
+based on 307 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Egypt Adventure,
+October 2017
+
+Francine Dappen
+
+THIS IS NOT A REVIEW.  THIS IS FOR INTREPID STAFF:
+Regarding this feedback form, we suggest that there should a comment box under each question as opposed to only certain ones.  The trouble being that giving an overall rafting when there was an issue with only one hotel/restaurant etc. disallows a higher rating.  In our case you will now need to read these end comments in the “short review” box in order to understand our full review.
+
+
+Comment for the meal rating:
+This tour often didn’t accommodate time to stop for a proper lunch or even a lunch on the go like we had after the pyramids (shawarma or falafel wrap on the go). This resulted in us having to bring snacks which isn’t the healthiest option. Some of us have sensitive stomachs in this regard which resulted in low energy and being hungry.
+
+Comments about the hotels:
+King’s Hotel in Cairo: Other than the roof top which was very nice, this isn’t the best hotel to stay in. The rooms were extremely basic and I would be willing to pay more in order to stay in a nicer hotel. The breakfasts were OK, but too many French fries/crisps and bread. 
+Isis Hotel in Aswan: Very nice hotel. Loved the pool and the breakfast was the best we had anywhere in Egypt. The restaurant overlooking the Nile was lovely.  The location of the hotel is ideal.
+Royal Palace in Luxor: A very basic hotel. Again, I would be willing to pay more in order to stay in a nicer hotel. We didn’t eat here as we ate out on the road to the Valley of the Kings. They did our laundry and it was reasonably priced and cleaned well.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Egypt Experience,
+November 2017
+
+Shane Castleman
+
+A great way to soak up thousands of years of history with the greatest guide ever. Nice group of fellow travellers too!
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Egypt trip reviews
+
+Our Egypt trips score an average of
+4.78 out of 5
+based on 307 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Egypt
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+Cairo vs Alexandria: A guide to Egypt’s two...
+
+
+
+
+
+
+One city is home to the Great Pyramids and the other city is home to the Great...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 14, 2017
+
+
+
+A traveller’s guide to local etiquette in Egypt
+
+
+
+
+
+
+If you’re a first-time visitor to Egypt, it’s important to be aware of a few local...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 07, 2017
+
+
+
+Why a group tour in the Middle East was the...
+
+
+
+
+
+
+By going with a group, I knew my transportation would be insured, my activities...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 17, 2017
+
+
+
+The magic of cruising the Nile, when you’ve...
+
+
+
+
+
+
+The boat was a floating hotel, complete with shops; our cabin was luxurious,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 16, 2017
+
+
+
+What it’s really like to visit Egypt as a solo...
+
+
+
+
+
+
+Some people feel nervous about travelling to Egypt. One traveller gives her best...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 19, 2017
+
+
+
+The 5 best beaches in the Middle East
+
+
+
+
+
+
+We're betting when you think beaches, you don't think Egypt, Israel and Oman....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 04, 2016
+
+
+
+Our guide to Egypt’s Abu Simbel Sun Festival
+
+
+
+
+
+
+It’s one of the more Indiana Jones-style things you can actually do in a world of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 21, 2016
+
+
+
+The changing face of Egypt, Israel & Jordan
+
+
+
+
+
+
+In 1992, I travelled to Egypt, Israel and Jordan with about as much forethought as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 24, 2015
+
+
+
+Wisdom from the wilderness: 7 lessons I learnt...
+
+
+
+
+
+
+In some ways Egypt was the land I’d expected it to be: an exotic green strip...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Egypt travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nile River
+
+
+
+
+Sail down the Nile River on an Egyptian felucca
+
+
+
+
+
+
+Egypt Experience - Abu Simbel Sun Festival, 12 days
+
+
+
+
+
+
+
+
+Egypt Experience, 12 days
+
+
+
+
+
+
+
+
+Explore Egypt & Jordan, 19 days
+
+
+
+
+
+
+
+
+
+
+
+Red Sea
+
+
+
+
+Dive into the warm waters of the Red Sea
+
+
+
+
+
+
+Jordan & Egypt Express, 9 days
+
+
+
+
+
+
+
+
+Explore Egypt, 15 days
+
+
+
+
+
+
+
+
+Egypt Family Holiday, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Alexandria
+
+
+
+
+Discover the ancient wonders of Alexandria
+
+
+
+
+
+
+Explore Egypt, 15 days
+
+
+
+
+
+
+
+
+Explore Egypt & Jordan, 19 days
+
+
+
+
+
+
+
+
+Jordan & Egypt Uncovered, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Cairo
+
+
+
+
+Experience the bustling energy of Cairo
+
+
+
+
+
+
+Egypt Experience, 12 days
+
+
+
+
+
+
+
+
+Explore Egypt, 15 days
+
+
+
+
+
+
+
+
+Egypt Adventure, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Luxor
+
+
+
+
+Visit the massive temples of Karnak in Luxor
+
+
+
+
+
+
+Egypt Experience, 12 days
+
+
+
+
+
+
+
+
+Egypt, Jordan, Israel & the Palestinian Territories , 21 days
+
+
+
+
+
+
+
+
+Middle East Discovery , 24 days
+
+
+
+
+
+
+
+
+
+
+
+Mt Sinai
+
+
+
+
+Hike to the summit of Mt Sinai
+
+
+
+
+
+
+Middle East Discovery , 24 days
+
+
+
+
+
+
+
+
+Discover Egypt & Jordan, 15 days
+
+
+
+
+
+
+
+
+Jordan & Egypt Uncovered, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Khan al-Khalili bazaar
+
+
+
+
+Shop for souvenirs at Cairo's Khan al-Khalili bazaar
+
+
+
+
+
+
+Egypt Adventure, 8 days
+
+
+
+
+
+
+
+
+Middle East Discovery , 24 days
+
+
+
+
+
+
+
+
+Jordan & Egypt Express, 9 days
+
+
+
+
+
+
+
+
+
+
+
+Abu Simbel
+
+
+
+
+Visit the impressive temples of Abu Simbel
+
+
+
+
+
+
+Egypt Experience - Abu Simbel Sun Festival, 12 days
+
+
+
+
+
+
+
+
+Egypt Experience, 12 days
+
+
+
+
+
+
+
+
+Explore Egypt, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Egypt
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Egypt, you may find yourself travelling by:
+
+
+
+
+
+
+
+Camel
+
+A mode of transport that's been used for centuries, riding a camel is a definite must when visiting Egypt. Swaying through the desert sands on a 'ship of the desert' is an unforgettable Egyptian holiday experience.
+
+
+Middle East Discovery
+
+Discover Egypt & Jordan
+
+Egypt Adventure
+
+
+
+
+Accommodation in Egypt
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Egypt you may find yourself staying in a:
+
+
+
+
+
+
+
+Beach hut
+
+Enjoy the simple things in life - ocean views, sea breezes and being away from the crowds - while staying in a basic straw beach hut right near the Red Sea.
+
+
+Middle East Discovery
+
+Jordan & Egypt Express
+
+
+
+
+
+
+
+
+
+
+Desert camp
+
+Travel deep into the White Desert to camp under the stars amid surreal scenery. This is a rare chance to experience the remote wonder and isolation of the Egyptian desert.
+
+
+Explore Egypt & Jordan
+
+Discover Egypt & Jordan
+
+Jordan & Egypt Express
+
+
+
+
+
+
+
+
+
+
+Felucca
+
+Glide down the Nile on a traditional Egyptian felucca; sleep on deck under the stars as the sun slides away for the day - a must-do experience while in Egypt.
+
+
+Middle East Discovery
+
+Discover Egypt & Jordan
+
+Egypt Adventure
+
+
+
+
+
+
+
+
+
+
+Homestay
+
+Be welcomed into the home of a local family and experience the cuisine, culture and customs of Egypt firsthand during your stay. A truly authentic travel experience like no other.
+
+
+
+
+
+Egypt holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Cairo (population 7 million)
+
+Population:
+
+82 million
+
+Language:
+
+Arabic
+
+Currency:
+
+EGP
+
+Time zone:
+
+(GMT+02:00) Cairo
+
+Electricity:
+
+Type C (European 2-pin)
+
+Dialing code:
+
++20
+
+
+
+
+
+
+
+
+
+Best time to visit Egypt
+
+
+
+
+
+
+×
+
+Best time to visit Egypt
+
+
+
+
+Egypt is blessed with lots of sunshine and very little rain. Generally, the hottest months are June to August, and the coolest month is January. Rainfall is negligible, except on the coast, with rain usually occurring during the winter months (December to March).
+
+During the summer months (from June to August), daily temperatures can reach 40 degrees Celsius - perfect for snorkelling and soaking up the sun on the beaches of Sinai, but can prove challenging for some in the crowded streets and souqs of Cairo.
+
+Choose to escape the crowds by travelling from March to May or September to November when the weather is milder, and there's the opportunity to experience Egypt during Ramadan and the celebrations of Eid (which marks the breaking of the fast). If you are planning to travel during Ramadan, it's important to consider that many restaurants and shops will either be closed or operating on reduced hours.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Egypt's culture is a unique blend of antiquity and modernity. Egyptians are very proud of their ancient heritage, and with such iconic monuments, impressive art and unique architecture, it's no wonder Egyptians are as mesmerised as foreigners are.
+
+Just as in ancient times, religion plays a large part in daily life with most Egyptians being either Sunni Muslim or Coptic Christian. Much of life revolves around daily prayer and religious holidays, with Ramadan and Eid being the most important events in the calendar for Muslims. Ornate mosques and historic churches can be found almost everywhere in Egypt, and serve as important places of worship as well as social meeting points.
+
+The influence of modern Western culture is particularly evident in large cities likes Cairo and Alexandria, with television, radio and internet all bringing pop culture, fashion and literature to Egypt. Despite this, Egypt clings strongly to tradition with family still being at the top of most Egyptians' priorities. Loyalty to ones family, respect for elders and honouring ancestors are hallmarks of Egyptian life.
+
+Food is another important part of Egyptian culture with traditional Middle Eastern fare being prepared and served in most family homes, restaurants and markets. Food is also the focal point of most celebrations, as is music - with modern Egyptians keeping folk music traditions alive by playing Arabic instruments like the oud at weddings and other celebrations.
+
+To get the true picture of Egyptian culture and customs, be sure to sample local delicacies, listen to traditional music often played in cafes and restaurants, and chat with locals who wish to share their stories and lives with you. Some Intrepid trips offer the rare chance to stay with a local family - what better way to experience local life?
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Egyptian food is no exception, and with fragrant spices, fresh fruit and vegetables and delicious sweets on offer, culinary adventures are guaranteed. On many Intrepid trips you'll be given the opportunity to dine with a local family - this offers a great chance to see how meals are prepared and learn more about the ingredients.
+
+Things to try in Egypt
+
+1. Seafood
+
+Take the opportunity to tuck into fresh seafood, especially when in coastal regions and cities such as the Red Sea and Alexandria.
+
+2. Fruit
+
+Exotic fruits are cheap and plentiful throughout Egypt - why not try guava, mango or melon from a market or street vendor.
+
+3. Ful Medames
+
+Don't leave Egypt without trying the classic dish of ful medames, which can be traced back to pharaonic times. Consisting of slow-cooked fava beans, served with olive oil, parsley, garlic and lemon juice - add some spice by seasoning with chilli paste and eat with bread.
+
+4. Falafel
+
+A favourite with vegetarians, falafel (fried chickpea balls) are available at markets and from street vendors, and are generally served as a snack.
+
+5. Tea (also known as shai)
+
+An important part of daily life in Egypt, tea is sipped throughout the day and with meals.
+
+6. Coffee
+
+Turkish or Arabic coffee can be found in Egypt, so sit back in a cafe and drink your coffee short, black and sweet like the locals do.
+
+7. Pastries
+
+Delicious, sweet pastries are found in restaurants, markets and cafes in Egypt. Never was there a better time to live by the adage "Life is short, eat dessert first".
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sitting in the north-eastern corner of
+Africa
+and sharing borders with Sudan, Libya and Israel and the Palestinian Territories, much of Egypt's vast land mass is covered by desert sands. Despite this, most of the population lives near the arable land of the mighty Nile River, which offers a thoroughfare for trade, fertile soil for agriculture and water for irrigation.
+
+The Nile is not the only source of water in Egypt - with coastlines on the Mediterranean and Red Seas, Egypt has enough beaches and ports to provide trade routes, support commercial fishing and satisfy locals and tourists with diving, snorkelling and swimming.
+
+Despite the oppressive heat and lack of farmable land, the deserts of Egypt are home to relatively small numbers of traditional Bedouin people, who typically live a nomadic lifestyle and earn an income through the sale of animals such as camels and goats.
+
+The urban areas of Egypt are typically built-up, crowded and smoggy. Cairo, being the most populated city in Africa, is hot, crowded and often clogged with traffic. Yet the unmistakable buzz and vibrant vibe of this city makes it such an enthralling place to visit.
+
+As Egypt becomes more modernised, a collision of the old and the new becomes more apparent. Ancient souqs, historic mosques and heritage buildings share the city with internet cafes, modern skyscrapers and 5 star hotels. In comparison, smaller towns and rural villages in agricultural areas tend to be slower paced, featuring modest, rustic housing, with locals living a more traditional lifestyle.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Recent History
+
+Napoleon Bonaparte, the infamous pint-sized French leader, invaded Egypt in 1798, seeking to set up a French colony. However, not long after, the French were repelled, and Egypt became a part of the Ottoman Empire once again.
+
+From 1882, the British Army occupied Egypt to protect the Suez Canal. Muhammad Ali officially ruled from the early 1800s, and his family and successors continued to rule for decades (alongside and during British occupation) until overthrown by a military coup in 1952.
+
+During World War II, Egypt became a crucial element in Britain's defence. The Italian Army tried to advance into Egypt in 1940 but was stopped by the British Army at Mersa Matruh. Egypt continued to serve as a vital base for British troops during World War II and despite the disruption, Egypt's shopkeepers and retail trade benefitted from the thousands of Allied troops staying in Egypt.
+
+In 1953, Egypt was officially declared a republic and a year later, Colonel Nasser was declared Prime Minister, then President. In 1979, after decades of confrontation with neighbouring Israel, the historic Egypt-Israel Peace Treaty was signed. This agreement made Egypt the first Arab country to officially recognise Israel as a country - a significant step in the peace process. More recently, in February 2011, large scale protests and mass demonstrations resulted in the removal of President Mubarak after decades of autocratic rule.
+
+Early History
+
+Ancient Egypt has been the focus of much fascination, investigation, speculation and intrigue. It's hard to escape the education system without having studied Ancient Egypt in some way. Drawn in by the mighty pyramids, mysterious hieroglyphics, distinct burial rituals and animal-headed gods - scholars, students, historians and travellers are all amazed by this civilisation which has endured cycles of dynastic rule, invasion and natural disasters.
+
+Through key archaeological finds, historians have been able to unravel some of the mysteries of this great land. What is known is that the daily life of the average Egyptian usually involved working in agriculture with the waters of the Nile providing fertile ground for planting of crops. Egyptians usually lived in modest homes with children and domestic pets. Professions were usually inherited - so if your father was a farmer, then so were you.
+
+While most Egyptians led simple lives, dynasties of Pharaohs led lavish lifestyles, with the most well-known being Ramses II, Hatshepsut, Akhenaten, Tutankhamun and Cleopatra. Huge monuments, imposing pyramids, golden artefacts and detailed paintings all hold details about pharaonic rule and succession, as well as commonly held beliefs about religion and the afterlife.
+
+Spanning centuries and full of drama worthy of a soap opera, the epic history of Ancient Egypt is complex and we suggest you read about it before visiting.
+
+
+
+
+
+
+
+
+Top 10 ancient wonders of Egypt
+
+
+
+
+
+
+×
+
+Top 10 ancient wonders of Egypt
+
+
+
+
+1. Grand Designs
+
+The original grand design - monumental and magnificent - the Pyramids of Giza are an impressive achievement in ancient engineering. Towering above the desert sands and standing proudly for centuries, the first glimpse of these stunning structures will render visitors breathless.
+
+2. Stony Enigma
+
+Be captivated by the mysterious aura of the Great Sphinx of Giza. This monolithic mythical beast possesses a lion’s body and a human head - and has sat quietly in the desert sands for eons. Gaze at the Sphinx and try to work out the riddle of its existence.
+
+3. Mighty Nile River
+
+No trip to Egypt is complete without visiting the Nile River - the life force of Egypt that has flowed for centuries. A provider of irrigation, an essential travel route, home to hippos and crocodiles, and now a source of leisure for locals and travellers alike, the Nile is an aquatic link to Egypt’s ancient heritage.
+
+4. Terrific Temples
+
+Discover an enormous open-air museum like no other. The awe-inspiring Temples of Karnak are filled with stately statues, immense columns and gigantic gateways. Explore this intriguing site and be left in no doubt about the brilliance of the ancient Egyptian civilisation.
+
+5. Holy Mountain
+
+Embark on a trek to the top of Mt Sinai and witness an incredible golden sunrise to remember. A place of worship for many faiths, a pilgrimage to Mt Sinai reveals stunning scenery, an ancient monastery and historic chapels. An iconic highlight of Egypt for believers and non-believers alike, Mt Sinai is not to be missed.
+
+6. Double Happiness
+
+Located in the Nile Valley, the unique Temple of Kom Ombo is a ‘double temple’ and a rare archaeological find. Dedicated to two gods, a visit here is a true highlight of an Egyptian escapade. Marvel at the well-preserved wall reliefs, try to decipher the hieroglyphics and honour the craftsmen who created this wonder.
+
+7. Museum Magic
+
+Step into a dazzling world of antiquity at the Egyptian Museum. Be amazed by the glittering treasures recovered from King Tutankhamun’s tomb – with jewellery, furniture, chariots and that famous gold funerary mask, this pharaoh was certainly prepared for the afterlife.
+
+8. Roman Ruins
+
+The Roman ruins of Kom el-Dikka in Alexandria may not be the biggest, but they are certainly among the best-preserved in Egypt, if not the world. Soak up the atmosphere of the Roman amphitheatre and imagine it in all its glory - packed with 800 spectators ready for action.
+
+9. Colossal Characters
+
+Near the modern city of Luxor stand the imposing Colossi of Memnon. These massive stone statues of Amenhotep III, while badly damaged, still maintain an unmistakable air of authority. Stand below them and be dwarfed by the scale of these tremendous figures.
+
+10. The Ancient Heart of Cairo
+
+Wander the cobbled streets of Islamic Cairo and uncover the ancient heart of this chaotic city. Admire mosques, palaces and houses, and peruse the goods on offer at one of the world’s oldest bazaars. Dating back to medieval times, the Khan al-Khalili bazaar is where people have traded goods for centuries.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Exploring the labyrinthine markets of Egypt is a must-do for travellers. Be prepared to be overwhelmed by the sights, sounds and smells! Look beyond the shops selling cheap, mass-produced tourist trinkets, and delve deeper to discover quality wares.
+
+Most importantly, have fun and don’t forget to haggle for a good price. It's also a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Egypt
+
+Chunky silver jewellery
+
+Hand made leather bags, boots and belts
+
+Cotton scarves in a kaleidoscope of colours
+
+Authentic papyrus (watch out for fakes made from banana leaves)
+
+Boho-style embroidered bedding & cushion covers
+
+Handcrafted backgammon boards and jewellery boxes
+
+Exquisite perfume bottles made from hand-blown glass (pack carefully)
+
+Artisan-made alabaster pots and homewares
+
+
+
+
+
+
+
+
+
+Festivals and events in Egypt
+
+
+
+
+
+
+×
+
+Festivals and events in Egypt
+
+
+
+
+Ramadan and Eid
+
+During the ninth and holiest month in the Islamic calendar, Ramadan is observed by most in Egypt and is thought to be a time of spiritual rejuvenation. For this month, Muslims fast from sunrise to sunset - refraining from eating and drinking during daylight hours. Eid marks the end of fasting with three days of feasting and celebration.
+
+Abu Simbel Festival
+
+During the Abu Simbel Festival, eager crowds gather at Abu Simbel's Temples of Ramses II to watch the sun's rays reach the innermost chambers of the temple. Only twice a year do the four stone gods that reside within the temple receive sunlight! Food, music and dance follow, yet it's the moment of witnessing the early morning illumination of the temple that's the true highlight.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Cairo Trilogy
+
+Naguib Mahfouz
+
+A Thousand Miles Up the Nile
+
+Amelia Edwards
+
+In an Antique Land
+
+Amitav Ghosh
+
+The Pharaoh's Shadow: Travels in Ancient and Modern Egypt
+
+Anthony Sattin
+
+Daughters of Isis: Women of Ancient Egypt
+
+Joyce Tyldesley
+
+
+
+
+
+
+
+
+Egypt travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Egypt?
+
+
+
+
+
+
+
+
+
+Most nationalities require a visa to enter Egypt as a tourist. Visas are easily attainable on arrival at Cairo airport for most nationalities for US$15 paid in cash, but please check with your travel agent or embassy before departure. On arrival at Cairo airport you buy your visa at any of the banks before proceeding to immigration. You'll be given a stamp that you then need to put into your passport yourself. A single entry visa is valid for three months from date of issue and entitles the bearer to one month in Egypt. Multiple entry visas are not available at the airport or any border crossings.
+
+
+
+
+
+
+
+Is tipping customary in Egypt?
+
+
+
+
+
+
+
+
+
+Tips are appreciated by Egyptians so if you are satisfied with the services provided, tip as appropriate. Generally, add 5-10% to cafe and restaurant bills, whereas loose change is an acceptable tip for food purchases from street vendors and markets. It's also a good idea to tip local guides and drivers - US$2-4 per day is acceptable.
+
+
+
+
+
+
+
+What is the internet access like in Egypt?
+
+
+
+
+
+
+
+
+
+Internet access in Egypt is growing, with internet cafes and Wi-Fi hot spots becoming increasingly more common in large cities, especially Cairo.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Egypt?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in Egypt, especially in large cities. Coverage may not be available in more remote areas, especially if travelling through the desert. Ensure you have global roaming activated with your mobile carrier before you leave home if you wish to use your mobile while in Egypt.
+
+
+
+
+
+
+
+What are the toilets like in Egypt?
+
+
+
+
+
+
+
+
+
+You will have to adjust to different standards of hygiene and sanitation while in Egypt. The standard toilet is of the squat variety and this may take some getting used to, although western-style toilets can be found in some tourist areas.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Egypt is a relatively cheap place to visit, although visits to monuments and museums - while worthwhile experiences - can be expensive. Here's what you can roughly expect to pay for a:
+
+Pastry = 5 EGP
+Cup of coffee = 5 EGP
+Beer = 10 EGP
+Short taxi ride = 10 EGP
+
+
+
+
+
+
+
+Can I drink the water in Egypt?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Egypt. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found, some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Egypt?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted in tourist shopping areas and large hotels, but are less commonly accepted by smaller vendors in remote towns and rural areas. Make sure you carry enough cash for purchases since credit cards aren't always an option in Egypt.
+
+
+
+
+
+
+
+What is ATM access like in Egypt?
+
+
+
+
+
+
+
+
+
+ATMs are common in large cities such as Cairo and Alexandria and are found in and near shopping centres, tourist areas and 5-star hotels. ATMs are far less common in rural areas and smaller towns so you're advised to be prepared for this by having enough cash before travelling out of the city.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Egypt?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Egypt?
+
+
+
+
+
+
+
+
+
+7 Jan Eastern / Coptic Christmas
+
+25 Jan 25th of January Revolution - Police Day
+
+16 Apr Coptic Easter
+
+17 Apr Sham El Nessim
+
+25 Apr Sinai Liberation Day
+
+1 May Labor Day
+
+25 Jun Eid El Fitr *
+
+26 Jun Eid El Fitr *
+
+23 Jul Revolution Day
+
+31 Aug Wakfet Arafat
+
+1 Sep Eid El Adha *
+
+2 Sep Eid El Adha *
+
+21 Sep Islamic New Year
+
+6 Oct Armed Force Day
+
+30 Nov Prophet Mohamed's Birthday *
+
+* subject to changes
+
+Please note these dates are for 2017. For a current list of public holidays in Egypt go to:
+http://www.worldtravelguide.net/egypt/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Egypt
+
+Be considerate of Egypt's customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+Ask permission and remove your shoes before entering a place of worship.
+
+Ramadan is the fasting month for all Muslims. During this month, no food, drink or smoking is permitted during daylight hours. While non-Muslims visiting Egypt aren't expected to fast, it's recommended to try to avoid eating, drinking or smoking in public during daylight hours.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+If riding an animal, please check that it is healthy, well-fed and cared for.
+
+Beachwear is fine for when swimming at beaches, in rivers or when sailing - topless sunbathing is not. Ensure to cover up when leaving the beach and before entering towns or villages.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+Try to avoid using plastic bags and packaging.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Egypt, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Educate-me
+
+Educate-Me operates in Konayyesa, a poor and under-developed neighbourhood close to Cairo. The community has only limited services and basic housing. Families either don’t educate their children at all, or may send one male child to school. Educate-Me provides the schooling that is lacking in the local community.
+
+Photo provided by Educate-me
+
+
+
+
+
+
+
+
+
+
+
+Animal Care in Egypt (ACE)
+
+This animal hospital on the outskirts of Luxor treats, rehabilitates and feeds thousands of mistreated donkeys, mules, dogs, camels and other animals. Made up of a team of dedicated vets and volunteers, ACE also educates local people on appropriate animal care and welfare.
+
+Image supplied by Julie Hunter.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

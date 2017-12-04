@@ -1,0 +1,5781 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal Tours, Treks & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Nepal
+
+
+
+Sitting on the spine of the world, sandwiched between the superpowers of China and India, you’ll find Nepal.
+
+
+A tiny Himalayan country where Sherpa still trudge the mountain paths and prayer flags crisscross the sky, their fluttering Buddhist mantras snatched on the breeze. We’re not meant to play favourites, but when you’ve been running Nepal tours for nearly three decades, the country kind of gets under your skin. Follow our leaders up to Basecamp, trek the rhododendron forests of the Annapurna, track rhino through the Chitwan jungle or stuff your face with momos in the warren-like streets of Thamel. Whichever Nepal trip you choose, we promise you one thing: you’ve never been anywhere like this.
+
+
+Top Nepal travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+3 Jan 2018
+
+Everest Base Camp
+
+
+
+Everest Base Camp
+Kathmandu to Kathmandu
+
+
+
+
+
+
+
+
+
+×
+
+Everest Base Camp
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,430
+
+
+FR1,216
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Annapurna Sanctuary
+
+
+
+Annapurna Sanctuary
+Kathmandu to Kathmandu
+
+
+
+
+
+
+
+
+
+×
+
+Annapurna Sanctuary
+
+
+
+
+
+
+
+
+
+16
+
+
+FR1,125
+
+
+FR956
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Jan 2018
+
+Annapurna Explorer
+
+
+
+Annapurna Explorer
+Kathmandu to Kathmandu
+
+
+
+
+
+
+
+
+
+×
+
+Annapurna Explorer
+
+
+
+
+
+
+
+
+
+16
+
+
+FR1,280
+
+
+FR1,088
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Nepal trips
+
+
+
+
+
+
+
+
+
+Everest Base Camp
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,215
+
+
+
+
+
+Go trekking in Nepal on an adventure that takes you to Mt Everest Base Camp. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Annapurna Explorer
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,088
+
+
+
+
+
+Go trekking in Nepal on an adventure that takes you around the Annapurna Circuit. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Delhi to Kathmandu
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,575
+
+
+
+
+
+Travel to India and Nepal on a tour from Delhi to Kathmandu. Visit the Taj Mahal of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Annapurna Sanctuary
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR956
+
+
+
+
+
+Embark on a 16-day Annapurna trekking experience in Nepal. Cross the Himalayas and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kathmandu to Delhi
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,417
+
+
+
+
+
+Take a tour of Nepal and India from Kathmandu to Delhi. Visit the birthplace of Buddha...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Everest Base Camp & Gokyo Lakes
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR1,925
+
+
+
+
+
+Take the ultimate trek. Walk in the Himalayas surrounded by some of the most incredible...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of India & Nepal
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,196
+
+
+
+
+
+Take a tour of India and Nepal, travelling from Delhi to Agra, Jaipur, Orchha, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Nepal
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,180
+
+
+
+
+
+Travel from charismatic Kathmandu to some of Nepal’s hidden gems. Explore medieval...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Nepal
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,070
+
+
+
+
+
+Journey around Nepal from Kathmandu to Pokhara and Bandipur, meet the creatures of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Everest in Full Picture - Basix
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR1,075
+
+
+
+
+
+Travel to Nepal and visit Kathmandu before venturing out into the Nepalese countryside...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kathmandu to Mumbai Overland
+
+
+
+
+
+
+
+
+
+31 Days
+
+
+From
+FR3,226
+
+
+
+
+
+Travel Overland from Kathmandu to Mumbai and see why India and Nepal are two of the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tamang Heritage & Langtang Valley Trek
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,075
+
+
+
+
+
+Explore Tamang villages of Briddim and Gatlang, experience an overnight homestay and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Chitwan Extension
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR445
+
+
+
+
+
+Travel to Nepal and visit the Chitwan National Park for a spectacular wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Inside-Out Kathmandu
+
+
+
+
+
+
+
+
+
+4 Days
+
+
+From
+FR355
+
+
+
+
+
+Travel to Nepal and visit Kathmandu for a spectacular Himalayan experience. Trek from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal and Bhutan Journey
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR5,080
+
+
+
+
+
+Bhutan is the little secret of Asia. Overshadowed and nestled between China and India,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India and Nepal
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,585
+
+
+
+
+
+Beginning in the hustle and bustle of Delhi, travel through Jaipur, Varanasi, Bandipur,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tibet Uncovered
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,395
+
+
+
+
+
+Enjoy an adventure travel experience on a round trip from Kathmandu. Tour across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tibet Uncovered
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,295
+
+
+
+
+
+Enjoy an adventure travel experience on a round trip from Kathmandu. Tour across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal: Hike, Bike & Raft
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,240
+
+
+
+
+
+Discover Nepal on this active Himalayan adventure combining trekking, mountain-biking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Everest & Annapurna
+
+
+
+
+
+
+
+
+
+31 Days
+
+
+From
+FR2,630
+
+
+
+
+
+Journey out from Kathmandu to the rugged Himalaya. Follow the footsteps of Hillary up...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal & Bhutan Journey
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR5,710
+
+
+
+
+
+Journey into the heart of Nepal and experience the colourful sights and culture of this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+India & Nepal
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR4,555
+
+
+
+
+
+Beginning in the hustle and bustle of Delhi, travel through Jaipur, Varanasi, Bandipur,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Himalayan Teenage Adventure
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,596
+
+
+
+
+
+Experience trekking in the Himalayas with an experienced guide and explore the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Walking Annapurna
+
+
+
+
+
+
+
+
+
+5 Days
+
+
+From
+FR355
+
+
+
+
+
+Travel to Nepal and hike the Annapurnas. Travel from Pokhara to Tanting, trekking to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kathmandu to Delhi Overland
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR2,657
+
+
+
+
+
+Join Intrepid on the ultimate adventure travel experience in Nepal and India. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kolkata to Kathmandu Overland
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,608
+
+
+
+
+
+Travel from Kolkata to Kathmandu on this captivating journey through India and Nepal....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal & India Overland
+
+
+
+
+
+
+
+
+
+82 Days
+
+
+From
+FR7,841
+
+
+
+
+
+Join Intrepid on the ultimate adventure travel experience in Nepal and India. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kolkata to Kathmandu (via Bhutan) Overland
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,989
+
+
+
+
+
+Discover the monasteries and tea plantations of the Himalayas. From Kolkota in India to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Nepal tour reviews
+
+
+Our Nepal trips score an average of
+4.86 out of 5
+based on 736 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Experience Nepal,
+November 2017
+
+Catrin Deck
+
+Perfect trip to experience various sides of Nepal in just 10 days. Hiking, rafting, culture, cities - a bit of everything. Highly recommended, I had an unforgettable time.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Everest Base Camp,
+November 2017
+
+richard pfeffer
+
+Everest Base Camp was a challenging and tough trek to unique part of the world....the experienced local guides made the journey in reach of everybody within the group. Aside from putting on our boots and "stuffing" our sleeping bags, there was not too much else to worry about.
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Nepal trip reviews
+
+Our Nepal trips score an average of
+4.86 out of 5
+based on 736 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Nepal
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2017
+
+
+
+Two Intrepid leaders take out Gold & Bronze at...
+
+
+
+
+
+
+It takes a pretty special person to not only bring a place to life, but to also...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 02, 2017
+
+
+
+More than momos: A guide to Nepali cuisine
+
+
+
+
+
+
+If you ask anyone about Nepali cuisine, they’re sure to mention momos and dal bhat...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 30, 2017
+
+
+
+Beyond Base Camp: 6 amazing destinations in Nepal
+
+
+
+
+
+
+It’s a shame to only visit Nepal for its main claim to fame, Everest. The tallest...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 12, 2017
+
+
+
+How we’re stepping up the fight against...
+
+
+
+
+
+
+Who wouldn’t want to help an orphaned child? Unfortunately, our desire to help can...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 14, 2017
+
+
+
+What to expect on a trek to Everest Base Camp
+
+
+
+
+
+
+Ready for the climb of your life? Here's what to know before you take on a trek to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 24, 2017
+
+
+
+My incredible meeting with a hermit on a Nepal...
+
+
+
+
+
+
+The snow-capped Tibetan mountains loomed up in the far distance as we trekked...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 24, 2017
+
+
+
+‘Compared to the beauty of the country, the...
+
+
+
+
+
+
+A year ago, it was Nepal's plea for help that drew me there. Today, it's the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 12, 2017
+
+
+
+Why we’re rethinking orphanage tourism
+
+
+
+
+
+
+Most travellers, donors and volunteers just want to help, but it's an industry...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 28, 2016
+
+
+
+7 hot travel spots to check out in 2017
+
+
+
+
+
+
+Featuring the hottest – and coolest – destinations on earth. How many have you be...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 06, 2016
+
+
+
+How to do Nepal during monsoon season
+
+
+
+
+
+
+If somebody like me – a giant baby when it comes to any heat whatsoever – can...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2016
+
+
+
+Meet the woman who just finished a marathon…on...
+
+
+
+
+
+
+So now I have completed my first marathon, which just also happens to be the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 11, 2016
+
+
+
+Annapurna vs Everest. Your definitive trekking...
+
+
+
+
+
+
+It's the choice facing every Nepalese adventurer: Annapurna vs Everest. Whose...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 07, 2016
+
+
+
+Trekking Everest with a group tour sceptic
+
+
+
+
+
+
+I learnt to respect both the path we tread and those with whom we shared it. So...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+6 reasons you should think twice about...
+
+
+
+
+
+
+Orphanage tourism is what happens when good intentions and reality don’t quite...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2016
+
+
+
+Nepal one year on: a post-quake journey with...
+
+
+
+
+
+
+Nepal’s message is loud and clear; it’s open, it’s safe, it’s beautiful, and it’s...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2016
+
+
+
+A Sherpa’s story: what it was like to survive...
+
+
+
+
+
+
+On the day the quake hit Everest we were having a late breakfast in one of the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 12, 2016
+
+
+
+Nepal Now: the best Instagram shots, one year...
+
+
+
+
+
+
+We trawled the net and found the photos travellers are taking right now, right...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 11, 2016
+
+
+
+Think you’re fit? Meet the woman training for a...
+
+
+
+
+
+
+Trekking to Everest Base Camp had always been one of my life time dreams. Running...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 03, 2016
+
+
+
+Meet Dawa Sherpa, the man who climbed Everest....
+
+
+
+
+
+
+Only 29 years old, Intrepid ops-manager Dawa is already a Himalayan legend. This...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 20, 2016
+
+
+
+Meet Kathmandu’s hidden artisans, the...
+
+
+
+
+
+
+Our taxi pulls up outside some rusty wrought iron gates. Inside is one of Nepal’s...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 23, 2016
+
+
+
+Help us rebuild an earthquake-damaged school in...
+
+
+
+
+
+
+We’re helping raise money for Khagendra New Life Special Education Secondary...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 26, 2016
+
+
+
+We catch up with the director of ‘Sherpa’, the...
+
+
+
+
+
+
+Visually stunning and deeply political, Sherpa documents the changing...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 10, 2015
+
+
+
+Mend it like Beckham: Intrepid works with...
+
+
+
+
+
+
+Intrepid Travel teams up with Unicef to bring David Beckham to Nepal!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 07, 2015
+
+
+
+Check out the stunning photo zine that’s going...
+
+
+
+
+
+
+Professional photographer Melissa Findley was in Cambodia when she heard the news...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 22, 2015
+
+
+
+Photo series: We sent a camera crew to Nepal.
+
+
+
+
+
+
+You've never seen Nepal like this before.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2015
+
+
+
+Want to WIN a professional photography...
+
+
+
+
+
+
+Listen up, aspiring photographers/photo journalists/anyone with a pulse. This is...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 27, 2015
+
+
+
+Rural resilience: on-the-ground stories from...
+
+
+
+
+
+
+It’s a long uphill climb but smiles are back on innocent faces and time it seems...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 27, 2015
+
+
+
+Nepal four months on: this is where your...
+
+
+
+
+
+
+Four months on from the quake, we thought we’d take stock and show you exactly...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 20, 2015
+
+
+
+What was it like to live through the Nepal...
+
+
+
+
+
+
+How a regular traveller suddenly found himself in the middle of a disaster zone.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 13, 2015
+
+
+
+Nepal festival guide: five Himalayan parties...
+
+
+
+
+
+
+Time your Nepal trip just right and you could have the ultimate mountain send-off ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 24, 2015
+
+
+
+It’s official: Annapurna is safe for travellers...
+
+
+
+
+
+
+Nepal's Annapurna trail is officially open for travellers. Here's the scoop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 23, 2015
+
+
+
+Nepal update: a letter from our co-founder
+
+
+
+
+
+
+Having just returned from visiting the Nepalese Himalayas, Darrell Wade (Intrepid...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 21, 2015
+
+
+
+We sent a team deep into the Nepalese Himalayas...
+
+
+
+
+
+
+For anyone interested in the reality of post-earthquake life in Nepal, or for any...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 15, 2015
+
+
+
+Nepal in pictures: incredible photos taken...
+
+
+
+
+
+
+Photographer Remy Hoehener and his wife were there on the 25th of April when the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 28, 2015
+
+
+
+“Tourism creates jobs, jobs support families.”...
+
+
+
+
+
+
+Nicholas Cowie lives with his wife and children in Budhanilkantha, Kathmandu. He...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 26, 2015
+
+
+
+The power of namaste: why we love Nepal
+
+
+
+
+
+
+We’ve been travelling to Nepal for decades, quite literally. Our office is full of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 17, 2015
+
+
+
+How to prepare for your trekking holiday: a 7...
+
+
+
+
+
+
+Sure, you can rock up at the foot of Mt Kilimanjaro with nothing but a song in...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 16, 2015
+
+
+
+Planning a trekking holiday? Here’s the only...
+
+
+
+
+
+
+Trekking may just seem like walking for a long time up and down hills (and to a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 16, 2014
+
+
+
+Partying like it’s 2070 in Nepal
+
+
+
+
+
+
+Stepping off the plane into the midnight air of Kathmandu, a wave of excitement r...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 29, 2014
+
+
+
+6 easy tips for your Nepal trek
+
+
+
+
+
+
+Here are 6 easy tips to help you prepare for your Nepal trek with minimum pain bu...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nepal travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kathmandu
+
+
+
+
+Be swept up in the warmth and vibrancy of Kathmandu
+
+
+
+
+
+
+Kathmandu to Delhi, 15 days
+
+
+
+
+
+
+
+
+Delhi to Kathmandu, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Chitwan National Park
+
+
+
+
+Go on safari in the Chitwan National Park
+
+
+
+
+
+
+Kathmandu to Delhi, 15 days
+
+
+
+
+
+
+
+
+Delhi to Kathmandu, 15 days
+
+
+
+
+
+
+
+
+Nepal & Bhutan Journey, 18 days
+
+
+
+
+
+
+
+
+
+
+
+Himalayas
+
+
+
+
+Discover the raw beauty of the Himalayas
+
+
+
+
+
+
+Everest Base Camp, 15 days
+
+
+
+
+
+
+
+
+Everest Base Camp & Gokyo Lakes, 19 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Nepal
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Nepal, you may find yourself travelling by:
+
+
+
+
+
+
+
+Raft
+
+Thrill seekers will enjoy getting active while river-rafting in Nepal.
+
+
+Experience Nepal
+
+
+
+
+
+
+
+
+
+
+Jeep
+
+Discover Nepal's national parks aboard a jeep made to tackle the rough terrain and maximise wildlife viewing opportunities.
+
+
+India & Nepal
+
+Annapurna Sanctuary
+
+Walking Annapurna
+
+
+
+
+
+
+
+
+
+
+Canoe
+
+Paddling a canoe through the pristine waterways of Nepal is a fun and active way to get to know the Nepalese countryside.
+
+
+Chitwan Extension
+
+
+
+
+Accommodation in Nepal
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Nepal you may find yourself staying in a:
+
+
+
+
+
+
+
+Teahouse Lodge
+
+Experience Nepalese hospitality in a traditional setting while staying in character-filled teahouses - a hallmark of travel in rural Nepal.
+
+
+
+
+
+
+
+
+
+
+
+Camping
+
+Rest your weary trekking legs and relish the beauty of the countryside while camping in remote Nepal.
+
+
+
+
+
+Nepal holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Kathmandu (population 700,000)
+
+Population:
+
+29.5 million
+
+Language:
+
+Nepali
+
+Currency:
+
+NPR
+
+Time zone:
+
+(GMT+05:45) Kathmandu
+
+Electricity:
+
+Type C (European 2-pin) Type D (Old British 3-pin) Type M (see D)
+
+Dialing code:
+
++977
+
+
+
+
+
+
+
+
+
+Best time to visit Nepal
+
+
+
+
+
+
+×
+
+Best time to visit Nepal
+
+
+
+
+Nepal's climate is primarily temperate, with some tropical and alpine regions. From June until August the monsoon hits, making it too wet and humid for trekking. The post-monsoon period from September to November is rice-harvesting season and is characterised by lush vegetation, clean air and excellent mountain views. Days are warm and sunny, although nights become increasingly cool. This is the start of the trekking season, which runs until May. Winter (December to February) is dry and clear with temperatures dropping below freezing at high altitudes, although in Kathmandu, it can still sometimes reach a pleasant 25 C. Spring (March to May) is warmer and is a particularly beautiful time to visit as the rhododendrons and the orchids are in flower.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+With more than 30 different ethnic groups and a wide range of religions and language dialects, Nepalese society is rich in diversity. With Indian, Tibetan, Chinese and Mongolian influences, Nepalese food, clothing, customs and music vary, depending on what area you're travelling in and what ethnicity people belong to or identify with. Hinduism is the dominant religion, followed by Buddhism. Standing alongside these religions, there are also small populations of people who follow Islam and Christianity. Simultaneously, animist beliefs and belief in spirits is common throughout Nepal, particularly within rural communities. Like India, the caste system exists in Nepal, as does the custom of arranged marriage. As one of the least urbanised countries in the world, life differs greatly between the rural and city-dwelling populations, with rural people largely living a very simple, traditional life - slow-paced, village-based, in connection to their family and local community. Visitors will be charmed by the hospitality of Nepalese people, who are generally very friendly and welcoming of travellers.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world. With Tibetan, Chinese and Indian influences, Nepalese food is flavoursome without being too spicy, filling without being rich and reasonably priced for travellers on a budget.
+
+Things to try in Nepal
+
+1. Kothey
+
+These fried or steamed dumplings are usually filled with meat or cheese. Comparable to Tibetan momos, kothey are flavoursome snacks that can usually be bought cheaply from street stalls or markets.
+
+2. Dal
+
+Popular with vegetarians and vegans, this lentil soup is usually served with rice and found almost everywhere in Nepal. A safe yet tasty choice for everyone.
+
+3. Masu
+
+This spiced meat curry will usually consist of chicken, buffalo or mutton, as beef hardly features on the menu in Nepal for religious reasons.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Landlocked Nepal shares borders with
+China
+and
+India
+and is home to a wide range of landscapes and habitats. Possessing the world's highest mountain, much of Nepal's land is dominated by hills and mountain ranges. Much of the rest of the country is known as the Terai region, characterised by forests, plains, marshes and scrub. While Kathmandu is a busy city with a population of upwardly mobile residents, most of Nepal's people are rural-dwellers, with more than 80% of Nepalese people living in small towns or villages.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Nepal has been inhabited by people for more than 2,500 years, with evidence suggesting tribes of mountain-dwelling people moved to the area from China and other Central Asian regions. Due to a lack of archaeological evidence, little is known about the early periods of history in Nepal, with legend and folklore providing the backdrop to this kingdom of mystery. Ruled early on by the Kirati Dynasty, Nepal continued to be ruled by a succession of dynasties until the Malla Dynasty emerged in the 12th century. During this time, the kingdom expanded rapidly and widely before evolving into small communities with local rule. By the 15th century many temples and palaces had been built in Nepal, some of which are still in existence either as functioning temples or UNESCO World Heritage sites. The kingdom of Nepal was unified by King Shah in 1768, and went on to sign commercial treaties with Britain in 1792 and 1816 after hostilities with the British East India Company.
+
+Recent History
+
+Nepal held its first elections in 1959, but with the king dissolving parliament and banning political parties soon after, Nepal's monarchy retained power. After decades of pro-democracy movements, Nepal was finally declared a democratic republic in 2008, with Nepal's monarchy being removed from power after ruling for more than 240 years. Nepal celebrated its Year of Tourism in 2011, with arrivals increasing year upon year since 2006 due to increased infrastructure, expansion of air travel and the enduring popularity of the Himalayas and mighty Mount Everest.
+
+
+
+
+
+
+
+
+Top 10 Must-Visit Places of Nepal
+
+
+
+
+
+
+×
+
+Top 10 Must-Visit Places of Nepal
+
+
+
+
+1. Bhaktapur
+
+This ancient, cultural gem draws people in with temples, grand palaces, colourful festivals, beautiful art and royal history. Walking the car, tuk tuk and rickshaw-free streets is a pleasant change from the electric energy of Kathmandu.
+
+2. Langtang National Park
+
+Featuring everything from tropical rainforest to perennial ice, Langtang National Park is an example of Mother Nature at her most extreme. With so much geographic diversity, it's not wonder you'll be able to spot a menagerie of creatures including red pandas, musk deer, rhesus monkeys and Himalayan black bears. Langtang is simply unmissable!
+
+3. Kathmandu
+
+Nepal's busy capital is an epicentre of trade, tourism and history. Acting as a launching point for international visitors, Kathmandu is a handicrafts hot spot, hippy hangout, travellers' rest stop and artistic enclave all at once.
+
+4. Pokhara
+
+Pretty Pokhara offers travellers attractive vistas, tranquil ambience and views of three of the highest mountains in the world. Lakes, waterfalls and canyons ensure visitors are well rewarded for the effort.
+
+5. Bandipur
+
+The hilltop town of Bandipur was once a very prosperous trading centre, and is now popular with tourists for its old-world charm, quiet atmosphere and nearby national park teeming with wildlife.
+
+6. Royal Chitwan National Park
+
+A conservation success story, this park has managed to preserve one of the most unique ecosystems in the world. Home to one-horned rhinos, wild elephants, hyenas, leopards and more than 450 species of birds, visitors will delight in the thrilling wildlife-spotting opportunities here.
+
+7. Annapurna Range
+
+This popular trekking region can lay claim to some of the most beautifully treacherous peaks in the world. Surrounding valleys of green fields, wildflower-studded meadows and lowland villages just add to the stunning views on offer.
+
+8. Namche Bazaar
+
+Once a trading post, now a popular stopover for Everest trekkers, the small settlement of Namche Bazaar is a fascinating place to spend a few days acclimatising. With yaks, sherpas, small cafes, bakeries and a vibrant weekly market, Namche Bazaar is a microcosm of Everest-life.
+
+9. Nuwakot
+
+Experience an authentic slice of rural Nepal in Nuwakot. Organic farms, lush terraces, fresh mountain air and friendly locals make this idyllic country hideaway a rare find.
+
+10. Everest Base Camp
+
+Sherpas, yaks, travellers, climbers, teahouses and tent villages - nothing beats the electric energy of Everest Base Camp. All have come to either tackle the mighty mountain or stand in its epic wake, either way it's a privilege and the experience of a lifetime.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Arguably, the most interesting shopping in Nepal can be found in Kathmandu - with its vibrant local artistic community populating the markets and laneway shops with colourful art and handicrafts.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring some items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Nepal
+
+1. Prayer Flags
+
+You don't have to be a spiritual person to appreciate the beauty of vibrant prayer flags. Take some home to inject a bit of Nepal into your home or backyard.
+
+2. Scarves and Wraps
+
+Travellers will be able to find top-quality cashmere in the boutiques and markets of Nepal, so take the chance to stock up on colourful scarves, pashminas and wraps at good prices.
+
+3. Buddhist Art
+
+Beautifully painted, coloured thankas and mandalas are commonly found in the markets and shops of Kathmandu and make a meaningful souvenir to take back home.
+
+
+
+
+
+
+
+
+Festivals and Events in Nepal
+
+
+
+
+
+
+×
+
+Festivals and Events in Nepal
+
+
+
+
+Phalgun Festivals
+
+Kathmandu explodes into a whirlpool of colour, dance, music and rhythm with the annual Phalgun festivals - Losar, Shivaratri and Holi. Expect everything from public bathing ceremonies to people committing extreme feats of weight lifting with their body parts! With Tibetan rice wine flowing and an amazing array of festive food on offer - this is a great time to be in Kathmandu.
+
+Indra Jatra
+
+This eight-day festival held in Kathmandu features ceremonies, dancing and displays of spirituality, but none of these events compare to the spectacle of the third day when Kumari (the living goddess) tours the city streets aboard a chariot. Other popular gods also come out to play and parade, as masked dancers perform in Durbar Square in this exceptional display of local culture.
+
+Mani Rimdu Festival
+
+Offering a rare chance to observe the Sherpa culture of the Everest region, this festival held at Tengboche Monastery features days of meditation cycles, religious ceremonies, masked dances and parades. This holy time for Buddhists sees locals travel by foot to receive blessings en masse against a stunning Himalayan backdrop.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Into Thin Air
+
+Jon Krakauer
+
+The Snow Leopard
+
+Peter Matthiessen
+
+Little Princes
+
+Conor Grennan
+
+Arresting God in Kathmandu
+
+Samrat Upadhyay
+
+Dark Summit: The True Story of Everest's Most Controversial Season
+
+Nick Heil
+
+
+
+
+
+
+
+
+Nepal travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Nepal?
+
+
+
+
+
+
+
+
+
+NEPAL:
+All foreign nationals (except Indians) require a visa to enter Nepal. Visas are obtainable from embassies abroad on arrival at Tribhuvan International Airport and at some land borders (including borders with India and Tibet).
+
+Getting a visa at the airport can sometimes take time due to long queues. There have been instances when passengers were asked to show return flight tickets. You will also need to provide two passport photos and the following fees in US dollars cash. Other currencies are also accepted although rates may differ. The following costs were correct at time of writing:
+
+- Multi entry visa valid for 15 days - US$25
+- Multi entry visa valid for 30 days - US$40
+- Multi entry visa valid for 90 days - US$100
+
+Please note if you are staying in Nepal for less than 24 hours while in transit a transit visa can be issued on presentation of your international flight ticket, there is a nominal charge of US$5 and one photo is required.
+
+Your visa application form may require you to state the dates on which you enter and exit that country. Please note we suggest you list your date of entry a few days before, and date of exit a few days after, your intended dates in case you encounter any delays or problems en route. To help calculate the exact dates of these crossings we have found the website www.timeanddate.com to be very useful.
+
+
+
+
+
+
+
+Is tipping customary in Nepal?
+
+
+
+
+
+
+
+
+
+While tipping isn't mandatory in Nepal, it's considered polite to leave service workers in restaurants and cafes a 10% tip if a service charge hasn't already been included in the bill.
+
+
+
+
+
+
+
+What is the internet access like in Nepal?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access the internet in large cities like Kathmandu. Smaller towns, isolated areas and rural villages may have limited to no access, so prepare to disconnect when leaving the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Nepal?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally good in urban areas, but can be patchy and less reliable in rural and mountainous areas. Ensure global roaming is activated on your phone before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Nepal?
+
+
+
+
+
+
+
+
+
+Squat toilets are the most common toilets in Nepal. Always carry your own toilet paper and soap or hand sanitiser, as they aren't usually provided.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Cup of tea/chai = 70 NPR
+Bottle of beer = 200-300 NPR
+Simple lunch = 200 NPR
+Simple dinner = 400-500 NPR
+
+
+
+
+
+
+
+Can I drink the water in Nepal?
+
+
+
+
+
+
+
+
+
+It's not recommended to drink the tap water in Nepal. Filtered water is a better option, try to use a refillable canteen or water bottle rather than buying bottled water. Remember to avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Nepal?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by modern hotels, restaurants and medium-large shops in tourist areas. Smaller shops, cafes, market stalls and places in remote areas probably won’t have facilities that support credit cards, so ensure you have enough cash to cover expenses while in rural areas or when visiting smaller vendors and bazaars.
+
+
+
+
+
+
+
+What is ATM access like in Nepal?
+
+
+
+
+
+
+
+
+
+ATMs can be found in Nepal's large cities. Smaller towns and isolated areas will have very few, or none at all, so have enough cash to cover purchases, as ATM access may not be available.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Nepal?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Nepal?
+
+
+
+
+
+
+
+
+
+14 Jan Maghi Parwa / Maghe Sankranti
+
+29 Jan Martyr's Memorial Day
+
+29 Jan Sonam Losar (Tamang New Year)
+
+18 Feb Democracy Day (Rastraya Prajatantra Dibas)
+
+24 Feb Mahashivaratri
+
+26 Feb Ghyalpo Losar
+
+8 Mar International Women's Day
+
+4 Apr Ram Nawami
+
+13 Apr Nepali New Year
+
+1 May International Workers Day
+
+10 May Buddha Jayanti (Bhudda Day)
+
+28 May Ganatantra Diwas / Republic Day
+
+26 Jun Ramjan Edul Fikra
+
+7 Aug Janai Purnima / Rakshya Bandhan
+
+14 Aug Shree Krishna Janmasthami / Gaura Parba
+
+2 Sep Edul Aajaha
+
+20 Sep Constitution Day
+
+21 Sep Ghatasthapana
+
+27 Sep Dashain Festival (Phoolpati / Phulpat)
+
+28 Sep Dashain Festival (Maha Astami)
+
+29 Sep Dashain Festival (Maha Nawami)
+
+30 Sep Dashain Festival (Vijaya Dashami)
+
+1 Oct Dashain Festival (Pampakusha EkadashI)
+
+2 Oct Dashain Festival (Dwadashi)
+
+5 Oct Kojagrat Purnima
+
+19 Oct Tihar Festival (Gai Tihar / Lakshmi Puja)
+
+20 Oct Tihar Festival (Goru Tihar / Gobardhan Puja)
+
+21 Oct Tihar Festival (Bhai Tika)
+
+25 Oct Chhat Parwa
+
+30 Dec Lhosar
+
+Please note these dates are for 2017. For a current list of public holidays in Nepal go to:
+http://www.worldtravelguide.net/nepal/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Nepal
+
+1. Be considerate of Nepal’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+6. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+7. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+8. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+9. Please ask and receive permission before taking photos of people, including children.
+
+10. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Nepal, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Just One
+
+This relatively small non-government organisation targets disadvantaged children living in dangerous and vulnerable situations on the streets; living with their impoverished families and/or those required to work for a living. They help support access to appropriate educational opportunities, vocational training, and greater stability and security at home.
+
+Image supplied by Just One
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

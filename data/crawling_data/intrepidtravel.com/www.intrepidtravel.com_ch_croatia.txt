@@ -1,0 +1,4958 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Tours, Cruising & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Croatia
+
+
+
+Croatia has recently piqued the interest of curious travellers searching for sunshine, sand and scenery.
+
+
+The chic cities of the glittering Adriatic coast, charming cobblestone towns, UNESCO World Heritage sites and thriving food and wine scene ensure visitors' curiosity is amply rewarded. Like many others, fall in love with the treasures of this Balkan beauty. Be it on land or sea, walking or adventure cruising, Croatia will have you in the palm of its hand.
+
+
+Our Croatia trips
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Split to Dubrovnik
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,425
+
+
+
+
+
+A lively restaurant scene, drop-dead gorgeous beaches, lush forests, intricate old...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Balkan Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,955
+
+
+
+
+
+Travel across historic Eastern Europe from Hungary to Croatia. Visit cultural sights...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Sailing Adventure - Dubrovnik to Split
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,425
+
+
+
+
+
+Explore Croatia's beautiful Adriatic coast on this aquatic adventure from Dubrovnik to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Croatia
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,730
+
+
+
+
+
+Discover the ancient cities of Croatia on this Dalmatian cycling tour. Ride to Split,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Croatia
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,280
+
+
+
+
+
+Visit Croatia and travel to Dubrovnik, Korcula, Hvar and Split. Experience Croatia's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Western Balkans Uncovered
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,170
+
+
+
+
+
+Explore highlights and hidden treasures while travelling through Bulgaria, Albania,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Croatia's Central Coast
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,755
+
+
+
+
+
+Embrace Dalmation life on this glorious 8-day adventure cruise on Croatia’s coast....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Bled
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,755
+
+
+
+
+
+Tour Croatia, visit Dubrovnik, Korcula Island, Hvar Island, Split, Pag Island and the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Athens
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,325
+
+
+
+
+
+Explore highlights and hidden treasures while travelling through Albania, Croatia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia & Slovenia
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,565
+
+
+
+
+
+Travel from scenic Split to beautiful Bled. Explore the lush green forests of Plitvice,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Coastal Cruising - Dubrovnik to Split (Royal Eleganza)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,887
+
+
+
+
+
+Join Intrepid for a small ship cruising adventure to Croatia. Voyage along the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Coastal Cruising - Sibenik to Dubrovnik
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,145
+
+
+
+
+
+All aboard for a small ship cruising adventure to Croatia. Join Intrepid on a voyage...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Slovenia & Croatia Real Food Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR2,680
+
+
+
+
+
+Indulge in the tastes of Eastern Europe sampling regional, seasonal delicacies as you...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia: Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,395
+
+
+
+
+
+Pump up the octane on this active Croatia adventure. Enjoy hiking, mountain biking,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vienna to Dubrovnik
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR3,910
+
+
+
+
+
+Travel from Vienna to Dubrovnik and discover Austria, the Czech Republic, Poland,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest & the Balkans
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,080
+
+
+
+
+
+Set out from Budapest on a small group adventure down to Dubrovnik. Visit the White...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,410
+
+
+
+
+
+Discover Croatia with hiking in the Paklenica and Plitvice Lakes National Parks, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Slovenia to Macedonia Real Food Adventure
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR4,680
+
+
+
+
+
+Explore the culinary delights of Slovenia, Croatia, Kosovo, Albania, Montenegro and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Family Holiday
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,025
+
+
+
+
+
+Take your family on a Croatian adventure following the Dalmatian coast from Dubrovnik...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Venice
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,355
+
+
+
+
+
+Travel from Split up to Venice, stopping to visit Zadar’s unique sea organ, World...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Santorini
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,805
+
+
+
+
+
+Witness the jewels of the Mediterranean, from Dubrovnik to Santorini. Explore the old...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest to Venice
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,360
+
+
+
+
+
+Admire the opulent architecture of Budapest, be awed by the sheer tranquil beauty of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik to Rome
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,425
+
+
+
+
+
+Fall in love with Croatia's Dalmatian coast and the lakes of Plitvice, get active in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Budapest to Rome
+
+
+
+
+
+
+
+
+
+26 Days
+
+
+From
+FR3,465
+
+
+
+
+
+Set out from Hungary experiencing the incredible cultures and cuisines of Serbia,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Coastal Cruising - Split to Dubrovnik
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,887
+
+
+
+
+
+Join Intrepid for a cruising adventure to Croatia. Voyage along the Dalmatian coast,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia Coastal Cruising - Dubrovnik to Sibenik
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,145
+
+
+
+
+
+All aboard for a small ship cruising adventure to Croatia. Join Intrepid on a voyage...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Croatia tour reviews
+
+
+Our Croatia trips score an average of
+4.63 out of 5
+based on 224 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Active in Croatia,
+September 2017
+
+Sturt McDonald
+
+Active Croatia was the bomb! 10/10 would recommend to all of my (relatively fit and adventurous) friends :)
+
+Review submitted 21 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Balkan Adventure,
+September 2017
+
+Lee Heiman
+
+Excellent cultural and historical exploration of an area that has had such a major effect on Western civilization from pre-Roman to very recent times.
+
+Review submitted 15 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Croatia trip reviews
+
+Our Croatia trips score an average of
+4.63 out of 5
+based on 224 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Croatia
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2017
+
+
+
+8 Croatian islands so beautiful that everyone...
+
+
+
+
+
+
+Traditionally the Dalmatian coast always lost out to sun-soaked hot-spots like the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 22, 2017
+
+
+
+Is Plitvice Lakes National Park the most...
+
+
+
+
+
+
+Answer: Yes! But to fully appreciate its natural beauty and serenity, you need to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+10 reasons why Zagreb, Croatia should be your...
+
+
+
+
+
+
+It may not have the Adriatic Sea or the beach, but I was immediately charmed by...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+5 European day hikes everyone should experience
+
+
+
+
+
+
+Europe’s varied geography lends itself to hundreds of day walks that require...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 10, 2017
+
+
+
+You should go to Croatia just for the art scene...
+
+
+
+
+
+
+In Croatia, artistic expression flavors every area of life. Contemporary...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 17, 2017
+
+
+
+5 beautiful islands in Europe you haven’t...
+
+
+
+
+
+
+There's nothing we love more than the small towns, coastal views, and endless...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 10, 2017
+
+
+
+Croatia in one week: The ultimate guide
+
+
+
+
+
+
+With its ancient walled cities, shimmering sapphire waters, impeccable wine and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 12, 2017
+
+
+
+Split: The Croatian city that should be on your...
+
+
+
+
+
+
+While Split may never shine as brightly as the ‘Pearl of the Adriatic’ by tourist...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 08, 2017
+
+
+
+6 hottest food destinations in Europe for...
+
+
+
+
+
+
+Where will your taste buds be delighted most this summer? What cuisine will have...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 29, 2016
+
+
+
+Cruising just got a lot more sustainable
+
+
+
+
+
+
+Ask anyone that’s been to Croatia in the last few years: the familiar backdrop to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2016
+
+
+
+6 tips for booking your first cycling trip
+
+
+
+
+
+
+Pedalling sets the perfect pace - you travel slowly enough to enjoy your...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Trendsetters: Europe tips from the UK’s top...
+
+
+
+
+
+
+There are 36 countries within a 3-hour flight of the UK. That’s pretty awesome,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 27, 2016
+
+
+
+5 reasons you should try a sailing adventure
+
+
+
+
+
+
+Sailing used to be the domain of three types of people; pirates, the super-rich,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 14, 2015
+
+
+
+Five Game of Thrones locations you can actually...
+
+
+
+
+
+
+Think you can guess your fav show’s shooting locations? You know nothing, Jon Snow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dubrovnik
+
+
+
+
+Revel in the jewels of Croatia's sparkling Dalmatian Coast.
+
+
+
+
+
+
+Dubrovnik to Bled, 15 days
+
+
+
+
+
+
+
+
+Dubrovnik to Athens, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Lokrum
+
+
+
+
+Swim and sunbathe on the beaches of Lokrum.
+
+
+
+
+
+
+Explore Croatia, 8 days
+
+
+
+
+
+
+
+
+Dubrovnik to Bled, 15 days
+
+
+
+
+
+
+
+
+Dubrovnik to Venice, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Zadar
+
+
+
+
+Chill out in the bars and cafes of coastal Zadar
+
+
+
+
+
+
+Slovenia & Croatia Real Food Adventure, 12 days
+
+
+
+
+
+
+
+
+Croatia & Slovenia, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Korcula
+
+
+
+
+Sample traditional delicacies on a farm in Korcula
+
+
+
+
+
+
+Dubrovnik to Bled, 15 days
+
+
+
+
+
+
+
+
+Explore Croatia, 8 days
+
+
+
+
+
+
+
+
+Cycle Croatia, 7 days
+
+
+
+
+
+
+
+
+
+
+
+Split
+
+
+
+
+Explore World Heritage-listed Split on foot
+
+
+
+
+
+
+Croatia Sailing Adventure - Dubrovnik to Split, 8 days
+
+
+
+
+
+
+
+
+Slovenia & Croatia Real Food Adventure, 12 days
+
+
+
+
+
+
+
+
+Cycle Croatia, 7 days
+
+
+
+
+
+
+
+
+
+
+
+Plitvice Lakes National Park
+
+
+
+
+Admire the turquoise lakes and waterfalls of this stunning pocket of Croatia
+
+
+
+
+
+
+Budapest to Venice, 19 days
+
+
+
+
+
+
+
+
+Budapest to Rome, 26 days
+
+
+
+
+
+
+
+
+Dubrovnik to Rome, 17 days
+
+
+
+
+
+
+
+
+
+
+
+Zagreb
+
+
+
+
+Soak up the culture, art and cuisine of Croatia’s cosmopolitan capital
+
+
+
+
+
+
+Dubrovnik to Venice, 10 days
+
+
+
+
+
+
+
+
+Dubrovnik to Rome, 17 days
+
+
+
+
+
+
+
+
+Budapest to Venice, 19 days
+
+
+
+
+
+
+
+
+
+
+
+Osijek
+
+
+
+
+Watch the world go by from a charming cafe on the banks of the Drava River
+
+
+
+
+
+
+Balkan Adventure, 15 days
+
+
+
+
+
+
+
+
+Vienna to Dubrovnik, 29 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Croatia
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Croatia, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bus
+
+No tourist coaches here! Travel through Croatia the way the locals do, aboard a local bus. It's a cheap, reliable and authentic way to get around.
+
+
+Explore Croatia
+
+
+
+
+
+
+
+
+
+
+Ferry
+
+Amazing views and quick access to the islands - what better way to see Croatia's splendid coast than aboard a ferry?
+
+
+Cycle Croatia
+
+Dubrovnik to Bled
+
+Explore Croatia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Croatia sailing tours
+
+
+
+
+
+
+
+
+
+Croatia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Zagreb (population 930,000)
+
+Population:
+
+4.4 million
+
+Language:
+
+Croatian
+
+Currency:
+
+HRK
+
+Time zone:
+
+(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth)
+
+Dialing code:
+
++385
+
+
+
+
+
+
+
+
+
+Best time to visit Croatia
+
+
+
+
+
+
+×
+
+Best time to visit Croatia
+
+
+
+
+Croatia's peak season runs between July and August, with temperatures in the high 20s or 30s on the coast. But in this region you can expect plenty of sunshine from May to October, which are the best times to visit if you want to take advantage of Croatia's beautiful beaches and islands. The inland areas are also hot in the summer but can get cold in the winter with low temperatures and snowfall. Winter on the coast is milder and frequent rain can be expected.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Generally, Croatians are very proud of their country and cultural heritage. While this may not be obvious in everyday life, the Slavic heritage of Croatian people becomes more evident during festivals and national holidays, where cities and villages come to life with traditional costume, folk music and feasts. While most of Croatia's population are Roman Catholic, there are also groups of people who identify as Serbian Orthodox, Muslim, Protestant and Jewish. Having endured war, hardship and frequent earthquakes, the people of Croatia have a great amount of national pride and connection to their country and family. It's quite common for extended families to live together and children to remain close to their parents well into adulthood. Time with family is viewed as a necessity of life, so work and business affairs rarely encroach on family time, meaning most people spend weekends and holidays with family and friends.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways of experiencing a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Croatia's location ensures that its food options are phenomenal. With loads of fresh seafood, fruits and vegetables, visitors will be able to taste Greek, Italian and Hungarian influences in many of their meals.
+
+Things to try in Croatia
+
+1. Seafood
+
+When in the coastal cities or on the islands, you'll be able to sample fresh seafood at its finest. Prstaci is a good choice for shellfish fans; while brodet is a hearty fish stew you'll be able to find almost everywhere. Octopus, squid, cuttlefish, pilchards and lobster are all easily found too.
+
+2. Local Wine
+
+Croatia's climate is near perfect for vine-growing, so take the chance to try locally-made wines produced from traditional grape varieties. Try Dingac, Plavac, Malmsy and Babic.
+
+3. Meat
+
+Vegetarians may struggle in Croatia as meat is very popular in this part of the world. Those who favour meat will love trying roast lamb, cured ham, spicy pork sausages and grilled skewers of beef and chicken.
+
+4. Truffles
+
+For those with expensive tastes, Croatia is a large producer of rare truffles, in particular white truffles. You'll find them in salads and cooked in pasta dishes in Croatia's more upmarket restaurants.
+
+5. Cheese
+
+Croatia produces many top-quality artisan cheeses that travellers will be able to find in markets, shops and restaurants all over the country. Paski sir is a sharp, sheep milk cheese from the island of Pag and is the most famous and awarded of Croatia's cheeses.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing borders with
+Bosnia and Herzegovina
+,
+Slovenia
+,
+Hungary
+,
+Serbia
+and
+Montenegro
+, Croatia benefits from more than 5,000 km of coastline that spans along the Adriatic Sea. In addition to the mainland, Croatia also has many islands, some inhabited, some not. Croatia's terrain is very diverse and varies from flat plains to low mountains and highlands, limestone karst cliffs, wetlands, lakes and forests of cypress. Nature reserves and wetland areas are home to large populations of migratory birds, deer, bats and bears. Visitors will also see much of the land is used for agriculture with vineyards, lavender fields, olive groves and orchards being prevalent in rural areas. Croatia's cities, while developed, have managed to maintain a high level of charm with cobblestone streets, ancient housing, historic squares and heritage buildings being preserved and still used by the current population.
+
+
+
+
+
+
+
+
+History
+
+
+
+
+
+
+×
+
+History
+
+
+
+
+Early History
+
+Archaeological evidence suggests that the land now known as Croatia has been occupied by humans since the Stone Age. Croatia's geographical position in
+Europe
+allowed a great amount of influence from neighbouring regions, with tribes and people from different cultures and groups making their mark. Over the centuries, Greeks, Romans, Celts, Huns and Goths have all occupied the territory, with Croats arriving by the 7th century. The first Kingdom of Croatia was formed in 925 but by the 12th century Croatia had formed a union with Hungary, with a Hungarian King instated as leader of both territories. During the 15th century, Croatia lost territory to the Ottoman Empire and, in later centuries, once again came under Hungarian rule. Evidence of these many cultural influences can be seen in the architecture, cuisine and archaeological ruins of contemporary Croatia.
+
+Recent History
+
+Croatia, Slovenia and Serbia formed a union in 1918 to create the Kingdom of Yugoslavia, but the occupation of Axis forces during World War II lead to the creation of the Independent State of Croatia, which only lasted a couple of years during the war. By the end of the war in 1945, Croatia had become a Socialist Republic (within the Socialist Federal Republic of Yugoslavia, together with Bosnia, Serbia, Slovenia, Macedonia and Montenegro), with the constitution of 1963 attempting to alleviate tensions surrounding the balance of power between Serbians and Croats. By 1980, after the death of President Tito (founder of modern Yugoslavia), economic and political difficulties (in addition to regional tensions in other parts of Yugoslavia) resulted in a near collapse of government. What followed was years of conflict, polarity and political turmoil. The referendum of 1991 resulted in an overwhelming vote for independence, with Croatia and Slovenia declaring independence from Yugoslavia in June of the same year. Much armed conflict followed and lasted until 1995, leading to great loss of civilian life and displacement, creating large populations of refugees. The last two decades have been a time of peace and reconciliation for the people of Croatia. Tourism has opened up and the government has focused on ensuring further economic growth for the country. Croatia has joined the European Union in 2013.
+
+
+
+
+
+
+
+
+Top 10 Historic Buildings of Croatia
+
+
+
+
+
+
+×
+
+Top 10 Historic Buildings of Croatia
+
+
+
+
+1. Cathedral of the Assumption of the Virgin Mary
+
+One of Zagreb’s most visited historic sites, this grand neo-Gothic cathedral has been renovated and reconstructed many times since it was originally built in the 13th century. With massive twin spires, a marble interior and 800-year-old treasury, this is a monumental masterpiece.
+
+2. Church of St Donatus
+
+Considered one of the most impressive examples of early Byzantine architecture, this church in Zadar was built way back in the 9th century. With much historical value, its simplistic, circular design is quite unlike other buildings in Croatia, making it a standout, must-see church in a country with so many churches and cathedrals to see.
+
+3. Croatian National Theatre
+
+Built in 1895, this national treasure located in Zagreb is an elegant example of neo-Baroque style architecture. Visitors lucky enough to catch an opera, ballet or classical music concert here will be able to revel in all the fine details, from the luxe furnishings to the excellent acoustics.
+
+4. Diocletian’s Palace
+
+One of Split’s main attractions, this UNESCO World Heritage monument is considered one of the best-preserved Roman palaces in the world. The sprawling complex is home to many fine examples of Romanesque, Gothic, Renaissance and Baroque architecture, so visitors will be able to admire open air courtyards, marble arches, columns, gates and walls from a variety of different periods.
+
+5. Cathedral of St Lovro
+
+This cathedral located 30 minutes from Split is well known for its distinct Romanesque portal crafted by one of Croatia's most celebrated sculptors, Radovan. Mythological creatures and biblical figures all feature heavily, with saints, lions, sirens and centaurs all gracing the spectacular doorways.
+
+6. Rector’s Palace
+
+Also known as Dubrovnik Museum, Rector’s Palace is an impressive building in itself. With soaring arches, period furniture and a dramatic staircase, this structure steals the show from the museum exhibits it holds within.
+
+7. Dubrovnik Synagogue
+
+Reported to be the second oldest synagogue in Europe and the world’s oldest Sefardic synagogue still in use, Dubrovnik’s synagogue is still a place for the local Jewish community to worship on holy days. Sustaining damage from earthquakes and wars, this small but well cared for structure stills stands today due to its historical value and unique design.
+
+8. Marco Polo Tower
+
+While not the most elaborate or opulent building in Croatia, the Marco Polo Tower of Korcula has much historical significance. It is believed that Marco Polo was born in this medieval, walled city and this tower named in his honour rises above the town as a reminder of his legacy. Climb to the top for phenomenal views and panoramic photo opportunities.
+
+9. Franciscan Monastery
+
+Featuring 14th century cloisters, intricately carved columns and a striking, sculptured facade this Dubrovnik wonder is also home to the third oldest pharmacy in Europe, so you can get a prescription filled while seeing the sights.
+
+10. Trakoscan Castle
+
+This lovely castle located in northern Croatia was inhabited from the 13th century right up until the 1940s. Featuring all good things a castle should have - including a dungeon, hunting room and tower - visiting here is like stepping back to a time where castles weren’t just historical monuments, but valid places to live.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Croatia has an interesting mix of quaint outdoor markets, modern malls and hip clothing boutiques. There's plenty of options that make better souvenirs than the usual lurid magnets or tourist t-shirts.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country.
+Australia
+and New Zealand generally have strict quarantine laws.
+
+Things to buy in Croatia
+
+1. Local produce
+
+If you're able to take food products back to your home country, then Croatia's markets are filled with delicious gourmet produce. Honey, olives, cheese, wine and lavender products are good choices which help to support local farmers and the rural economy.
+
+2. Traditional Handicrafts
+
+Embroidered table cloths, handmade dolls and lace from the island of Pag make authentic gifts for friends back home.
+
+3. Natural cosmetics
+
+Croatia has many brands of natural soap, body butter and shower gel derived from ingredients like olive oil, goat's milk, lavender, almond oil and seaweed.
+
+
+
+
+
+
+
+
+Festivals and events in Croatia
+
+
+
+
+
+
+×
+
+Festivals and events in Croatia
+
+
+
+
+Dance Week Festival
+
+This celebration of dance and movement hits Zagreb each year. Featuring a diverse range of contemporary and traditional dance from local and international dancers and choreographers, the eclectic program highlights the artistic vision of many coming together to celebrate their love of dance.
+
+Dubrovnik Summer Festival
+
+Classical music, theatre, dance and opera combine to create an enriching program of events performed in open air venues around Dubrovnik. Held every year since 1949, Croatia's temperate summer climate ensures the perfect conditions for outdoor performances.
+
+International Folklore Festival
+
+This important festival held in Zagreb each year helps to preserve cultural diversity by promoting traditional dance, costume, music and handicrafts from all over the world. Visitors can see everything from African drumming performances to traditional Croatian dancing and Bulgarian bands.
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+April Fool's Day
+
+Josip Novakovich
+
+Zagreb, Exit South
+
+Edo Popovic
+
+Croatia: Travels in an Undiscovered Country
+
+Dr Tony Fabijancic
+
+Marco Polo's Isle: Sketches from the Dalmatian Island of Korcula
+
+Michael Donley
+
+Gold, Frankincense and Myrrh
+
+Slobodan Novak
+
+
+
+
+
+
+
+
+Croatia travel FAQs
+
+
+
+
+
+Is tipping customary in Croatia?
+
+
+
+
+
+
+
+
+
+Tipping isn't mandatory in Croatia, although feel free to round up the bill or leave spare change for wait staff. Tip more if the service has been particularly good. Some restaurants and cafes will already include a 10-15% margin in the bill, to account for taxes and tips. In this case, generally no further tip is required.
+
+
+
+
+
+
+
+What is the internet access like in Croatia?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access the internet at internet cafes and hotels in Croatia's large cities and tourist-orientated towns. Expect less internet accessibility in rural areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Croatia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in Croatia's large cities and urban areas. Islands and remote areas may have less reliable service. Ensure global roaming is activated with your service provider before arrival.
+
+
+
+
+
+
+
+What are the toilets like in Croatia?
+
+
+
+
+
+
+
+
+
+Western-style, flushable toilets are the norm in Croatia's cities and urban centres.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Cup of coffee in a cafe = 5-15 HRK
+Beer in a pub = 20 HRK
+Short bus ride = 20 HRK
+Simple, budget meal = 50-80 HRK
+
+
+
+
+
+
+
+Can I drink the water in Croatia?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink in Croatia; however, due to the different mineral content, some people may get stomach upsets from the drinking water if they aren't used to it. A better option is finding filtered water rather than relying on bottled water.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Croatia?
+
+
+
+
+
+
+
+
+
+Large hotels, restaurants and tourist sites will most likely accept credit cards. Always carry enough cash for smaller purchases and when shopping at vendors like market stalls and smaller cafes and hotels, which may not have credit card facilities.
+
+
+
+
+
+
+
+What is ATM access like in Croatia?
+
+
+
+
+
+
+
+
+
+ATMs are readily available throughout Croatia. Cities and large towns will have more ATM access than small villages or rural areas, so prepare accordingly if travelling out of urban areas.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling to Croatia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Croatia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+6 Jan Epiphany
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+15 Jun Corpus Christi
+
+22 Jun Anti-Fascist Resistance Day
+
+25 Jun Statehood Day
+
+5 Aug Victory & Homeland Thanksgiving Day
+
+15 Aug Assumption of the Virgin Mary
+
+8 Oct Independence Day
+
+1 Nov All Saints' Day
+
+25 Dec Christmas Day
+
+26 Dec St. Stephen's Day
+
+Please note these dates are for 2017. For a current list of public holidays in Croatia go to:
+http://www.worldtravelguide.net/croatia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Croatia
+
+Be considerate of Croatia’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

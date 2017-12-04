@@ -1,0 +1,5287 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Kenya
+
+
+
+Kenya is a country that beckons with iconic sights, tribal cultures and natural wonders.
+
+
+The snow-capped peak of mighty Mt Kenya, the Masai Mara's golden, grassy plains, the pink blush of Lake Nakuru and the annual migration of millions of wildebeest are but some of the delights waiting for you in Kenya.
+
+
+Top Kenya travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+13 Jan 2018
+
+The Masai Heartlands
+
+
+
+The Masai Heartlands
+Nairobi to Nairobi
+
+
+
+
+
+
+
+
+
+×
+
+The Masai Heartlands
+
+
+
+
+
+
+
+
+
+15
+
+
+FR2,650
+
+
+FR2,385
+
+
+
+
+View Trip
+
+
+
+
+
+
+13 Jan 2018
+
+Kenya Wildlife Safari
+
+
+
+Kenya Wildlife Safari
+Nairobi to Nairobi
+
+
+
+
+
+
+
+
+
+×
+
+Kenya Wildlife Safari
+
+
+
+
+
+
+
+
+
+8
+
+
+FR1,125
+
+
+FR956
+
+
+
+
+View Trip
+
+
+
+
+
+
+17 Jan 2018
+
+Road to Zanzibar
+
+
+
+Road to Zanzibar
+Nairobi to Stone Town
+
+
+
+
+
+
+
+
+
+×
+
+Road to Zanzibar
+
+
+
+
+
+
+
+
+
+13
+
+
+FR2,350
+
+
+FR2,115
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Kenya trips
+
+
+
+
+
+
+
+
+
+Serengeti Trail
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,408
+
+
+
+
+
+Roam the vast Serengeti National Park and Ngorongoro Crater, camp beside Lake Victoria...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Road to Zanzibar
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR2,115
+
+
+
+
+
+Experience the beauty of the Serengeti before taking to the Usambara Mountains and then...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas & Game Parks
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,601
+
+
+
+
+
+The ultimate African adventure tour. See lions in Kenya's Lake Nakuru National Park,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas, Game Parks & Beaches
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR5,540
+
+
+
+
+
+Get closer to Africa’s incredible wildlife on this journey through Kenya, Uganda,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Masai Heartlands
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,365
+
+
+
+
+
+The wonders of Kenya and Tanzania unfold on this African adventure tour. Enjoy...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya Wildlife Safari
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,035
+
+
+
+
+
+Travel to Africa and visit Kenya, where an Intrepid wildlife safari awaits. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Serengeti & Kilimanjaro
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR4,440
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beaches, Game Parks & Gorillas
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR4,058
+
+
+
+
+
+Get closer to Africa’s incredible wildlife on this journey through Kenya, Uganda,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Safari to Kilimanjaro - Machame Route
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR5,140
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Addis to Nairobi
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR2,920
+
+
+
+
+
+Travel to Africa and be immersed in traditional cultures, spot Africa's Big Five on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Northbound
+
+
+
+
+
+
+
+
+
+64 Days
+
+
+From
+FR7,920
+
+
+
+
+
+Jump aboard this epic tour from Cape Town to Nairobi. From safaris in Tanzania and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of East Africa
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,195
+
+
+
+
+
+Step out onto the Serengeti and keep your eyes out for rhinos, lions, leopards and a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Vic Falls
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR3,790
+
+
+
+
+
+Explore the wilds of Africa on this action-packed adventure from the busy streets of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya & Tanzania Safari Under Canvas
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR7,930
+
+
+
+
+
+Experience the wild wonders of Kenya and Tanzania on this trip that delivers adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya to Cape Town
+
+
+
+
+
+
+
+
+
+48 Days
+
+
+From
+FR6,340
+
+
+
+
+
+Explore Africa as you travel from Kenya to Cape Town through Tanzania, Zanzibar, Malawi...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya Family Safari
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,795
+
+
+
+
+
+Track your way across the plains of Kenya on this thrilling safari, covering Nairobi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimanjaro & Serengeti Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR4,435
+
+
+
+
+
+Travel to Africa and visit the Serengeti and Kilimanjaro. From Nairobi in Kenya to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Encompassed Southbound
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,770
+
+
+
+
+
+See Africa encompassed on a tour through Kenya, Uganda, Rwanda, Tanzania, Malawi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Kenya
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,280
+
+
+
+
+
+Experience the exhilarating wild of Africa as you travel from Victoria Falls through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya Safari Under Canvas
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR4,439
+
+
+
+
+
+Visit Africa and forge into the heart of Kenya’s finest game parks on a overland lodge...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Road to Zanzibar & Spice Islands Sailing Adventure
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR3,415
+
+
+
+
+
+With the Usambara Mountains, Ngorongoro Crater, Serengeti and Zanzibar some of the many...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Tanzania Family Safari
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,930
+
+
+
+
+
+Safari with your family in East Africa on an unforgettable Kenya and Tanzania adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cape Town to Kenya
+
+
+
+
+
+
+
+
+
+49 Days
+
+
+From
+FR6,285
+
+
+
+
+
+Explore Africa as you wind your way up from South Africa, through Namibia, Botswana,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas to Vic Falls
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR6,400
+
+
+
+
+
+Take an epic East African adventure from Kenya to Zimbabwe. Safari in the Serengeti, go...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Zanzibar to Nairobi
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,721
+
+
+
+
+
+Experience the best of East Africa on this road adventure. From Zanzibar to Nairobi,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Stone Town to Nairobi
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,720
+
+
+
+
+
+The pristine beaches of Zanzibar, the lush slopes of the Usambara Mountains, and the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Tanzania
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR5,165
+
+
+
+
+
+Travel to Africa and visit the Serengeti, Kilimanjaro and Zanzibar. From Nairobi in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Experience
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR15,955
+
+
+
+
+
+Jump onboard an exhilarating journey from Cape Town to Victoria Falls and then onto...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Vic Falls to Gorillas
+
+
+
+
+
+
+
+
+
+43 Days
+
+
+From
+FR6,025
+
+
+
+
+
+This East Africa adventure tour travels from Zimbabwe to Kenya. Visit Zanzibar beaches,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Masai Mara Walk
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR925
+
+
+
+
+
+Travel to Kenya and visit Nairobi. Embark on a journey across the Great Rift Valley to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Gorillas
+
+
+
+
+
+
+
+
+
+52 Days
+
+
+From
+FR7,270
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Johannesburg to Kenya
+
+
+
+
+
+
+
+
+
+37 Days
+
+
+From
+FR4,800
+
+
+
+
+
+Experience Africa travelling through the waterways of Botswana, the beaches of Zanzibar...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nairobi to Omo
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,782
+
+
+
+
+
+Travel to Africa and tour Kenya and Ethiopia on a trip from Nairobi to Arba Minch....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Omo to Nairobi
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,553
+
+
+
+
+
+Travel from Arba Minch to Nairobi, via Ethiopia's remote Omo Valley and some of Kenya's...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Gorillas & Chimps In Depth
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,668
+
+
+
+
+
+Visit Africa and travel to Kenya for an overland tour to spot gorillas and rhinos in...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ethiopian Explorer
+
+
+
+
+
+
+
+
+
+44 Days
+
+
+From
+FR4,915
+
+
+
+
+
+Travel to Ethiopia and visit the unique landscapes and cultures of this almost...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Nairobi to Addis Ababa
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR4,113
+
+
+
+
+
+Travel to Africa and be immersed in traditional cultures, spot Africa's Big Five on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Kenya tour reviews
+
+
+Our Kenya trips score an average of
+4.8 out of 5
+based on 363 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Road to Zanzibar,
+November 2017
+
+Glenn Fraser
+
+Africa was a destination on my bucket list for a very long time. My daughter and I choose Intrepid after reading all the reviews on their website. I am now one of those reviews. It was an adventure of a lifetime and exceeded my expectations every step of the way. Intrepid was amazing.
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Kenya Wildlife Safari,
+November 2017
+
+Eleonora Giulianini
+
+I like Intrepid Travel !
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Kenya trip reviews
+
+Our Kenya trips score an average of
+4.8 out of 5
+based on 363 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Kenya
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 02, 2017
+
+
+
+East Africa’s Wildebeest Migration: Everything...
+
+
+
+
+
+
+One of the biggest drawcards to visiting East Africa is the chance to see the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 06, 2017
+
+
+
+Go with the Flo: Intrepid leader Florence talks...
+
+
+
+
+
+
+What's it like to travel through East Africa on a small group safari? Let's let an...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 05, 2017
+
+
+
+Why rural Kenya stole my heart
+
+
+
+
+
+
+After living in Kenya for three months, it’s fair to say that I found the country...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 17, 2017
+
+
+
+Why I travel with my mother
+
+
+
+
+
+
+'She is my preferred roommate (partly because I can sleep through her loud snores)...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 24, 2017
+
+
+
+How a local group is fighting poverty in Kenya,...
+
+
+
+
+
+
+It’s our first day in Nairobi, and we’re on our way to market to buy some fat pigs...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 21, 2017
+
+
+
+It’s official: Kenya is banning plastic bags
+
+
+
+
+
+
+The problems caused by plastic bags in Kenya can't be solved simply by banning...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+6 reasons you should think twice about...
+
+
+
+
+
+
+Orphanage tourism is what happens when good intentions and reality don’t quite...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 01, 2015
+
+
+
+The true story of Africa’s disappearing glaciers
+
+
+
+
+
+
+It’s 1943, and three Italians are planning to summit Mt Kenya. One’s a civil...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 09, 2015
+
+
+
+Life unplugged: 6 reasons your next family...
+
+
+
+
+
+
+An African family safari is on the once-in-a-lifetime end of the holiday spectrum....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 11, 2014
+
+
+
+8 African snacks you’ve just got to try
+
+
+
+
+
+
+In Africa, most action takes place on the streets and roadsides – people hawking...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lake Nakuru National Park
+
+
+
+
+Spot exotic wildlife while on safari in Lake Nakuru National Park
+
+
+
+
+
+
+Gorillas, Game Parks & Beaches, 28 days
+
+
+
+
+
+
+
+
+Gorillas & Game Parks, 16 days
+
+
+
+
+
+
+
+
+Kenya & Tanzania Safari Under Canvas, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Lake Naivasha
+
+
+
+
+Admire beautiful native birds on the shores of Lake Naivasha
+
+
+
+
+
+
+Kenya & Tanzania Safari Under Canvas, 15 days
+
+
+
+
+
+
+
+
+Gorillas & Game Parks, 16 days
+
+
+
+
+
+
+
+
+The Masai Heartlands, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Samburu National Reserve
+
+
+
+
+Encounter giraffes and gerenuks at the Samburu National Reserve
+
+
+
+
+
+
+
+
+
+
+Transport in Kenya
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Kenya, you may find yourself travelling by:
+
+
+
+
+
+
+
+Overland Vehicle
+
+Travel through national parks and reserves in a customised safari vehicle, made for negotiating the rough African terrain and maximising wildlife-viewing opportunities.
+
+
+Road to Zanzibar
+
+Kenya & Tanzania Safari Under Canvas
+
+The Masai Heartlands
+
+
+
+
+Accommodation in Kenya
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Kenya you may find yourself staying in a:
+
+
+
+
+
+
+
+Lodge
+
+Stay in lodges perched in unforgettable locations - from the foothills of Mt Kenya to within national parks. Surrounded by forest and waterholes, you can enjoy the rare pleasure of waking up to the sounds of an animal orchestra.
+
+
+Kenya Safari Under Canvas
+
+
+
+
+
+Kenya in-depth: Modern Warriors
+
+
+
+
+
+
+
+
+
+
+A night with the Maasai
+
+It’s not every night you sleep out in the Kenyan bush, protected from lions by spear-wielding Maasai men. One traveller talks university, celestial navigation, Facebook and life around the campfire with five modern warriors. That – and how to keep elephants out of your vegie patch.
+
+Read the story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Nairobi (population 2 million)
+
+Population:
+
+40 million
+
+Language:
+
+Swahili, English
+
+Currency:
+
+KES
+
+Time zone:
+
+(GMT+03:00) Nairobi
+
+Electricity:
+
+Type G (Irish/British 3-pin)
+
+Dialing code:
+
++254
+
+
+
+
+
+
+
+
+
+Best time to visit Kenya
+
+
+
+
+
+
+×
+
+Best time to visit Kenya
+
+
+
+
+Kenya receives a lot of tourists in January and February when the weather is hot and dry and generally the most pleasant. It’s also the best time for bird watching, as birds migrate to the lakes of the Rift Valley in large numbers. It’s generally less busy from June to September, but the weather is still dry during this time. Wet season is from March to May and October to December. During this time tourist sites are less crowded, hotels have more rooms available and prices are usually cheaper. The annual wildebeest migration occurs between July and August, and again in October each year. Millions of wildebeest migrate from the Serengeti in search of greener pastures and then return. The Masai Mara National Park is the best place to see this event.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Kenya is one of Africa’s most multicultural countries, with a population as diverse as its terrain. There are more than 40 different ethnic tribes, each with their own language, culture and customs. The red-robed, beaded Maasai of the south are undoubtedly the most famous tribespeople of the region. The unique Swahili culture dominates the coastal regions and Islam is quite common in the North. Nairobi is home to a large swirl of humanity, with significant Indian, African and Western populations. As a result, you’re likely to see mosques, churches and temples, taste international cuisine from all over the world and hear the sounds of Kenyan hip-hop, traditional African drumming and Western pop.
+
+Depending on where you are in Kenya, the culture and customs vary according to the area you are visiting. The northern and coastal regions tend to be more traditional, while Nairobi, as an international hub of trade and commerce, tends to be more liberal. The Maasai and other tribes typically lead pastoral lives based on agriculture and animal husbandry. Their daily life is based on centuries of tradition and if you get the chance to visit a tribal village, you’ll be able to see the customs of these fascinating people firsthand. Traditional clothing, dance, song and ceremonies keep this proud culture alive in the face of modernisation, which is sweeping through the country.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways of experiencing a country is by eating. Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+As a multiracial society, Kenya has many different cuisines for travellers to try. From traditional Swahili cuisine to Indian, European and Middle Eastern food, many cultures are represented, especially in large cities like Nairobi. While the average Kenyan lives mostly on maize, beans and vegetables, tourist areas and large cities offer much more variety for visitors.
+
+Things to try in Kenya
+
+1. Seafood
+
+Kenya’s coastal areas, such as Mombasa and Lamu, are the best places to feast on fresh crab, lobster, oysters and kingfish cooked to perfection in sumptuous spices.
+
+2. Nyama Choma
+
+One strictly for the carnivores, Nyama Choma is a popular Kenyan style of cooking and eating meat. Goat, beef and chicken are roasted and served on a communal cutting board, sometimes with condiments such as chilli, salt, chopped tomatoes and avocado.
+
+3. Curries
+
+With a significant population hailing from India, Kenya is a great place to savour spicy curries made with an East African twist.
+
+4. Tropical Fruit
+
+For a cheap and cost-effective snack, head to the market stalls that sell a colourful array of tropical fruit. Pineapples, papayas, bananas, and passionfruit are usually plentiful in Kenya. Any fruit that you can peel is a more hygienic, easy option than one you have to wash.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Kenya is located in East Africa, sharing borders with
+Ethiopia
+, Somalia, Sudan,
+Tanzania
+and
+Uganda
+. With a diverse topography, Kenya has a wide variety of terrain – lofty mountains, dense rainforest, stark plains and soft-sand beaches.
+
+This diversity also applies to the environments that Kenya’s people live in. Kenya’s crowded capital is a heaving melange of cars, buses, skyscrapers, street stalls, markets and people; the idyllic Loita Hills is the heart of Maasai country; the national parks run wild with exotic creatures; and rustic Lamu Island is a car-free piece of living history. Overall, most Kenyans either live a fast-paced existence in the modern metropolis of Nairobi or a quieter, agricultural-based life in Kenya’s rural towns and villages.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Recent archaeological findings in Kenya have revealed the remains of one of the earliest species of hominid, placing Kenya among the first places inhabited by humans. Before the arrival of outsiders, Kenya was inhabited by nomadic tribes who most likely entered Kenya from the north. The Maasai and the Kikuyu were the most dominant in numbers, although the Maasai were well known for their reputation as strong warriors who often raided their neighbours.
+
+During the 19th century, Kenya came under the influence of outside cultures due to the arrival of traders from the Middle East and Asia, and settlers and missionaries from Europe. Britain and Germany both had vested interests in Kenya for its abundance of natural resources (especially ivory) and because it was an important point for trade. As such, settlers from Britain, Germany and other European nations flooded into the country in large numbers, setting up agricultural empires such as coffee plantations. These plantations relied heavily on local tribespeople for labour, much to the resentment of the indigenous populations. As a result of this, a large number of Indian labourers were brought to Kenya to work on plantations and build railroads. This Indian influence is reflected in the current population of Kenya.
+
+Recent History
+
+After much infighting, confrontation, uprising and reform, Kenya was granted its independence from British colonial rule in 1963. The “Mau Mau Uprising” of the 1950s was responsible for drawing attention to the plight of the African population, and was also the catalyst for the change in how Kenya is governed.
+
+The 1970s saw Kenya’s international economic profile grow due to the successful development of a free-market economy, with agriculture and tourism creating more a more stable economy. More recently, Kenya’s tourism industry has continued to develop and flourish, mainly due to its wealth of exotic animals, national parks, coastal hot-spots and unique cultures. Standards of living have also improved in Kenya, with an overall improvement in life expectancy, infant mortality and fertility rates – probably due to the increased investment in family planning, education and health by both the Kenyan government and NGOs. Despite this, many Kenyans still live below the poverty line and struggle to provide the bare necessities for themselves and their children. Regardless of this, travellers will be touched by the generosity of spirit and genuine hospitality that Kenyans display to visitors.
+
+
+
+
+
+
+
+
+Wildlife Encounters of Kenya
+
+
+
+
+
+
+×
+
+Wildlife Encounters of Kenya
+
+
+
+
+Top 10 Wildlife Encounters of Kenya
+
+1. Cheetah Chase
+
+The cheetah, the Ferrari of the animal kingdom, is the fastest land animal on the planet. This slick predator can reach speeds of up to 120 km/hr and can accelerate to 103km/hr in just three seconds. Seeing a cheetah stealthily stalk, then pursue, a gazelle, springbok or an impala is a thrilling sight.
+
+2. Lioness Kill
+
+See the circle of life play out in Masai Mara National Reserve. Lions might be the kings of the jungle, but in Kenya, it's the lionesses that do the hunting. Working in groups, these big cats track down prey such as wildebeest, impalas, zebras and buffalo. If you are lucky, you will see a kill - the lionesses hunting together, encircling a herd then targeting the closest animal. The attack is swift and powerful - an experience you will never forget!
+
+3. Wildebeest Migration
+
+The annual migration of 1.5 million wildebeest across the grassy plains of Eastern Africa is an extraordinary spectacle of nature. The wildebeests risk drowning in rivers and attacks from big cats and crocodiles, to travel nearly 2,000 km in search of food and water. Around 200,000 zebra and 500,000 Thomson's gazelle also join this boisterous group each year, making it one of the greatest shows on earth.
+
+4. Sea of Flamingos
+
+See Lake Nakuru turn a shimmering sea of pink as millions of flamingos flock to feed in the shallow waters. The sheer amount of these long-legged creatures - among 400 species of birds that inhabit the area - is an incredible sight.
+
+5. Elephant Bath Time
+
+Elephants love water and, despite their size, they are excellent swimmers. To cool off from the scorching African sun, they splash about in lakes, paddle in rivers and give themselves a shower using their trunks. Witnessing these gentle giants having a bath is a truly memorable experience, but don't stand too close or you'll likely get very wet.
+
+6. Rhino Love
+
+A baby rhino stays by its mother's side for up to five years after it is born and, during this time, mum is extremely protective of her calf. With an adult white rhino weighing up to 3,600 kg and reaching speeds of up to 50 km/h when charging, you don't want to get between a mother rhino and her baby. The best place for spotting the rare black rhino is Kenya's Aberdare National Park.
+
+7. Giraffe Parade
+
+It's the classic African image – giraffes striding across the African savanna at sunset, nibbling on acacia trees and carving a graceful silhouette on the orange-tinged skyline. Kenya has the biggest giraffe population on the continent, so a dusk safari to see these unique creatures is a must.
+
+8. Hippos Wallowing
+
+One of Africa's best locations for hippo spotting is Lake Naivasha. Here, you can see large pods of these mighty animals submerged in the water and wallowing in mud. More than just social interaction, the water helps them cool down and protects their skin from drying out. With the exception of feeding, hippos spend most of their lives in the water - from childbirth and reproduction, to fighting with other hippos - so it's very likely you'll see them playing in their aquatic playground.
+
+9. Zebra Crossing
+
+For many, the highlight of the annual zebra migration is hundreds of thousands of these black-and-white-striped animals making the death-defying dash across the Mara River. Vulnerable to massive crocodiles lying in wait for a tasty meal, the zebras don't waste any time once they decide to take the plunge.
+
+10. Monkey Business
+
+That chatter from treetops above is most likely from cheeky colobus monkeys. As these creatures spend nearly all of their lives in the forest canopy, your best chance of spotting them is as they dart through the trees, a flurry of black and white fur. Treating branches like trampolines, they leap high into the air, then drop downward, using the long hair on their shoulders like a parachute. Listen out for males, whose croaking roars can often be heard resonating throughout the forest.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+From the large, lively markets of Nairobi to the small, slow-paced markets of the villages, shopping in Kenya is definitely "market-centric". Nairobi and other large cities have a range of boutiques and malls but, as in most other African countries, the buzzing markets are some of the best places to shop, eat and mingle with locals.
+
+It's a good idea to check with your local customs officials to ensure that you are able to import certain items back into your home country. Australia and New Zealand for example have strict quarantine laws.
+
+Things to buy in Kenya
+
+1. Handicrafts
+
+The wood and soap stone carvings in Kenya are of great quality. Peruse the carvings at city markets and shops, or alternatively, buy direct from artisans in countryside villages.
+
+2. Maasai Jewellery
+
+The colourful beaded creations of the Maasai make excellent souvenirs. Wear them as a bold, statement piece or hang them on walls at home as a unique reminder of your time in Kenya.
+
+3. Fabric
+
+Kenyan markets are full of vibrant fabric sarongs and wraps (also known as kikoys or kangas). Put these on your shopping list as they offer great protection from the African sun.
+
+4. Kenyan Music
+
+Reggae, afro-rap and African hip-hop are popular (especially in Kenya’s big cities), so stock up on some local music to bring a bit of Kenyan rhythm home with you.
+
+
+
+
+
+
+
+
+Festivals and Events in Kenya
+
+
+
+
+
+
+×
+
+Festivals and Events in Kenya
+
+
+
+
+Jamhuri Day
+
+Feasts, speeches, parades, music and dance all feature in this national holiday commemorating Kenya’s independence and the establishment of its republic. A mass celebration of freedom and unity, this is a big day for all Kenyan people. The day is celebrated on 12th December each year.
+
+Maulidi
+
+The birthday of the Prophet Mohammed turns Kenya’s Lamu Island from a sleepy village into a busy hub of activity. Pilgrims and visitors flock here for four days of devotional prayers and reverence, concluding with fun events such as donkey races, dhow sailing, traditional dance and drumming.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+The Camel Bookmobile
+
+Masha Hamilton
+
+The Shadow of Kilimanjaro
+
+Rick Ridgeway
+
+The Worlds of a Maasai Warrior
+
+Tepilit Ole Saitoti
+
+It's Our Turn to Eat: The Story of a Kenyan Whistleblower
+
+Michela Wrong
+
+Wildflower: An Extraordinary Life and Untimely Death in Africa
+
+Mark Seal
+
+
+
+
+
+
+
+
+Kenya travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Kenya?
+
+
+
+
+
+
+
+
+
+KENYA:
+
+Australia: Yes - Visa required
+Belgium: Yes - Visa required
+Canada: Yes - Visa required
+Germany: Yes- Visa required
+Ireland: Yes - Visa required
+Netherlands: Yes - Visa required
+New Zealand: Yes - Visa required
+South Africa: Yes - Visa required if travelling for more than 30days
+Switzerland: Yes - Visa required
+United Kingdom: Yes - Visa required
+USA: Yes - Visa required
+
+Visas can be obtained either on arrival in to Kenya or as an e-Visa online prior to travel. Single-entry visas (business or tourism) are USD50 and a transit visa (valid for three days) USD20. The single entry visa allows for multiple entries in to Kenya for a period of 90 days provided you have not left East Africa. The four-step e-Visa procedure is completed through the immigration website:
+www.ecitizen.go.ke
+and requires visitors to submit an application form and passport-sized photo. e-Visas can take around seven working days to process. Visitors will then be required to present their printed e-Visa upon entry to Kenya.
+
+**IMPORTANT** If you are travelling on one of our itineraries that re-enters Kenya, you will need to take multiple copies of your e-Visa - one to present at each border crossing.
+
+
+
+
+
+
+
+Is tipping customary in Kenya?
+
+
+
+
+
+
+
+
+
+Tipping isn’t mandatory in Kenya but a little generosity will be received positively, especially considering the low wages that Kenyan service workers are typically paid. Setting aside a small amount for porters, guides and drivers is wise, as is leaving spare change at restaurants.
+
+
+
+
+
+
+
+What is the internet access like in Kenya?
+
+
+
+
+
+
+
+
+
+Travellers will be able to access the internet quite easily in the internet cafes of Kenya’s large cities, but should expect limited or no access in regional and rural areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Kenya?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in Kenya’s large cities and towns, but less so in rural and mountainous areas. Ensure you have global roaming activated before leaving home if you wish to use your mobile phone.
+
+
+
+
+
+
+
+What are the toilets like in Kenya?
+
+
+
+
+
+
+
+
+
+Squat/pit toilets are the standard in Kenya, except for western-style flushable toilets that are sometimes available in large hotels and other modern buildings. Carry your own supply of soap and toilet paper, as this is rarely provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Street food (plate of stew) = 80 KES
+Bottle of beer in a local bar = 150 KES
+Food court or fast-food meal = 300-400 KES
+Meal at a sit-down restaurant = 700-800 KES
+
+
+
+
+
+
+
+Can I drink the water in Kenya?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Kenya. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found; some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and to peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Kenya?
+
+
+
+
+
+
+
+
+
+Credit cards are usually accepted by large hotels and western-style restaurants but not by smaller vendors. Ensure you have adequate cash to cover purchases not able to be made on credit.
+
+
+
+
+
+
+
+What is ATM access like in Kenya?
+
+
+
+
+
+
+
+
+
+ATMs are easily found in large cities and tourist areas like Nairobi and Mombasa, but are rarer in small towns, rural areas and villages. Be sure to have other payment methods available when venturing out of the big cities, as ATMs aren't always an option.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Kenya?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Kenya?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+2 Jan New Year Holiday
+
+14 Apr Good Friday
+
+17 Apr Easter Monday
+
+1 May Labour Day
+
+1 Jun Madaraka Day / National Day
+
+26 Jun Idd ul Fitr / End of Ramadan*
+
+1 Sep Idd ul Azha (Muslims only)*
+
+18 Oct Diwali (Hindus only)
+
+20 Oct Mashujaa Day
+
+12 Dec Jamhuri Day
+
+25 Dec Christmas Day
+
+26 Dec Boxing Day
+
+* Subject to changes.
+
+Please note these dates are for 2017. For a current list of public holidays in Kenya go to:
+http://www.worldtravelguide.net/kenya/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Kenya
+
+1. Be considerate of Kenya’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. Help protect endangered species by choosing not to buy ivory, coral or animal products.
+
+4. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+5. Always dispose of litter thoughtfully, including cigarette butts.
+
+6. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+7. Learn some local language and don't be afraid to use it – simple greetings will help break the ice.
+
+8. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+9. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+10. Please ask and receive permission before taking photos of people, including children.
+
+11. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+12. Be aware that many coastal communities in Kenya are quite conservative. Beach attire, when swimming, is fine but topless sunbathing isn't. Don’t forget to cover up when leaving the beach and entering towns or urban areas.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Kenya, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+New Hope Children's Centre
+
+Providing a safe home for Kenya’s orphaned and underprivileged children, the New Hope Children’s Centre receives no government funding. Relying on donations from generous patrons and supporters, this centre provides housing, food, clean water, education and health care for some of Kenya’s most vulnerable kids.
+
+Image supplied by New Hope Children's Centre.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

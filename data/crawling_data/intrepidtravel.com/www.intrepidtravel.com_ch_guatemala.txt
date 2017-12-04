@@ -1,0 +1,4475 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guatemala Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guatemala tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Central America
+
+Guatemala
+
+
+
+Guatemala is a mystical land of volcanic landscapes, misty cloud forests and steamy jungles that hide remnants of the mighty Mayan civilisation.
+
+
+With enchanting towns full of cultural riches, isn’t it about time you got acquainted with the inviting people, exotic wildlife and spellbinding stories of Guatemala?
+
+
+Top Guatemala travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+5 Jan 2018
+
+Guatemala & Beyond
+
+
+
+Guatemala & Beyond
+Antigua to Granada
+
+
+
+
+
+
+
+
+
+×
+
+Guatemala & Beyond
+
+
+
+
+
+
+
+
+
+9
+
+
+FR970
+
+
+FR776
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Guatemala to Mexico
+
+
+
+Guatemala to Mexico
+Antigua to Playa del Carmen
+
+
+
+
+
+
+
+
+
+×
+
+Guatemala to Mexico
+
+
+
+
+
+
+
+
+
+13
+
+
+FR1,515
+
+
+FR1,288
+
+
+
+
+View Trip
+
+
+
+
+
+
+20 Jan 2018
+
+Nicaragua & Costa Rica
+
+
+
+Nicaragua & Costa Rica
+Granada to San Jose
+
+
+
+
+
+
+
+
+
+×
+
+Nicaragua & Costa Rica
+
+
+
+
+
+
+
+
+
+10
+
+
+FR785
+
+
+FR707
+
+
+
+
+View Trip
+
+
+
+
+
+
+14 Feb 2018
+
+Central American Journey
+
+
+
+Central American Journey
+Antigua to San Jose
+
+
+
+
+
+
+
+
+
+×
+
+Central American Journey
+
+
+
+
+
+
+
+
+
+17
+
+
+FR1,555
+
+
+FR1,477
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Guatemala trips
+
+
+
+
+
+
+
+
+
+Best of Guatemala & Mexico
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,450
+
+
+
+
+
+Sun, fun, creatures and culture. This intoxicating adventure through the heart of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central American Journey
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR1,495
+
+
+
+
+
+Discover tropical paradise and ancient wonders on this tour of Central America,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Maya Encounter
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR1,160
+
+
+
+
+
+Enjoy a liberal dose of sun, fun and history on this amazing Mayan Encounter tour....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Land of Belize
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR950
+
+
+
+
+
+Escape to Belize on an adventure to San Ignacio and Tikal. Visit breathtaking Mayan...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central American Adventure
+
+
+
+
+
+
+
+
+
+32 Days
+
+
+From
+FR2,985
+
+
+
+
+
+Ruins, volcanoes and beachside playgrounds await on this awesome Central American...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mexico & Guatemala Highlights
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,121
+
+
+
+
+
+From the sandy playground of Mexico's Caribbean Coast to charismatic Antigua, this tour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mayan Adventure
+
+
+
+
+
+
+
+
+
+25 Days
+
+
+From
+FR2,484
+
+
+
+
+
+Discover the wonders of the Maya ruins on a dramatic tour through Guatemala; see the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing Central America
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR2,770
+
+
+
+
+
+Head from the forest to the beach on this amazing Central America tour visiting...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Central America
+
+
+
+
+
+
+
+
+
+44 Days
+
+
+From
+FR4,200
+
+
+
+
+
+Have the ultimate Central American adventure on this classic tour from Mexico to Panama...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate Central America
+
+
+
+
+
+
+
+
+
+58 Days
+
+
+From
+FR5,490
+
+
+
+
+
+This captivating adventure through Central America travels through Mexico, Belize,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Guatemala & Beyond
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR860
+
+
+
+
+
+Discover tropical paradise and ancient wonders on a tour of Central America, featuring...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+El Salvador Explorer
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,240
+
+
+
+
+
+Get an invigorating taste of El Salvador’s sultry, vibrant culture – explore ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Antigua
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR380
+
+
+
+
+
+Enjoy a taste of Guatemala on this bite-size tour of Antigua that takes in a cooking...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central America - Coast to Coast
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,690
+
+
+
+
+
+Experience the best of Central America. See Maya ruins in Honduras and Guatemala,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central America Encompassed
+
+
+
+
+
+
+
+
+
+31 Days
+
+
+From
+FR2,695
+
+
+
+
+
+An adventure tour through Mexico, Belize and Guatemala reveals the captivating history...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Guatemala & Costa Rica
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,570
+
+
+
+
+
+Encounter the cloud forests and shimmering Caribbean waters of Central America on an...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central America Discovery
+
+
+
+
+
+
+
+
+
+53 Days
+
+
+From
+FR5,540
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Central America
+
+
+
+
+
+
+
+
+
+38 Days
+
+
+From
+FR3,700
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Central America Explorer
+
+
+
+
+
+
+
+
+
+46 Days
+
+
+From
+FR4,265
+
+
+
+
+
+Escape on a Central American odyssey through Mexico, Belize, Guatemala, Honduras, El...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Central America
+
+
+
+
+
+
+
+
+
+65 Days
+
+
+From
+FR6,435
+
+
+
+
+
+Adventure through Central America's vivacious Mexico on an enthralling journey from the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Central America
+
+
+
+
+
+
+
+
+
+34 Days
+
+
+From
+FR3,820
+
+
+
+
+
+Discover the highlights of Central America from  the black-sand beaches of El Salvador...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Guatemala tour reviews
+
+
+Our Guatemala trips score an average of
+4.54 out of 5
+based on 475 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Best of Guatemala & Mexico,
+November 2017
+
+Jennifer Lewis
+
+Intrepid creates group tours that feel custom.  You get to enjoy time with others or alone however you want to spend your time.  There is a great balance of free time and planned activities.  A great way to get to know an area, the history and the people.
+
+Review submitted 02 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Central American Journey,
+October 2017
+
+Jessica Kinneally
+
+Absolute fun! Everyone asks what my favourite part was but how can you compare between brightly coloured Heritage listed towns, Costa Rican jungles with toucans and sloths, crystal clear lakes in Nicaragua, volcano boarding down active volcanoes, natural hot springs, roof top sunsets, turtle hatchlings and beach hangs! And of course the unlimited margaritas and Piña coladas. Be ready for lots of travel, lots of fun and the opportunity for lots of activities (or relax!). The accomodation was all twin share and some had a certain smell and no hot water but it didn't matter with all the fun.
+
+Review submitted 27 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Guatemala trip reviews
+
+Our Guatemala trips score an average of
+4.54 out of 5
+based on 475 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Guatemala
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 28, 2017
+
+
+
+12 facts you probably don’t know about Guatemala
+
+
+
+
+
+
+Surprising and curiosity-inducing, these Guatemala facts prove the country is...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 12, 2017
+
+
+
+Meeting Maximón, the smoking god of Guatemala
+
+
+
+
+
+
+One thing stuck out on my recent trip. Mostly because it was unbelievably strange...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 01, 2016
+
+
+
+Expedition El Mirador: our latest off-map...
+
+
+
+
+
+
+Up until the early 20th Century, El Mirador was a secret known only to nature. ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2015
+
+
+
+Check out our favourite shots from The...
+
+
+
+
+
+
+This is what happens when you let 8 pro photographers loose in Central America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 12, 2015
+
+
+
+This is what happens when you unleash 8 pro...
+
+
+
+
+
+
+Vote for your favourite shot and go in the draw to WIN $10,000 worth of travel...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 05, 2014
+
+
+
+Locals only: Antigua’s 7 best bars, cafes,...
+
+
+
+
+
+
+If you're looking for a chilled out Central American vibe, Antigua - a Guatemalan...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 11, 2014
+
+
+
+Move over Mexico: 7 awesome foods from Central...
+
+
+
+
+
+
+Move over Mexico, your neighbours have some pretty sensational tastebud pleasers...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 11, 2014
+
+
+
+Beaches, volcanoes and Maya ruins: 8 reasons...
+
+
+
+
+
+
+Sandwiched between Mexico, Belize, El Salvador and Honduras, Guatemala is one of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guatemala travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antigua
+
+
+
+
+Admire the classic colonial streetscapes of Antigua
+
+
+
+
+
+
+Maya Encounter, 17 days
+
+
+
+
+
+
+
+
+
+
+
+Panajachel
+
+
+
+
+Get stuck into outdoor activities in Panajachel
+
+
+
+
+
+
+Central American Journey, 17 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Guatemala
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Guatemala, you may find yourself travelling by:
+
+
+
+
+
+
+
+Boat
+
+Board a boat and see Guatemala from its pristine waters.
+
+
+Central American Journey
+
+Best of Guatemala & Mexico
+
+Amazing Central America
+
+
+
+
+Accommodation in Guatemala
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Guatemala you may find yourself staying in a:
+
+
+
+
+
+
+
+Homestay
+
+Be treated to a big Central American welcome while staying with a local family lakeside in San Jorge La Laguna.
+
+
+
+
+
+Guatemala holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Guatemala City (population 1.15 million)
+
+Population:
+
+13.8 million
+
+Language:
+
+Spanish
+
+Currency:
+
+GTQ
+
+Time zone:
+
+(GMT-06:00) Central America
+
+Electricity:
+
+Type A (North American/Japanese 2-pin) Type B (American 3-pin)
+
+Dialing code:
+
++502
+
+
+
+
+
+
+
+
+
+Best time to visit Guatemala
+
+
+
+
+
+
+×
+
+Best time to visit Guatemala
+
+
+
+
+The dry season is from October to April, and this is generally considered to be the best time to visit as the weather is warm and sunny. However, this is also the busiest time to travel so expect more people about, especially around Christmas and Easter.
+
+The wet season is from May to October. During this time, some activities and roads may be restricted; however, it usually only rains for around an hour or two in the afternoon. As this is the low season for travel, you can enjoy the sites with less people around.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Guatemalan culture is a vibrant mix of Spanish, European and Mayan customs and languages. Although most of the population is Catholic, there are still groups of indigenous people who have links to ancient Mayan rituals and practice these alongside Christian worship. Although Guatemalan culture has recently been more exposed to foreign brands, media and pop culture, indigenous customs, dress, language and cuisine still persist, especially in villages where you can commonly see people dressed in colourful native garb, celebrating a variety of traditional festivals and creating indigenous handicrafts to sell at village markets.
+
+The Guatemalan population is one of great contrasts, with daily life varying greatly depending on social status, ethnic identity and geography. City dwellers range from well-off business owners to cultured university students and humble street cart owners. Rural life also varies - many people that live in villages rely on subsistence farming or handicraft making, and typically have less access to electricity, plumbing, health care and education. To travel in Guatemala is to be exposed to a variety of people, with each group having unique customs and ways of life.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+The cuisine of Guatemala is among the best in
+Central America
+so hit the markets for some street food or a restaurant for a more formal meal.
+
+Things to try in Guatemala
+
+1. Tamales
+
+Found throughout Latin America, this is one of the most popular comfort foods in Guatemala. Tamales are a corn-dough based dish, boiled or steamed and are served wrapped in a plantain leaf. Typical fillings include chicken, pork cheese and vegetables, as well as sweet, dessert fillings like fruit or almonds.
+
+2. Spiced Mango
+
+Most cities and markets in Guatemala will have street carts selling mango spiced with chilli and lime. The blend of sweet and bitter flavours is a treat for the tastebuds.
+
+3. Lemonadia Con Soda
+
+This zesty soft drink is made with real lemons and makes a refreshing drink on a hot and steamy day.
+
+4. Elotes
+
+The simplicity of this dish is what wins travellers over. Take a fresh ear of corn, roast it on a barbecue, add cheese, lime, butter and chilli, and serve it on a stick. Elotes will win you over as a delicious, cheap and easy-to-eat snack on the run!
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Sharing borders with
+Belize
+,
+Mexico
+, Honduras and El Salvador, Guatemala is mainly mountainous, except for pockets of land on the south coast and northern lowlands. With large tracts of rainforest, cloud forest, woodlands and mangroves, Guatemala is one of the most bio-diverse countries in the world, providing a habitat for a huge range of birds, mammals, reptiles and insects. However, widespread logging and deforestation has dramatically reduced the forests that once occupied the area. The fertile valleys provide perfect conditions for the growth of coffee and other cash crops, but with volcanic eruptions and frequent floods and landslides, farming can be difficult. Despite this, many Guatemalans live a rural existence and visitors will be able to see many small villages and towns dotted throughout the country, as well as larger cities with more developed infrastructure.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Before the Spanish arrived, the Mayan civilisation had long inhabited Guatemala and surrounding countries. Visitors will be able to see traces of this once mighty civilisation all over the country as a remarkable amount of well-preserved ruins still exist in Guatemala. It is thought that the Mayan civilisation was already in a state of decline by the time the Spanish arrived, and between 1523 and 1524 the Mayans were defeated. A Spanish colony was soon established. The first Guatemalan capital was destroyed by an earthquake and flooding in 1542, resulting in Antigua being established as the new capital. Although later earthquakes in 1773 caused widespread damage, much of the colonial-style architecture has been preserved and can be seen if visiting today.
+
+Recent History
+
+Gaining independence in 1821, Guatemala entered into the Mexican Empire and, for a brief period of time, also belonged to the United Provinces of Central America. By the 1900s, Guatemala had been subjected to many changes in government and power, having changed hands between a variety of dictators and insurgents via coups and civil war. Between1960 and 1996, the country endured the effects of the Guatemalan Civil War, which included genocide, economic hardship, violence and displacement. A peace process was underway by the late 1980s, but it took many years to restore democratic rule and peace to the country. More recently, Guatemala’s economy has improved, mainly due to the strength of the local agriculture and tourism industries. Although there have been improvements in the economy of the country, unfortunately many Guatemalans still live in poverty.
+
+
+
+
+
+
+
+
+Birds To Spot in Guatemala
+
+
+
+
+
+
+×
+
+Birds To Spot in Guatemala
+
+
+
+
+Top 10 Birds To Spot in Guatemala
+
+1. Keel-Billed Toucan
+
+This tropical feathered icon is synonymous with Central America. Often found in pairs or groups, keel-billed toucans love using their huge beaks to chomp on fruit and nuts. Abundant populations make them easy to find in the rainforests and jungles of Guatemala.
+
+2. Guatemalan Screech Owl
+
+In Guatemala, owls represent luck and prosperity so you’ll see plenty of owl trinkets, statues and jewellery in the shops and markets. Hopefully, you’ll also get to see a Guatemalan Screech Owl hiding in the tress of woodlands and forests. Listen for its faint but distinct call.
+
+3. Resplendent Quetzal
+
+Guatemala’s national bird is a colourful mix of emerald green, scarlet red and white. The males feature a very long tail, which makes launching into flight difficult, so they often jump backwards first – like a parachutist!
+
+4. Wine-Throated Hummingbird
+
+These tiny birds nestle in the cloud forests of highland Guatemala. Despite their size, they’re not impossible to spot – just look for its green head and stunning, magenta throat.
+
+5. Pale-Billed Woodpecker
+
+The distinct ‘rap rap rap’ of the woodpecker gives away its location every time. The black, white and red coloured pale-billed woodpecker is commonly found in Tikal so keep an eye out for them while visiting the Tikal ruins.
+
+6. King Vulture
+
+Revered in Mayan mythology and commonly represented in temples and artwork, majestic king vultures glide on thermal currents for hours, searching for food, so look up to see them soaring above.
+
+7. Horned Guan
+
+This endangered species can be found in the highland regions of Guatemala lurking in the cloud forests. With a bright red feathered horn on the top of their heads, it’s not hard to spot these magnificent creatures.
+
+8. Scarlet Macaw
+
+These vibrant and curiously beautiful birds are endangered but can still be found in some of Guatemala’s biosphere reserves. Poaching and habitat destruction has led to a decline in their populations, but conservation groups are currently helping to save the species. See them while you can!
+
+9. Ringed Kingfisher
+
+These noisy birds can be found near large bodies of water as their favourite food is fish, although they will also eat reptiles, insects and berries. Named for the wide, white collar that features on its neck, you won't have many problems finding this species as they are found in great numbers throughout Central and South America.
+
+10. Blue-Crowned Motmot
+
+This striking, multi-coloured bird has a green and yellow body with a turquoise-fringed face and deep-set red eyes. Motmots love humid conditions so can be found in forests, plantations and gardens throughout tropical Guatemala.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Although Guatemala does have a few modern malls, the most interesting shopping experiences will come via the many markets featured throughout the villages and cities.
+
+Most importantly, have fun and don’t forget to haggle for a good price! It's also a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Guatemala
+
+1. Traditional Handicrafts
+
+Colourful blankets, shawls, scarves and clothing, wooden carvings, woven basketry and hand-made ceramics all make great souvenir options.
+
+2. Art
+
+Guatemalan paintings are typically colourful and uplifting. The galleries and markets of Antigua are one of the best spots to pick up unique art – from traditional paintings, to folk art and contemporary pieces by emerging local artists.
+
+3. Coffee
+
+Guatemala produces and exports some of the best coffee in the world. Coffee lovers should stock up here where the quality and price is good.
+
+4. Chocolate
+
+Guatemala also creates some of the finest chocolate in the world. Head to a chocolate shop and choose from bitter dark chocolate, spicy chilli and cinnamon chocolate or perhaps pick up some rich hot chocolate mix to take home.
+
+
+
+
+
+
+
+
+Festivals and Events in Guatemala
+
+
+
+
+
+
+×
+
+Festivals and Events in Guatemala
+
+
+
+
+Day of the Dead
+
+This well-known holiday that honours the dead is celebrated all over the country. Guatemalans usually fly massive kites, visit the graves of ancestors and eat ‘fiambre’ (a giant mixed salad consisting of meat, cheese, olives, egg, corn and onion). Colourful altars decorated with flowers and skulls can also be found in homes, shops and streets during this time.
+
+Fiesta de Santo Tomas
+
+The highland town of Chichicastenango is home to one of the best outdoor markets in Central America, and also this extraordinary annual festival. Combining Catholic and Mayan traditions, expect to see lively processions of costumed dancers, firecracker explosions, exotic pageantry and kamikaze-style bungee jumping.
+
+
+
+
+
+
+
+Guatemala travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Guatemala
+
+
+
+
+
+
+
+
+
+GUATEMALA:
+Australia: Not required
+Belgium: Not required
+Canada: Not required
+Germany: Not required
+Ireland: Not required
+Netherlands: Not required
+New Zealand: Not required
+South Africa: Yes - in advance
+Switzerland: Not required
+United Kingdom: Not required
+USA: Not required
+
+
+
+
+
+
+
+Is tipping customary in Guatemala?
+
+
+
+
+
+
+
+
+
+It's customary to add 10% to restaurant bills (if this hasn’t already been included). Tipping elsewhere is optional, but leaving spare change at small cafes is a good idea as most Guatemalans typically earn little.
+
+
+
+
+
+
+
+What is the internet access like in Guatemala?
+
+
+
+
+
+
+
+
+
+Internet cafes and Wi-Fi hotspots are becoming more prevalent in Guatemala’s cities, although the connection may be slower than what you’re used to. Remote areas will have little to no internet access.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Guatemala?
+
+
+
+
+
+
+
+
+
+Using your mobile phone while in the cities of Guatemala shouldn’t be problematic. Coverage may be less reliable in remote and mountainous areas. Ensure you have global roaming enabled before leaving your home country if you wish to use your mobile.
+
+
+
+
+
+
+
+What are the toilets like in Guatemala?
+
+
+
+
+
+
+
+
+
+Many tourist sites and restaurants have flushable toilets, although some remote areas may have compostable or drop toilets. It’s a good idea to carry your own toilet paper and soap as these aren’t always provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Cup of coffee at a cafe = US$1.50
+A bottle of beer = US$2
+Basic meal = US$4
+Dinner at an international restaurant = US$10-15
+
+
+
+
+
+
+
+Can I drink the water in Guatemala?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Guatemala. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water; ask your leader where filtered water can be found. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Guatemala?
+
+
+
+
+
+
+
+
+
+Credit cards can be used at most large restaurants, shops and other tourist establishments. Expect to pay cash when dealing with smaller vendors, family-run restaurants and market stalls.
+
+
+
+
+
+
+
+What is ATM access like in Guatemala?
+
+
+
+
+
+
+
+
+
+Internationally compatible ATMs can be found in most of Guatemala’s major cities. ATMs are far less common in rural areas and small villages so have enough cash to cover purchases when travelling away from the larger cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Guatemala?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Guatemala?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+13 Apr Holy Thursday
+
+14 Apr Good Friday
+
+15 Apr Easter Saturday
+
+1 May Guatemalan Labor Day
+
+30 Jun Army Day
+
+15 Sep Independence Day
+
+20 Oct Revolution Day
+
+1 Nov All Saints Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Guatemala go to:
+http://www.worldtravelguide.net/guatemala/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Guatemala
+
+1. Be considerate of Guatemala’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+6. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+7. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+8. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+9. Please ask and receive permission before taking photos of people, including children.
+
+10. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Guatemala, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+CasaSito
+
+CasaSito provides educational opportunities in rural areas of Guatemala for children living in poverty. Guatemala has a very high level of illiteracy, particularly in rural areas which lack schools and educational resources. Our support is for their scholarship program, helping keep children in school.
+
+Photo provided by CasaSitol.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

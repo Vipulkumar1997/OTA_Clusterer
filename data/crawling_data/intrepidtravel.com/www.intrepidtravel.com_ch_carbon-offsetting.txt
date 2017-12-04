@@ -1,0 +1,2881 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbon Management | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbon Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Carbon Management
+
+
+
+
+Intrepid Travel is proud to be a
+carbon neutral travel company
+. Our 27 offices around the world are carbon neutral, and we offset the emissions from over 1,400 trips – caused mainly by transport, accommodation and waste. Intrepid became carbon neutral in 2010; since then we’ve offset more than 250,000 tonnes of CO2 emissions.
+
+At a glance
+
+Carbon neutral since 2010
+
+27 carbon neutral offices around the world
+
+1,400+ carbon offset multi-day tips
+
+42,000 tonnes of carbon emissions offset in 2016
+
+250,000 tonnes of carbon emissions offset since 2010
+
+AU$1.6 million invested into renewable energy projects since 2010
+
+How we offset
+
+
+
+
+
+
+
+
+
+
+1. Measure
+
+We measure and offset the main sources of carbon emissions created on our trips from transport, accommodation and waste generated by travellers and leaders.
+
+When it comes to our 27 offices around the world, we measure and offset the carbon emissions produced from electricity, gas, waste, and business travel.
+
+
+
+
+
+
+
+
+
+
+2. Reduce
+
+We are committed to reducing our environmental impact on our trips and in our global offices.
+
+On trips, we do this by using public transport, encouraging travellers to take reusable water bottles, and minimising the number of flights included in our itineraries. In our offices, we recycle waste and conserve water.
+
+
+
+
+
+
+
+
+
+
+3. Offset
+
+To offset our carbon emissions we invest in renewable energy projects. Examples of these include reforestation programs in Kenya and Australia, wind turbine projects in Turkey and the USA, and water filter initiatives in Cambodia.
+
+In 2016, we offset 42,000 tonnes of carbon emissions. Intrepid has invested AU$1.6 million into renewable energy projects since 2010.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View our carbon offset projects
+
+
+
+
+
+
+
+
+FAQ
+
+
+
+
+
+What is climate change?
+
+
+
+
+
+
+
+
+
+Climate change is the term commonly used when talking about global warming. The Earth is like a giant greenhouse, but instead of glass panes trapping the heat, it has gases such as methane and carbon dioxide. As the sun's rays shine on the Earth, this blanket of gases (Earth's atmosphere) traps in some of the heat and keeps the planet at a relatively constant temperature. Without it the Earth would either get too hot or too cold.
+
+When greenhouse gases are released into the atmosphere by human activity – such as burning fossil fuels and clearing land – it's as if we’re adding extra ‘glass layers’ to the greenhouse, ultimately raising the temperature inside. If we don't reduce greenhouse gas emissions, there's a risk that the Earth will heat to a level that could seriously affect life on our planet. For more information on climate change, visit the
+Australian Conservation Foundation's website
+. For the latest scientific observations of climate change, visit the
+Intergovernmental Panel on Climate Change's website
+.
+
+
+
+
+
+
+
+What is carbon offsetting?
+
+
+
+
+
+
+
+
+
+Carbon offsetting is a way for individuals and businesses to balance out their greenhouse gas emissions by allocating funds to emission reduction programs. For example, if your flight emits 4.14 tonnes of CO2, you can balance out these emissions by purchasing 4.14 tonnes of carbon credits from carbon offset programs which work on avoiding or absorbing CO2 emissions, such as renewable energy initiatives.
+
+Still confused? Try this simple analogy. If you ate 300 calories worth of pizza but then walked around for two hours, the net impact (in terms of calories) of eating the pizza would be zero. While it's not ideal – in that you probably shouldn't have eaten all that pizza in the first place – it's far better than not doing anything at all. Carbon offsetting works in a similar way.
+
+
+
+
+
+
+
+What does it mean to be carbon neutral?
+
+
+
+
+
+
+
+
+
+There's no internationally agreed definition for "carbon neutral". Australia has recently defined carbon neutrality under the National Carbon Offset Standard (July 1, 2010) as "a situation where the net emissions associated with a product or an organization's activities are equal to zero through the acquisition and cancellation of carbon offsets that meet additional criteria". The general principle: to have a "carbon neutral" product or service means to have zero net CO2 emissions for the activities assessed.
+
+
+
+
+
+
+
+How does Intrepid Travel maintain its carbon neutrality?
+
+
+
+
+
+
+
+
+
+Being carbon neutral involves calculating our climate-damaging carbon emissions, avoiding, reducing and seeking a less carbon-intensive alternative where possible, and then balancing the remaining emissions through carbon offsetting activity. Intrepid follows a project plan which describes the activities and milestones necessary to keep us carbon neutral year after year.
+
+
+
+
+
+
+
+How does Intrepid Travel measure its trip emissions?
+
+
+
+
+
+
+
+
+
+We initially conducted detailed assessments of the carbon emissions generated by 38 of our most popular trips around the world. With so many trip components potentially emitting greenhouse gases, we had to define clear boundaries of what we would assess and subsequently offset. We decided to concentrate on the main emissions – these being transport, accommodation and waste.
+
+Our trip leaders, given their experience and expert knowledge of the precise activities, locations and transport modes of the trips, collected the data. We then sent this data to an independent assessor to determine the carbon emissions associated with each element. The scope of components included in our emissions assessment was:
+
+Transport: all intra-trip travel, including flights included as part of the trip, taxis, tuk tuks, boats and trains. As direct emissions from transport make up the vast majority of emissions when travelling, carbon offsetting this component is vital.
+
+Accommodation: all included accommodation, from hotels to camping.
+
+Waste: while we attempt to reduce waste in all ways possible, recycling isn't accessible in all countries we visit. We have therefore considered emissions generated through the average waste generated per person in that particular region.
+
+By completing a detailed assessment of emissions on our top 38 trips, we were able to use this data and extrapolate it across our whole portfolio of trips, by trip style and region. In doing so, we could offset the carbon emissions of our trips on behalf of our passengers.
+
+So by choosing Intrepid, you’re travelling in a way which dramatically reduces your carbon footprint.
+
+
+
+
+
+
+
+How does Intrepid Travel reduce the environmental impact of its trips?
+
+
+
+
+
+
+
+
+
+Our trips are low impact by design. How? We use public transport where possible, stay in locally owned and simpler styles of accommodation, and eat at locally owned eateries where the food has been locally sourced, therefore reducing food mile emissions.
+
+To minimise carbon emissions on our trips, we make the following considerations:
+
+Local services
+: We engage locally owned and operated services, thereby supporting local people and avoiding the use of long, carbon-intensive supply chains.
+
+Local transport
+: We use local public transport wherever we can to reduce fuel usage per passenger.
+
+Water Conservation:
+We support initiatives that encourage conservative use of water and hot water, such as low-flow shower hoses.
+
+Local food and goods
+: We endeavour to include, and strongly encourage our travellers to eat, locally produced food and goods. This reduces the 'embodied energy' (energy consumed through production and transport) of the food and goods purchased by our passengers.
+
+Water bottles
+: The production of a one-litre plastic bottle takes two litres of water and 200 millilitres of oil. So for every one litre of water sold, three litres of water is used. We encourage our passengers to refill a water bottle from water 'bubblers' where available to avoid unnecessary purchasing of bottled water and subsequent waste disposal issues.
+
+Economic empowermen
+t: Economic empowerment of local communities through tourism can help improve education, health services, water supplies and sanitation, and reduce dependence on non-sustainable livelihoods such as deforestation.
+
+Local employment
+: We employ local leaders and guides so that we learn about other cultures and ways of life directly from those who live it – and it puts money into local hands and economies. We can particularly learn from indigenous rural communities about their relationship to the land and how they've practiced sustainable agriculture for centuries.
+
+Recycling
+: Intrepid leaders educate our travellers about how they can practice principles of ‘reduce, reuse and recycle’ and dispose appropriately of waste in their particular destination.
+
+
+
+
+
+
+
+
+How does Intrepid Travel reduce the environmental impact of its offices?
+
+
+
+
+
+
+
+
+
+We're using 100% Green Power energy (where available) in our offices and retail stores.
+
+We observe 'reduce, reuse and recycle' policies when it comes to our paper usage. All office paper and paper products are recycled where possible, and we purchase Forest Stewardship Council (FSC)-accredited or similarly sustainably sourced paper. Double-sided printing is the default setting on all printers.
+
+We have implemented a Waste Management System in many of our offices which has dramatically reduced what we send to landfill and maximised what goes off for recycling.
+
+We're conscious that our brochures consume a lot of paper, so since 2000 we've had an annual tree-planting day. In the last year, staff and travellers planted over 1,100 trees and shrubs.
+
+We have reviewed our lighting and have successfully 'de-lamped' unnecessary bulbs.
+
+We have regular presentations for staff on sustainability matters as waste reduction, sustainable seafood options and ethically sourced paper.
+
+We encourage our staff to walk or cycle to work. We also encourage the use of public transport.
+
+Our offices set emission reduction targets every year, and implement initiatives to meet these targets.
+
+
+
+
+
+
+
+
+How does Intrepid Travel calculate the carbon offsetting cost?
+
+
+
+
+
+
+
+
+
+The carbon offsetting cost is embedded in the price of the trip – so our passengers have no additional fee to worry about. The average offset cost embedded in our trip price is between $0.14 and $0.42 USD per passenger per day (dependent on the trip and region you are traveling to). Even with the offset included, these trips are still competitive, ensuring you get the best price for a fantastic grassroots adventure with a reduced environmental impact.
+
+
+
+
+
+
+
+What carbon offsetting assessment standards does Intrepid Travel use?
+
+
+
+
+
+
+
+
+
+Greenhouse gas emissions generated as a result of stationary energy use, transportation and waste generation and disposal are assessed in accordance with the GHG Protocol (A Corporate Accounting and Reporting Standard Revised Edition, World Resource Institute & World Business Council for Sustainable Development - 2007).
+
+Information relating to energy use, waste generation and disposal rates are based on data provided by Sustainability Victoria and the United Nations Statistics Division. Emission factors are derived from a number of sources, including the Department of Climate Change (DCC), Intergovernmental Panel for Climate Change and the World Resource Institute.
+
+
+
+
+
+
+
+Why do companies charge different amounts for offsets?
+
+
+
+
+
+
+
+
+
+A tonne of carbon can vary greatly in price due to two main reasons:
+
+The cost of producing the offset; and
+
+the assessment boundary and method used in determining how much greenhouse gas was produced in a specific activity, which then determines the number of offsets required.
+
+
+
+
+
+
+
+
+Why the focus on carbon dioxide and not other greenhouse gases?
+
+
+
+
+
+
+
+
+
+Greenhouse gases include methane, nitrous oxide and halocarbons, but the mostly commonly referred to greenhouse gas is carbon dioxide (CO2) – thus CO2 has become the standard measure of greenhouse gas emissions. Greenhouse gases are released every time we turn on the light at home, switch on our computer, take a flight or drive a car.
+
+
+
+
+
+
+Read more about carbon management
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 16, 2017
+
+
+
+9 alternative travel spots for 2018
+
+
+
+
+
+
+Here at Intrepid we’re all about tackling the negative impact of over-tourism. And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 20, 2017
+
+
+
+7 years of carbon neutral: this is how Intrepid...
+
+
+
+
+
+
+This Earth Day marks 7 years since Intrepid Travel became one of the biggest...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 20, 2017
+
+
+
+Small ways you can make every day Earth Day...
+
+
+
+
+
+
+Climate change is real and it's happening now. How can we, as travellers, make...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 22, 2015
+
+
+
+This one tool will change the way you drink...
+
+
+
+
+
+
+Have you ever looked around at the plastic water bottles strewn along rivers,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 22, 2015
+
+
+
+How I created a social enterprise to empower...
+
+
+
+
+
+
+I have always believed that the fashion industry can be a powerful force for good,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

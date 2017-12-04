@@ -1,0 +1,3414 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Myanmar | Myanmar (Burma) Tours | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Myanmar
+
+
+
+
+
+
+
+
+
+
+
+Days
+
+12
+
+
+
+Style
+
+Comfort
+
+
+
+Travellers rating
+
+
+62 reviews
+
+
+From
+
+FR1,867
+CHF
+
+
+
+
+
+View dates
+
+
+
+
+Home
+
+Asia
+
+Myanmar (Burma)
+
+Classic Myanmar
+
+
+
+
+
+
+
+
+
+
+Let Myanmar bewitch you with its beguiling mix of ancient temples, floating markets, magical cities and more.
+
+
+
+
+Travel to Myanmar and discover a country of mythical landscapes, ancient treasures and some of the friendliest folk you’ll ever meet. From the glittering spires of Shwedagon Pagoda, and the ancient temples of Bagan, to the tranquillity of Inle Lake and the lively atmosphere of Mandalay, Myanmar will excite, impress and intrigue you. Full of rarely seen sights and stories just waiting to be told, come and experience the magic of Myanmar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start
+
+Yangon, 
+  Myanmar (Burma)
+
+Finish
+
+Yangon, 
+  Myanmar (Burma)
+
+Country
+
+Myanmar (Burma)
+
+Style
+
+Comfort
+
+Theme
+
+Explorer
+
+
+
+
+
+Code
+
+TTKA
+
+Physical rating
+
+
+Ages
+
+Min 
+  15
+
+Group size
+
+Min 
+  1, Max 
+  12
+
+
+
+
+
+
+
+Why we love this trip
+
+
+
+
+Begin a Myanmar discovery with the symbolic and iconic Shwedagon Pagoda, a magnificent glittering temple crowning Yangon
+
+
+
+Experience the incredible sight of Bagan’s sea of temples and explore the best of 4,000 temples and monasteries
+
+
+
+Enjoy an afternoon cruise to Mingun, and visit the world's largest pagoda, then return to watch the sunset over the Ayeryarwady River
+
+
+
+Soak up the tranquillity of Inle Lake and sample the hospitality of the Shan people, one of many groups that contribute to the ethnic diversity of this colourful country
+
+
+
+
+
+
+Is this trip right for you?
+
+
+
+
+If you would like to climb or enter the temples in and around Bagan, please be aware you will need to remove your footwear and socks. In addition, some of the temple steps are very steep, and without railings, so caution will need to be exercised.
+
+
+
+This trip includes half a day walking around Indein village at Inle Lake. You will walk on uneven tracks to a Shan tribal village. Total walking time is around 5 hours, but this will depend on fitness and wishes of the group, and weather.
+
+
+
+To save time on this trip there are 3 internal flights. Please note these are likely to be on smaller aircraft.
+
+
+
+Travel drive from Mandalay to Bagan (approximately 5 hours) by private vehicle, to save time transiting at airports, and so you can relax and watch the scenery.
+
+
+
+The heat and humidity between March and October can be very intense. Your local leader will adjust activities to suit the local conditions and the needs of the group, however be prepared for the heat and the rain during this time of year and pack accordingly.
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Itinerary
+
+Expand All
+
+Collapse All
+
+
+
+
+This itinerary is valid for departures from 01 January 2017 to 31 December 2017.
+View the itinerary for departures between 01 January 2018 - 31 December 2018
+
+
+
+
+
+
+
+Day 1: Yangon
+
+
+
+
+
+
+
+
+
+Min Gala Ba! Welcome to Myanmar. The former capital of Myanmar (Burma), Yangon – meaning ‘End of Strife' – has been through tough times. Surviving protests, natural disasters and economic uncertainty, this city remains the commercial, historical and cultural heart of Myanmar.
+
+An airport arrival transfer is included (if booked in advance) and there will be a Welcome Meeting at 6pm today. Please look for a note in the hotel lobby or ask reception where it will take place. We'll be collecting insurance details and next of kin information at this meeting, so please ensure you bring these details to provide to your leader.
+
+Arrive at any time today, and in any free time before the meeting, get your bearings and a taste of this wonderful city. Perhaps take a walk to Sule Paya then down to the Victorian Strand Hotel to admire both the colonial architecture and the bargaining madness of Bogyoke Market. Maybe take an Urban Adventure with a local guide, such as the Let Yangon Take You For a Ride, or take the circle train through the city and suburbs and see local life in Yangon.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Yangon - Bogyoke Market (Scotts Market) - Free
+
+Yangon - Sule Pagoda - MMK3000
+
+Yangon - Let Yangon Take You For a Ride Urban Adventure - USD33
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 2: Yangon
+
+
+
+
+
+
+
+
+
+Yangon is Myanmar's largest city and home to a wealth of ancient relics, attracting an extraordinary mix of monks, pilgrims, worshippers and tourists. Get to know this fascinating city better on a morning walking tour, including a visit to the old colonial area. In the afternoon, explore one of the great sites of Myanmar – the legendary Shwedagon Pagoda. The legendary gold-gilded pagoda is studded with diamonds and gems, and is said to contain eight hairs of the Buddha. It’s a particularly impressive sight at sunset when the lights come on and the stupa shines beautifully. Spend the afternoon walking around the complex, taking in the history, spiritual significance, beauty and ambiance of this ancient site.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Yangon - Shwedagon Pagoda
+
+Yangon - Kandawgyi Lake
+
+Yangon - Walking Tour
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 3: Mandalay
+
+
+
+
+
+
+
+
+
+This morning head to the airport and catch a flight to Mandalay. The departure time will vary depending on flight availability. The flight takes approximately one hour, and after landing it’s approximately a one-hour drive to the city and your hotel. Mandalay is Myanmar’s ‘Jewel City’, and you’ll savour the sights, sounds and flavours of this bustling metropolis on a city tour. Learn about the city's gold-leaf pounding industry and visit Mahamuni Buddha, Shwenandaw Monastery and Kuthodaw Paya. Head to Mandalay Hill in the evening and catch a spectacular sunset over the city. Tonight you might enjoy a walk to one of the markets, where a great time can be had enjoying the hustle and bustle or bargaining for local wares.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Mandalay - Gold Leaf Pounding Workshop
+
+Mandalay - Mahamuni Buddha Temple
+
+Mandalay - Mandalay Hill
+
+Mandalay - Kuthodaw Paya
+
+Mandalay - Shwenandaw Monastery
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 4: Mandalay
+
+
+
+
+
+
+
+
+
+Spend a free morning at your leisure before regrouping in the afternoon and making our way down to the city’s waterfront. The lively scene offers an interesting backdrop for your boat trip upriver to Mingun. Head to the archaeological site of Mingun, the location of a number of interesting sights, including the world's largest (albeit unfinished!) pagoda – Pahtodawgyi. It’s also home to the world’s second largest ringable bell, the beautiful white Hsinphymae Pagoda, and temples dating back hundreds of years. The river is effectively a major trading, communication and commuting route and a wide range of different boats, barges and steamers can be viewed along the way. The journey usually takes 1 hour on the way there, and 40 minutes on the way back. Enjoy a free evening to soak up the beautiful riverside life in Mandalay.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Mandalay - Boat trip to Mingun
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 5: Bagan
+
+
+
+
+
+
+
+
+
+Rise extra early this morning to catch a spectacular sunrise at U Bein Bridge, the world's longest teak bridge. Afterwards, enjoy a scenic drive from Mandalay to Bagan (approximately 5 hours). Arrive in Bagan, Myanmar’s ancient city famous for the Bagan Archaeological Area, where more than 2,000 Buddhist monuments tower over green plains. Ready yourself to experience one of the most impressive archaeological wonders of Asia tomorrow.
+
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Mandalay - U Bein Bridge
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 6: Bagan
+
+
+
+
+
+
+
+
+
+Explore the incredible sights of Bagan today. This archaeological site is where Theravada Buddhism was introduced to the Kingdom of Bagan, and was once the site of 10,000 temples, pagodas and monasteries. Today, the ancient city still has over 4,000 brick and gilded ruins, and is a remarkable sight. Nyaung U’s lively market contrasts with the eerie silence of the plains littered with temples, pagodas, stupas and ruins, including Gawdawpalin, Thatbyinnyu, Ananda and Shwezigon – all names of temples and pagodas that bear testament to a glorious past. The graceful ageing of the temples, the stucco peeled off by the dusty winds, has revealed beautifully rusty red bricks that glow golden brown in the sun. Marvel at the spire-lined skyline, the lion-guarded doors, the wood carvings inside, and the foliage-covered ruins. Stop for lunch at the Sanon restaurant, a working hospitality training centre, with profits reinvested back into the training and education of youth in Myanmar, and further social enterprise projects. After visiting a local lacquerware workshop to gain insight into a craft this place is famous for, you might catch a glorious sunset from one of the ruins.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Bagan - Sanon Restaurant lunch
+
+Bagan - Archaeological tour
+
+
+Optional Activities
+
+
+Bagan - Horse Cart tour - MMK15000
+
+Bagan - Dandaree Culture Show - USD50
+
+Bagan - Archaeological Museum - MMK5000
+
+
+Meals Included
+
+
+Breakfast
+
+Lunch
+
+
+Special Information
+To fully enjoy the day out, please make sure you wear comfortable clothes and adequate protection from the sun (long sleeves, sunglasses and hat).
+
+A highlight of Bagan for many travellers is an optional sunrise hot air balloon flight over the site, possible on the mornings of Days 6 or 7 (depending on availability). Experience breath-taking views above the stupa-studded landscape, followed by a light breakfast and champagne. The experience runs for approximately 2.5 hours, with flights times an average 45 minutes (though it can range from 1 hour to 20 minutes subject to local conditions). Weather dependent, flights operate between October through to March. Advance bookings are highly recommended as places are limited. Please ask your booking agent for further details of the Premium and Classic service options.
+
+
+
+
+
+
+Day 7: Bagan
+
+
+
+
+
+
+
+
+
+Journey to the town of Pakkoku (approximately 1 hour) and visit Action Aid, a volunteer project that is helping locals in the area to get back on their feet following damaging floods in mid-2015. In the afternoon, return to Bagan for free time and further explore this amazing city. You might hire a bicycle or even take a horse carriage and enjoy your own exploration of the seemingly endless archaeological sites. If you’d rather stay in town then there are the cafes or the nearby Nyaung U Market – one of the more interesting markets in the country.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Pakkoku - Village visit to Action Aid project
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 8: Inle Lake
+
+
+
+
+
+
+
+
+
+Today drive approximately 25 minutes to the nearest airport in Nyuang U, and then hop on a plane to Heho (approximately 40 minutes), the gateway for Inle Lake. The calm waters of Inle Lake are the life-blood for many ethnic minority communities. They live in stilt houses along the lake's shallow fringes and surrounding areas. You’ll drive through picturesque countryside and rolling hills to your final destination, Nyaungshwe (approximately 45 minutes). This afternoon you might like to rent a bicycle and ride out to a local winery, where you can sample some of the local varieties and enjoy great sunset views. Otherwise, the town of Nyaungshwe is easy to walk around and explore.
+
+Notes: You will notice that the weather is rather cooler here due to the high altitude. At certain times of year there can be lots of insects around the lake. Please read ‘what to take’ section for further information.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Inle Lake - Red Mountain Estate Winery Tasting - MMK3000
+
+Inle Lake - Bicycle hire - MMK3000
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 9: Inle Lake
+
+
+
+
+
+
+
+
+
+A full day is spent on the lake seeing local life, exploring the floating gardens, and catching a glimpse of the local Intha fishermen who are famous for their unique 'leg-rowing' technique. The Intha leg-rowers navigate their long, narrow craft by standing on the stern with one leg and wrapping the other around the oar. This unique style evolved because the reeds that cover the lake and the floating plants make it difficult to see above them while sitting. The lake is also home to a wide array of bird-life including egrets, cranes, ducks, storks and various birds of prey. Visits may be made to some of the local villages, home to cottage industries such as silversmiths, weavers and cigar makers. If you’re lucky, you might even see the floating market which circles the lake every five days. Here you can buy traditional wares produced by the locals.
+
+Notes: Make sure to pack some sunscreen and a hat – it gets hot on the lake with no shade.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Inle Lake - Boat trip & village tour
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 10: Inle Lake
+
+
+
+
+
+
+
+
+
+After breakfast, take a longtail boat down a long, narrow canal to the Indein ruins complex (approximately 45 minutes). Disembark and discover a pagoda and stupas built in the 8th century. Explore the atmospheric ruins; crumbling stupas being reclaimed by greenery, and up a hill over 1000 zedi from the 17th and 18th centuries. Enjoy views across the valley and lake from the pagoda, browsing through the rows of shops along the corridor uphill, or just marvel at the surroundings. After some time exploring, start a walk towards to the Yankin, Pa O and Taung Yoe villages (1.5 kilometres, approximately 45 minutes). Along the way, explore the mystery of more than 300 ancient stupas around the village and then continue 1 kilometre, approximately 30 minutes, to a Buddhist monastery. Next, head north to Naydaw (1.5 kilometres, approximately 45 minutes) to Taung Yoe ethnic tribe village through farmland and bamboo forest. From here, turn south-west (5 kilometres, approximately 3 hours) through the valley ups and downs to west Taung Mauk, Pa O village. A 20 minute walk will get you to east Taung Mauk village. Finally, turn east through valley to Indein (3 kilometres, approximately 45 minutes) where you’ll meet your boat and return back to the hotel. This evening, reward all your efforts today with a traditional Shan dinner, where you’ll get to sample some of the local-style culinary specialties.
+
+Notes: The amount of walking advisable today will depend on individual and group fitness and wishes, and also the time of year. In the hotter months from March to October, reduced distances are often advisable, and arrangements can be discussed with your tour leader the day before.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+Inle Lake - Indein Temples Visit
+
+Inle Lake - Traditional Shan Dinner
+
+
+Meals Included
+
+
+Breakfast
+
+Dinner
+
+
+
+
+
+
+
+
+Day 11: Yangon
+
+
+
+
+
+
+
+
+
+Catch a morning flight back to Yangon (approximately 1 hour – departure time will depend on flight availability) and discover more of this beguiling city in some free time. Visit Sule Pagoda in the heart of downtown Yangon or acquire some local handicrafts at the nearby Bogyoke Market, a major bazaar known for its colonial architecture and winding cobblestone alleys, or join an urban adventure to explore Yangon's streets by night. For a leisurely change of pace, perhaps indulge in high tea at the historic colonial hotel, The Strand. Maybe relax after a day of exploring with dinner at one of the many restaurants – sit back on a balcony, watch the sun set over the glittering spires of Shwedagon Pagoda and enjoy the last night of this unforgettable Myanmar adventure.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+Yangon - Yangon's Streets By Night Urban Adventure - USD40
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 12: Yangon
+
+
+
+
+
+
+
+
+
+There are no activities planned for the final day and you are able to depart the accommodation at any time. As there is plenty to see and do in Yangon we recommend extending your stay a few extra days to make the most of all it has to offer. Perhaps do some of the activities suggested at the beginning of the trip, or ask your leader about our range of Urban Adventures day tours.
+
+Optional Activities
+
+
+Yangon - Hands-on Yangon Urban Adventure - USD81
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+
+
+Inclusions
+
+
+
+
+
+
+Meals
+11 breakfasts, 
+
+1 lunch, 
+1 dinner
+
+
+
+
+
+
+
+Transport
+Boat,
+        Private Bus,
+        Plane
+
+
+
+
+
+
+
+Accommodation
+Hotel (11 nights)
+
+
+
+
+
+
+
+Included activities
+
+
+Yangon - Shwedagon Pagoda
+
+Yangon - Kandawgyi Lake
+
+Yangon - Walking Tour
+
+Mandalay - Gold Leaf Pounding Workshop
+
+Mandalay - Mahamuni Buddha Temple
+
+Mandalay - Mandalay Hill
+
+Mandalay - Kuthodaw Paya
+
+Mandalay - Shwenandaw Monastery
+
+Mandalay - Boat trip to Mingun
+
+Mandalay - U Bein Bridge
+
+Bagan - Sanon Restaurant lunch
+
+Bagan - Archaeological tour
+
+Pakkoku - Village visit to Action Aid project
+
+Inle Lake - Boat trip & village tour
+
+Inle Lake - Indein Temples Visit
+
+Inle Lake - Traditional Shan Dinner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meals
+11 breakfasts, 
+
+1 lunch, 
+1 dinner
+
+
+Transport
+Boat,
+        Private Bus,
+        Plane
+
+
+Accommodation
+Hotel (11 nights)
+
+
+Included activities
+
+
+Yangon - Shwedagon Pagoda
+
+Yangon - Kandawgyi Lake
+
+Yangon - Walking Tour
+
+Mandalay - Gold Leaf Pounding Workshop
+
+Mandalay - Mahamuni Buddha Temple
+
+Mandalay - Mandalay Hill
+
+Mandalay - Kuthodaw Paya
+
+Mandalay - Shwenandaw Monastery
+
+Mandalay - Boat trip to Mingun
+
+Mandalay - U Bein Bridge
+
+Bagan - Sanon Restaurant lunch
+
+Bagan - Archaeological tour
+
+Pakkoku - Village visit to Action Aid project
+
+Inle Lake - Boat trip & village tour
+
+Inle Lake - Indein Temples Visit
+
+Inle Lake - Traditional Shan Dinner
+
+
+
+
+
+
+
+
+Dates & availability
+
+
+
+Trip search is unavailable.
+
+
+
+There are currently no scheduled departures on our Classic Myanmar trip. If you are interested in other trips in the region visit one of the links below.
+
+
+Myanmar (Burma)
+
+
+
+
+
+
+Latest Departures
+
+
+
+Dates list
+
+
+
+
+
+
+
+Next trip departures
+
+
+
+Jump to a departure month
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+
+
+Important notes
+
+1. Please provide passport details at time of booking with exact name as per passport. these are essential for booking services on this trip.
+2. An airport arrival transfer is included. Please provide your flight details at time of booking or up to 15 days prior to departure.
+3. A Single Supplement to have your own room is available on this trip and includes all nights.
+4. Intrepid can assist with booking an optional sunrise balloon ride over the Bagan (operating October to March). Please see Days 6-7 for full details of this activity. Places are limited and we recommend that you book in advance with your booking agent.
+
+
+
+
+
+Essential trip information
+Want an in-depth insight into this trip? Essential Trip Information provides a detailed itinerary, visa info, how to get to your hotel, what's included - pretty much everything you need to know about this adventure and more.
+
+
+View Essential Trip Information
+
+
+
+
+
+Reviews
+
+
+Our Classic Myanmar trips score an average of
+4.68 out of 5
+based on 62 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Classic Myanmar,
+November 2017
+
+Hans Peukert
+
+Excellent trip witha good mix of culture, nature, history & fun
+
+Review submitted 26 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+Classic Myanmar,
+November 2017
+
+Morag Ritchie
+
+Myanmar is a wonderful surprise of a country. Everything about the trip was quite special indeed. The sites, the culture, the history, the food, the people were all amazing! I wasn't really sure what to expect and what I found was a beautiful, peaceful and almost mystical place . It felt like we had stepped back in time, the people were calm, kind and friendly - often stopping to take a photo of us instead of the other way around! Myanmar has it's own unique personality and I am so glad that I was able to see and experience the country with a local guide that always ensured that we were safe and on time and that we saw and experienced everything that makes Myanmar the special place that it is.
+
+Review submitted 26 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Classic Myanmar trip reviews
+
+Our Classic Myanmar trips score an average of
+4.68 out of 5
+based on 62 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+Go to dates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+

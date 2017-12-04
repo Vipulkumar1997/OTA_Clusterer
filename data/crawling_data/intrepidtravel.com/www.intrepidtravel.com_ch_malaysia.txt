@@ -1,0 +1,4594 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Malaysia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Malaysia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Malaysia
+
+
+
+Buzzing cities, idyllic islands, exotic ports and lush highlands combine to create magical Malaysia.
+
+
+Home to a collision of cultures, you can eat roti for breakfast and feast on fragrant curries for dinner; admire mosques in the morning and temples in the afternoon; and visit remote villages as well as towering skyscrapers – it’s all possible in Malaysia.
+
+
+Top Malaysia travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+17 Dec 2017
+
+Borneo Family Adventure
+
+
+
+Borneo Family Adventure
+Kota Kinabalu to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Borneo Family Adventure
+
+
+
+
+
+
+
+
+
+11
+
+
+FR1,580
+
+
+FR1,343
+
+
+
+
+View Trip
+
+
+
+
+
+
+1 Jan 2018
+
+Borneo : Hike, Bike & Kayak
+
+
+
+Borneo : Hike, Bike & Kayak
+Kota Kinabalu to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Borneo : Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,695
+
+
+FR1,356
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Sabah Adventure
+
+
+
+Sabah Adventure
+Kota Kinabalu to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Sabah Adventure
+
+
+
+
+
+
+
+
+
+12
+
+
+FR1,990
+
+
+FR1,692
+
+
+
+
+View Trip
+
+
+
+
+
+
+18 Jan 2018
+
+Wild Sarawak
+
+
+
+Wild Sarawak
+Kuching to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Wild Sarawak
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,655
+
+
+FR1,407
+
+
+
+
+View Trip
+
+
+
+
+
+
+20 Jan 2018
+
+Classic Borneo
+
+
+
+Classic Borneo
+Kota Kinabalu to Kota Kinabalu
+
+
+
+
+
+
+
+
+
+×
+
+Classic Borneo
+
+
+
+
+
+
+
+
+
+10
+
+
+FR2,030
+
+
+FR1,827
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Malaysia trips
+
+
+
+
+
+
+
+
+
+Sabah Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,845
+
+
+
+
+
+This Sabah Adventure tour through the Borneo wilderness will truly capture your...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo Family Adventure
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,343
+
+
+
+
+
+Travel to Borneo to visit orangutan sanctuaries and explore lush jungles. See the best...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Borneo
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,935
+
+
+
+
+
+Journey through Borneo on an adventure that includes river cruising, jungle nature...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Sarawak
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,558
+
+
+
+
+
+Hop aboard an adventure tour through the wilds of Borneo's Sarawak region. Crawl...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo - Hike, Bike & Kayak
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,765
+
+
+
+
+
+This Sabah Adventure tour through the Borneo wilderness will truly capture your...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Borneo
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR3,277
+
+
+
+
+
+Travel through the wild, untamed lands of beautiful Borneo. From magnificent Mt...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bangkok to Singapore
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,720
+
+
+
+
+
+Take an adventure from Thailand to Singapore, via Malaysia. This tour of South East...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Malaysia
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,885
+
+
+
+
+
+Travel to South-East Asia and see the best of Malaysia on an Intrepid Adventure tour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Singapore to Bangkok Adventure
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,205
+
+
+
+
+
+From Singapore to Malaysia and Thailand, this tour of South-East Asia captures some of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Malaysia
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,850
+
+
+
+
+
+Travel to South-East Asia and see the best of Malaysia on an Intrepid Adventure tour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sabah Discovery
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,795
+
+
+
+
+
+From Kota Kinabalu to the orangutan and sun bear sanctuaries of Sepilok, whisk through...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Borneo Family Holiday Comfort
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,400
+
+
+
+
+
+Discover the best that Borneo has to offer on this unforgettable family adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Thailand & Malaysia
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,690
+
+
+
+
+
+Travel from Bangkok to Sukhothai and Chiang Mai before visiting Penang and Kuala Lumpur...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bangkok to Bali
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,315
+
+
+
+
+
+Take an adventure from Thailand to Bali, via Malaysia. This tour of South-East Asia...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sarawak Rainforest World Music Festival
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR1,760
+
+
+
+
+
+Experience the acclaimed Sarawak Rainforest Music Festival along with Kuching and the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Thailand & Malaysia - Penang to Phuket
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Travel Malaysia and Thailand’s stunning west coast on a small-ship Peregrine adventure...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Thailand & Malaysia - Phuket to Penang
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Uncover Malaysia and Thailand’s spectacular west coast on a small-ship Peregrine...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Malaysia tour reviews
+
+
+Our Malaysia trips score an average of
+4.74 out of 5
+based on 538 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Sabah Adventure,
+November 2017
+
+Stephanie Higgins
+
+This trip was excellent, the climb of Mt Kinabalu can be hard, but it is worth it, the guides are excellent - make sure you rent hiking poles, they are life savers!
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Sabah Adventure,
+November 2017
+
+Caroline McCormick
+
+My intrepid tour to Borneo was amazing just the right mix of experiences from climbing a mountain to the jungle to the a remote island.Best way to holiday in a group!
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Malaysia trip reviews
+
+Our Malaysia trips score an average of
+4.74 out of 5
+based on 538 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Malaysia
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 27, 2017
+
+
+
+Malaysia’s Rainforest World Music Festival: the...
+
+
+
+
+
+
+Think back on your most treasured musical memories, your favourite festival...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 29, 2017
+
+
+
+Turtles and orangutans: witnessing wildlife...
+
+
+
+
+
+
+Sabah, a Malaysian state on the northern tip of Borneo, is home to some pretty...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 16, 2017
+
+
+
+How you can help save the orangutans
+
+
+
+
+
+
+Orangutans, with their shaggy orange fur, long limbs and cheeky grins, are the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 29, 2017
+
+
+
+The best beaches in southeast Asia: a...
+
+
+
+
+
+
+Once you've sampled the food, culture and magnificent temples of southeast Asia,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 26, 2016
+
+
+
+Travel season guide: when to visit our...
+
+
+
+
+
+
+Travel. It's all in the timing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 29, 2015
+
+
+
+Food blogger Robyn Eckhardt shares her...
+
+
+
+
+
+
+For renowned food writer and blogger Robyn Eckhardt, there’s only one recipe that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 29, 2015
+
+
+
+Malaysia’s street food secrets with blogger...
+
+
+
+
+
+
+Robyn Eckhardt makes a living through writing and eating – not necessarily in that...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 07, 2014
+
+
+
+5 best things to do in the Perhentian Islands
+
+
+
+
+
+
+Before you head to Langkawi, Malaysia has another gem to consider. The Perhentian...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Malaysia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lakeside homestay
+
+
+
+
+Enjoy warm Malaysian hospitality while on a lakeside homestay
+
+
+
+
+
+
+Best of Thailand & Malaysia, 22 days
+
+
+
+
+
+
+
+
+Bangkok to Singapore, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Penang
+
+
+
+
+See the historic mosques, temples and shophouses of Penang
+
+
+
+
+
+
+Bangkok to Singapore, 15 days
+
+
+
+
+
+
+
+
+Best of Malaysia, 15 days
+
+
+
+
+
+
+
+
+Best of Thailand & Malaysia, 22 days
+
+
+
+
+
+
+
+
+
+
+
+Kuala Lumpur
+
+
+
+
+Malaysia See the stunning Petronas Towers in Kuala Lumpur
+
+
+
+
+
+
+Best of Malaysia, 15 days
+
+
+
+
+
+
+
+
+Bangkok to Singapore, 15 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Malaysia
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Malaysia, you may find yourself travelling by:
+
+
+
+
+
+
+
+Bus
+
+Rub shoulders with other commuters while riding a local bus. An easy and economical option, you’ll get where you need to go on the cheap.
+
+
+Best of Malaysia
+
+Borneo Family Adventure
+
+
+
+
+
+
+
+
+
+
+Longtail Boat
+
+Hop aboard and cruise down rivers and channels in a classic South-East Asian mode of transport - a longtail boat.
+
+
+Best of Malaysia
+
+Wild Sarawak
+
+Sabah Adventure
+
+
+
+
+
+
+
+
+
+
+Trishaw
+
+Weave your way through the winding streets of historic Melaka on a trishaw ride, spotting heritage-filled buildings along the way.
+
+
+Best of Malaysia
+
+
+
+
+Accommodation in Malaysia
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Malaysia you may find yourself staying in a:
+
+
+
+
+
+
+
+Homestay
+
+Stay with a local family in their traditional home, built on the shore of a peaceful lake. With a chance to explore nearby villages and swim in local waterfalls, this authentic getaway offers immersion in the local way of life.
+
+
+Best of Malaysia
+
+Sabah Adventure
+
+
+
+
+
+
+
+
+
+
+
+Malaysia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Kuala Lumpur (population 1.1 million)
+
+Population:
+
+28.7 million
+
+Language:
+
+Bahasa Malaysia
+
+Currency:
+
+MYR
+
+Time zone:
+
+(GMT+08:00) Kuala Lumpur, Singapore
+
+Electricity:
+
+Type G (Irish/British 3-pin)
+
+Dialing code:
+
++60
+
+
+
+
+
+
+
+
+
+Best time to visit Malaysia
+
+
+
+
+
+
+×
+
+Best time to visit Malaysia
+
+
+
+
+The climate in Malaysia is generally hot and humid throughout the year. Temperatures do not fluctuate much and stay in the 30s most of the day, dropping back to the mid to high 20s at night. This makes Malaysia a great place for swimming, snorkelling and relaxing in the sun.
+
+Humidity is higher during the wet season and can be quite oppressive for those not used to it. The wet season changes from coast to coast. From November to April, the wet season hits the east coast of the peninsula and it is dry on the west coast. During May to October it is dry on the east coast and wet on the west.
+
+Some people of Malaysia observe Ramadan. If you are planning to travel during Ramadan, it is important to consider that some restaurants and shops will either be closed or operating on reduced hours during this time.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Malaysia truly is a modern melting pot – with Chinese, Indian, Malay, Eurasian and indigenous groups making up the population. With this cultural diversity comes a mix of religions, customs, foods and languages. Islam, Christianity, Buddhism, Taoism and Hinduism are the main religions practiced, although most of the world’s religions are represented somewhere in Malaysia. The Muslim call to prayer, Hindu Festivals and Buddhist ceremonies all coexist with relative peace, with the South-East Asian concept of ‘saving face’ leading most people to strive for harmony.
+
+Regardless of cultural background, elderly people and those of high rank in society (business people, government officials etc.) are afforded much respect. Food plays an important part in daily life, with religious celebrations and holidays characterised by family gatherings and elaborately prepared feasts. Alcohol isn’t a large part of Malaysian society (probably due to the significant Muslim population), but is widely available for purchase and consumption.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Malaysia’s melting pot of cultural influences is evident in its cuisine.
+
+Things to try in Malaysia
+
+1. Malay
+
+Delicious roti, chicken rice, spicy sambal eggplant and kopi peng (iced coffee).
+
+2. Baba Nonya/Peranaken Cuisine
+
+Fresh spring rolls, babi chin (stewed pork belly) and Mee Siam (rice noodles).
+
+3. Indian
+
+Aromatic curries, cool lassis, delicious daal and sweet fried coconut balls.
+
+4. Chinese
+
+Hearty noodle broths, Peking duck pancakes and chrysanthemum tea.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Balmy beaches, fish-filled reefs, wild jungles, verdant highlands, relaxed ports, colourful cities and simple villages – Malaysia has it all. Sharing land borders with Brunei,
+Indonesia
+and
+Thailand
+, Malaysia’s environment is as diverse as its population. From the urban cityscape of Kuala Lumpur and the colonial charm of Penang, to the old-world streets of Melaka, a journey through Malaysia will reveal changing landscapes and evolving environments.
+
+While the large cities are typically built-up, busy and full of buzz, Malaysia’s provincial towns and remote highlands remain delightfully relaxed, with people living simple lives based on agriculture, animal husbandry or other small enterprises. With such a rich range of environments, Malaysia offers beaches and islands for swimming, snorkelling and diving; jungles and highlands for trekking and adventuring; and villages and cities for exploration and relaxation.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The first recorded historical mentions of Malaysia date back to 7th and 8th-century Sanskrit and Chinese texts. During the following centuries, Malaysia came under the influence and control of Indonesia, Thailand and India – with the accompanying religions, cuisines and languages spreading in the region. In the 16th century, Malaysia came under the influence of Portuguese and Dutch settlers, who increasingly expanded their reach throughout the region to create the Dutch East Indies. Under this influence, Malaysia did well in trade, and flourished as a result of the economic gains of being located on one of the most important trade routes of the time.
+
+Recent History
+
+During the 19th century, the British took control of the Malaysian Peninsula, with the Federated Malay States being officially formed in 1865. Malaysia remained under British rule until Japan invaded during World War II – but once Japan was defeated in 1945, British rule returned and the Federation of Malay was born in 1948. In 1963, the Federation of Malaya formed with Singapore, Sarawak and Sabah to create Malaysia. Only two years after, Singapore became an independent state, leaving Malaysia in its current form. In the 1970s, Malaysia’s economy grew rapidly until the late 1990s, when the Asian Financial Crisis slowed economic growth in the region. The economy soon recovered, and Malaysia enjoyed the international exposure that came with hosting the 1998 Commonwealth Games (held in Kuala Lumpur). Currently, Malaysian standards of living continue to rise, and Kuala Lumpur has emerged as one of Asia’s premier cities.
+
+
+
+
+
+
+
+
+Culinary Experiences of Malaysia
+
+
+
+
+
+
+×
+
+Culinary Experiences of Malaysia
+
+
+
+
+Top 10 Culinary Experiences of Malaysia
+
+1. Baba Nonya Banquet
+
+The port town of Melaka is known for its unique Baba Nyonya style food. A fusion of Straits Chinese and Malaysian food (with hints of Portuguese, Thai and Indian), chowing down at a Nyonya restaurant is an elaborate affair filled with spicy flavours and tangy sauces.
+
+2. Savour a Street Eat
+
+The streets of Malaysia are filled with locals pushing street carts selling everything from hand-made roti to fresh fruit, delicious satay and steaming bowls of laksa. Malaysian street food offers convenience, variety and flavour on a budget.
+
+3. Taste Some Tea
+
+Traditional tea is made a little differently in Malaysia. Order ‘teh tarik’ and watch as your condensed-milk tea is frothed and cooled by being poured dramatically between two metal cups, which are held metres apart.
+
+4. Tuck Into a Hot Curry
+
+Beef Rendang is a Malay culinary favourite and is made at home, served at restaurants and prepared for special occasions. This spicy curry is packed with lemongrass, cinnamon, cloves, chilli and melt-in-your-mouth beef — an unforgettable fusion of flavours!
+
+5. Seek Out Cool City Eat Streets
+
+The hip cafes and bars of Kuala Lumpur are a great place to mix with locals and connect with modern Asian culture. Head to the Jalan Bukit Bintang area in KL and check out the new-age teahouses, cool cafes and international dining options.
+
+6. Down a Luscious Lassi
+
+With a large Indian population, it’s not hard to find a refreshing Lassi when in Malaysia. Made from yoghurt and fresh fruit, sipping a cool Mango Lassi is the ideal antidote to a humid summer’s day.
+
+7. Relish Some Rice
+
+Chicken–rice is a favourite with locals and travellers alike. Available at small neighbourhood eateries, night markets and from street carts, this option is a great, low-cost meal for travellers on the go.
+
+8. Slurp a Bowl of Laksa
+
+Chicken, prawn, tofu and fish; there are many different varieties of spicy laksa to try while in Malaysia. Noodle types and ingredients may vary around the country - a good excuse to try laksa in every town you visit.
+
+9. Chill Out With a Coconut
+
+Quench your thirst with a fresh coconut juice. Sold at roadside stalls and on beaches, a straw is simply slipped into a stripped back coconut for a refreshing post-swim pick-me-up.
+
+10. Feast on Roti
+
+No visit to Malaysia is complete without encountering roti. Walk down any busy street and the sight of people kneading roti dough at street stalls and shop windows will be common. Often served with lentils, potatoes, onions and rice, roti is an excellent option for vegetarians looking for a meat-free meal.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Malaysia has a shopping experience to suit travellers on all budgets. From dazzling, modern malls and exciting night markets to boutique speciality stores, the opportunity to buy something special is never far away.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country. Australia and New Zealand generally have strict quarantine laws.
+
+Things to buy in Malaysia
+
+1. Kuala Lumpur
+
+The capital’s huge malls offer loads of variety and opportunities to shop. Shoes, bags and accessories are all great buys - from haute couture labels to chic chain-store fashions.
+
+2. Melaka
+
+Home to a diverse range of artisans and craftsmen. Browse the markets, galleries and shops to pick up antiques, art and bespoke items. Handcrafted wooden ornaments, leather sandals, vibrant woven bags and antique coins are the best picks.
+
+3. Penang
+
+Boasts an eclectic mix of sleek malls, independent stores, interesting boutiques and open-air street markets. Head to Little India to source Indian-inspired saris, garlands and silver jewellery or stroll along Rope Walk to find one-of-a-kind antiques and treasures.
+
+4. Langkawi
+
+This island has duty-free status, making it a great place to buy fragrances, watches, cameras and other technology. For art lovers, the Craft Cultural Complex showcases locally made fabric, ceramics, baskets and jewellery.
+
+
+
+
+
+
+
+
+Festivals and Events in Malaysia
+
+
+
+
+
+
+×
+
+Festivals and Events in Malaysia
+
+
+
+
+Thaipusam
+
+Kuala Lumpur’s Batu Caves light up in honour of the Hindi deity Subramaniam (also known as Lord Murugan). Pilgrims arrive after sunset and watch as brave individuals thread hooks and skewers through their body to carry decorative steel arches to the Gods. This is unlike anything you’ve ever seen before!
+
+Malaysian Grand Prix
+
+For a bit of high-octane fun, see the fastest cars in the world in action at the Malaysian Grand Prix, held near Kuala Lumpur each year.
+
+Ramadan and Eid
+
+Ramadan is observed by the Muslim population of Malaysia. During the ninth and holiest month in the Islamic calendar, Muslims fast from sunrise to sunset - refraining from eating and drinking during daylight hours. Eid marks the end of fasting with three days of feasting and celebration.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Evening is the Whole Day
+
+Preeta Samarasan
+
+The Rice Mother
+
+Rani Manicka
+
+The Long Day Wanes: A Malayan Trilogy
+
+Anthony Burgess
+
+The Gift of Rain
+
+Tan Twan Eng
+
+A Malaysian Journey
+
+Rehman Rashid
+
+Malaysian Stories
+
+Somerset Maugham
+
+
+
+
+
+
+
+
+Malaysia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Malaysia?
+
+
+
+
+
+
+
+
+
+Most nationalities do not need visas to visit Malaysia as a tourist for up to three months. Please check with your relevant Malaysian embassy or consulate.
+
+
+
+
+
+
+
+Is tipping customary in Malaysia?
+
+
+
+
+
+
+
+
+
+Tipping isn’t expected in Malaysia. Some restaurants include a 10% service fee in bills. Feel free to leave a tip at restaurants or with taxi drivers if you’re feeling generous – it will be appreciated.
+
+
+
+
+
+
+
+What is the internet access like in Malaysia?
+
+
+
+
+
+
+
+
+
+The internet is easy to access in Malaysia’s large cities, with internet cafes and Wi-Fi hot spots quite common, especially in tourist spots, hotels and hostels. Regional areas and rural communities might have little to no internet access, so be aware of this before heading out of the city.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Malaysia?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is excellent in Malaysia’s large cities; however, it may be patchy in regional areas. Ensure you have global roaming activated on your phone before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Malaysia?
+
+
+
+
+
+
+
+
+
+Malaysian public toilets are a mix of western-style toilets and squat toilets. Up-market hotels and malls will usually have both options, whereas rural areas will almost certainly only have squat toilets. Be aware that soap and paper aren't always supplied, so be prepared and carry your own.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Hawker food snack = 3 MYR
+Cup of teh tarik (tea) = 1-2 MYR
+Beer in a bar or pub = 8 MYR
+Souvenir t-shirt = 10-20 MYR
+
+
+
+
+
+
+
+Can I drink the water in Malaysia?
+
+
+
+
+
+
+
+
+
+It's not recommended to drink the tap water in Malaysia. Filtered water is a better option; try to use a refillable canteen or water bottle rather than buying bottled water. Remember to avoid ice in drinks and peel fruit before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Malaysia?
+
+
+
+
+
+
+
+
+
+Credit cards are widely accepted by malls, hotels and large restaurants in Malaysia. Smaller guesthouses, shops and cafes may not accept credit cards, so ensure you have enough cash to cover purchases in smaller establishments.
+
+
+
+
+
+
+
+What is ATM access like in Malaysia?
+
+
+
+
+
+
+
+
+
+ATMs are easily found in large cities and towns but are far less common in rural and remote areas. Ensure you have enough cash before heading to isolated areas, as ATMs might be sparse.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Malaysia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Malaysia?
+
+
+
+
+
+
+
+
+
+1 Jan New Year
+
+28 Jan Chinese New Year
+
+29 Jan Chinese New Year
+
+2nd Day National
+
+1 May Labour Day
+
+10 May Wesak Day
+
+3 Jun Agong's Birthday
+
+25 Jun Hari Raya Aidilfitri*
+
+26 Jun Hari Raya Aidilfitri 2nd Day*
+
+31 Aug National Day / Merdeka Day
+
+1 Sep Hari Raya Haji
+
+16 Sep Malaysia Day
+
+21 Sep Awal Muharram
+
+18 Oct Deepavali *
+
+1 Dec Prophet Muhammad's BirthdayNational
+
+25 Dec Christmas
+
+*Subject to change
+
+Please note these dates are for 2017. For a current list of public holidays in Malaysia go to:
+http://www.worldtravelguide.net/malaysia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Malaysia
+
+1. Be considerate of Malaysia's customs, traditions, religions and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. Ask permission, remove your shoes and cover your shoulders with a jacket or wrap before entering a place of worship.
+
+4. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+5. Always dispose of litter thoughtfully, including cigarette butts.
+
+6. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+7. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+8. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+9. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+10. Please ask and receive permission before taking photos of people, including children.
+
+11. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+12. Ramadan is the fasting month for all Muslims. During this month no food, drink or smoking is permitted during daylight hours. While non-Muslims aren't expected to fast, it's recommended to try to avoid eating, drinking or smoking in public during daylight hours.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Malaysia, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+HUTAN – Kinabatangan Orangutan Conservation Program
+
+HUTAN’s Orangutan Conservation Centre works with local staff in conservation, education for protection of orangutans in their remaining wild environment.
+
+Photo provided by HUTAN
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3324 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia Highlights | Bolivia Tours | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia Highlights
+
+
+
+
+
+
+
+
+
+
+
+Days
+
+12
+
+
+
+Style
+
+Original
+
+
+
+Travellers rating
+
+
+122 reviews
+
+
+From
+
+FR1,196
+CHF
+
+
+
+
+
+View dates
+
+
+
+
+Home
+
+South America
+
+Bolivia
+
+Bolivia Highlights
+
+
+
+
+
+
+
+
+
+
+Travel to Bolivia and experience the highlights of this breathtaking region
+
+
+
+
+Explore the best of Bolivia on this adventure through lively cities, breathtaking scenery and colourful market towns. From the extreme elevation of bustling La Paz through the history of Potosi and on to the surreal salt flats of Salar de Uyuni, there's a diverse mix of adventures and activities that deliver excitement, intrigue and pleasure. Discover the highlights of this fascinating part of South America and be swept away by the colour and beauty flourishing in this corner of the earth.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start
+
+La Paz, 
+  Bolivia
+
+Finish
+
+La Paz, 
+  Bolivia
+
+Country
+
+Bolivia
+
+Style
+
+Original
+
+Theme
+
+Explorer
+
+
+
+
+
+Code
+
+GGSV
+
+Physical rating
+
+
+Ages
+
+Min 
+  15
+
+Group size
+
+Min 
+  1, Max 
+  12
+
+
+
+
+
+
+
+Why we love this trip
+
+
+
+
+See the many different sides to Bolivia in La Paz and let the city’s weird and wacky Witches Market cast a spell over you
+
+
+
+Choose to explore the extra-terrestrial landscapes of Valle de la Luna, a maze of canyons and colossal clay spires that feels like the surface of the Moon
+
+
+
+Discover the heart of Bolivia in the elegant colonial architecture and immaculately landscaped gardens of historical Sucre
+
+
+
+Delve into the steep streets and Spanish colonial architecture of Potosi, once one of the richest cities in the world
+
+
+
+Empty, haunting and spectacular, the laws of earthly physics bend on the surreal Salar de Uyuni saltpan – experience it on a three-day 4WD adventure across the rocky Atacama Desert
+
+
+
+
+
+
+Is this trip right for you?
+
+
+
+
+This trip visits places that are at high altitude, and as a result some people can suffer from altitude sickness, regardless of age or physical health. Please see the ‘Health’ section of the trip notes for more important information on this.
+
+
+
+You'll be spending a lot of time in a 4WD crossing some bumpy surfaces. This is the best way to see the sights in and around Uyuni, and is all part of the adventure.
+
+
+
+In Bolivia (especially in Uyuni), sometimes things don't go to plan. For example, an attraction may be closed for the day with no notice or reason. Although this doesn't happen very often, please be prepared for the possibility.
+
+
+
+Making your way across the Andean Desert and salt flats isn’t exactly luxurious. Temperatures in the area can be very cold, especially at night, so bring warm clothes with you. Meals are simple, toilet facilities are basic, showers can be cold and the multi-share accommodation is dormitory-style. This is all part of the adventure. Without a doubt, this amazing experience will be one of the highlights of your trip to South America.
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Itinerary
+
+Expand All
+
+Collapse All
+
+
+
+
+This itinerary is valid for departures from 01 January 2017 to 31 December 2017.
+View the itinerary for departures between 01 January 2018 - 31 December 2018
+
+
+
+
+
+
+
+Day 1: La Paz
+
+
+
+
+
+
+
+
+
+Kamisaki! Welcome to Bolivia. At around 3,600 metres, La Paz feels like the top of the world its far from it! Although Sucre is the official capital of Bolivia, La Paz is the centre of commerce, finance and industry. Despite the abundance of colonial architecture, La Paz's indigenous roots run deep, and the atmosphere in the market-filled streets is both modern and traditional. Your adventure begins with a welcome meeting at 6pm tonight. Please look for a note in the hotel lobby or ask reception where it will take place. We'll be collecting insurance details and next of kin information at this meeting, so ensure you bring these details. If you're going to be late, please inform hotel reception. After the meeting, maybe head out into the city, situated in the middle of a vast volcanic crater. Breathe the ‘thin’ air, marvel at the vistas of buildings clinging to the canyonsides, and explore the lively streets like Calle Jaen.
+
+Notes: Altitude Sickness – This trip visits places that are at high altitude, and as a result some people can suffer from altitude sickness, regardless of age or physical health. Please see the ‘Health’ section of the trip notes for more important information on this. Death Road Biking To Coroico – Please note that our leaders are not able to organize this activity for you due to safety concerns. Injuries are very common and there have been a number of fatal accidents.
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Included Activities
+
+
+La Paz - Orientation Walk
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+Day 2: La Paz
+
+
+
+
+
+
+
+
+
+Today is free for you to explore the city and its surrounds. Perhaps hop on a local bus out to the extraordinary landscape of Moon Valley. This isn’t a valley, but a maze of canyons and colossal clay spires. These rugged oddities, caused by erosion, make for staggering views. La Paz is also renowned for its many markets, including the Mercado de Hechiceria or Witches’ Market. Take a cable car 13,000ft to the twin city of El Alto and browse through the weird and wonderful stalls that sell everything from potions to incantations made from herbs, seeds and unidentified bits and pieces to cure any ailment. If this is all too much for you, try the more conventional markets where you'll find ponchos, gloves, hats and many other products made of alpaca wool, leather and other traditional materials. If you want to discover more about the region’s fascinating history, maybe enjoy a half-day tour to the Tiwanaku ruins outside of La Paz. Another great optional activity is a full-day tour to the coffee and coca plantations of Coroico, situated in the rainforest below the city.
+
+Notes: This trip is part of a combination trip. As such, some of your fellow travellers may have started their trip in Lima, 15 days ago on Peru and Bolivia Uncovered (GGSUC).
+
+Accommodation
+
+
+Hotel (1 night)
+
+
+Optional Activities
+
+
+La Paz -  Food with Altitude - Urban Adventure - USD57
+
+La Paz - To 3,600 Metres, and Beyond - Urban Adventures - USD41
+
+La Paz - Coca Museum - BOB8
+
+La Paz - Visit to the 'Witches Market' - Free
+
+La Paz City Tour & Moon Valley - USD40
+
+La Paz - Tiwanaku Archeological site (Shared service) - USD30
+
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Day 3: Uyuni Town
+
+
+
+
+
+
+
+
+
+This morning at approximately 8am we will travel to Uyuni by private transport (approximately 9 hours), with stops along the way to stretch legs and enjoy the scenery. Arriving in Uyuni feels a bit like you've reached the end of the road, which in many ways is true. This remote small town sits on the edge of the high altiplano, a wilderness that extends for hundreds of kilometres towards the border with Argentina and Chile. So it's hardly surprising that the town has a bit of a wild west feel about it. Uyuni is best known for its proximity to the Bolivian salt flats known locally as the Salar de Uyuni. The town was once a distribution hub for trains carrying minerals on their way to Pacific Ocean ports. In the 1940s, the mining industry collapsed and many trains were abandoned. Tonight you’ll stay at a hotel in Uyuni Town. The hotel is basic, however it’s clean, comfortable and has hot water (make the most of this as you may not have a hot shower for the next couple of days).
+
+
+Accommodation
+
+
+Basic Hotel (1 night)
+
+
+Included Activities
+
+
+Uyuni - Orientation Walk
+
+
+Meals Included
+
+
+Breakfast
+
+
+Special Information
+The area is notorious for being extremely cold, so it’s important to pack warm clothing and base layers.
+
+
+
+
+
+
+Day 4: Salar de Uyuni
+
+
+
+
+
+
+
+
+
+Uyuni is the starting point of your three-day 4WD excursion into Salar de Uyuni and the Andean desert. This morning we will stop by the Train Cemetery three kilometres outside of Uyuni Town, connected to it by the old train tracks, and see where families of geriatric locomotives rust slowly in the sun. The remainder of the day is spent mostly on the salt lake itself. Spanning over 12,000 square kilometres, and heaving with around ten billion tonnes of salt, Salar de Uyuni is the world’s largest saltpan. Pass salt-mines and visit Inkawasi – a rocky, cactus and coral-like structure covered island erupting from the monotonous salt crust like a hallucination. Spend time walking around admiring the unusual yet beautiful landscapes. The massive salt plains of Bolivia are an incredible sight and offer plenty of opportunities for bizarre, perspective-defying photos. Endless blue skies meet endless white salt on what was once a prehistoric lake. Make the most of your time here, taking as many photos as possible in this incredible place, as the following day you’ll leave the salt flats for the Andean Desert. At the end of the day, drive to your basic accommodation on the salt plains.
+We will arrive at the Salt Flats accommodation at approximately 6:30pm. After settling in to the rooms, we will enjoy an included dinner.
+
+
+
+Accommodation
+
+
+Dormitory (1 night)
+
+
+Included Activities
+
+
+Uyuni Salt Flats tour
+
+
+Meals Included
+
+
+Breakfast
+
+Lunch
+
+Dinner
+
+
+Special Information
+December to March departures:
+Please be aware that from December to March, there’s a risk of the salt lake being flooded. If this is the case, the itinerary will be adapted to accommodate this.
+
+Accommodation:
+Our accommodation tonight is very basic. Toilet facilities are basic, showers can be cold and the multi-share accommodation is dormitory-style.
+
+
+
+
+
+
+Day 5: Andean Desert
+
+
+
+
+
+
+
+
+
+Today begins with an early wake up call in prepartion to leave at approximately 7am. It'll be spent driving through the spectacular landscape of the Andean (Atacama) Siloli Desert, which is sprinkled with volcanoes and lakes, including the active Volcanoe Ollague and Laguna's Canapa, Hedionda and Honda. Along the way keep your eyes peeled whilst passing Quinoa fields and plenty of Andean fauna including Andean  Vicuñas - one of two south American camelids, Llamas, Andean fox, Vizcachas - similar to Rabbits. Continuing on we will stop at Árbol de Piedra, a rock formation known as the Stone tree.
+One of the highlights of today is the visit to Laguna Colorada (red lake), a rich red lake vividly coloured by algae and rich minerals. One of the strangest sights in such arid and inhospitable land is the abundant wildlife, It's truly a photographers paradise. Look out for llamas, flamingos, vicuñas, and foxes.
+During this drive you’ll reach an altitude of approximately 4,800 metres above sea level, so it’s important to revisit the notes on altitude sickness (please see the ‘Is This Trip Right For You?’ and ‘Health’ sections of the trip notes). Tonight's accommodation in the desert is located at 4230mts above sea level.
+
+
+Included Activities
+
+
+Salt flats - Visit to 'Fish Island/Inca Wasi'
+
+Salt flats - Altiplano tour including Laguna Colorada and Laguna Verde
+
+
+Meals Included
+
+
+Breakfast
+
+Lunch
+
+Dinner
+
+
+Special Information
+Accommodation:
+Accommodation in the desert is very basic. Shower facilities if any can be unreliable and cold, as the pipes often freeze in the winter months. Electricity is generated by solar panels and generators, so there won’t be enough power to charge electronic devices. The Desert is at high altitude and can experience extremely cold weather, particularly at night.
+
+
+
+
+
+
+
+
+
+
+Day 6: Uyuni Town
+
+
+
+
+
+
+
+
+
+This morning we will be waking up nice and early in order to leave at 5am.
+Apart from geysers and snow-capped volcanoes, the volcanic landscape also hosts some stunning natural hot springs. Our first stop is Sol de Mañana geysers (4926mts - our highest point in our trip).
+Next we will decend to Polques and stop by the desert’s natural thermal baths for an optional soak, which we highly recommend. Continuing on we will drive through the Southern desert, making stops at Salvador Dali Valley, Laguna Verde and Volcano Licancabur.
+Be prepared for a long day of driving, approximately 12 hours before arriving back at Uyuni Town)
+Back in town wander around the streets of this outback settlement and just chill out before heading to Potosi tomorrow.
+
+Meals Included
+
+
+Breakfast
+
+Lunch
+
+
+
+
+
+
+
+
+Day 7: Potosi
+
+
+
+
+
+
+
+
+
+In the morning take a local bus along a scenic road to Potosi (approximately 3-4 hours).
+The highest city at 4060mts above sea level of its kind in the world, Potosi has had a turbulent past, centred mostly around its mining successes and failures. During the Spanish colonial days, the extensive mining of Potosi's silver rich Cerro Rico was said to have kept Spain running for 300 years. During this time, Potosi briefly celebrated life as one of the richest cities in the world. In the 1800s, the supply of silver declined, as did the market price, and the city started to suffer. Working conditions in the mines were appalling and huge numbers of indigenous people died. African slaves were brought in to replace them and it's said that as many as 8 million people died in the mines during the Spanish era. Perhaps visit the Santa Teresa Convent Museum to observe the art and treasures on display inside the convent’s original walls or the National Mint Museum.
+
+
+Included Activities
+
+
+Potosi - Orientation Walk
+
+
+Optional Activities
+
+
+Potosi - National Mint of Bolivia - BOB48
+
+Potosi - Santa Teresa Convent Museum - BOB33
+
+
+Meals Included
+
+
+Breakfast
+
+
+Special Information
+Potosi Mine Tours:
+We strongly recommend against doing a tour that enters the mine, and should you do so anyway it will be at your own risk. Please note that our leaders are not able to organize this activity for you due to the safety concerns
+
+
+
+
+
+
+Day 8: Sucre
+
+
+
+
+
+
+
+
+
+A journey by local bus along a well-maintained road takes you to Sucre (approximately 3-4 hours). Descending more than 1,000 metres to the temperate valleys of Chuquisaca, small rivers, cactus fields, fruit and vegetable plantations dominate the valley. Sucre is a pleasant city set in a valley surrounded by low mountains and has retained the flavour of its colonial heritage in its churches, museums and ancient mansions. Bolivia's official capital, Sucre was declared a Unesco World Heritage site in 1991. Most of the town's colonial buildings have been whitewashed, earning it the nickname the 'White City'. On arrival, you'll have plenty of free time to explore the city and get your bearings.
+
+Meals Included
+
+
+Breakfast
+
+
+
+
+
+
+
+
+Days 9-10: Sucre
+
+
+
+
+
+
+
+
+
+The next two days are free to explore the town or partake in some of the optional activities available. Please speak to your leader for more information. You might like to visit the Museo de la Recoleta. This 400-year-old convent on top of the hill provides great views over the city and is home to a fascinating collection of sculptures and paintings. Maybe head to the Plaza 25 de Mayo to rub shoulders with Sucre's affluent residents and investigate the extravagant interior of the Senora de la Merced. For something completely different, compare shoe sizes with a dinosaur at Cal Orcko, where 68 million-year-old footprints have been discovered. This is the largest collection of dinosaur footprints in the world, over 12,000 of them! There’s also proud food culture in Sucre, so enjoy some delicious saltenas (Bolivia's version of empanadas) at a restaurant or fresh juice at the Central Market.
+
+Included Activities
+
+
+Sucre - Orientation Walk
+
+
+Optional Activities
+
+
+Sucre - Casa de la Libertad - BOB21
+
+Sucre - Dinosaur footprints at Cal Orcko - BOB70
+
+Sucre - Tarabuco Market - BOB45
+
+Sucre - Bolivian Dance Show - BOB100
+
+Sucre - Museum of Textiles - BOB22
+
+Sucre - Church of San Felipe Neri - BOB15
+
+
+Meals Included
+
+
+Breakfast (2)
+
+
+
+
+
+
+
+
+Day 11: La Paz
+
+
+
+
+
+
+
+
+
+Take a flight back to La Paz from Sucre airport today, which should only take around 30-40 minutes. Check-in time at the hotel isn't until 2pm. Depending on flight availability, we may arrive prior to check-in. In this case there is luggage storage available at the hotel. The rest of your day is free to relax or explore more of the city. Maybe head to the Mirador Killi Killi Lookout, located on top of a steep hill in the neighbourhood of Villa Pabon, and one of La Paz’s most impressive viewing points. Nearby is the National Museum of Ethnography and Folklore, which exhibits a wide collection of stunning works that takes you through Bolivian history. Perhaps visit the Coca Museum, which isn’t too far from your hotel in the Rosario district. If there’s time, you might like to take part in one of our Urban Adventure tours. When the sun sets and the temperature drops, gather together you travel buddies and join the locals in seeking warmth in a bar or restaurant, and celebrate the end of your Bolivian adventure.
+
+Meals Included
+
+
+Breakfast
+
+
+Special Information
+Departure Tax: Please note you will be required to pay an airport departure taxt today which is approximately BOB11.
+
+
+
+
+
+
+Day 12: La Paz
+
+
+
+
+
+
+
+
+
+Your exploration of Bolivia's highlights comes to an end this morning. As there are no more activities planned, you're free to book your departure flights when you like and you can leave the accommodation at any time.
+
+Optional Activities
+
+
+La Paz - To 3,600 Metres, and Beyond - Urban Adventures - USD41
+
+La Paz -  Food with Altitude - Urban Adventure - USD57
+
+
+Meals Included
+There are no meals included on this day.
+
+
+
+
+
+
+
+
+Inclusions
+
+
+
+
+
+
+Meals
+10 breakfasts, 
+
+3 lunches, 
+2 dinners
+
+
+
+
+
+
+
+Transport
+Plane,
+        4X4,
+        Local bus,
+        Private Vehicle
+
+
+
+
+
+
+
+Accommodation
+Dormitory (2 nights),
+                    Hotel (9 nights)
+
+
+
+
+
+
+
+Included activities
+
+
+La Paz - Orientation Walk
+
+Uyuni - Orientation Walk
+
+Uyuni Salt Flats tour
+
+Salt flats - Visit to 'Fish Island/Inca Wasi'
+
+Salt flats - Altiplano tour including Laguna Colorada and Laguna Verde
+
+Potosi - Orientation Walk
+
+Sucre - Orientation Walk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meals
+10 breakfasts, 
+
+3 lunches, 
+2 dinners
+
+
+Transport
+Plane,
+        4X4,
+        Local bus,
+        Private Vehicle
+
+
+Accommodation
+Dormitory (2 nights),
+                    Hotel (9 nights)
+
+
+Included activities
+
+
+La Paz - Orientation Walk
+
+Uyuni - Orientation Walk
+
+Uyuni Salt Flats tour
+
+Salt flats - Visit to 'Fish Island/Inca Wasi'
+
+Salt flats - Altiplano tour including Laguna Colorada and Laguna Verde
+
+Potosi - Orientation Walk
+
+Sucre - Orientation Walk
+
+
+
+
+
+
+
+
+Dates & availability
+
+
+
+Trip search is unavailable.
+
+
+
+There are currently no scheduled departures on our Bolivia Highlights trip. If you are interested in other trips in the region visit one of the links below.
+
+
+Bolivia
+
+
+
+
+
+
+Latest Departures
+
+
+
+Dates list
+
+
+
+
+
+
+
+Next trip departures
+
+
+
+Jump to a departure month
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+
+
+Important notes
+
+SINGLE SUPPLEMENTS:
+A single supplement is available on this trip except for Day 4 & 5 at Salar de Uyuni and the desert where accommodation is multi-share
+
+GROUP SIZE IN UYUNI:
+The excursion to Uyuni salt lake is on shared basis and your group size may be larger than12 travellers.
+
+BOLIVIAN VISA FOR U.S CITIZENS
+Nationals from the United States need a visa to enter Bolivia and you we highly recommend you obtain this visa in advance from your nearest Bolivian consulate or Embassy. Not obtaining the visa in advance is likely to cause long delays at the border.
+Please see the visa information on these trip notes for more information.
+
+
+
+
+
+Essential trip information
+Want an in-depth insight into this trip? Essential Trip Information provides a detailed itinerary, visa info, how to get to your hotel, what's included - pretty much everything you need to know about this adventure and more.
+
+
+View Essential Trip Information
+
+
+
+
+
+Reviews
+
+
+Our Bolivia Highlights trips score an average of
+4.51 out of 5
+based on 122 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+2017 Bolivia Highlights,
+October 2017
+
+David Jerram
+
+The trip to the Bolivian Alti Plana was a highlight of our extensive trip through South America. I am not sure how we would have managed this without using Intrepid. It was a fantastic trip.
+
+Review submitted 30 Nov 2017
+
+
+
+
+
+
+
+
+
+
+
+2017 Bolivia Highlights,
+November 2017
+
+Kaitlyn Alder
+
+I absolutely loved the Bolivia highlights tour! We had great amounts of time in each destination and the guides are very knowledgable and helpful! A fantastic trip, I would definitely recommend to other travellers
+
+Review submitted 24 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Bolivia Highlights trip reviews
+
+Our Bolivia Highlights trips score an average of
+4.51 out of 5
+based on 122 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+Go to dates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+

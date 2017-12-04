@@ -1,0 +1,3270 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ireland Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ireland tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Europe
+
+Ireland
+
+
+
+You’ll get it everywhere you go: a hearty tá Fáilte romhat (‘you’re very welcome’) or céad míle fáilte (‘a thousand times welcome’).
+
+
+Yep, Irish hospitality may be a cliché – right up there with leprechauns and kissing the Blarney Stone – but when you travel here you realise, the Emerald Isle revels in its old-school approach to life. Connemara really is as brooding and lonely as we’ve been led to believe. The Dublin of James Joyce still lingers on in odd pockets of the city. The Guinness really is that good. If you want to enjoy your stay, it’s best to leave your cynicism at the door and grab Ireland with both hands: learn the folklore of Roscommon and Donegal, go searching for faeries in Knocknerea Mountain, moan about the inclement weather and (above all) embrace the craic.
+
+
+Our Ireland trips
+
+
+
+
+
+
+
+
+
+Northern & Southern Ireland
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,050
+
+
+
+
+
+Take a tour of Dublin, Killarney and Belfast with stops at iconic natural landmarks...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Ireland tour reviews
+
+
+Our Ireland trips score an average of
+4.4 out of 5
+based on 15 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Northern & Southern Ireland,
+September 2017
+
+Christine Rawson
+
+This trip was enjoyable and is great for first timers, with the included tours going to some of Ireland's really beautiful areas.  An additional day in Belfast would provide time to see some of the city's sights.  Casual clothes and walking shoes a must for this one!
+
+Review submitted 18 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+Northern & Southern Ireland,
+September 2017
+
+Timothy Stroth
+
+Intrepid is a great organization to use if you are travelling alone. You get to meet a lot of fun people and share a fun experience. It's good to travel to another country and not worry about transportation or hotel accommodation. You will see many more sites with the group compared to adventuring out on your own.
+
+Review submitted 18 Sep 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Ireland trip reviews
+
+Our Ireland trips score an average of
+4.4 out of 5
+based on 15 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 17, 2017
+
+
+
+This is what it looks like to eat your way...
+
+
+
+
+
+
+To most outsiders, an Irish meal is like a Venn Diagram made up entirely of Corned...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2016
+
+
+
+5 sporting spectacles around the world that’ll...
+
+
+
+
+
+
+A sporting event can be a haven of knowledge for travellers, no matter the size of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 14, 2015
+
+
+
+Five Game of Thrones locations you can actually...
+
+
+
+
+
+
+Think you can guess your fav show’s shooting locations? You know nothing, Jon Snow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 20, 2015
+
+
+
+The day the music died: Eurovision’s 13 worst...
+
+
+
+
+
+
+In honour of this year’s entrants (and in the hopes they will learn from past...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ireland travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cliffs of Moher
+
+
+
+
+Gaze at the poetic Cliffs of Moher
+
+
+
+
+
+
+Northern & Southern Ireland, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Aran
+
+
+
+
+Step back in time on the rugged Aran Islands
+
+
+
+
+
+
+Northern & Southern Ireland, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Ring of Kerry
+
+
+
+
+Travel through the rolling green hills and quaint villages of the Iveragh Peninsula
+
+
+
+
+
+
+Northern & Southern Ireland, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Dublin
+
+
+
+
+Sink a pint of Guinness with locals in Ireland’s humming capital
+
+
+
+
+
+
+Northern & Southern Ireland, 8 days
+
+
+
+
+
+
+
+
+
+
+
+
+Ireland holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Dublin (population 500,000)
+
+Population:
+
+4.7 million
+
+Language:
+
+English, Gaelic
+
+Currency:
+
+EUR
+
+Time zone:
+
+(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London
+
+Electricity:
+
+Type D (Old British 3-pin) Type G (Irish/British 3-pin) Type M (see D)
+
+Dialing code:
+
++353
+
+
+
+
+
+
+
+
+
+Best time to visit Ireland
+
+
+
+
+
+
+×
+
+Best time to visit Ireland
+
+
+
+
+Don’t forget your umbrella! Although the wettest time of year is from October to April, rain is pretty much a guarantee year round. Summer, June to August, promises better weather, and the long days are welcome even if the sun isn’t shining. May, June and September are great months to travel to Ireland, as there are fewer tourists, more daylight and it’s usually relatively warm for Irish standards). July and August are the country’s busier months, but the festivals, events and good craic that take over the country more than make up for the increase in tourists.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+Tumultuous is a good word to describe Ireland’s often troubled and sorrowful history, which is filled with invasion, repression, deadly conflict, religious discrimination and emigration. Ireland’s history dates back to 8000 BC, and progressed from a hunter-gatherer society to an agricultural one. Christianity came to the island in the 5th century, replacing the old tribal and Druid societies, though many of the Celtic traditions were preserved. In the 800s, the Vikings started invading and regularly raided and plundered the island for upwards of two centuries. They set up settlements (most notably Dublin), but were eventually pushed out of Ireland by the Irish king Muirecán. (Ireland was then made up of many small kingdoms, who fought each other for dominance of other counties and the entire island.) Then came the Normans. When an exiled Irish king sought help from (English) King Henry II, he sent Norman forces to (successfully) recapture the Irish King’s counties. This event established Norman lords in Ireland, who soon ruled big tracts of Iand. This worried Henry II so much he invaded in person in 1172. Now it was not only Irish lords that were battling for control of the country, but Norman and English ones as well.
+
+Fast forward to 1536 and Henry VIII, who tried to conquer Ireland and extend English law over the country. This was met with fierce resistance, especially when he tried to convert the Irish Catholics to Protestants. This opened up a brutal few centuries, where the endeavour for Protestant rule over Ireland led to many atrocities and battles. In the 1600s, land was confiscated from Catholics and given to Protestant settlers (known as the Plantations), triggering the first wave of mass Irish emigration. Remaining Catholics were subject to persecution, with their rights becoming less and less as time went on.
+
+The Irish Rebellion of 1798, led by the republican United Irishmen (who wanted to overthrow British rule and have a non-sectarian republic) was brutally quelled and Irish self-government was abolished. From 1845 - 49, Ireland suffered the Great Famine, which saw over a million people die from starvation and disease, and a million or more emigrate. Understandably, relations between the Irish people and the British got worse, as the government had many means to stop the severity of the famine. Another tragedy was that this period (along with other factors) contributed to English largely replacing the Irish language. From this time until 1912, there were many attempts at reinstating home rule (Irish self-government) and a number of rebellions were instigated but failed. It was also when two distinct groups emerged: the Irish nationalists (who wanted Ireland to be independent and governed by the Irish) and Irish unionists (who considered themselves British and wanted to remain in the union).
+
+Recent History
+
+In 1922, after the Irish War of Independence and many years of fighting, the Anglo-Irish Treaty was signed and Ireland was divided into Northern Ireland (six counties) and Southern Ireland (26 counties), known as the Irish Free State. This lead to the Irish Civil War, fought between those who wanted a unified Ireland and those who wanted to keep Northern Ireland under British rule. The Irish Republican Army (IRA) lost, and Northern Ireland remained ruled by Britain.
+
+The Irish Free State was a predominantly Catholic state and the Roman Catholic church had a massive impact on the formation of the country, as it had over much of Irish history. In 1949, the Republic of Ireland was established and left the British Commonwealth. Up until the late 1990s, the economy of Ireland struggled and emigration was an ongoing problem. Unfortunately the economic boom of the 90s and 2000s has faltered, and economic troubles have once again returned. That said, the conservatism of the Catholic church has lost its grip over society, with many social reforms that would have once been unthinkable being implemented in the 90s.
+
+After the division of the counties in 1922, Northern Ireland became a predominantly Protestant state. Years of violence between pro-British Unionists and pro-Irish Republicans have marked its history, which is a complicated and bloody beast woven with political, ethnic and religious differences. It is as fascinating as it is heartbreaking, and worth reading about in a sphere that can do it justice. See our list of recommended books for books detailing this period.
+
+
+
+
+
+
+
+
+Top 5 Irish Mythical Creatures
+
+
+
+
+
+
+×
+
+Top 5 Irish Mythical Creatures
+
+
+
+1. Leprechauns
+
+They are Ireland’s most well known mythical characters. They are male faeries who take the form of an old shoemaker and are depicted with mischief in their eyes. Leprechauns are the source of practical jokes, have the ability to grant wishes and have untold riches buried away.
+
+2. Banshee
+
+A banshee is a female faerie who is said to emit an other-worldly wail when someone is about to die. While usually heard rather than seen, reports of sightings range from the sight of a beautiful woman who utters a low, pleasant singing to a crone who emits a soul-chilling shriek.
+
+3. Selkies
+
+They are creatures that are seals in the water but are human once they shed their skin on land. They are often linked with tales of ill-fated romance, where either a human has stolen the selkie’s skin so they can’t return to the water (and must marry the human) or a human is taken to the depths of the ocean to be their spouse.
+
+4. Dullahan
+
+A dullahan carries its head under its arm and rides a black stallion – and sometimes drives a wagon made out of skeletons! Its mission is to claim souls, stopping only to call out the name of the person who will die. Those who try to watch him will endure a bucket of blood thrown at them or a whip made out of a spinal cord. Only gold can scare it.
+
+5. Merrow
+
+A merrow is the Gaelic version of a mermaid/merman – a half-human, half-fish creature with an amiable and benevolent nature. They are known to lure handsome men to live under the sea, but are also capable of living with humans and marrying them. They have a special hat called a cohuleen druith, and can’t return to the water if they lose it.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Making Sense of the Troubles
+
+David McKittrick and David McVea
+
+Modern Ireland 1600-1972
+
+RF Foster
+
+The Van
+
+Roddy Doyle
+
+Journeyman Tailor
+
+Gerry Seymour
+
+McCarthy’s Bar: A journey of discovery in Ireland
+
+Pete McCarthy
+
+
+
+
+
+
+
+
+Ireland travel FAQs
+
+
+
+
+
+Is tipping customary in Ireland?
+
+
+
+
+
+
+
+
+
+Tipping of 10-15% in restaurants is common. Some restaurants add a service charge to the bill, so check for this. It’s common to round up fare in taxis or leave around 10% if they’ve been particularly helpful.
+
+
+
+
+
+
+
+What is the internet access like in Ireland?
+
+
+
+
+
+
+
+
+
+Internet access is good in Ireland, with internet cafes and Wi-Fi hotspots easily found in most cities and major towns.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Ireland?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in most parts of Ireland. Ensure global roaming is activated before you arrive.
+
+
+
+
+
+
+
+What are the toilets like in Ireland?
+
+
+
+
+
+
+
+
+
+Modern, flushable toilets are the standard in Ireland.
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+Pint of Guinness = 4.50 Euro
+City public transport ride = 2.5 Euro
+Simple cafe lunch = 15 Euro
+Nice meal in a restaurant = 40 Euro
+
+
+
+
+
+
+
+Can I drink the water in Ireland?
+
+
+
+
+
+
+
+
+
+Tap water is considered safe to drink unless otherwise marked.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Ireland?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores and hotels in Ireland. Smaller cafes and shops may not accept credit cards, so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Ireland?
+
+
+
+
+
+
+
+
+
+ATMs are very common in Ireland, so finding one won't be a problem in most towns and cities.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Ireland?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Ireland?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+17 Mar St Patrick's Day
+
+17 Apr Easter Monday
+
+1 May May Day
+
+5 Jun June Bank Holiday
+
+7 Aug August Bank Holiday
+
+30 Oct October Bank Holiday
+
+25 Dec Christmas Day
+
+26 Dec Saint Stephen's Day
+
+Please note these dates are for 2017. For a current list of public holidays in Ireland go to:
+http://www.worldtravelguide.net/ireland/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Ireland
+
+Be considerate of Ireland’s customs, traditions, religions and culture.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive and supports the local community.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

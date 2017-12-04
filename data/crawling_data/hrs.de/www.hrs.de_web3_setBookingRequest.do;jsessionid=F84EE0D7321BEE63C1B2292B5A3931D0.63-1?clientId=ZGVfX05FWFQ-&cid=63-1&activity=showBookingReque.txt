@@ -1,0 +1,892 @@
+
+HRS - HOTEL RESERVATION SERVICE - Ändern & Stornieren
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menuItem.specialOffers
+Deals & Angebote
+
+
+HRS Deals - bekannt aus dem TV
+Themenhotels
+Schnäppchen
+Exklusivpreis
+Neueröffnete Hotels
+Aktionspreise
+Mietwagen
+Alpenurlaub
+Deutsche Bahn
+
+
+
+Ferienwohnungen
+
+
+
+
+
+menuItem.conference
+Geschäftsreise
+
+
+Business Tarif
+Firmenkundenportal
+Tagungen
+Gruppenreise
+
+
+
+
+
+menuItem.group
+Gruppen
+
+
+
+
+
+
+menuItem.changeCancel
+Ändern & Stornieren
+
+
+
+
+
+Kundenservice 24/7
+
++41
+ 44 5118083
+
+
+
+
+
+
+
+menuItem.personalized
+
+
+Anmeldung bei My HRS
+
+
+
+
+
+
+
+
+
+
+Logout
+
+
+
+
+
+
+Profitieren Sie von unseren Premium Services:
+
+
+NEU! Prämienmeilen & -punkte sammeln mit jeder Hotelbuchung
+
+Bis zu 30% sparen mit dem HRS Business Tarif
+
+15 Minuten sparen mit Express Check-in & Check-out
+
+24h Kulanzservice bei Qualitätsmängeln
+
+Schneller buchen, ändern & stornieren
+
+
+
+
+
+
+Anmelden
+
+
+
+
+
+E-Mail-Adresse/Benutzername
+
+Passwort
+
+
+Login-Daten vergessen?
+
+Neu hier? Zur Registrierung
+
+
+Eingeloggt bleiben
+
+
+
+
+Jetzt registrieren
+
+
+
+
+
+
+
+Übersicht
+Buchungen
+Favoriten
+Bewertungen
+Buchungsvorlagen
+Meine Daten
+Punkte & Status
+
+Logout
+
+
+
+
+
+Login für registrierte Kunden
+
+
+
+
+
+E-Mail-Adresse
+
+
+
+Passwort
+
+
+
+
+
+
+Eingeloggt bleiben
+
+
+
+
+
+Jetzt nicht!
+
+
+Bei My HRS registrieren
+
+
+
+
+
+
+
+
+
+
+
+BUSINESS TARIF: Jetzt einloggen und sparen!
+
+
+
+
+
+HRS-Sterne
+
+
+
+
+
+
+
+
+Business
+tarif
+
+
+
+
+
+
+
+
+Registrieren Sie sich jetzt kostenlos bei My HRS für Geschäftsreisende und sparen Sie schon bei dieser Buchung!
+
+Loggen Sie sich bei My HRS ein und sparen Sie bei dieser Buchung.
+
+
+
+Profitieren Sie bei Ihrer nächsten Buchung vom HRS Business Tarif.
+
+
+
+
+E-Mail-Adresse
+
+
+
+Passwort
+
+
+
+
+
+
+Eingeloggt bleiben
+
+
+
+
+
+
+Für den BUSINESS TARIF registrieren
+
+
+
+
+
+
+
+
+
+
+
+Registrieren Sie sich für My HRS
+
+
+
+
+Ihre Buchungen im Überblick.
+
+Durchsuchen Sie Ihre Buchungshistorie und führen Sie komfortabel Änderungen aus.
+
+
+
+
+Vorname*
+
+
+
+Nachname*
+
+
+
+
+E-Mail-Adresse*
+
+
+
+Passwort*
+
+Geben Sie min. 6 Buchstaben oder Zahlen ein. Bitte verwenden Sie keine Leerzeichen oder Umlaute!
+
+
+
+
+
+
+
+
+Ja, ich möchte den HRS Newsletter kostenfrei abonnieren.
+
+
+
+
+Eingeloggt bleiben
+
+
+
+
+
+Jetzt nicht!
+
+
+Ich bin schon bei My HRS registriert
+
+
+
+
+
+
+
+
+
+
+
+Buchen Sie dieses Hotel jetzt günstiger zum HRS Business Tarif!
+
+
+
+
+
+HRS-Sterne
+
+
+
+
+
+
+
+
+Business
+tarif
+
+
+
+
+
+
+
+
+Registrieren Sie sich jetzt kostenlos bei My HRS für Geschäftsreisende und sparen Sie schon bei dieser Buchung!
+
+
+
+Profitieren Sie bei Ihrer nächsten Buchung vom HRS Business Tarif.
+
+
+
+
+Vorname*
+
+
+
+Nachname*
+
+
+
+
+Firmenname*
+
+
+
+Ihre geschäftliche E-Mail-Adresse*
+
+Dient zum Versand des Aktivierungslinks an Sie und als Ihr Benutzername für das Login bei "My HRS".
+
+
+
+
+
+
+
+Ich bin selbstständig
+
+
+
+Passwort*
+
+Geben Sie min. 6 Buchstaben oder Zahlen ein. Bitte verwenden Sie keine Leerzeichen oder Umlaute!
+
+
+
+
+
+
+
+Ja, ich bin Geschäftsreisender und akzeptiere die
+AGB
+und stimme den
+Datenschutzbestimmungen
+zu.
+
+
+
+Mit der Registrierung akzeptieren Sie die
+AGB
+und die
+Datenschutzbestimmungen
+von HRS.
+
+
+
+
+
+Eingeloggt bleiben
+
+
+
+
+
+
+Ich bin schon registriert
+
+
+
+
+
+
+
+
+
+
+
+My HRS TARIF: Registrierung abgeschlossen!
+
+
+
+
+
+Willkommen
+!
+
+Sie haben sich erfolgreich für My HRS registriert.
+
+Sie profitieren ab sofort vom besonders günstigen My HRS TARIF!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My HRS für Geschäftsreisende
+
+
+
+
+
+
+Willkommen bei My HRS!
+
+Sie sind mit der E-Mail-Adresse
+
+registriert
+
+Sie sind als Geschäftsreisender freigeschaltet.
+
+
+
+
+
+
+
+
+
+
+
+Sie befinden sich hier:
+Hotelsuche (Startseite)
+Ändern & Stornieren
+Ändern & Stornieren
+
+
+
+
+Erstellen Sie kostenlos ein Konto und profitieren Sie von unseren Premium-Services.
+
+Melden Sie sich in Ihrem Konto an
+
+
+
+
+Unsere Premium-Services
+
+
+NEU! Prämienmeilen & -punkte sammeln mit jeder Hotelbuchung
+
+Bis zu 30% sparen mit dem HRS Business Tarif
+
+15 Minuten sparen mit Express Check-in & Check-out
+
+24h Kulanzservice bei Qualitätsmängeln
+
+Schneller buchen, ändern & stornieren
+
+
+
+
+
+
+
+
+
+
+Aus welchem Grund verreisen Sie für gewöhnlich?
+
+
+Geschäftlich
+
+
+Freizeit
+
+
+Beides
+
+
+
+Als Geschäftsreisende gelten Freiberufliche, Selbstständige sowie Reisende von Unternehmen.
+
+
+
+
+
+
+
+
+
+
+
+Vorname
+
+
+
+
+Nachname
+
+
+
+
+Geschäftl. E-Mail-Adresse
+
+
+
+
+Passwort
+
+
+
+
+Firmenname
+
+
+
+
+
+
+Mit der Registrierung akzeptieren Sie die
+AGB
+und die
+Datenschutzbestimmungen
+von HRS.
+
+
+
+
+Ich bin selbstständig
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vorname
+
+
+
+
+Nachname
+
+
+
+
+E-Mail-Adresse
+
+
+
+
+Passwort
+
+
+
+
+
+
+
+Mit der Registrierung akzeptieren Sie die
+AGB
+und die
+Datenschutzbestimmungen
+von HRS.
+
+
+
+
+
+
+
+
+
+
+
+E-Mail-Adresse
+
+
+
+Passwort
+
+
+
+Zugangsdaten vergessen?
+
+
+
+
+Eingeloggt bleiben
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich habe noch kein HRS Konto.
+Jetzt registrieren
+
+
+
+
+Ich habe bereits ein HRS Konto.
+Jetzt einloggen
+
+
+
+
+
+
+SSL-Verschlüsselung und Datenschutz-Garantie
+
+
+
+
+
+
+Registrierung abgeschlossen!
+
+
+
+Glückwunsch – die Premium Services sind jetzt für Sie freigeschaltet
+
+
+
+Willkommen
+!
+Sie haben sich erfolgreich für My HRS registriert.
+
+
+
+
+
+Willkommen bei HRS
+Viel Spaß bei Ihrer Buchung. Bei Fragen sind wir 24/7 für Sie unter +49 221 2077 600 erreichbar.
+Vervollständigen Sie gleich Ihre Daten um Ihre nächste Buchung mit einem Klick durchzuführen.
+
+Jetzt Daten vervollständigen und Zeit sparen.
+
+Nicht jetzt. Ich möchte buchen.
+
+
+
+
+
+
+
+
+
+
+Ändern & Stornieren
+
+
+
+
+
+Bitte geben Sie zur Identifizierung Ihrer Buchung folgende Daten ein.
+
+
+Vorgangsnummer:
+*
+
+
+
+
+
+Vorgangsnummer
+
+Die Vorgangsnummer finden Sie auf Ihrer Reservierungsbestätigung.
+Wenn sie Ihnen nicht mehr vorliegt, rufen Sie uns bitte an.
+Wir helfen Ihnen gern weiter.
++49 221 2077 600
+Montag bis Sonntag: 0 - 24 Uhr
+
+
+
+
+Zugriffscode:
+*
+
+
+
+
+
+Zugriffscode
+
+Den Zugriffscode finden Sie auf Ihrer Reservierungsbestätigung.
+Wenn er Ihnen nicht mehr vorliegt, rufen Sie uns bitte an.
+Wir helfen Ihnen gern weiter.
++49 221 2077 600
+Montag bis Sonntag: 0 - 24 Uhr
+
+
+
+
+Bitte beachten Sie:
+Bei einer Änderung des Reisezeitraums und/oder der Zimmeranzahl können sich Zimmerpreise und Stornierungsfristen ändern!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24 Stunden HRS Service
+
++41 44 5118083
+
+
+Montag bis Sonntag: 0 - 24 Uhr
+
+
+Weltweit erreichbar
+
+
+
+
+
+
+
+
+Über HRS
+
+|
+
+Für Firmen
+
+|
+
+Für Hotels
+
+|
+
+Reisebüros & Affiliates
+
+|
+
+Jobs & Karriere
+
+|
+
+Presse
+
+|
+
+HRS Blog
+
+|
+
+Kontakt
+
+|
+
+Sitemap
+
+|
+
+FAQ
+
+|
+
+HRS Destination Solutions
+
+|
+
+Impressum
+
+|
+
+Datenschutz & Sicherheit
+
+|
+
+AGB
+
+|
+
+Site-index
+
+|
+
+
+© HRS 2017
+
+
+
+
+Alle Preise auf HRS.de gelten pro Zimmer/ Nacht, wenn nicht anders ausgezeichnet. Die Hotels sind verpflichtet, Endpreise anzugeben.
+
+
+*
+Hotline:
++41 44 5118083 - 0,041 €/Min. zzgl. MwSt. des jeweiligen Landes, für Mobilfunk gelten die gleichen Kosten.
+International erreichbare Nummer des HRS Service-Centers.
+
+
+**
+Die HRS Exklusivpreishotels sind garantiert mindestens 10% günstiger als bei allen anderen internetbasierten Reiseanbietern mit identischen Buchungskonditionen. Falls nicht, erstattet Ihnen das Hotel vor Ort 20 € pro Zimmer/Nacht. Details unter „Exklusivpreis - Konditionen".
+
+
+
+
+ICP-Lizenz: 沪ICP备08016371号631-Xkxz
+
+
+
+
+

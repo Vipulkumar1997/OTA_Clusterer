@@ -1,0 +1,4614 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctica Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctica tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Polar
+
+Antarctica
+
+
+
+Early explorers didn’t have the luxury of booking their expeditions online.
+
+
+They just assembled a valiant crew, trained a few huskies and worked on their ‘First to reach the South Pole’ victory speech. These days it’s a bit easier: we run a variety of Antarctica tours between November and March each year, cruising in comfort on state-of-the-art polar vessels. But don’t be fooled: as adventures go, this is the big one. You’ll cross the infamous Drake Passage and set foot on the Antarctic Peninsula, explore ice-dotted bays by zodiac and get up close with Gentoo penguins and migrating blue whales. ‘Antarctic trips’ doesn’t really do it justice. These are Antarctic
+adventures
+.
+
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+We're offering up to 35% OFF Antarctic voyages departing 2018/19. Book by January 31, 2018.
+
+Terms & Conditions
+
+
+
+
+
+×
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+We're offering up to 35% OFF Antarctic voyages departing 2018/19. Book by January 31, 2018.
+
+
+
+
+Up to 35% off.  Sales to 31 January 2018
+
+
+
+TIER ONE – 15 % off Standard Cabins
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Buenos Aires (Ocean Endeavour) 14 November 18
+
+Antarctic Explorer from Ushuaia (Ocean Diamond) 9 December 18
+
+Crossing the Circle via Falklands & South Georgia (Ocean Endeavour) 18 December 18
+
+Antarctic Express: Crossing the Antarctic Circle (Ocean Adventurer) 20 December 18
+
+Antarctic Express: Crossing the Antarctic Circle (Ocean Adventurer) 2 January 19
+
+Antarctic Explorer from Ushuaia (World Explorer) 3 January 19
+
+Antarctic Express: Crossing the Antarctic Circle (Ocean Adventurer) 10 January 19
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 9 February 19
+
+Antarctic Express: Crossing the Antarctic Circle (World Explorer) 11 February 19
+
+Crossing the Circle via Falklands & South Georgia (Ocean Endeavour) 18 February 19
+
+Crossing the Antarctic Circle from Ushuaia (Ocean Diamond) 19 February 19
+
+
+
+TIER TWO – 20% off Standard Cabins
+
+Antarctic Explorer from Ushuaia (Ocean Adventurer) 8 December 18
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 8 January 19
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 17 January 19
+
+South Georgia And Antarctic Peninsula from Buenos Aires (Ocean Endeavour) 26 January 19
+
+Antarctic Express: Crossing the Antarctic Circle (Ocean Adventurer) 13 February 19
+
+Antarctic Explorer from Ushuaia (Ocean Adventurer) 24 February 19
+
+
+
+TIER TREE – 25 % off Standard Cabins
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 10 December 18
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Ushuaia (World Explorer) 16 December 18
+
+Photography Series: Crossing the Antarctic Circle (Ocean Diamond) 3 March 19
+
+
+
+TIER FOUR – 30% off Standard Cabins
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 5 November 18
+
+Antarctic Explorer from Ushuaia (Ocean Diamond) 6 November 18
+
+Photography Series: Antarctic Explorer from Ushuaia (Ocean Adventurer) 13 November 18
+
+The Falklands & South Georgia from Ushuaia (Ocean Adventurer) 22 November 18
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 2 December 18
+
+Antarctic Explorer from Ushuaia (World Explorer) 4 March 19
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Ushuaia (World Explorer) 14 March 19
+
+
+
+TIER FIVE 25% off Premium Cabins
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Buenos Aires (Ocean Endeavour) 14 November 18
+
+Antarctic Explorer from Ushuaia (Ocean Diamond) 9 December 18
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Ushuaia (World Explorer) 16 December 18
+
+Crossing the Circle via Falklands & South Georgia (Ocean Endeavour) 18 December 18
+
+Antarctic Express: Crossing the Antarctic Circle (Ocean Adventurer) 20 December 18
+
+Antarctic Express: Crossing the Antarctic Circle (Ocean Adventurer) 2 January 19
+
+Antarctic Explorer from Ushuaia (World Explorer) 3 January 19
+
+Antarctic Express: Crossing the Antarctic Circle (Ocean Adventurer) 10 January 19
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 9 February 19
+
+Antarctic Express: Crossing the Antarctic Circle (World Explorer) 11 February 19
+
+Crossing the Circle via Falklands & South Georgia (Ocean Endeavour) 18 February 19
+
+Crossing the Antarctic Circle from Ushuaia (Ocean Diamond) 19 February 19
+
+
+
+TIER SIX 30% off Premium Cabins
+
+Antarctic Explorer from Ushuaia (Ocean Adventurer) 8 December 18
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 8 January 19
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 17 January 19
+
+South Georgia And Antarctic Peninsula from Buenos Aires (Ocean Endeavour) 26 January 19
+
+Antarctic Express: Crossing the Antarctic Circle (Ocean Adventurer) 13 February 19
+
+Antarctic Explorer from Ushuaia (Ocean Adventurer) 24 February 19
+
+Antarctic Explorer from Ushuaia (World Explorer) 4 March 19
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Ushuaia (World Explorer) 14 March 19
+
+
+
+TIER SEVEN 35% off Premium Cabins
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 5 November 18
+
+Antarctic Explorer from Ushuaia (Ocean Diamond) 6 November 18
+
+Photography Series: Antarctic Explorer from Ushuaia (Ocean Adventurer) 13 November 18
+
+The Falklands & South Georgia from Ushuaia (Ocean Adventurer) 22 November 18
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 2 December 18
+
+Antarctic Explorer from Buenos Aires (Ocean Endeavour) 10 December 18
+
+Photography Series: Crossing the Antarctic Circle (Ocean Diamond) 3 March 19
+
+
+
+Excluded voyages
+
+Antarctic Express: Fly the Drake (Ocean Adventurer) 28 December 18
+
+Antarctic Explorer from Ushuaia (World Explorer) 12 January 19
+
+Antarctic Express: Fly the Drake (World Explorer) 19 February 19
+
+Antarctic Express: Fly the Drake (World Explorer) 24 February 19
+
+Antarctic Explorer from Ushuaia (World Explorer) 30 January 19
+
+Antarctic Express: Fly the Drake (Ocean Adventurer) 3 February 19
+
+
+
+Cabin Categories
+
+
+
+Standard Cabins
+
+World Explorer – Infinity Suite, Veranda Suite
+
+Ocean Diamond – Twin Obstructed View, Twin Window
+
+Ocean Endeavour – Twin Porthole, Twin Window, Upper Deck Twin, Upper Deck Double, Twin Porthole Suite (1), Twin Porthole Suite (2)
+
+Ocean Adventurer – Lower Deck, Main Deck Porthole, Main Deck Window
+
+
+
+Premium Cabins
+
+World Explorer – Superior Suite, Deluxe Suite
+
+Ocean Diamond – Suite, Balcony Suite
+
+Ocean Endeavour – Superior Twin, Superior Double, Top Deck Double, Twin Window Suite (1), Twin Window Suite (2), Junior Suite
+
+Ocean Adventurer – Superior, Deluxe, Suite
+
+
+
+Terms and Conditions
+
+New Bookings only made between
+15 November 2017 and 31 January 2018
+for voyages departing
+November 2018 to March 2019
+
+Savings are per person.  Not combinable with any other promotion except Quark’s Shackleton Loyalty programme.  Applies to voyage only and is not applicable on Ocean Endeavour transfer packages, land based trips, adventure options, additional accommodation, insurance, flights or group bookings.
+
+Peregrine/Intrepid have the right to limit, change or discontinue the promotion at any time without notice.
+
+Excludes triple cabins, single cabins (on the Ocean Diamond and the Ocean Endeavour) and owner suites on all ships
+
+Deposit of 20% of the full cost of the voyage (before any discount applied) is required to confirm the booking and balance due 120 days before departure.
+
+
+
+Close
+
+
+
+
+
+
+Our Antarctica trips
+
+
+
+
+
+
+
+
+
+Antarctic Peninsula, Falkland Islands & South Georgia: From Buenos Aires
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR12,415
+
+
+
+
+
+Visit Antarctica and travel through the Beagle Channel to the Falkland and South...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer from Ushuaia 11 day
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR5,750
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Circle via Falklands & South Georgia  2017 - 2018
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR13,370
+
+
+
+
+
+If you desire to ‘do it all’ on your Antarctic adventure, then this is the voyage for...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Antarctic Circle from Ushuaia
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR8,120
+
+
+
+
+
+Uncover the sublime white beauty of Antarctica on this Southern Expedition. Travel...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer: From Buenos Aires 11 days
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR7,595
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Fly the Drake (Island Sky) 2017 - 2018
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR11,215
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express - Crossing the Circle (Island Sky)
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR20,340
+
+
+
+
+
+This all-encompassing journey takes you to one of the world's most awe-inspiring...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer: From Buenos Aires 10 day
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR6,230
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Ushuaia
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR13,870
+
+
+
+
+
+Visit Antarctica and travel through the Beagle Channel to the Falkland and South...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Fly the Drake from Punta Arenas
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR9,055
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Fly the Drake (Island Sky) 2017 - 2018
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR13,870
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer (Sea Adventurer) 2017 - 2018
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR6,325
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Antarctic Circle From Buenos Aires
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR9,035
+
+
+
+
+
+Uncover the sublime white beauty of Antarctica on this Southern Expedition. Travel...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctica East & West: Peninsula in Depth (Ocean Endeavour) 2017 - 2018
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR12,415
+
+
+
+
+
+Be delighted by penguins, seals and whales on our most comprehensive expedition of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ushuaia to Cape Verde via the Atlantic Islands
+
+
+
+
+
+
+
+
+
+33 Days
+
+
+From
+FR10,350
+
+
+
+
+
+Journey from Ushuaia to exotic Cape Verde via the amazing Atlantic islands of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer (Island Sky) 2017 - 2018
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR11,285
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Express: Crossing the Antarctic Circle from Punta Arenas
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR14,735
+
+
+
+
+
+Embark on an adventure of a lifetime while crossing the Antarctic Circle. Discover...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer from Ushuaia 12 day
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR8,600
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Antarctic Circle via Falklands & South Georgia from Buenos Aires
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR13,990
+
+
+
+
+
+Embark on a cruise across the Antarctic Circle and visit the Falklands, South Shetland...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Georgia & Antarctic Peninsula from Buenos Aires
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR10,295
+
+
+
+
+
+Nothing on earth can prepare you for Antarctica; you have to see it for yourself. See...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Photography Series: Antarctic Explorer
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR7,845
+
+
+
+
+
+Cross the Drake passage and sail to the Antarctic Peninsula on a wildlife-focused...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Falklands and South Georgia
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR13,500
+
+
+
+
+
+Conquer the White Continent on a far-reaching Antarctic voyage that visits the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Photography Series:  Crossing the Antarctic Circle
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR8,900
+
+
+
+
+
+Cross the Antarctic Circle and sail deep into the Polar region on this Antarctic voyage...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer from Ushuaia 10 days
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR6,635
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer from Ushuaia 9 day
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR5,960
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Ushuaia
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR11,315
+
+
+
+
+
+Visit Antarctica and travel through the Beagle Channel to the Falkland and South...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Antarctic Circle via Falklands & South Georgia from Ushuaia
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR13,050
+
+
+
+
+
+Embark on a cruise across the Antarctic Circle and visit the Falklands, South Shetland...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Antarctica tour reviews
+
+
+Our Antarctica trips score an average of
+4.75 out of 5
+based on 4 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer from Ushuaia 2015 - 2017,
+February 2017
+
+Janka Lackova
+
+Highly recommend this trip. Excellent service worth the money
+
+Review submitted 04 Mar 2017
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Peninsula, Falkland Islands & South Georgia: From Buenos Aires (Ocean Endeavour) 2015 - 2017,
+November 2016
+
+Glynis Grey
+
+This 3 week trip to the Falklands, South Georgia and Antarctica was fantastic, we saw so much wildlife and experienced so many places.  The expedition team are passionate about what they do and ensuring you have the trip of a life time. It has been a life changing experience.  The trip went far beyond my expectations.
+
+Review submitted 07 Jan 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Antarctica trip reviews
+
+Our Antarctica trips score an average of
+4.75 out of 5
+based on 4 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Antarctica
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular places...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2017
+
+
+
+The top destinations for travel in December
+
+
+
+
+
+
+Whether you’re in the mood for mulled wine and Christmas markets or in need of a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2017
+
+
+
+Visiting Antarctica with Intrepid, the trip of...
+
+
+
+
+
+
+Having traveled to over 40 countries and touched every continent, I can safely say...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 06, 2017
+
+
+
+Meet the female scientists kicking goals in...
+
+
+
+
+
+
+Last year, 77 women scientists set out for the Antarctic peninsula – the biggest...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 04, 2016
+
+
+
+Australia just gained 17 new islands…in Antarctica
+
+
+
+
+
+
+Australia has just claimed 17 very cold, very small, very remote islands. Penguins...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 02, 2016
+
+
+
+The 15 most spectacular glaciers to visit...
+
+
+
+
+
+
+Some of the most picturesque glaciers on planet Earth may be available for a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 24, 2016
+
+
+
+Behind the lens with Anuar Patjane, the best...
+
+
+
+
+
+
+Anuar Patjane is the best travel photographer in the world...according to Nat Geo...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 23, 2016
+
+
+
+This traveller got the coolest Antarctic...
+
+
+
+
+
+
+An antarctic experience involving whales, kayaks and life-changing adventure. In...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 08, 2015
+
+
+
+Your guide to tackling the Drake Passage, the...
+
+
+
+
+
+
+This is the Drake Passage: the only unhindered flow of ocean on earth. Prepare...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 25, 2015
+
+
+
+Ask The Experts: The Planet D’s guide to Polar...
+
+
+
+
+
+
+Deb and Dave, collectively known as The Planet D, are kind of a big deal in the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 18, 2015
+
+
+
+Why more young travellers are heading to...
+
+
+
+
+
+
+An entire generation of travellers is exploring more of the world than their...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dec 16, 2014
+
+
+
+How Antarctica challenged and changed me
+
+
+
+
+
+
+A few years ago, I embarked on what would become the greatest adventure of my life...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 06, 2014
+
+
+
+Shackleton’s centenary: what does it mean to...
+
+
+
+
+
+
+As we count down the days to the centenary of Sir Ernest Shackleton setting off on...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctica travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South Shetland Islands
+
+
+
+
+Visit the South Shetland Islands
+
+
+
+
+
+
+Antarctic Express: Fly the Drake (Island Sky) 2017 - 2018, 8 days
+
+
+
+
+
+
+
+
+
+
+
+South Georgia
+
+
+
+
+Recount Shackleton's heroic journey at South Georgia
+
+
+
+
+
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Ushuaia, 20 days
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tips and advice
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 08, 2015
+
+
+
+Your guide to tackling the Drake Passage, the...
+
+
+
+
+
+
+This is the Drake Passage: the only unhindered flow of ocean on earth. Prepare...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctica holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+n/a
+
+Population:
+
+1,000-5,000 (seasonal)
+
+Language:
+
+n/a
+
+Currency:
+
+USD
+
+Time zone:
+
+(GMT-03:00) Buenos Aires
+
+Electricity:
+
+Type C (European 2-pin)
+
+Dialing code:
+
+n/a
+
+
+
+
+
+
+
+
+
+Best time to visit Antarctica
+
+
+
+
+
+
+×
+
+Best time to visit Antarctica
+
+
+
+
+Antarctica has a strict summer window for visitors. In winter the ice pack extends out and darkness closes in almost 24 hours a day. With mid-year temperatures reaching down to -50 degrees Celsius, even the most outgoing adventurer would think twice. In summer, the sun is out most of the day and temperatures can reach a heady 2 degrees C. This is the ideal time to spot penguin chicks hatching, whales migrating and seals frolicking.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+As the world’s highest, driest and coldest continent, it’s no surprise that Antarctica is the only one to have no permanent human population. This vast wilderness is covered with an ice sheet 4 km thick, broken only by mountain ranges and ice streams. Despite the huge amount of frozen water (90% of the world’s ice is here), Antarctica is a desert and conditions are harsh. Antarctica’s nearest neighbours are across the Southern Ocean, past icebergs and whales, in
+Argentina
+,
+Chile
+and
+New Zealand
+. It’s a long way to go for a cup of sugar.
+
+
+
+
+
+
+
+
+Top 5 Antarctic Experiences
+
+
+
+
+
+
+×
+
+Top 5 Antarctic Experiences
+
+
+
+
+1. Take a Walk
+
+Words can’t describe the feeling of setting foot on the Antarctic Peninsula. Surrounded by ice and knowing that you’re walking where only a handful of people have ever gone before is simply incredible.
+
+2. Whale of a Time
+
+The Antarctic summer is peak whale watching time in the Southern Ocean. Eight species head to the krill-rich waters to feast. It’s not uncommon to see massive blue whales breeching, orcas hunting seals or pods of humpbacks playing. Take a cruise and be amazed!
+
+3. Penguin Encounters
+
+It’s thought that 20 million penguins live in the Antarctic region, and if you find yourself in the midst of a colony, you’ll feel like every single one of them is there with you.
+
+4. Zodiac Cruising
+
+An Antarctica cruise by Zodiac is by far the best way to get close to all Antarctica has to offer. Enjoy almost daily landings on beaches, zip around icebergs, get close to whales, or land near a colony of penguins.
+
+5. Polar Plunge
+
+Entertain the resident Gentoo penguins by stripping down to your swimwear and taking a dip in the bracing waters of Neko Harbour. It might be the shortest swim you ever take, but the bragging rights will last a lifetime.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+Further Reading
+
+
+
+
+
+
+×
+
+Further Reading
+
+
+
+Title
+
+Author
+
+Endurance: Shackleton's Incredible Voyage
+
+Alfred Lansing
+
+Mawson's Will: The Greatest Polar Survival Story Ever Written
+
+Lennard Bickel
+
+An Adventurer's Guide to Antarctica and the Subantarctic Islands
+
+Marilyn J. Landis
+
+
+
+
+
+
+
+
+Antarctica travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Antarctica?
+
+
+
+
+
+
+
+
+
+No specific visa is required to enter Antarctica beyond the requirements of the country your trip departs from - most likely Argentina or Chile.
+
+
+
+
+
+
+
+Is there a laundry on board the ship?
+
+
+
+
+
+
+
+
+
+Yes, a laundry service at a reasonable cost is included on every ship.
+
+
+
+
+
+
+
+What will we eat on board?
+
+
+
+
+
+
+
+
+
+The menu changes every day. Breakfast is buffet style. Lunch often features a buffet. Dinner is plated service, with a choice of three main dishes. A vegetarian choice is always offered. Afternoon tea, with pastries or cookies, is provided every day. Fresh pastries arrive warm from the oven for early birds about 6am.
+
+
+
+
+
+
+
+How often can I go ashore?
+
+
+
+
+
+
+
+
+
+With luck you’ll go ashore most days once we reach the Antarctic. You’ll have the opportunity to go on zodiac excursions to research stations, penguin colonies, pebble beaches and around icebergs. However, we operate under IAATO guidelines that limit the number of travellers and expedition staff allowed ashore during each landing. No more than 100 people can be ashore at any one time, and in some locations that number is 50. None of our Antarctic vessels carry more than 128 travellers.
+
+
+
+
+
+
+
+Any tips for great penguin experiences?
+
+
+
+
+
+
+
+
+
+Pick a spot no closer than 5 metres (15 feet) from the penguins. Sit or kneel - you're making yourself smaller, therefore less threatening. Wait quietly, with your camera ready to take some incredible photographs. Penguins are curious. They may come to you.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Antarctica?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while on holiday in Antarctica.
+
+
+
+
+
+
+
+Top responsible travel tips for Antarctica
+
+1. Don’t use aircraft, vessels, small boats, or other means of transport in ways that disturb wildlife, either at sea or on land.
+
+2. Don’t feed, touch, or handle birds or seals or approach or photograph them in ways that cause them to alter their behavior. Special care is needed when animals are breeding or molting.
+
+3. Don’t damage plants, for example by walking, driving, or landing on extensive moss beds or lichen-covered scree slopes.
+
+4. Don’t use guns or explosives. Keep noise to the minimum to avoid frightening wildlife.
+
+5. Don’t bring non-native plants or animals into the Antarctic, such as live poultry, pet dogs and cats, or house plants.
+
+6. Know the location of areas that have been afforded special protection and observe any restrictions regarding entry and activities that can be carried out in and near them.
+
+7. Don’t damage, remove, or destroy historic sites or monuments or any artifacts associated with them.
+
+8. Don’t interfere with scientific research facilities or equipment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

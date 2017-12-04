@@ -1,0 +1,6934 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Argentina Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Argentina tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+South America
+
+Argentina
+
+
+
+Visitors come to Argentina and fall in love with the leafy boulevards, hip galleries, elegant architecture and effortlessly smooth citizens of Buenos Aires.
+
+
+But it's important not to forget the other delights of Argentina - the Pampas that remain the realm of the gauchos, the icy wilds of Patagonia, thundering Iguazu Falls and the vineyards of Mendoza. Argentina's captivating cavalcade of natural environments is simply astounding.
+
+
+Top Argentina travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+16 Dec 2017
+
+Best of Argentina & Brazil
+
+
+
+Best of Argentina & Brazil
+Buenos Aires to Rio de Janeiro
+
+
+
+
+
+
+
+
+
+×
+
+Best of Argentina & Brazil
+
+
+
+
+
+
+
+
+
+7
+
+
+FR2,290
+
+
+FR1,832
+
+
+
+
+View Trip
+
+
+
+
+
+
+16 Dec 2017
+
+Argentina & Brazil Adventure
+
+
+
+Argentina & Brazil Adventure
+Buenos Aires to Rio de Janeiro
+
+
+
+
+
+
+
+
+
+×
+
+Argentina & Brazil Adventure
+
+
+
+
+
+
+
+
+
+10
+
+
+FR2,515
+
+
+FR2,264
+
+
+
+
+View Trip
+
+
+
+
+
+
+7 Jan 2018
+
+Patagonia Wilderness
+
+
+
+Patagonia Wilderness
+Buenos Aires to Buenos Aires
+
+
+
+
+
+
+
+
+
+×
+
+Patagonia Wilderness
+
+
+
+
+
+
+
+
+
+15
+
+
+FR4,575
+
+
+FR4,118
+
+
+
+
+View Trip
+
+
+
+
+
+
+10 Jan 2018
+
+Buenos Aires to Rio Unplugged
+
+
+
+Buenos Aires to Rio Unplugged
+Buenos Aires to Rio de Janeiro
+
+
+
+
+
+
+
+
+
+×
+
+Buenos Aires to Rio Unplugged
+
+
+
+
+
+
+
+
+
+17
+
+
+FR2,435
+
+
+FR2,192
+
+
+
+
+View Trip
+
+
+
+
+
+
+2 Mar 2018
+
+Best of Argentina, Uruguay & Brazil
+
+
+
+Best of Argentina, Uruguay & Brazil
+Buenos Aires to Rio de Janeiro
+
+
+
+
+
+
+
+
+
+×
+
+Best of Argentina, Uruguay & Brazil
+
+
+
+
+
+
+
+
+
+10
+
+
+FR1,880
+
+
+FR1,786
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Argentina trips
+
+
+
+
+
+
+
+
+
+Antarctic Peninsula, Falkland Islands & South Georgia: From Buenos Aires
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR12,415
+
+
+
+
+
+Visit Antarctica and travel through the Beagle Channel to the Falkland and South...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Wilderness
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,978
+
+
+
+
+
+Trek through South America's Patagonia region on an overland trip to Chile and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer from Ushuaia 11 day
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR5,750
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Argentina & Brazil
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,832
+
+
+
+
+
+Experience the best of everything Argentina and Brazil have to offer on this fantastic,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Circle via Falklands & South Georgia  2017 - 2018
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR13,370
+
+
+
+
+
+If you desire to ‘do it all’ on your Antarctic adventure, then this is the voyage for...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Trekking
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR3,440
+
+
+
+
+
+Visit South America and travel to Patagonia to experience the 'W' Trek in Torres del...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires to Rio Unplugged
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,191
+
+
+
+
+
+Experience Brazilian beaches, Uruguayan home cooking and vibrant Argentinean culture on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Antarctic Circle from Ushuaia
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR8,120
+
+
+
+
+
+Uncover the sublime white beauty of Antarctica on this Southern Expedition. Travel...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Argentina & Brazil Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,263
+
+
+
+
+
+Experience the best of everything Argentina and Brazil have to offer on this fantastic,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Argentina & Brazil Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR2,525
+
+
+
+
+
+Experience the best of everything Argentina and Brazil have to offer on this fantastic,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer: From Buenos Aires 11 days
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR7,595
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Quito via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,470
+
+
+
+
+
+Visit South America and travel through Brazil, Argentina, Chile, Bolivia, Peru and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Quito to Rio via Ushuaia
+
+
+
+
+
+
+
+
+
+112 Days
+
+
+From
+FR12,270
+
+
+
+
+
+Visit South America and travel through Ecuador, Peru, Bolivia, Argentina, Chile and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires to Santiago via Ushuaia
+
+
+
+
+
+
+
+
+
+34 Days
+
+
+From
+FR3,985
+
+
+
+
+
+Discover penguins, glaciers and eye-popping cities on an epic South American adventure....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer: From Buenos Aires 10 day
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR6,230
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Ushuaia
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR13,870
+
+
+
+
+
+Visit Antarctica and travel through the Beagle Channel to the Falkland and South...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Chile & Argentina
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,295
+
+
+
+
+
+Embark on an unforgettable journey through the amazing landscapes and captivating...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Bolivia & Argentina
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR2,484
+
+
+
+
+
+Get off the tourist trail on this extraordinary adventure through Bolivia and Argentina...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Bolivia and Argentina
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,920
+
+
+
+
+
+Get off the tourist trail on this extraordinary adventure through Bolivia and Argentina...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru, Bolivia & Argentina Adventure
+
+
+
+
+
+
+
+
+
+40 Days
+
+
+From
+FR5,455
+
+
+
+
+
+Journey through South America, from Lima to Buenos Aires, and explore stunning...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Argentina, Uruguay & Brazil
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,786
+
+
+
+
+
+Experience Brazilian beaches, Uruguayan home cooking and vibrant Argentinean culture on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires to Rio Explorer
+
+
+
+
+
+
+
+
+
+17 Days
+
+
+From
+FR2,660
+
+
+
+
+
+Experience Brazilian beaches, Uruguayan home cooking and vibrant Argentinean culture on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore South America
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR5,245
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Adventure through Peru, Bolivia & Argentina
+
+
+
+
+
+
+
+
+
+35 Days
+
+
+From
+FR4,260
+
+
+
+
+
+Journey through South America, from Lima to Buenos Aires, and explore stunning...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South American Highlights
+
+
+
+
+
+
+
+
+
+44 Days
+
+
+From
+FR6,085
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Bolivia to Brazil
+
+
+
+
+
+
+
+
+
+31 Days
+
+
+From
+FR4,520
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina, Uruguay and Brazil. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of South America
+
+
+
+
+
+
+
+
+
+51 Days
+
+
+From
+FR6,228
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Grand South America
+
+
+
+
+
+
+
+
+
+58 Days
+
+
+From
+FR7,105
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of Patagonia
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,770
+
+
+
+
+
+Travel to Argentina and trek the legendary landscapes of Patagonia (Laguna de los Tres,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer (Sea Adventurer) 2017 - 2018
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR6,325
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Chile, Argentina & Brazil
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR4,780
+
+
+
+
+
+Visit South America and travel through Chile, Argentina and Brazil on a tour from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Amazing South America
+
+
+
+
+
+
+
+
+
+47 Days
+
+
+From
+FR6,125
+
+
+
+
+
+Discover the lush beauty of the Amazon, the elegance of Buenos Aires and the awe...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Antarctic Circle From Buenos Aires
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR9,035
+
+
+
+
+
+Uncover the sublime white beauty of Antarctica on this Southern Expedition. Travel...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctica East & West: Peninsula in Depth (Ocean Endeavour) 2017 - 2018
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR12,415
+
+
+
+
+
+Be delighted by penguins, seals and whales on our most comprehensive expedition of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimate South America
+
+
+
+
+
+
+
+
+
+63 Days
+
+
+From
+FR8,380
+
+
+
+
+
+Prepare yourself for the ultimate South American adventure starting in Ecuador. From...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bolivia to Brazil Explorer
+
+
+
+
+
+
+
+
+
+36 Days
+
+
+From
+FR5,135
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina, Uruguay and Brazil. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Iguazu Falls
+
+
+
+
+
+
+
+
+
+2 Days
+
+
+From
+FR250
+
+
+
+
+
+Spend the night in Foz do Iguazu, and enjoy day tours of Iguazu Falls. Visit both the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ushuaia to Cape Verde via the Atlantic Islands
+
+
+
+
+
+
+
+
+
+33 Days
+
+
+From
+FR10,350
+
+
+
+
+
+Journey from Ushuaia to exotic Cape Verde via the amazing Atlantic islands of...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bite-size Break Buenos Aires
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR327
+
+
+
+
+
+Do Buenos Aires like a local with this bite-sized exploration of this sultry, bustling...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer (Island Sky) 2017 - 2018
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR11,285
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights of South America
+
+
+
+
+
+
+
+
+
+27 Days
+
+
+From
+FR7,048
+
+
+
+
+
+Packed full of highlights, this journey showcases the diversity of wonders across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South America Encompassed
+
+
+
+
+
+
+
+
+
+56 Days
+
+
+From
+FR8,125
+
+
+
+
+
+Explore stunning scenery, incredible natural sights and experience food, music, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Peru, Chile & Argentina Explorer
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,828
+
+
+
+
+
+Travel through South America by way of jungle, waterfalls and ancient ruins. In 3 weeks...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires Stopover
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR155
+
+
+
+
+
+Get straight to the fiery heart of Argentina with this Buenos Aires Stopover. Tour this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Buenos Aires
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,077
+
+
+
+
+
+This tour captures the zesty culture of two amazing countries in South America. Between...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires to Rio
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,057
+
+
+
+
+
+Soak up the sizzling South American sunshine on an escapade through Brazil and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Ushuaia to Santiago
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR2,727
+
+
+
+
+
+Adventure through the wilds of Patagonia on a journey that begins in Ushuaia in the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Buenos Aires
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,117
+
+
+
+
+
+This tour captures the zesty culture of two amazing countries in South America. Between...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago to La Paz
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,257
+
+
+
+
+
+Visit South America and travel through Chile, Argentina and Bolivia. Tour Santiago,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago to Buenos Aires via Ushuaia
+
+
+
+
+
+
+
+
+
+34 Days
+
+
+From
+FR3,586
+
+
+
+
+
+Visit South America and travel through Argentina and Chile, from Santiago to Buenos...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Santiago
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,227
+
+
+
+
+
+Visit South America and travel through Bolivia, Argentina and Chile from La Paz to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Santiago to Ushuaia
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR3,126
+
+
+
+
+
+Tour Patagonia and discover one of the world's most amazing regions. Travel from...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+La Paz to Buenos Aires
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR2,297
+
+
+
+
+
+Travel from La Paz to Buenos Aires and discover the heart of South America. This...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Iguazu to Buenos Aires
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,977
+
+
+
+
+
+Bookended by visits to roaring Iguazu Falls and sophisticated Buenos Aires, this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Buenos Aires
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR4,753
+
+
+
+
+
+Experience the culture and natural beauty of Brazil and Uruguay on this South American...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Rio to Iguazu
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR1,787
+
+
+
+
+
+Throw yourself into Brazil’s spectacular outdoors on this two-week camping adventure,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Peru, Argentina & Brazil
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR5,765
+
+
+
+
+
+Travel from the city sights of Lima through to the vibrant beat of Rio via Machu Picchu...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Peru, Argentina and Brazil
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR4,595
+
+
+
+
+
+Travel from the city sights of Lima through to the vibrant beat of Rio via Machu Picchu...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Rio
+
+
+
+
+
+
+
+
+
+60 Days
+
+
+From
+FR7,151
+
+
+
+
+
+Go Overland from Lima to Rio with Intrepid Travel. Uncover hidden treasures from Peru...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Lima to Buenos Aires
+
+
+
+
+
+
+
+
+
+42 Days
+
+
+From
+FR5,116
+
+
+
+
+
+Visit South America and travel through Peru, Bolivia and Argentina from Lima to Buenos...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer from Ushuaia 12 day
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR8,600
+
+
+
+
+
+Visit Antarctica and travel through the Drake Passage and the South Shetland Islands.
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Antarctic Circle via Falklands & South Georgia from Buenos Aires
+
+
+
+
+
+
+
+
+
+23 Days
+
+
+From
+FR13,990
+
+
+
+
+
+Embark on a cruise across the Antarctic Circle and visit the Falklands, South Shetland...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Georgia & Antarctic Peninsula from Buenos Aires
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR10,295
+
+
+
+
+
+Nothing on earth can prepare you for Antarctica; you have to see it for yourself. See...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Photography Series: Antarctic Explorer
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR7,845
+
+
+
+
+
+Cross the Drake passage and sail to the Antarctic Peninsula on a wildlife-focused...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+The Falklands and South Georgia
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR13,500
+
+
+
+
+
+Conquer the White Continent on a far-reaching Antarctic voyage that visits the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Photography Series:  Crossing the Antarctic Circle
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR8,900
+
+
+
+
+
+Cross the Antarctic Circle and sail deep into the Polar region on this Antarctic voyage...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer from Ushuaia 10 days
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR6,635
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Explorer from Ushuaia 9 day
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR5,960
+
+
+
+
+
+Sail through the Drake Passage to the South Shetland Islands and Antarctic Peninsula,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Antarctic Peninsula, Falkland Islands & South Georgia from Ushuaia
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR11,315
+
+
+
+
+
+Visit Antarctica and travel through the Beagle Channel to the Falkland and South...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing the Antarctic Circle via Falklands & South Georgia from Ushuaia
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR13,050
+
+
+
+
+
+Embark on a cruise across the Antarctic Circle and visit the Falklands, South Shetland...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Patagonia Expedition - Andean Crossing
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR2,185
+
+
+
+
+
+Travel to Chile and Argentina and embark on an Andean crossing expedition with Intrepid...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Argentina tour reviews
+
+
+Our Argentina trips score an average of
+4.69 out of 5
+based on 328 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Buenos Aires to Rio Unplugged,
+November 2017
+
+Richard Hulett
+
+This trip was not physically difficult for over 65 year olds. Provided you are generally mobile. But a flexible outlook is required. Group will be international and the accommodation and transport good but varied.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires to Rio Unplugged,
+November 2017
+
+Anika Knöpfli
+
+good research at the beginning of the journey, what it contains and what goals are aimed at, are meaningful. overall excellent organization and reasonable travel arrangements.
+
+Review submitted 28 Nov 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Argentina trip reviews
+
+Our Argentina trips score an average of
+4.69 out of 5
+based on 328 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Argentina
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 11, 2017
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular places...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+Where to find the best street art in South America
+
+
+
+
+
+
+Artists from across the world look to South America as the perfect canvas for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 02, 2017
+
+
+
+Have words, will travel: how learning Spanish...
+
+
+
+
+
+
+Learning Spanish gave us a voice with which we could ask questions we were unable...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 17, 2017
+
+
+
+Argentina vs Brazil: Which side of the Iguazu...
+
+
+
+
+
+
+The spectacular Falls can be admired from both Brazil and Argentina. So which side...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 30, 2017
+
+
+
+Everything you need to know about trekking in...
+
+
+
+
+
+
+Patagonia. The word rolls off your tongue and has you dreaming of faraway lands...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 10, 2017
+
+
+
+What it’s really like visiting Ushuaia, the...
+
+
+
+
+
+
+Surrounded by dramatic mountains and Argentina's epic beauty, not only is Ushuaia...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 19, 2016
+
+
+
+5 of the best wine bars in Buenos Aires
+
+
+
+
+
+
+Welcome to Buenos Aires, the wine-stained capital of Argentina famous for its...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 07, 2016
+
+
+
+The world’s most bike-friendly cities, ranked
+
+
+
+
+
+
+Scandinavia may be leading the way, but there are a few new bike-friendly cities...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 18, 2016
+
+
+
+You Should Go To Patagonia If You Want To Feel...
+
+
+
+
+
+
+It was Friedrich Nietzsche that said “all truly great ideas are conceived by...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 09, 2016
+
+
+
+The 15 most beautiful waterfalls in the world
+
+
+
+
+
+
+What makes the perfect waterfall? Height? Water volume? Sheer volume? We put the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 27, 2016
+
+
+
+Your people are actually everywhere: the most...
+
+
+
+
+
+
+As I embark on more missions out there into the world, the more I see that ‘my...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 15, 2016
+
+
+
+“It was just so beautiful”: trekking Patagonia...
+
+
+
+
+
+
+Youtube star and pro blogger Nadine Sykora knows a thing or two about travel. So...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 15, 2016
+
+
+
+5 sporting spectacles around the world that’ll...
+
+
+
+
+
+
+A sporting event can be a haven of knowledge for travellers, no matter the size of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 02, 2016
+
+
+
+The 15 most spectacular glaciers to visit...
+
+
+
+
+
+
+Some of the most picturesque glaciers on planet Earth may be available for a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 27, 2016
+
+
+
+All parrilla, no filler: the 7 best steaks in...
+
+
+
+
+
+
+Think you’ve experienced the pinnacle of what happens when you take a cow and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 25, 2015
+
+
+
+A no-frills guide to Buenos Aires’ secret ...
+
+
+
+
+
+
+Some of the bars that make up this underground scene have no address. You have to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 02, 2014
+
+
+
+3 places to watch, hear and dance tango in...
+
+
+
+
+
+
+The best way to get to know Buenos Aires and its residents, known as portenos, is...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 29, 2014
+
+
+
+A magic New Year’s Eve in Mendoza
+
+
+
+
+
+
+When Parm Parmar arrived in Mendoza, little did she know that night she would be...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Argentina travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perito Moreno Glacier
+
+
+
+
+See the monumental, icy beauty of the Perito Moreno Glacier
+
+
+
+
+
+
+Patagonia Wilderness, 15 days
+
+
+
+
+
+
+
+
+Buenos Aires to Santiago via Ushuaia, 34 days
+
+
+
+
+
+
+
+
+
+
+
+Ushuaia
+
+
+
+
+Travel to Ushuaia, the southernmost city in the world
+
+
+
+
+
+
+Ushuaia to Santiago, 23 days
+
+
+
+
+
+
+
+
+Buenos Aires to Santiago via Ushuaia, 34 days
+
+
+
+
+
+
+
+
+Santiago to Buenos Aires via Ushuaia, 34 days
+
+
+
+
+
+
+
+
+
+
+
+Bariloche
+
+
+
+
+Relax in the majestic mountain retreat of Bariloche
+
+
+
+
+
+
+Rio to Quito via Ushuaia, 112 days
+
+
+
+
+
+
+
+
+Santiago to Ushuaia, 23 days
+
+
+
+
+
+
+
+
+Ushuaia to Santiago, 23 days
+
+
+
+
+
+
+
+
+
+
+
+Buenos Aires
+
+
+
+
+Admire the elegant buildings, squares and boulevards of Buenos Aires
+
+
+
+
+
+
+Bite-size Break Buenos Aires, 3 days
+
+
+
+
+
+
+
+
+Rio to Buenos Aires, 19 days
+
+
+
+
+
+
+
+
+Iguazu to Buenos Aires, 15 days
+
+
+
+
+
+
+
+
+
+
+
+Cerro Torre
+
+
+
+
+Hike to Laguna Torre to see the majestic spire of Cerro Torre
+
+
+
+
+
+
+Patagonia Wilderness, 15 days
+
+
+
+
+
+
+
+
+Santiago to Buenos Aires via Ushuaia, 34 days
+
+
+
+
+
+
+
+
+Ushuaia to Santiago, 23 days
+
+
+
+
+
+
+
+
+
+
+
+Iguazu Falls
+
+
+
+
+Visit the thundering and awe-inspiring Iguazu Falls
+
+
+
+
+
+
+Buenos Aires to Rio Unplugged, 17 days
+
+
+
+
+
+
+
+
+Best of Argentina & Brazil, 7 days
+
+
+
+
+
+
+
+
+Argentina & Brazil Adventure, 10 days
+
+
+
+
+
+
+
+
+
+
+
+Mendoza
+
+
+
+
+Sample locally produced wines in magnificent Mendoza
+
+
+
+
+
+
+Best of Chile & Argentina, 8 days
+
+
+
+
+
+
+
+
+Discover Bolivia & Argentina, 20 days
+
+
+
+
+
+
+
+
+Chile, Argentina & Brazil, 14 days
+
+
+
+
+
+
+
+
+
+
+
+
+Argentina holiday information
+
+
+
+
+Local culture of Argentina
+
+
+
+
+
+
+×
+
+Local culture of Argentina
+
+
+
+Like many other aspects of Argentinian life, its culture and customs are influenced by the waves of European immigration that landed here in the 1880s and during the two World Wars. As a result of immigration, parts of the country feel notably more ‘European’ than other areas of South America.
+
+Argentinians are famously affectionate, loud, passionate about football, and big fans of a good plate of homemade spaghetti. They have strong ties with family and friends, and the major religion is Catholicism.
+
+As a general guide, these are some key things you should know about Argentina:
+
+
+A kiss on the cheek is the most common way of greeting someone – particularly a friend but it’s not uncommon between strangers, particularly if being introduced by a mutual friend. This is true whether it’s female on female, female on male or male on male.
+
+If you befriend someone, expect a farewell hug and greeting hug thereafter. Again, this is true whether it’s female on female, female on male or male on male.
+
+Expect to be late. Being late for social or cultural events is almost fashionable in Argentina but it can be an annoyance for travellers.
+
+Siesta time is still common, particularly in provinces such as Mendoza, San Juan, Salta. Shops may close from 1pm to 4pm and reopen until around 8-9pm. Dinner with locals can be very, very late. Having dinner at 9pm, 10pm and 11pm is perfectly normal and accepted in Argentina, but can cause a few rumbling tummies with travellers. The best thing to do is keep some snacks with you and try and fall into the local pattern.
+
+Nightlife is well and truly nightlife. Pubs, clubs and events don’t kick off until 1-2am…no kidding!
+
+The majority of Argentinians are Catholic (between 70-80%), and you should be respectful when visiting churches, cathedrals and religious events. The dress code at religious sites is quite relaxed and no one will get in trouble for attending mass in t-shirt, shorts and thongs. However, closed shoes and trousers are preferred. Swimwear is a big no-no and it can be very offensive to the locals.
+
+The Falkland Islands war is a topic that still evokes raw emotions amongst Argentinians and it's well-advised not to raise the topic with people you don’t know.
+
+
+
+
+
+
+
+
+
+Shopping guide to Argentina
+
+
+
+
+
+
+×
+
+Shopping guide to Argentina
+
+
+
+Leather goods are normally top on the shopping list of every traveller to Argentina – and rightly so! The quality of leather products is excellent and prices can be significantly cheaper than at home. The most popular items are jackets, handbags, shoes, boots and belts. A word of warning though – be wary of cheap imitations!
+
+Argentina is also home to Malbec, a purple grape variety that is used to produce premium wine. A bottle or two of this popular tipple is never a bad move – particularly when you can pay between USD 5-10 for a good quality one!
+
+If shopping works up an appetite, indulge your sweet tooth with a box of alfajores – a shortbread cookie sandwich filled with dulche de leche. Dulche de leche is a caramel spread that is hugely popular in Argentina and right around South America. You’ll find it in biscuits, ice creams, cakes and even as a spread on toast.
+
+If you’re looking for an unusual souvenir, consider buying a mate cup or mate set. The spherical shaped mug, which is used to drink tea, is usually made of wood and comes with a metal straw. The unusual shape and material will certainly make it a talking point around the office or at home.
+
+Many travellers are entitled to shop tax free in Argentina – which means 13-14% cheaper shopping. Just shop away, then ask for a Global Blue form from the retailer and process the refund at the airport before going home! You can find more info
+here
+.
+
+
+
+
+
+
+
+
+Food & drink in Argentina
+
+
+
+
+
+
+×
+
+Food & drink in Argentina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Buenos Aires (population 3 million)
+
+Population:
+
+41.3 million
+
+Language:
+
+Spanish
+
+Currency:
+
+ARS
+
+Time zone:
+
+(GMT-03:00) Buenos Aires
+
+Electricity:
+
+Type C (European 2-pin) Type I (Australian/New Zealand & Chinese/Argentine 2/3-pin)
+
+Dialing code:
+
++54
+
+
+
+
+
+
+
+
+
+Best time to visit Argentina
+
+
+
+
+
+
+×
+
+Best time to visit Argentina
+
+
+
+
+Argentina's temperate climate means it experiences four distinct seasons. Summer (December to February) is the best time for visiting Patagonia as the weather is at its mildest. In contrast, summer can be very hot and humid in Buenos Aires, with spring and autumn offering milder weather. Autumn is a good time to visit Mendoza, Cordoba and the Lake District. The busiest times to travel in Argentina are during the main vacations - January, February and July.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Bordered by
+Chile
+,
+Bolivia
+,
+Paraguay
+,
+Brazil
+and
+Uruguay
+, Argentina is South America's second largest country. With a vast range of natural environments, travelling in Argentina presents a revolving door of terrain and landscapes. From the giant glaciers and icy lakes of Patagonia to the green grasslands of the Pampas; and the lofty Andes of the north to the steamy wetlands of the north-east, Argentina contains a wealth of biodiversity.
+
+
+
+
+
+
+
+
+Top picks
+
+
+
+
+
+
+×
+
+Top picks
+
+
+
+
+Top 5 Tango Spots of Argentina
+
+1. Confiteria Ideal
+
+Be charmed by the grand building, old waiters, genuine tango classes and shows that this Buenos Aires institution has been producing for more than 100 years. It might be a bit rough around the edges but authenticity is guaranteed in this historic gem.
+
+2. Barrancas de Belgrano
+
+On the weekends, head to this leafy park at dusk to see unpretentious locals tango as the sun sets. Try out your tango steps, mix and mingle with Argentines and tourists, and enjoy the casual, fun vibe that proliferates under the park's gazebo.
+
+3. Plaza Dorrego
+
+This relaxed San Telmo favourite is a top spot for alfresco people-watching, tango viewing, wine drinking and socialising.
+
+4. La Catedral
+
+For a slice of old Argentina, head to this bewitching warehouse of kitsch where you can learn the art of tango with locals amid walls of old posters and a giant glowing, red heart. Lessons are taught in Spanish and while the dancers here may not be technically great, their passion and love of tango is unquestionable.
+
+5. Caminito
+
+Purists may dismiss La Boca's showy street performers as 'tacky tangoists' but the colourful streets, flamboyant moves and suave outfits do have a bit of flair and provide quintessential Buenos Aires photo ops.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+As many other aspects of Argentinian culture, its cuisine has been heavily influenced by European immigration. Mix Spanish and Italian favourite dishes with Argentina top quality (and affordable!) beef and dairy products and you have a combination worth jumping on that long-haul flight for. For the low-down on all things food in South America, check out our guide that we put together
+here
+.
+
+Things to try in Argentina
+
+1. Asado
+
+With Spanish origins, asado describes succulent barbequed meat, slow-cooked on a metal frame over an open fire or a bed of hardwood charcoal. In Argentina, asado is in equal parts a dish and a social gathering – both of which you will want to experience.
+
+2. Mate
+
+A tea-like beverage made from the leaves of the yerba mate plant, is typically consumed in Argentina from a hollowed-out gourd and drunk through a metal straw. It is common to share mate between friends in Argentina, so don’t be surprised if someone offers you a sip!
+
+3. Chimmichurri
+
+A piquant combination of diced garlic, chopped parsley and oregano, olive oil and vinegar, this classic Argentinean condiment is the quintessential accompaniment to grilled meat.
+
+4. Fernet and cola
+
+According to a recent survey, Argentina now consumes over 75% of all fernet branca produced globally. This bitter, aromatic Italian spirit is certainly an acquired taste, yet an essential ingredient of any self-respecting Argentinean asado gathering. Most commonly served mixed with Coca Cola.
+
+5. Alfajores
+
+Argentina’s favourite sweet biscuit. Two round shortbreads, filled with dulce de leche (a decadent caramel made from condensed milk), often coated in chocolate.
+
+6. Helado
+
+Argentineans take ice cream seriously. Do not miss helado de dulce de leche, the national flavour of Argentina.
+
+7. Pizza
+
+Yes, pizza. It’s impossible to ignore the Italian influence in Argentina’s culinary repertoire, with a huge wave of Italian migration at the beginning of the 20th century. Keep your eye out for fugazetta – a type of Argentinean pizza with a cheesy base and topped with onions. You will not find this in Italy!
+
+
+
+
+
+
+
+
+Health and safety
+
+
+
+
+
+
+×
+
+Health and safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+https://www.gov.uk/foreign-travel-advice
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+Common scams:
+
+Snatch and run:
+
+This scam is where a thief (either quietly or sharply and fast) snatches victims belongings such as phones and cameras resting at a restaurant or café’s table – particularly while seating outside. While dinning outside, make sure you keep your belonging in your bag and your bag at your feet.
+
+Ride-by:
+
+This is a common scam in Buenos Aires where a thief riding a bike or motorbike snatches a traveller’s camera or bag. To avoid this, walk on the shops side of the footpath and keep back from the street when waiting to cross a road.
+
+Stain on shirt:
+
+This is a sophisticated form of pick-pocketing where passer-by “accidentally” spills a drink or food on unsuspecting victims. The thief then offers help cleaning up robbing you from your belongings in the process. If this was to happen to you, simply keep walking, accept no help from strangers.
+
+Taxi:
+
+The vast majority of taxi drivers in Buenos Aires are honest and hardworking people. However, there is a small number of them that will target travellers overcharging them or handing back counterfeit bills. To avoid this problem order taxis from hotels, restaurants or flag them at official taxi ranks.
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Needle in a Haystack
+
+Ernesto Mallo
+
+The Buenos Aires Broken Hearts Club
+
+Jessica Morrison
+
+Long After Midnight at the Nien Bien
+
+Brian Winter
+
+The Tao of Tango
+
+Johanna Siegmann
+
+Santa Evita
+
+Tomas Eloy Martinez
+
+Far Away and Long Ago: A Childhood in Argentina
+
+W. H Hudson
+
+On Argentina
+
+Jorge Luis Borges
+
+
+
+
+
+
+
+
+Argentina travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Argentina
+
+
+
+
+
+
+
+
+
+ARGENTINA RECIPROCITY TAX:
+
+The Argentine government charges a reciprocity tax which applies to Canadian, US and Australian citizens. The amounts are as follows:
+Australians - US$100 (multiple entry for up to 1 year from date of issue)
+Canadians - Canadians - US$92 (multiple entry for up to 10 years from date of issue)
+Americans - Americans - No longer need to pay for this tax.
+
+This fee must be paid before arrival and can only be paid on line through the following website:
+http://www.migraciones.gov.ar/accesible/templates/reciprocidad/reciprocidad.htm
+
+For instructions on how to process this payment, please visit:
+http://www.migraciones.gov.ar/pdf_varios/reciprocidad/Online_payment_instructions_16.pdf#zoom=100
+
+A receipt for this payment must be produced at every border crossing into Argentina.
+
+
+
+
+
+
+
+Is tipping customary in Argentina?
+
+
+
+
+
+
+
+
+
+Though not compulsory, a tip of about 10% is generally expected in restaurants and cafes. Tipping ushers, taxi drivers and porters a few pesos is desirable, but not mandatory.
+
+
+
+
+
+
+
+What is the internet access like in Argentina?
+
+
+
+
+
+
+
+
+
+With the highest number of internet users in Latin America, accessing the internet isn't usually a problem in Argentina. Large cities have Wi-Fi hot spots and cyber cafes, but be prepared for less coverage in remote or rural areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Argentina?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is very good in Argentina's cities but less reliable when travelling in mountainous or remote areas. If you wish to use your mobile phone, ensure global roaming is activated before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Argentina?
+
+
+
+
+
+
+
+
+
+Toilets in Argentina are modern flushable toilets. It's a good idea to carry your own soap and toilet paper as these aren't always provided in public toilets. Also keep an eye on hotels and restaurants requests not to flush toilet paper as it might clog the toilet (toilets are modern but plumbing is old and temperamental)
+
+
+
+
+
+
+
+What will it cost for a...?
+
+
+
+
+
+
+
+
+
+City bus/subway fare = 6-8 pesos
+Bottle of beer in a bar/club = 60-80 pesos, 1lt: 120-150 pesos
+Glass of wine in a restaurant = 50-70 pesos
+Simple lunch = 150-200 pesos
+Dinner at a restaurant = 250-350 pesos (in a basic restaurant)
+
+
+
+
+
+
+
+Can I drink the water in Argentina?
+
+
+
+
+
+
+
+
+
+Water is considered safe to drink in Argentina unless otherwise marked. For environmental reasons, try to avoid buying bottled water and use a refillable canteen or water bottle instead.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Argentina?
+
+
+
+
+
+
+
+
+
+Credit cards are widely accepted in Argentina's large cities and towns, especially VISA and Mastercard. Keep in mind that credit cards may not be accepted so readily in small towns and rural areas, so always have alternative payment methods available.
+
+
+
+
+
+
+
+What is ATM access like in Argentina?
+
+
+
+
+
+
+
+
+
+ATMs are readily available in Argentina's big cities and towns. Rural and isolated areas will have fewer ATMs, so be sure to have enough cash before travelling out of urban areas.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Argentina?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Argentina?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+27 Feb Carnivals
+
+28 Feb Carnivals
+
+24 Mar National Day of the Memory by the Truth and Justice
+
+2 Apr Malvinas' Veteran's and Memorial Day
+
+14 Apr Good Friday
+
+1 May Labor Day
+
+25 May Revolution Day
+
+17 Jun Anniversary of General Martín Miguel de Güemes' Death
+
+19 Jun Public Holiday
+
+20 Jun Anniversary of General D. Manuel Belgrano's Death
+
+9 Jul Independence Day
+
+15 Aug Death of San Martin
+
+9 Oct Day of Respect for Cultural Diversity
+
+27 Nov National Sovereignty Day
+
+8 Dec Immaculate Conception / Virgins Day
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Argentina go to:
+http://www.worldtravelguide.net/argentina/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Argentina
+
+Be considerate of Argentina’s customs, traditions, religion and culture.
+
+For environmental reasons, try to avoid buying bottled water. Instead, fill a reusable water bottle or canteen with filtered water.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+Refrain from supporting businesses that exploit or abuse endangered animals.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

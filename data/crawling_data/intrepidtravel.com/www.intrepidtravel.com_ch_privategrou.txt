@@ -1,0 +1,3936 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Private Groups | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Private Groups
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+About
+
+Travel styles
+
+Private groups
+
+
+
+
+
+
+Intrepid Private Groups is a team of specialists, dedicated to creating your perfect trip
+
+Whether that's a special departure of one of our group adventures, just for your family and friends, or a tailor-made holiday designed to your exact requirements - we can do both.
+
+
+
+Private departures
+
+Tailor-made holidays
+
+White label
+
+About
+
+Meet the team
+
+How to book a private group
+
+Frequently asked questions
+
+
+
+What's right for you?
+
+Private departures
+
+
+
+Private departures are great for those who want to have their own, exclusive group.
+
+You can choose from most of Intrepid’s 1,000+ pre-designed itineraries, on your preferred date.
+
+Travel with your family and friends, work colleagues, local club or society etc.…That way, you enjoy the same experiences as our standard trip, but share the memories with the people close to you.
+
+You’ll benefit from our on-the-ground expertise, including one of our very own Intrepid group leaders - we will do our very best to match your group’s interests with our top leader for the job.
+
+We also have a dedicated private groups’ team, and you’ll have your very own specialist to help you plan your private group adventure – right down to the very last detail, from the minute you contact us, to the moment you depart.
+
+Private departures are available for groups of two or more. For groups of eight plus we can offer a 10% discount, or include a free-of-charge place if you’ve got more than 10 travellers.
+
+Want more info? Call our team of specialists; Jo, Rena and Vicky are here to guide you through every step of planning and booking the holiday that's right for you. Contact us on 020 3308 9763.
+
+Our most popular trips
+
+
+
+
+
+
+
+
+
+Best of Morocco
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR943
+
+
+
+
+
+See the best of Morocco from Casablanca to Marrakech. Admire the city of Fes, see the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Express Southbound
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR944
+
+
+
+
+
+Travel from historic Hanoi to modern Ho Chi Minh City. Tour down the Mekong, visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Cuba
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,784
+
+
+
+
+
+Escape to Cuba on an exotic getaway through the sizzling streets of sultry Havana, soak...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Everest Base Camp
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,215
+
+
+
+
+
+Go trekking in Nepal on an adventure that takes you to Mt Everest Base Camp. Explore...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inca Trail Express
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR1,030
+
+
+
+
+
+Travel to Peru to discover the Inca, Peru's ancient civilisation. Trek or train to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+India's Golden Triangle
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR688
+
+
+
+
+
+Visit India and tour the famous Golden Triangle of Dehli, Agra and Jaipur. One of the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Lights Escape
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,126
+
+
+
+
+
+Discover the unique beauty of Iceland. Visit the Gullfoss waterfall, trek across the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Costa Rica
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,625
+
+
+
+
+
+Travel to Costa Rica and discover a tropical playground of immense natural beauty....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Myanmar
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,860
+
+
+
+
+
+Travel to Myanmar (Burma) and discover mythical landscapes and amazing hospitality....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Circle Sri Lanka
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,906
+
+
+
+
+
+From Anuradhapura city to the Polonnaruwa ruins, Sigiriya rock to Mirissa and Galle to...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sabah Adventure
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,845
+
+
+
+
+
+This Sabah Adventure tour through the Borneo wilderness will truly capture your...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience Madagascar
+
+
+
+
+
+
+
+
+
+16 Days
+
+
+From
+FR2,730
+
+
+
+
+
+Travel to Madagascar, off the east coast of Africa. Madagascar is teeming with wildlife...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+Send a private departure request
+
+
+
+
+
+
+
+Your details
+
+
+
+
+Title
+*
+
+- Select -
+Mr
+Ms
+Mrs
+
+First name
+*
+
+
+Surname
+*
+
+
+E-mail address
+*
+
+
+Telephone number
+*
+
+
+
+
+
+
+Your booking request
+
+
+
+
+Destination or trip code interested in
+*
+
+
+Duration
+
+
+Departure Date
+
+Day
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Day
+
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+Month
+
+Year
+2017
+2018
+2019
+2020
+
+Year
+
+
+
+Group size
+
+
+Do you have children travelling with you?
+
+
+Do you require flights?
+
+
+Yes
+
+
+No
+
+
+If yes, please add your departure airport
+
+
+
+
+
+
+
+
+
+
+
+Leave this field blank
+
+Submit
+
+
+
+
+
+
+
+
+
+
+Tailor-made holidays
+
+
+
+Tailor-made is all about creating the perfect holiday for you.
+
+We will work with you to design your itinerary from scratch, whether you want to explore Vietnam from top to bottom, trek Peru’s Inca Trail and discover its Inca Heritage, or get up-close-and-personal with Costa Rica’s wildlife.
+
+A tailor-made holiday offers complete flexibility. You can choose the dates, activities, accommodation, transport, special highlights and things you’ve
+always
+wanted to see – and we will work hard to deliver it to your budget, whatever that might be.
+
+We have a range of accommodation options to suit all budgets and wishes, from homestays to jungle lodges to indulgent beach properties. We can also guide you on whether it’s best to get from A-to-B by plane, train or any type of automobile. Our favourite part? We’ll let you in on all of our secrets about the best real-life experiences to include – that might be a day with a local tribe in the Ecuadorian jungle, the locals’ market that visitors don’t know about or dinner with a Thai family.
+
+We have the operational capacity, and expertise, to make your dream trip a reality at a great price.
+
+So whether you are a couple looking for a romantic getaway, a family wanting to experience the world together, or a large group looking for an interest-specific trip (photography, cycling, food, corporate etc.…), we can help.
+
+Want more info? Call our team of specialists; Jo, Rena and Vicky are here to guide you through every step of planning and booking the holiday that's right for you. Contact us on 020 3308 9763.
+
+Sample itineraries
+
+
+
+
+
+
+
+
+Morocco Discovered
+
+
+
+
+
+
+
+Click here for pricing and itinerary
+
+
+
+
+
+
+
+
+Mountain Gorillas of Uganda
+
+
+
+
+
+
+
+Click here for pricing and itinerary
+
+
+
+
+
+
+
+
+Classic Rajasthan
+
+
+
+
+
+
+
+Click here for pricing and itinerary
+
+
+
+
+
+
+
+
+Borneo
+
+
+
+
+
+
+
+Click here for pricing and itinerary
+
+
+
+
+
+
+
+
+Costa Rica
+
+
+
+Click here for pricing and itinerary
+
+
+
+
+
+
+
+
+Cuba
+
+
+
+Click here for pricing and itinerary
+
+
+
+
+
+
+
+
+Vietnam
+
+
+
+
+
+
+
+Click here for pricing and itinerary
+
+
+
+
+
+
+
+
+Peru
+
+
+
+Click here for pricing and itinerary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Send a tailor-made request
+
+
+
+
+
+
+
+Your details
+
+
+
+
+Title
+*
+
+- Select -
+Mr
+Ms
+Mrs
+
+First name
+*
+
+
+Surname
+*
+
+
+E-mail address
+*
+
+
+Telephone number
+*
+
+
+
+
+
+
+Tailor-made request
+
+
+
+
+Destination
+*
+
+
+Morocco
+
+
+Uganda
+
+
+India
+
+
+Borneo
+
+
+Costa Rica
+
+
+Cuba
+
+
+Vietnam
+
+
+Peru
+
+
+Other
+
+
+If other, please add your destination
+
+
+Departure Date
+*
+
+Day
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Day
+
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+Month
+
+Year
+2017
+2018
+2019
+2020
+
+Year
+
+
+
+Group size
+*
+
+
+Do you have children travelling with you?
+
+
+Yes
+
+
+No
+
+
+Do you require flights?
+*
+
+
+Yes
+
+
+No
+
+
+If yes, please add your departure airport
+
+
+
+
+
+
+Further information
+
+
+
+
+Currency
+*
+
+GBP
+EUR
+CHF
+ZAR
+Other
+
+Budget
+*
+
+
+Any special interest or highlights to be included in the itinerary?
+
+
+
+
+
+
+
+
+
+
+
+Leave this field blank
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+White label
+
+Interested in creating and leading your own tours, or an established brand looking to create its own, unique travel product? We combine our travel know-how with creativity to help you engage with your client base and offer the perfect travel experience.
+
+Working with the Intrepid White Label team means a collaboration of our expertise and yours to create a tour that works for you. We assist with the design, take care of the tour logistics and operational support, and can provide sales & customer service assistance. You can benefit from our on the ground experience and trusted expertise but for YOUR brand.
+
+We offer flexible pricing and hold tour spaces on an allocation basis, enabling you to market your tour without the financial risk.
+
+We have worked with many partners in the industry, media publications and individuals that have a skill or passion they want to share.
+
+Please contact Jo on 020 3308 9763 to discuss what could work for you and your business.
+
+Intrepid private groups – why we’re special
+
+Founded in 1988, Intrepid has nearly 30 years’ experience of taking travellers to far-flung corners of the globe. Our operational credentials are second-to-none and you’ll have the full backing of our worldwide team 24/7.
+
+We have a network of local suppliers, who will pull out every stop to make sure your trip runs smoothly. You’re in safe hands.
+
+We’re especially proud of our leaders and guides - born and raised in-country, they know the destination better than anyone. So you’ll do more than just see a place, you’ll live it. We deliver lots of fantastic experiences while travelling responsibly. We’re passionate about the world we live in and we strive to travel sustainably.
+
+One of our greatest assets is our team of specialists. They have travelled to and researched, the countries we offer so they know the hidden treasures within each one. They have been planning people’s dream holidays for many years. We can take you to the little noodle bars, hidden galleries and family-run guesthouses that others can’t find.
+
+They will make recommendations on where to stay, what to see and how to get there. We also have
+a few suggested itineraries
+that will help to provide that first inspiration.
+
+You have our commitment that your personal specialist will design, book and deliver your ideal trip. This can take months from the first phone call until you board your flight and you can count on your specialist every step of the way. We know how much time it can take to plan the perfect holiday, so we’ll take the hassle out.
+
+Meet the team
+
+
+
+
+
+
+
+
+
+Jenny Hendry, Groups and Specialist Product Manager
+
+After a long-ish jaunt around Australia, South America and South East Asia, I decided the travel industry was for me and got myself a job writing brochures. Since then I have planned itineraries, and made sure all of them ran well, for a number of adventure and specialist companies. During that time, I’ve climbed Mount Kilimanjaro, Ararat, Elbrus and Toubkal, led groups in Morocco and Brazil, and travelled to all sorts of different and exciting places – including Vietnam, Iran, the Arctic, India, Uzbekistan, Cuba, Botswana, to name a few… I love seeing the insider view of the destination, and that’s exactly what I love about Intrepid!
+
+
+
+
+
+
+
+
+
+
+Victoria Wilkinson, Groups Sales Specialists
+
+At the age of 18 I decided to pack-up my rucksack and go off travelling around Australia for a year. When I got back, I wasn’t ready to settle so spent the next few summers sailing around the Med working as a Flotilla hostess and delivering yachts. The winters were either spent in South Africa or skiing. When I decided to come back to the UK, I worked for a sailing company for five years and travelled to some wonderful places including the British Virgin Islands, St Vincent, Croatia, Italy and Turkey. From here I moved to Intrepid and have never looked back! I have been fortunate enough to visit Cambodia, Vietnam, Thailand and my latest trip, Borneo. I love our tours as you get a real insight into the countries you’re visiting whilst immersing yourself in their culture.
+
+
+
+
+
+
+
+
+
+
+Joanna Reeve, White Label and Groups Sales Specialist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to book a private group
+
+
+
+
+
+1. Find your inspiration
+
+
+
+
+
+
+
+
+
+If you’re looking for a private departure of one of our existing group trips, search the website for one of our 1,000+ itineraries and let us know which one you’re interested in.
+
+If you’d like us to create a tailor-made itinerary just for you, we can either start from scratch, with a few ideas from you as to what you’d like us to include, or use one of our suggested itineraries as a starting
+(Link).
+They’ve all been planned by our team of specialists to make sure you experience the country’s highlights and hidden treasures.
+
+
+
+
+
+
+
+2. Get in touch
+
+
+
+
+
+
+
+
+
+Call, email or fill out our online form, giving us a few details on what you’d like from your holiday and we will take it from there. If you contact us via our website, we’ll call or email you back as soon as possible to discuss your requirements in detail.
+
+Call Jo, Rena and Vicky on
+020 3308 9763,
+
+Email the team at
+groupsuk@intrepidtravel.com
+,
+
+or fill out our online form;
+
+for
+private departures
+
+for
+tailor-made holidays
+
+
+
+
+
+
+
+
+
+3. Itinerary planning
+
+
+
+
+
+
+
+
+
+For private departures, we’ll make sure we can deliver a pre-existing trip on the date you wish to travel. The idea is that you will experience the itinerary as many others have enjoyed it before you, but sharing those special moments just between you and your friends.
+
+If you’re creating your very own tailor-made holiday, your specialist will work with you to design your trip – choosing your international flights (if required), hand-picking accommodation, working out how best to get between each destination and finding those distinctive experiences to show you the real side of the country you’re visiting. We can guide you as much or as little as you want and we will keep tweaking it with your feedback until it’s just perfect.
+
+We’ll give you a detailed itinerary, inclusions and price so you can see exactly what you’re getting.
+
+
+
+
+
+
+
+4. Confirm your holiday
+
+
+
+
+
+
+
+
+
+Once you’re happy with your trip, we will take a deposit and start to confirm all of your holiday arrangements. We will keep you up-to-date as we put the finishing touches to your trip of a lifetime.
+
+
+
+
+
+
+
+5. Departure
+
+
+
+
+
+
+
+
+
+If you’ve got questions at any time, you can always call your personal specialist who will be looking after your booking from start to finish. They will know all about your holiday and be able to answer or find out anything you may wish to know. We will send you final information about your trip about three weeks before departure.
+
+
+
+
+
+
+
+6. Enjoy your holiday
+
+
+
+
+
+
+
+
+
+Your trip will be run by one of our close network of local suppliers. They will do everything they can to make sure your holiday is perfect, and you’ll also have the back-up of a 24/7 global operation. Our on-the-ground team, leaders and guides really are second-to-none.
+
+
+
+
+
+
+Frequently asked questions
+
+
+
+
+
+What’s the difference between a standard group trip and a private group?
+
+
+
+
+
+
+
+
+
+On a standard group trip you travel on a set date and itinerary with other people who you may not know. A private group – whether that’s a private departure or tailor-made - is yours exclusively for your family and friends.
+
+
+
+
+
+
+
+What’s the difference between a private departure and a tailor-made itinerary?
+
+
+
+
+
+
+
+
+
+On a private departure, you travel on one of our 1,000+ pre-designed group trips on a date of your choice. The idea is you experience the itinerary as many others have enjoyed it before you, but sharing those special moments just between you and your friends.
+
+A tailor-made holiday offers complete flexibility. You can choose the dates, activities, accommodation, transport, special highlights and things you’ve
+always
+wanted to see – and we will plan you an itinerary for your budget, whatever that may be.
+
+
+
+
+
+
+
+Do you go anywhere in the world?
+
+
+
+
+
+
+
+
+
+Intrepid has 1,000+ group trips that cover most of the world. We can plan a private departure for you on most of these. There will be exceptions, usually because logistics and price make it prohibitive to offer the trip but, as a rule, we can do it!
+
+For tailor-made, the suggested itineraries you see on our website are in our favourite destinations. We know these countries well and can deliver a fantastic, bespoke experience in each of them. Because we’re Intrepid, we also have a vast network of global suppliers and trust them to operate wonderful holidays for our customers worldwide. If you don’t see an itinerary or country on our website that you fancy, call us, and we’ll most likely be able to help you.
+
+
+
+
+
+
+
+Can you book international flights?
+
+
+
+
+
+
+
+
+
+To and from the UK - yes, we certainly can. And we only add a nominal fee to do it. You can also book your own flights, if you wish. Those travelling from outside the UK would be best to book their own, because it’s likely to be cheaper.
+
+
+
+
+
+
+
+How much will it cost me?
+
+
+
+
+
+
+
+
+
+For private departures, it depends on which trip you’d like to travel on. For bigger groups – eight upwards – we can often give you the itinerary at the price you see on the website. We also offer a discount for larger groups, and can include a free-of-charge place for 10+ people, so it might work out cheaper.
+
+A tailor-made itinerary is designed to your budget, so you set the price. You tell us what you want to spend and we will do our very best to deliver your itinerary to that specification. We also have to be realistic – 5* hotels are, of course, a lot more expensive than a hostel. But we have lots of ideas, knowledge and operational experience to help you get the holiday you want at the price you want – and we’ll make suggestions to help you achieve that. For example, we might suggest using a train or local bus for one journey, rather than a private charter; that way you save money, as well as getting a fantastic local experience!
+
+
+
+
+
+
+
+What type of accommodation will I be staying in?
+
+
+
+
+
+
+
+
+
+Whatever you choose. We can book anything from homestays to jungle lodges to indulgent beach properties. We always try to use locally-run, characterful properties where we can.
+
+
+
+
+
+
+
+How will I get around?
+
+
+
+
+
+
+
+
+
+We use a variety of transport to suit the itinerary, destination, terrain and budget for the trip. We could take you from Ho Chi Minh City to Nha Trang by overnight train, or plane. Hop aboard a local bus in Thailand, or sit back in the comfort of an air-conditioned vehicle in India. 4WDs are a great way to safari and camels are the ships of the desert. Getting there is all part of the fun.
+
+
+
+
+
+
+
+How does it work when I get there?
+
+
+
+
+
+
+
+
+
+If you’ve asked us to, we will make sure someone is there to pick you up on arrival at the airport and take you to your first accommodation. Here, your leader or guide will brief you on your itinerary. From there, Intrepid takes care of the logistics. Together with our local suppliers, we will arrange your accommodation, transport, guides and excursions, where they are included. We will smooth the way, so you can get on with enjoying your travels.
+
+You’ll have the full backing of our 24/7 emergency contacts. The joy of a private group? As it’s just you and your friends if you do want to make a slight tweak to the itinerary along the way, such as an extra photo stop, we’ll do our best to accommodate…
+
+
+
+
+
+
+
+Does the Intrepid loyalty programme apply on a private group?
+
+
+
+
+
+
+
+
+
+Yes, it does!
+
+
+
+
+
+
+
+How do I get in-touch?
+
+
+
+
+
+
+
+
+
+Call Jo, Rena and Vicky on 020 3308 9763.
+
+Email them on
+groupsuk@intrepidtravel.com
+
+Or fill out our online form above.
+
+
+
+
+
+
+
+What is the booking process?
+
+
+
+
+
+
+
+
+
+Find out more
+here
+.
+
+
+
+
+
+
+
+Tell me more about Intrepid
+
+
+
+
+
+
+
+
+
+Founded in 1988, Intrepid has nearly 30 years’ experience of taking travellers to far-flung corners of the globe. Our operational credentials are second-to-none and we have a global team who will look after you before and during your trip 24 hours a day.
+
+Intrepid also prides itself on its responsible travel credentials. We design our trips to use locally-owned accommodation and suppliers where possible, minimise waste and offer real-life experiences to promote cross-cultural understanding. We also have The Intrepid Foundation, a not-for-profit fund which benefits 50 projects around the world.
+
+For more about us see
+https://www.intrepidtravel.com/uk/about/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4288 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Middle East
+
+Jordan
+
+
+
+Modern cities filled with worldly citizens, mountainous regions dotted with small villages, and deserts inhabited by the nomadic Bedouin - Jordan has all this diversity and more.
+
+
+With the cosmopolitan cafes of Amman, the peace of hilltop Dana and the historic treasures of Madaba, you may come to Jordan to see the ruins of Petra, but you’ll leave having encountered so much more.
+
+
+Top Jordan travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+20 Jan 2018
+
+Explore Jordan
+
+
+
+Explore Jordan
+Amman to Madaba
+
+
+
+
+
+
+
+
+
+×
+
+Explore Jordan
+
+
+
+
+
+
+
+
+
+8
+
+
+FR1,095
+
+
+FR931
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Jordan trips
+
+
+
+
+
+
+
+
+
+Explore Jordan
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR975
+
+
+
+
+
+Travel to Jordan and tour Amman, Madaba and the inspiring landscape of Wadi Rum. Take a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan Discovery
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,345
+
+
+
+
+
+Travel from the Jordanian capital, Amman, to the seaside town of Aqaba,  through the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Trek Jordan
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,275
+
+
+
+
+
+Travel to Jordan and tour Amman, Madaba and the inspiring landscape of Wadi Rum. Trek...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Egypt & Jordan
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,645
+
+
+
+
+
+Take an adventure holiday through Egypt and Jordan. Visit Cairo, the Pyramids of Giza,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Jordan, Israel & the Palestinian Territories
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR3,420
+
+
+
+
+
+Explore the best of the Middle East as you discover Jordan and Israel. Explore Wadi Rum...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan Real Food Adventure
+
+
+
+
+
+
+
+
+
+6 Days
+
+
+From
+FR1,195
+
+
+
+
+
+Get a taste of Jordan via Amman, Petra and Wadi Rum. See why this jewel of the Levant...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Egypt & Jordan
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR3,840
+
+
+
+
+
+Travel to Egypt and experience the history and culture of the land of the pharaohs on a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan & Egypt Express
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,045
+
+
+
+
+
+Follow in the footsteps of prophets on an adventure tour through Jordan and Egypt....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan & Egypt Uncovered
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,560
+
+
+
+
+
+Embark on an unforgettable small group adventure through the majestic lands of Jordan...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Jordan (Petra & Wadi Rum)
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,370
+
+
+
+
+
+Pedalling past Petra, Jerash, Mount Nebo, Wadi Rum and more – experience the best...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Egypt, Jordan, Israel & the Palestinian Territories
+
+
+
+
+
+
+
+
+
+21 Days
+
+
+From
+FR4,895
+
+
+
+
+
+Experience the best of the Middle East across Jordan, Egypt, Israel & Palestine....
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Jordan - Christmas & NYE
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,185
+
+
+
+
+
+Travel to Jordan and tour Amman, Madaba and the inspiring landscape of Wadi Rum. Take a...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan, Israel & the Palestinian Territories Real Food Adventure
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR4,370
+
+
+
+
+
+Discover the delectable dishes of Israel and the Palestinian Territories. Savour...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Petra Uncovered
+
+
+
+
+
+
+
+
+
+3 Days
+
+
+From
+FR610
+
+
+
+
+
+Travel to Jordan and visit Petra, the ancient 'lost city'. Be awed by ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,325
+
+
+
+
+
+Discover lost cities on a family adventure in Jordan. From the capital Amman to the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Middle East Discovery
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR4,490
+
+
+
+
+
+Travel from Egypt to Turkey on this magical Middle East Discovery tour. See the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Oman & Jordan Discovery
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR3,415
+
+
+
+
+
+Adventure from portside Muscat and Muttrah into the heart of Oman's richly coloured...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Jordan tour reviews
+
+
+Our Jordan trips score an average of
+4.83 out of 5
+based on 249 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Explore Jordan,
+November 2017
+
+Ann Docker
+
+Jordan is a very safe country to visit and the sites are amazing, particularly Wadi Rum and Petra won't  disappoint.
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Explore Jordan,
+October 2017
+
+Francine Dappen
+
+THIS IS NOT A REVIEW:  THIS IS ONLY FOR INTREPID STAFF:
+Regarding this feedback form, we suggest that there should a comment box under each question as opposed to only certain ones.  The trouble being that giving an overall rafting when there was an issue with only one hotel/restaurant etc. disallows a higher rating.  In our case you may now need to read these end comments to understand our full review.
+
+Sites: 
+We loved everywhere we went, with the highlights being Petra and floating in the Dead Sea. I wish we had more time at Mt. Nebo as it was very rushed. I also would have loved a bit more time (maybe 30 minutes) at the Dead Sea (we were lucky as we were continuing on to Israel/Palestine to enjoy more time at the Dead Sea but if we weren’t we would have felt like we definitely wanted more time there). Jerash was also very interesting.
+REFUND:
+We were extremely displeased to discover that our flight from Cairo to Amman was only at 1700 (5pm). We had arrived on the night train back to Cairo at approximately 9am. We found out that there was a 1330 (130pm) flight from Cairo to Amman but Intrepid only booked us on the late 1700 (5pm) flight. This wasted our whole day and we couldn’t do much in Cairo and completely missed Amman. We were picked up at King’s Hotel in Cairo at 1300 (1pm), taken to the airport, waited several hours there before boarding our plane. By the time we cleared Jordanian customs, collected our bags, met our driver, drove to the hotel and met briefly .
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Jordan trip reviews
+
+Our Jordan trips score an average of
+4.83 out of 5
+based on 249 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Jordan
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 07, 2017
+
+
+
+Why a group tour in the Middle East was the...
+
+
+
+
+
+
+By going with a group, I knew my transportation would be insured, my activities...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 23, 2017
+
+
+
+8 things to do in Jordan that aren’t Petra or...
+
+
+
+
+
+
+Petra, Wadi Rum, the Dead Sea...Jordan's biggest attractions are well worth a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 21, 2016
+
+
+
+The changing face of Egypt, Israel & Jordan
+
+
+
+
+
+
+In 1992, I travelled to Egypt, Israel and Jordan with about as much forethought as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 03, 2015
+
+
+
+“Welcome to Jordan!” Seven tips to help you...
+
+
+
+
+
+
+Upon arriving in Jordan, the first thing you'll hear is, “Where are you from?” And...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 28, 2015
+
+
+
+Jordan: the world’s most Instagrammable...
+
+
+
+
+
+
+Goodlooking, humble and hot - Jordan's got all the right qualities for a perfect...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 04, 2015
+
+
+
+Safe, stable and surprising: welcome to the...
+
+
+
+
+
+
+At a time when much of the region sadly seems to be wracked by upheaval and unrest...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 26, 2015
+
+
+
+Desert essentials: Our definitive Jordan...
+
+
+
+
+
+
+People packing for a Jordan adventure have to be prepared for all conditions....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jordan travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jerash
+
+
+
+
+See the well-preserved Roman ruins of Jerash
+
+
+
+
+
+
+
+
+
+Aqaba
+
+
+
+
+Relax in the resort town of Aqaba
+
+
+
+
+
+
+Egypt, Jordan, Israel & the Palestinian Territories , 21 days
+
+
+
+
+
+
+
+
+Discover Egypt & Jordan, 15 days
+
+
+
+
+
+
+
+
+Explore Egypt & Jordan, 19 days
+
+
+
+
+
+
+
+
+
+
+
+Wadi Rum
+
+
+
+
+Camp under the stars with Bedouin in Wadi Rum
+
+
+
+
+
+
+Jordan & Egypt Express, 9 days
+
+
+
+
+
+
+
+
+Explore Jordan, 8 days
+
+
+
+
+
+
+
+
+Trek Jordan, 8 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Jordan
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Jordan, you may find yourself travelling by:
+
+
+
+
+
+
+
+4x4
+
+Head out for a day of dune-bashing in a 4x4. Scale the towering desert dunes and take in the sweeping views. A fun way to explore remote parts of Jordan.
+
+
+Jordan Discovery
+
+
+
+
+Accommodation in Jordan
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Jordan you may find yourself staying in a:
+
+
+
+
+
+
+
+Desert Camp
+
+Be welcomed by Bedouin for a night of camping under the stars. Enjoy traditional food and music then fall asleep in the supreme silence of the desert.
+
+
+Jordan Discovery
+
+Explore Jordan
+
+
+
+
+Jordan holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Amman (population 960,000)
+
+Population:
+
+6.5 million
+
+Language:
+
+Arabic
+
+Currency:
+
+JOD
+
+Time zone:
+
+(GMT+02:00) Amman
+
+Electricity:
+
+Type B (American 3-pin) Type C (European 2-pin) Type D (Old British 3-pin) Type F (German 2-pin, side clip earth) Type G (Irish/British 3-pin) Type J (Swiss 3-pin)
+
+Dialing code:
+
++962
+
+
+
+
+
+
+
+
+
+Best time to visit Jordan
+
+
+
+
+
+
+×
+
+Best time to visit Jordan
+
+
+
+
+The weather in Jordan can get quite extreme. Overall, it tends to be hot during the day and cold at night (in desert areas, expect it to be extremely hot during the day and freezing at night). Yet during winter it can get bitterly cold, with snowfall occurring in some parts of the country.
+
+Travelling during the summer months (June, July and August) can be challenging for those not accustomed to the heat, so visiting Jordan during spring and autumn is recommended for those who wish to escape the hotter temperatures.
+
+As a Muslim country, Jordan observes Ramadan. If you are planning to travel during Ramadan, it's important to consider that many restaurants and shops will either be closed or operating on reduced hours during this time.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+As a Muslim country, Jordan’s culture is quite conservative, although not as conservative as some other Middle Eastern countries. Western influences (particularly in Amman and other large cities) have infiltrated Jordanian society so Jordan now possesses a mix of Arabian customs amid modern ways of life. Due to immigration, Jordan now has a significant Palestinian and Iraqi population, adding to the cultural diversity of the country.
+
+Despite the outside influences, Islamic traditions are strong in Jordan with spectacular mosques signalling the call to prayer five times a day, Ramadan being observed each year and some segregation of the sexes occurring.
+
+The desert-dwelling Bedouin have a distinct culture of their own, drawing on traditions that have been passed down for centuries. Living a largely nomadic lifestyle, the Bedouin rely on the herding of animals and the creation of handicrafts in the absence of a fertile environment to farm. With a strong musical heritage, traditional instruments are played and time-honored traditions are continued.
+
+Hospitality is a crucial element of Jordanian culture. Most visitors will be humbled by the kindness, sincerity and genuine care showed by Jordanians. Being welcomed into peoples’ homes is common, and can probably be attributed to the custom of welcoming strangers and sharing food when travelling in the unforgiving desert.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Featuring typical Middle Eastern ingredients like lamb, chickpeas, garlic and a range of aromatic herbs and spices, Jordanian cuisine is delicious.
+
+Things to try in Jordan
+
+1. Meze
+
+Like many other Middle Eastern countries, a plate of shared breads and dips is a great way to begin a feast.
+
+2. Mansaf
+
+This traditional Bedouin dish of lamb and yoghurt is usually served with rice and bread. This is the national dish of Jordan, so definitely try it before you leave.
+
+3. Baklava
+
+These small, sweet pastries made with honey and nuts will have you going back for more.
+
+4. Coffee
+
+The coffee in Jordan is strong. Often spiced with a hint of cardamom, coffee is strongly linked to the famed Jordanian hospitality, so drink up – it would be rude not to!
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Jordan is made up of a staggeringly diverse range of natural environments. From stark deserts to towering mountains, fertile wetlands, coastal reefs and urban cities, journeying through Jordan provides changing scenery and varying conditions.
+
+Sharing borders with Iraq, Saudi Arabia, Syria and Israel and the Palestinian Territories, Jordan mixes modern architecture with heritage-filled buildings, well-manicured streets with historic alleyways and impressive mansions with simple homes.
+
+Modern, developed cities like Amman and Aqaba feature unique architecture, spectacular mosques, five-star hotels and resorts. Small villages with rustic housing populate the less-built-up rural areas and Bedouin tents made of goat hair can be found in desert areas.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The country now known as Jordan was originally inhabited by the Nabataeans thousands of years ago. Over the centuries, Jordan has been a place conquered and inhabited by many different people including the Romans, Greeks, Assyrians, Ottoman Turks, Egyptians and Mamluks (people of Kurdish origins). All these influences can still be seen today in Jordan's ancient ruins, architecture, crafts and arts. Many battles were fought in Ancient Jordan, including the Christian crusaders who clashed with Islamic Forces in Jordan during the 11th and 12th centuries. The first Muslim Dynasty began with the Umayyad Empire in 661.
+
+Recent History
+
+In 1950, Jordan was renamed the Hashemite Kingdom of Jordan and in 1951, King Abdullah I was assassinated while visiting a mosque. His eldest son became king but was removed from his duties in 1952 due to mental illness. In 1953, his teenage son Hussein Ibn Talal became king, and continued to rule for over 40 years. In the 1960s, Jordan saw many immigrants arrive and settle – mainly Palestinians escaping the conflict in their homeland.
+
+In 1999, King Abdullah II succeeded his father King Hussein and continues to rule Jordan now. His reign has been characterised by liberal policies, economic reforms and technological advances. His wife, Queen Rania of Jordan, has a visible public profile, is active in many social causes and is regarded internationally as a highly influential woman.
+
+
+
+
+
+
+
+
+Top 10 Ways To Experience Jordan
+
+
+
+
+
+
+×
+
+Top 10 Ways To Experience Jordan
+
+
+
+
+1. Locate a Lost City
+
+Spend a day exploring the astonishing lost city of Petra. Discover temples, tombs, a monastery and an amphitheatre in this fascinating, world-renowned archaeological site.
+
+2. Take a Dip
+
+Dive into the Dead Sea and relax in the famous waters thought to have therapeutical properties. The high salinity makes floating effortless so it’s easy to lie back and enjoy the view. This experience is a must-do for any visitor to Jordan.
+
+3. Kick Back in a Cafe
+
+The cafes of Amman are the perfect place to get acquainted with modern Jordan. From elegant, urban cafes serving international fare to earthy, family-run cafes offering traditional food and coffee, see both sides of modern Jordan when you eat.
+
+4. Delve Into the Desert
+
+Travel across hot, desert sands and spend the night camping under the stars with Bedouin hosts. Stargazing, eating traditional food and learning about the Bedouin way of life is an authentic experience to remember.
+
+5. Admire Ancient Art
+
+The city of Madaba is known for its amazing collection of ancient mosaics. Take a stroll around the city to scout out these handcrafted pieces of the past that are scattered throughout Madaba’s churches, museums and homes.
+
+6. View an Icon
+
+Behold the sight of legendary Mt Nebo. A revered holy site, Mt Nebo is home to the ruins of a church and monastery, and is an interesting place for believers and non-believers alike.
+
+7. Meet Mother Nature
+
+A hike through the changing landscapes of the Dana Nature Reserve offers wildlife encounters, quaint villages and majestic mountain views. Get back to nature and see Jordan’s natural treasures here.
+
+8. Relax in a Resort
+
+See a different side of Jordan in the laidback resort town of Aqaba. Chill out on the beach, feast on fresh seafood, soak up the sunshine and enjoy the change of pace in this piece of coastal bliss.
+
+9. Uncover a Bit of History
+
+Explore the fortified town and castle of Karak to gain insight into the fascinating history of this region. Walk through a network of tunnels and walkways and imagine what life was like centuries ago.
+
+10. Discover Roman Ruins
+
+Travel to Jerash to see some of the biggest and most preserved Roman ruins outside of Italy. Baths, theatres, temples and forums feature within the colonnaded streets and still-standing city walls.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+From atmospheric souqs to modern malls and designer boutiques, Jordan has a shopping experience to suit everyone. While not particularly cheap, the quality is generally excellent and the service friendly.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country.
+Australia
+and
+New Zealand
+generally have strict quarantine laws.
+
+Things to buy in Jordan
+
+1. Traditional Handicrafts
+
+Mosaics, ceramics, rugs and carpets can be found everywhere in Jordan, but the variety and quality found in Madaba is a standout.
+
+2. Bedouin Crafts
+
+Silver jewellery and embroidered scarves make great souvenirs and can be purchased from souqs and independent vendors around Jordan.
+
+3. Gold Jewellery
+
+Traditional souvenirs and stunning gold jewellery can be found in the souqs of downtown Amman.
+
+
+
+
+
+
+
+
+Festivals and Events in Jordan
+
+
+
+
+
+
+×
+
+Festivals and Events in Jordan
+
+
+
+
+Ramadan and Eid
+
+During the ninth and holiest month in the Islamic calendar, Ramadan is observed by most in Jordan and is thought to be a time of spiritual rejuvenation. For this month, Muslims fast from sunrise to sunset - refraining from eating and drinking during daylight hours. Eid marks the end of fasting with three days of feasting and celebration.
+
+Jerash Festival of Culture & Arts
+
+See the best of local and international performing arts with theatre, music, poetry and dance taking over the ancient Roman city of Jerash, much to the delight of locals and visitors alike.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Live from Jordan: Letters Home from My Journey through the Middle East
+
+Benjamin Orbach
+
+Married to a Bedouin
+
+Marguerite van Geldermalsen
+
+The Making of Jordan
+
+Yoav Alon
+
+
+
+
+
+
+
+
+Jordan travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Jordan?
+
+
+
+
+
+
+
+
+
+Visas are required by all visitors entering Jordan. Single entry visas valid for 14 days and can be obtained by most nationalities on arrival at the airport in Amman or at the Jordanian border for approximately JOD40. It can be significantly more expensive to acquire your visa from the embassy in your home country. If you require a stay longer than 14 days, visas obtained from the embassy in your home country will be valid for two months.
+
+
+
+
+
+
+
+Is tipping customary in Jordan?
+
+
+
+
+
+
+
+
+
+Tipping is up to the individual in Jordan. Hotels and up-market restaurants typically add a surcharge that is included in bills, which is usually 10%. Rounding up bills and leaving spare change is a good idea when dining in smaller restaurants and when using taxis.
+
+
+
+
+
+
+
+What is the internet access like in Jordan?
+
+
+
+
+
+
+
+
+
+Internet access is growing rapidly in Jordan. Internet can usually be accessed from hotels and internet cafes in major cities. Expect little to no access in small towns, villages and other rural areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Jordan?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is good in Jordan’s major cities and built-up areas like Amman and Aqaba. Expect limited to no phone coverage in more isolated areas like the desert. Ensure you have global roaming activated on your phone before leaving home.
+
+
+
+
+
+
+
+What are the toilets like in Jordan?
+
+
+
+
+
+
+
+
+
+Western-style toilets are common in modern hotels, malls and at popular tourist areas. Squat toilets are the standard throughout the rest of the country. Sometimes, you may need to pay and bring your own toilet paper when visiting public rest rooms.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Street snack = 3 JOD
+Can of soft drink = 1 JOD
+Dinner at a restaurant = 10 JOD
+Embroidered shawl = 20-30 JOD
+
+
+
+
+
+
+
+Can I drink the water in Jordan?
+
+
+
+
+
+
+
+
+
+Drinking water from taps in Jordan can be safe, depending on where you are. It's considered safe to drink water from modern hotels that have filtered water but perhaps not so from smaller establishments and in rural areas. For environmental reasons, try to use a refillable water bottle rather than buying bottled water. Peel fruit before eating and avoid ice in drinks.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Jordan?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by stores in Jordan. Smaller cafes and shops may not accept credit cards so ensure you carry enough cash to cover small purchases.
+
+
+
+
+
+
+
+What is ATM access like in Jordan?
+
+
+
+
+
+
+
+
+
+ATMs are common in Jordan’s main cities so finding one won't be a problem. Rural and remote areas typically will have less ATMs so be sure to carry enough cash for purchases when away from the city.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Jordan?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Jordan?
+
+
+
+
+
+
+
+
+
+1 Jan New Year's Day
+
+1 May Labour Day
+
+25 May Independence Day
+
+25 Jun The End of Ramadan
+
+26 Jun The End of Ramadan
+
+27 Jun The End of Ramadan
+
+31 Aug The Feast of Sacrifice
+
+1 Sep The Feast of Sacrifice
+
+2 Sep The Feast of Sacrifice
+
+3 Sep The Feast of Sacrifice
+
+4 Sep The Feast of Sacrifice
+
+21 Sep Islamic New Year
+
+30 Nov The Prophet Muhammad's Birthday
+
+25 Dec Christmas Day
+
+Please note these dates are for 2017. For a current list of public holidays in Jordan go to:
+http://www.worldtravelguide.net/jordan/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Jordan
+
+1. Be considerate of Jordan’s customs, traditions, religion and culture.
+
+2. Please ask and receive permission before taking photos of people, including children.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+4. Ramadan is the fasting month for all Muslims. During this month no food, drink or smoking is permitted during daylight hours. While non-Muslims aren't expected to fast, it's recommended to try to avoid eating, drinking or smoking in public during daylight hours.
+
+5. Refrain from touching or interfering with ancient monuments, relics or historic sites.
+
+6. Learn some local language and don't be afraid to use it. Simple greetings will help break the ice.
+
+7. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+8. Ask permission and remove your shoes before entering a place of worship.
+
+9. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+10. Always dispose of litter thoughtfully, including cigarette butts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

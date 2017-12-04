@@ -1,0 +1,5472 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Africa
+
+Morocco
+
+
+
+When people throw around the word ‘exotic’, they’re probably referring to places like Morocco.
+
+
+Places where riding a camel over dunes while the sun shimmers dramatically on the horizon is not an unusual thing. Where tagines come spiked with saffron and argan, carpet merchants haggle in the bazaars and Berber tribesmen herd goats on the slopes of the High Atlas Mountains. A Morocco tour is basically the answer to all your Lawrence of Arabia-type fantasies (right down to the swirling white djellabas): you’ll stay in historic riads, camp beneath the Saharan stars and enjoy some classic Maghreb hospitality (usually featuring plenty of cous cous). Whether it’s the wind-battered port town of Essaouira or the crumbling Kasbahs and oases of the deep desert – ‘exotic’ doesn’t come close.
+
+
+Top Morocco travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+10 Jan 2018
+
+Best of Morocco
+
+
+
+Best of Morocco
+Casablanca to Marrakech
+
+
+
+
+
+
+
+
+
+×
+
+Best of Morocco
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,110
+
+
+FR944
+
+
+
+
+View Trip
+
+
+
+
+
+
+21 Apr 2018
+
+Morocco Atlas and Atlantic
+
+
+
+Morocco Atlas and Atlantic
+Marrakech to Marrakech
+
+
+
+
+
+
+
+
+
+×
+
+Morocco Atlas and Atlantic
+
+
+
+
+
+
+
+
+
+8
+
+
+FR785
+
+
+FR628
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Morocco trips
+
+
+
+
+
+
+
+
+
+Best of Morocco
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR943
+
+
+
+
+
+See the best of Morocco from Casablanca to Marrakech. Admire the city of Fes, see the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North Morocco Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR750
+
+
+
+
+
+From Casablanca beach and the mosaics at Volubilis to the souqs of Marrakech, this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Spain, Portugal and Morocco (Lisbon to Malaga)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,877
+
+
+
+
+
+Climb aboard the Harmony G for an unforgettable cruising adventure in Portugal, Spain...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Madrid to Marrakech
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,295
+
+
+
+
+
+Travel from Madrid to Marrakech on a sangria, sun and spice infused tour across Spain,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco Uncovered
+
+
+
+
+
+
+
+
+
+13 Days
+
+
+From
+FR1,340
+
+
+
+
+
+Journey into Morocco’s heart, from Casablanca to Marrakech, taking in the like of Fes,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+South Morocco Discovery
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR795
+
+
+
+
+
+Uncover the secrets of mystical Morocco on this southbound discovery tour. See Ait...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco Encompassed
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR1,420
+
+
+
+
+
+Visit Morocco and tour from Casablanca to Marrakech. Admire the city of Fes, see the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco Real Food Adventure
+
+
+
+
+
+
+
+
+
+10 Days
+
+
+From
+FR1,095
+
+
+
+
+
+Feast your eyes and stomach on the treasures of Morocco’s souqs and villages, and...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Morocco
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,375
+
+
+
+
+
+Discover the beauty of Morocco on a two-week cycling adventure. From the buzz of cities...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Spain, Portugal & Morocco
+
+
+
+
+
+
+
+
+
+24 Days
+
+
+From
+FR2,995
+
+
+
+
+
+Visit Spain, Portugal and Morocco on a tour from Madrid to Marrakech. See Lisbon, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco Family Holiday
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR555
+
+
+
+
+
+Travel to Morocco and embark on a family adventure. Take a tour of Marrakech, relax on...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cruising Spain, Portugal and Morocco - Malaga to Lisbon
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,877
+
+
+
+
+
+Climb aboard the Harmony G and set sail for Spain, Portugal and Morocco on this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Marrakech to Barcelona
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR2,335
+
+
+
+
+
+Travel from Marrakech to Barcelona on a tour through Morocco and Spain. Visit Marrakech...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Mount Toubkal Trek
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR560
+
+
+
+
+
+Trek to the summit of Mt Toubkal, North Africa’s highest peak, on this Moroccan...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco: Hike, Bike & Horse Ride
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR875
+
+
+
+
+
+Experience a different side to the mystical lands of Morocco, exploring Marrakech,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sahara Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR585
+
+
+
+
+
+Board the ‘ship of the desert’ and enjoy an unforgettable camel trek through the Sahara...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco Atlas and Atlantic
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR628
+
+
+
+
+
+Explore a quieter side of bustling Morocco by scouting its beaches and hidden natural...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Morocco
+
+
+
+
+
+
+
+
+
+25 Days
+
+
+From
+FR2,260
+
+
+
+
+
+Explore Morocco on a tour from Casablanca to Marrakech, visiting the famous cities, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+World Sacred Music Festival in Fes - Limited Edition
+
+
+
+
+
+
+
+
+
+18 Days
+
+
+From
+FR2,425
+
+
+
+
+
+On a trek to Fes' World Sacred Music Festival, visit Casablanca, Meknes, Chefchaouen,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Morocco - For Solo Travellers
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,085
+
+
+
+
+
+See the best of Morocco from Casablanca to Marrakech. Admire the city of Fes, see the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco Expedition – Walking with Berber Nomads
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR995
+
+
+
+
+
+Experience authentic nomadic culture as you join a traditional Berber family migrating...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+North Morocco Adventure - Digital Detox
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR745
+
+
+
+
+
+From Casablanca beach and the mosaics at Volubilis to the souqs of Marrakech, this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Paris to Marrakech
+
+
+
+
+
+
+
+
+
+29 Days
+
+
+From
+FR5,150
+
+
+
+
+
+Travel to France, Spain, Portugal and Morocco on a trip from Paris to Marrakech. Visit...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+7 Days
+
+
+From
+FR760
+
+
+
+
+
+Treat the family to a different side of mystical Morocco, exploring Marrakech,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Morocco tour reviews
+
+
+Our Morocco trips score an average of
+4.78 out of 5
+based on 1658 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+South Morocco Discovery,
+November 2017
+
+Jacquelyn Dix
+
+The driving hours listed is accurate but it is broken up with stops for lunch, refreshment and toilet stops.  But the payoff is seeing amazing places along the way.  There is not really free time until Essaouira.  Coming in early or staying later than trip schedule is a good way to allow for taking in more of Marrakech.
+
+Review submitted 04 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+South Morocco Discovery,
+November 2017
+
+saima muzaffar
+
+I recommend this your to anyone looking for adventurous holiday and want to completely switch off and recharge
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Morocco trip reviews
+
+Our Morocco trips score an average of
+4.78 out of 5
+based on 1658 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Video
+
+
+
+
+Articles on Morocco
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 23, 2017
+
+
+
+Want to hike through Morocco with a Berber...
+
+
+
+
+
+
+Hypnotic, exotic, and a slice of pure magic. If you thought the cities of Morocco...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2017
+
+
+
+Hidden gems: 9 less explored parts of popular...
+
+
+
+
+
+
+With the vast amount of Santorini Insta-spam flying around, you probably feel as...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 31, 2017
+
+
+
+Morocco’s Atlas Mountains: An essential guide
+
+
+
+
+
+
+Lush valleys, cool canyons and the highest peak in North Africa make the expansive...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 15, 2017
+
+
+
+Everything you need to know about visiting the...
+
+
+
+
+
+
+It’s a major bucket list item when in Morocco — you cannot deny the call of the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2017
+
+
+
+7 new destinations to explore with Intrepid in...
+
+
+
+
+
+
+At Intrepid, we love exploring little-known corners of the globe. And in 2018, we...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 06, 2017
+
+
+
+Two Intrepid leaders take out Gold & Bronze at...
+
+
+
+
+
+
+It takes a pretty special person to not only bring a place to life, but to also...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 28, 2017
+
+
+
+5 of our favourite foods from around the world
+
+
+
+
+
+
+Listen up, food lovers. If you’re anything like us, it’s likely your top priority...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 21, 2017
+
+
+
+How to ride a camel like a pro in Morocco
+
+
+
+
+
+
+In truth, riding a camel is always going to be a little uncomfortable – it comes...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 17, 2017
+
+
+
+10 experiences every traveler should have in...
+
+
+
+
+
+
+In a country that boasts so much beauty and so many varied attractions, these top...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 08, 2017
+
+
+
+The top destinations for travel in November
+
+
+
+
+
+
+Why wait for the Christmas break to finally take that holiday you've been dreaming...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 07, 2017
+
+
+
+What it’s like to travel in Morocco as a solo...
+
+
+
+
+
+
+I’m in a dusty desert town, somewhere in the Kasbah Valleys of Morocco. I am being...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug 05, 2017
+
+
+
+Top 6 colorful cities around the world
+
+
+
+
+
+
+We don't want to attribute it solely to the Instagram age, but there's just...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 04, 2017
+
+
+
+How to bring the flavour of your travels home...
+
+
+
+
+
+
+Beat the post-holiday blues by recreating your travels in your own kitchen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 03, 2017
+
+
+
+Imperial Mazes: Tales of Morocco’s Four Cities
+
+
+
+
+
+
+All have, at one point in time, been the capital of the country. Each one has...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 03, 2017
+
+
+
+What it’s like to travel in Morocco during Ramadan
+
+
+
+
+
+
+I knew a little about Ramadan before travelling through Morocco this year. I knew...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 15, 2017
+
+
+
+The best family holidays to book in 2017
+
+
+
+
+
+
+We're a firm believer in the fact that family travel can please both parents and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 30, 2017
+
+
+
+In the shadow of Toubkal: A trip into Morocco’s...
+
+
+
+
+
+
+One traveller's journey beyond the ancient medinas, rolling deserts, and piled...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 25, 2017
+
+
+
+‘Travellers change my life and I change theirs’...
+
+
+
+
+
+
+Khalid Lamlih, an Intrepid local leader, talks about the power of meeting other...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 11, 2017
+
+
+
+Guide to south Morocco: Essaouira, Taghazout...
+
+
+
+
+
+
+South Morocco and northern Morocco can feel like different countries sometimes....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 29, 2017
+
+
+
+The magic of Chefchaouen, Morocco’s blue city
+
+
+
+
+
+
+When it comes to Chefchaouen, it's no exaggeration to say that every street and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 18, 2017
+
+
+
+Essaouira: The Moroccan city that should be on...
+
+
+
+
+
+
+It's a calmly chaotic, authentically artsy whirlwind of a place. You simply...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 16, 2017
+
+
+
+Marrakech in 24 hours: your ultimate guide
+
+
+
+
+
+
+Colourful, chaotic and charming, Marrakesh is a tangle of Berber, Arabic and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 08, 2017
+
+
+
+The world’s largest solar plant is here, and it...
+
+
+
+
+
+
+Ouarzazate, a small city on the edge of the Sahara, is officially home to the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 05, 2017
+
+
+
+Marrakech is officially home to Africa’s first...
+
+
+
+
+
+
+The Medina Bike scheme has come to Marrakech, and we're here to provide the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 03, 2017
+
+
+
+The reality of solo female travel in Morocco
+
+
+
+
+
+
+There are moments in Morocco that make you question your decision to travel solo...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 11, 2016
+
+
+
+Introducing our brand new Expedition trips for...
+
+
+
+
+
+
+After months of planning, arguing, drinking and pondering, we've come up with the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 06, 2016
+
+
+
+Underbelly: why snake charming in Morocco isn’t...
+
+
+
+
+
+
+Along with mint tea, souks and tagines, snake charming was to me quintessentially...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 04, 2016
+
+
+
+4 European countries where the US travel dollar...
+
+
+
+
+
+
+One thing Europe  hasn’t always had the best rep for: being a cheap vacation...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 14, 2016
+
+
+
+10 global dishes that are definitely outside...
+
+
+
+
+
+
+Farewell, comfort zone. It was nice knowing you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 15, 2015
+
+
+
+Travelling as a vegan? These are the 7...
+
+
+
+
+
+
+With vegan-diets becoming more common on a global scale, travellers are starting...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 14, 2015
+
+
+
+Five Game of Thrones locations you can actually...
+
+
+
+
+
+
+Think you can guess your fav show’s shooting locations? You know nothing, Jon Snow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 04, 2015
+
+
+
+How to cook the Moroccan dish you never even...
+
+
+
+
+
+
+Pigeon Pastilla is THE dish of Morocco.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 17, 2015
+
+
+
+School’s out: The educational benefits of...
+
+
+
+
+
+
+Sometimes, getting out into the world can teach kids so much more than they can...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 17, 2015
+
+
+
+How to prepare for your trekking holiday: a 7...
+
+
+
+
+
+
+Sure, you can rock up at the foot of Mt Kilimanjaro with nothing but a song in...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 16, 2015
+
+
+
+Planning a trekking holiday? Here’s the only...
+
+
+
+
+
+
+Trekking may just seem like walking for a long time up and down hills (and to a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 21, 2014
+
+
+
+Recipes of the world: Harira soup (Morocco)
+
+
+
+
+
+
+Make it yourself, then head out on Intrepid’s Real Food Adventure Morocco to taste...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 26, 2014
+
+
+
+Arabian nights: 5 reasons you should be seeing...
+
+
+
+
+
+
+In the sand sea of the Sahara, stars are life. Set out with Intrepid into the...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mar 18, 2014
+
+
+
+Kids and kasbahs: a Morocco family adventure
+
+
+
+
+
+
+The camel’s lashes drew closer and closer as he slid into sleep; my seven...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atlas Mountains
+
+
+
+
+Enjoy Moroccan hospitality at a homestay in the High Atlas Mountains
+
+
+
+
+
+
+Morocco Family Holiday, 8 days
+
+
+
+
+
+
+
+
+Morocco Real Food Adventure, 10 days
+
+
+
+
+
+
+
+
+Morocco Expedition – Walking with Berber Nomads, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Sahara
+
+
+
+
+Ride a camel across the golden sands of the Sahara
+
+
+
+
+
+
+South Morocco Discovery, 10 days
+
+
+
+
+
+
+
+
+Sahara Family Holiday with teenagers, 8 days
+
+
+
+
+
+
+
+
+
+
+
+Rabat
+
+
+
+
+Stroll through Rabat’s serene kasbah
+
+
+
+
+
+
+Cycle Morocco, 14 days
+
+
+
+
+
+
+
+
+North Morocco Adventure, 9 days
+
+
+
+
+
+
+
+
+South Morocco Discovery, 10 days
+
+
+
+
+
+
+
+
+
+
+
+
+Transport in Morocco
+
+Intrepid believes half the fun of experiencing a new country is getting there, and getting around once there! Where possible, Intrepid uses local transport options and traditional modes of transport - which usually carry less of an environmental impact, support small local operators and are heaps more fun.
+
+Depending on which trip you're on while in Morocco, you may find yourself travelling by:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Camel
+
+Board an iconic ‘ship of the desert’ and amble off across desert sands for a quintessential Sahara experience.
+
+
+Cycle Morocco
+
+Sahara Family Holiday with teenagers
+
+Best of Morocco
+
+
+
+
+Accommodation in Morocco
+
+Travelling with Intrepid is a little bit different. We endeavour to provide travellers with an authentic experience to remember, so we try to keep accommodation as unique and traditional as possible.
+
+When travelling with us in Morocco you may find yourself staying in a:
+
+
+
+
+
+
+
+Riad
+
+Admire beautiful arches and tiled mosaics while staying in a traditional Moroccan riad.The Riad is the Moroccan traditional house, normally with two or more storeys around an Andalusian-style courtyard that contained a fountain. Riads were the stately city homes of the wealthiest citizens such as merchants and courtiers.
+
+
+
+
+
+
+
+
+
+
+
+
+Morocco holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Rabat (population 1.2 million)
+
+Population:
+
+32 million
+
+Language:
+
+Moroccan Arabic, French, Berber dialects, some Spanish
+
+Currency:
+
+MAD
+
+Time zone:
+
+(GMT) Casablanca
+
+Electricity:
+
+Type C (European 2-pin) Type E (French 2-pin, female earth)
+
+Dialing code:
+
++212
+
+
+
+
+
+
+
+
+
+Best time to visit Morocco
+
+
+
+
+
+
+×
+
+Best time to visit Morocco
+
+
+
+
+The climate in Morocco varies wildly according to the season and area of travel. In the lowlands, the cooler months from October to April are popular among visitors. This time of year is pleasantly warm to hot (around 30°C) during the day and cool to cold (around 15°C) at night. Winter in the higher regions often brings snow and can therefore get seriously cold, particularly at night. Tourists flock to the coastline from June to September for fun in the sun, with warm mostly rain-free days. Further inland it can get hot and rain is rare, which makes the best times to travel March to June and September to December.
+As a Muslim country, Morocco observes Ramadan. If you are planning to go on holiday in Morocco during Ramadan, it is important to consider that many restaurants and shops will either be closed or operating on reduced hours during this time.
+
+
+
+
+
+
+
+
+Culture and customs
+
+
+
+
+
+
+×
+
+Culture and customs
+
+
+
+
+Morocco's culture has developed over centuries of influence from far and wide. Contemporary Morocco is a fascinating mix of Berber, Mediterranean, Andalucian and African traditions, which are present in the cuisine, clothing, music, language, customs and lifestyle. As an Islamic country, most Moroccans are Muslim; however, there are small populations of people who practice Judaism and Christianity. Classic examples of Islamic architecture can be observed all throughout the country and tenets of the Islamic religion are carried out in the customs and lives of the people. The 'Call to Prayer' can be heard five times a day, women are expected to dress modestly and alcohol isn't drunk by most of the population.
+
+Most of Moroccan society can be considered traditional, with respect for elders, connection to family and giving alms to the poor hallmarks of everyday life for many Moroccans. Hospitality is another important element of society, with warmly welcoming people into your home a time-honored tradition and social responsibility that dates back centuries.
+
+
+
+
+
+
+
+
+Eating and drinking
+
+
+
+
+
+
+×
+
+Eating and drinking
+
+
+
+
+Intrepid believes that one of the best ways to experience a country is by eating! Whether you're sampling street food, savouring a cheap eat or indulging in a banquet, there are endless options to choose from wherever you are in the world.
+
+Believe the hype - Moroccan food is legendary.
+
+Things to try in Morocco
+
+1. Tajine
+
+These slow-cooked stews are synonymous with Moroccan cooking. Chicken, olive and citrus is a well-known favourite, but there are endless variations using different meats, vegetables and seasonings.
+
+2. Cous Cous
+
+Forget instant cous cous and try the real deal in Morocco. Often served with vegetables and meat, regional varieties sometimes also include everything from sweet raisins to spicy harissa or smoky almonds.
+
+3. Fresh Fruit
+
+Morocco has an amazing array of fruit available in the markets, shops and juice bars. Choose from bananas, mangoes, oranges, avocados or peaches - eat fresh or get them whipped up in a juice.
+
+4. Mint Tea
+
+While travelling through Morocco you'll probably drink more sweet mint tea than ever before. Offered as a gesture of hospitality when visiting someone's home or shop, it's considered impolite to refuse, so accept graciously.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+Located in North Africa, Morocco has the best of many worlds within its boundaries. From the sun-drenched beaches of the coast to sands of the mighty Sahara and the snowy peaks of the High Atlas and Rif Mountains, Morocco has great variety in its landscapes and terrain. This combination of desert, woodlands, forest, mountain steppe and grasslands ensures a wide diversity of flora and fauna lives within the country.
+
+
+
+
+
+
+
+
+History and government
+
+
+
+
+
+
+×
+
+History and government
+
+
+
+
+Early History
+
+The land now known as Morocco has been inhabited for centuries, with Moroccan civilisation being known for its richness in history and culture. Centuries of foreign trade, invasion and dynastic rule have given Morocco the many different cultural influences that are evident in today's society. From the Phoenicians who entered Morocco via the Mediterranean in the 6th century BC, to the Roman influence of 40 AD and the formation of Islamic Morocco in the years after, Morocco has evolved with the rise and fall of dynasties, formation and dissolution of empires and birth of new governments, movements and ways of living. Reaching its height under the Berber Dynasties of the 11th and 12th centuries (the Almoravids, Almohads, Marinids and Wattasids), Morocco subsequently fell to Arab tribes in 1559. The current royal family are descendants of the Alaouite Dynasty who have largely ruled since the 1600s, despite enduring a few crises in the 18th and 19th centuries, mainly in relation to European influence in the area and surrounding countries.
+
+Recent History
+
+With the signing of the Treaty of Fez, Morocco was declared a protectorate of France in 1912 with Spain being allocated control of parts of Morocco, mainly in the north and south. European control was generally opposed by Moroccans citizens, with the people of Rif attempting to establish a separatist republic in 1921. Decades of opposition continued, with rioting and protests leading to increased political tension. In 1955, the road to Moroccan independence was paved by Mohammed V who negotiated reforms and restoration of independence. By 1956, France had relinquished its protectorate of Morocco and in 1957, Mohammed V became king. In 1961, Hassan II assumed the title of King of Morocco and continued to rule until his death in 1999. His son, Mohammed VI, took over the mantle of king in 1999, and continues to rule today.
+
+
+
+
+
+
+
+
+Must-See Places of Morocco
+
+
+
+
+
+
+×
+
+Must-See Places of Morocco
+
+
+
+
+Top 10 Must-See Places of Morocco
+
+1. Marrakech
+
+Things just happen in Marrakech. One moment you're sitting down to a camel burger, the next you're chatting to a snake charmer. The labyrinthine markets are the perfect place to lose yourself but find a Moroccan memento or three.
+
+2. Sahara
+
+The endless dunes of the Sahara will call to your inner explorer. Jump on a camel and start riding out over the sandy waves. At sunset the desert glows rich and red and at night the stars turn the sky crystal.
+
+3. Essaouira
+
+The name 'Essaouira' means image, appropriate since its charm is undeniable. Within the stone ramparts you'll find art galleries, wood workshops and whitewashed houses with bright blue shutters. Portuguese, British and Jewish influences all mingle in this artist's town.
+
+4. Fes
+
+Fes is the cultural heart of Morocco and home to some of its most iconic sights. Feel every sense come alive in the medina. Shops, dye pits and mosques all vie for space and you're as likely to see a donkey as a car.
+
+5. High Atlas Mountains
+
+The mountains are best explored at the ground level by foot or bicycle. Travel through Berber villages, up along crop terraces, down through lush valleys and past orchards, goats and Moroccan rural life. The seriously fit can tackle Mount Toubkal for incredible views.
+
+6. Todra Gorge
+
+This is a rock climber's heaven, or the ideal place for beginners to get a taste. It's a tight squeeze in some places but a sparkling river, the odd palmeraie, Berber villages and high cliff walls make it worth breathing in for.
+
+7. Moulay Idriss
+
+The small Medina of ancient Moulay Idriss was once forbidden to non-Muslims. Now it is a pleasure to explore as the faithful gather to pay homage to the founding father of Islam in Morocco at the 8th-century mausoleum.
+
+8. Ait Benhaddou
+
+Perfectly preserved, this is one of Morocco's most picturesque kasbahs. Centuries ago it was a stop for caravans as they carried salt across the Sahara. Today, it is inhabited only by a handful of families and the odd film crew.
+
+9. Casablanca
+
+The very name conjures up images of war-time romance. But the real romance of Casablanca must be its French influences and the beautiful Hassan II mosque, the largest in Morocco.
+
+10. Volubilis
+
+Do some time travel and visit the ancient hilltop city of Volubilis, one of the Roman Empire's most remote bases. The ruins here are beautifully preserved and it's easy to believe you've stepped into the 2nd or 3rd century.
+
+
+
+
+
+
+
+
+Shopping
+
+
+
+
+
+
+×
+
+Shopping
+
+
+
+
+Morocco has one of the oldest retail cultures in the world. From bargaining in age-old souqs to swiping your credit card at a modern gallery, it's all possible in Morocco. But to experience brilliant bargains, exciting finds and a dose of history, you can't go past the souqs.
+
+It's a good idea to check with your local customs officials to ensure that you are able to bring certain items back into your home country.
+Australia
+and New Zealand generally have strict quarantine laws.
+
+Things to buy in Morocco
+
+1. Silver Jewellery
+
+Jewellery-fiends will love Morocco's affinity with silver jewellery. Chunky rings, elaborate necklaces and patterned earrings can all be found for great prices, especially if you're willing to haggle.
+
+2. Tea Sets
+
+Save room in your backpack for an iconic silver tea pot and some delicate tea glasses. Morocco's silversmiths have this ancient art running through their veins, with centuries of craftsmanship being passed from generation to generation.
+
+3. Leather
+
+The quality (and price) of leather in Morocco is pretty phenomenal. Handcrafted hand bags, wallets, belts and purses can be found in almost every souq around the country.
+
+
+
+
+
+
+
+
+Festivals and Events in Morocco
+
+
+
+
+
+
+×
+
+Festivals and Events in Morocco
+
+
+
+
+Ramadan and Eid
+
+The ninth and holiest of months in the Islamic calendar, Ramadan is observed by most in Morocco and is thought to be a time of spiritual rejuvenation. For this month, Muslims fast from sunrise to sunset - refraining from eating and drinking during daylight hours. Eid marks the end of fasting with 3 days of feasting and celebration.
+
+Gnaoua World Music Festival
+
+Seaside Essaouira hosts this world-famous festival that celebrates the mysterious music of the Gnaouas, brought to Morocco centuries ago via the African slave trade. Jazz, rock, blues and pop music add a contemporary flavour, although the drums of the Gnaouas are the true soul of the festival.
+
+Casablanca Festival
+
+Touted as a 'celebration of all things Moroccan', this annual festival includes local and international music performances, dance, art installations, theatre, workshops and street parades. This fusion of history and modernity, innovation and tradition is a shining example of what it means to be a citizen of cosmopolitan Casablanca.
+
+For more information on festivals and events in Morocco, please go to:
+http://fesfestival.com/2016/en/
+
+
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information:
+Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+Travels with a Tangerine
+
+Tim Makintosh-Smith
+
+A House in Fez
+
+Suzanna Clarke
+
+The Caliph's House
+
+Tahir Shah
+
+Hope and Other Dangerous Pursuits
+
+Laila Lalami
+
+Allah's Garden
+
+Thomas Hollowell
+
+
+
+
+
+
+
+
+Morocco travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Morocco?
+
+
+
+
+
+
+
+
+
+MOROCCO:
+Australia: No - Not required
+Belgium: No - Not required
+Canada: No - Not required
+Germany: No - Not required
+Ireland: No - Not required
+Netherlands: No - Not required
+New Zealand: No - Not required
+South Africa: Yes - in advance (in general, visa processing can take approximately 20 working days)
+Switzerland: No - Not required
+UK: No - Not required
+USA: No - Not required
+
+
+Visas are the responsibility of the individual traveller. Entry requirements can change at any time, so it's important that you check for the latest information. Please visit the relevant consular website of the country or countries you’re visiting for detailed and up-to-date visa information specific to your nationality. Your consultant will also be happy to point you in the right direction with acquiring visas. Visas can take several weeks to process, so familiarise yourself with any requirements as soon as you have booked your trip to allow for processing time. Australians, New Zealanders, Canadians, Americans and British citizens do not require a visa to visit Morocco for stays up to 90 days. All other nationalities should check with the Moroccan Embassy or Consulate in their country for up-to-date visa information.
+
+
+
+
+
+
+
+Is tipping customary in Morocco?
+
+
+
+
+
+
+
+
+
+While tipping isn't mandatory in Morocco, rounding up the bill and leaving spare change at restaurants and cafes is generally standard practice. Taxi drivers and porters will also accept tips, 10 dirham is usually sufficient in this case.
+
+
+
+
+
+
+
+What is the internet access like in Morocco?
+
+
+
+
+
+
+
+
+
+Morocco's cities have internet access available in internet cafes and hotel lobbies. In some cases, free Wi-Fi can be accessed in public places. Less internet access is available in rural areas, so be prepared to 'disconnect' when travelling out of Morocco's big cities.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Morocco?
+
+
+
+
+
+
+
+
+
+Mobile phone coverage is generally very good in Morocco's cities and metropolitan areas, although expect limited coverage in remote or mountainous areas. Ensure you have global roaming activated with your carrier if you wish to use your phone while in Morocco.
+
+
+
+
+
+
+
+What are the toilets like in Morocco?
+
+
+
+
+
+
+
+
+
+Morocco's toilets are a mixture of modern flushable toilets and squat toilets, so be prepared to encounter both. Carry your own supply of toilet paper and soap, as these aren't always provided.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Mint tea = 5-10 MAD
+Fresh juice = 10-15 MAD
+Basic meal = 50 MAD
+Expensive meal = 150 MAD
+
+
+
+
+
+
+
+Can I drink the water in Morocco?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Morocco. For environmental reasons, try to avoid bottled water. Ask your leader where filtered water can be found as some hotels provide this.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Morocco?
+
+
+
+
+
+
+
+
+
+Major credit cards are accepted by most large shops, hotels and restaurants, although smaller vendors and market stalls often only accept cash.
+
+
+
+
+
+
+
+What is ATM access like in Morocco?
+
+
+
+
+
+
+
+
+
+ATMs are easily found in the large cities and airports, although are less common in rural and remote areas. When travelling out of the city, be prepared by having enough cash, as ATMs aren't always an option.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Morocco?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of your trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Morocco?
+
+
+
+
+
+
+
+
+
+11 Jan Independence Manifesto Day
+
+1 May Labour Day
+
+26 Jun Aid al-Fitr / End of Ramadan
+
+30 Jul Throne Day
+
+14 Aug Oued Ed-Dahab Day
+
+20 Aug Revolution Day
+
+21 Aug HM Mohammed VI's Birthday
+
+1 Sep Aid al-Adha / Feast of Sacrifice
+
+22 Sep Islamic New Year / Muharram
+
+6 Nov Green March Day
+
+18 Nov Independence Day
+
+1 Dec The Prophet's Birthday
+
+Please note these dates are for 2017. For a current list of public holidays in Morocco go to:
+http://www.worldtravelguide.net/morocco/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Morocco
+
+1. Be considerate of Morocco’s customs, traditions, religion and culture.
+
+2. Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+3. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water.
+
+4. Always dispose of litter thoughtfully, including cigarette butts.
+
+5. When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+6. Learn some local language and don't be afraid to use it - simple greetings will help break the ice.
+
+7. Shop for locally made products. Supporting local artisans helps keep traditional crafts alive.
+
+8. Refrain from supporting businesses that exploit or abuse endangered animals.
+
+9. Please ask and receive permission before taking photos of people, including children.
+
+10. When on community visits or homestays, refrain from giving gifts or money to locals.
+
+11. Ramadan is the fasting month for all Muslims. During this month no food, drink or smoking is permitted during daylight hours. While non-Muslims aren't expected to fast, it's recommended to try to avoid eating, drinking or smoking in public during daylight hours.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Morocco, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Horizon Association
+
+This organisation builds prosthetics and wheelchairs for people with disabilities. They also provide day services and physical rehabilitation for children with mental and physical disabilities.
+
+Photo provided by Horizon.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

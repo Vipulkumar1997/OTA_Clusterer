@@ -1,0 +1,4550 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indonesia Tours & Travel | Intrepid Travel CH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+
+
++49 (0) 8024 46233-00
+
+
+
+
+
+
+Brochures
+
+
+
+
+
+
+My Booking
+
+
+
+
+
+
+
+Home
+
+
+
+
+Find a Trip
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+
+
+
+Back
+
+
+
+Destinations
+
+
+
+Africa
+
+
+
+
+
+Back
+
+
+
+Africa
+
+
+
+Benin
+
+
+
+Botswana
+
+
+
+Djibouti
+
+
+
+Egypt
+
+
+
+Ethiopia
+
+
+
+Gambia
+
+
+
+Ghana
+
+
+
+Guinea
+
+
+
+Guinea Bissau
+
+
+
+Ivory Coast
+
+
+
+Kenya
+
+
+
+Lesotho
+
+
+
+Madagascar
+
+
+
+Malawi
+
+
+
+Morocco
+
+
+
+Namibia
+
+
+
+Rwanda
+
+
+
+Senegal
+
+
+
+Sierra Leone
+
+
+
+South Africa
+
+
+
+Sudan
+
+
+
+Swaziland
+
+
+
+Tanzania
+
+
+
+Togo
+
+
+
+Uganda
+
+
+
+Zambia
+
+
+
+Zimbabwe
+
+
+
+
+
+Asia
+
+
+
+
+
+Back
+
+
+
+Asia
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Bali
+
+
+
+Bhutan
+
+
+
+Borneo
+
+
+
+Cambodia
+
+
+
+China
+
+
+
+Georgia
+
+
+
+India
+
+
+
+Indonesia
+
+
+
+Japan
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Laos
+
+
+
+Malaysia
+
+
+
+Mongolia
+
+
+
+Myanmar (Burma)
+
+
+
+Nepal
+
+
+
+North Korea
+
+
+
+Philippines
+
+
+
+Singapore
+
+
+
+South Korea
+
+
+
+Sri Lanka
+
+
+
+Taiwan
+
+
+
+Tajikistan
+
+
+
+Thailand
+
+
+
+Tibet
+
+
+
+Turkmenistan
+
+
+
+Uzbekistan
+
+
+
+Vietnam
+
+
+
+
+
+Central America
+
+
+
+
+
+Back
+
+
+
+Central America
+
+
+
+Bahamas
+
+
+
+Belize
+
+
+
+British Virgin Islands
+
+
+
+Costa Rica
+
+
+
+Cuba
+
+
+
+El Salvador
+
+
+
+Guatemala
+
+
+
+Honduras
+
+
+
+Jamaica
+
+
+
+Mexico
+
+
+
+Nicaragua
+
+
+
+Panama
+
+
+
+
+
+Europe
+
+
+
+
+
+Back
+
+
+
+Europe
+
+
+
+Albania
+
+
+
+Andorra
+
+
+
+Austria
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Belgium
+
+
+
+Bosnia
+
+
+
+Bulgaria
+
+
+
+Croatia
+
+
+
+Czech Republic
+
+
+
+Denmark
+
+
+
+Estonia
+
+
+
+Finland
+
+
+
+France
+
+
+
+Georgia
+
+
+
+Germany
+
+
+
+Greece
+
+
+
+Greenland
+
+
+
+Hungary
+
+
+
+Iceland
+
+
+
+Ireland
+
+
+
+Italy
+
+
+
+Kosovo
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Luxembourg
+
+
+
+Macedonia
+
+
+
+Malta
+
+
+
+Moldova
+
+
+
+Montenegro
+
+
+
+Netherlands
+
+
+
+Norway
+
+
+
+Poland
+
+
+
+Portugal
+
+
+
+Romania
+
+
+
+Russia
+
+
+
+Serbia
+
+
+
+Slovakia
+
+
+
+Slovenia
+
+
+
+Spain
+
+
+
+Sweden
+
+
+
+Switzerland
+
+
+
+Turkey
+
+
+
+United Kingdom
+
+
+
+Ukraine
+
+
+
+
+
+Middle East
+
+
+
+
+
+Back
+
+
+
+Middle East
+
+
+
+Egypt
+
+
+
+Iran
+
+
+
+Israel
+
+
+
+Jordan
+
+
+
+Oman
+
+
+
+Turkey
+
+
+
+United Arab Emirates
+
+
+
+
+
+North America
+
+
+
+
+
+Back
+
+
+
+North America
+
+
+
+Alaska
+
+
+
+Canada
+
+
+
+Mexico
+
+
+
+United States
+
+
+
+
+
+Australia & Oceania
+
+
+
+
+
+Back
+
+
+
+Australia & Oceania
+
+
+
+Australia
+
+
+
+New Zealand
+
+
+
+Papua New Guinea
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Antarctica
+
+
+
+Arctic
+
+
+
+Greenland
+
+
+
+
+
+South America
+
+
+
+
+
+Back
+
+
+
+South America
+
+
+
+Argentina
+
+
+
+Bolivia
+
+
+
+Brazil
+
+
+
+Chile
+
+
+
+Colombia
+
+
+
+Ecuador
+
+
+
+Falkland Islands
+
+
+
+Galapagos Islands
+
+
+
+Machu Picchu
+
+
+
+Paraguay
+
+
+
+Patagonia
+
+
+
+Peru
+
+
+
+Uruguay
+
+
+
+
+
+All destinations
+
+
+
+
+
+Themes
+
+
+
+
+
+Back
+
+
+
+Themes
+
+
+
+Cycling
+
+
+
+
+
+Back
+
+
+
+Cycling
+
+
+
+About Intrepid cycling tours
+
+
+
+Cycling tours in Africa
+
+
+
+Cycling tours in Asia
+
+
+
+Cycling tours in Europe
+
+
+
+Cycling tours in the Americas
+
+
+
+
+
+Family
+
+
+
+
+
+Back
+
+
+
+Family
+
+
+
+About Intrepid family tours
+
+
+
+Africa family tours
+
+
+
+Americas family tours
+
+
+
+Asia family tours
+
+
+
+Europe family tours
+
+
+
+
+
+Food
+
+
+
+
+
+Back
+
+
+
+Food
+
+
+
+About Intrepid food tours
+
+
+
+Asia food tours
+
+
+
+Central & South America food tours
+
+
+
+Europe & Africa food tours
+
+
+
+India & Sri Lanka food tours
+
+
+
+
+
+Adventure Cruising
+
+
+
+Sailing
+
+
+
+
+
+Back
+
+
+
+Sailing
+
+
+
+About Intrepid sailing tours
+
+
+
+Asia sailing tours
+
+
+
+Caribbean sailing
+
+
+
+Europe sailing tours
+
+
+
+Galapagos Islands
+
+
+
+River Boating
+
+
+
+
+
+Walking & trekking
+
+
+
+
+
+Back
+
+
+
+Walking & trekking
+
+
+
+Walking & trekking tours
+
+
+
+
+
+Wildlife
+
+
+
+
+
+Back
+
+
+
+Wildlife
+
+
+
+Wildlife tours
+
+
+
+
+
+Polar
+
+
+
+
+
+Back
+
+
+
+Polar
+
+
+
+Polar tours
+
+
+
+
+
+View more themes
+
+
+
+
+
+Back
+
+
+
+View more themes
+
+
+
+Expeditions
+
+
+
+Festivals
+
+
+
+Overland
+
+
+
+Short Breaks
+
+
+
+Urban Adventures
+
+
+
+View all themes
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+
+About Intrepid
+
+
+
+
+
+Back
+
+
+
+About Intrepid
+
+
+
+Our story
+
+
+
+Why travel with Intrepid
+
+
+
+Why small group travel
+
+
+
+Real life experiences
+
+
+
+Meet your local leader
+
+
+
+Our travellers
+
+
+
+Responsible business
+
+
+
+The Intrepid Foundation
+
+
+
+Loyalty program
+
+
+
+Intrepid Travel Blog
+
+
+
+
+
+Travel styles
+
+
+
+
+
+Back
+
+
+
+Travel styles
+
+
+
+Our trip styles
+
+
+
+Private groups
+
+
+
+Solo travel
+
+
+
+
+
+Booking resources
+
+
+
+
+
+Back
+
+
+
+Booking resources
+
+
+
+Our services
+
+
+
+Brochures
+
+
+
+Ways to book
+
+
+
+Booking conditions
+
+
+
+Travel alerts
+
+
+
+My booking
+
+
+
+Pre-departure checklist
+
+
+
+Submit trip feedback
+
+
+
+Agent login
+
+
+
+
+
+Contact us
+
+
+
+
+
+Back
+
+
+
+Contact us
+
+
+
+Our contact details
+
+
+
+Employment
+
+
+
+FAQs
+
+
+
+Media
+
+
+
+Our stores
+
+
+
+
+
+
+
+Travel deals
+
+
+
+
+
+Back
+
+
+
+Travel deals
+
+
+
+20% OFF lesser-known destinations
+
+
+
+15% OFF 2018 Adventure Cruises
+
+
+
+Up to 35% OFF Antarctica 18/19
+
+
+
+Last minute deals
+
+
+
+Win a CHF 3.500 voucher to explore Asia
+
+
+
+
+
+
+
+
+
+Keyword
+
+
+
+
+
+
+
+{{ items.country.display_title }}
+
+
+
+
+
+
+
+
+{{ items.region.display_title }}
+
+
+
+
+
+
+
+
+
+
+
+{{ items.location_start.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.location_end.display_title }}
+
+
+{{item.name}}
+
+
+
+
+{{ items.trip.display_title }}
+
+
+{{item.name}} ({{item.code}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indonesia tours & travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Asia
+
+Indonesia
+
+
+
+If you thought Indonesia was all big resorts and Bintang, it might be time to check your atlas.
+
+
+Because there isn’t really just one Indonesia, not when you’re an archipelago made up of 17,000 individual islands (only 8,000 of which have ever seen a human footprint). One minute you’re spotting orangutans in the jungles of Sumatra, the next you’re chowing down on an organic acai bowl in Ubud, hiking the slopes of Mt Batur or kicking back on the sugar-white beaches of Gili Air (preferably holding a some ridiculous, tropical-looking cocktail). Every day in Indonesia is different, so whether you’re after party, peace or paradise, the odds are good we’ve got an Indonesia tour that fits the bill.
+
+
+Top Indonesia travel deals
+
+
+
+
+
+Departing
+
+Trip name
+
+
+Days
+
+From CHF
+
+
+
+
+
+
+
+19 Dec 2017
+
+Beautiful Bali
+
+
+
+Beautiful Bali
+Ubud to Sanur
+
+
+
+
+
+
+
+
+
+×
+
+Beautiful Bali
+
+
+
+
+
+
+
+
+
+9
+
+
+FR865
+
+
+FR822
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Discover Lombok
+
+
+
+Discover Lombok
+Sanur to Gili Islands
+
+
+
+
+
+
+
+
+
+×
+
+Discover Lombok
+
+
+
+
+
+
+
+
+
+8
+
+
+FR900
+
+
+FR720
+
+
+
+
+View Trip
+
+
+
+
+
+
+6 Jan 2018
+
+Bali & Lombok Adventure
+
+
+
+Bali & Lombok Adventure
+Ubud to Gili Islands
+
+
+
+
+
+
+
+
+
+×
+
+Bali & Lombok Adventure
+
+
+
+
+
+
+
+
+
+15
+
+
+FR1,840
+
+
+FR1,656
+
+
+
+
+View Trip
+
+
+
+
+
+
+21 Jan 2018
+
+Jakarta to Ubud
+
+
+
+Jakarta to Ubud
+Jakarta to Ubud
+
+
+
+
+
+
+
+
+
+×
+
+Jakarta to Ubud
+
+
+
+
+
+
+
+
+
+14
+
+
+FR1,815
+
+
+FR1,634
+
+
+
+
+View Trip
+
+
+
+
+
+
+21 Jan 2018
+
+Java & Bali Explorer
+
+
+
+Java & Bali Explorer
+Jakarta to Sanur
+
+
+
+
+
+
+
+
+
+×
+
+Java & Bali Explorer
+
+
+
+
+
+
+
+
+
+22
+
+
+FR2,660
+
+
+FR2,394
+
+
+
+
+View Trip
+
+
+
+
+
+
+5 May 2018
+
+Sumatra Adventure
+
+
+
+Sumatra Adventure
+Medan to Medan
+
+
+
+
+
+
+
+
+
+×
+
+Sumatra Adventure
+
+
+
+
+
+
+
+
+
+9
+
+
+FR1,130
+
+
+FR904
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+Our Indonesia trips
+
+
+
+
+
+
+
+
+
+Beautiful Bali
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR778
+
+
+
+
+
+Travel to Bali and experience this exotic oasis off the coast of Indonesia. Bali's Ubud...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Jakarta to Ubud
+
+
+
+
+
+
+
+
+
+14 Days
+
+
+From
+FR1,690
+
+
+
+
+
+From Jakarta to Mt Bromo, Seloliman to Ubud, this tour of Indonesia reveals a nation...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Lombok
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR875
+
+
+
+
+
+Travel to tropical Lombok and Gili Air to discover quaint mountain villages, steamy...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bali & Lombok: Hike, Bike & Raft
+
+
+
+
+
+
+
+
+
+12 Days
+
+
+From
+FR1,540
+
+
+
+
+
+Travel to Bali and Lombok, two jewels of Indonesia that were made for the active...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bali & Lombok Adventure
+
+
+
+
+
+
+
+
+
+15 Days
+
+
+From
+FR1,720
+
+
+
+
+
+A magical getaway on Indonesia's Islands. Travel across Bali and Lombok visiting arty...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Komodo & Flores
+
+
+
+
+
+
+
+
+
+11 Days
+
+
+From
+FR2,230
+
+
+
+
+
+Discover charming island life on a tour across Flores, Indonesia's "Flower Island",...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Java & Bali Explorer
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR2,540
+
+
+
+
+
+Travel to Indonesia and visit Bali and Java. Explore the bustling city of Jakarta, the...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bangkok to Bali
+
+
+
+
+
+
+
+
+
+28 Days
+
+
+From
+FR3,315
+
+
+
+
+
+Take an adventure from Thailand to Bali, via Malaysia. This tour of South-East Asia...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Cycle Bali
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,220
+
+
+
+
+
+Discover Bali on a cycling adventure from Ubud to Sanur. Visit Mount Batur, Kintamani,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bali Family Holiday with teenagers
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR1,275
+
+
+
+
+
+Treetops, rapids, bikes and beaches – find it all as you travel to Ubud, Candi Dasa,...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Classic Bali
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR1,375
+
+
+
+
+
+Explore an ocean paradise, stopping at Ubud, Candi Dasa, Tulamben and Seminyak on this...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Sumatra Adventure
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR904
+
+
+
+
+
+Discover rugged and wild Sumatra. Travel from Medan to Bukit Lawang, Gunung Leuser...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Best of Indonesia
+
+
+
+
+
+
+
+
+
+22 Days
+
+
+From
+FR3,120
+
+
+
+
+
+Discover rugged and wild Sumatra. Travel from Medan to Bukit Lawang, Gunung Leuser...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Active Bali and Lombok in Depth
+
+
+
+
+
+
+
+
+
+20 Days
+
+
+From
+FR2,280
+
+
+
+
+
+Travel to Bali and Lombok, two Indonesian jewels that were made for the active...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Bali, Komodo & Flores Adventure
+
+
+
+
+
+
+
+
+
+19 Days
+
+
+From
+FR2,890
+
+
+
+
+
+Discover the stunning Indonesian islands of Bali, Komodo and Flores. Visit the ancient...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Beautiful Bali - For Solo Travellers
+
+
+
+
+
+
+
+
+
+9 Days
+
+
+From
+FR930
+
+
+
+
+
+Travel to Bali and experience this exotic oasis off the coast of Indonesia with a group...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+Indonesian Island Cruise (Panorama II)
+
+
+
+
+
+
+
+
+
+8 Days
+
+
+From
+FR2,785
+
+
+
+
+
+Join Peregrine on a small-ship adventure cruise in Indonesia, visiting the perfect...
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+Show more trips
+
+
+
+
+
+
+
+Travel lightly with Intrepid. We’ve offset the main sources of carbon emissions from this trip on your behalf, including transport, accommodation & waste.
+Read more
+
+
+
+Indonesia tour reviews
+
+
+Our Indonesia trips score an average of
+4.76 out of 5
+based on 625 reviews in the last year.
+
+
+
+
+
+
+
+
+
+
+Discover Lombok,
+November 2017
+
+Eliza Fletton
+
+Beautiful Bali & Discover Longbok was two very beneficial trips to experience and learn about the Indonesian culture. You experience and learn much more than visiting the tourist destinations
+
+Review submitted 03 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+Beautiful Bali,
+November 2017
+
+Robert Chretien
+
+I love using Intrepid. The accommodations are beautiful and run by the local people. Much better than staying at a chain hotel. It is great having a local guide that deals with all the logistics, so you can just relax and have fun. It is also a pleasure interacting with people from across the globe.
+
+Review submitted 01 Dec 2017
+
+
+
+
+
+
+Show more reviews
+
+
+
+
+
+×
+
+Indonesia trip reviews
+
+Our Indonesia trips score an average of
+4.76 out of 5
+based on 625 reviews in the last year.
+
+
+
+
+
+
+
+
+{{review.product_name}}, {{review.departure_date}}
+
+
+{{review.first_name}} {{review.last_name}}
+
+{{review.overall_enjoyment_comments}}
+
+Review submitted {{review.submitted_date}}
+
+
+Delete this review
+
+
+
+
+
+
+Previous
+
+
+
+
+
+Next
+
+
+
+
+
+Close
+
+
+
+
+
+
+Articles on Indonesia
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 14, 2017
+
+
+
+How to see the best of Bali, minus the crowds
+
+
+
+
+
+
+From hot springs to spring rolls, rolling rice terraces to volcano climbs at...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 05, 2017
+
+
+
+Sumatra: Indonesia’s adventure paradise you...
+
+
+
+
+
+
+Despite being the sixth largest island in the world, Sumatra is wild and rugged...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 25, 2017
+
+
+
+10 under-the-radar destinations in Southeast...
+
+
+
+
+
+
+Here are 10 Southeast Asian spots about to take pride of place on your bucket list...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 07, 2017
+
+
+
+How to discover South Bali’s secret scenic gems
+
+
+
+
+
+
+South Bali exists in its own little world, separate from the rest of the country....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun 27, 2017
+
+
+
+Obama does Bali: How to travel there like the...
+
+
+
+
+
+
+Ah, Bali. This beach-fringed paradise seemingly has it all – sprawling rice fields...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 29, 2017
+
+
+
+The best beaches in southeast Asia: a...
+
+
+
+
+
+
+Once you've sampled the food, culture and magnificent temples of southeast Asia,...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 25, 2017
+
+
+
+Where to travel in Indonesia, according to an...
+
+
+
+
+
+
+Meet Maman. He's led Intrepid trips in Indonesia for over 10 years, and here he...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 11, 2017
+
+
+
+Indonesia: 4 surprising experiences that aren’t...
+
+
+
+
+
+
+A holiday to Indonesia doesn't have to mean Bintangs and sunburn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 22, 2017
+
+
+
+Stairway to Hell: climbing the slopes of Mt Bromo
+
+
+
+
+
+
+As I look out over this barren, moon-like landscape – devoid of life, apart from a...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 24, 2016
+
+
+
+On trend: 5 ways travel is going to change in 2017
+
+
+
+
+
+
+Another year has nearly come and gone, but here at Intrepid HQ we’re gazing into ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oct 13, 2016
+
+
+
+10 epic destinations to make you feel small
+
+
+
+
+
+
+These are the moments we live for as travellers – finding those spectacular place...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apr 11, 2016
+
+
+
+What it’s really like to climb Bali’s Mt Batur
+
+
+
+
+
+
+It’s only a few hours after midnight and I’m hiking in complete darkness, the path...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 19, 2015
+
+
+
+Bali in your belly: our ultimate Bali food guide
+
+
+
+
+
+
+Travellers come to Bali for all sorts of reasons. They come to surf. They come to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 27, 2015
+
+
+
+9 things you’ll see on a bike ride through...
+
+
+
+
+
+
+For all those wanting to explore Java on two wheels, here's one woman's bike ride...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov 20, 2014
+
+
+
+Soup is for life, not just for lunch: five...
+
+
+
+
+
+
+Everyone knows soup is a great lunch option, but it's often overlooked for dinner....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jul 16, 2014
+
+
+
+The Heart of Java: 6 Awesome Things to do in...
+
+
+
+
+
+
+Yogyakarta is definitely one our favourite cities in South East Asia. That’s...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indonesia travel highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ubud
+
+
+
+
+Browse the galleries, boutiques and shops of Ubud
+
+
+
+
+
+
+Beautiful Bali, 9 days
+
+
+
+
+
+
+
+
+Jakarta to Ubud, 14 days
+
+
+
+
+
+
+
+
+Bali & Lombok: Hike, Bike & Raft, 12 days
+
+
+
+
+
+
+
+
+
+
+
+Mt Rinjani
+
+
+
+
+Soak up memorable views of smouldering Mt Rinjani
+
+
+
+
+
+
+Bali & Lombok: Hike, Bike & Raft, 12 days
+
+
+
+
+
+
+
+
+Active Bali and Lombok in Depth, 20 days
+
+
+
+
+
+
+
+
+
+
+
+
+Indonesia holiday information
+
+
+
+
+At a glance
+
+
+
+
+
+
+×
+
+At a glance
+
+
+
+Capital city:
+
+Jakarta (population 9.2 million)
+
+Population:
+
+242.9 million
+
+Language:
+
+Indonesian
+
+Currency:
+
+IDR
+
+Time zone:
+
+(GMT+07:00) Bangkok, Hanoi, Jakarta
+
+Electricity:
+
+Type C (European 2-pin) Type F (German 2-pin, side clip earth) Type G (Irish/British 3-pin)
+
+Dialing code:
+
++62
+
+
+
+
+
+
+
+
+
+Best time to visit Indonesia
+
+
+
+
+
+
+×
+
+Best time to visit Indonesia
+
+
+
+
+Indonesia’s close proximity to the equator ensures consistently hot and humid weather in all seasons; however, its tropical climate means many areas are prone to periods of heavy rainfall. The wet season takes place from May to October and flooding can make road travel difficult at times. Popular holiday spots like Bali tend to receive large crowds during Christmas and school holidays but are significantly less crowded in shoulder seasons. Also worth keeping in mind are Indonesia’s various religious holidays. With a large population of practising Muslims, Ramadan results in the closure of many services, so expect a quieter experience when travelling during Ramadan.
+
+
+
+
+
+
+
+
+Geography and environment
+
+
+
+
+
+
+×
+
+Geography and environment
+
+
+
+
+An archipelago of over 17,000 islands, Indonesia works its way across several oceans, beginning with the island of Sumatra in the West and stretching to Irian Jaya in the East. In between, Indonesia includes a sizeable part of Borneo, as well as larger islands such as Java, Bali and Sulawesi. With such a broad selection of islands, Indonesia encompasses a variety of landscapes such as: thick tropical jungle, fertile rice fields, grasslands and volcanic mountain ranges. Indonesia’s ecosystems are full of a rich variety of flora and fauna including the very rare Sumatran tiger and elephant, the Javan rhino and the fierce Komodo Dragon. Indonesia is also famous for its incredible beaches and marine life. With thousands of kilometres of reefs, beaches, bays and lagoons, Indonesia is a diver's paradise.
+
+
+
+
+
+
+
+
+Top 10 Odd Creatures of Indonesia
+
+
+
+
+
+
+×
+
+Top 10 Odd Creatures of Indonesia
+
+
+
+
+1. Sumatran Rhino
+
+Appearing almost prehistoric, the Sumatran rhino is smaller in both size and number than its African cousins. Covered in a reddish brown fur, the Sumatran rhino is a solitary animal, and has been quietly grazing the grasslands for thousands of years.
+
+2. Sulawesi Giant Squirrel
+
+Living deep within Sulawesi’s rainforest canopies, this enigmatic and shy rodent can be tough to spot, so stay quiet and alert if you want catch a glimpse of one.
+
+3. Sun Bear
+
+A perennial favourite, the sun bear can be found on many of Indonesia’s islands. Perhaps suffering from ‘small bear syndrome’, these fiery characters are often quite aggressive, defying their nickname as the ‘Honey Bear’.
+
+4. Sulawesi Macaque
+
+Native to the island of Sulawesi, these crafty primates are known for being exceptionally social creatures. With family groups usually led by dominant females, Sulawesi macaques are a prime example of 'girl power' in action.
+
+5. Sumatran Tiger
+
+A noble predator with an almost mythical status, the Sumatran tiger stalks its prey deep within the jungles of Sumatra. With some estimates putting their numbers at just over 300, an international effort is underway to protect this incredible animal.
+
+6. Javan Slow Loris
+
+Slow in name, slow in nature. Don’t be fooled though, this super-cute creature packs a deadly punch – it is the world's only poisonous primate!
+
+7. Long-Beaked Echidna
+
+Inhabiting the island of New Guinea, this crazy critter snuffles about the forest floor using its large snout. Don’t expect to see many of these guys though; they are classified as ‘critically endangered’.
+
+8. Komodo Dragon
+
+The fearsome Komodo Dragon is the world’s largest lizard, often weighing up to 70 kilograms. Described as the ‘perfect predator’, this stealthy beast makes for an exhilarating sight.
+
+9. Moluccan Flying Snake
+
+Scared of snakes? Now you'll have to search the ground and the air as these aerodynamic reptiles have found a novel way to move between the treetops, by becoming airborne and gliding for up to 30 metres.
+
+10. Babirusa
+
+What do you get when you cross a pig and a deer? The odd looking Babirusa: a short and stocky animal with large, curled horns. Native to Indonesia, populations of these bizarre beasts are sadly in decline due to poaching and habitat loss.
+
+
+
+
+
+
+
+
+Health and Safety
+
+
+
+
+
+
+×
+
+Health and Safety
+
+
+
+Intrepid takes the health and safety of its travellers seriously, and takes every measure to ensure that trips are safe, fun and enjoyable for everyone. We recommend that all travellers check with their government or national travel advisory organisation for the latest information before departure:
+
+
+
+From Australia?
+
+Go to:
+http://www.smartraveller.gov.au/
+
+From Canada?
+
+Go to:
+http://www.voyage.gc.ca/
+
+From UK?
+
+Go to:
+http://www.fco.gov.uk/en/
+
+
+
+From New Zealand?
+
+Go to:
+http://www.safetravel.govt.nz/
+
+From US?
+
+Go to:
+http://travel.state.gov/
+
+The World Health Organisation
+
+also provides useful health information. Go to:
+http://www.who.int/en/
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+
+
+
+
+
+×
+
+Further reading
+
+
+
+Title
+
+Author
+
+A House in Bali
+
+Colin McPhee
+
+A Short History of Bali: Indonesia's Hindu Realm
+
+Robert Pringle
+
+A Little Bit One O'Clock: Living with a Balinese Family
+
+William Ingram
+
+The Year of Living Dangerously
+
+Christopher Koch
+
+This Earth of Mankind
+
+Pramoedya Ananta Toer
+
+
+
+
+
+
+
+
+Indonesia travel FAQs
+
+
+
+
+
+Do I need a visa to travel to Indonesia?
+
+
+
+
+
+
+
+
+
+Passport holders for most nationalities are now permitted to enter Visa Free for up to 30 days for tourism purposes. In March 2016 Australia and Ireland have been added to the list of countries now exempt from visas for visits for tourism purposes under 30 days. Please check with your relevant consulate or embassy.
+
+Entry requirements: presentation of onward or return tickets, passport which is valid for at least 6 months. Visitors on Visa-Free Short Visits must enter AND exit from certain airports and seaports in Indonesia including: Jakarta (Soekarno-Hatta Airport), Bali (Ngurah Rai Airport), Yogyakarta (Adisucipto Airport) and Surabaya (Juanda Airport). This currently excludes entry and exist from Lombok (Bandar Udara International Airport). Visa-Free Short Visits cannot be extended and cannot be transferred to another type of visa.
+
+Some nationalities are required to obtain a visa on arrival, or in advance. Citizens of countries who aren't on the visa on arrival or visa free lists are required to apply for a visa overseas before travelling to Indonesia.
+
+Nationals of all countries planning to stay for more than 30 days in Indonesia have to apply for the appropriate visa at an overseas Indonesian consulate or embassy before their departure.
+
+Local laws require that you must be able show your valid passport at any time when required to do so by an immigration office. We recommend taking a clear photocopy of your passport photo page, and visa (after arriving), to carry with you.
+
+
+
+
+
+
+
+Is tipping customary in Indonesia?
+
+
+
+
+
+
+
+
+
+Tipping isn't mandatory or customary in Indonesia, but a tip of spare change or another small amount would be appreciated by restaurants, drivers and other service workers, especially if the service has been particularly good.
+
+
+
+
+
+
+
+What is the internet access like in Indonesia?
+
+
+
+
+
+
+
+
+
+Internet access is widely available in tourist areas like Bali, which has many internet cafes. Internet access is less common in rural and remote areas.
+
+
+
+
+
+
+
+Can I use my mobile/cell phone while in Indonesia?
+
+
+
+
+
+
+
+
+
+You'll be able to use your mobile phone in most urban areas of Indonesia, although some of the islands or more remote areas may not have network coverage. Ensure you have global roaming activated with your mobile carrier before you leave home if you wish to use your mobile while in Indonesia.
+
+
+
+
+
+
+
+What are the toilets like in Indonesia?
+
+
+
+
+
+
+
+
+
+You'll have to adjust to different standards of hygiene and sanitation while in Indonesia. The standard toilet is of the squat variety and this may take some getting used to. However, western-style toilets can be found in large hotels and some tourist areas.
+
+
+
+
+
+
+
+What will it cost for a…?
+
+
+
+
+
+
+
+
+
+Indonesia is one of the world's favourite budget travel destinations. Here's what you can roughly expect to pay for a:
+
+Street food snack = 2,000 IDR
+Fresh juice = 5,000 IDR
+Bottle of beer in a bar = 20,000 IDR
+Souvenir sarong = 25,000 IDR
+Dinner in a restaurant = 40,000 IDR
+
+
+
+
+
+
+
+Can I drink the water in Indonesia?
+
+
+
+
+
+
+
+
+
+Drinking tap water isn't recommended in Indonesia. For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water. Ask your leader where filtered water can be found, some hotels we stay in may have drinking water available. It's also advisable to avoid ice in drinks and peel fruit and vegetables before eating.
+
+
+
+
+
+
+
+Are credit cards accepted widely in Indonesia?
+
+
+
+
+
+
+
+
+
+Major credit cards are widely accepted by large shops, hotels and restaurants in Indonesia. However, they may not be accepted by smaller vendors such as small family restaurants, market stalls or in remote towns and rural areas. Make sure you carry enough cash for purchases, since credit cards aren't always an option everywhere in Indonesia.
+
+
+
+
+
+
+
+What is ATM access like in Indonesia?
+
+
+
+
+
+
+
+
+
+ATMs are found widely throughout Indonesia, so withdrawing cash shouldn't be problematic in most areas. Some smaller villages and rural areas may not have ATM access, so be prepared for this before venturing too far from a city or major town.
+
+
+
+
+
+
+
+Do I need to purchase travel insurance before travelling in Indonesia?
+
+
+
+
+
+
+
+
+
+Absolutely. All passengers travelling with Intrepid are required to purchase travel insurance before the start of their trip. Your travel insurance details will be recorded by your leader on the first day of the trip. Due to the varying nature, availability and cost of health care around the world, travel insurance is very much an essential and necessary part of every journey.
+
+For more information on insurance, please go to:
+Travel Insurance
+
+
+
+
+
+
+
+What public holidays are celebrated in Indonesia?
+
+
+
+
+
+
+
+
+
+1 Jan New Years Day
+
+28 Jan Chinese New Year
+
+28 Mar Bali Hindu New Year
+
+14 Apr Good Friday
+
+24 Apr Ascension of the Prophet Muhammad
+
+1 May International Labor Day / May Day
+
+11 May Waisak Day
+
+25 May Ascension Day of Jesus Christ
+
+1 Jun Pancasila Day
+
+23 Jun Shared Public Holiday (Lebaran)
+
+25 Jun Hari Raya Idul Fitri
+
+26 Jun Hari Raya Idul Fitri
+
+27 Jun Shared Public Holiday (Lebaran)
+
+28 Jun Shared Public Holiday (Lebaran)
+
+17 Aug Indonesian Independence Day
+
+1 Sep Idul Adha
+
+21 Sep Islamic New Year
+
+1 Dec Birthday of the Prophet Muhammad
+
+25 Dec Christmas Day
+
+26 Dec Shared Public Holiday (Christmas)
+
+Please note these dates are for 2017. For a current list of public holidays in Indonesia go to:
+http://www.worldtravelguide.net/indonesia/public-holidays
+
+
+
+
+
+Responsible Travel
+
+Intrepid is committed to travelling in a way that is respectful of local people, their culture, local economies and the environment. It's important to remember that what may be acceptable behaviour, dress and language in your own country, may not be appropriate in another. Please keep this in mind while travelling.
+
+
+
+
+
+
+
+Top responsible travel tips for Indonesia
+
+Be considerate of Indonesia's customs, traditions, religion and culture.
+
+Dress modestly and respectfully. Shoulders to knees should be covered, especially when entering places of worship.
+
+Always dispose of litter thoughtfully, including cigarette butts.
+
+Choose to not support businesses that promote cruelty towards or exploitation of endangered species.
+
+Please ask and receive permission before taking photos of people, including children.
+
+When bargaining at markets, stay calm, be reasonable and keep a smile on your face. It's meant to be fun!
+
+When on community visits or homestays, refrain from giving gifts or money to locals.
+
+For environmental reasons, try to avoid buying bottled water. Fill a reusable water bottle or canteen with filtered water instead.
+
+Ramadan is the fasting month for all Muslims. During this month no food, drink or smoking is permitted during daylight hours. While non-Muslims aren't expected to fast, it's recommended to try to avoid eating, drinking or smoking in public during daylight hours.
+
+The precious reefs off the coast of Indonesia need to be preserved and protected. By all means, admire the coral, but never touch or remove coral from reefs. Also, avoid buying souvenirs that have been illegally removed from the reef.
+
+
+
+
+
+The Intrepid Foundation
+
+The Intrepid Foundation provides travellers with an opportunity to give something back to the many wonderful communities we travel to. By donating to The Intrepid Foundation you can make a difference in local communities - in health care, education, human rights, child welfare and the protection of wildlife and the environment.
+
+In Indonesia, The Intrepid Foundation proudly supports:
+
+
+
+
+
+
+
+Bumi Sehat
+
+This free maternal health clinic located in Bali assists economically-challenged local women with health services, nutrition advice and education programs.
+
+Image supplied by Bumi Sehat.
+
+
+
+
+To learn more or donate, go to:
+www.theintrepidfoundation.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently Viewed
+
+
+
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.productName}}
+
+
+
+
+
+
+
+
+
+{{recentlyViewed.days |drupal.formatPlural:'1 Day':'@count Days'}}
+
+
+
+
+
+View Trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love travel? You've come to the right place.
+
+Enter your details to get travel inspiration, trending destinations and amazing offers delivered to your inbox
+
+
+
+First name
+
+
+
+Last name
+
+
+
+Country
+
+-- Country --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+Email
+
+
+Subscribe
+
+
+
+
+I accept the Intrepid Travel
+privacy statement
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+Manage Your Booking
+
+
+
+
+
+
+Provide Trip Feedback
+
+
+
+
+
+
+Login to the Agent Portal
+
+
+
+
+
+
+
+
+Change region
+
+
+
+Safety
+
+
+
+Privacy
+
+
+
+Booking Conditions
+
+
+
+Employment
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intrepid Travel is a proud member of the Intrepid Group, the global leader in delivering sustainable experience-rich travel.
+Find out more
+
+
+
+
+
+
+
+×
+
+It looks like you're in {{userLocation}}
+
+Visit your local site for relevant prices, offers and information.
+
+Continue to our {{expectedRegionName}} site
+
+
+
+
+
+
+
+×
+
+
+Sorry our live chat is currently offline
+
+Call us 24/7 on +49 (0) 8024 46233-00 or send us your enquiry below
+
+
+
+
+-- Select country of residence --
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Brazzaville)
+Congo (Kinshasa)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong S.A.R., China
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao S.A.R., China
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+-- Enquiry type *  --
+New Booking
+Brochure
+Trip Information
+Existing Booking
+Event
+Subscription
+Competition
+MyIntrepid Account
+Website Problem
+Media enquiries
+Employment
+General
+
+
+Subscribe me to receive news and promotions from Intrepid Travel
+
+
+I have read and agree to the
+Privacy Statement
+
+Submit enquiry
+
+
+
+
+Leave this field blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
