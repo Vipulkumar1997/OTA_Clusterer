@@ -55,8 +55,9 @@ def create_document_corpus_by_language(document_path):
                         elif document_language == 'german':
                             preprocessed_documents_corpus_german.append(tagged_document)
 
-            logger.info('Added ' + str(len(preprocessed_documents_corpus_english)) + ' documents to the english document corpus')
-            logger.info('Added ' + str(len(preprocessed_documents_corpus_german)) + ' documents to the german document corpus')
+
+        logger.info('Added ' + str(len(preprocessed_documents_corpus_english)) + ' documents to the english document corpus')
+        logger.info('Added ' + str(len(preprocessed_documents_corpus_german)) + ' documents to the german document corpus')
 
         return preprocessed_documents_corpus_english, preprocessed_documents_corpus_german
 
@@ -98,7 +99,7 @@ def create_doc2vec_model(document_corpus):
 
 
 def save_doc2vec_model(doc2vec_model, file_name):
-    doc2vec_model_path = settings.PROJECT_ROOT + '/data/doc2vec/models/'
+    doc2vec_model_path = settings.DATA_DIR + 'doc2vec/models/'
     file_name = file_name + "-" + time.strftime("%d-%b-%Y-%X")
     logger.info("save new doc2vec model at: " + doc2vec_model_path + file_name)
     doc2vec_model.save(doc2vec_model_path + file_name)
@@ -128,8 +129,6 @@ def load_existing_model(model_name):
 
     loaded_model = gensim.models.Doc2Vec.load(models_file_path + model_name)
     return loaded_model
-
-# TODO Renaming this function
 
 
 def create_new_doc2vec_model():
@@ -170,7 +169,7 @@ def main():
     create_new_doc2vec_model()
 
     # get doc2vec similarities
-    # doc2vec_model = load_existing_model('doc2vec-model-english-28-Nov-2017-13:41:32')
+    #doc2vec_model = load_existing_model('doc2vec-model-german-28-Nov-2017-13:41:32')
     # print(get_doc_similarities(doc2vec_model, 'www.booking.com.txt'))
 
 
