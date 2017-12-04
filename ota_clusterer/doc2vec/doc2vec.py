@@ -150,11 +150,11 @@ def get_most_similar_doc_matrix(doc2vec_model):
 
 
 def main():
-    create_new_doc2vec_model()
+    #create_new_doc2vec_model()
 
     # get doc2vec similarities
-    # doc2vec_model = load_existing_model('doc2vecmodel-27-Nov-2017-14:43:10')
-    # print(get_doc_similarities(doc2vec_model, 'www.cardinalhealth.com.txt'))
+    doc2vec_model = load_existing_model('doc2vec-model-english-28-Nov-2017-13:41:32')
+    print(get_doc_similarities(doc2vec_model, 'www.booking.com.txt'))
 
 
 if __name__ == "__main__":
