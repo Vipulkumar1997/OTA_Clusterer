@@ -1,4 +1,4 @@
-# vm1-project-code
+# OTA Clusterer
 In this repository you will find the source code in relation to the ongoing research project called 'OTA Clusterer' at the Lucerne University of Applied Sciences of Information Technology. 
 
 The primary goal is to examine methods and technologies to automically cluster online travel agencies (OTA). This should happen purely based on the public available website data and with no assistence of external domain expert knowledge. Actually the prototype consists of following software components which are purely written in Python (under construction): 
