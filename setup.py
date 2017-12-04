@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='OTAClusterer',
+setup(name='ota_clusterer',
       version='0.1',
       description='OTA Clusterer',
       author='Sandro Cilurzo',
