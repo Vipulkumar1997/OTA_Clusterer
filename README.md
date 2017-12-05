@@ -53,8 +53,8 @@ Got inpsiration from following sources:
 
 * [RaRe Technologies](https://rare-technologies.com/blog/)
 * [GENSIM](https://markroxor.github.io/gensim/tutorials/)
-* [o'reilly] (https://github.com/oreillymedia/t-SNE-tutorial)
-* [stefanpernes] (https://github.com/stefanpernes/)
-* [currie32] (https://www.kaggle.com/currie32)
+* [o'reilly](https://github.com/oreillymedia/t-SNE-tutorial)
+* [stefanpernes](https://github.com/stefanpernes/)
+* [currie32](https://www.kaggle.com/currie32)
 
 ## IMPORTANT: Readme still work in progress... 
