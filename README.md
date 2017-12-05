@@ -33,7 +33,7 @@ focus of the research project is to evaluate different kind of clustering algori
 ## Built With
 
 * [Gensim](https://radimrehurek.com/gensim/) - Topic Modelling
-* [NLKT] (http://www.nltk.org/) - Natural Language Tooltkit
+* [NLKT](http://www.nltk.org/) - Natural Language Tooltkit
 * [scikit-learn](http://scikit-learn.org/stable/) - Machine Learning Library in Python
 * [Scrapy](https://scrapy.org/) - Extracting data from website
 
@@ -57,4 +57,4 @@ Got inpsiration from following sources:
 * [stefanpernes] (https://github.com/stefanpernes/)
 * [currie32] (https://www.kaggle.com/currie32)
 
-## IMPORTANT: - Still under construction 
+## IMPORTANT: Readme still work in progress... 
