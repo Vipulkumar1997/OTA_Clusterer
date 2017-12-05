@@ -166,11 +166,11 @@ def cleaning_path_out_of_folder_name(folder_name):
 
 
 def main():
-    create_new_doc2vec_model()
+    #create_new_doc2vec_model()
 
     # get doc2vec similarities
-    #doc2vec_model = load_existing_model('doc2vec-model-german-28-Nov-2017-13:41:32')
-    # print(get_doc_similarities(doc2vec_model, 'www.booking.com.txt'))
+    doc2vec_model = load_existing_model('doc2vec-model-english-04-Dec-2017-19:04:20')
+    print(get_doc_similarities(doc2vec_model, 'ltur.com'))
 
 
 if __name__ == "__main__":
