@@ -30,5 +30,31 @@ focus of the research project is to evaluate different kind of clustering algori
 - DIANI (TODO)
 - ...and more to come
 
+## Built With
 
+* [Gensim](https://radimrehurek.com/gensim/) - Topic Modelling
+* [NLKT] (http://www.nltk.org/) - Natural Language Tooltkit
+* [scikit-learn](http://scikit-learn.org/stable/) - Machine Learning Library in Python
+* [Scrapy](https://scrapy.org/) - Extracting data from website
 
+## Authors
+
+* **Sandro Cilurzo** [sandroci](https://github.com/sandroci)
+
+See also the list of [contributors](https://github.com/sandroci/OTA_clusterer/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+Got inpsiration from following sources:
+
+* [RaRe Technologies](https://rare-technologies.com/blog/)
+* [GENSIM](https://markroxor.github.io/gensim/tutorials/)
+* [o'reilly] (https://github.com/oreillymedia/t-SNE-tutorial)
+* [stefanpernes] (https://github.com/stefanpernes/)
+* [currie32] (https://www.kaggle.com/currie32)
+
+## IMPORTANT: - Still under construction 
