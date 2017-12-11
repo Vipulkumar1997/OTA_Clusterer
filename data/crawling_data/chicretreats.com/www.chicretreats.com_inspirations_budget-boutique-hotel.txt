@@ -1,0 +1,724 @@
+
+Best Budget Boutique Hotels | Chic Retreats Inspirations
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BUDGET BOUTIQUE HOTELS
+
+Inspiration
+
+
+
+Love a good bargain? So do we! And we're sure you’ll adore our collection of budget boutique hotels where you can stay Chic for less. Whilst the price may be cheap, the quality, design and style of the accommodation is certified chic. Perfect for getting more boutique bang for your buck.
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+€
+144
+Night
+
+The Black Boy Pub and Hotel
+
+United Kingdom
+,
+Oxfordshire
+,
+Oxford
+
+
+Once a run down pub with blackened ceilings, The Black Boy Pub and Hotel in Old Headington, Oxford, has been transformed into a gastropub with 5 contemporary rooms by business partners Abigail, self-confessed foodie and chef Chris who met each other whilst working for Raymond Blanc.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+91
+Night
+
+The Bunk Inn
+
+United Kingdom
+,
+Berkshire
+,
+Newbury
+
+
+The Bunk Inn is a charming and welcoming village pub with boutique hotel rooms in Curridge, Berkshire.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+48
+Night
+
+The Bohemian Place
+
+Portugal
+,
+Beiras and Central
+,
+Aveiro
+
+
+At the heart of Aveiro, just two minutes from the train station, The Bohemian Place is a quirky 17 room boutique hotel in northern Portugal.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+96
+Night
+
+The Hawk Inn
+
+United Kingdom
+,
+Hampshire
+,
+Andover
+
+
+Chocolate box cottages and rolling hills surround Amport village in Hampshire where you'll find The Hawk Inn, a nine-room foodie paradise. Escape for a night or two and indulge in their modern British menu.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+145
+Night
+
+San Carlo Suites
+
+Italy
+,
+Syracuse
+,
+Noto
+
+
+San Carlo Suites is on the second floor of a 17th-century palazzo in the baroque city of Noto, Sicily. The 5 understated suites capture tradition and modernity.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+108
+Night
+
+The Wheatsheaf Inn
+
+United Kingdom
+,
+South West
+,
+Gloucestershire
+
+
+A stay at The Wheatsheaf Inn in the Cotswolds is all about the simple pleasures in life; real food, real ale and real comfort. This traditional coaching inn is just like staying in a small boutique hotel but a stay here is like being given a big hug.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+139
+Night
+
+Locanda Don Serafino
+
+Italy
+,
+Sicily
+,
+Ragusa
+
+
+Centuries of Sicilian history combines with stunning boutique accommodation at this unique hotel in Ragusa, Sicily. The 10 rooms at Locanda Don Serafino are a masterpiece of design, with many carved out of the rock centuries ago. The Locanda Don Serafino restaurant has 2 Michelin stars, and provides authentic Sicilian cuisine.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+96
+Night
+
+The Mill at Gordleton
+
+United Kingdom
+,
+Hampshire
+,
+Hordle
+
+
+Sitting alongside the river, The Mill is a pub with boutique hotel rooms in the hamlet of Gordleton, Hampshire. Whilst there is plenty to discover on its doorstep there is no need to venture further than the beautiful gardens and grounds, which have hidden places to sit and a secret garden full of art and sculptures.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+72
+Night
+
+Cala Ponte Resort & Spa
+
+Italy
+,
+Puglia
+,
+Bari
+
+
+Soak up your fill of sunshine, sea and spa and wash it all down with a spot of culture, at Cala Ponte Resort & Spa in Puglia. Just an hour from Bari or Brindisi airport, it's the ideal location for a few days escape by the pool.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+102
+Night
+
+Fellah Hotel
+
+Morocco
+,
+Marrakech-Tensift-El Haouz
+,
+Marrakech
+
+
+Vibrant and authentic, Fellah Hotel is a cool & contemporary hotel just outside Marrakech. Escape from it all and help out on the farm or zone out with some yoga; there's something for all ages at this hip hideaway.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+96
+Night
+
+The White Hart Overton
+
+United Kingdom
+,
+Hampshire
+,
+Overton
+
+
+Set in the charming village of Overton in Hampshire, The White Hart has been restored and is now a 12 room inn with boutique hotel rooms, restaurant and bar.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+106
+Night
+
+Japamala Resort
+
+Malaysia
+,
+Pahang
+,
+Tioman Island
+
+
+Japamala is a barefoot chic hideaway on the island of Tioman, just 45 minutes off the coast of mainland Malaysia. Made up of a collection of eco-friendly villas, wooden houses and sarangs this hip hotel and spa will appeal to the romantic and those with a sense of adventure looking for an authentic Malay experience.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

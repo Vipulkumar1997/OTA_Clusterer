@@ -1,0 +1,1167 @@
+
+Collections of boutique hotels and luxury villas from Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSPIRATIONS
+
+
+
+
+
+
+
+
+
+
+
+BUDGET BOUTIQUE HOTELS
+
+
+
+
+
+
+
+
+BEST OF BRITISH HOTELS
+
+
+
+
+
+
+
+
+
+
+BEST CITY HOTELS
+
+
+
+
+
+
+
+
+ROMANTIC HOTELS
+
+
+
+
+
+
+
+
+YOGA RETREATS
+
+
+
+
+
+
+
+
+
+
+SPA HOTELS
+
+
+
+
+
+
+
+
+CASTLE HOTELS
+
+
+
+
+
+
+
+
+
+
+PET-FRIENDLY HOTELS
+
+
+
+
+
+
+
+
+ECO HOTELS
+
+
+
+
+
+
+
+
+ART HOTELS
+
+
+
+
+
+
+
+
+
+
+CHIC LUXURY VILLAS
+
+
+
+
+
+
+
+
+SAFARI HOTELS & LODGES
+
+
+
+
+
+
+
+
+
+
+HOTELS FOR PARTY-PLANNERS
+
+
+
+
+
+
+
+
+WINTER SUN BREAKS
+
+
+
+
+
+
+
+
+INTERIOR DESIGN HOTELS
+
+
+
+
+
+
+
+
+
+
+ADULT-ONLY HOTELS
+
+
+
+
+
+
+
+
+OUR SMALLEST HOTELS
+
+
+
+
+
+
+
+
+
+
+HOTELS NEAR THE BEACH
+
+
+
+
+
+
+
+
+GOLF HOTELS
+
+
+
+
+
+
+
+
+UNIQUE HOTELS
+
+
+
+
+
+
+
+
+
+
+HOTELS FOR FAMILIES
+
+
+
+
+
+
+
+
+HOTELS FOR HONEYMOONS
+
+
+
+
+
+
+
+
+
+
+SKI HOTELS
+
+
+
+
+
+
+
+
+HOTELS WITH ACTIVITIES
+
+
+
+
+
+
+
+
+MOROCCAN RIADS
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBS WITH COSY ROOMS
+
+
+
+
+
+
+
+
+HOTELS WITH GREAT VIEWS
+
+
+
+
+
+
+
+
+
+
+HOTELS FOR WEDDINGS
+
+
+
+
+
+
+
+
+COUNTRYSIDE HOTELS
+
+
+
+
+
+
+
+
+BEST HOTEL BATHROOMS
+
+
+
+
+
+
+
+
+
+
+HOTELS WITH COOKERY COURSES
+
+
+
+
+
+
+
+
+TRADITIONAL HOTELS
+
+
+
+
+
+
+
+
+
+
+HOTELS IN THE MOUNTAINS
+
+
+
+
+
+
+
+
+DETOX HOTELS
+
+
+
+
+
+
+
+
+SECLUDED HOTELS
+
+
+
+
+
+
+
+
+
+
+HOTELS FOR AFTERNOON TEA
+
+
+
+
+
+
+
+
+HOTELS WITH THE BEST BEDS
+
+
+
+
+
+
+
+
+
+
+PARTY HOTELS
+
+
+
+
+
+
+
+
+HOTELS WITH THE BEST BREAKFAST
+
+
+
+
+
+
+
+
+HOTELS FOR CHEESE LOVERS
+
+
+
+
+
+
+
+
+
+
+HOTELS WITH HISTORY
+
+
+
+
+
+
+
+
+HOTELS FOR CULTURE LOVERS
+
+
+
+
+
+
+
+
+
+
+HOTELS FOR VEGETARIANS
+
+
+
+
+
+
+
+
+HOTELS FOR HIKERS
+
+
+
+
+
+
+
+
+HOTELS WITH KIDS CLUBS
+
+
+
+
+
+
+
+
+
+
+HOTELS FOR FOODIES
+
+
+
+
+
+
+
+
+HOTELS UNDER 3 HOURS FROM LONDON
+
+
+
+
+
+
+
+
+
+
+HOTELS FOR VEGANS
+
+
+
+
+
+
+
+
+CHRISTMAS MARKET BREAKS
+
+
+
+
+
+
+
+
+HOTELS WITH VINEYARDS
+
+
+
+
+
+
+
+
+
+
+HOTELS FOR UNDER £100
+
+
+
+
+
+
+
+
+HOTELS WITH TRUFFLE HUNTING
+
+
+
+
+
+
+
+
+
+
+HOTELS FOR SPECIAL DIETS
+
+
+
+
+
+
+
+
+HOTELS FOR SHOPPING
+
+
+
+
+
+
+
+
+INSTAGRAMMABLE HOTELS
+
+
+
+
+
+
+
+
+
+
+EXCLUSIVE USE ONLY
+
+
+
+
+
+
+
+
+HOTELS FOR STARGAZING
+
+
+
+
+
+
+
+
+
+
+CHILLED HOTELS
+
+
+
+
+
+
+
+
+LESS THAN AN HOUR FROM AN AIRPORT
+
+
+
+
+
+
+
+
+HOTELS WITH KITCHEN GARDENS
+
+
+
+
+
+
+
+
+
+
+ULTRA LUXURY HOTELS
+
+
+
+
+
+
+
+
+HOTELS SERVING ORGANIC FOOD
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE BED & BREAKFASTS
+
+
+
+
+
+
+
+
+HOTELS FOR HEALTHY EATERS
+
+
+
+
+
+
+
+
+HOTELS FOR SUN SEEKERS
+
+
+
+
+
+
+
+
+
+
+HOTELS WITH OUTDOOR HOT TUBS
+
+
+
+
+
+
+
+
+SELF-CATERING STAYS
+
+
+
+
+
+
+
+
+
+
+MEDICAL SPA HOTELS
+
+
+
+
+
+
+
+
+CHILD-FRIENDLY HOTELS
+
+
+
+
+
+
+
+
+MINDFULNESS RETREATS
+
+
+
+
+
+
+
+
+
+
+TRENDSETTING HOTELS
+
+
+
+
+
+
+
+
+IMPRESSIVE HOTELS
+
+
+
+
+
+
+
+
+
+
+HOTELS WITH THE BEST BATHTUBS
+
+
+
+
+
+
+
+
+WINTER SUN SPECIAL OFFERS
+
+
+
+
+
+
+
+
+CHIC TREATS
+
+
+
+
+
+
+
+
+
+
+LAST MINUTE FESTIVE BREAKS
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

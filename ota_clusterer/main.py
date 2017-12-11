@@ -12,7 +12,8 @@ logger = logger.get_logger()
 
 def get_crawled_data():
     crawler = Crawler()
-    crawler.main()
+    hostnames = crawler.get_hostnames()
+    crawler.crawl_hostnames(hostnames)
 
 
 def create_doc2vec_model():

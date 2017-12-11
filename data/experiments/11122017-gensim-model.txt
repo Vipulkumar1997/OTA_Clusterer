@@ -1,0 +1,45 @@
+# started read in at 14:00
+# 5 mins to read in files:
+
+
+INFO:__main__:Added 10924 documents to the english document corpus
+INFO:__main__:Added 6115 documents to the german document corpus
+INFO:__main__:start building Doc2Vec model
+INFO:gensim.models.doc2vec:collecting all words and their counts
+INFO:gensim.models.doc2vec:PROGRESS: at example #0, processed 0 words (0/s), 0 word types, 0 tags
+INFO:gensim.models.doc2vec:PROGRESS: at example #10000, processed 15120740 words (5922622/s), 124052 word types, 107 tags
+INFO:gensim.models.doc2vec:collected 129009 word types and 121 unique tags from a corpus of 10924 examples and 16089217 words
+INFO:gensim.models.word2vec:Loading a fresh vocabulary
+INFO:gensim.models.word2vec:min_count=1 retains 129009 unique words (100% of original 129009, drops 0)
+INFO:gensim.models.word2vec:min_count=1 leaves 16089217 word corpus (100% of original 16089217, drops 0)
+INFO:gensim.models.word2vec:deleting the raw counts dictionary of 129009 items
+INFO:gensim.models.word2vec:sample=1e-05 downsamples 4075 most-common words
+INFO:gensim.models.word2vec:downsampling leaves estimated 4697785 word corpus (29.2% of prior 16089217)
+INFO:gensim.models.word2vec:estimated required memory for 129009 words and 300 dimensions: 374295500 bytes
+INFO:gensim.models.word2vec:resetting layer weights
+INFO:__main__:model's vocubulary length: 129010
+INFO:__main__:start to train the model
+
+#start gensim model building at 14:05 
+INFO:gensim.models.word2vec:training model with 3 workers on 129010 vocabulary and 300 features, using sg=1 hs=0 sample=1e-05 negative=5 window=15
+INFO:gensim.models.word2vec:worker thread finished; awaiting finish of 2 more threads
+INFO:gensim.models.word2vec:worker thread finished; awaiting finish of 1 more threads
+INFO:gensim.models.word2vec:worker thread finished; awaiting finish of 0 more threads
+INFO:gensim.models.word2vec:training on 1608921700 raw words (469612781 effective words) took 7566.5s, 62065 effective words/s
+
+# start german model at 16:05
+INFO:__main__:start building Doc2Vec model
+INFO:gensim.models.doc2vec:collecting all words and their counts
+INFO:gensim.models.doc2vec:PROGRESS: at example #0, processed 0 words (0/s), 0 word types, 0 tags
+INFO:gensim.models.doc2vec:collected 121004 word types and 95 unique tags from a corpus of 6115 examples and 5418840 words
+INFO:gensim.models.word2vec:Loading a fresh vocabulary
+INFO:gensim.models.word2vec:min_count=1 retains 121004 unique words (100% of original 121004, drops 0)
+INFO:gensim.models.word2vec:min_count=1 leaves 5418840 word corpus (100% of original 5418840, drops 0)
+INFO:gensim.models.word2vec:deleting the raw counts dictionary of 121004 items
+INFO:gensim.models.word2vec:sample=1e-05 downsamples 4618 most-common words
+INFO:gensim.models.word2vec:downsampling leaves estimated 1947458 word corpus (35.9% of prior 5418840)
+INFO:gensim.models.word2vec:estimated required memory for 121004 words and 300 dimensions: 351044600 bytes
+INFO:gensim.models.word2vec:resetting layer weights
+INFO:__main__:model's vocubulary length: 121005
+INFO:__main__:start to train the model
+INFO:gensim.models.word2vec:training on 541884000 raw words (194938863 effective words) took 3423.8s, 56936 effective words/s

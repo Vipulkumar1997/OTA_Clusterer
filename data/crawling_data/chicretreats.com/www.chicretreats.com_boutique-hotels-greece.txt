@@ -1,0 +1,738 @@
+
+Boutique Hotels Greece | Luxury Greek Breaks | Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Greece
+
+
+Europe
+
+
+
+
+
+
+29
+Hotels
+
+Explore
+
+
+
+
+
+
+Sun-drenched and evocative, Greece’s landscape is one of remarkable history and unchecked natural beauty. Its sea-view suites, designer-styled boutique hotels and whitewashed villas are undoubtedly romantic, but there is much to explore beyond these bougainvillea-framed hideaways. From Crete’s stretches of pink-sand beaches to Santorini’s volcano-crafted caldera, the country is a feast for the senses: bask on unspoilt coastlines, dine on lavish spreads of island-grown produce and savour the Mediterranean’s most spectacular sunsets.
+
+
+
+
+
+
+
+
+Destinations in Greece
+
+
+
+
+
+
+
+
+
+
+Rhodes Hotels
+
+A treasure trove of ancient ruins, medieval cobbled street and fortified palaces, Rhodes is an open-air museum framed by azure waters – a haven for sun-seekers and budding archaeologists alike.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Athens Hotels
+
+Once the centre of the ancient Greek empire, Athens’ current incarnation is one of grace and grit. Locals are justifiably proud of their magnificent past, but the city’s present – embodied by boundary-pushing galleries and bustling street life – is just as captivating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Santorini Hotels
+
+Teetering from dramatic cliffs over an impossibly blue lagoon, Santorini’s whitewashed villages hide secluded villas, quirky boutique hotels and blissful plunge pools, all within easy reach of the island’s black, red and white volcanic-sand beaches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crete Hotels
+
+A seductive landscape of flourishing countryside, soft-sand beaches and undulating mountains, Crete is undeniably beautiful. Its charms are more than skin-deep: explore the island’s mythical history, Bronze Age artefacts and imposing fortresses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patmos Hotels
+
+Out-of-the-way Patmos rewards travellers with quiet walking trails, sheltered white-sand coves and hillside villages. Its spiritual heritage (one of the Gospels is thought to have been penned her) sets the tone for restorative, soul-soothing getaways.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Folegandros Hotels
+
+A secluded island surrounded by turquoise waters and dramatic end-of-the-world cliffs, Folegandros ticks all the right boxes for a romantic getaway: expect luxurious suites, pared-down villas and elegant beachside boltholes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mykonos Hotels
+
+A regular haunt of A-listers and international DJs, Mykonos’ party credentials rival those of Ibiza. A new crop of luxury boutique hotels is transforming the island, making the most of cobbled streets, pretty windmills and blissful summer heat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Messinia Hotels
+
+Messinia’s crystalline bays, sun-kissed beaches and lush countryside are breathtaking. Holidays in the Peloponnese are all about taking things slow: hide away in pampering spas and tranquil seaside retreats.
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Greece
+
+
+
+
+
+
+
+
+
+
+£
+56
+Night
+
+Nastasia Village Boutique Hotel
+
+Greece
+,
+South Aegean
+,
+Naxos
+
+
+Within walking distance of St George Beach, the main square and some of the island's main attractions, Nastasia Village Boutique Hotel can be found in Chora town, the capital of Naxos, Greece.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+131
+Night
+
+Senses Luxury Villas and Suites -  Elia
+
+Greece
+,
+South Aegean
+,
+Mykonos
+
+
+Perfect for couples, families or a group of friends looking for privacy and comfort in stylish surroundings the fully-equipped Senses Luxury Villas & Suites in Mykonos offer a choice of 1-4 bedroom with views of the Aegean Sea.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+1,306
+Night
+
+Senses Villa Ornos
+
+Greece
+,
+South Aegean
+,
+Mykonos
+
+
+Senses Villa Ornos is a 5 bedroom fully-equipped luxury villa on the southwest coast of Mykonos in the Cyclades Islands, Greece. Ideal for families and friends looking for a relaxing holiday in beautiful surroundings. Stay here if you want to enjoy laid back luxury and the magical beaches of Platis Gialos as well as the energy of Mykonos Town.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+104
+Night
+
+Patmos Aktis Suites & Spa
+
+Greece
+,
+South Aegean
+,
+Patmos
+
+
+Patmos Aktis Suites & Spa is a small chic hotel set back from the beach in a sheltered cove on the island of Patmos in Greece. Not as easy as some Greek islands to get to, but definitely worth the journey and one of our favourite hotels in Greece.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+ALL HOTELS IN Greece
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+FROM THE BLOG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHIC RETREATS
+
+Our Top 5 Greek Islands
+
+
+We all dream of a sunny break somewhere in the Greek Islands, but the sheer variety on offer can sometimes seem bewildering. To help you, here’s our guide to our Top 5 Greek Islands, giving a little glimpse of what each has to offer.
+
+
+
+
+
+
+Lulu Townsend
+
+Seven must dos in Santorini
+
+
+Santorini is one of the most beautiful Greek islands you can visit, offering sights and views like nowhere else, and surrounded by the glistening blue waters of the Aegean Sea. After visiting the island once, you’ll want to return time and time again to our boutique hotels in Santorini – it never disappoints.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

@@ -1,0 +1,684 @@
+
+New Hotels collection from Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEW HOTELS
+
+Inspiration
+
+
+
+Keep track of the hippest spots and hottest hideaways with the newest additions to the Chic family; these gorgeous, trendy boltholes are bursting with class and character. Cherry-picked for their unique atmosphere and interesting stories, a visit is an unforgettable experience.
+
+
+
+
+
+
+
+
+
+€
+441
+Night
+
+The Mandrake Hotel
+
+United Kingdom
+,
+England
+,
+London
+
+
+Just a few minute's walk from Oxford Street, The Mandrake is the newest boutique hotel in London to open and has 34 magnificent rooms and suites.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+125
+Night
+
+The Town House
+
+Spain
+,
+Andalucia
+,
+Malaga
+
+
+Finally a hip hotel in old town Marbella, The Town House is a contemporary and private boutique hotel. Beautifully designed, the interiors are fresh and cool giving a feeling of space and light.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+€
+198
+Night
+
+The One Barcelona
+
+Spain
+,
+Catalonia
+,
+Barcelona
+
+
+The One Barcelona is more than just a luxury hotel, it's an elegant oasis in one of the best parts of town. The 89 rooms & suites are bright and airy and the rooftop pool is the perfect sun trap.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+159
+Night
+
+Hotel Villa Ducale
+
+Italy
+,
+Sicily
+,
+Taormina
+
+
+This small Sicilian boutique hotel is one of Lulu's favourite Chic Retreats in Sicily. With stunning views across of Mount Etna and the coastline, Hotel Villa Ducale is just a few minutes from the historical town centre of Taormina.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+160
+Night
+
+Hotel Villa Carlotta
+
+Italy
+,
+Sicily
+,
+Taormina
+
+
+Hotel Villa Carlotta is a luxury boutique hotel situated in the most panoramic and peaceful area of Taormina. This is one of our Founder Lulu's favourite hotels in Italy.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+90
+Night/room
+
+Riad Noir d'Ivoire
+
+Morocco
+,
+Marrakech-Tensift-El Haouz
+,
+Marrakech
+
+
+Riad Noir d'Ivoire is one of the best luxury riads in the heart of the Marrakech Medina. Elegantly styled, this luxurious retreat has 2 heated pools, a hammam & treatment room, restaurant and a fully-licensed lounge bar where you can relax to the sound of live jazz.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+141
+Night
+
+The Saint John
+
+Malta
+
+
+The Saint John is a small luxury hotel in the heart of Valletta, Malta's capital city. The 21 rooms are luxurious, comfortable and feature the latest technology.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+145
+Night
+
+San Carlo Suites
+
+Italy
+,
+Syracuse
+,
+Noto
+
+
+San Carlo Suites is on the second floor of a 17th-century palazzo in the baroque city of Noto, Sicily. The 5 understated suites capture tradition and modernity.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+Dimora di Sicilia
+
+Italy
+,
+Sicily
+,
+Catania
+
+
+Dimora di Sicilia is a magical house for rent in the heart of Catania, Sicily. Sleeping up to 13 people this fresco-filled 18th-century building is an authentic Sicily experience like no other.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+200
+Night
+
+Banyan Tree Tamouda Bay
+
+Morocco
+,
+Tanger-Tetouan-Al Hoceima
+,
+Fnideq
+
+
+Banyan Tree Tamouda Bay is a luxury villa-only beach retreat on the north west coast of Morocco. With the Mediterranean sea lapping at its feet, it has a Mediterranean vibe and exudes Moroccan charm.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+140
+Night
+
+Maroc Lodge Boutique Hotel & Resort
+
+Morocco
+,
+Marrakech-Tensift-El Haouz
+,
+Amizmiz
+
+
+Maroc Lodge is a small luxury hotel near Marrakech in the High Atlas mountains. Enjoy spectacular views from the Berber-style pavilions that sit amid gorgeous landscaped gardens, gourmet cuisine and treatments in the hammam & spa.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+124
+Night
+
+No.131 The Promenade
+
+United Kingdom
+,
+Gloucestershire
+,
+Cheltenham
+
+
+Every detail in the 11 bedrooms at No.131 is on point, from the Egyptian cotton bed linen to the roll top baths and original artworks. This Cheltenham hideaway is close to perfection.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

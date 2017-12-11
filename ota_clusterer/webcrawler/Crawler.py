@@ -19,6 +19,7 @@ class Crawler:
             for row in reader:
                 hostname = row[0].replace('http://www.', '')
                 hostname = hostname.replace('https://www.', '')
+                hostname = hostname.strip('/')
                 hostnames.append(hostname)
 
         return hostnames
@@ -38,8 +39,9 @@ class Crawler:
 
 def main():
     crawler = Crawler()
-    hostnames = crawler.get_hostnames()
-    #hostnames = ['agoda.com']
+    #hostnames = crawler.get_hostnames()
+    crawler.set_obey_robotstxt_false()
+    hostnames = ['bookerclub.com', 'hoteliers.com', 'lonelyplanet.com', 'musement.com', 'schwyz-tourismus.ch', 'st.gallen-bodensee.ch']
     crawler.crawl_hostnames(hostnames)
 
 

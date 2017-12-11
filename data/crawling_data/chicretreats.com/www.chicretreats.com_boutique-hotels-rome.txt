@@ -1,0 +1,662 @@
+
+Boutique Hotels Rome | Luxury Hotels & B&Bs; Rome, Italy
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Rome
+
+
+Europe
+,
+Italy
+
+
+
+
+
+
+14
+Hotels
+
+Explore
+
+
+
+
+
+
+Homeland of the ancients, Rome brims with historical ruins and intrigue. Curious travellers could spend days here flitting from Renaissance chapels to splashing centuries-old fountains. It’s not all coliseums, catacombs and cosseting boutique hotels however: the Italian capital’s hole-in-the-wall trattorias and family-run gelaterias will ensure you don’t leave the city hungry.
+
+More about Rome.
+
+
+
+
+When to go
+
+The summer heat can be stifling, so for pleasant climes and room to roam visit in early summer or late autumn. Don’t be put off by Rome’s notorious wet winters ㅡ they’re usually mild, and the perfect excuse for a spot of museum-hopping.
+
+Food & Drink
+
+The Italian capital is renowned for its artichokes, which have been rubber-stamped by the EU for deliciousness. Try them in a light crispy batter at Nonna Betta in the Jewish quarter, or as a tasty antipasto. You’d be remiss for not checking out the local pizza joints; stop by Pizzeria da Baffetto for wafer-thin specimens.
+
+Not to miss
+
+Indulge your senses in the Garden of Oranges, where fragrant citrus trees set the scene for breathtaking city views.
+
+
+
+Nightlife
+
+Italians tend to dine late, so don’t be surprised if the bars don’t fill up before 10pm. You’ll be spoilt for choice when it comes to late-night haunts. Try to squeeze in a visit to Il Goccetto, an authentic wine bar in a former medieval bishop’s house serving delicious
+vino rosso
+.
+
+Where to stay in Rome
+
+At the heart of the action, Piazza Navona hosts sensitively restored historical digs; Trastevere is handy if you’re planning a Vatican visit. Museum hounds and art fiends should bunk down near Piazza di Spagna (the local gelaterias aren’t bad, either).
+
+How to get there
+
+Rome has two airports, Ciampino and Leonardo da Vinci Fiumicino, both of which serve daily domestic and international flights.
+
+
+
+Read less
+
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Rome
+
+
+
+
+
+
+
+
+
+
+£
+82
+Night
+
+Rome Times Hotel
+
+Italy
+,
+Lazio
+,
+Rome
+
+
+We love this design hotel right in the heart of Rome, on Via Nazionale. Modern, soundproofed rooms with spacious bathrooms make Rome Times Hotel the perfect base for exploring Rome.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+92
+Night
+
+The Tribune Hotel
+
+Italy
+,
+Lazio
+,
+Rome
+
+
+The Tribune Hotel is a contemporary hotel just a few steps away from the Villa Borghese gardens and Via Veneto, in the heart of the historical centre of Rome. Great for couples who don't want to spend a fortune.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+209
+Night
+
+Buonanotte Garibaldi
+
+Italy
+,
+Lazio
+,
+Rome
+
+
+Sometimes a luxury boutique hotel is too much and we just want to find a small chic B&B which we can call home for a few days. Buonanotte Garibaldi is exactly that, hidden away in the Trastevere in Rome.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+679
+Night
+
+Town House
+
+Italy
+,
+Lazio
+,
+Rome
+
+
+Town House is a stunning 5 bedroom apartment in Rome with its own terrace near Piazza Navona. In an enviable quiet location, this private palazzo is the perfect alternative to a luxury hotel in Rome.
+
+
+
+BOOK
+
+
+
+
+
+
+ALL HOTELS IN Rome
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+FROM THE BLOG
+
+
+
+
+
+
+
+
+Chic Retreats
+
+Our Three Day Roman Experience
+
+
+Welcome to our guide to three days experiencing the Eternal City, packed with everything that makes it great - art, fine dining, history, shopping and, of course, gelato. Come, live la dolce vita with us!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHIC RETREATS
+
+5 reasons to visit Rome this winter
+
+
+Rome is a destination which is well worth visiting at any time of the year, but is arguably at its best in winter. Here’s why...
+
+
+
+
+
+
+Lulu Townsend
+
+Exploring Rome: a guide to family-friendly attractions in the Italian capital
+
+
+For families looking to get the most out of Rome and their holiday, we take a look at five great attractions which will entertain all ages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

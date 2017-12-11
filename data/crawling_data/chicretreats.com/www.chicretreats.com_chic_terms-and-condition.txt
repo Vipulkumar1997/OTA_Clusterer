@@ -1,0 +1,473 @@
+
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TERMS AND CONDITIONS
+
+
+
+
+
+
+
+Privacy Policy
+Chic Lifestyle Limited, trading as Chic Retreats™ with website
+www.chicretreats.com
+, respects your right to the privacy of the personal information you provide us on our website. Chic Retreats takes your privacy very seriously, and complies with UK data protection law. Unless you specify otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to Chic Retreats will not be divulged to third parties without your permission unless where required by law. However, we may make use of your personal details in the following ways:
+1. We collect basic technical information about visitors to our site, in particular the gateway from which they have accessed the site and the pages they are looking at. We may group this data in a way which can be shared with third parties, but we will not disclose your identity or personally identifiable information about you without your permission.
+2.
+COOKIES allow us to improve the website's content, functionality and speed, while their tracking ability also helps us to understand your likes and dislikes, which means we can respond quickly and adapt the site accordingly.
+At CLL, we use Cookies because it's important to us that the time you spend on our website, is as useful and intuitive as possible.
+In fact without a Cookie placement, the website cannot remember your preferences or registration details for your next visit. For example, by allowing us to place Cookies in your web browser, you don't have to remember your username each time you sign in – a Cookie helps us to remember that information for you.
+Cookies also allow us to highlight what destinations that visitors like you are also interested in. Once we know that, we can show you what's hot and what's not in terms of deals and destinations. The important thing to remember about Cookies is that whilst some Cookies are used to track your use of our website, they cannot be used to identify you personally or tell us who you are.
+3. Lastly, we collect email details in order to distribute newsletters and announcements about Chic Retreats, but we will not share them with third parties.
+4. When making a hotel request through the Chic Retreats website your name and contact details may be shared with the property you have requested and with our reservations department to enable them to deal with your request.
+5. PLEASE NOTE: We do NOT store any credit card details at any time during the payment process. All payment details are entered into our secure payment provider site through a frame on our site.
+Other personal information
+The only personal information we may make public about you is that which you choose to submit when you contribute material to us. This is given on a voluntary basis purely as a way to let others know a little bit about the source of the material, but will not include your email address nor any other contact details except where you have given us your permission.
+By using our website, you consent to the collection and use of this information by Chic Retreats. If we change our privacy policy we will post any amendments on this page.
+Chic Retreats reserves the right to modify these Terms of Use and its Privacy Policy, and continuing access to the Site will be subject to those then current. We suggest you check these pages at regular intervals if using the Site.
+The information, documentation and data ("Information") contained in this site has been prepared solely for the purpose of providing information about Chic Retreats and the services that it offers. We try to ensure that information contained on the site is accurate and up to date. However you should always verify the information before relying on it and we do not warrant or give any representations as to its accuracy.
+Chic Retreats shall not be liable for any loss which may arise from the use of the Information. Chic Retreats shall not be liable for any disappointment, dissatisfaction, loss, damage, expense or inconvenience suffered by any Chic Retreats client at any hotel represented on the site. Chic Retreats cannot accept responsibility where a hotel discontinues offers. Benefits and/or discounts are valid once per booking made and hotels are only obliged to fulfil these benefits but only on presentation of a valid Chic Retreats membership card.
+Terms of Use
+Definition
+The Site is an advertising platform for boutique hotels, luxury b&bs and villas. Where we are invovled in the booking process we act only as an agent for the property.
+Conditions of Access
+Access to the Site is free, but personal details are required to make hotel bookings. By submitting your personal details, you agree to comply with Chic Retreats's Terms of Use and Privacy Policy which shall prevail over any other terms or conditions contained or referred to in any other document and all such other terms and conditions are expressly excluded.
+You agree not to make bookings under a false identity. You also agree to respect the terms of the Chic Retreats Privacy Policy, and in no circumstances to alter the content of the Site.
+NOTICE: BY ACCEPTING A BOOKING YOU AGREE TO THE DEPOSIT, RATE, CANCELLATION POLICY AND TERMS OF USE OF THE PROPERTY. YOU MUST READ AND UNDERSTAND EACH PROPERTY'S TERMS PRIOR TO MAKING A BOOKING THROUGH US.
+Chic Retreats reserves the right to exclude, at its sole discretion, temporarily or indefinitely, any user for any reason, including breach of any of these Terms of Use or non-compliance with any UK or EU laws or regulations.
+Copyright and Trademark Notice / Intellectual Property Rights
+All content, including but not limited to trademarks and taglines identifying us or our affiliates, graphics, images, content, button icons, and service names are solely our property, that of our operating companies, or others. All content on this Site is protected by national and international copyright laws and treaties. Nothing on this Site should be construed as granting a licence or right to use any trademark displayed on this Site, without the written permission of the trademark owner.
+Other than browsing and using the Site for its intended purpose, you may not in any way duplicate, distribute, modify, remove, delete, add to, publish, transmit, or in any way exploit any of the content of this Site, in part or in whole, except when expressly authorised in writing by us.
+You may not use our logo for any purpose whatsoever, unless the intended use of the logo is to promote the services of this Site or approved by us in writing.
+We reserve the right to seek all remedies available at law, in equity or under international copyright laws for violations of these Legal Terms, including the right to block access from a particular internet address to the Site.
+Linking to our Site
+If you wish to link to our Site for commercial purposes, please feel free to do so. We may consider linking back if we like your services or if they compliment ours.
+Limitation of liability
+The Site is provided on an 'as is' and 'as available' basis. Chic Retreats makes no representations or warranties, and hereby excludes all warranties, express or implied, as to the quality, accuracy, feasibility or credibility of the content of the Site, the services available on or through the Site, or of any goods offered on the Site. Moreover Chic Retreats accepts no liability for any virus or any other type of electronic infection that may be transferred through the Site. Under no circumstance will we be liable for any loss or damage caused by a user's reliance on information obtained through this Site.
+You agree as the user that the use of, or reliance upon, any of the content of the Site, and in particular any content recommending any hotel, product or service, is done entirely at your risk. Please see our Booking Terms and Conditions in respect of hotel bookings made through Chic Retreats.
+1. The following provisions set out Chic Retreats 's entire liability (including any liability for the acts and omissions of its employees and agents) to you in respect of:
+1.1. any breach of its contractual obligations arising under the Terms of Use; and
+1.2. any representation statement or tortious act or omission including negligence arising under or in connection with the Terms of Use; AND YOUR ATTENTION IS IN PARTICULAR DRAWN TO THE PROVISIONS OF THIS SECTION.
+2. Any act or omission on the part of Chic Retreats falling within clause 1 above shall for the purposes of this section be known as an "Event of Default".
+3. Chic Retreats 's liability to you for death or injury resulting from its own or that of its employees' negligence shall not be limited.
+4. Subject to the provisions of clause 3 above Chic Retreats 's entire liability in respect of any Event of Default shall be limited to damages of an amount equal to any fee paid by you pursuant to the terms of the Terms of Use.
+5. Subject to clause 3 above Chic Retreats shall not be liable to you in respect of any Event of Default for:
+5.1. loss of profits, business, contracts, revenues, anticipated savings or goodwill; or
+5.2. any type of special indirect or consequential loss (including loss or damage suffered by you as a result of an action brought by a third party) even if such loss was reasonably foreseeable or Chic Retreats had been advised of the possibility of you incurring the same;
+5.3. for any increased costs or expenses.
+6. Moreover Chic Retreats accepts no liability for any virus or any other type of electronic infection that may be transferred through the Site.
+7. If a number of Events of Default give rise substantially to the same loss then they shall be regarded as giving rise to only one claim under the Terms of Use.
+8. Nothing in this section shall confer any right or remedy upon you to which it would not otherwise be legally entitled.
+9. Chic Retreats shall not be liable to any third party in respect of any tortious act or omission including negligence resulting from the Terms of Use for:
+9.1. loss of profits, business, contracts, revenues, anticipated savings or goodwill; or
+9.2. any type of special indirect or consequential loss suffered by a third party even if such loss was reasonably foreseeable.
+10. Chic Retreats indicates "from" rates on the website. These are only inidcative prices and not final prices. The customer can request rates and availability by completing the request form for each hotel. The hotel is responsible for using the request manager to provide the latest rates and availability to the customer. Chic Retreats accepts no responsibility for the rates and availability provided by the hotel and is merely a conduit of the information. By using the Chic Retreats service you accept and understand that Chic Retreats only relays messages provided by the hotel and does not warrant or ensure that the pricing is correct.
+11. Prices and availability provided by the hotel are subject to change at any time because the request system that Chic Retreats employs is an asynchronous system. Chic Retreats does not warrant the the offers made by the hotels are still available at the time the customer decides they want to book the room. Once the customer indicates interest in booking the room at the price suggested, then Chic Retreats works with the hotel to secure the booking.
+Other sites
+Chic Retreats may contain links to other websites on the internet. We cannot control and are not responsible for the privacy practices or content of such other websites, and accept no liability for their content or fitness for use.
+General
+Chic Retreats does not assume any responsibility for failures or technical defects which occur due to events outside of its control.
+Severability
+If at any time any provision of these Terms of Use are or become invalid or illegal in any respect, such provision shall be deemed to be severed from these Terms of Use but the validity, legality and enforceability of the remaining provisions of these Terms of Use shall not be affected or impaired.
+These Terms of Use shall be governed by and construed in accordance with English law and you and Chic Retreats irrevocably agree that the English courts are to have exclusive jurisdiction to settle any disputes which may arise out of or in connection with these Terms of Use and Privacy Policy.
+Delivery Policy
+We use either TNT Express or Royal Mail to deliver our books. We are dependent on their delivery timeframes but typically all deliveries are done within one month of payment.
+Cancellation Policy
+We, our customers and members must abide to the specific cancellation policies of each individual property. We will always make the Property's Cancellation Policy clear and will request that you review this policy on our website as part of the booking process. In some instances we may charge a cancellation fee. Cancellation Fees will be charged at our own discretion.
+Our Price Match Promise
+If you find your stay cheaper elsewhere we will price match and give you £50 towards your next stay with Chic Retreats.
+We are confident in our price match promise because we ask all of our hotel partners to make that promise to us. To get the benefit of our best-price promise and claim your £50 off your next Chic Retreats stay you need to show us a competitor's price which is quoted on a like-for-like basis, so that price needs to include the following:
+be quoted in the hotel’s local currency, including fees and taxes. The rate must exclude any card fees and must not have been calculated using a currency converter.
+apply to the same hotel, dates, room type (including the same number and size of beds), number of guests.
+be subject to the same booking and cancellation policies.
+not be based on rates quoted on websites that can’t confirm the booking and accept payments (e.g. websites that link to third party websites or resale websites)
+be generally available to the public at large. It must not be a special rate as part of a package nor be part of specially negotiated rates, such as travel agent, staff, corporate or membership rates, or rates that are only available to subscribers to or members of a website.
+not be calculated with the inclusions of vouchers, coupons or other promotional offers.
+To claim you must contact us before you have checked in, and do so by contacting our reservations team with evidence of a competitor's price within 72 hours of making your Chic Retreats booking.
+Questions?
+If you have any further questions or concerns about these pages, please send them to
+reservations@chicretreats.com
+or by post to our registered address at 6 Percy Street, Fitzrovia, W1T 1DQ, United Kingdom.
+
+
+
+
+
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

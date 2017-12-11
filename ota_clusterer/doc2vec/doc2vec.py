@@ -4,7 +4,7 @@ import glob
 from ota_clusterer import settings
 import time
 from ota_clusterer.doc2vec.plots import plots
-from ota_clusterer.doc2vec.preprocessing import  preprocessing
+from ota_clusterer.doc2vec.preprocessing import preprocessing
 import numpy as np
 from ota_clusterer import logger
 import re
@@ -166,11 +166,10 @@ def cleaning_path_out_of_folder_name(folder_name):
 
 
 def main():
-    #create_new_doc2vec_model()
-
+    # create_new_doc2vec_model()
     # get doc2vec similarities
-    doc2vec_model = load_existing_model('doc2vec-model-english-04-Dec-2017-19:04:20')
-    print(get_doc_similarities(doc2vec_model, 'ltur.com'))
+    doc2vec_model = load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
+    print(get_doc_similarities(doc2vec_model, 'booking-valais.ch'))
 
 
 if __name__ == "__main__":

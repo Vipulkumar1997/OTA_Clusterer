@@ -1,0 +1,219 @@
+Kartu As Credit
+warning
+This site needs Javascript. Please activate Javascript to continue.
+Promos
+Retrieve Booking
+IDR
+My Account
+Flights
+Hotels
+Trains
+Flight + Hotel
+Top-Up & Data Packages
+Attractions & Activities
+Enter Destination Number
+Make sure your prepaid mobile or BOLT! number is entered correctly.
+Choose Product
+Top-Up
+Data Package
+When purchasing data packages, the destination number must not be within the grace period.
+Details:
+The product details will be shown here.
+
+Buy Now
+Pulsa & Internet
+>
+Pulsa
+>
+Kartu As
+
+Kartu As Credit
+
+
+
+
+
+Credit Transfer with Kartu As
+Check Your Kartu As Credit Balance
+How to Buy Kartu As Credit on Traveloka App
+Emergency Credit by Kartu As
+About Kartu As
+Kartu As Phone Credit
+Credit
+
+Simpati Top-Up
+Kartu As Top-Up
+XL Top-Up
+IM3 Top-Up
+Telkomsel Top-Up
+Indosat Top-Up
+Mentari Top-Up
+Axis Top-Up
+Tri Top-Up
+BOLT! Top-Up
+Smartfren Top-Up
+Loop Top-Up
+Data Package
+
+Simpati Data Package
+Kartu As Data Package
+XL Data Package
+IM3 Data Package
+Telkomsel Data Package
+Indosat Data Package
+Mentari Data Package
+Axis Data Package
+Tri Data Package
+BOLT! Data Package
+Loop Data Package
+
+
+
+Credit Transfer with Kartu As
+
+As a part of Telkomsel family, Kartu As also comes with Credit Transfer feature. The Credit Transfer is available for Kartu As users to send and receive credit from other Telkomsel members using Kartu As, Simpati, and Loop.
+
+By using this feature, you can help other Telkomsel users in need during emergency situations. Besides working as an emergency credit provider, the Credit Transfer feature in Kartu As can also work as a gift for your closest acquaintance. Who would not be thankful for free phone credit?
+
+This feature allows you to send a certain amount of credit from your Kartu As to other Telkomsel number. As how it is with money transfer in banking, the system will deduct your balance after the transaction, to be transferred into the recipient’s number.
+
+How to Transfer Credit Among Kartu As and Telkomsel Users
+
+To make a credit transfer to other Telkomsel user, there are at least 3 easy ways available. Feel free to use whichever you find easiest:
+
+1. USSD Code *858*
+
+Go to your dial screen and input the code *858*recipient number for the credit transfer*amount of credit you wish to transfer#. For example, if you want to transfer Kartu As credit to 085234567894 of IDR 5,000, you can type *858*085234567894*5# on your dial screen.
+
+Once you are sure to have typed the correct codes, click ‘OK/Yes’ and a pop up page will show on your screen to confirm your request. Follow the instruction to confirm and finish your transaction.
+
+2. USSD Code *858*1#
+
+Still using the dial screen, you can transfer credit with this second method. Type the code *858*1# and click ‘OK/Yes’. A pop up page will come up on your screen and request you to input the recipient mobile number, followed by the amount of credit to be transferred. After completing all the necessary information, you will receive a notification message to confirm. You can reply by typing ‘1’ to agree. Lastly, wait for another notification message from 858 about your transaction report (succeeded/not succeeded).
+
+3. SMS
+
+To transfer credit using SMS, customers have to send a text message to the credit recipient number saying ‘TPULSA(space)amount of credit transferred’. For example, if you want to transfer Kartu As credit to 085234567894 of IDR 5,000, you can type TPULSA 5000, and send that text to 085234567894.
+
+How to Transfer Credit from Kartu As to Other Providers
+
+Unfortunately, Credit Transfer service from Kartu As to other provider beside Telkomsel is unavailable.
+
+Terms and Conditions for Credit Transfer with Kartu As
+
+
+The Credit Transfer service is only available between Telkomsel users. You can transfer credit to other Telkomsel users, Simpati, and Loop.
+
+Your end balance after doing the credit transfer must be at least minimum IDR 5,000.
+
+The minimum amount to transfer is IDR 5,000. The total number of transfer transaction per day should not exceed IDR 1,000,000 or 100 transactions.
+
+Customers doing credit transfer only need to write the amount of credit without the comma before the thousand(s), for example: ‘10’ or ‘10000’, not ’10,000’ or ‘IDR 10,000’
+
+The mobile number of both sender’s and recipient’s must be in their activation period.
+
+Recipient whose number is undergoing a grace period should top up their card before being able to receive credit transfer.
+
+The administration charge for credit transfer is IDR 1,500 per transaction and will be borne by the sender.
+
+Credit received through transfer will not extend the activation or grace period of the sender or recipient.
+
+
+Check Your Kartu As Credit Balance
+
+Every time you want to check the credit balance on your Kartu As, you can directly check your balance from your phone. In general, people will check their Kartu As balance by inputting USSD code (which is automatically saved into your Kartu As SIM contacts). Another way to check your balance is by going through the application. Without having to access via  desktop, Kartu As has provided a website to check your balance that accessible from your smartphone.
+
+Please also find the detail descriptions below for each option to check your balance:
+
+Check Your Kartu As Balance Through Mobile
+
+- Access the USSD code *888#: This is the simplest way to check your Kartu As balance. You only need to type this code of *888# on your dial up screen and click ‘OK/Yes/Dial’. Once you’ve dialed this number, your screen will show a pop up page containing your latest balance and the activation period of your card.
+
+- Phone the operator on 888: For this step, you will be automatically connected to a voice operator. The system operator will directly provide the information for your Kartu As end balance, with the activation and grace period of your SIM card.
+
+- MyTelkomsel App: MyTelkomsel is an independent mobile app that allows you to access Telkomsel services through your Android and iOS phones. Every time you access their application, the homepage will show your end balance. To be able to enjoy this convenient app, you can simply download them through your Play Store (Android) and App Store (iOS). Once the app opens, login  by using your Kartu As number. Ensure to register as as MyTelkomsel member by using your mobile number and filling in your full name as shown in your ID card.
+
+- Customer Services: Telkomsel provides two customer services. The first number is 155, a customer services operated by the system. You can contact this number to check your balance and follow the instructions given by operator until you are able to find the option to check your balance. On the other hand, another number you can dial is 188, which is the Call Center Caroline (Customer Care Online of Telkomsel). Through this number, you can check your balance and deliver your queries directly to a customer server. The cost to dial 188 is IDR 300 per call.
+
+How to Check Your Balance Through Mobile, Tablets, Laptops, or Desktop
+
+The best way to check your balance online is by accessing MyTelkomsel official website and log in with your number on the provided column. Once you are logged in with your number, you will be redirected to your MyTelkomsel account page which shows your card information, including your balance. If you are not yet registered as member, the web will ask you to input your full name after you input your mobile number.
+
+How to Buy Kartu As Credit on Traveloka App
+
+Before you are able to access the Kartu As credit online services on Traveloka, make sure you already have the latest version of Traveloka App (version  2.9.2). The top-up and data packages service is available both on Android and iOS. .
+
+Once you have the application installed on your smartphone, open up the ‘Top-up & Data Packages’ menu on Traveloka App homepage, tap on “Top-up” and input your Kartu As number with the amount of credit desired. The amount of Kartu As credit available in Traveloka is IDR 10,000 up to IDR 1,000,000.
+
+The next step you have to do is to confirm your transaction and process your payment. Once you have completed the payment through various methods on Traveloka App, and your Kartu As credit will be reloaded within seconds.
+
+Emergency Credit by Kartu As
+
+Aside from Credit Transfer, Kartu As also gives Emergency Credit service. This feature allows Kartu As users to receive credit from fellow Telkomsel users (Kartu As, Simpati, and Loop) during emergency situations. For example, when you needto make an important call and you don’t have enough credit, or you can’t find top-up sellers nearby.
+
+To be able to access Emergency Credit from Kartu As, you can type the USSD code *858*2# on your dial screen. Once you’ve dialed the number, your screen will show a pop up page that will ask you input the number of Telkomsel donators (the person who will share you their credit), followed by the amount of credit needed. When the system asks for confirmation, make sure to check again the right number and amount written, and reply with ‘1’ if you think the numbers are correct. Later on, the system will inform your request to the donator and the donator will accommodate your request by transfer some credit to your number, as needed, or even more.
+
+In order to access this Emergency Credit service, customers must at least have IDR 100 on their end balance which will be deducted by the system for administration fee. The amount of Emergency Credit you can ask is between IDR 5,000 to IDR 100,000 (any amount multiples of thousands). Besides, make sure to check both your number and donator’s number to be in their activation period. The writing format to request the credit is the same with Credit Transfer. This transaction will not extend yours or donator’s card activation period.
+
+About Kartu As
+
+Kartu As is a prepaid GSM provider under Telkomsel. Telkomsel launched the brand in 2004, the year of affordable mobile providers born. Kartu As is an economical version of Telkomsel, which means Kartu As’ signal and network is on par with fellow Tekomsel brand, but with cheaper tariffs and package.
+
+One of the uniqueness of Kartu As is its activation period. In general, the activation period of a mobile number depends on the number of top-ups you have done. For Kartu As, the activation period is depending on the number of usage. When a Kartu As number has been used to make phone calls or SMS for once within a period of 30 days, the activation period will still be valid until the next period.
+
+Speaking of Kartu As’ affordability, the brand offers various types of number and packages with each comes different strong points and benefits. One would be great for phone call or SMS, one would be great for internet, and one would be great for all services.
+
+For cheap phone packages, one of Kartu As’ top services is the ‘Jagoan Seru’ and ‘WOW’. These are packages which allows you to easily make phone calls and send SMS as many times as you like for IDR 1,000. Shall a customer wishes for a larger quota of phone calls and SMS, Kartu As has the ‘Jagoan Serbu Double Kuota’.
+
+For internet, Kartu As offers special number with an attractive internet package. Kartu As ‘Kenyang Internetan’ and ‘Perdana Internet Flash’ offers affordable internet package from IDR 5,000 per week. There is also a package called ‘Paket Puas Internetan’ with only IDR 30,000. Kartu As also offers the ‘Gigamax’ package for customers who uses internet for online streaming.
+
+Kartu As Phone Credit
+
+Kartu As is a prepaid GSM number under Telkomsel company. Kartu As was established by Telkomsel to meet customers’ needs in having a cheap mobile provider with strong, unlimited signals.
+
+Now, all Kartu As users can top up their credit using Traveloka App. By buying your Kartu As credit online, especially using Traveloka App, surely would add up to customers’ convenience during mobile transaction.
+
+By using Traveloka App, not only does it give you a wide range of credit  to purchase, you can also buy it anytime and anywhere without needing to worry about street sellers or conventional shops opening hours. The purchasing process using Traveloka App is super easy and convenient, with various payment options and a guaranteed lower price than the market.
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+Customer Service
+0804-1500-308
+About Traveloka
+How to Book
+Contact Us
+Help Center
+Careers
+Installment
+Others
+Blog
+Newsletter Subscription
+Privacy Policy
+Terms & Conditions
+Register Your Hotel
+Traveloka Press Room
+Products
+Flights
+Hotels
+Trains
+Flight + Hotel
+Top-Up & Data
+Attractions & Activities
+Download Traveloka App
+Payment Partners
+Follow us on
+Copyright © 2017 Traveloka
+?
+Need help?
+evtbvsrwfq

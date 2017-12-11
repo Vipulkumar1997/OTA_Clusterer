@@ -1,0 +1,768 @@
+
+Special offers - boutique hotels and luxury villas from Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+Up to 20% off
+
+
+
+£
+199
+Night
+
+Argentario Golf Resort & Spa
+
+Italy
+,
+Tuscany
+,
+Grosseto
+
+
+Argentario Golf Resort & Spa is unlike any other luxury hotel in the Maremma, Tuscany. This stunning contemporary hotel has been created using local stone, wood and glass to create a masterpiece of design.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+Weekend Offers
+
+
+
+£
+440
+Night
+
+THE VIEW Lugano
+
+Switzerland
+,
+Lugano
+
+
+Not only has THE VIEW Lugano introduced a brand new boutique hotel concept to the city of Lugano, but also to Europe: to enjoy the feeling of being on a luxury yacht in the middle of a city.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+Package Offers
+
+
+
+£
+469
+Night
+
+Castello Banfi il Borgo
+
+Italy
+,
+Tuscany
+,
+Siena
+
+
+Castello Banfi il Borgo is a luxury boutique hotel on an award-winning winery & vineyard in Brunello, Tuscany. At stay here is all about fine wine and great food in a stunning castle setting where you can relax by the pool or enjoy some pampering in the spa.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+10% Off
+
+
+
+£
+157
+Night
+
+Palazzo Niccolini
+
+Italy
+,
+Tuscany
+,
+Florence
+
+
+You couldn't find a luxury hotel closer to the Duomo in Florence than Palazzo Niccolini if you tried!  Owners Filippo and Ginevra Niccolini di Camugliano have recently renovated the palazzo transforming it into one of the loveliest historical boutique hotels in the centre of Florence. The area surrounding the Duomo has become a pedestrian zone making it one of the quietest and cleanest locations in the city.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+15% Off
+
+
+
+£
+79
+Night
+
+Hotel Gran Claustre
+
+Spain
+,
+Catalonia
+,
+Tarragona
+
+
+Hotel Gran Claustre, restaurant and spa, is one of the best small luxury hotels near Tarragona. It is located in the medieval town centre of Altafulla, in Catalonia, north east Spain. The beach is only 5 minutes away making it the perfect Chic Retreat for relaxing as well as exploring the Costa Dorada region.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+Stay Longer Offer
+
+
+
+£
+192
+Night
+
+Anantara Seminyak Bali Resort
+
+Indonesia
+,
+Bali
+,
+Seminyak
+
+
+From Anantara Seminyak Bali Resort you can dive into the island's culture, dip in and out of Seminyak's nightlife or sit by the infinity pool and soak up the sun. This all-suite luxury hotel in Bali is situated right on the beach in one of the most sought after locations in Bali.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+25% Off
+
+
+
+£
+242
+Night
+
+The Bale
+
+Indonesia
+,
+Bali
+
+
+The Balé is a luxury boutique hotel in Bali, situated in Nusa Dua. Featured in the HOT LIST of Conde Nast Traveller as one of the best boutique and spa hotels in the world.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+Up to 10% Off
+
+
+
+£
+139
+Night
+
+Villa Samadhi Kuala Lumpur
+
+Malaysia
+,
+Kuala Lumpur
+
+
+Just 10 minutes from Kuala Lumpur's city centre the 21 room Villa Samadhi is the ideal boutique hotel for you to choose if visiting KL for business or if you are flying in for a night before reaching your final destination.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+10% Off
+
+
+
+£
+175
+Night
+
+Il Falconiere & Spa
+
+Italy
+,
+Tuscany
+,
+Cortona
+
+
+Il Falconiere is a charming small boutique hotel in Tuscany. Set between a 17th-century stone villa, chapel and cottage - enjoy wonderful views over Cortona from the outdoor pool, traditional Tuscan cuisine in the Michelin-star restaurant and luxurious treatments in the spa.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+Up to 30% off
+
+
+
+£
+146
+Night
+
+Hotel Lumen Paris Louvre
+
+France
+,
+Ile de France
+,
+Paris
+
+
+A short walk from the Champs Élysées and Place Vendome, Hotel Lumen Paris Louvre is a luxury hotel in Paris. Designer interiors and warm hospitality make this 38 room Chic Retreat the perfect choice for couples, business travellers and those who love to shop.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+10% off 3 nights or more
+
+
+
+£
+221
+Night
+
+Hotel Brunelleschi
+
+Italy
+,
+Tuscany
+,
+Florence
+
+
+Hotel Brunelleschi is no ordinary luxury hotel in Florence; it's the only hotel in Florence that has been created from a circular Byzantine Tower and medieval church and it's just a few minutes walk from Piazza della Signoria.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+15% Off
+
+
+
+£
+100
+Night
+
+No.38 The Park
+
+United Kingdom
+,
+Gloucestershire
+,
+Cheltenham
+
+
+No.38 The Park is a 13-room Georgian townhouse in the heart of the spa town of Cheltenham. Perfect for a weekend or midweek escape, it's available for private hire. This Chic Retreat is an excellent choice for celebrations with friends and family, and is dog-friendly.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

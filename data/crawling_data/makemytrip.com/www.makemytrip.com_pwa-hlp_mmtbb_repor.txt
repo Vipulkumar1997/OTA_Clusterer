@@ -1,0 +1,239 @@
+Bug bounty program | MakeMyTrip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+flights
+
+hotels
+
+holidays
+
+homestays
+
+NEW
+
+
+bus
+
+rail
+
+cabs
+
+OUTSTATION
+
+
+gift cards
+
+more +
+
+
+
+
+
+MyBusiness
+
+International Flights
+
+International Hotels
+
+International Holidays
+
+Deals
+
+Blog
+
+Refer and Earn
+
+
+
+
+
+
+
+
+
+
+
+Coming soon!
+
+Currently, we do not have this feature in MyBusiness. If you want to use this feature, you will have to logout and sign in again using your personal account.
+
+Not now
+
+Switch profile
+
+
+
+
+
+
+
+
+Are you sure?
+
+
+
+Not now
+
+Logout
+
+
+
+
+
+
+
+
+Switch to MyBusiness
+
+To access your business profile you will be logged out from your personal profile and directed to MyBusiness Login/Sign-up page.
+
+Not now
+
+Switch profile
+
+
+
+
+
+
+
+
+
+Info
+
+Thanks
+
+Report Issue
+
+
+
+
+
+Information
+Would you like to partner with MakeMyTrip (MMT) in creating an awesome and secure online travel booking experience for our customers? And also earn some money doing so !
+Introducing MMT's Bug Bounty program
+If you believe you have found a serious security vulnerability on our site
+www.makemytrip.com
+or application (Android/iOS), we appreciate your help in letting us know responsibly. We treat all security reports as urgent and commit to investigating & resolving the issue within a reasonable timeframe. As a token of our appreciation, we offer a monetary reward depending on the impact of the issue. Please review this page, especially the responsible disclosure policy and reward guidelines before reporting.
+Responsible Disclosure:
+While conducting your research, we ask that
+You will protect our users' privacy and data in good faith. You will not access or modify other user's data without our permission.
+You will ensure that no disruption is caused to the production systems, degradation of user experience and destruction of data during security testing.
+If you inadvertently cause a privacy violation or disruption in the absence of any malicious intention (such as accessing account data, service configurations, or other confidential information) while investigating an issue, be sure to disclose this immediately in your communication with us.
+You shall refrain from exploiting and/ or proceeding with subsequent testing of a security issue you discover for any reason (including demonstrating additional risk etc).
+You allow us a reasonable period of time to investigate and remediate the issue before you share it with others or disclose it publicly.
+You do not violate any other applicable laws or regulations.
+Our commitment:
+In return, we commit to
+A human acknowledgement of your report within 5 working days
+Working with you to investigate and resolve the issue as quickly as possible
+Keeping you informed of the status of the issue reported
+Suitably reward your efforts (see reward guidelines below)
+Mention on Hall of Fame (we will seek your consent)
+Not pursue or support any legal action related to your research/ testing
+Reporting Format:
+Report defect using "Report Issue" link available on left hand side and provide all required details
+Eligibility
+You are a customer of MMT or a security researcher interested in making our sites and applications safe
+If you are employed by MMT or are related to an employee of MMT (spouse, parent or sibling), you are NOT eligible for the bug bounty program
+Program Terms
+Monetary bounties for security reports are entirely at MMT's sole discretion, and will be decided based on risk, impact, and other factors. To qualify for a bounty, you need to meet the following requirements:
+Adhere to our Responsible Disclosure Policy.
+Report a security bug: that is, identify a vulnerability in our services or infrastructure which creates a security or privacy risk
+Your report must describe a problem involving one the products or services listed under "Bug Bounty Program Scope".
+You will render necessary assistance to MakeMyTrip to resolve the issue.
+The bounty will be paid only after the issue has been fully resolved by MMT
+We reserve the right to publish reports (and accompanying updates) without seeking your approval.
+All payments will be made in Indian Currency (INR).
+If we pay a bounty, the minimum reward is Rs.5000
+In the event of duplicate reports, we award a bounty to the first person to submit an issue (MMT determines duplicates and may not share details on the other reports). A given bounty is only paid to one individual.
+We verify that all bounty awards are permitted by applicable laws
+Note that extremely low-risk issues may not qualify for a bounty at all. We will have the sole discretion to ascertain the risk category.
+We seek to pay similar amounts for similar issues, but qualifying issues & amounts that are paid may change. Past rewards do not guarantee similar results in the future.
+We specifically exclude certain types of potential security issues; these are listed under "Ineligible Reports".
+A bounty shall only paid for bugs which have been unknown to MakeMyTrip. Already known bugs will not receive a bounty. Note: Reference is our internal bug tracking system.
+While we care about vulnerabilities affecting other services we use, we cannot guarantee that our disclosure policies apply to services from other companies. And in this case, you will NOT be eligible for the bounty program.
+Disclosure of the issue/ report via other means (like sharing it publicly on social media etc.) will render you ineligible for this program
+You refrain from contacting any employee of MMT via any other means/ channels regarding the program
+Scope for the bug bounty program includes only these sites and apps
+www.makemytrip.com
+Our mobile sites - on Android and iOS
+Our mobile apps - on Android or iOS
+Breach of program terms & guidelines
+We expect you to respect all the terms and conditions of the program & responsible disclosure as stated above. Any breach will automatically disqualify you from the bug bounty program and serious breaches of the guidelines might result in suspension of your account and/or legal action.
+Changes to Program Terms
+The Bug Bounty Program, including its policies, are subject to change or cancellation by MMT at any time, without notice. As such, we may amend these Program Terms and/or its policies at any time by posting a revised version here.
+Ineligible Reports and False Positives
+Some submission types are excluded because they are dangerous to assess, and/or because they have low impact to us. This section contains issues that are not accepted under this program, will be immediately marked as invalid, and are not rewardable.
+Security issues in third-party services that integrate with MMT. These are not managed by MMT and do not qualify under our guidelines for security testing.
+Findings from physical testing such as office access (e.g. open doors, tailgating).
+Findings derived primarily from social engineering (e.g. phishing, vishing).
+Functional, UI and UX bugs and spelling mistakes.
+Refrain from running automated tools.
+Vulnerabilities as reported by automated tools without additional analysis as to how they're an issue.
+Issues that require physical access to a victim's computer.
+Network or application level Denial of Service (DoS/DDoS) vulnerabilities.
+Website scraping.
+Bugs requiring exceedingly unlikely user interaction.
+Flaws affecting the users of out-of-date browsers and plugins.
+The following finding types are specifically excluded from the bounty:
+Descriptive error messages (e.g. Stack Traces, application or server errors).
+HTTP codes/pages or other HTTP non- codes/pages.
+Disclosure of known public files or directories, (e.g. robots.txt).
+Clickjacking and issues only exploitable through clickjacking.
+CSRF in forms that are available to anonymous users.
+CSRF with minimal security implications (Logout CSRF, etc.).
+Presence of application or web browser 'autocomplete' or 'save password' functionality.
+Lack of Secure/HTTPOnly flags on non-sensitive Cookies.
+Lack of Security Speed Bump when leaving the site.
+Weak Captcha / Captcha Bypass
+Most brute-force issues or issues that can be exploited using brute-force
+Open re-directs
+HTTPS Mixed Content Scripts
+Self-XSS
+Username / email enumeration
+Publicly accessible login panels
+Reports that state that software is out of date/vulnerable without a proof of concept
+Host header issues without an accompanying proof-of-concept demonstrating vulnerability
+Stack traces that disclose information
+Best practices concerns
+Internal IP disclosure
+Lack of enforcement of HTTPS via redirection
+Fingerprinting issues (e.g. open ports without an accompanying proof-of-concept demonstrating vulnerability, banner grabbing)
+Sensitive data in URLs/request bodies when protected by SSL/TLS
+Issues reported in microsites with minimal or no user data
+Issues that affect singular users and require interaction or significant prerequisites (MitM) to trigger
+Missing security headers that do not present an immediate security vulnerability
+SSL Issues, e.g.
+SSL/TLS scan reports (output from sites such as SSL Labs)
+SSL Attacks such as BEAST, BREACH, Renegotiation attack
+SSL Forward secrecy not enabled
+SSL weak / insecure cipher suites
+Out of Scope bugs for Android apps
+Absence of certificate pinning
+Sensitive data stored in app private directory
+User data stored unencrypted on external storage
+Lack of binary protection control in android app
+Shared links leaked through the system clipboard.
+Any URIs leaked because a malicious app has permission to view URIs opened
+Sensitive data in URLs/request bodies when protected by TLS
+Lack of obfuscation
+oauth &#

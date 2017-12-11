@@ -1,0 +1,595 @@
+
+Boutique Hotels Devon | Luxury B&Bs | Breaks | Chic
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Devon
+
+
+Europe
+,
+United Kingdom
+
+
+
+
+
+
+5
+Hotels
+
+Explore
+
+
+
+
+
+
+Whitewashed houses perch on Devon’s hilly seafront, overlooking golden, rugged beaches. Hike over craggy cliffs, dip your toes into cool ocean or wonder at the region’s incredible fossil collections. It’s not just its natural assets that make Devon so appealing: the coastal county is a haven for boutique hotels, pampering spas and cosy cottage retreats.
+
+More about Devon.
+
+
+
+
+When to go
+
+Beach-goers should visit in early summer or autumn for mild weather without the late-summer crowds.
+
+Food & Drink
+
+Devon is a hotspot for foodies, with its tasty heritage and outstanding eateries. Arguably the birthplace of the cream tea, the county knows its way around fluffy scones, rich clotted cream and fruity jams. For something heartier, head to River Cottage in Axminster, owned by celebrity chef, Hugh Fearnly-Whittingstall. Here you can tuck into inventive seasonal dishes, or whip up your own in one of the many cookery classes on offer.
+
+Not to miss
+
+Catch a steam train in Dartmouth and soak up the picturesque views as you fly past.
+
+
+
+Nightlife
+
+For pulse-racing nights head to Exeter: the university town has plenty of quirky bars and late-night haunts. The fun doesn’t end there: you’ll also find nightclubs and cocktail dens on Torquay’s riviera, where you can sip on delicious concoctions while gazing out over Devon’s lively coast.
+
+Where to stay in Devon
+
+Torquay’s busy harbour, bustling shops and lively evening scene make for a quintessentially English seaside break. Alternatively, rest your head in the small port town of Ilfracombe, where you’ll find a clutch of coastal hideaways and luxury hotels.
+
+How to get there
+
+Devon has train links to London, including Heathrow and Gatwick airports, as well as Birmingham.
+
+
+
+Read less
+
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Devon
+
+
+
+
+
+
+
+
+
+
+£
+245
+Night
+
+Cary Arms & Spa
+
+United Kingdom
+,
+South West
+,
+Devon
+
+
+The Cary Arms & Spa combines the luxury of a boutique hotel with the charm of an English pub. Set in the quaint seaside town of Babbacombe, Devon, this charming beachside retreat is ideal for families, pets, and couples.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+£
+70
+Night/room
+
+The Hamptons
+
+United Kingdom
+,
+South West
+,
+Devon
+
+
+The Hamptons Hotel is the newest beach-chic hotel to hit the Devon coast above the town of Ilfracombe. This chic Victorian villa has 7 rooms (twins and doubles) decorated by an award-winning interior designer.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+£
+110
+Night
+
+Cross Lane House
+
+United Kingdom
+,
+South West
+,
+Devon
+
+
+With just 3 rooms and suites and a delicious seasonal menu Cross Lane House is a small boutique hotel on north Exmoor, Somerset.  Privately-owned and privately-run Cross Lane House epitomises the Chic Retreats philosophy.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+£
+140
+Night
+
+Deer Park Country House Hotel
+
+United Kingdom
+,
+South West
+,
+Devon
+
+
+Deer Park Country House Hotel is an 18th-century Georgian manor house in Devon, that has been transformed into a charming boutique hotel with an award-winning restaurant.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+ALL HOTELS IN Devon
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

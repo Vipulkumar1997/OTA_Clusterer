@@ -1,0 +1,718 @@
+
+Eco Hotels | Environmentally-friendly Hotels | Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ECO HOTELS
+
+Inspiration
+
+
+
+Choosing environmentally-conscious accommodation shouldn’t mean you have to sacrifice on service or style. Here we present our lovely eco hotels, their phenomenal design and green ethos really showcase the fact that eco-friendly is truly a chic way to travel.
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+£
+129
+Per night
+
+Pousada Bromelias
+
+Brazil
+,
+South East Region
+,
+Rio de Janeiro
+
+
+Pousada Bromelias is a small ecological retreat hotel just outside of the colonial town of Paraty. The 10 bungalows are scattered across a lush tropical estate where relaxed guests spend carefree days relaxing by the pools and waterfalls.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+319
+Night
+
+Shreyas Yoga Retreat
+
+India
+,
+Karnataka
+
+
+Shreyas Yoga Retreat is possibly the best Yoga Retreat in the world offering relaxation & meditation in a luxurious setting in Karnataka near Bangalore. Enjoy healthy cuisine, daily Yoga, massages and relaxation by the pool.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+111
+Night/room
+
+The Amala
+
+Indonesia
+,
+Bali
+
+
+The Amala is a gorgeous collection of 12 luxury villas in the fashionable town of Seminyak, Bali. Relax in this tranquil boutique collection, with a design influenced by Zen Buddhism, a luxury spa and personalized butler service. No children under 12 years old.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+87
+Night
+
+Villa Magnolia
+
+Italy
+,
+Puglia
+,
+Brindisi
+
+
+Environmentally friendly, private and luxurious best describes Villa Magnolia this privately-owned boutique hotel in Puglia. Great food & good wine, a beautiful pool and relaxing massages make Villa Magnolia the perfect chic retreat.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+131
+Night
+
+Riad El Mezouar
+
+Morocco
+,
+Marrakech-Tensift-El Haouz
+,
+Marrakech
+
+
+Riad El Mezouar is a luxury riad in Marrakech, hosted by the knowledgable British owner, this is an oasis of calm in the Marrakech medina.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+210
+Night
+
+The Scarlet
+
+United Kingdom
+,
+South West
+,
+Cornwall
+
+
+The Scarlet is an adult-only luxury hotel on the Cornish coast. This eco-friendly Chic Retreat is in harmony with the natural surroundings, complete with a luxury spa and great food. This peaceful hideaway is great for a rejuvenating seaside break.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+115
+Night
+
+La Garriga de Castelladral
+
+Spain
+,
+East Coast of Spain
+,
+Catalonia
+
+
+Just an hour from Barcelona, La Garriga de Castelladral is a new gorgeous eco-friendly boutique hotel which is run by a family passionate about the good things in life; great food, good living and nature.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+Sukoon
+
+India
+,
+Jammu and Kashmir
+
+
+Surrounded by lotuses Sukoon, the first eco luxury houseboat in Kashmir, floats on the Dal Lake in the heart of the Kashmir Valley enjoying breathtaking views of the Pir Panjal mountains.  Each of the 5 en-suite bedrooms are named after the Mughal Gardens.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+549
+Week
+
+Sasso al Melo
+
+Italy
+,
+Tuscany
+,
+Pistoia
+
+
+A dream for all seasons, Sasso al Melo, with its 5 apartmetns, is perfect for winter skiing and hiking, fishing, riding and mountain biking in the summer. Situated on the border between Tuscany and Emilia it is perfectly located for those wanting to explore the best of both regions.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+87
+Night
+
+La Cuccagna
+
+Italy
+,
+Umbria
+,
+Perugia
+
+
+La Cuccagna is a traditionally built Italian Chic Retreat set in the heart of the Umbrian countryside between Perugia and Gubbio. Owners, Sarah and Salvatore, who live on the first floor, have painstakingly restored this charming farmhouse into a simple boutique hotel in Umbria with 5 rooms and suites and an apartment for two.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+199
+Night
+
+Argentario Golf Resort & Spa
+
+Italy
+,
+Tuscany
+,
+Grosseto
+
+
+Argentario Golf Resort & Spa is unlike any other luxury hotel in the Maremma, Tuscany. This stunning contemporary hotel has been created using local stone, wood and glass to create a masterpiece of design.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+212
+Night
+
+The Pavilions Himalayas
+
+Nepal
+
+
+Reflect, relax and re-connect at The Pavilions Himalayas which are surrounded by hills, mountains and organic farmland near Pokhara, one of the top trekking destinations in the world. Laze away by the pool, work out in the gym or be pampered in the spa.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+4
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

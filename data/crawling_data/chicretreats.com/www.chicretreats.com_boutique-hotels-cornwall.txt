@@ -1,0 +1,595 @@
+
+Boutique Hotels Cornwall | Luxury Hotel & B&B; Breaks
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Cornwall
+
+
+Europe
+,
+United Kingdom
+
+
+
+
+
+
+5
+Hotels
+
+Explore
+
+
+
+
+
+
+Stretching down the coast, windswept Cornwall is a haven for artists, surfers and foodies. Wander through winding cobbled streets, bask on sweeping beaches or sip cream teas in cute cafes. When the sun sets, you’ll be rewarded with enticing boltholes: expect roll-top baths, sea-view suites and spa-blessed beauties.
+
+More about Cornwall.
+
+
+
+
+When to go
+
+June is good for beach-worthy weather without the high-summer crowds. September and October’s still-warm temperatures and impressive waves make for exhilarating surfing.
+
+Food & Drink
+
+It’s not all freshly-baked pasties in Cornwall: the sea’s bounty takes pride of place in beach shacks, cosy pubs and award-winning haunts. Michelin-star-studded Restaurant Nathan Outlaw makes the most of the coast’s remarkable seafood, transforming it with delicate and piquant flavours. Don’t leave without sampling a traditional Cornish cream tea, complete with crumbly scones, clotted cream and homemade jams.
+
+Not to miss
+
+Climb up to the clifftop Minack theatre, where you can watch an open-air performance against a glorious ocean backdrop.
+
+
+
+Nightlife
+
+Strung across the Cornish shores are an array of cosy inns and seaside pubs, where you can sample home-brewed ales from the well-deserved comfort of an armchair. For a lively evening scene, head to Newquay, which plays host to dusk-to-dawn clubs, fun-loving haunts and buzzing cocktail bars.
+
+Where to stay in Cornwall
+
+St Ives is a surfer’s paradise, with sweeping beaches surrounding its rustic cottages and luxury retreats. Dotted across Cornwall’s southern coast are thriving harbour towns and seaside villages, including Falmouth and Mousehole, which are the perfect spots for a relaxing weekend break.
+
+How to get there
+
+Cornwall is easily accessible by car, with excellent train links to London, including Heathrow and Gatwick airports, as well as Birmingham.
+
+
+
+Read less
+
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Cornwall
+
+
+
+
+
+
+
+
+
+
+£
+90
+Night
+
+Westcroft Guesthouse - Boutique B and B
+
+United Kingdom
+,
+South West
+,
+Cornwall
+
+
+Westcroft Guesthouse is a luxury B&B in the quaint village of Kingsand, Cornwall. This restored Georgian Coaching Inn has retained much of its former beauty, while contemporary additions add to its sense of luxury.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+130
+Night
+
+Pebble House
+
+United Kingdom
+,
+South West
+,
+Cornwall
+
+
+Simon and Andrea Copper are the brains and passion behind Pebble House, an innovative and luxurious Chic Retreat which is situated right on the south west coastal path in the fishing village of Mevagissey, Cornwall.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+£
+210
+Night
+
+The Scarlet
+
+United Kingdom
+,
+South West
+,
+Cornwall
+
+
+The Scarlet is an adult-only luxury hotel on the Cornish coast. This eco-friendly Chic Retreat is in harmony with the natural surroundings, complete with a luxury spa and great food. This peaceful hideaway is great for a rejuvenating seaside break.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+£
+260
+Per night
+
+Hotel Tresanton
+
+United Kingdom
+,
+South West
+,
+Cornwall
+
+
+The modest exterior cleverly disguises the gracious interiors of Hotel Tresanton, in St Mawes, Cornwall, possibly the best seaside boutique hotel in the UK and certainly one of the most family friendly.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+ALL HOTELS IN Cornwall
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

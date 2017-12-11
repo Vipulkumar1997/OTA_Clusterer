@@ -1,0 +1,597 @@
+
+Boutique Hotels Paris | Luxury Unique Hotels & Apartments
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Paris
+
+
+Europe
+,
+France
+
+
+
+
+
+
+7
+Hotels
+
+Explore
+
+
+
+
+
+
+From the literary Left Bank to the art-loving heights of Montmartre, Paris is a city of neighbourhoods, each with a distinct history of its own. Effortlessly elegant and breathtakingly beautiful, the City of Lights has crafted itself a reputation as a destination
+par excellence
+for romantic getaways. It’s not all art deco haunts, café terraces and pâtisseries, however: today’s Paris embraces its creative spirit and revolutionary soul with contemporary galleries, innovative restaurateurs and of-the-moment boutique hotels.
+
+More about Paris.
+
+
+
+
+When to go
+
+Paris, as the song goes, is ravishing in all seasons. Many shops and restaurants close in August, when Parisians leave the city to the hordes of museum-hopping tourists.
+
+Food & Drink
+
+Packed with classic bistros, regional eateries and a constellation of Michelin stars, Paris is a playground for gourmets and oenophiles alike. Start your days with a warm croissant (canalside Du Pain et des Idées bakes the flakiest and most buttery), stock up on seasonal showstoppers from pastry maestro Pierre Hermé or book a table at Au Pied de Cochon for a memorable porcine feast.
+
+Not to miss
+
+For a taste of real Parisian life, head east to bohemian Belleville: the sweeping city views from the top of the park are worth the detour.
+
+
+
+Nightlife
+
+Seductive and atmospheric, Paris nights are the stuff of literary myth. Make like Oscar Wilde and prop up the bar at L’Hotel for cocktails that still woo the creative set. Le Café Marly is a good spot for a tipple with views over the Louvre’s courtyard. You’ll find quirky hangouts and edgy clubs along the quays’ canal boats and warehouses; for something a little more glitzy, head to the champagne-fuelled nights of the Champs Elysées.
+
+Where to stay in Paris
+
+Dotted with galleries and delightful cafés, the Left Bank’s Saint Germain neighbourhood is a favourite with art lovers and literature buffs. A stone’s throw from the opera, the 8th arrondissement is packed with luxury department stores and designer boutiques.
+
+How to get there
+
+Paris Charles de Gaulle airport is a major international hub; Orly airport serves domestic, European and North African destinations. Eurostar trains from London and Thalys services from Brussels and Amsterdam stop at Gare du nord.
+
+
+
+Read less
+
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Paris
+
+
+
+
+
+
+
+
+
+
+£
+146
+Night
+
+Hotel Lumen Paris Louvre
+
+France
+,
+Ile de France
+,
+Paris
+
+
+A short walk from the Champs Élysées and Place Vendome, Hotel Lumen Paris Louvre is a luxury hotel in Paris. Designer interiors and warm hospitality make this 38 room Chic Retreat the perfect choice for couples, business travellers and those who love to shop.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+305
+Night
+
+L'Hotel
+
+France
+,
+Ile de France
+,
+Paris
+
+
+The original luxury boutique hotel, L'Hotel, sits on Paris's Left Bank, minutes from the cultural riches and literary heart of St. Germain-des-Près. One of the most romantic boutique hotels in Paris and one of Lulu's favourite city Chic Retreats.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+214
+Night
+
+Hotel Le Saint a Paris
+
+France
+,
+Ile de France
+,
+Paris
+
+
+The sunny street of Prés-aux-Clercs is home to Hotel Le Saint à Paris, a new 54 room hideaway in the heart of Saint-Germain-des-Prés. Even the most discerning traveller will be bowled over by the charm of this small but perfectly formed boutique hotel with spa & restaurant that has been named on Condé Nast Traveller's Hot List for 2017.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+141
+Night
+
+Hotel Chavanel
+
+France
+,
+Ile de France
+,
+Paris
+
+
+Discreet and elegant, the 27 rooms & suites at Hotel Chavanel in La Madeleine, Paris, are spread over 6 floors and provide a quiet oasis in what is a thriving and bustling neighbourhood. Owner/Manager Sophie Charlet's mission is to meet and wherever possible to exceed your expectations.
+
+
+
+BOOK
+
+
+
+
+
+
+ALL HOTELS IN Paris
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

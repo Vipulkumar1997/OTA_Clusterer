@@ -1,0 +1,623 @@
+
+Winter Sun Special Offers collection from Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WINTER SUN SPECIAL OFFERS
+
+Inspiration
+
+
+
+Banish those winter blues in style this season.
+From the white sands of Zanzibar to the tropical paradise of Phuket and safaris in South Africa: we’ve searched high and low for the finest sunny spots this winter. To tempt you further, each comes with a phenomenal special offer or an exclusive Chic Treat.
+
+
+
+
+
+
+
+
+
+€
+322
+Night
+
+Dock House Boutique Hotel & Spa
+
+South Africa
+,
+Western Cape
+,
+Cape Town
+
+
+You won't find a better small, but perfectly formed boutique hotel in Cape Town. Dock House Boutique Hotel & Spa has just 6 rooms & suites and sits amidst manicured gardens in the Victoria & Albert Waterfront.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+159
+Night
+
+Villa Samadhi Kuala Lumpur
+
+Malaysia
+,
+Kuala Lumpur
+
+
+Just 10 minutes from Kuala Lumpur's city centre the 21 room Villa Samadhi is the ideal boutique hotel for you to choose if visiting KL for business or if you are flying in for a night before reaching your final destination.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+81
+Night
+
+Navutu Dreams Resort & Wellness Retreat
+
+Cambodia
+,
+Siem Reap
+
+
+Tucked away from the hustle and bustle of Siem Reap centre, Navutu Dreams Resort & Spa is an eco-chic hotel & spa which boasts 3 swimming pools, a fitness centre and a restaurant. It provides guests with free WiFi, and is just a 7 minute TukTuk drive from Old Market and Pub Street.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+277
+Night
+
+The Bale
+
+Indonesia
+,
+Bali
+
+
+The Balé is a luxury boutique hotel in Bali, situated in Nusa Dua. Featured in the HOT LIST of Conde Nast Traveller as one of the best boutique and spa hotels in the world.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+221
+Night
+
+Anantara Seminyak Bali Resort
+
+Indonesia
+,
+Bali
+,
+Seminyak
+
+
+From Anantara Seminyak Bali Resort you can dive into the island's culture, dip in and out of Seminyak's nightlife or sit by the infinity pool and soak up the sun. This all-suite luxury hotel in Bali is situated right on the beach in one of the most sought after locations in Bali.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+527
+Night
+
+Coco Bodu Hithi
+
+Maldives
+,
+Male Atoll
+
+
+Coco Bodu Hithi is a luxury hotel that spans the entirety of a stunning tropical island in the Maldives; this is an idyllic retreat for the mind, body and soul. A stay at this hip hideaway will ensure you are pampered, refreshed and revitalised.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+906
+Night
+
+Essque Zalu Zanzibar
+
+Tanzania
+,
+Zanzibar
+
+
+Situated on the north east coast of Zanzibar, Essque Zalu Zanzibar is everything you could wish for from a luxury beachside holiday in the sun. Surrounded by turquoise waters of the Indian Ocean the island of Zanzibar is steeped in history from the exotic spice plantations to the tumbling streets of Swahili.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+106
+Night
+
+Japamala Resort
+
+Malaysia
+,
+Pahang
+,
+Tioman Island
+
+
+Japamala is a barefoot chic hideaway on the island of Tioman, just 45 minutes off the coast of mainland Malaysia. Made up of a collection of eco-friendly villas, wooden houses and sarangs this hip hotel and spa will appeal to the romantic and those with a sense of adventure looking for an authentic Malay experience.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+345
+Night
+
+Paresa Phuket
+
+Thailand
+,
+Phuket
+
+
+If you are looking for an idyllic beach retreat in Thailand where you can stay in the lap of luxury, off the beaten track, look no further. Paresa, surrounded by tropical forests on a hillside over looking Kamala Bay, is one of the best luxury hotels on Phuket with 48 amazing ocean view suites & villas as well as a spa, gym, beach club and a choice of restaurants.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+320
+Night
+
+Coco Palm Dhuni Kolhu
+
+Maldives
+,
+Baa Atoll
+
+
+Coco Palm Dhuni Kohlu is a luxury hotel in the Maldives that combines bespoke service, contemporary design and a barefoot chic vibe. Within easy reach of Male, this island hideaway is a short boat ride away from the airport.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

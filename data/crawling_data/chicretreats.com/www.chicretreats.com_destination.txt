@@ -1,0 +1,671 @@
+
+Destinations
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Destinations
+
+Home, Destinations
+
+
+
+
+Take inspiration from our round-the-world collection of exceptional boutique hotels. All are labours of love: independent villas, hotels and spas for one-of-a-kind holidays – whether you’re in the mood for a short city break or a lingering countryside getaway.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNITED KINGDOM
+
+
+
+
+
+
+
+
+EUROPE
+
+
+
+
+
+
+
+
+
+
+ITALY
+
+
+
+
+
+
+
+
+ASIA
+
+
+
+
+
+
+
+
+AFRICA
+
+
+
+
+
+
+
+
+
+
+CARIBBEAN
+
+
+
+
+
+
+
+
+SOUTH AMERICA
+
+
+
+
+
+
+
+
+
+
+NORTH AMERICA
+
+
+
+
+
+
+
+
+CENTRAL AMERICA
+
+
+
+
+
+
+
+
+AUSTRALASIA
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+
+
+
+
+NORTH AMERICA
+
+
+United States of America (5)
+
+Canada (2)
+
+Mexico (5)
+
+
+SOUTH AMERICA
+
+
+Argentina (9)
+
+Brazil (18)
+
+Chile (2)
+
+Ecuador (1)
+
+Colombia (1)
+
+
+CENTRAL AMERICA
+
+
+Belize (1)
+
+Guatemala (2)
+
+Panama (2)
+
+Costa Rica (1)
+
+
+CARIBBEAN
+
+
+Barbados (2)
+
+Bahamas (2)
+
+British Virgin Islands (2)
+
+Dominica (1)
+
+Grenada (2)
+
+Jamaica (2)
+
+St Kitts and Nevis (1)
+
+St Lucia (1)
+
+Saint Barthelemy (2)
+
+
+
+
+EUROPE
+
+
+Spain (44)
+
+United Kingdom (105)
+
+Italy (177)
+
+France (60)
+
+Greece (29)
+
+Portugal (23)
+
+Ireland (3)
+
+Austria (3)
+
+Hungary (2)
+
+Croatia (2)
+
+Germany (2)
+
+Luxembourg (1)
+
+Montenegro (1)
+
+Switzerland (11)
+
+Netherlands (1)
+
+Slovenia (1)
+
+Czech Republic (2)
+
+Sweden (1)
+
+Belgium (3)
+
+Iceland (1)
+
+Norway (1)
+
+Estonia (1)
+
+Romania (1)
+
+Cyprus (4)
+
+Malta (4)
+
+Turkey (9)
+
+
+
+
+ASIA
+
+
+India (7)
+
+Indonesia (13)
+
+Sri Lanka (13)
+
+Thailand (14)
+
+Maldives (4)
+
+Malaysia (5)
+
+Cambodia (4)
+
+Vietnam (3)
+
+Nepal (1)
+
+Singapore (1)
+
+
+AUSTRALIA
+
+
+Australia (5)
+
+New Zealand (1)
+
+Vanuatu (1)
+
+
+AFRICA
+
+
+Mozambique (1)
+
+Morocco (37)
+
+Kenya (10)
+
+Tanzania (16)
+
+Sao Tome and Principe (2)
+
+Mauritius (2)
+
+South Africa (4)
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

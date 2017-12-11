@@ -1,0 +1,6696 @@
+Sign Up Form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHF
+Swiss Franc
+
+
+
+GBP
+Pound Sterling
+
+EUR
+Euro
+
+USD
+US Dollar
+
+JPY
+Japanese Yen
+
+CNY
+Chinese Yuan Renminbi
+
+AFN
+Afghan Afghani
+ALL
+Albanian Lek
+DZD
+Algerian Dinar
+AOA
+Angolan Kwanza
+ARS
+Argentine Peso
+AMD
+Armenian Dram
+AWG
+Aruban or Dutch Guilder
+AUD
+Australian Dollar
+AZN
+Azerbaijan, New Manat
+BSD
+Bahamian Dollar
+BHD
+Bahrain Dinar
+BDT
+Bangladeshi Taka
+BBD
+Barbadian or Bajan Dollar
+LSL
+Basotho Loti
+BYR
+Belarusian Ruble
+BZD
+Belizean Dollar
+BMD
+Bermudian Dollar
+BTN
+Bhutanese Ngultrum
+BOB
+Bolivian Boliviano
+BAM
+Bosnian Convertible Marka
+BWP
+Botswana Pula
+BRL
+Brazilian Real
+BND
+Bruneian Dollar
+BGN
+Bulgarian Lev
+MMK
+Burmese Kyat
+BIF
+Burundian Franc
+KHR
+Cambodian Riel
+CAD
+Canadian Dollar
+CVE
+Cape Verdean Escudo
+KYD
+Caymanian Dollar
+XAF
+Central African CFA Franc BEAC
+XOF
+CFA Franc
+XPF
+CFP Franc
+CLP
+Chilean Peso
+COP
+Colombian Peso
+KMF
+Comoran Franc
+CDF
+Congolese Franc
+CRC
+Costa Rican Colon
+HRK
+Croatian Kuna
+CUC
+Cuban Convertible Peso
+CUP
+Cuban Peso
+CZK
+Czech Koruna
+DKK
+Danish Krone
+DJF
+Djiboutian Franc
+DOP
+Dominican Peso
+ANG
+Dutch Guilder
+XCD
+East Caribbean Dollar
+EGP
+Egyptian Pound
+SVC
+El Salvador Colones
+ERN
+Eritrean Nakfa
+CNH
+ERR
+BYN
+ERR
+EEK
+Estonia Krooni
+ETB
+Ethiopian Birr
+FKP
+Falkland Island Pound
+FJD
+Fijian Dollar
+GMD
+Gambian Dalasi
+GEL
+Georgian Lari
+GHS
+Ghanaian Cedi
+GIP
+Gibraltar Pound
+XAU
+Gold Ounces
+GTQ
+Guatemalan Quetzal
+GGP
+Guernsey Pounds
+GNF
+Guinean Franc
+GYD
+Guyanese dollar
+HTG
+Haitian Gourde
+HNL
+Honduran Lempira
+HKD
+Hong Kong Dollar
+HUF
+Hungarian Forint
+ISK
+Icelandic Krona
+INR
+Indian Rupee
+IDR
+Indonesian Rupiah
+XDR
+International Monetary Fund Special Drawing Rights
+IRR
+Iranian Rial
+IQD
+Iraqi Dinar
+IMP
+Isle of Man Pounds
+ILS
+Israeli Shekel
+JMD
+Jamaican Dollar
+JEP
+Jersey Pounds
+JOD
+Jordanian Dinar
+KZT
+Kazakhstani Tenge
+KES
+Kenyan Shilling
+KWD
+Kuwaiti Dinar
+KGS
+Kyrgyzstani Som
+LAK
+Lao or Laotian Kip
+LVL
+Latvian Lat
+LBP
+Lebanese Pound
+LRD
+Liberian Dollar
+LYD
+Libyan Dinar
+LTL
+Lithuanian Litas
+MOP
+Macau Pataca
+MKD
+Macedonian Denar
+MGA
+Malagasy Ariary
+MWK
+Malawian Kwacha
+MYR
+Malaysian Ringgit
+MVR
+Maldivian Rufiyaa
+MRO
+Mauritanian Ouguiya
+MUR
+Mauritian Rupee
+MXN
+Mexican Peso
+MDL
+Moldovan Leu
+MNT
+Mongolian Tughrik
+MAD
+Moroccan Dirham
+MZN
+Mozambican Metical
+NAD
+Namibian Dollar
+NPR
+Nepalese Rupee
+NAG
+Netherlands Antillean guilder
+NZD
+New Zealand Dollar
+VUV
+Ni-Vanuatu Vatu
+NIO
+Nicaraguan Cordoba
+NGN
+Nigerian Naira
+KPW
+North Korean Won
+NOK
+Norwegian Krone
+OMR
+Omani Rial
+PKR
+Pakistani Rupee
+XPD
+Palladium Ounces
+PAB
+Panamanian Balboa
+PGK
+Papua New Guinean Kina
+PYG
+Paraguayan Guarani
+PEN
+Peruvian Nuevo Sol
+PHP
+Philippine Peso
+XPT
+Platinum Ounces
+PLN
+Polish Zloty
+QAR
+Qatari Riyal
+RON
+Romanian New Leu
+RUB
+Russian Ruble
+RWF
+Rwandan Franc
+SHP
+Saint Helenian Pound
+WST
+Samoan Tala
+STD
+Sao Tome and Principe dobra
+SAR
+Saudi Arabian Riyal
+SPL
+Seborga Luigini
+RSD
+Serbian Dinar
+SCR
+Seychellois Rupee
+SLL
+Sierra Leonean Leone
+XAG
+Silver Ounces
+SGD
+Singapore Dollar
+SBD
+Solomon Islander Dollar
+SOS
+Somali Shilling
+ZAR
+South African Rand
+KRW
+South Korean Won
+LKR
+Sri Lankan Rupee
+SDG
+Sudanese Pound
+SRD
+Surinamese Dollar
+SZL
+Swazi Lilangeni
+SEK
+Swedish Krona
+CHF
+Swiss Franc
+SYP
+Syrian Pound
+TWD
+Taiwan New Dollar
+TJS
+Tajikistani Somoni
+TZS
+Tanzanian Shilling
+THB
+Thai Baht
+TOP
+Tongan Pa anga
+TTD
+Trinidadian Dollar
+TND
+Tunisian Dinar
+TRY
+Turkish Lira
+TMM
+Turkmenistan Manats
+TMT
+Turkmenistani Manat
+TVD
+Tuvaluan Dollar
+UGX
+Ugandan Shilling
+UAH
+Ukrainian Hryvna
+AED
+United Arab Emirates Dirhams
+UYU
+Uruguayan Peso
+UZS
+Uzbekistani Som
+VEB
+Venezuela Bolivares
+VEF
+Venezuelan Bolivar
+VND
+Vietnamese Dong
+YER
+Yemeni Rial
+ZMK
+Zambia Kwacha
+ZMW
+Zambian Kwacha
+ZWD
+Zimbabwe Dollars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hotel Information
+
+Please complete the following information and help us create your hotel profile more accurately:
+
+
+
+
+Personal Details
+
+Hotel Name
+*
+:
+
+
+
+
+
+Hotel Group Name (if any):
+
+
+
+
+
+Number of Rooms
+*
+:
+
+
+
+
+
+Accommodation Type
+*
+:
+
+
+
+Select Accommodation Type
+
+Guest House
+
+Small Hotel
+
+Hotel
+
+International Resort Hotel
+
+Self-catering
+
+Serviced Apartment
+
+Lodge
+
+Inn
+
+Restaurant with Rooms
+
+Campus Accommodation
+
+Hostel
+
+Holiday Park
+
+Touring Park
+
+Camping Park
+
+
+
+
+Website URL (if any):
+
+
+
+
+
+Hotel Star Rating
+*
+:
+
+
+
+
+
+Awarding Body
+*
+:
+
+
+
+
+
+Hotel Address
+*
+:
+
+
+
+
+
+Post Code
+*
+:
+
+
+
+
+
+Hotel Primary Phone
+*
+:
+
+
+
+
+
+Fax
+*
+:
+
+
+
+
+
+Email Address
+*
+:
+
+
+
+
+
+
+Check in Time
+*
+:
+
+
+
+
+
+Check Out Time
+*
+:
+
+
+
+
+
+Hotel Description:
+
+Short Description
+(Max 140 Characters):
+
+
+
+
+
+
+Long Description
+(Max 500Words):
+
+
+
+
+
+
+Cancellation Policy
+(Max 500Words):
+
+
+
+
+
+
+Dinning at Hotel
+(Max 300 Words):
+
+
+
+
+
+
+Other useful information
+(if any):
+
+
+
+
+
+
+
+
+Contact Manager's Information:
+
+Name
+*
+:
+
+
+
+
+
+Phone Number
+*
+:
+
+
+
+
+
+Email Address
+*
+:
+
+
+
+
+
+
+
+Reservation's Manager Information:
+
+Name
+*
+:
+
+
+
+
+
+Phone Number
+*
+:
+
+
+
+
+
+Email Address
+*
+:
+
+
+
+
+
+
+
+
+
+Hotel Facilities:
+
+
+
+
+
+
+
+Lounge
+
+
+
+
+Restaurant
+
+
+
+
+Bar
+
+
+
+
+Garden
+
+
+
+
+Non Smoking area
+
+
+
+
+Gym
+
+
+
+
+
+Swimming Pool
+
+
+
+
+Tennis Court
+
+
+
+
+Liquor Store
+
+
+
+
+Pharmacy
+
+
+
+
+Night Club
+
+
+
+
+Business Center
+
+
+
+
+
+Shops
+
+
+
+
+Gift Shops
+
+
+
+
+Smoking Area
+
+
+
+
+Coffee Shop
+
+
+
+
+Library
+
+
+
+
+Casino
+
+
+
+
+
+24-hour Front Desk
+
+
+
+
+Concierge
+
+
+
+
+Early Check-in
+
+
+
+
+Luggage Storage Room
+
+
+
+
+Doctor on Call
+
+
+
+
+Butler service
+
+
+
+
+
+Shuttle service
+
+
+
+
+Room Service
+
+
+
+
+Car Rental Desk
+
+
+
+
+24-hour Room Service
+
+
+
+
+Conference Facilities
+
+
+
+
+Secretarial Service
+
+
+
+
+
+Sauna
+
+
+
+
+Turkish Bath
+
+
+
+
+Jacuzzi
+
+
+
+
+Hairdresser
+
+
+
+
+Free Wifi in Hotel
+
+
+
+
+Free Parking
+
+
+
+
+
+Paid Parking
+
+
+
+
+Free Internet / Wifi in Lobby / Reception
+
+
+
+
+Free Hotel Parking
+
+
+
+
+Chargeable Hotel Parking
+
+
+
+
+Chargeable Internet / Wifi in Lobby / Reception
+
+
+
+
+Lift / Elevator
+
+
+
+
+
+Valet Parking
+
+
+
+
+pool table
+
+
+
+
+bar grill
+
+
+
+
+Ayurvedic Therapy/ Massages
+
+
+
+
+F&B; services
+
+
+
+
+7am to11pm room service
+
+
+
+
+
+24- hour power backup
+
+
+
+
+Credit card acceptance
+
+
+
+
+Travel Desk
+
+
+
+
+Indoor/Outdoor Multi cuisine Restaurantant
+
+
+
+
+Hammam
+
+
+
+
+Terrace
+
+
+
+
+
+Gymnasium
+
+
+
+
+Entertainment Zone
+
+
+
+
+Children Play Zone:
+
+
+
+
+Horse Riding
+
+
+
+
+Barbecue
+
+
+
+
+Trekking
+
+
+
+
+
+Bonfire
+
+
+
+
+Jungle walk
+
+
+
+
+Table Tennis
+
+
+
+
+Restaurant Facility
+
+
+
+
+Laundry and Dry Cleaning Service
+
+
+
+
+Ample Car Parking Facility
+
+
+
+
+
+All major Credit Cards accepted
+
+
+
+
+Airport Transportation
+
+
+
+
+Monitored parking
+
+
+
+
+Fitness
+
+
+
+
+Golf
+
+
+
+
+Biliards
+
+
+
+
+
+Wedding Events
+
+
+
+
+spa
+
+
+
+
+Private Parking Bays in front of the building (subject to availability)
+
+
+
+
+Full Central Heating
+
+
+
+
+Full ensuite bathrooms and showers.
+
+
+
+
+Roof Top swimming pool
+
+
+
+
+
+Car Parking
+
+
+
+
+Jain Food on Request
+
+
+
+
+Audio/Visual Entertainment
+
+
+
+
+Basic Stationery
+
+
+
+
+Conference Hall
+
+
+
+
+No Smoking Room
+
+
+
+
+
+Laundry
+
+
+
+
+Meeting Facilities
+
+
+
+
+24 Hour Entry
+
+
+
+
+Luggage Porter
+
+
+
+
+Late Check- IN
+
+
+
+
+Purified Water
+
+
+
+
+
+24hr Fax / Tel / ISD / STD
+
+
+
+
+Travel Assistance
+
+
+
+
+Tennis / Billiards / Squash /
+
+
+
+
+Card Room
+
+
+
+
+Private Parking
+
+
+
+
+Indoo Games Room
+
+
+
+
+
+In House Laundry
+
+
+
+
+Attached Bath With Hot/Cold Water
+
+
+
+
+Mullti Channel LCD TV Set
+
+
+
+
+Pick up and Drop Facility(Chargeable)
+
+
+
+
+Housekeeping Services
+
+
+
+
+Safe Locker for Expensives*/Mini bar
+
+
+
+
+
+R.O. Water Supply in Entire Hotel
+
+
+
+
+Multicuisine Restaurent ?Coffee Shop
+
+
+
+
+Board room
+
+
+
+
+Rooms with good view/balcony
+
+
+
+
+Bell boy
+
+
+
+
+Turn down service
+
+
+
+
+
+American breakfast
+
+
+
+
+Wake up call
+
+
+
+
+Yoga room
+
+
+
+
+Business Centre
+
+
+
+
+Security Box
+
+
+
+
+Garage
+
+
+
+
+
+American Bar
+
+
+
+
+Express check-in & check-out
+
+
+
+
+24-hour concierge & front desk
+
+
+
+
+Choice of Smoking & Non-smoking guest Rooms
+
+
+
+
+Access facility for Differentially Able guests
+
+
+
+
+Centrally Located Hotel
+
+
+
+
+
+Neatly and Tastefully designed rooms
+
+
+
+
+Concierge service for traveling
+
+
+
+
+Refrigerator
+
+
+
+
+Rental car service (on request)
+
+
+
+
+Guest Laundry services (on request)
+
+
+
+
+LCDs with more than 50 channels
+
+
+
+
+
+Pick up and drop services (on request)
+
+
+
+
+Executive Suites
+
+
+
+
+Executive Lounge
+
+
+
+
+Elixir Health and Fitness Club
+
+
+
+
+Swimming pool with Pool Bar
+
+
+
+
+Multipurpose sports field
+
+
+
+
+
+Fitness classes, personal training and sports facilities
+
+
+
+
+Kids’ Club (3-12 years) and swimming classes for kids
+
+
+
+
+In-room dining
+
+
+
+
+Meetings and events spaces
+
+
+
+
+Multi-lingual TV channels with OSN TV package
+
+
+
+
+Complimentary morning newspaper
+
+
+
+
+
+Individual heating and air-conditioning controls
+
+
+
+
+Retail outlets (confectionary, fashion, jewellery, gifts)
+
+
+
+
+24/7 Mini Mart
+
+
+
+
+24/7 Business Centre
+
+
+
+
+Orchid Wellness Palace Spa
+
+
+
+
+Temperature controlled swimming pool
+
+
+
+
+
+Squash court
+
+
+
+
+Camel Kids’ Club (3-12 years)
+
+
+
+
+Ladies’ & gents’ salon
+
+
+
+
+De Calzoleria Boutique in the Lobby
+
+
+
+
+Separate check-in for long-term guests
+
+
+
+
+Test
+
+
+
+
+
+24 hour Room Service
+
+
+
+
+Mini bar
+
+
+
+
+Money exchange
+
+
+
+
+Concierge parking
+
+
+
+
+Babysitting service
+
+
+
+
+Daily beach transfers
+
+
+
+
+
+Transit visa (on request)
+
+
+
+
+Daily FREE shuttle to beach
+
+
+
+
+Health club with Sauna and Steam
+
+
+
+
+Airport transfers (charges applicable)
+
+
+
+
+Transit visa processing
+
+
+
+
+Two rooftop board rooms
+
+
+
+
+
+2/3 adults or 2 adults y 2 children
+
+
+
+
+Multiple dining locations
+
+
+
+
+Bar & Lounge
+
+
+
+
+Star gazing terrace
+
+
+
+
+Outdoor boma & fire place
+
+
+
+
+Infinity pool
+
+
+
+
+
+Kids play area
+
+
+
+
+Library and research centre
+
+
+
+
+Safari shop
+
+
+
+
+Game drives
+
+
+
+
+Sun downers
+
+
+
+
+Bush breakfast
+
+
+
+
+
+Guided bush walk
+
+
+
+
+Cultural visits to a Maasai village
+
+
+
+
+Children activities
+
+
+
+
+2 outdoor massage pavilions with ac
+
+
+
+
+Spa pool
+
+
+
+
+Hammam Olpul (Meditation centre)
+
+
+
+
+
+Yoga pavilion deck with views of the Chyulu
+
+
+
+
+Hills
+
+
+
+
+Relaxation area with Lamu beds
+
+
+
+
+Complimentary WiFi throughout camp
+
+
+
+
+Free laundry and dryer facilities
+
+
+
+
+Iron and iron board
+
+
+
+
+
+Elevator
+
+
+
+
+Vacuum cleaner
+
+
+
+
+Video surveillance
+
+
+
+
+24 hour check in
+
+
+
+
+Airport pick up
+
+
+
+
+Car rental/pool
+
+
+
+
+
+Digital TV channels
+
+
+
+
+24 hour reception services
+
+
+
+
+Laundry and dry cleaning
+
+
+
+
+fridge/freezer
+
+
+
+
+2 hot plates/stove
+
+
+
+
+fresh towels and sheets on arrival
+
+
+
+
+
+Cleaning services
+
+
+
+
+change of towels sheet
+
+
+
+
+Free WIFI
+
+
+
+
+change of towels and sheet
+
+
+
+
+Elevator
+
+
+
+
+Iron / ironing board
+
+
+
+
+
+Private Beach
+
+
+
+
+Tenis Courts
+
+
+
+
+Jungle Gym
+
+
+
+
+Vegan Restaurant
+
+
+
+
+Meditation Lounge and Pavilions
+
+
+
+
+Open -air summer terrace
+
+
+
+
+
+Wine-bar
+
+
+
+
+Café
+
+
+
+
+Winter garden
+
+
+
+
+Conference centre with many conference and meeting rooms
+
+
+
+
+Non smoking rooms
+
+
+
+
+wifi access in all rooms and floors
+
+
+
+
+
+24 hours service
+
+
+
+
+24 hour service
+
+
+
+
+Internet Connection
+
+
+
+
+Large Fridge with Freezer Compartment
+
+
+
+
+Combo Microwave
+
+
+
+
+Cooking Range
+
+
+
+
+
+Valet
+
+
+
+
+All Day Dining
+
+
+
+
+Male And Female Moroccan Bath and Steam Room (S.T.O)
+
+
+
+
+Full Pledge Spa with separate ladies and gents area (S.T.O)
+
+
+
+
+Male And Female Saloon (S.T.O)
+
+
+
+
+Covered Parking Garage
+
+
+
+
+
+Private sand beach
+
+
+
+
+Full-service spa
+
+
+
+
+SPA-Sauna-Turkish Bath
+
+
+
+
+Laundry Room
+
+
+
+
+Nearby public transport
+
+
+
+
+Flat Sharing
+
+
+
+
+
+24h key retrieval
+
+
+
+
+Cable Tv
+
+
+
+
+Cleaning
+
+
+
+
+24h emergency number
+
+
+
+
+Technical Assistance
+
+
+
+
+Creditcard payment
+
+
+
+
+
+Easy access for disabled
+
+
+
+
+Free Breakfast
+
+
+
+
+Function Suite
+
+
+
+
+International Electric Socket
+
+
+
+
+Complimentary WiFi
+
+
+
+
+En-suite Shower Room
+
+
+
+
+
+LCD TV with Freeview
+
+
+
+
+Continental Breakfast (7:30-9:30AM)
+
+
+
+
+24/7 Reception
+
+
+
+
+Daily Cleaning Service
+
+
+
+
+Complimentary Toiletries
+
+
+
+
+Safety Deposit Box
+
+
+
+
+
+Hairdryer
+
+
+
+
+Electronic Key Card
+
+
+
+
+Ironing Facilities
+
+
+
+
+98 classic bedrooms and 4 suites all individually air conditioned
+
+
+
+
+Caravaggio’s restaurant
+
+
+
+
+Winners bar
+
+
+
+
+
+Parking available at nearby location at €12 per 24 hours
+
+
+
+
+24 hour access to our fitness suite, available for the use of residents
+
+
+
+
+Meeting rooms and function space available for private hire
+
+
+
+
+Restaurent
+
+
+
+
+Audio Visual Equipment
+
+
+
+
+conference suite
+
+
+
+
+
+Copy Services
+
+
+
+
+Executive Desk
+
+
+
+
+Express Check-out
+
+
+
+
+Female Executive Rooms
+
+
+
+
+Honeymoon Suite
+
+
+
+
+Maid service
+
+
+
+
+
+Meeting Suite
+
+
+
+
+Multilingual
+
+
+
+
+Oversized Rooms
+
+
+
+
+Projector
+
+
+
+
+Public Address system
+
+
+
+
+Recreational Vehicle Parking
+
+
+
+
+
+Western Room Style
+
+
+
+
+White Board
+
+
+
+
+wifi
+
+
+
+
+24-hour check in services
+
+
+
+
+Light / Luma / Luxe Rooms
+
+
+
+
+Taxi service
+
+
+
+
+
+Newspapers
+
+
+
+
+Luggage storage
+
+
+
+
+London Tours and Cruises
+
+
+
+
+Non Smoking Property
+
+
+
+
+Street-Side Parking (Charges Apply)
+
+
+
+
+Tour Desk
+
+
+
+
+
+Newspapers (Chargable basis)
+
+
+
+
+Car hire & Chauffeur services arranged
+
+
+
+
+Japanese Spa
+
+
+
+
+Fitness Gym
+
+
+
+
+Underground Free Parking
+
+
+
+
+Super Market
+
+
+
+
+
+Fully fitted kitchen with appliances
+
+
+
+
+Fridge with freezer compartment
+
+
+
+
+Professional Team
+
+
+
+
+The Aromas Of India - Multi-cuisine AC Restaurant
+
+
+
+
+4-hour Hot Water
+
+
+
+
+10 Inch Cozy Mattresses in Rooms
+
+
+
+
+
+De Island - Rooftop Resto Bar
+
+
+
+
+32” LED TV with HD Channels
+
+
+
+
+Tea and Coffee Maker
+
+
+
+
+24-hour Room Services
+
+
+
+
+Direct Dialing
+
+
+
+
+24-hours Hot Water
+
+
+
+
+
+Linen
+
+
+
+
+Towels
+
+
+
+
+Towels/Sheets (extra fee)
+
+
+
+
+Slippers
+
+
+
+
+Toilet
+
+
+
+
+Free toiletries
+
+
+
+
+
+Bathrobe
+
+
+
+
+Sun terrace
+
+
+
+
+Massage
+
+
+
+
+Spa and wellness centre
+
+
+
+
+Fitness centre
+
+
+
+
+Electric kettle
+
+
+
+
+
+Dining area
+
+
+
+
+Seating Area
+
+
+
+
+Desk
+
+
+
+
+Flat-screen TV
+
+
+
+
+Cable Channels
+
+
+
+
+Satellite Channels
+
+
+
+
+
+Video Games
+
+
+
+
+Video
+
+
+
+
+Radio
+
+
+
+
+Telephone
+
+
+
+
+Pay-per-view Channels
+
+
+
+
+Special diet menus (on request)
+
+
+
+
+
+Snack bar
+
+
+
+
+Restaurant (buffet)
+
+
+
+
+Restaurant (à la carte)
+
+
+
+
+Breakfast in the room
+
+
+
+
+Minibar
+
+
+
+
+Free Private Parking
+
+
+
+
+
+Private check-in/check-out
+
+
+
+
+Concierge service
+
+
+
+
+Currency exchange
+
+
+
+
+Express check-in/check-out
+
+
+
+
+Ironing service
+
+
+
+
+Fax/photocopying
+
+
+
+
+
+Meeting/banquet facilities
+
+
+
+
+Shared lounge/TV area
+
+
+
+
+Shuttle service (surcharge)
+
+
+
+
+Designated smoking area
+
+
+
+
+Non-smoking throughout
+
+
+
+
+Shops (on site)
+
+
+
+
+
+Heating
+
+
+
+
+Car hire
+
+
+
+
+Interconnected room(s) available
+
+
+
+
+Packed lunches
+
+
+
+
+Carpeted
+
+
+
+
+Gift shop
+
+
+
+
+
+Lift
+
+
+
+
+Bridal suite
+
+
+
+
+VIP room facilities
+
+
+
+
+Fan
+
+
+
+
+Non-smoking rooms
+
+
+
+
+12m High observation deck
+
+
+
+
+
+Prayer room separate for Ladies and Gents
+
+
+
+
+Bathroom/WC
+
+
+
+
+Meet and greet
+
+
+
+
+24 hour check in kiosk, Helgesens gate 1
+
+
+
+
+Powerful, high-speed internet for all your devices in your room and all public areas
+
+
+
+
+Outdoor Heated Salt Water Lap Pool and Jacuzzi with stunning urban views
+
+
+
+
+
+Fitness Studio with state-of-the-art cardio equipment
+
+
+
+
+Business Centre with multiple computer stations and printer
+
+
+
+
+Local telephone calls from your room or suite
+
+
+
+
+Bicycles to tour our wonderful city (please reserve early!)
+
+
+
+
+Daily newspaper in our 5th floor lounge, L’Orangerie
+
+
+
+
+Cocktail lounge - charge to room
+
+
+
+
+
+
+Others
+
+
+
+
+
+Hotel Image:
+
+
+
++
+
+-
+
+Hotel Video(Please Provide URL):
+
+
+
+
+
+
+Room Type:
+
+
+Room Name (Max 20 Characters)
+*
+:
+
+
+
+
+Facilities:
+
+
+
+
+
+
+
+Complimentary Broadband Internet Access/WiFi
+
+
+
+
+Air conditioning
+
+
+
+
+Chargeable Broadband Internet Access/WiFi
+
+
+
+
+Complimentary In-room coffee/tea making facilities
+
+
+
+
+
+Flat Televisions
+
+
+
+
+Hair Dryer
+
+
+
+
+Free Morning Newspaper Delivered to Room
+
+
+
+
+Cable TV
+
+
+
+
+
+Television
+
+
+
+
+In Room Movies - Pay Per View
+
+
+
+
+In Room Video Check-out
+
+
+
+
+Strereo
+
+
+
+
+
+Video Review/Check-out
+
+
+
+
+Work Desk with Lamp
+
+
+
+
+Desk Level Electrical Outlet
+
+
+
+
+Electrical Adapters Available
+
+
+
+
+
+Power Converters Available
+
+
+
+
+Phone with Voicemail
+
+
+
+
+WorldLink - Power and Phone/Internet Connector
+
+
+
+
+Mini Bar
+
+
+
+
+
+Double Glazed Windows
+
+
+
+
+Crib (on request)
+
+
+
+
+Iron / Ironing Board
+
+
+
+
+Separate Hanging Closet
+
+
+
+
+
+Trouser Press
+
+
+
+
+Slippers
+
+
+
+
+Bathrobe
+
+
+
+
+Ipod Docking System
+
+
+
+
+
+Oven/hob
+
+
+
+
+Microwave
+
+
+
+
+Fridge
+
+
+
+
+Basic cooking utensils
+
+
+
+
+
+Dining tables
+
+
+
+
+Safe Box
+
+
+
+
+Telephone
+
+
+
+
+Washing Machine
+
+
+
+
+
+Complimentary Bottles of Water
+
+
+
+
+Fresh Flowers
+
+
+
+
+Business and Leisure Magazines
+
+
+
+
+Garden View
+
+
+
+
+
+City View
+
+
+
+
+Sea View
+
+
+
+
+Balcony
+
+
+
+
+Sofa
+
+
+
+
+
+Toiletries
+
+
+
+
+Fruit Basket
+
+
+
+
+Coffee Machine
+
+
+
+
+Jacuzzi/ Hot Tub
+
+
+
+
+
+Living Room
+
+
+
+
+Complimentary Soft Drinks
+
+
+
+
+Quality furnishings & amenities
+
+
+
+
+Fully fitted kitchens
+
+
+
+
+
+Freezer
+
+
+
+
+Kettle
+
+
+
+
+Washer dryer
+
+
+
+
+Laptop sized safety deposit box
+
+
+
+
+
+Vacuum Cleaner
+
+
+
+
+Secure Entry System
+
+
+
+
+Standard Welcome Pack
+
+
+
+
+Weekly Maid Service
+
+
+
+
+
+linen change
+
+
+
+
+Wellness Facility
+
+
+
+
+Bathroom Slippers
+
+
+
+
+In room refreshment
+
+
+
+
+
+Electronic security lock system
+
+
+
+
+Direct dial Local / STD / ISD facility
+
+
+
+
+Laptop size electronic safety lockers in all the rooms
+
+
+
+
+Welcome drink & face towel on arrival (non-alcoholic)
+
+
+
+
+
+24- hour in-room dining
+
+
+
+
+Doctor on call
+
+
+
+
+Valet parking
+
+
+
+
+Fitness centre with modern amenities
+
+
+
+
+
+Ultra luxury mattresses
+
+
+
+
+32 D2H TV
+
+
+
+
+Rain shower
+
+
+
+
+Tea & coffee maker
+
+
+
+
+
+Ultra modern bathrooms
+
+
+
+
+7 am to 11 pm  room service
+
+
+
+
+Ensuite Facilities
+
+
+
+
+Direct dial Phone
+
+
+
+
+
+Wake up call service
+
+
+
+
+Hospitality Tray
+
+
+
+
+fridge with freezer
+
+
+
+
+dishes/cutlery
+
+
+
+
+
+kitchen utensil
+
+
+
+
+2 cooking plates
+
+
+
+
+open kitchen
+
+
+
+
+partly terrace
+
+
+
+
+
+double bed (size 1,60m)
+
+
+
+
+French bed (size 1,40m)
+
+
+
+
+bathroom with bath tub or shower
+
+
+
+
+bathrobe on request
+
+
+
+
+
+partly balcony
+
+
+
+
+double bed (size 1,80m)
+
+
+
+
+Bathroom with shower
+
+
+
+
+microwave with barbecue and convection
+
+
+
+
+
+double bed
+
+
+
+
+DSL
+
+
+
+
+DVD-player on request
+
+
+
+
+vanity mirror
+
+
+
+
+
+radio/stereo set
+
+
+
+
+4 cooking plates
+
+
+
+
+balcony/terrace
+
+
+
+
+partly connecting door
+
+
+
+
+
+laminate
+
+
+
+
+parquet floor
+
+
+
+
+docking station iPhone + iPod
+
+
+
+
+walk-in wardrobe
+
+
+
+
+
+Separate lavatory
+
+
+
+
+Smart card lock for Room
+
+
+
+
+Writing Table & chair
+
+
+
+
+Ac
+
+
+
+
+
+pool view
+
+
+
+
+satellite channels
+
+
+
+
+Private Entrance
+
+
+
+
+Soundproofing
+
+
+
+
+
+Mosquito Net
+
+
+
+
+Wardrobe
+
+
+
+
+Toilet
+
+
+
+
+Dining Area
+
+
+
+
+
+Public Computer available at lobby
+
+
+
+
+Full Central Heating
+
+
+
+
+Full English Breakfast
+
+
+
+
+Air conditioning
+
+
+
+
+
+Sauna
+
+
+
+
+Forgotten Garden
+
+
+
+
+Shoe shine on request
+
+
+
+
+2 bottles of water per day
+
+
+
+
+
+News paper
+
+
+
+
+Shampoo, Soap
+
+
+
+
+Dental kit
+
+
+
+
+Shaving kit
+
+
+
+
+
+Breakfast
+
+
+
+
+LCD TV
+
+
+
+
+Work desk
+
+
+
+
+Full length Mirror
+
+
+
+
+
+Well Furnished Decor
+
+
+
+
+Room Service
+
+
+
+
+Complimentary News Paper
+
+
+
+
+Travel Desk
+
+
+
+
+
+Concierge Service
+
+
+
+
+Airport Shuttle
+
+
+
+
+Security
+
+
+
+
+Mini Fridge
+
+
+
+
+
+Attached bathroom
+
+
+
+
+Hot water
+
+
+
+
+Mineral water
+
+
+
+
+Airport Transportation
+
+
+
+
+
+Tours/Ticket Assistance
+
+
+
+
+Free Breakfast
+
+
+
+
+Seating Area
+
+
+
+
+Daily Newspaper
+
+
+
+
+
+Body Lotions
+
+
+
+
+Weighing Scale
+
+
+
+
+Shoe Shiner & Shoe Horn
+
+
+
+
+Single Lady Amenities
+
+
+
+
+
+On Request Facilities
+
+
+
+
+Daily cleaning
+
+
+
+
+24-hours power supply
+
+
+
+
+Comfortable beds and linen
+
+
+
+
+
+Hot and cold water
+
+
+
+
+Desk in Club Room
+
+
+
+
+40 inch LED TV
+
+
+
+
+Digital safe
+
+
+
+
+
+Flat screen tv
+
+
+
+
+Beauty set
+
+
+
+
+Towels
+
+
+
+
+Floor covering
+
+
+
+
+
+Leisure section of the room
+
+
+
+
+Plasma TV
+
+
+
+
+Housekeeping
+
+
+
+
+Heaters
+
+
+
+
+
+firewood in winter
+
+
+
+
+bathrobes
+
+
+
+
+No- Alcoholic (on Request)
+
+
+
+
+Spacious work Station
+
+
+
+
+
+River view/Garden View/Pool View/City View/
+
+
+
+
+Electronic Safe
+
+
+
+
+Direct dail Facilty
+
+
+
+
+Roll away bed(On Request)
+
+
+
+
+
+24 Hours Room Service
+
+
+
+
+European Plug Sockets
+
+
+
+
+Electronic Locks
+
+
+
+
+Ticket Printing
+
+
+
+
+
+Safe Desk
+
+
+
+
+Intercom
+
+
+
+
+Fans
+
+
+
+
+CERAMIC PLATES
+
+
+
+
+
+Juicer
+
+
+
+
+Baby Crib
+
+
+
+
+Bed Sheets
+
+
+
+
+Smoking is allowed
+
+
+
+
+
+Animals Allowed
+
+
+
+
+TERRACE INTERIOR
+
+
+
+
+LCD TV
+
+
+
+
+Climate control
+
+
+
+
+
+Organic Bath amenities
+
+
+
+
+Customized Spa Beds
+
+
+
+
+Personal Alonso services
+
+
+
+
+Direct access to Al Seef Village Mall
+
+
+
+
+
+Recreation facilities
+
+
+
+
+Four outdoor pools
+
+
+
+
+The biggest Jacuzzi in Abu Dhabi
+
+
+
+
+Luxury Car rental services
+
+
+
+
+
+Babysitting / Child care services
+
+
+
+
+Luxury Spa
+
+
+
+
+Clock
+
+
+
+
+High speed Wi-Fi internet access
+
+
+
+
+
+patio
+
+
+
+
+mountain  View
+
+
+
+
+Heating
+
+
+
+
+communicative rooms available (s)
+
+
+
+
+
+rooms entirely on the ground floor
+
+
+
+
+upper floors only accessible by stairs
+
+
+
+
+fully accessible for disabled
+
+
+
+
+Safety Lockers
+
+
+
+
+
+Tea Set
+
+
+
+
+Water boiler
+
+
+
+
+Table lamp
+
+
+
+
+Bath/hand & face
+
+
+
+
+
+Comb
+
+
+
+
+Shower cap
+
+
+
+
+Disposal bag
+
+
+
+
+Laundry bag
+
+
+
+
+
+Weighing Machine
+
+
+
+
+24X7 Front desk
+
+
+
+
+Bell boy
+
+
+
+
+American breakfast
+
+
+
+
+
+Laundry services
+
+
+
+
+Free WIFI
+
+
+
+
+Torch
+
+
+
+
+Soap
+
+
+
+
+
+Toilet rolls
+
+
+
+
+Cloth Hangers
+
+
+
+
+Closet
+
+
+
+
+UmbrellaUmbrella
+
+
+
+
+
+Extra Blanket
+
+
+
+
+220 AC
+
+
+
+
+Belt staff/Porter
+
+
+
+
+Security Box in room
+
+
+
+
+
+Eco-friendly bath amenities
+
+
+
+
+24-hour hot & cold water
+
+
+
+
+Business desk with international power sockets
+
+
+
+
+Indoor & outdoor parking
+
+
+
+
+
+Complimentary newspaper every morning on request
+
+
+
+
+Centrally Located Hotel
+
+
+
+
+Neatly and Tastefully designed rooms
+
+
+
+
+Concierge service for traveling
+
+
+
+
+
+Rental car service (on request)
+
+
+
+
+Guest Laundry services (on request)
+
+
+
+
+LCDs with more than 50 channels
+
+
+
+
+Pick up and drop services (on request)
+
+
+
+
+
+Safety Deposit Box
+
+
+
+
+Wireless Internet
+
+
+
+
+Satellite TV
+
+
+
+
+Room Size: 330 Sq.Ft.
+
+
+
+
+
+Centrally Air-Conditioned
+
+
+
+
+WI-Fi & Wired Internet
+
+
+
+
+Marble Bathroom with Bath Tub
+
+
+
+
+Complimentary On-site parking
+
+
+
+
+
+Room Size: 480 sq.ft..
+
+
+
+
+1 King / Twin Bed
+
+
+
+
+Dining Table
+
+
+
+
+Room Size: 530 sq. ft.
+
+
+
+
+
+1 King Bed
+
+
+
+
+2 Flat-Screen TV
+
+
+
+
+Room Size:475 sq.ft..
+
+
+
+
+Pantry with Microwave & Sink
+
+
+
+
+
+Room Size: 600 sq. ft.
+
+
+
+
+Extra Rollaway bed available on request (chargeable)
+
+
+
+
+1 Baby cot on request
+
+
+
+
+Mini-bar (No alcohol - chargeable as per consumption)
+
+
+
+
+
+Bathrobes & Slippers on request
+
+
+
+
+Qibla direction in room
+
+
+
+
+Prayer mats available
+
+
+
+
+Quran available on request
+
+
+
+
+
+2 Phones
+
+
+
+
+11 News, 5 Business, 8 Movie,1 Kids, 21 English, 30 Arabic, 7 Iranian, 11 European & Russian, 10 Ind
+
+
+
+
+1 Queen (180x200)
+
+
+
+
+Extra Rollaway Bed on request (chargeable
+
+
+
+
+
+1 Sofa + 1 Chair
+
+
+
+
+Table
+
+
+
+
+3 Phones
+
+
+
+
+20+ Radio Channels
+
+
+
+
+
+Cleaning
+
+
+
+
+Easy Access for  Disabled
+
+
+
+
+Elevators
+
+
+
+
+24 hours Emergency Number
+
+
+
+
+
+Paid Parking
+
+
+
+
+Technical Assistance
+
+
+
+
+Flat Sharing
+
+
+
+
+Creditcard Payment
+
+
+
+
+
+Maximum capacity: 4 adults + 1 baby
+
+
+
+
+Maximum capacity: 3 adults
+
+
+
+
+Calefacción
+
+
+
+
+2/3 adults or 2 adults y 2 children
+
+
+
+
+
+2 person
+
+
+
+
+4 persons
+
+
+
+
+Uo to 6 person
+
+
+
+
+Maximum Occupancy: 2 Adults + 1 Child (0-12yrs)
+
+
+
+
+
+1 chair
+
+
+
+
+Safe deposit locker room at Reception
+
+
+
+
+Weighing scale on request
+
+
+
+
+2 standard size
+
+
+
+
+
+Outlet with dual voltage adaptors
+
+
+
+
+Maximum occupancy: 3 Adults or 2 Adults + 1 Child (0-12yrs)
+
+
+
+
+3 standard size
+
+
+
+
+Voicemail & Speaker phone
+
+
+
+
+
+2 Bathrooms
+
+
+
+
+Bathrobes and slippers only in Suites, others on request.
+
+
+
+
+40" Standard & 48" Suites inch flat-screen interactive TV with satellite channels
+
+
+
+
+Free standing copper bath tub
+
+
+
+
+
+Outdoor and indoor shower
+
+
+
+
+Universal sockets
+
+
+
+
+Africology amenities
+
+
+
+
+Luxury linens
+
+
+
+
+
+Maxi bar
+
+
+
+
+Turn down
+
+
+
+
+Room Size 32 sq. m
+
+
+
+
+King Bed/Twin Bed (2)
+
+
+
+
+
+Room Size	56 sq. m
+
+
+
+
+Room Size	42 m2
+
+
+
+
+Bed Type	Queen Size
+
+
+
+
+Non-smoking & smoking
+
+
+
+
+
+Bathtub with shower
+
+
+
+
+Fully furnished
+
+
+
+
+hot plates + stove
+
+
+
+
+Equipped Kitchenette
+
+
+
+
+
+Microwave oven
+
+
+
+
+Digital TV channels
+
+
+
+
+Fresh towels and sheets on arrival
+
+
+
+
+Laundry and dry cleaning
+
+
+
+
+
+Cleaning services
+
+
+
+
+Change of towels and Sheets
+
+
+
+
+24 hour check inn
+
+
+
+
+2 hot plates
+
+
+
+
+
+Digital TV channels/Smart TV
+
+
+
+
+Breakfast delivered at the door
+
+
+
+
+Free cribs/infant beds
+
+
+
+
+Continental Breakfast Buffet 7am-10:30am
+
+
+
+
+
+Tea Coffee facility in Room
+
+
+
+
+Free Handy Device in every room
+
+
+
+
+24 hours Reception
+
+
+
+
+All room en-suite
+
+
+
+
+
+Complementary tea & coffee from 6am-10am.
+
+
+
+
+Luggage Storage
+
+
+
+
+Safe-deposit box in rooms
+
+
+
+
+Dry cleaning/laundry service
+
+
+
+
+
+Free newspapers in lobby
+
+
+
+
+Complimentary drinking water and herbal teas with hot water kettle
+
+
+
+
+beds are possible to prepare as TWIN or DOUBLE (queen size bed 210x100cm)
+
+
+
+
+bathroom with a tub combinated with a shower and a bidet
+
+
+
+
+
+a minibar, a phone with direct call, a safe
+
+
+
+
+LCD TV with satellite programmes (some rooms are equipped with satellite receiver)
+
+
+
+
+internet connection in rooms – LAN a WiFi – FREE OF CHARGE
+
+
+
+
+High speed internet – free of charge
+
+
+
+
+
+controlled air-conditioning
+
+
+
+
+rooms Superior and Suite, Family Suite Junior and Apartments have a beautiful view of the landsmark
+
+
+
+
+balcony and/or extra bed available in some rooms
+
+
+
+
+Flat-screen TV with satellite channels.
+
+
+
+
+
+Full kitchenette
+
+
+
+
+A safety deposit box
+
+
+
+
+Large Fridge with Freezer Compartment
+
+
+
+
+Combo Microwave
+
+
+
+
+
+Cooking Range
+
+
+
+
+Iron and iron board upon request
+
+
+
+
+Internet Connection
+
+
+
+
+200 sq. m.
+
+
+
+
+
+3 bedrooms with double bed
+
+
+
+
+2 bathrooms with corner shower and hairdryer
+
+
+
+
+1 bathroom with bathtub and shower and hairdryer
+
+
+
+
+Room for 8 persons with an extra bed
+
+
+
+
+
+Conference facilities
+
+
+
+
+Representation for up to 80 persons
+
+
+
+
+Large living room
+
+
+
+
+Large dining room
+
+
+
+
+
+Kitchen with lots of equipment
+
+
+
+
+2 large terraces
+
+
+
+
+View over Geilo
+
+
+
+
+TV and WiFi
+
+
+
+
+
+Elevator directly to Spa & Fitness
+
+
+
+
+Penthouse addition per day and night. Price on request.
+
+
+
+
+140 sq. m.
+
+
+
+
+4 bedrooms with double bed
+
+
+
+
+
+2 bathrooms with hairdryer
+
+
+
+
+One of the bathrooms has a bathtub
+
+
+
+
+Room for 8 persons
+
+
+
+
+Fully equipped kitchen
+
+
+
+
+
+Large terrace
+
+
+
+
+170 sq. m. Situated on 3d floor of he building
+
+
+
+
+1 bedroom with double bed and bath on ground floor.
+
+
+
+
+3 bedrooms, TV room and 1 bathroom on 1. floor
+
+
+
+
+
+Room for 12 persons, with sofa bed
+
+
+
+
+Restaurent
+
+
+
+
+Wifi
+
+
+
+
+All Major Cards are Accepted
+
+
+
+
+
+Optional extra connecting double bedroom with bathroom on ground floor
+
+
+
+
+TV room on first floor
+
+
+
+
+Kitchen with all equipment
+
+
+
+
+Terrace facing west
+
+
+
+
+
+Kitchen and dining room
+
+
+
+
+120 m2 apartment situated on the third floor
+
+
+
+
+3 bedrooms with double bed and 2 bathrooms
+
+
+
+
+Large TV room on the first floor. Here there is place for extra beds.
+
+
+
+
+
+Room for 10 people w/extra beds
+
+
+
+
+Living room and kitchen with dining place
+
+
+
+
+Kitchen with all equipment
+
+
+
+
+Terrace facing west
+
+
+
+
+
+Meeting / Banquet Facilities
+
+
+
+
+Fax/photocopying
+
+
+
+
+Free private parking
+
+
+
+
+modern decor
+
+
+
+
+
+Free internet
+
+
+
+
+Equipped kitchen from Sigdal and some with Kvenum kitchen
+
+
+
+
+Bathroom with shower. Someone with more bathrooms
+
+
+
+
+Bathroom with hairdryer
+
+
+
+
+
+Most rooms have two twin beds
+
+
+
+
+Desktop
+
+
+
+
+Some of the rooms have sofa bed
+
+
+
+
+Family room of 30 sq. m.
+
+
+
+
+
+Double bed and bed bunk
+
+
+
+
+Most rooms have 2 twin beds
+
+
+
+
+Sofa beds in many of the rooms
+
+
+
+
+Great suite of 54 m2
+
+
+
+
+
+1 bedroom with double bed
+
+
+
+
+Room for 2 persons. Optional extra bed, 4 persons
+
+
+
+
+Kitchen and dining place for 6 persons
+
+
+
+
+Terrace
+
+
+
+
+
+Addition from NOK 1.000,- per day and night
+
+
+
+
+Several suites have connecting double room
+
+
+
+
+Great suites from 54 to 75 sq. m.
+
+
+
+
+Bathroom with shower corner
+
+
+
+
+
+Room for 4 persons. 6 persons with sofa bed/extra bed
+
+
+
+
+Addition from NOK 750,- for suites with double room and bunk bed
+
+
+
+
+Large and great suites of 80 sq. m.
+
+
+
+
+2 double bedrooms
+
+
+
+
+
+1 bunk bed bedroom
+
+
+
+
+Room for 6 (8) persons
+
+
+
+
+Price on request
+
+
+
+
+Shared sauna
+
+
+
+
+
+Addition from NOK 1.500,- per night and day
+
+
+
+
+Free minibar items
+
+
+
+
+Premium bedding
+
+
+
+
+SPA-Sauna-Turkish Bath
+
+
+
+
+
+Bath or Shower
+
+
+
+
+Full chambermaid service
+
+
+
+
+Free WIFI Throughout
+
+
+
+
+Tea / coffee making facilities
+
+
+
+
+
+Hairdryers
+
+
+
+
+Ironing Facilities
+
+
+
+
+Flatscreen TV’s with freeview
+
+
+
+
+Desks
+
+
+
+
+
+Direct Dial Telephones
+
+
+
+
+International Outlet Adapter
+
+
+
+
+LCD digital TV
+
+
+
+
+En-suite shower room
+
+
+
+
+
+Daily Cleaning Service
+
+
+
+
+Kitchenette, Fully Equipped, including a Hob
+
+
+
+
+Complimentary high speed WIFI
+
+
+
+
+24-7 Reception
+
+
+
+
+
+US and European plug sockets
+
+
+
+
+24h key retrieval
+
+
+
+
+Nearby public transport
+
+
+
+
+Professional Team
+
+
+
+
+
+High Speed Internet
+
+
+
+
+European and American sockets
+
+
+
+
+home docking station
+
+
+
+
+Koil pillow top mattress
+
+
+
+
+
+Working Desk
+
+
+
+
+Cribs Available
+
+
+
+
+Grab Bars in Bathrooms
+
+
+
+
+Temperature Control
+
+
+
+
+
+WC
+
+
+
+
+Equipped Kitchen
+
+
+
+
+4 hot plates/Stove
+
+
+
+
+Fridge/freezer
+
+
+
+
+
+24-hour check in services
+
+
+
+
+Bar
+
+
+
+
+Outdoor Parking
+
+
+
+
+Jogging Track
+
+
+
+
+
+Audio Visual Equipment
+
+
+
+
+copy service
+
+
+
+
+Express Check Out
+
+
+
+
+Handicap Facility
+
+
+
+
+
+Honeymoon Suite
+
+
+
+
+lounge
+
+
+
+
+Meeting Suite
+
+
+
+
+Multilingual
+
+
+
+
+
+Non-smoking Room
+
+
+
+
+2 Twin Beds 100cm x 200cm
+
+
+
+
+Flat screen tv with satellite channels
+
+
+
+
+Handy Phone
+
+
+
+
+
+Mini-tablet
+
+
+
+
+Accessible rooms
+
+
+
+
+Family rooms - Connecting rooms, accommodating up to six sleepers
+
+
+
+
+Shower
+
+
+
+
+
+Bespoke LUMA Hotel Toiletries
+
+
+
+
+Heated floor
+
+
+
+
+LAN Internet
+
+
+
+
+Dressing gown and carpet slippers
+
+
+
+
+
+Television with Freeview
+
+
+
+
+Nespresso machine
+
+
+
+
+Luggage Rack
+
+
+
+
+Remote control 32” flat screen tv with satellite channels
+
+
+
+
+
+Hairdryer (2000w fast hairdryer)
+
+
+
+
+Tea & coffee making facilities / Nespresso machine
+
+
+
+
+Shower cap / toiletries
+
+
+
+
+Sky TV
+
+
+
+
+
+Minibar with pre-made house cocktails
+
+
+
+
+Oak floors
+
+
+
+
+Funky feature rugs
+
+
+
+
+Contemporary art
+
+
+
+
+
+Super-king four poster beds (in most rooms)
+
+
+
+
+Key and card-less access (smartphone enabled)
+
+
+
+
+Spacious, top-spec bathrooms with rainforest showers
+
+
+
+
+LED screens
+
+
+
+
+
+2 single Beds
+
+
+
+
+Pre-Paid Air Conditioning
+
+
+
+
+1 King / 1 Queen Bed
+
+
+
+
+40 inch LCD
+
+
+
+
+
+Electric cooker
+
+
+
+
+Rice Cooker
+
+
+
+
+Electronic pot
+
+
+
+
+Frying Pan
+
+
+
+
+
+Saucepot
+
+
+
+
+Pot with handle
+
+
+
+
+Bowl
+
+
+
+
+Soup Bowl
+
+
+
+
+
+"Donburi" Large Bowl
+
+
+
+
+Cereal Bowl
+
+
+
+
+Mug
+
+
+
+
+Tea Cup
+
+
+
+
+
+Saucer
+
+
+
+
+Tea pot
+
+
+
+
+Glass
+
+
+
+
+Wine Glass
+
+
+
+
+
+Table Knife
+
+
+
+
+Table fork
+
+
+
+
+Table spoon
+
+
+
+
+Tea spoon
+
+
+
+
+
+Butter Knife
+
+
+
+
+Soup spoon
+
+
+
+
+Rice paddle
+
+
+
+
+Chopsticks (long)
+
+
+
+
+
+Chopsticks
+
+
+
+
+Kitchen knives
+
+
+
+
+Kitchen scissors
+
+
+
+
+Turner
+
+
+
+
+
+Ladle
+
+
+
+
+Peeler
+
+
+
+
+Can opener
+
+
+
+
+Wine opener
+
+
+
+
+
+Chopping board
+
+
+
+
+Sieve
+
+
+
+
+Dish stand
+
+
+
+
+Salt & pepper
+
+
+
+
+
+Kitchen cloth
+
+
+
+
+Sponge
+
+
+
+
+Kitchen garbage bin
+
+
+
+
+Garbage bin
+
+
+
+
+
+Bed with slide out drawer
+
+
+
+
+Desk with drawers & Chair
+
+
+
+
+Dining table & 2 Chairs
+
+
+
+
+TV board
+
+
+
+
+
+Floor lamp
+
+
+
+
+Desk lamp
+
+
+
+
+Toothbrush/toothpaste
+
+
+
+
+Conditioner
+
+
+
+
+
+Shower gel
+
+
+
+
+Bath towel
+
+
+
+
+Hand towel
+
+
+
+
+Face towel
+
+
+
+
+
+Bath mat
+
+
+
+
+Fully fitted kitchen with appliances
+
+
+
+
+Fridge with freezer compartment
+
+
+
+
+Cutlery
+
+
+
+
+
+Cooking pots
+
+
+
+
+Dishcloths
+
+
+
+
+Individual heating system with thermostat
+
+
+
+
+Cable flat screen TV with remote
+
+
+
+
+
+Videophone
+
+
+
+
+Installed bathroom with shower or bath
+
+
+
+
+Bath and bed-linen
+
+
+
+
+Dining table and chairs
+
+
+
+
+
+Iron and ironing board
+
+
+
+
+GYM
+
+
+
+
+Pool
+
+
+
+
+Bathroom with shower and bathtub
+
+
+
+
+
+Direct Dialing
+
+
+
+
+LED Television with HD Channels
+
+
+
+
+Pay-per-view Channels
+
+
+
+
+Radio
+
+
+
+
+
+Video
+
+
+
+
+Satellite
+
+
+
+
+Channels
+
+
+
+
+Cable Channels
+
+
+
+
+
+Flat-screen TV
+
+
+
+
+Carpeted
+
+
+
+
+Interconnected room(s) available
+
+
+
+
+Bath
+
+
+
+
+
+Free toiletries
+
+
+
+
+Bathroom
+
+
+
+
+Electric kettle
+
+
+
+
+Towels/Sheets (extra fee)
+
+
+
+
+
+Linen
+
+
+
+
+Hardwood/Parquet floors
+
+
+
+
+Wardrobe/Closet
+
+
+
+
+Wake-up service
+
+
+
+
+
+Upper floors accessible by lift
+
+
+
+
+Family rooms
+
+
+
+
+Sun terrace
+
+
+
+
+BBQ facilitie
+
+
+
+
+
+Kids' outdoor play equipment
+
+
+
+
+Books, DVDs, music for children
+
+
+
+
+Children television networks
+
+
+
+
+Bicycle rental (surcharge)
+
+
+
+
+
+Underfloor heating
+
+
+
+
+Complimentary WiFi
+
+
+
+
+Interconnecting room(s) available
+
+
+
+
+Suit press
+
+
+
+
+
+Bathtub or shower
+
+
+
+
+Fax
+
+
+
+
+Postruepedic Mattress
+
+
+
+
+Indian Bottle Of Wine
+
+
+
+
+
+room service (24h on charge)
+
+
+
+
+soundproof windows
+
+
+
+
+Private Balcony
+
+
+
+
+Master Bedroom
+
+
+
+
+
+Two 48” flat screen TV
+
+
+
+
+Telephone with voice mail
+
+
+
+
+Digital fax and modem connection (ISDN, DSL)
+
+
+
+
+Room safe
+
+
+
+
+
+Flatscreen-TV with Pay-TV channels
+
+
+
+
+Small Seating Arrangement
+
+
+
+
+Furnished with a French Bed
+
+
+
+
+24-hour access to gym
+
+
+
+
+
+Rain shower head in & Bathtub
+
+
+
+
+Welcome drink upon arrival
+
+
+
+
+LCD TV with a DTH Connection
+
+
+
+
+Exotic Ayurvedic toiletries
+
+
+
+
+
+Controlled air-conditioning/heating
+
+
+
+
+Tea and coffee Facility
+
+
+
+
+Antiallergic bedding
+
+
+
+
+Bathroom/WC
+
+
+
+
+
+Internet via cable (subject to charge)
+
+
+
+
+Satellite TV with Pay-TV & SAT on demand
+
+
+
+
+Wired and wireless internet access
+
+
+
+
+Kettle with coffee and tea
+
+
+
+
+
+Flat screen with 80 international digital TV channels (including 10 english channels)
+
+
+
+
+Dressing Mirror
+
+
+
+
+Minifreezer
+
+
+
+
+Cot
+
+
+
+
+
+Laptop-sized room safe
+
+
+
+
+A bottle of water
+
+
+
+
+Kitchenette / Pantry
+
+
+
+
+Guest Toilet
+
+
+
+
+
+Air conditioning with individual climate control
+
+
+
+
+Pad machine for coffee and tea
+
+
+
+
+Minibar (non-alcoholic drinks for free)
+
+
+
+
+Cosmetic Mirror
+
+
+
+
+
+VIP-Access
+
+
+
+
+Individually adjustable air conditioning/heating
+
+
+
+
+Telephone number
+
+
+
+
+Free Internet via wi-fi
+
+
+
+
+
+Allergy-friendly bedding
+
+
+
+
+WLAN free of charge
+
+
+
+
+Anti allergic bedding
+
+
+
+
+Satellite TV with Pay-TV channels and SAT on demand
+
+
+
+
+
+37- or 42-inch LCD televisions
+
+
+
+
+Laptop-sized room safe with electrical connection
+
+
+
+
+Kettle for tea and coffee
+
+
+
+
+TV satellitare
+
+
+
+
+
+Wi-fi (for a fee)
+
+
+
+
+Internet via cable (for a fee)
+
+
+
+
+Bathroom with shower, bathtub and separate WC
+
+
+
+
+Shaver socket
+
+
+
+
+
+Central air conditioning system
+
+
+
+
+Flat TV with Internet television and international TV broadcasters
+
+
+
+
+Free wireless Internet access
+
+
+
+
+Spacious covered terrace or balcony
+
+
+
+
+
+Satellite TV
+
+
+
+
+Tea & Coffee Making Facilities
+
+
+
+
+Baby Care Facilities
+
+
+
+
+Children's Bathroom Amenities
+
+
+
+
+
+Pillow Menu
+
+
+
+
+Flat Screen TV With Satellite Channels
+
+
+
+
+Electronic Room Safe
+
+
+
+
+Make-Up Mirror
+
+
+
+
+
+Ironing Room
+
+
+
+
+Butler service (Chargeable)
+
+
+
+
+Free Minibar
+
+
+
+
+Coffee Machine
+
+
+
+
+
+Balcony, terrace oder French balcony
+
+
+
+
+Minibar
+
+
+
+
+Laptop-Sized Room Safe
+
+
+
+
+LCD TV With Digital Channels & Radio
+
+
+
+
+
+Paid For Internet Access
+
+
+
+
+High Speed Internet Access
+
+
+
+
+Writing Desk
+
+
+
+
+Room Safe (Charges Apply)
+
+
+
+
+
+Balcony in 2 of the apartments
+
+
+
+
+The White Company toiletries
+
+
+
+
+Bottle of VIVREAU filtered water
+
+
+
+
+USB port
+
+
+
+
+
+Duvet and choice of pillow
+
+
+
+
+iHome Bluetooth music station
+
+
+
+
+Two sets of bathrobes and slippers
+
+
+
+
+Mending and Vanity kits
+
+
+
+
+
+Fairtrade tea and coffee making facilities
+
+
+
+
+Working desk and fibre optic lighting
+
+
+
+
+Elevator access to Fitness First Gymnasium (weekdays only)
+
+
+
+
+Lounge area with sofa bed
+
+
+
+
+
+Safe suitable for up to 17’’ laptop
+
+
+
+
+King sized bed with Luxurious bedding & Hypoallergenic Pillows
+
+
+
+
+Gilchrist & Soames bathroom amenities
+
+
+
+
+Plush terry bathrobes and slippers
+
+
+
+
+
+In-Room electronic safe - Iron and full-length ironing board
+
+
+
+
+Flat Screen HDTV
+
+
+
+
+Bath and Bodyworks Bath Amenities
+
+
+
+
+Writing Desk with Electrical Outlet
+
+
+
+
+
+Pillow-top mattresses and Luxury Italian Frette Linens
+
+
+
+
+Movies - Pay-per-view
+
+
+
+
+Nightly turn-down service with complimentary bottled water
+
+
+
+
+Cable/Satellite
+
+
+
+
+
+LED TV
+
+
+
+
+Others
+
+
+
+
+
+Room Images
+
+
+
+
+
++
+
+-
+
+
+
+
+
+
+
+
+
+**Please send us your hotel images and individual room images that you wish to upload on our website. Also, if you have a video of your hotel which you wish to upload please send us a link from where we can upload and add to you profile.
+
+
+
+Verification Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customer feedback
+
+98% Rating (based of 583 reviews)
+
+Read the latest independent
+
+customer feedback about our service.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Account
+
+About Us
+
+Contact Us
+
+Customer Care
+
+Terms & Conditions
+
+Privacy and Cookies
+
+Send to Friend
+
+FAQ
+
+Sitemap
+
+Jobs
+
+New Hotel Signup
+
+Affiliate Program
+
+Our Social Responsibility
+
+Travel Braggies
+
+
+
+
+
+Copyrights
+©
+2017.
+World Hotel Marketing
+&
+ThinkHotels.com
+
+

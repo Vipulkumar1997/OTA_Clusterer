@@ -1,0 +1,602 @@
+
+Chic Treats collection from Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHIC TREATS
+
+Inspiration
+
+
+
+From lavish cocktails and winery tours, to 3-course meals and full-to-the-brim hampers: book with us and you can enjoy complimentary and unique treats on your travels, just to make your trip extra special. We've rounded up some of our favourite Chic Treats below.
+
+
+
+
+
+
+
+
+
+€
+81
+Night
+
+Navutu Dreams Resort & Wellness Retreat
+
+Cambodia
+,
+Siem Reap
+
+
+Tucked away from the hustle and bustle of Siem Reap centre, Navutu Dreams Resort & Spa is an eco-chic hotel & spa which boasts 3 swimming pools, a fitness centre and a restaurant. It provides guests with free WiFi, and is just a 7 minute TukTuk drive from Old Market and Pub Street.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+425
+Night
+
+Villa Crespi
+
+Italy
+,
+Novara
+,
+Orta San Giulio
+
+
+Villa Crespi is a Moorish villa on Lake Orta in Piedmont, Italy. Foodie heaven, it is known for its exquisite 2 Michelin star food created by 'celebrity chef' Antonino Cannavacciuolo, author of 'I am boss in the kitchen' which was published in 2013.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+574
+Night
+
+Villa Col di Casale
+
+Italy
+,
+Perugia
+,
+Pietralunga
+
+
+'Stunning', 'idyllic', 'paradise found' and 'beyond expectations' are just some of the words used by previous guests to describe Villa Col di Casale, a fully-equipped luxury villa, sleeping 8, in the Umbrian countryside. Perfect for friends & families this countryside hideaway is a fabulous private alternative to a boutique hotel in Umbria.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+€
+186
+Night
+
+Pure Salt Port Adriano
+
+Spain
+,
+Balearic Islands
+,
+Mallorca
+
+
+Experience child-free luxury like never before at Pure Salt Port Adriano, Mallorca. Located in Calvia, this luxury hotel has one of the best luxury spas in Mallorca and is an oasis of calm in a stunning location overlooking the Port Adriano.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+320
+Night
+
+Coco Palm Dhuni Kolhu
+
+Maldives
+,
+Baa Atoll
+
+
+Coco Palm Dhuni Kohlu is a luxury hotel in the Maldives that combines bespoke service, contemporary design and a barefoot chic vibe. Within easy reach of Male, this island hideaway is a short boat ride away from the airport.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+527
+Night
+
+Coco Bodu Hithi
+
+Maldives
+,
+Male Atoll
+
+
+Coco Bodu Hithi is a luxury hotel that spans the entirety of a stunning tropical island in the Maldives; this is an idyllic retreat for the mind, body and soul. A stay at this hip hideaway will ensure you are pampered, refreshed and revitalised.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+144
+Night
+
+The Black Boy Pub and Hotel
+
+United Kingdom
+,
+Oxfordshire
+,
+Oxford
+
+
+Once a run down pub with blackened ceilings, The Black Boy Pub and Hotel in Old Headington, Oxford, has been transformed into a gastropub with 5 contemporary rooms by business partners Abigail, self-confessed foodie and chef Chris who met each other whilst working for Raymond Blanc.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+412
+Night
+
+Foxhill Manor
+
+United Kingdom
+,
+England
+,
+Cotswolds
+
+
+'Whatever you fancy, wherever you fancy it' is the rather cheeky motto at Foxhill Manor, the newest country house hotel in the Cotswolds. With just 8 rooms, this lavish boutique hotel can also be taken over in its entirety for your very own house party where children of all ages are accepted.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+€
+189
+Night
+
+Hotel TerraVina
+
+United Kingdom
+,
+South East
+,
+Hampshire
+
+
+Hotel TerraVina has received great acclaim from the off. With sommelier Gerard Basset and Nina at the helm, this is a wine-lovers paradise in Hampshire's New Forest. This boutique hotel has good food, great service and a lovely natural setting.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

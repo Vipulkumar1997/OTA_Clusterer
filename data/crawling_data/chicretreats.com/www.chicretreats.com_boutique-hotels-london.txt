@@ -1,0 +1,623 @@
+
+Boutique Hotels in London | Luxury Chic Hotels
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+London
+
+
+Europe
+,
+United Kingdom
+
+
+
+
+
+
+18
+Hotels
+
+Explore
+
+
+
+
+
+
+Mold-setting, boundary-breaking London is a cultural phenomenon. From Hampstead Heath’s tranquil parkland to the cooler-than-thou rooftops of Peckham, each of its boroughs holds on to a unique sense of style and proudly parades an international smorgasbord of culinary feats. Packed with iconic sights, world-renowned museums and designer talent, this capital
+par excellence
+is a world onto itself. Its charming boutique hotels are no less eclectic: from terraced Victorian boltholes to hip East End members’ rooms and Knightsbridge grand dames, each welcomes weary travellers home.
+More about London.
+
+
+
+When to go
+
+There’s never a bad time to visit the capital, though the notoriously fickle British weather can dampen spirits in winter. High summer can be crowded with tourists, but the long daylight hours more than make up for it.
+
+Food & Drink
+
+It’s London – you can get almost any food you can imagine at any hour of the day. The capital’s lively markets draw local foodies every weekend; we love Borough Market’s riverside location and Broadway Market’s hipster vibe. For spectacular views try Searcys in the Gherkin or the Shard’s award-winning Hutong. St John led the vanguard in nose-to-tail eating: book early for masterful British classics.
+
+Not to miss
+
+Forgo breakfast in bed and head early to Columbia Road Flower Market on a Sunday morning for Instagram-worthy shots of the East End in bloom.
+
+
+
+Nightlife
+
+London’s legendary nightlife is as varied as its boroughs. Sashay the night away in iconic clubs Fabric and Ministry of Sound, or seek out intimate bars for cocktail-fuelled evenings. It may be tiny, but the Gibson rustles up some of the capital’s most spectacular tipples; Scarfe’s club-like digs are good for gin-soaked fun.
+
+Where to stay in London
+
+A stone’s throw from bustling shops and inviting restaurants, photogenic Notting Hill is London at its most romantic. Knightsbridge is packed with designer shops and handy for Hyde Park. Marylebone has high-end boutiques, artisanal foodie haunts and an appealing air of bygone elegance.
+
+How to get there
+
+London Gatwick, Stansted and Luton airports are well-served by low-cost flights to Europe; Heathrow Airport is a major international hub with direct connections to the rest of the world. Hop on the Eurostar to reach Paris and Brussels in record time.
+
+
+
+Read less
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in London
+
+
+
+
+
+
+
+
+
+
+£
+195
+Night
+
+The Portobello Hotel
+
+United Kingdom
+,
+England
+,
+London
+
+
+The Portobello Hotel, one of the most romantic boutique hotels in London, is a Notting Hill institution popular with the music, entertainment and fashion crowds. A real haven, this luxury hotel is right in the heart of West London, walking distance from some great shops, restaurants & bars.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+263
+Night
+
+11 Cadogan Gardens
+
+United Kingdom
+,
+England
+,
+London
+
+
+Tucked away on a quiet street in Knightsbridge, London, 11 Cadogan Gardens is a delightful 56 room boutique hotel in the heart of the city.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+147
+Night
+
+Cranley Hotel
+
+United Kingdom
+,
+England
+,
+London
+
+
+Cranley Hotel is a small luxury hotel in fashionable South Kensington, London. The stylish rooms have a chic English style befitting the renovated 19th-century townhouses. In a prime location for the city's best sights, museums & shopping.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+93
+Night
+
+The Colonnade Hotel
+
+United Kingdom
+,
+England
+,
+London
+
+
+Birthplace of Alan Turing, The Colonnade Hotel is full of history and is a charming boutique hotel in Little Venice, London. Not far from Paddington Station and less than 5 minutes from Warwick Avenue tube station it is easy to get into the city and the West End.
+
+
+
+BOOK
+
+
+
+
+
+
+ALL HOTELS IN London
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+FROM THE BLOG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liz Wootton
+
+Nine of London’s best Michelin-starred restaurants
+
+
+With 11 two or three Michelin-starred restaurants to its name, London is the ultimate destination for the world’s best culinary experiences. Below we’ve put together a brief guide to some of the finest restaurants:
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

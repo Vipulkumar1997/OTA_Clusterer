@@ -1,0 +1,706 @@
+
+Boutique Hotels Spain | Luxury Hotels & B&Bs;
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Spain
+
+
+Europe
+
+
+
+
+
+
+44
+Hotels
+
+Explore
+
+
+
+
+
+
+On every hit list for summer sun, Spain lures travellers in with the breathtaking diversity of its landscape and an enduring zest for life. Each of its regions has something to set it apart, and each, naturally boasts of having the most lively bars, head-turning gastronomy and jaw-dropping monuments. Whether for a weekend getaway or a romantic beach break, our Spanish boutique hotels all have one thing in common: they’re all about superlatives.
+
+
+
+
+
+
+
+
+Destinations in Spain
+
+
+
+
+
+
+
+
+
+
+Andalucia Hotels
+
+One of Spain’s most romantic regions, Andalucia has a fairytale feel. Hilltop fortresses, soaring Gothic churches and exquisite palaces jostle for attention within easy reach of the Costa del Sol’s goldens sands.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Balearic Islands Hotels
+
+A stay in the postcard-perfect Balearic Islands needn’t just mean bars, beaches and pulsing beats. Away from the bustling coastal hotspots, Mallorca, Menorca and Ibiza offer style-savvy country houses, charming haciendas and pampering luxury hotels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+East Coast of Spain Hotels
+
+Boisterous Barcelona’s Gothic quarters, tapas bars and Modernist wonders may take centre stage, but this Med-flanking region is also rightfully proud of its miles of golden beaches, idyllic rural retreats and soul-stirring vistas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canary Islands Hotels
+
+There’s more to the Canary Islands than all-inclusive resorts and revelry: blessed with year-round sunshine, arcs of spellbinding shores and dramatic volcanic peaks, the archipelago has become a sanctuary for thrill-seekers and idle loungers alike.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Central Spain Hotels
+
+With round-the-clock bars, trendy clubs and inspired art collections, Madrid makes a head-turning base to explore the Spanish heartlands. Beyond the capital, a seductive landscape of ancient hamlets, sprawling forests and spectacular mountain ranges awaits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Spain Hotels
+
+Home to white-sand beaches, verdant mountains and the culinary capital of San Sebastian, the Basque Country has long cultivated its own sense of place and identity.
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Spain
+
+
+
+
+
+
+
+
+
+
+£
+79
+Night
+
+Hotel Gran Claustre
+
+Spain
+,
+Catalonia
+,
+Tarragona
+
+
+Hotel Gran Claustre, restaurant and spa, is one of the best small luxury hotels near Tarragona. It is located in the medieval town centre of Altafulla, in Catalonia, north east Spain. The beach is only 5 minutes away making it the perfect Chic Retreat for relaxing as well as exploring the Costa Dorada region.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+162
+Night
+
+Pure Salt Port Adriano
+
+Spain
+,
+Balearic Islands
+,
+Mallorca
+
+
+Experience child-free luxury like never before at Pure Salt Port Adriano, Mallorca. Located in Calvia, this luxury hotel has one of the best luxury spas in Mallorca and is an oasis of calm in a stunning location overlooking the Port Adriano.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+172
+Night
+
+The One Barcelona
+
+Spain
+,
+Catalonia
+,
+Barcelona
+
+
+The One Barcelona is more than just a luxury hotel, it's an elegant oasis in one of the best parts of town. The 89 rooms & suites are bright and airy and the rooftop pool is the perfect sun trap.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+196
+Night
+
+Fountainhead Retreat Hotel
+
+Spain
+,
+Andalucia
+,
+Malaga
+
+
+Fountainhead Retreat Hotel is a romantic boutique hotel set in the Andalucian countryside. If you have done the city breaks and fancy a weekend destination with a difference then try this chic retreat, with just 4 suites, an intimate restaurant & spa.
+
+
+
+BOOK
+
+
+
+
+
+
+ALL HOTELS IN Spain
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+FROM THE BLOG
+
+
+
+
+
+
+
+
+CHIC RETREATS
+
+Spanish Surprises: 3 Destinations Off The Beaten Track
+
+
+Outside of Barcelona, Madrid and Seville, Spain is brimming full of wonderful sights, sounds and experiences for the traveller willing to head off the tourist trails. Exploring some of the less well-known regions can be an intensely rewarding experience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LULU TOWNSEND
+
+The Chic Guide to Mallorca
+
+
+Mallorca is the middle, and largest, of a set of islands set in the Mediterranean off the east cost of Spain. It has a varied terrain, which means that although the majority of visitors come for the coast and beaches, there is a growing interest in the island’s fertile plains and mountainous regions.
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

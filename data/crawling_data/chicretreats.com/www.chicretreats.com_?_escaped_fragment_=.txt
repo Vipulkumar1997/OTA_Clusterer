@@ -1,0 +1,782 @@
+
+Boutique Hotels & Villas | Luxury Holidays | Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE ULTIMATE BOUTIQUE HOTEL COLLECTION
+
+
+Discover boutique hotels and stay with our hosts to create unforgettable chic memories.
+
+
+
+
+
+
+
+
+
+
+CHARMING MOROCCAN CHIC
+
+Riad de Tarabel, Marrakech, Morocco
+
+
+
+
+
+
+
+
+BE CHARMED BY CHELTENHAM
+
+No. 131, Cheltenham, United Kingdom
+
+
+
+
+
+
+
+
+A SECRET GARDEN IN AMSTERDAM
+
+Canal House, Amsterdam, Holland
+
+
+
+
+
+
+
+
+BESPOKE BOUTIQUE SHOPPING
+
+J.K. Place Firenze, Florence, Italy
+
+
+
+
+
+
+
+
+PUT YOUR FEET UP IN ITALY
+
+Fontelunga Hotel & Villas, Arezzo, Italy
+
+
+
+
+
+
+
+
+A GLORIOUS GOLFING GETAWAY
+
+Argentario Golf Resort & Spa, Tuscany, Italy
+
+
+
+
+
+
+
+
+TUSCAN FOOD FROM THE HEART
+
+Il Falconiere, Tuscany, Italy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AMAZING RETREATS
+
+Each hotel selected for its unique charm by Lulu the founder
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us
+
+
+
+
+
+
+
+
+
+BE INSPIRED
+
+
+
+
+
+
+
+
+
+
+HOTELS IN MARRAKECH
+
+Chilled out winter sun
+
+
+
+
+
+
+
+
+BUDGET BOUTIQUE HOTELS
+
+Hotels for under £100 per night
+
+
+
+
+
+
+
+
+
+ADULT-ONLY HOTELS
+
+
+
+
+
+
+
+
+NEW HOTELS
+
+Our latest boutique finds
+
+
+
+
+
+
+
+
+WINTER SUN SPECIAL OFFERS
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+JK PLACE FLORENCE - meet Claudio Meli
+
+Discover hidden Florence
+
+
+
+
+
+
+
+
+
+THE VIEW LUGANO
+
+An award-winning design hotel & spa in Switzerland
+
+
+
+
+
+
+
+
+
+JK PLACE FLORENCE - meet Claudio Meli
+
+Discover hidden Florence
+
+
+
+
+
+
+
+
+
+PARIS HOTELS
+
+Romantic stays
+
+
+
+
+
+
+
+
+CHIC TREATS
+
+Special gifts for our guests
+
+
+
+
+
+
+
+
+CHIC RETREATS
+
+Journal
+
+
+
+
+
+
+
+
+
+MORE INSPIRATIONS
+
+
+
+
+
+
+
+
+
+LABOURS OF LOVE
+
+Our Story
+
+
+
+
+
+
+
+LABOURS OF LOVE
+
+Born out of my passion for unique, small independent properties, Chic Retreats is a travel lifestyle brand dedicated to uncovering exceptional hotels around the world.
+
+OUR STORY
+
+
+
+
+
+
+
+
+
+CHIC ITINERARIES
+
+3 days in Tuscany
+
+
+
+
+
+
+
+
+CHIC EXPERIENCES
+
+Powered by Touriocity
+
+
+
+
+
+
+
+
+SPECIAL OFFERS
+
+Our finest boutique deals
+
+
+
+
+
+
+
+
+
+WHAT OUR GUESTS SAY
+
+
+
+
+
+
+
+
+
+-
+-
+
+I have already recommended the hotel but also Chic Retreats. You were fab to deal with, a great team with a great product. Well done you guys!
+
+
+Bridget H
+
+
+
+
+
+
+-
+-
+
+Your company were great and I will certainly use you again in the future.
+
+
+Allie B
+
+
+
+
+
+
+-
+-
+
+This has been such a pleasant experience reserving through you. I truly appreciate all of your assistance!
+
+
+Elizabeth T
+
+
+
+
+
+
+
+
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

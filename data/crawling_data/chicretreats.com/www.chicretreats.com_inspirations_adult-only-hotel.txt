@@ -1,0 +1,712 @@
+
+Adult-only Hotels | Chic Retreats Inspirations
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+EUR
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADULT-ONLY HOTELS
+
+Inspiration
+
+
+
+Looking for a romantic and tranquil escape? Ideally uninterrupted by screaming babies or shouting children? Then look no further. Our adults-only hotels either have a strict no ‘under 16’s’ rule or are exclusively for two people, allowing you can get the rest and relaxation you need, in peace.
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+€
+441
+Night
+
+The Mandrake Hotel
+
+United Kingdom
+,
+England
+,
+London
+
+
+Just a few minute's walk from Oxford Street, The Mandrake is the newest boutique hotel in London to open and has 34 magnificent rooms and suites.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+127
+Night/room
+
+The Amala
+
+Indonesia
+,
+Bali
+
+
+The Amala is a gorgeous collection of 12 luxury villas in the fashionable town of Seminyak, Bali. Relax in this tranquil boutique collection, with a design influenced by Zen Buddhism, a luxury spa and personalized butler service. No children under 12 years old.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+320
+Night
+
+Coco Palm Dhuni Kolhu
+
+Maldives
+,
+Baa Atoll
+
+
+Coco Palm Dhuni Kohlu is a luxury hotel in the Maldives that combines bespoke service, contemporary design and a barefoot chic vibe. Within easy reach of Male, this island hideaway is a short boat ride away from the airport.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+277
+Night
+
+The Bale
+
+Indonesia
+,
+Bali
+
+
+The Balé is a luxury boutique hotel in Bali, situated in Nusa Dua. Featured in the HOT LIST of Conde Nast Traveller as one of the best boutique and spa hotels in the world.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+240
+Night
+
+Hotel Relais Villa del Golfo & Spa
+
+Italy
+,
+Olbia-Tempio
+,
+Cannigione
+
+
+If you are looking for a luxury romantic retreat with a strict adults-only policy then look no further. Relais Villa del Golfo & Spa is a luxury hideaway on the north-east coast of Sardinia overlooking the crystal clear waters of the Costa Smeralda.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+150
+Night
+
+Temps d'Or Hotel
+
+Luxembourg
+,
+Ansembourg
+
+
+Temps d'Or Hotel is an adults-only luxury boutique hotel, just half an hour from the centre of Luxembourg. This castle dates back to the 12th-century, and is the private residence of the current Count of Ansembourgand.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+210
+Night
+
+Riad de Tarabel
+
+Morocco
+,
+Marrakech-Tensift-El Haouz
+,
+Marrakech
+
+
+For a unique and refined riad experience in Marrakech, head to Riad de Tarabel in the Medina. Filled with light and designed in a French style, this 10 room hideaway is one of our favourite riads.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+106
+Night
+
+Japamala Resort
+
+Malaysia
+,
+Pahang
+,
+Tioman Island
+
+
+Japamala is a barefoot chic hideaway on the island of Tioman, just 45 minutes off the coast of mainland Malaysia. Made up of a collection of eco-friendly villas, wooden houses and sarangs this hip hotel and spa will appeal to the romantic and those with a sense of adventure looking for an authentic Malay experience.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+527
+Night
+
+Coco Bodu Hithi
+
+Maldives
+,
+Male Atoll
+
+
+Coco Bodu Hithi is a luxury hotel that spans the entirety of a stunning tropical island in the Maldives; this is an idyllic retreat for the mind, body and soul. A stay at this hip hideaway will ensure you are pampered, refreshed and revitalised.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+262
+Night
+
+Casa Marques
+
+Brazil
+,
+South East Region
+,
+Rio de Janeiro
+
+
+Casa Marques is a 12 suite boutique hotel above the city of Rio in the bohemian neighbourhood of Santa Teresa. With a roof top infinity pool and al fresco dining, there is no better place to enjoy the view of the city, the bay and Christ the Redeemer.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+159
+Night
+
+Villa Samadhi Kuala Lumpur
+
+Malaysia
+,
+Kuala Lumpur
+
+
+Just 10 minutes from Kuala Lumpur's city centre the 21 room Villa Samadhi is the ideal boutique hotel for you to choose if visiting KL for business or if you are flying in for a night before reaching your final destination.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+€
+107
+Night
+
+The Colonnade Hotel
+
+United Kingdom
+,
+England
+,
+London
+
+
+Birthplace of Alan Turing, The Colonnade Hotel is full of history and is a charming boutique hotel in Little Venice, London. Not far from Paddington Station and less than 5 minutes from Warwick Avenue tube station it is easy to get into the city and the West End.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

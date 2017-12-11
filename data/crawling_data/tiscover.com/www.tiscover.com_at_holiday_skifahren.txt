@@ -1,0 +1,595 @@
+
+Ski & Snowboard: Holidays in the Alps | Tiscover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of Favorites (
+0
+)
+
+
+
+
+English
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+My Tiscover
+
+
+
+
+
+E-Mail:*
+
+
+
+
+Password:*
+
+
+
+Password forgotten
+
+
+
+
+
+
+Register
+
+
+
+
+
+
+Booking overview
+
+E-mail, password
+
+Personal information
+
+Payment information
+
+
+Logout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lodgings
+
+
+
+Destinations
+
+
+
+Summer Holiday
+
+
+
+Winter Holiday
+
+
+
+Alpine Super Savers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+Lodgings
+
+
+
+Destinations
+
+
+
+Summer Holiday
+
+
+
+Winter Holiday
+
+
+
+Alpine Super Savers
+
+
+
+
+
+
+List of Favorites (
+0
+)
+
+My Tiscover
+
+
+
+Sprache: Deutsch
+
+Language: English
+
+
+
+
+
+
+
+
+
+
+
+
+My Tiscover:
+
+
+
+
+E-Mail:*
+
+
+
+
+Password:*
+
+
+
+Password forgotten
+
+
+
+
+
+
+
+Register
+
+< Back to overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ski holidays in the Alps
+stands for: Large ski areas, reliable snow in glacier ski areas, family ski regions, where kids truly feel at ease and snowboarding on heavenly powder snow slopes.
+
+The most stunning ski holidays ever: skiing, snowboarding and riding on dreamlike ski runs, a relaxing stop over at one of the quaint mountain huts, followed by a sunbathing session. Feeling at ease thanks to genuine hospitality and this very special Alpine flair of secluded mountain villages: a wonderful winter holiday has it all! Here you will find exactly what you are looking for as we have put together a complete list of the Alps' favorite ski regions like Sölden, Zillertal or Schladming promising wonderful winter holidays.
+
+
+Ski & Snowboard:
+
+
+
+
+
+
+
+
+Filter:
+{{noOfRegions}} {{noOfRegions != 1 ? 'Results' : 'Ergebnis'}}
+
+
+
+
+
+
+{{tag.name}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{activity.regionName}}
+
+
+
+
+{{activity.parentRgnName}}
+
+
+
+
+
+
+
+Number Ski areas:
+{{activity.winterInfo.noOfSkiareas}}
+
+Trails in kilometers:
+{{activity.winterInfo.trackLengthInKm}} km
+
+Elevation:
+{{activity.winterInfo.minAltitudeInM}} - {{activity.winterInfo.maxAltitudeInM}} m
+
+
+
+
+
+
+Snow Depth Valley:
+
+{{activity.winterInfo.minSnowHeightValleyInCm}} -
+{{activity.winterInfo.maxSnowHeightValleyInCm}} cm
+
+
+Snow Depth Mountain:
+
+{{activity.winterInfo.minSnowHeightMountainInCm}} -
+{{activity.winterInfo.maxSnowHeightMountainInCm}} cm
+
+
+
+
+
+
+
+...
+
+more
+
+
+
+
+
+
+Sorry, there are no results matching your selection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rating on Trusted Shop
+
+
+
+
+
+
+
+
+
+Known from TV
+
+
+
+
+
+
+
+
+
+
+
+Tiscover on
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+Google+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+Subscribe for our Newsletter!
+
+
+Details
+
+
+
+
+
+
+
+Please enter YOUR email address in the following format: firstname.lastname@domainname.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Tiscover
+
+
+
+Legal Notice
+
+
+
+Data Protection
+
+
+
+Contact
+
+
+
+Jobs
+
+
+
+
+
+For Customers
+
+
+
+Mobile
+
+
+
+FAQ
+
+
+
+Terms and Conditions
+
+
+
+My Tiscover
+
+
+
+Newsletter
+
+
+
+Route Planner
+
+
+
+Online Cancellation
+
+
+
+
+
+For Accommodations / Destinations
+
+
+
+Sign up your Accommodation
+
+
+
+Extranet
+
+
+
+Destination Marketing
+
+
+
+Terms and Conditions
+
+
+
+
+
+For Partners
+
+
+
+Affiliate Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© HRS Destination Solutions Austria GmbH 2017
+|
+Affiliate of
+HRS GROUP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

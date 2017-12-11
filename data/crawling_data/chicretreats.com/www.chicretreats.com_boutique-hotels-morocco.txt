@@ -1,0 +1,691 @@
+
+Boutique Hotels Morocco | Luxury Riads, Hotels & B&Bs;
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Morocco
+
+
+Africa
+
+
+
+
+
+
+37
+Hotels
+
+Explore
+
+
+
+
+
+
+A variegated patchwork of fairytale cities, bustling ports and cinematic mountains, Morocco draws visitors in with a distinctive culture and dazzling year-round sun. Its handicraft-laden souks, atmospheric medinas and breezy coastal cities pack a heady dose of historic allure, but its boutique riads and rural hideaways have wholeheartedly embraced a contemporary take on hospitality. Decked out with rooftop terraces, shaded courtyards and Instagram-worthy pools, these elegant retreats know how to pamper and spoil.
+
+
+
+
+
+
+
+Destinations in Morocco
+
+
+
+
+
+
+
+
+
+
+Marrakech Hotels
+
+A maze of meandering streets and bustling souks, colourful Marrakech is a haggler’s haven. It’s a soulful, cosmopolitan capital, where weary travellers can find solace in bijou riads and exotic boutique hotels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fez Hotels
+
+Less visited than Marrakech but just as captivating, its name alone evokes exquisite minarets, labyrinthine souks and spice-scented alleys. Raw, authentic and magnetic, Fez offers a taste of traditional Morocco.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Essaouira Hotels
+
+A sleepy coastal town for much of the year, windswept Essaouira transforms in spring and autumn into one of Morocco’s most charming destinations, where the slower pace of life calls for gentle medina strolls and leisurely sampling of the catch of the day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atlas Mountains Hotels
+
+A landscape of bloom-filled valleys and serpentine canyons, the Atlas Mountains are blessed with breathtaking views in addition to peaceful retreats, secluded Berber villages and indulgent spas.
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Morocco
+
+
+
+
+
+
+
+
+
+
+£
+89
+Night
+
+Fellah Hotel
+
+Morocco
+,
+Marrakech-Tensift-El Haouz
+,
+Marrakech
+
+
+Vibrant and authentic, Fellah Hotel is a cool & contemporary hotel just outside Marrakech. Escape from it all and help out on the farm or zone out with some yoga; there's something for all ages at this hip hideaway.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+78
+Night/room
+
+Riad Noir d'Ivoire
+
+Morocco
+,
+Marrakech-Tensift-El Haouz
+,
+Marrakech
+
+
+Riad Noir d'Ivoire is one of the best luxury riads in the heart of the Marrakech Medina. Elegantly styled, this luxurious retreat has 2 heated pools, a hammam & treatment room, restaurant and a fully-licensed lounge bar where you can relax to the sound of live jazz.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+174
+Night
+
+Banyan Tree Tamouda Bay
+
+Morocco
+,
+Tanger-Tetouan-Al Hoceima
+,
+Fnideq
+
+
+Banyan Tree Tamouda Bay is a luxury villa-only beach retreat on the north west coast of Morocco. With the Mediterranean sea lapping at its feet, it has a Mediterranean vibe and exudes Moroccan charm.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+146
+Night/room
+
+Riad Farnatchi
+
+Morocco
+,
+Marrakech-Tensift-El Haouz
+,
+Marrakech
+
+
+Riad Farnatchi is a luxury riad in Marrakech and one of the best Moroccan boutique hotels you'll find. This is the most spoiling experience to be had in the medina of Marrakech along with the best Hammam to be found anywhere.
+
+
+
+BOOK
+
+
+
+
+
+
+ALL HOTELS IN Morocco
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+FROM THE BLOG
+
+
+
+
+
+
+
+
+CHIC RETREATS
+
+The Chic Guide to Morocco
+
+
+Morocco is a fantastic all-year-round destination: expect balmy temperatures, bustling markets and cool desert breezes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHIC RETREATS
+
+A brief guide to Morocco’s Atlas Mountains
+
+
+A peaceful respite from the hustle and bustle of Morocco’s lively cities, the dramatic and diverse Atlas Mountains are a truly tremendous area of Morocco that simply cannot be missed. Trekking amongst the mountain range’s deep valley and traditional Berber villages is a truly unforgettable experience.
+
+
+
+
+
+
+CHIC RETREATS
+
+8 Must-Eat Foods in Morocco
+
+
+Although many travellers intend on tasting the real Morocco, few know what to look for when they arrive. Below are just some of the foods and drinks you should try while staying in this wonderful city...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

@@ -1,0 +1,450 @@
+
+Collections of boutique hotels and luxury villas from Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Story
+
+
+
+
+
+
+
+
+Born out of my passion for unique, small independent properties, Chic Retreats is a travel lifestyle brand dedicated to uncovering exceptional hotels around the world. The antidote to hours trawling bland, generic travel websites, Chic Retreats presents a carefully curated portfolio of properties for the most discerning travellers. From intimate B&Bs to stylish boutique hotels and design-led accommodation, each property offers a generous dose of charm as well as meticulous attention to the small details. We believe that what makes a hotel special is not its stars or rosettes, or whether there is a mini bar in the room, but the passionate people behind it, its unique concept and the lasting memories it creates. Our hotels tend to be run by the owners and are therefore 'labours of love'. They are generally small, so less than 30 rooms. These authentic places are ones you recommend to friends and seek to return to many times. They are the places that are defined by something rare and precious, by the impression they leave behind and the emotion they provoke.
+
+
+
+Lulu, Chic Retreats Founder
+
+
+
+
+
+
+
+
+
+
+Story of the Swallow
+
+The Chic Retreats 'Swallow' brand icon conveys the idea of frequent international travel to 'homes from home'...  Swallows have a worldwide cosmopolitan distribution, occurring on every continent except Antarctica. Many species have enormous worldwide ranges; they breed over most of the Northern Hemisphere and winter over most of the Southern Hemisphere.   The sight of the swallow indicates that summer is on the way, and the swallow that flies into your home will bring considerable good fortune according to English folklore.
+
+
+
+
+
+
+
+Our Promise
+
+We understand that stays away from home are precious so we only promote the loveliest of boutique hotels. We understand the intimate details of our hotels and match you with the places that meet your unique interests and preferences.  We understand that guests wish they receive the best value; not only do we check our prices daily, we also offer a Price Match Promise. We also offer ‘Chic Treats’, small benefits unique to the hotel, only available to those smart enough to book with us.
+
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

@@ -1,0 +1,595 @@
+
+Boutique Hotels in Portugal | Luxury Villas and B&B;'s
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Portugal
+
+
+Europe
+
+
+
+
+
+
+23
+Hotels
+
+Explore
+
+
+
+
+
+
+Once the very tip of Europe’s known world, Portugal has seen off waves of Roman, Arab and Spanish invaders. It’s a staggeringly beautiful country, blessed with a vibrant cultural life, soul-stirring scenery and postcard-worthy sights left behind by its would-be invaders. Visitors flock to Baroque Lisbon for old-world charm and contemporary cool. The southern coast of the Algarve is equally popular, packed as it is with sweeping beaches and pretty coastal towns, but further inland Portugal’s under-the-radar cities are beg to be explored.
+
+
+
+
+
+
+
+
+Destinations in Portugal
+
+
+
+
+
+
+
+
+
+
+Lisbon Hotels
+
+Sprawled across seven lofty hills, Lisbon’s cobbled neighbourhoods are packed with striking architecture and on-trend digs. With a creative spirit, buzzy bars and moreish custard tarts in its arsenal, this fun-loving city knows how to delight.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algarve Hotels
+
+From manicured sands to rugged cliffs, the Algarve spans miles of sun-soaked Atlantic coastline. Luxury villas and beachside suites call for idle lounging within easy reach of Faro’s medieval sights and lively nightlife.
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Portugal
+
+
+
+
+
+
+
+
+
+
+£
+118
+Night
+
+1908 Lisboa Hotel
+
+Portugal
+,
+Estremadura
+,
+Lisbon
+
+
+You'll find 1908 Lisboa Hotel in Intendente, the hippest, coolest neighbourhood in Lisbon. Hotel, restaurant, bar and hip hideaway, this award-winning building is surrounded by trendy cafes, bars, restaurants and shops.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+42
+Night
+
+The Bohemian Place
+
+Portugal
+,
+Beiras and Central
+,
+Aveiro
+
+
+At the heart of Aveiro, just two minutes from the train station, The Bohemian Place is a quirky 17 room boutique hotel in northern Portugal.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+161
+Night
+
+Carmo's Boutique Hotel
+
+Portugal
+,
+North
+,
+Viana do Castelo
+
+
+Carmo's Boutique Hotel is a stunning contemporary boutique hotel just 45 minutes from Oporto in Portugal and within 90 minutes drive of Santiago de Compostela, Spain.  This hip hideaway has 15 rooms and spoils guests with it's blissful spa treatments.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+£
+78
+Night
+
+Casas Da Lapa
+
+Portugal
+,
+Beiras and Central
+,
+Guarda
+
+
+Casas da Lapa is a small, family run boutique hotel that sits on the slopes of Serra da Estrela, Portugal surrounded by an area of national park. This village house has been restored and transformed into is former glory using traditional methods and materials including stone and local wood. Whilst the interiors show off the exquisite taste and contemporary design of the owners resulting in a cosy and sophisticated Chic Retreat.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+ALL HOTELS IN Portugal
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

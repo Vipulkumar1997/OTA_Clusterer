@@ -1,0 +1,455 @@
+
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQ
+
+
+
+
+
+
+
+What is Chic Retreats?
+
+Chic Retreats is a online service for booking rooms or a holiday at the world’s best luxury and boutique hotels, B&Bs;, guesthouses and villas - some of which cannot be found anywhere else online.
+
+
+
+
+
+Where is Chic Retreats based?
+
+Chic Retreats is based in London, England. The main office is located at 6 Percy Street, Fitzrovia, W1T 1DQ.
+
+
+
+
+
+
+Who started Chic Retreats?
+
+Chic Retreats was founded by Lulu Townsend in 2002, in order to make booking holidays easier at some of the world’s best luxury and boutique hotels. Luxury hotels and hospitality are in Lulu’s blood - her parents owned and ran Palazzo Terranova in Umbria, Italy. From humble beginnings in Lulu’s garden shed, Chic Retreats has grown over the last fifteen years to become an established niche player in the boutique hotel market, employing a dedicated team of travel experts ready to help you book your ideal holiday.
+
+
+
+
+
+Does it cost anything for me to have access to Chic Retreats?
+
+Not at all! Joining Chic Retreats is completely free and you’ll join our like minded community of those who are passionate about staying in undiscovered hidden gems. Once you have signed up you’ll be notified of our newest hotels and each time you book with us you’ll receive unique value added benefits ‘Chic Treats’ including complimentary upgrades or spa treatments.
+
+
+
+
+
+
+What is a ‘Chic Treat’?
+
+A ‘Chic Treat’ is an exclusive gift or privilege that Chic Retreats customers receive at their chosen hotel when they make a booking with us. It might be a welcome drink on arrival, special late checkout, complimentary local wine or spa treatment.
+
+
+
+
+
+How are Chic Retreats chosen?
+
+Chic Retreats are selected to join by Lulu Townsend, our founder and our team of experienced travel experts on an invitation only basis. They are carefully vetted for quality of service, presentation and atmosphere.
+
+
+
+
+
+
+How do I book a hotel with Chic Retreats?
+
+At the moment we are migrating from a request service, to a live booking service. This means that after you enter your details on the hotel page, most of the time your booking will be accepted straight away. Sometimes, however, there may be a short delay as we confirm your booking request with the hotel.
+
+
+
+
+
+Who can I contact at Chic Retreats for marketing, media or PR enquiries?
+
+Please contact Amanda Dyjecinski, CMO, at amanda.dyjecinski@chicretreats.com. We’d love to hear from you.
+
+
+
+
+
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

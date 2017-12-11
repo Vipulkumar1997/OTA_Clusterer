@@ -1,0 +1,1074 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go Top
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHF
+Swiss Franc
+
+
+
+GBP
+Pound Sterling
+
+EUR
+Euro
+
+USD
+US Dollar
+
+JPY
+Japanese Yen
+
+CNY
+Chinese Yuan Renminbi
+
+AFN
+Afghan Afghani
+ALL
+Albanian Lek
+DZD
+Algerian Dinar
+AOA
+Angolan Kwanza
+ARS
+Argentine Peso
+AMD
+Armenian Dram
+AWG
+Aruban or Dutch Guilder
+AUD
+Australian Dollar
+AZN
+Azerbaijan, New Manat
+BSD
+Bahamian Dollar
+BHD
+Bahrain Dinar
+BDT
+Bangladeshi Taka
+BBD
+Barbadian or Bajan Dollar
+LSL
+Basotho Loti
+BYR
+Belarusian Ruble
+BZD
+Belizean Dollar
+BMD
+Bermudian Dollar
+BTN
+Bhutanese Ngultrum
+BOB
+Bolivian Boliviano
+BAM
+Bosnian Convertible Marka
+BWP
+Botswana Pula
+BRL
+Brazilian Real
+BND
+Bruneian Dollar
+BGN
+Bulgarian Lev
+MMK
+Burmese Kyat
+BIF
+Burundian Franc
+KHR
+Cambodian Riel
+CAD
+Canadian Dollar
+CVE
+Cape Verdean Escudo
+KYD
+Caymanian Dollar
+XAF
+Central African CFA Franc BEAC
+XOF
+CFA Franc
+XPF
+CFP Franc
+CLP
+Chilean Peso
+COP
+Colombian Peso
+KMF
+Comoran Franc
+CDF
+Congolese Franc
+CRC
+Costa Rican Colon
+HRK
+Croatian Kuna
+CUC
+Cuban Convertible Peso
+CUP
+Cuban Peso
+CZK
+Czech Koruna
+DKK
+Danish Krone
+DJF
+Djiboutian Franc
+DOP
+Dominican Peso
+ANG
+Dutch Guilder
+XCD
+East Caribbean Dollar
+EGP
+Egyptian Pound
+SVC
+El Salvador Colones
+ERN
+Eritrean Nakfa
+CNH
+ERR
+BYN
+ERR
+EEK
+Estonia Krooni
+ETB
+Ethiopian Birr
+FKP
+Falkland Island Pound
+FJD
+Fijian Dollar
+GMD
+Gambian Dalasi
+GEL
+Georgian Lari
+GHS
+Ghanaian Cedi
+GIP
+Gibraltar Pound
+XAU
+Gold Ounces
+GTQ
+Guatemalan Quetzal
+GGP
+Guernsey Pounds
+GNF
+Guinean Franc
+GYD
+Guyanese dollar
+HTG
+Haitian Gourde
+HNL
+Honduran Lempira
+HKD
+Hong Kong Dollar
+HUF
+Hungarian Forint
+ISK
+Icelandic Krona
+INR
+Indian Rupee
+IDR
+Indonesian Rupiah
+XDR
+International Monetary Fund Special Drawing Rights
+IRR
+Iranian Rial
+IQD
+Iraqi Dinar
+IMP
+Isle of Man Pounds
+ILS
+Israeli Shekel
+JMD
+Jamaican Dollar
+JEP
+Jersey Pounds
+JOD
+Jordanian Dinar
+KZT
+Kazakhstani Tenge
+KES
+Kenyan Shilling
+KWD
+Kuwaiti Dinar
+KGS
+Kyrgyzstani Som
+LAK
+Lao or Laotian Kip
+LVL
+Latvian Lat
+LBP
+Lebanese Pound
+LRD
+Liberian Dollar
+LYD
+Libyan Dinar
+LTL
+Lithuanian Litas
+MOP
+Macau Pataca
+MKD
+Macedonian Denar
+MGA
+Malagasy Ariary
+MWK
+Malawian Kwacha
+MYR
+Malaysian Ringgit
+MVR
+Maldivian Rufiyaa
+MRO
+Mauritanian Ouguiya
+MUR
+Mauritian Rupee
+MXN
+Mexican Peso
+MDL
+Moldovan Leu
+MNT
+Mongolian Tughrik
+MAD
+Moroccan Dirham
+MZN
+Mozambican Metical
+NAD
+Namibian Dollar
+NPR
+Nepalese Rupee
+NAG
+Netherlands Antillean guilder
+NZD
+New Zealand Dollar
+VUV
+Ni-Vanuatu Vatu
+NIO
+Nicaraguan Cordoba
+NGN
+Nigerian Naira
+KPW
+North Korean Won
+NOK
+Norwegian Krone
+OMR
+Omani Rial
+PKR
+Pakistani Rupee
+XPD
+Palladium Ounces
+PAB
+Panamanian Balboa
+PGK
+Papua New Guinean Kina
+PYG
+Paraguayan Guarani
+PEN
+Peruvian Nuevo Sol
+PHP
+Philippine Peso
+XPT
+Platinum Ounces
+PLN
+Polish Zloty
+QAR
+Qatari Riyal
+RON
+Romanian New Leu
+RUB
+Russian Ruble
+RWF
+Rwandan Franc
+SHP
+Saint Helenian Pound
+WST
+Samoan Tala
+STD
+Sao Tome and Principe dobra
+SAR
+Saudi Arabian Riyal
+SPL
+Seborga Luigini
+RSD
+Serbian Dinar
+SCR
+Seychellois Rupee
+SLL
+Sierra Leonean Leone
+XAG
+Silver Ounces
+SGD
+Singapore Dollar
+SBD
+Solomon Islander Dollar
+SOS
+Somali Shilling
+ZAR
+South African Rand
+KRW
+South Korean Won
+LKR
+Sri Lankan Rupee
+SDG
+Sudanese Pound
+SRD
+Surinamese Dollar
+SZL
+Swazi Lilangeni
+SEK
+Swedish Krona
+CHF
+Swiss Franc
+SYP
+Syrian Pound
+TWD
+Taiwan New Dollar
+TJS
+Tajikistani Somoni
+TZS
+Tanzanian Shilling
+THB
+Thai Baht
+TOP
+Tongan Pa anga
+TTD
+Trinidadian Dollar
+TND
+Tunisian Dinar
+TRY
+Turkish Lira
+TMM
+Turkmenistan Manats
+TMT
+Turkmenistani Manat
+TVD
+Tuvaluan Dollar
+UGX
+Ugandan Shilling
+UAH
+Ukrainian Hryvna
+AED
+United Arab Emirates Dirhams
+UYU
+Uruguayan Peso
+UZS
+Uzbekistani Som
+VEB
+Venezuela Bolivares
+VEF
+Venezuelan Bolivar
+VND
+Vietnamese Dong
+YER
+Yemeni Rial
+ZMK
+Zambia Kwacha
+ZMW
+Zambian Kwacha
+ZWD
+Zimbabwe Dollars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Destinations/Hotels
+
+
+
+
+
+
+
+Check-in:
+
+
+Check-out:
+
+
+
+
+
+
+Rooms:
+
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+
+
+Adults:
+
+Children:
+
+
+
+
+Room 1:
+
+
+
+1
+
+2
+
+3
+
+4
+
+
+
+
+
+
+0
+
+1
+
+2
+
+3
+
+4
+
+
+
+
+
+
+
+
+
+
+
+Best Rate Guaranteed
+
+Book Now Pay Later
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy and Cookies
+
+
+ThinkHotels.com is committed to protecting your personal information and privacy. This document lays out how we use your personal information and our use of cookies, as well as how to contact us for any questions you may have regarding our use of your information.
+
+The following information applies to all online accommodation reservation services provided through our websites, mobile apps, partner websites and social media.
+
+Privacy
+What kind of personal information does ThinkHotels.com use?
+
+We will ask for your name, email address, postal address, telephone number, payment information, the names of anyone travelling with you and any preferences you might have, when you make a reservation with us.
+
+You may choose to create a user account to save your settings, see your booking history and manage your reservations.
+
+Even if you don't make a reservation, we may collect details like the kind of browser you are using, your IP address, your operating system, application versions, language settings and which pages you visited. If you visit our site from a mobile device, we may also collect information to identify your device, your settings, and your location based on latitude and longitude.
+
+Certain social media platforms may also communicate some information about you to us.
+
+Why does ThinkHotels.com share, use and collect personal details?
+
+
+
+•
+
+Reservations: Most importantly, we use your details to make your reservation and confirm it with the hotel provider.
+
+
+
+•
+
+Guest reviews: We might use your email address to contact you after your stay and ask you to write a guest review of your accommodation. Reviews help other guests to make an informed choice about their own stay.
+
+
+
+•
+
+Account administration: If you choose to create a user account, we will use your information to allow you to manage your current bookings and personal settings, make future reservations easily, and participate in special offers.
+
+
+
+•
+
+Marketing activities: We will only use your personal information for lawful marketing activities. For example:
+
+
+
+
+
+If you provide us with your contact information, we may send you regular email newsletters, or other news about our destinations and properties. You are free to unsubscribe from these communications at any time.
+
+
+
+We may use the information we gather to show you individualised promotions and offers on our website and any related apps.
+
+
+
+If you have provided us with your phone number, we may use it to contact you if we believe that you may be especially interested in a certain offer.
+
+
+
+Market research: We may ask you to take part in voluntary market research studies. We will not make use of any additional personal details that you give us as part of the market research without your consent.
+
+
+
+
+
+•
+
+Other communications: We may contact you at other times by email, phone, text or email, depending on the contact information you have provided. This might happen for several reasons:
+
+
+
+
+
+We may need to contact you in regards to a request you have made.
+
+
+
+We may email you to remind you to continue with a reservation you have left unfinished. We believe this may be helpful to you because it allows you to finalise your reservation without starting again from scratch.
+
+
+
+We may send you a questionnaire or ask you to write a review about your experience booking with us.
+
+
+
+We may send you other relevant material which we believe may be of use to you, such as information on how to contact us while you are away, or a summary of your previous reservations booked through us.
+
+
+
+
+
+•
+
+Fraud detection and prevention: We may use your personal information to detect and prevent fraud and other illegal or undesirable activities.
+
+
+
+•
+
+Improving our services: Finally, we use personal information to analyse and improve our services, to improve the experience on our website for our users, and to improve the efficiency and quality of our service.
+
+
+
+How does ThinkHotels.com use your data with social media?
+
+We use social media for promotional purposes, to advertise our partners' properties and enhance our own service. The ThinkHotels.com website incorporates social media plugins. You can use the buttons for these plugins to register for ThinkHotels.com with a social media account. This means we will share information about you with your social media provider, and possibly present information on your profile for others in your social media network to see.
+
+We also have accounts on several social media platforms, and provide social apps, which may allow you to share information with our website. The apps will inform you of the information you will be sharing when you register with them. This may include information available on your social media profile, such as basic personal details, status updates, your email address and your friends list. We use this information to give you a unique, personalised experience, allowing you to connect with your friends travelling to similar destinations; we will also use it to help us improve our services.
+
+You may also be able to sign in to ThinkHotels.com websites and apps with your social media profile. Please refer to your social media provider's privacy policy for details on how your data will be collected, used and shared in this case.
+
+Does ThinkHotels.com share your personal information with third parties?
+
+We may share the following kinds of personal data with third parties in some circumstances:
+
+
+
+•
+
+We may need to transfer your details to the provider of the accommodation you booked to complete your reservation. These details may include your name and contact details, your payment details, the names of anyone travelling with you and any preferences you might have.
+
+
+
+•
+
+Other companies within the ThinkHotels.com corporate family: We may share your details with subsidiaries of our corporate family in order to support you throughout your experience with us. This may include our parent company, WHM Global, and other members of the group: LuxuryHotelsGroup.com, LuxuryHotelsCollection.com and IdealHotels.com. Your data may be processed and analysed to provide you with a personalised service and send you travel-related offers that we think may interest you.
+
+
+
+•
+
+Third-party service providers: For the reasons outlined above, we may use third-party service providers to process your information for us. This includes processes like sending your reservation information to your accommodation provider, facilitating payment or payment guarantees, or instructing third parties to contact you on our behalf. Third-party advertisement networks also help us to market our service on other platforms, and with data analysis. These are all bound by confidentiality agreements so that they cannot use your personal information for any other reasons.
+
+
+
+•
+
+Our business partners: We partner with other websites internationally to provide the accommodation listed on our services. Our partners may share some of your personal information with us when you make a reservation on one of their websites. We may also share information with our partners in order to manage your user account or your reservation, to help them answer any questions regarding your reservation, and for marketing purposes. In these cases, your information is guarded by our business partners' privacy policies.
+
+
+
+•
+
+Authorities and law enforcement: If we are required by law, or any regulation with equivalent force, to do so, we may share your information with government or investigative authorities. This includes cases of court orders, subpoenas, and any orders arising from criminal investigations or other legal processes. If it is necessary to disclose your personal information to prevent, detect or prosecute a crime, we may do so.
+
+
+
+How does ThinkHotels.com use personal information on mobile devices?
+
+We provide apps that are free to download for several mobile devices and platforms, as well as mobile versions of our regular website. These services will use your personal information in a similar manner to our website, and you can also use the location service on your mobile device to find accommodation near you.
+
+How does ThinkHotels.com use guest reviews and other destination-related information?
+
+When you finish your stay that you booked with us, we will invite you to write a guest review, which may include details of the accommodation, the surrounding locations and your destination. You can submit these anonymously or use your screen name, which you can choose when you create your user account with us, if you prefer not to use your name. Submitting a guest review is an agreement (as described in our Terms and Conditions) to allow us to display it in places such as the page for the relevant accommodation on our website, in mobile apps, social media and social apps, or on the accommodation's website or a business partner's website, to help other travellers make an informed decision about their own accommodation.
+
+If you mark another guest review as helpful or not helpful, we will combine this with other customers' feedback in order to sort our guest reviews by helpfulness. We may use this and other personal, destination-related information you may share with us anonymously to aid other customers in choosing their destinations.
+
+Cookies
+What is a cookie and why do websites use them?
+
+A cookie is a small piece of information that a website puts on your computer. Websites use them to identify you as an individual user as you browse through different pages of the same website, by taking note of choices like your language preference and which currency you use. When you return to the website, cookies enable us to recognise you and remember your choices.
+
+There are several different types of cookies, depending on what they do, how long they last and who uses them on a website.
+
+How does ThinkHotels.com use cookies?
+
+We use the following kinds of cookies:
+
+
+
+•
+
+Technical cookies: We use these to display our website and make it work properly, and also to create your account, log you in and help you manage your bookings. We need these cookies to keep our website functioning and provide you with a user-friendly experience.
+
+
+
+•
+
+Functional cookies: These cookies remember your preferences such as language and currency, what you searched for and accommodation you viewed earlier. We don't need these to keep our website functioning properly, but they make the website more efficient for you.
+
+
+
+•
+
+Analytics cookies: These cookies help us to improve our website by telling us how you use our website, so we can tell what works and update our website to keep it engaging and relevant to you. They gather details like how you got here and which page you leave from, the platform you are using, and when you accessed our site. We also look at things like your scrolling activity, clicks and mouse movements, any text you type and search keywords you use. These cookies are also used in our advertising campaigns to tell us how people are interacting with the site after seeing an ad online; this may include advertisements on third-party websites. All of this data is completely anonymous.
+
+
+
+•
+
+Commercial cookies: These are used for "retargeting", to show you advertisements for ThinkHotels.com on other websites. We do this by collecting data about your activity on our website, such as what you searched for, the accommodation you looked at and the prices you saw.
+
+
+
+How long do ThinkHotels.com cookies last?
+
+We use cookies with several different life spans. The longest our cookies will last is five years from your last visit to our website. You can clear all your browser's cookies whenever you want, including ours, by clicking the following link.
+
+Purge Cookies
+How can you recognise ThinkHotels.com cookies?
+
+Our cookies will be shown in your browser settings.
+
+Does ThinkHotels.com use third-party cookies?
+
+We use recognised, trusted third party online businesses for marketing and advertising, and we may use third parties to assist with data analysis. These companies need to use cookies on our website to provide their services.
+
+All our providers are committed to responsible data management practices at the highest standard, and to building consumer awareness.
+
+Who has access to ThinkHotels.com cookie data?
+
+Only the party responsible for placing the cookies has access to the data they collect. ThinkHotels.com is the only party with access to ThinkHotels.com cookie data, and third party cookies can be accessed by those third parties.
+
+How can you manage your cookie preferences?
+
+You can choose which cookies to accept in your browser settings. The settings for your browser will be accessed in different ways depending on which browser you are using. If you are unsure about how to find or change your settings, use your browser's "Help" function.
+
+Please note that if you choose to reject some or all cookies, some parts of our website may not function. If you choose to opt out of an online advertising network, you will no longer receive individualised advertisements tailored to your preferences, but you will still see online advertisements and you may be subject to marketing analysis.
+
+What about web beacons?
+
+Web beacons are one-pixel images placed on your computer as part of a web page request or via email. We use these pixels directly and through our service providers as part of our online advertising, both on our website and on third-party websites. They allow us to track whether users who see advertisements go on to make reservations and analyse user traffic to help us improve our service.
+
+Security
+What security procedures does ThinkHotels.com use to safeguard your personal information?
+
+We take all reasonable steps to prevent unauthorised access to your personal information and misuse of your data, under European data protection laws.
+
+We ensure that our systems and procedures are designed to protect any personal information you choose to give us. This includes technical and physical security measures for the servers where personal information is stored. Your personal information may only be accessed by authorised personnel for the purposes of their work.
+
+When your credit card details are required, we will only store them for a maximum of 10 days, after which they will be permanently deleted from all our systems, or remain encrypted in the system for the purposes of fraud detection. This does not apply if you choose to store credit card details in your user account.
+
+Children
+
+ThinkHotels.com services are directed at adults over the age of 18. We do not allow the use of our services by children under the age of 18 without the consent of a parent or guardian. We reserve the right to delete information received from any child under the age of 18.
+
+Contact
+How can you contact ThinkHotels.com regarding your personal information?
+
+You have the right to review your personal information that we have kept at any time. You can do this by emailing us at
+customercare@thinkhotels.com
+with "Request personal information" in the subject line of your email. Please include a copy of some identification - this measure helps us prevent unauthorised access to personal data.
+
+You can also ask us to update the information we have for you if it is incorrect, or remove it from our database. To request a removal, email us at
+customercare@thinkhotels.com
+with "Request for removal of personal information" in the subject line. We may still need to retain some information for legal purposes, like fraud prevention, or administration, such as record keeping.
+
+If you wish to delete your user account, you are free to do so at any time by signing in on the ThinkHotels.com website and following the steps to remove your account.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customer feedback
+
+98% Rating (based of 583 reviews)
+
+Read the latest independent
+
+customer feedback about our service.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Account
+
+About Us
+
+Contact Us
+
+Customer Care
+
+Terms & Conditions
+
+Privacy and Cookies
+
+Send to Friend
+
+FAQ
+
+Sitemap
+
+Jobs
+
+New Hotel Signup
+
+Affiliate Program
+
+Our Social Responsibility
+
+Travel Braggies
+
+
+
+
+
+Copyrights
+©
+2017.
+World Hotel Marketing
+&
+ThinkHotels.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

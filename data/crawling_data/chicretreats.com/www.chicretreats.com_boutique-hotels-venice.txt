@@ -1,0 +1,641 @@
+
+Boutique Hotels Venice | Luxury B&B;'s & Hotels Italy
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Venice
+
+
+Europe
+,
+Italy
+
+
+
+
+
+
+9
+Hotels
+
+Explore
+
+
+
+
+
+
+Born from a centuries-old meeting of cultures, Venice’s dream-like atmosphere is spellbinding. Kitted out with crumbling palaces, criss-crossing bridges and stripe-shirted gondoliers, its maze of canals is strikingly cinematic. But there’s much more to this lagoon city than its iconic waterways and Rococo sights: get lost in hidden alleyways, feast on seafood-flecked
+cicchetti
+
+and stay in romantic palazzos cleverly transformed into bijou boutique hotels.
+
+More about Venice.
+
+
+
+
+When to go
+
+Late spring and early summer are perfect for exploring before the intense summer heat hits. Rising water levels aren’t unheard of between October and January, but don’t be put off: it’s a rare chance to have the museums all to yourself.
+
+Food & Drink
+
+Fish takes pride of place on Venetian menus. Book early to bag one of the nine tables in intimate Il Ridotto, where you can sample imaginative seafood dishes in a minimalist setting. Elsewhere, Osteria Santa Marina knows how to seduce its guests with immaculately presented dishes in a candlelit garden.
+
+Not to miss
+
+Listen to the songs of the gondoliers as you slink across the Grand Canal.
+
+
+
+Nightlife
+
+Evenings in Venice are laid-back. Head to the Lido area for a buzzy vibe and a generous sprinkling of bars. Join locals for a glass (or two) of wine while nibbling on cicchetti, the local tapas. Watch the city light up from the Skyline Rooftop bar; literary buffs will love Caffe Florian, where Lord Byron used to while away his nights.
+
+Where to stay in Venice
+
+Bursting with elegant shops and chic galleries, San Marco is right at the heart of the city. If you’re after a quieter neighbourhood, Campo San Leonardo plays hosts to boho restaurants and hole-in-the-wall drinking dens.
+
+How to get there
+
+Venice Marco Polo Airport serves regular flights from domestic and European destinations, as well as seasonal flights from international hubs. From there, book a water taxi to arrive in style.
+
+
+
+Read less
+
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Venice
+
+
+
+
+
+
+
+
+
+
+£
+130
+Night
+
+Liassidi Palace Hotel
+
+Italy
+,
+Veneto
+,
+Venice
+
+
+Liassidi Palace Hotel is a luxury boutique hotel in Venice that is located just a few steps from St Marks Square in the Castello area of the city. The 26 oversized rooms and suites are set within a restored and rather magnificent gothic palazzo.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+£
+287
+Night
+
+Ca Maria Adele
+
+Italy
+,
+Veneto
+,
+Venice
+
+
+An unexpected delight, this small luxury hotel sits quietly back from the canal and offers guests a wonderful experience with an eclectic mix of rooms to choose from. Ca Maria Adele is one of the most exclusive hotels in Venice.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+Hotel Flora
+
+Italy
+,
+Veneto
+,
+Venice
+
+
+Just minutes from St Mark's Square, Hotel Flora is one of the original privately-run hotels in Venice. Hotel Flora started its life as a simple pensione in 1964 from which time it has become a firm favourite amongst regular visitors to Venice.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+£
+139
+Night
+
+Novecento Boutique Hotel
+
+Italy
+,
+Veneto
+,
+Venice
+
+
+Novecento Boutique Hotel is hidden away between St Mark's Square and the Accademia Gallery, right in the heart of the romantic city of Venice. This 9 room hotel is the perfect choice for those looking for a romantic weekend away.
+
+
+
+VIEW HOTEL
+
+
+
+
+
+
+ALL HOTELS IN Venice
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+FROM THE BLOG
+
+
+
+
+
+
+
+
+Lulu Townsend
+
+The best nightlife spots in Venice
+
+
+After exploring the glorious Venetian canals by day, the perfect way to unwind while enjoying the magical charm of this relaxed city is to spend it like the locals in one of the many cafes, wine bars and restaurants. So before you retreat to the comfort of one of our boutique hotels in Venice, be sure to try out some of these top nightlife spots.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lulu Townsend
+
+Hidden wonders: 10 of the best-kept secrets in Venice
+
+
+Despite the city's incredible popularity, however, you should not let the crowds put you off visiting this magical city – there’s still a host of secret spots and unbeaten paths that are well worth visiting if you’re planning a stay in one of our Venice hotels.
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

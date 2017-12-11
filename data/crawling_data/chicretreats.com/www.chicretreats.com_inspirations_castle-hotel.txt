@@ -1,0 +1,714 @@
+
+Castle Hotels | Best Boutique Castle Hotels | Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CASTLE HOTELS
+
+Inspiration
+
+
+
+Holidaying like a king is an exciting prospect for children and adults alike. Stay in a castle and spend your days gazing at the view from a turret, exploring the expansive grounds, feasting in a grand dining hall and, when night falls, sink into a soft four poster bed. The majority of our boutique castle hotels are still owned and partially inhabited by the original family, giving you a unique window into the life of modern nobility.
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+£
+131
+Night
+
+Antico Borgo di Tabiano Castello
+
+Italy
+,
+Emilia-Romagna
+,
+Parma
+
+
+Antico Borgo di Tabiano Castello is a small luxury hotel in the majestic 11th-century Tabiano Castle, Parma. This medieval fortress has been transformed into a boutique hotel with 40 elegant rooms, a wellness centre & an outdoor pool.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+101
+Night
+
+Castel Brando
+
+France
+,
+South of France
+,
+Corsica
+
+
+Castel Brando is a charming boutique hotel in the Cap Corse area of Corsica. Just 100m from the Mediterranean sea, this Chic Retreat is located in the village of Erbalunga and is a favourite amongst many celebrities.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+435
+Night
+
+Ca Marcello
+
+Italy
+,
+Veneto
+,
+Treviso
+
+
+Surrounded by 18 acres of private parkland Ca'Marcello is one of Veneto's few aristocratic Palladian villas still lived in by the family that built it. Situated between Venice, Padua and Treviso, Ca'Marcello has opened up La Barchessa Apartment in the left arcaded wing of the villa for those looking to experience the privilege of this refined splendour.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+131
+Night
+
+Temps d'Or Hotel
+
+Luxembourg
+,
+Ansembourg
+
+
+Temps d'Or Hotel is an adults-only luxury boutique hotel, just half an hour from the centre of Luxembourg. This castle dates back to the 12th-century, and is the private residence of the current Count of Ansembourgand.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+120
+Night
+
+Castello di Gabiano
+
+Italy
+,
+Piedmont
+,
+Turin
+
+
+The Marquises Cattaneo Adorno Giustiniani, owners of Castello di Gabiano, have recently refurbished the estate's hunting lodge into stunning suites. This Chic Retreat is the perfect base in Piedmont to explore the area and taste some exquisite wines.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+104
+Night
+
+Castello di Petroia
+
+Italy
+,
+Umbria
+,
+Perugia
+
+
+Situated between Gubbio and Perugia, Castello di Petroia is steeped in history and dates back to the 9th-century. Relax by the pool, visit nearby Umbrian towns or explore the estate and its parkland, before heading back for an elegant culinary experience.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+213
+Night
+
+Solar Do Castelo
+
+Portugal
+,
+Estremadura
+,
+Lisbon
+
+
+Solar Do Castelo is a small luxury hotel within the walls of St. George's Castle, Lisbon. This 18th-century mansion and courtyard has been wonderfully restored with a contemporary take on medieval traditions, paying tribute to the historic site.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+180
+Night
+
+Pentillie Castle
+
+United Kingdom
+,
+South West
+,
+Cornwall
+
+
+Pentillie Castle is a 9 room luxury B&B surrounded by 55 acres of gardens and woodlands next to the River Tamar, Cornwall.  Personal service, unspoilt countryside and beautiful interiors, make this Chic Retreat one of Lulu's best finds of 2012.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+469
+Night
+
+Castello Banfi il Borgo
+
+Italy
+,
+Tuscany
+,
+Siena
+
+
+Castello Banfi il Borgo is a luxury boutique hotel on an award-winning winery & vineyard in Brunello, Tuscany. At stay here is all about fine wine and great food in a stunning castle setting where you can relax by the pool or enjoy some pampering in the spa.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+403
+Night
+
+Castello di Velona
+
+Italy
+,
+Tuscany
+,
+Siena
+
+
+Set among the Siena hilltops in the heart of the National Reserve of the Val d'Orcia, Castello di Velona is a luxury spa hotel and winery in Tuscany. The boutique hotel is steeped in history, dating back to the 11th-century.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+272
+Night
+
+Borgo dei Conti Resort
+
+Italy
+,
+Umbria
+,
+Perugia
+
+
+Borgo dei Conti is for those who are passionate about food, luxury, culture and Italy. Overlooking the valley of the Nestore river, this extraordinary boutique hotel in Umbria ticks all the boxes and is just 10 minutes from Perugia and 20 minutes from the Golf Club Lamborghini. It boasts its own restaurant, spa, two outdoor swimming pools, sauna, Jacuzzi, tennis court and gym.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+121
+Night
+
+Chateau Les Carrasses
+
+France
+,
+South of France
+,
+Languedoc Roussillon
+
+
+The relaxed atmosphere of Chateau Les Carrasses provides the attentive service of a luxury hotel, while maintaining the privacy of a holiday villa. It is located in one of Lulu's favourite area in France.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

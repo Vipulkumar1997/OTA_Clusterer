@@ -1,0 +1,880 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go Top
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHF
+Swiss Franc
+
+
+
+GBP
+Pound Sterling
+
+EUR
+Euro
+
+USD
+US Dollar
+
+JPY
+Japanese Yen
+
+CNY
+Chinese Yuan Renminbi
+
+AFN
+Afghan Afghani
+ALL
+Albanian Lek
+DZD
+Algerian Dinar
+AOA
+Angolan Kwanza
+ARS
+Argentine Peso
+AMD
+Armenian Dram
+AWG
+Aruban or Dutch Guilder
+AUD
+Australian Dollar
+AZN
+Azerbaijan, New Manat
+BSD
+Bahamian Dollar
+BHD
+Bahrain Dinar
+BDT
+Bangladeshi Taka
+BBD
+Barbadian or Bajan Dollar
+LSL
+Basotho Loti
+BYR
+Belarusian Ruble
+BZD
+Belizean Dollar
+BMD
+Bermudian Dollar
+BTN
+Bhutanese Ngultrum
+BOB
+Bolivian Boliviano
+BAM
+Bosnian Convertible Marka
+BWP
+Botswana Pula
+BRL
+Brazilian Real
+BND
+Bruneian Dollar
+BGN
+Bulgarian Lev
+MMK
+Burmese Kyat
+BIF
+Burundian Franc
+KHR
+Cambodian Riel
+CAD
+Canadian Dollar
+CVE
+Cape Verdean Escudo
+KYD
+Caymanian Dollar
+XAF
+Central African CFA Franc BEAC
+XOF
+CFA Franc
+XPF
+CFP Franc
+CLP
+Chilean Peso
+COP
+Colombian Peso
+KMF
+Comoran Franc
+CDF
+Congolese Franc
+CRC
+Costa Rican Colon
+HRK
+Croatian Kuna
+CUC
+Cuban Convertible Peso
+CUP
+Cuban Peso
+CZK
+Czech Koruna
+DKK
+Danish Krone
+DJF
+Djiboutian Franc
+DOP
+Dominican Peso
+ANG
+Dutch Guilder
+XCD
+East Caribbean Dollar
+EGP
+Egyptian Pound
+SVC
+El Salvador Colones
+ERN
+Eritrean Nakfa
+CNH
+ERR
+BYN
+ERR
+EEK
+Estonia Krooni
+ETB
+Ethiopian Birr
+FKP
+Falkland Island Pound
+FJD
+Fijian Dollar
+GMD
+Gambian Dalasi
+GEL
+Georgian Lari
+GHS
+Ghanaian Cedi
+GIP
+Gibraltar Pound
+XAU
+Gold Ounces
+GTQ
+Guatemalan Quetzal
+GGP
+Guernsey Pounds
+GNF
+Guinean Franc
+GYD
+Guyanese dollar
+HTG
+Haitian Gourde
+HNL
+Honduran Lempira
+HKD
+Hong Kong Dollar
+HUF
+Hungarian Forint
+ISK
+Icelandic Krona
+INR
+Indian Rupee
+IDR
+Indonesian Rupiah
+XDR
+International Monetary Fund Special Drawing Rights
+IRR
+Iranian Rial
+IQD
+Iraqi Dinar
+IMP
+Isle of Man Pounds
+ILS
+Israeli Shekel
+JMD
+Jamaican Dollar
+JEP
+Jersey Pounds
+JOD
+Jordanian Dinar
+KZT
+Kazakhstani Tenge
+KES
+Kenyan Shilling
+KWD
+Kuwaiti Dinar
+KGS
+Kyrgyzstani Som
+LAK
+Lao or Laotian Kip
+LVL
+Latvian Lat
+LBP
+Lebanese Pound
+LRD
+Liberian Dollar
+LYD
+Libyan Dinar
+LTL
+Lithuanian Litas
+MOP
+Macau Pataca
+MKD
+Macedonian Denar
+MGA
+Malagasy Ariary
+MWK
+Malawian Kwacha
+MYR
+Malaysian Ringgit
+MVR
+Maldivian Rufiyaa
+MRO
+Mauritanian Ouguiya
+MUR
+Mauritian Rupee
+MXN
+Mexican Peso
+MDL
+Moldovan Leu
+MNT
+Mongolian Tughrik
+MAD
+Moroccan Dirham
+MZN
+Mozambican Metical
+NAD
+Namibian Dollar
+NPR
+Nepalese Rupee
+NAG
+Netherlands Antillean guilder
+NZD
+New Zealand Dollar
+VUV
+Ni-Vanuatu Vatu
+NIO
+Nicaraguan Cordoba
+NGN
+Nigerian Naira
+KPW
+North Korean Won
+NOK
+Norwegian Krone
+OMR
+Omani Rial
+PKR
+Pakistani Rupee
+XPD
+Palladium Ounces
+PAB
+Panamanian Balboa
+PGK
+Papua New Guinean Kina
+PYG
+Paraguayan Guarani
+PEN
+Peruvian Nuevo Sol
+PHP
+Philippine Peso
+XPT
+Platinum Ounces
+PLN
+Polish Zloty
+QAR
+Qatari Riyal
+RON
+Romanian New Leu
+RUB
+Russian Ruble
+RWF
+Rwandan Franc
+SHP
+Saint Helenian Pound
+WST
+Samoan Tala
+STD
+Sao Tome and Principe dobra
+SAR
+Saudi Arabian Riyal
+SPL
+Seborga Luigini
+RSD
+Serbian Dinar
+SCR
+Seychellois Rupee
+SLL
+Sierra Leonean Leone
+XAG
+Silver Ounces
+SGD
+Singapore Dollar
+SBD
+Solomon Islander Dollar
+SOS
+Somali Shilling
+ZAR
+South African Rand
+KRW
+South Korean Won
+LKR
+Sri Lankan Rupee
+SDG
+Sudanese Pound
+SRD
+Surinamese Dollar
+SZL
+Swazi Lilangeni
+SEK
+Swedish Krona
+CHF
+Swiss Franc
+SYP
+Syrian Pound
+TWD
+Taiwan New Dollar
+TJS
+Tajikistani Somoni
+TZS
+Tanzanian Shilling
+THB
+Thai Baht
+TOP
+Tongan Pa anga
+TTD
+Trinidadian Dollar
+TND
+Tunisian Dinar
+TRY
+Turkish Lira
+TMM
+Turkmenistan Manats
+TMT
+Turkmenistani Manat
+TVD
+Tuvaluan Dollar
+UGX
+Ugandan Shilling
+UAH
+Ukrainian Hryvna
+AED
+United Arab Emirates Dirhams
+UYU
+Uruguayan Peso
+UZS
+Uzbekistani Som
+VEB
+Venezuela Bolivares
+VEF
+Venezuelan Bolivar
+VND
+Vietnamese Dong
+YER
+Yemeni Rial
+ZMK
+Zambia Kwacha
+ZMW
+Zambian Kwacha
+ZWD
+Zimbabwe Dollars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Destinations
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Destinations
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Destinations/Hotels
+
+
+
+
+
+
+
+Check-in:
+
+
+Check-out:
+
+
+
+
+
+
+Rooms:
+
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+
+
+Adults:
+
+Children:
+
+
+
+
+Room 1:
+
+
+
+1
+
+2
+
+3
+
+4
+
+
+
+
+
+
+0
+
+1
+
+2
+
+3
+
+4
+
+
+
+
+
+
+
+
+
+
+
+Best Rate Guaranteed
+
+Book Now Pay Later
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affiliate Program
+
+
+Welcome to the ThinkHotels.com Affiliate Program
+
+ThinkHotels.com offers you access to over 100,000 hotels, serviced apartments, motels and more. We are passionate and dedicated about the services we provide and naturally, we've cemented our status as one of the premier hotel booking websites. The quality accommodation offered consists of five star luxury hotels, budget motels, and everything in between. Coupled with authentic TripAdvisor reviews, we provide everything that's necessary so customers can choose the perfect place to suit their needs.
+
+Our customers are guaranteed the best rates available,dedicated support, and no additional reservation fees.
+
+
+The Affiliate Program and Commissions
+
+The affiliates program targets sites who wish to use the ThinkHotels.com brand to monetize their traffic and tap their full potential.
+
+Expect good conversion rates by signing up with ThinkHotels.com
+
+By becoming an affiliate partner, there are no sign up fees or additional distribution charges!
+
+
+Enjoy a flat fee of 4%
+
+
+How Does It Work?
+
+As a partner of ThinkHotels, you will need to link your sites to our hotels' pages, offers, and promotions. For each booking your customers make, you will earn a healthy commission. The ThinkHotels.com affiliate team will guide you in the ways you can optimize your revenue while helping you integrate our tools on your website. Remember, our commission based model is very competitive! No other hotel affiliate program will be as rewarding.
+
+
+Why should you join the Affiliate program for ThinkHotels.com?
+
+Joining the program will reap many benefits, which include:
+
+
+Competitive commissions
+
+Easy implementation
+
+Access to high converting affiliate tools
+
+Best rates guaranteed with no reservation fees
+
+Long-term contracts with over 100,000 hotels covering a wide range of budgets
+
+Reservations are made in real time, with confirmation emails and on-screen confirmations
+
+Tracking of Mobile and Tablet conversions
+
+Authentic TripAdvisor reviews that are always up to date are displayed on ThinkHotels.com to encourage loyalty and trust
+
+Security, as well as great value for all our customers
+
+
+
+Become an Affiliate today, and enjoy the rewarding benefits of ThinkHotels.com affiliate program
+
+
+Join now for free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customer feedback
+
+98% Rating (based of 583 reviews)
+
+Read the latest independent
+
+customer feedback about our service.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Account
+
+About Us
+
+Contact Us
+
+Customer Care
+
+Terms & Conditions
+
+Privacy and Cookies
+
+Send to Friend
+
+FAQ
+
+Sitemap
+
+Jobs
+
+New Hotel Signup
+
+Affiliate Program
+
+Our Social Responsibility
+
+Travel Braggies
+
+
+
+
+
+Copyrights
+©
+2017.
+World Hotel Marketing
+&
+ThinkHotels.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

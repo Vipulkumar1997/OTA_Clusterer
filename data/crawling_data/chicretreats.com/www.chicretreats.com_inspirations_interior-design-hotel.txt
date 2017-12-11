@@ -1,0 +1,712 @@
+
+Interior Design Hotels | Chic Retreats Inspirations
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERIOR DESIGN HOTELS
+
+Inspiration
+
+
+
+This one is for the fans of cutting-edge chic. From striking architecture, to distinctive furnishings and uniquely manicured grounds; attention to the smallest detail is palpable in these properties. Visit for fantastic boutique service in a unique setting and to appreciate the creations of top designers.
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+£
+209
+Night
+
+Domaine de Verchant Hotel and Spa
+
+France
+,
+Languedoc Roussillon
+,
+Montpellier
+
+
+Domaine de Verchant is a majestic boutique hotel in the heart of the Languedoc region in Southern France. This gorgeous hotel is a striking piece of design with one of the best spas we have come across; an absolute must for all hotel lovers.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+242
+Night
+
+The Bale
+
+Indonesia
+,
+Bali
+
+
+The Balé is a luxury boutique hotel in Bali, situated in Nusa Dua. Featured in the HOT LIST of Conde Nast Traveller as one of the best boutique and spa hotels in the world.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+111
+Night/room
+
+The Amala
+
+Indonesia
+,
+Bali
+
+
+The Amala is a gorgeous collection of 12 luxury villas in the fashionable town of Seminyak, Bali. Relax in this tranquil boutique collection, with a design influenced by Zen Buddhism, a luxury spa and personalized butler service. No children under 12 years old.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+Bauer Palladio Hotel and Spa
+
+Italy
+,
+Veneto
+,
+Venice
+
+
+Bauer Palladio Hotel & Spa is a small luxury hotel on the discreet Giudecca Island, Venice. This gorgeous Palladio-designed 16th-century convent is now home to a bar & restaurant and a holistic wellness spa offering spectacular views over Venice.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+257
+Night
+
+Masseria Torre Maizza
+
+Italy
+,
+Brindisi
+,
+Fasano
+
+
+This charming boutique hotel in Puglia is set on a large estate overlooking the Adriatic sea and is immersed in a countryside full of olive trees, delicious organic fruits & vegetables. Boasting an Aveda spa, pool & golf this chichotel has it all!
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+79
+Night
+
+Cases de Son Barbassa
+
+Spain
+,
+Balearic Islands
+,
+Mallorca
+
+
+Cases de Son Barbassa is a gorgeous, family friendly boutique hotel near Capdepera in Mallorca, Spain. With a tower dating back to the 16th-century, relax, unwind and enjoy the stunning views across the countryside.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+180
+Night/room
+
+Desert Palm Dubai
+
+UAE
+,
+Dubai
+
+
+Desert Palm is a luxury boutique hotel with polo estate, avant garde spa, 4 championship polo fields, a riding school, stables, rare birds, pool, restaurant, endless sunshine and vast green landscapes.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+210
+Night
+
+The Scarlet
+
+United Kingdom
+,
+South West
+,
+Cornwall
+
+
+The Scarlet is an adult-only luxury hotel on the Cornish coast. This eco-friendly Chic Retreat is in harmony with the natural surroundings, complete with a luxury spa and great food. This peaceful hideaway is great for a rejuvenating seaside break.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+265
+Night
+
+Dormy House
+
+United Kingdom
+,
+West of England
+,
+Worcestershire
+
+
+Award-winning Dormy House Hotel & Spa sets the (very high) standard for luxury Cotswold hotels and is sure to captivate the hearts of everyone who stays. Possibly the best boutique hotel and spa in the Cotswolds.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+95
+Night
+
+Aava Resort & Spa
+
+Thailand
+,
+Nakhon Si Thammarat
+
+
+Aava Resort & Spa is a luxury boutique hotel with spa in southern Thailand on Nadan beach, a 9km stretch of unspoilt beaches, with 21 bungalows and villas.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+199
+Night
+
+Argentario Golf Resort & Spa
+
+Italy
+,
+Tuscany
+,
+Grosseto
+
+
+Argentario Golf Resort & Spa is unlike any other luxury hotel in the Maremma, Tuscany. This stunning contemporary hotel has been created using local stone, wood and glass to create a masterpiece of design.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+566
+Night
+
+L'Andana
+
+Italy
+,
+Tuscany
+,
+Grosseto
+
+
+Surrounded by 150 acres of La Badiola Estate, Alain Ducasse's luxury hotel in Tuscany, L'Andana, once a Medici villa, boasts a luxury ESP spa, Tuscan trattoria, private chapel and driving range for keen golfers.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

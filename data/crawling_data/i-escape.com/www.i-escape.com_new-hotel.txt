@@ -1,0 +1,708 @@
+
+
+New Hotels | Boutique, Chic and Luxury Hotels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ currencyOpen ? 'open' : 'closed' }}
+
+
+Change Currency
+
+
+European Euro
+
+UK Pound Sterling
+
+United States Dollar
+
+Argentine Peso
+
+Australian Dollar
+
+Brazilian Real
+
+Croatian Kuna
+
+Czech Koruna
+
+Danish Krone
+
+Egyptian pound
+
+Hong Kong Dollar
+
+Icelandic Kronur
+
+Indian Rupee
+
+Indonesia Rupiahs
+
+Malaysian Ringitt
+
+Mexican Peso
+
+Moroccan Dirham
+
+Namibian Dollar
+
+Singapore Dollar
+
+South African Rand
+
+Sri Lankan Rupee
+
+Swedish Krona
+
+Swiss Francs
+
+Thai Baht
+
+Tunisian Dinar
+
+Turkish Lira
+
+Vietnamese Dong
+
+
+
+
+Places to stay
+
+
+
+Inspire Me
+
+
+
+With kids
+
+
+
+Offers
+
+
+Special offers
+
+Promotions
+
+New Hotels
+
+Newsletter
+
+Press
+
+
+
+
+Gifts
+
+
+
+Blog
+
+
+
+Login
+
+
+
+
+
+
+
+
+My Wish List
+
+
+
+
+
+
+
+Your Wish List (
+)
+
+To save this list or send to a friend, please
+log in
+or
+sign up
+
+
+
+
+
+
+
+
+
+
+
+{{ hotel.city }}, {{ hotel.region_name }}, {{ hotel.country_name }}
+
+
+
+REMOVE X
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Need help?
+
+
+
+
+
++44 (0) 117 946 7072
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ loginError }}
+
+Username
+
+
+
+
+Password
+
+
+
+
+Login
+
+
+
+Forgotten your password?
+
+New to
+i-escape
+?
+Sign up now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our hand-picked boutique hotels and hip hideaways
+
+
+
+
+
+
+
+
+
+Places to stay
+
+
+
+
+
+
+
+Map
+
+
+
+
+
+
+
+Insider's Guide
+
+
+
+
+
+
+Travel Info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show prices in:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+European Euro
+UK Pound Sterling
+United States Dollar
+Argentine Peso
+Australian Dollar
+Brazilian Real
+Croatian Kuna
+Czech Koruna
+Danish Krone
+Egyptian pound
+Hong Kong Dollar
+Icelandic Kronur
+Indian Rupee
+Indonesia Rupiahs
+Malaysian Ringitt
+Mexican Peso
+Moroccan Dirham
+Namibian Dollar
+Singapore Dollar
+South African Rand
+Sri Lankan Rupee
+Swedish Krona
+Swiss Francs
+Thai Baht
+Tunisian Dinar
+Turkish Lira
+Vietnamese Dong
+
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filter your search
+
+
+
+
+
+
+
+
+
+Need help?
+
+
+Many questions are already answered in our
+FAQs
+,
+if not, email us at:
+[email protected]
+i-escape
+.com
+or call us on
++44 (0) 117 946 7072
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We're award winning
+
+View our awards
+
+
+
+
+
+Need help?
+
+
+
+Many questions are already answered in our
+FAQs
+,
+if not, email us at:
+[email protected]
+i-escape
+.com
+or call us on
++44 (0) 117 946 7072
+
+
+
+
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newsletter
+
+
+
+
+Email Address
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+|
+About us
+|
+Contact Us
+|
+Terms & Conditions
+|
+Privacy & Security
+|
+Car Hire
+|
+Travel Insurance
+|
+Travel Operator Login
+
+
+
+
+
+
+
+Travelling with Kids?
+
+Would you like to see only family-friendly places while browsing our site?
+
+
+
+
+Yes please
+
+Show me the
+kids
+collection
+
+
+
+No thanks
+
+Show me the
+main
+collection
+
+
+
+
+You can return by clicking on the
+main collection
+link in the top bar
+
+
+
+
+
+
+Password Reset
+
+
+
+
+
+
+Please enter your email address below, and we will send you a link to reset it securely.
+
+If you need help you can email us on
+[email protected]
+or call us on
++44 (0) 117 946 7072
+
+
+
+Thank you. Your password reset email has been sent. Please check your inbox now, but remember that it may take a few minutes for the email to arrive.
+
+If you don't receive an email please check in your junk/spam folder.
+
+If you still have a problem resetting your password or logging in you can contact us at
+[email protected]
+or call us on
++44 (0) 117 946 7072
+
+
+
+Please enter a valid email address
+
+
+Email
+
+
+Send Password Reset Link
+
+
+
+
+
+
+
+
+
+
+
+
+Join for free and get...
+
+Exclusive deals at our favourite boutique hotels, B&Bs; and rentals
+Award-winning booking service, with helpful consultants on hand
+Price-match at all 1,500 properties in our portfolio
+Plus, in most cases, a little extra gift when you arrive...
+
+Already a member?
+Sign in
+
+
+
+
+
+
+
+
+
+First Name
+
+
+Please enter your first name
+
+
+
+Last Name
+
+
+Please enter your last name
+
+
+
+Email
+
+
+Please enter your email
+
+
+
+Password
+
+
+Please enter your password
+
+
+
+
+Send me monthly updates of i-escape's latest discoveries and offers
+
+
+
+Join now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

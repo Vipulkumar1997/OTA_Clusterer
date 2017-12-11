@@ -1,0 +1,640 @@
+
+
+
+
+
+
+Swiss Ice Hockey Cup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EHC Kloten NL
+Gastronomie
+Young Flyers
+EHC Kloten Verein
+
+
+
+
+
+
+
+
+
+
+Haupmenü
+
+News
+News
+News
+News
+News Archiv
+News Archiv
+Specials
+Specials
+Bilder
+Bilder
+Tickets
+Tickets
+Vorverkauf
+Vorverkauf
+Preise NL
+Preise NL
+Gutscheine
+Gutscheine
+Saisonkarten und Abos
+Saisonkarten und Abos
+Team
+Team
+Kader
+Kader
+Staff
+Staff
+Medical Report
+Medical Report
+Retired Numbers
+Retired Numbers
+Saison
+Saison
+Spielplan
+Spielplan
+Vorbereitung
+Vorbereitung
+Swiss Ice Hockey Cup
+Swiss Ice Hockey Cup
+Fans
+Fans
+Fanclubs
+Fanclubs
+Fanexpress
+Fanexpress
+Fandelegierte
+Fandelegierte
+Services
+Services
+Forum
+Forum
+Shop
+Shop
+Arena
+Arena
+Arena
+Arena
+Anreise
+Anreise
+Häufig gestellte Fragen
+Häufig gestellte Fragen
+Business
+Business
+Sponsoren
+Sponsoren
+Networking
+Networking
+Supporter Vereinigung
+Supporter Vereinigung
+Red Line
+Red Line
+Flyers Lounge
+Flyers Lounge
+Business Circle
+Business Circle
+Vermarktung & Sponsoring
+Vermarktung & Sponsoring
+Club
+Club
+Verwaltungsrat
+Verwaltungsrat
+Geschichte
+Geschichte
+Geschäftsstelle
+Geschäftsstelle
+Geschäftsbericht
+Geschäftsbericht
+offene Stellen
+offene Stellen
+Medien
+Medien
+
+
+
+
+
+
+
+
+
+EHC Kloten NL
+Gastronomie
+Young Flyers
+EHC Kloten Verein
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+News
+Specials
+Bilder
+Tickets
+Vorverkauf
+Preise NL
+Gutscheine
+Saisonkarten und Abos
+Team
+Kader
+Staff
+Medical Report
+Retired Numbers
+Saison
+Spielplan
+Vorbereitung
+Swiss Ice Hockey Cup
+Fans
+Fanclubs
+Fanexpress
+Fandelegierte
+Services
+Forum
+Shop
+Arena
+Arena
+Anreise
+Häufig gestellte Fragen
+Business
+Sponsoren
+Networking
+Vermarktung & Sponsoring
+Club
+Verwaltungsrat
+Geschichte
+Geschäftsstelle
+Geschäftsbericht
+offene Stellen
+Medien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warning
+:  include_once(/home/ehcklote/www/ehc-kloten.ch/tmp/sourcerer_php_3062af01c196b70700c7b46c7c6f3923) [
+function.include-once.php
+]: failed to open stream: No such file or directory in
+/home/ehcklote/www/ehc-kloten.ch/plugins/system/sourcerer/src/Code.php
+on line
+73
+Warning
+:  include_once() [
+function.include.php
+]: Failed opening '/home/ehcklote/www/ehc-kloten.ch/tmp/sourcerer_php_3062af01c196b70700c7b46c7c6f3923' for inclusion (include_path='.:/usr/local/share/pear') in
+/home/ehcklote/www/ehc-kloten.ch/plugins/system/sourcerer/src/Code.php
+on line
+73
+Spielplan
+Vorbereitung
+Swiss Ice Hockey Cup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kloten ist Cupsieger 2016/17!!!
+
+
+
+
+Spielmodus Swiss Ice Hockey Cup
+
+Der Swiss Ice Hockey Cup wird in 5 Runden ausgetragen.
+Die Sieger der einen Runde qualifizieren sich jeweils direkt für die nächste Swiss Ice Hockey Cup-Runde.
+
+
+
+Termine Swiss Ice Hockey Cup 2017/18
+
+
+
+
+Tag
+
+Datum
+
+Spiel
+
+Partie
+
+Zeit
+
+Resultat
+
+
+
+Dienstag
+
+19.09.17
+
+1/16-Final
+
+HC Thurgau : EHC Kloten
+
+20:00 Uhr
+
+2:6
+
+
+
+Sonntag
+
+22.10.17
+
+1/8-Final
+
+EHC Kloten : EV Zug
+
+15:00 Uhr
+
+
+
+
+
+Dienstag / Mittwoch
+
+21. / 22.11.17
+
+1/4-Final
+
+
+
+
+
+
+
+
+
+Donnerstag
+
+04.01.18
+
+1/2-Final
+
+
+
+
+
+
+
+
+
+Sonntag
+
+04.02.18
+
+Final
+
+
+
+
+
+
+
+
+
+
+
+
+Website: Swiss Ice Hockey Cup
+
+
+
+19. September 2017 HC Thurgau vs. EHC Kloten 2:6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+
+
+
+
+
+
+
+
+Economy
+
+
+
+
+
+
+
+
+
+
+
+Partner
+
+
+
+
+
+
+
+
+
+Equipment
+
+
+
+
+
+
+
+
+
+Arena
+
+
+
+
+
+
+
+
+
+
+
+Official Broadcast Partner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kontakt
+
+
+
+
+
+Name
+
+E-Mail
+Nachricht
+
+
+Captcha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EHC Kloten Sport AG
+
+Marktgasse 13
+
+8302 Kloten
+
+
+
+Tel +41 44 800 10 10
+
+Fax +41 44 800 10 11
+
+info@ehc-kloten.ch
+
+
+
+
+
+
+Öffnungszeiten
+
+September - März
+
+
+Montag-Freitag
+
+09:00 Uhr - 11:30 Uhr  13:30 Uhr - 17:00 Uhr
+
+
+April - August:
+
+
+Montag - Donnerstag
+
+09:00 Uhr - 11:30 Uhr  14:00 Uhr - 17:00 Uhr
+
+
+
+Freitag
+
+09:00 Uhr - 11:30 Uhr  Nachmittags Geschlossen
+
+
+An Heimspielen
+
+
+Di | Do | Fr:
+
+09:00 Uhr - 13:30 Uhr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E-Mail*
+
+
+
+Anmelden
+
+
+
+www.CleverReach.de
+
+
+
+
+
+© 2017 EHC-Kloten | Umsetzung
+webtiser AG

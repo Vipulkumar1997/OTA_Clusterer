@@ -1,0 +1,696 @@
+
+Luxury Villas & Apartments | Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHIC LUXURY VILLAS
+
+Inspiration
+
+
+
+Travelling as a family or group of friends? Our travel experts have put together a list of exquisite villas and luxury holiday apartments; perfect for a self-contained group stay. With all the self-catering facilities you need, many of these boutique holiday lets also come with the option to hire a private chef for the night so you can plan a stress-free special holiday get together! So eat breakfast whenever you want, let the kids dive bomb in the private pool and play music late into the night, all without worrying that you’re disturbing others.
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+£
+96
+Night
+
+Coco Tangalla
+
+Sri Lanka
+,
+Southern Province
+,
+Tangalle
+
+
+Sister property to three other Sri Lankan boutique hotels The Last House, The Kandy House and Taylors hill, Coco Tangalla can be booked as a luxury seaside villa in its entirety or the rooms can be booked individually as a boutique hotel. Beauty on the beach.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+591
+Night
+
+Villa Gaia
+
+Malta
+
+
+Villa Gaia, in Malta, is a luxury 4 bedroom villa perfect for families & friends who enjoy the finer things in life; it has a private pool, indoor pool, Jacuzzi and billiard table, in addition to stunning views across the Mediterranean.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+591
+Night
+
+Villa Ghea
+
+Malta
+
+
+Villa Ghea is brand new and is the latest addition to the Luxury Villa Malta's collection of outstanding luxury villas in Malta. Ideal for families & friends wanting to escape to the sun, this 4 bedroom hideout is idyllic.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+546
+Night
+
+Valletta House
+
+Malta
+
+
+Valletta (colloquially known as Il-Belt in Maltese) is the tiny capital of Malta and is where you will find luxury 4 bedroom villa Valletta House. Exquisitely furnished in a contemporary style and finished to the highest standards, this hidden gem is the perfect alternative to a boutique hotel for friends and family.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+488
+Night
+
+Maradiva Villas Resort & Spa
+
+Mauritius
+
+
+Maradiva Villas Resort & Spa is a luxury villa-only hotel on the island of Mauritius. With an award-winning spa, fine cuisine and private pools in every villa it is one of the best luxury hotel choices in the Indian Ocean.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+293
+Night
+
+Upendo Zanzibar
+
+Tanzania
+,
+Zanzibar
+
+
+The owners of Upendo Zanzibar in south-east Zanzibar are passionate about their luxury villas and have done everything possible to ensure that you will be too. This Chic Retreat is on a white sandy beach and is fully serviced allowing you to sit back, relax and soak up the sun.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+111
+Night/room
+
+The Amala
+
+Indonesia
+,
+Bali
+
+
+The Amala is a gorgeous collection of 12 luxury villas in the fashionable town of Seminyak, Bali. Relax in this tranquil boutique collection, with a design influenced by Zen Buddhism, a luxury spa and personalized butler service. No children under 12 years old.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+119
+Night
+
+Taylors Hill
+
+Sri Lanka
+,
+Central Province
+,
+Kandy
+
+
+Built by an English man over 100 years ago Taylors Hill is a spacious 5 room boutique hotel in the Kandy District, Sri Lanka. It has two sitting rooms, a dining room, TV room, play room and Snooker room and is surrounded by pretty lawns and gardens with a large pool.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+1,306
+Night
+
+Senses Villa Ornos
+
+Greece
+,
+South Aegean
+,
+Mykonos
+
+
+Senses Villa Ornos is a 5 bedroom fully-equipped luxury villa on the southwest coast of Mykonos in the Cyclades Islands, Greece. Ideal for families and friends looking for a relaxing holiday in beautiful surroundings. Stay here if you want to enjoy laid back luxury and the magical beaches of Platis Gialos as well as the energy of Mykonos Town.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+131
+Night
+
+Senses Luxury Villas and Suites -  Elia
+
+Greece
+,
+South Aegean
+,
+Mykonos
+
+
+Perfect for couples, families or a group of friends looking for privacy and comfort in stylish surroundings the fully-equipped Senses Luxury Villas & Suites in Mykonos offer a choice of 1-4 bedroom with views of the Aegean Sea.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+683
+Night
+
+Samujana
+
+Thailand
+,
+Surat Thani
+,
+Koh Samui
+
+
+Samujana, on the beautiful island of Koh Samui, Thailand, is a collection of some of the most beautiful luxury sea view villas on the island. Each with their own private infinity pools and stunning views these luxury villas sleep 2 to 16 people and can be rented for a minimum of 3 nights.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+222
+Night
+
+Villa Metato
+
+Italy
+,
+Umbria
+,
+Perugia
+
+
+Villa Metato is a romantic boutique retreat in the Upper Tiber Valley in Umbria, just a few miles from Tuscany. Surrounded by 12 acres of private forest, this Chic Retreat offers the perfect escape in a stylishly renovated 18th-century villa.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

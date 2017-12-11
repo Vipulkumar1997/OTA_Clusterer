@@ -1,0 +1,2105 @@
+
+Hochzillertal Alpine Apartments, Kaltenbach - Hut Huts & Hostels | Tiscover | en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of Favorites (
+0
+)
+
+
+
+
+English
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+My Tiscover
+
+
+
+
+
+E-Mail:*
+
+
+
+
+Password:*
+
+
+
+Password forgotten
+
+
+
+
+
+
+Register
+
+
+
+
+
+
+Booking overview
+
+E-mail, password
+
+Personal information
+
+Payment information
+
+
+Logout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lodgings
+
+
+
+Destinations
+
+
+
+Summer Holiday
+
+
+
+Winter Holiday
+
+
+
+Alpine Super Savers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+Lodgings
+
+
+
+Destinations
+
+
+
+Summer Holiday
+
+
+
+Winter Holiday
+
+
+
+Alpine Super Savers
+
+
+
+
+
+
+List of Favorites (
+0
+)
+
+My Tiscover
+
+
+
+Sprache: Deutsch
+
+Language: English
+
+
+
+
+
+
+
+
+
+
+
+
+My Tiscover:
+
+
+
+
+E-Mail:*
+
+
+
+
+Password:*
+
+
+
+Password forgotten
+
+
+
+
+
+
+
+Register
+
+< Back to overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alps:
+
+
+
+
+
+
+
+Austria
+
+»
+
+
+
+
+
+
+
+Tirol
+
+»
+
+
+
+
+
+
+
+Zillertal First Holiday Region
+
+»
+
+
+
+
+
+
+
+Kaltenbach
+
+»
+
+
+
+
+
+
+
+null
+
+
+
+
+
+
+Hochzillertal Alpine Apartments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hochzillertal Alpine Apartments
+
+
+
+Kaltenbach
+, Tirol, Austria
+
+
+Homepage
+
+
+
+
+
+noted
+
+Save to Note List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When staying with us you can sleep longer than others and still be the first to hit the slopes!
+
+Our apartment house is located in the heart of the Zillertal ski area, between the quaint "Kaltenbacher" mountain inn and the...
+
+More hotel details
+
+
+
+
+
+Share on:
+
+
+Share on Facebook
+
+
+
+Share onTwitter
+
+
+
+Share on Google+
+
+
+
+
+
+
+
+
+Your Hosts
+
+“We warmly welcome you!”
+
+Eva-Maria Wildauer
+
+
+
+Ms Wildauer warmly welcomes you!
+
+
+
+
+Amenities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Location
+
+
+Check location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rooms & Prices
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select your travel date for Hochzillertal Alpine Apartments:
+
+
+Delete search criteria
+
+
+Your search for Hochzillertal Alpine Apartments:
+
+
+
+
+
+
+
+Rooms:
+
+
+{{val}}
+
+
+
+
+Adults:
+
+
+{{val}}
+
+
+
+
+Children:
+
+
+{{val}}
+
+
+
+
+
+
+Child age:
+
+
+
+
+-
+
+{{val}}
+
+
+
+
+Please select age of the children
+
+
+
+
+
+
+
+
+
+Arrival:
+
+
+{{fromDate || 'Arrival'}}
+
+
+
+
+Departure:
+
+
+{{toDate || 'Departure'}}
+
+
+
+
+Please choose a date
+
+
+
+
+
+Check Availability
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+Rooms:
+
+
+{{val}}
+
+
+
+
+Adults:
+
+
+{{val}}
+
+
+
+
+Children:
+
+
+{{val}}
+
+
+
+
+
+
+Child age:
+
+
+
+
+-
+
+{{val}}
+
+
+
+
+Please select age of the children
+
+
+
+
+
+
+
+Arrival:
+
+
+
+
+
+
+Departure:
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+No rooms are available for the selected period.
+
+We have found an accommodation with the required number of bedrooms according to your search.
+
+
+
+
+
+
+
+
+
+Enlarge images
+
+
+
+
+
+
+
+
+{{room.board}}
+
+
+
+{{room.board}}
+
+{{boardService.name}} (inclusive of)
+
+{{boardService.name}} {{boardService.price | number:2}} {{roomlist.currency()}}
+
+
+
+
+
+
+{{room.roomType}}: {{room.minOccupation}}
+to {{room.maxOccupation}}
+
+People
+
+person
+
+
+
+
+
+
+
+Photos &
+Details
+& Additional services
+
+
+
+
+
+
+
+{{room.roomType}}: {{room.minOccupation}}
+to {{room.maxOccupation}}
+
+People
+
+person
+
+
+
+
+
+
+HOT
+
+DEAL
+
+
+
+
+
+No credit card data required.
+
+
+
+
+No advance payment required
+
+
+
+
+{{room.dynamic.paymentconditions.cancelcond}}
+
+
+
+
+Free Travel Cancellation Insurance
+
+
+
+
+{{service}}
+
+
+
+
+{{roomservice}}
+
+
+
+
+
+
+
+
+Book additional services,
+Room Details
+& Booking conditions
+
+
+
+
+
+Replace this room
+
+
+
+
+
+Book additional services
+
+
+
+
+
+
+
+
+
+
+total amount
+
+{{(room.dynamic.totalPriceNoLm / room.dynamic.duration) | number:2}} {{roomlist.currency()}}
+
+{{roomlist.getAmount(room, offer,true) | number:2}} {{roomlist.currency()}}
+
+incl. end-of-stay cleaning
+
+
+
+per night ({{roomlist.getNumberOfPersons(room, offer)}} pers.)
+
+{{(roomlist.getAmount(room, offer,true) / room.dynamic.duration) | number:2}} {{roomlist.currency()}}
+
+
+
+
+Price per night from
+
+{{room.minprice | number:2}} {{roomlist.currency()}}
+
+
+
+Book now
+
+Send request
+
+
+{{room.availCalBtnName}}
+
+
+
+
+Replace this room
+
+
+
+Ausverkauft
+
+{{room.dynamic.stringency}}
+
+{{roomlist.getStaticStringencyText(room.id)}}
+
+
+
+
+Book additional services
+
+
+
+
+
+
+
+{{bookservice.name}}
+
+
+
+Unit: {{bookservice.unit}}
+
+Description: {{bookservice.descr}}
+
+Services: {{bookservice.services}}
+
+
+
+
+
+
+{{bookservice.price | number:2}} {{roomlist.currency()}}
+per unit
+
+
+
+-
+
+
++
+
+
+
+
+
+
+
+
+
+Back to list
+
+
+
+
+
+
+per night ({{roomlist.getNumberOfPersons(room, offer)}} pers.)
+
+{{(roomlist.getAmount(room, offer,true) / room.dynamic.duration) | number:2}} {{roomlist.currency()}}
+
+
+
+Price per night from
+
+{{room.minprice | number:2}} {{roomlist.currency()}}
+
+
+
+
+Availability & Prices
+
+
+Book now
+
+Send request
+
+
+{{room.dynamic.stringency}}
+
+{{roomlist.getStaticStringencyText(room.id)}}
+
+
+
+
+
+Book additional services
+
+
+{{bookservice.name}}
+
+{{bookservice.price | number:2}} {{roomlist.currency()}}
+per unit
+
+
+
+-
+
+
++
+
+
+
+
+
+
+
+
+
+Booking conditions
+
+{{room.dynamic.paymentconditions.cancelcond}}
+
+{{document.agbText}}
+,
+
+
+
+Additional Charges:
+
+{{cost}}
+
+{{offer.vtax}}
+
+
+
+
+
+{{room.dynamic.paymentconditions.cancelCosts.introText}}
+
+{{costs}}
+
+{{room.dynamic.paymentconditions.cancelCosts.outroText}}
+
+
+
+
+
+Room details & Amenities
+
+
+
+
+
+{{section}}:
+
+
+{{oneinfo}}
+
+
+
+
+total amount
+{{ roomlist.getAmountTotal() | number:2 }} {{roomlist.currency()}}
+
+{{roomlist.getNumberOfPersonsTotal()}}
+People
+person
+,
+
+{{roomlist.getRoomCount()}} Room(s),
+
+{{roomlist.getDuration()}}
+Nights
+night
+
+
+
+
+Book now
+
+Send request
+
+
+
+
+Show more rooms
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+
+
+
+
+
+
+Guest reviews
+
+
+
+
+
+
+View all reviews
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+Description
+
+
+
+
+
+
+
+
+
+
+Winter vacation
+
+
+
+
+Summer vacation
+
+
+
+
+Welcome!
+
+When staying with us you can sleep longer than others and still be the first to hit the slopes!
+
+Our apartment house is located in the heart of the Zillertal ski area, between the quaint "Kaltenbacher" mountain inn and the "Alpengasthof Zirbenstadl" guesthouse at Neuhütten ski lift.
+
+Enjoy truly great skiing holidays without lift lines and stress.
+
+Thanks to Kaltenberg´s location at an altitude of 1, 800m fantastic skiing conditions are guaranteed! There are plenty of fun activities for non-skiers including walking, sledding, snowball fights, ....
+
+From November to May our apartment house is only accessible via the Hochzillertal gondola.
+
+At your arrival we await you at the parking lot of the Bergbahn Hochzillertal lift and take you to the upper terminal. We will also organize the transportation of your luggage.
+
+Please contact us for further information!
+
+Yours, Eva-Maria and Bernhard Wildauer
+
+
+
+Welcome!
+
+Located on the Zillertal panorama road at 1800m above sea level, our house is easily accessible and makes a splendid base for walks, hiking and mountain bike tours in the summer and fall.
+
+Children will have the time of their lives, as there is so much to do and see. Highlights include: Dinosaur rock, caves, secret camps, ...
+
+Eva-Maria and Bernhard Wildauer look forward to seeing you!
+
+
+
+
+
+
+Amenities
+
+
+
+
+Earliest Check-in:
+
+08:00
+
+
+Latest Check-out:
+
+09:00
+
+
+
+
+Parking Lots Available
+No sauna
+Pets Allowed
+No swimming pool
+No restaurant
+No indoor pool
+No WiFi
+The voucher is not redeemable here
+
+
+
+
+
+
+
+Additional Facilities
+
+
+Feel at home!
+
+Our holiday apartments are furnished with handmade fitted furniture and solid wood furniture designed by team 7. To find out more about our apartments click "Holiday Apartments/Rates" or click IMAGES "Gedrechter" or "Wetter Kreuz".
+
+
+Pets Allowed
+
+Car Park
+
+
+
+
+
+
+
+Services
+
+
+
+Seniors
+
+English Spoken
+
+German Spoken
+
+
+
+
+
+
+
+Recreation
+
+
+
+Ski & Snowboard
+
+Snowboarding
+
+Skiing
+
+Snowshoe Hiking
+
+Active Winter
+
+Skiurlaub mit der Familie
+
+
+
+
+Special Features
+
+
+
+
+
+Ski Mountaineering
+
+
+Qualified contact person (avalanche report) available at our house
+Ski mountaineering maps, information brochure available at our house
+
+
+
+
+
+
+
+
+
+Mountain Biking & Cycling
+
+
+Guided cycling tour (min. 1 per week) organized by the accommodation
+Cycle trail map, information brochure and/or trail descriptions available at our house
+Small repair area with basic equipment (tools, pump, etc.)
+Mountain bike trail map and/or route descriptions available at our house
+Mountain bike rental at our house or cooperation with rental partner
+Road map, information brochure and/or route descriptions available at our house
+
+
+
+
+
+
+
+
+
+Climbing
+
+
+Route recommendations, information brochures on climbing hot spots available at our house
+Via ferrata equipment rental (via ferrata set, helmet, etc.) available at our house
+Hiking trail map and information on via ferratas available at our house
+
+
+
+
+
+
+
+
+
+Hiking
+
+
+Guided hiking tour (min. 1 per week) organized by the accommodation
+Hut reservations for multi-day hiking tours
+Hiking trail map, information brochures and/or route descriptions available at our house
+Guided peak tour (min. 1 per week) organized by the accommodation
+Guided family hike (min. 1 per week) organized by the accommodation
+
+
+
+
+
+
+
+
+
+Active Winter
+
+
+Guided peak tour (min. 1 per week) organized by the accommodation
+Guided winter walking tours with certified guide organized by the accommodation
+Information brochures on toboggan runs available at our house
+Sled/toboggan rental available at our house
+Guided snowshoe tours with certified experts organized by the accommodation
+Snowshoe rental available at our house
+
+
+
+
+
+
+
+
+
+Ski & Snowboard
+
+
+Distance to next valley station max. 5 km
+Reductions on ski course offers and/or lift cards
+Cooperation with ski rental partners (reduction for guests)
+Organization of skiing lessons
+Ski-in & ski-out conveniences at our accommodation
+Hut reservations for multi-day hiking tours
+Snowboard Park available in the nearby ski region
+Reductions on snowboard course offers and/or lift cards
+Cooperation with snowboard rental partner (reductions for guests)
+Organization of children's ski and snowboard lessons
+
+
+
+
+
+
+
+
+
+
+
+
+Food Arrangement
+
+
+Everything you need for wonderful holidays!
+
+Although our apartments are self-catering they feature all amenities to make your stay memorable.
+
+Place your order for bread with Gerhard at the Zirbenstadl and enjoy crispy fresh breakfast rolls at 1800m above sea level.
+
+
+
+
+
+
+
+
+Family extras
+
+
+
+Skiurlaub mit der Familie
+
+Family Holidays
+
+
+
+
+Family Holidays
+Rooms suitable for families
+Guided family hike (min. 1 per week) organized by the accommodation
+Hiking trail map, information brochures and/or route descriptions available at our house
+Organization of ski kindergarten
+Organization of children's ski and snowboard lessons
+Practicing slope and easy ski run close by (max. 5 km)
+
+
+
+
+
+
+
+
+More Information
+
+
+
+
+
+
+
+
+
+
+
+“We warmly welcome you!”
+
+Ms Eva-Maria Wildauer
+
+
+Neuhütten 21 + 15
+6272 
+    Kaltenbach,  
+    Austria
+
+
+Homepage
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+
+
+
+Climate & Weather
+
+
+
+
+
+
+
+
+Weather
+
+
+
+
+
+
+
+
+
+
+Today
+11.12.2017
+
+4 / 15 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Tomorrow
+12.12.2017
+
+-3 / 4 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Wednesday
+13.12.2017
+
+-4 / 4 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Thursday
+14.12.2017
+
+0 / 6 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Friday
+15.12.2017
+
+-2 / 4 °C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+Location & Getting There
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arrival by car
+
+
+
+Arrival by train
+
+
+
+Arriving by Plane
+
+
+
+
+
+
+Summer: Inntal motorway - exit: Zillertal - Brettfall tunnel - 19 km to Aschau/Zillertal - we pick you up at the village center and take you to your holiday home (11 km)
+
+Winter: Inntal motorway - exit: Zillertal - Brettfall tunnel - 15 km to Kaltenbach/Zillertal - Towards Hochzillertal gondola - we pick you up at the car park of the Hochzillertal gondola and take you up to the top terminal - luggage transfer to the holiday home included. On request and for an extra charge, you can book a parking space in one of the private and lockable garages.
+
+
+
+
+
+
+Calculate Route Now
+
+
+
+
+
+from:
+
+
+
+
+
+
+to:
+
+
+
+
+
+
+
+Calculate Route Now
+
+
+
+
+
+
+
+
+
+
+
+From Jenbach train station with the Zillertalbahn steam railway or by bus to Kaltenbach (in winter) or to Aschau (in summer). We pick you up at the train station.
+
+
+
+
+Innsbruck Airport: 60 km
+Salzburg Airport: 160 km
+Munich Airport: 180 km
+
+
+flight reservation
+
+
+
+
+
+
+
+
+Location & Getting There
+
+
+
+
+Neuhütten 21 + 15
+6272 
+                Kaltenbach
+Austria
+
+
+
+
+Distance
+
+
+
+11 km Center
+
+
+Kaltenbach
+
+
+
+
+
+14 km Railway Station 1
+
+
+Jenbach Bahnhof
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+These accommodations could also be interesting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kaltenbach, Tirol
+
+
+Explorer Hotel Zillertal
+
+
+
+
+
+
+4.7
+/5
+
+
+
+
+superb
+
+(5
+            Ratings)
+
+
+
+from €
+79.60
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kaltenbach, Tirol
+
+
+Bockstecken
+
+
+
+
+
+
+4.8
+/5
+
+
+
+
+superb
+
+(21
+            Ratings)
+
+
+
+from €
+56.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kaltenbach, Tirol
+
+
+AT6272.600
+
+
+
+
+
+
+4.0
+/5
+
+
+
+
+very good
+
+(52
+            Ratings)
+
+
+
+from €
+152.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kaltenbach, Tirol
+
+
+Alpendorf
+
+
+from €
+84.00
+
+
+
+
+
+
+
+
+All accommodations in Kaltenbach
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+Forward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rating on Trusted Shop
+
+
+
+
+
+
+
+
+
+Known from TV
+
+
+
+
+
+
+
+
+
+
+
+Tiscover on
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+Google+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+Subscribe for our Newsletter!
+
+
+Details
+
+
+
+
+
+
+
+Please enter YOUR email address in the following format: firstname.lastname@domainname.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Tiscover
+
+
+
+Legal Notice
+
+
+
+Data Protection
+
+
+
+Contact
+
+
+
+Jobs
+
+
+
+
+
+For Customers
+
+
+
+Mobile
+
+
+
+FAQ
+
+
+
+Terms and Conditions
+
+
+
+My Tiscover
+
+
+
+Newsletter
+
+
+
+Route Planner
+
+
+
+Online Cancellation
+
+
+
+
+
+For Accommodations / Destinations
+
+
+
+Sign up your Accommodation
+
+
+
+Extranet
+
+
+
+Destination Marketing
+
+
+
+Terms and Conditions
+
+
+
+
+
+For Partners
+
+
+
+Affiliate Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© HRS Destination Solutions Austria GmbH 2017
+|
+Affiliate of
+HRS GROUP
+
+
+
+
+
+
+
+
+
+
+
+

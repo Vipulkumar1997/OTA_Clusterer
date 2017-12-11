@@ -1,0 +1,772 @@
+
+Luxury Villas Italy | Italian Boutique Hotels | Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Italy
+
+
+Europe
+
+
+
+
+
+
+177
+Hotels
+
+Explore
+
+
+
+
+
+
+From the snowy peaks of the Dolomites to the sun-drenched beaches of Sicily, Italy weaves through tranquil farmland, mesmerising coastlines and a wealth of history. For city breaks Rome has its monuments, Venice its cinematic canals and Naples its out-of-this-world pizza, but away from these cosmopolitan hubs, rural life is just as postcard-worthy. Head inland for a taste of classic Italy peppered with boutique hotels, zhuzhed-up rural kitchens and sparkling infinity pools.
+
+
+
+
+
+
+
+
+Destinations in Italy
+
+
+
+
+
+
+
+
+
+
+Rome Hotels
+
+Homeland of the ancients, Rome brims with historical ruins and intrigue. Curious travellers could spend days here flitting from Renaissance chapels to splashing centuries-old fountains, before cosying up in boutique hotels and luxury suites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tuscany Hotels
+
+When it comes to postcard-perfect loveliness, Tuscany’s mist-softened hills and red-roofed villages are second to none. The region’s cities are just as enticing: expect revamped farmhouses, elegant urban boltholes and pool-blessed palazzos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sicily Hotels
+
+A sun-blessed destination for seaside frolics, Sicily is an island of undisputed beauty. Unspoilt beaches, time-stood-still villages and the dramatic antics of Mount Etna are just some of its alluring charms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Puglia Hotels
+
+Tucked between the Adriatic and Ionian Seas, Puglia is a land of thriving olive groves, golden beaches and ancient villages. Today, medieval palaces and rustic farmhouses play host to boutique retreats and spa hideaways set in gentle rolling plains.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sardinia Hotels
+
+Just off Italy’s west coast, Sardinia is a haven for sun-and-sand lovers. The island’s Mediterranean legacy – limestone towns, neolithic artefacts and hearty cuisine – ensures there’s a lot more to explore beyond glitzy Costa Smeralda’s picturesque coves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Umbria Hotels
+
+Laced with olive groves and vineyards, Umbria is the green heart of the country. From the mountains of Perugia to the hilltop town of Orvieto, this is Italy at its traditional best, where truffle-hungry foodies flock for a taste of nonna’s cooking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veneto Hotels
+
+From the foothills of the Alps to Venice’s scintillating lagoon, a stay here is all about romance. Veneto’s luxury villas, art-inspired hotels and canalside boltholes have much to enthrall.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Campania Hotels
+
+Quintessentially Italian, Campania has magnificent palaces, awe-inspiring vistas and game-changing pizzas in droves. Away from the hustle and bustle of Naples’ vivacious streets, Sorrento and the Amalfi Coast beckon seductively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lazio Hotels
+
+Packed with spectacular art, culture, shopping and food, underrated Lazio begs to be explored. Homeland of the ancients, Rome brims with historical ruins and intrigue, with beaches, cliffs and untouched coves just a day trip away.
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Italy
+
+
+
+
+
+
+
+
+
+
+£
+199
+Night
+
+Argentario Golf Resort & Spa
+
+Italy
+,
+Tuscany
+,
+Grosseto
+
+
+Argentario Golf Resort & Spa is unlike any other luxury hotel in the Maremma, Tuscany. This stunning contemporary hotel has been created using local stone, wood and glass to create a masterpiece of design.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+219
+Night
+
+Il Borro
+
+Italy
+,
+Tuscany
+,
+Arezzo
+
+
+Exceptional service, luxury and indulgence are just a few highlights that a stay in the medieval village Il Borro offers you. Choose between one of the magnificent suites, farmhouses or historic villas and enjoy one of the many activities on offer during your stay in Tuscany.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+469
+Night
+
+Castello Banfi il Borgo
+
+Italy
+,
+Tuscany
+,
+Siena
+
+
+Castello Banfi il Borgo is a luxury boutique hotel on an award-winning winery & vineyard in Brunello, Tuscany. At stay here is all about fine wine and great food in a stunning castle setting where you can relax by the pool or enjoy some pampering in the spa.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+157
+Night
+
+Palazzo Niccolini
+
+Italy
+,
+Tuscany
+,
+Florence
+
+
+You couldn't find a luxury hotel closer to the Duomo in Florence than Palazzo Niccolini if you tried!  Owners Filippo and Ginevra Niccolini di Camugliano have recently renovated the palazzo transforming it into one of the loveliest historical boutique hotels in the centre of Florence. The area surrounding the Duomo has become a pedestrian zone making it one of the quietest and cleanest locations in the city.
+
+
+
+BOOK
+
+
+
+
+
+
+ALL HOTELS IN Italy
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+FROM THE BLOG
+
+
+
+
+
+
+
+
+Lulu Townsend
+
+Bella Beaches: Six Best Beaches in Italy
+
+
+We think Italians know what makes a beach special, so here are six of our favourites, each with the boutique hideaway for a sensational stay. Some are a little off the beaten track, but that makes them all the more worth searching out…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chic Retreats
+
+Top 5 Italian Wine Regions
+
+
+We know that many of our guests love Italy for the stunning wines lovingly crafted across the country’s famed regions. We’ve picked five of our favourites to help you decide the location of your next wine-filled wanderings.
+
+
+
+
+
+
+CHIC RETREATS
+
+A Prima Pasqua: Easter In Italy
+
+
+Nobody, nobody does Easter like the Italians. Whilst the rest of us are eating hot cross buns and watching the kids look for Easter eggs, across Italy, elaborate and beautiful celebrations are taking place. We take a closer look at three regions, each celebrating Easter in a completely unique way.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

@@ -13,12 +13,14 @@ from ota_clusterer import logger
 
 logger = logger.get_logger()
 
-
+# values inspired by http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 def create_2d_tsne_model(vector_matrix, filename):
     tsne = sklearn.manifold.TSNE(n_components=2,
-                                 early_exaggeration=6,
+                                 perplexity=30,
+                                 early_exaggeration=12,
                                  learning_rate=200,
-                                 n_iter=2000,
+                                 init='pca',
+                                 n_iter=20000,
                                  random_state=2,
                                  verbose=5)
 
@@ -63,15 +65,21 @@ def create_new_doc2vec_tsne_model_and_clustering(doc2vec_model):
 
 def main():
     # example usage for clustering of new t-sne model
-    # doc2vec_model = doc2vec.load_existing_model('doc2vecmodel-27-Nov-2017-14:43:10')
-    # doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
-    # tsne_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-')
-    # affinity_propagation.create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, 'cluster-doc2vec-')
+    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-english-11-Dec-2017-17:07:03')
+    doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
+    tsne_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-english')
+    affinity_propagation.create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, 'cluster-doc2vec-english-')
 
-    doc2vec_model = doc2vec.load_existing_model('doc2vecmodel-27-Nov-2017-14:43:10')
-    labels = doc2vec_model.docvecs.doctags.keys()
-    tsne_model = load_tsne_model('cluster-doc2vec--27-Nov-2017-14:49:59-array.npy')
-    plots.create_simple_tsne_model_plot(tsne_model, labels, 'simple_tsne_plot')
+    # example usage for clustering of new t-sne model
+    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
+    doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
+    tsne_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-german')
+    affinity_propagation.create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, 'cluster-doc2vec-german-')
+
+    # doc2vec_model = doc2vec.load_existing_model('doc2vec-model-english-11-Dec-2017-17:07:03')
+    # labels = doc2vec_model.docvecs.doctags.keys()
+    # tsne_model = load_tsne_model('cluster-doc2vec--27-Nov-2017-14:49:59-array.npy')
+    # plots.create_simple_tsne_model_plot(tsne_model, labels, 'simple_tsne_plot')
 
 
 if __name__ == "__main__":

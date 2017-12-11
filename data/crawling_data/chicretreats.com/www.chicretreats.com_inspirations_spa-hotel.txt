@@ -1,0 +1,680 @@
+
+Spa Hotels | Best Boutique Spa Breaks | Chic Retreats
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPA HOTELS
+
+Inspiration
+
+
+
+Rejuvenation is the primary focus of these serene boutique spa hotels. Soak in a cliff-top barrel hot-tub, gaze at the stars from an outdoor saltwater float, enjoy mountain views from heated outdoor pools or indulge in a specialist massage. The top choice for anyone in need of a little rest and relaxation.
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+£
+195
+Night
+
+Cowley Manor
+
+United Kingdom
+,
+England
+,
+Cotswolds
+
+
+Cowley Manor is a country house hotel and spa in the rolling hills of the Cotswolds. This luxury, kid-friendly hotel is surrounded by 55 acres of gardens, lakes & cascades and boasts the award winning C-Side spa
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+199
+Night
+
+Argentario Golf Resort & Spa
+
+Italy
+,
+Tuscany
+,
+Grosseto
+
+
+Argentario Golf Resort & Spa is unlike any other luxury hotel in the Maremma, Tuscany. This stunning contemporary hotel has been created using local stone, wood and glass to create a masterpiece of design.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+488
+Night
+
+Maradiva Villas Resort & Spa
+
+Mauritius
+
+
+Maradiva Villas Resort & Spa is a luxury villa-only hotel on the island of Mauritius. With an award-winning spa, fine cuisine and private pools in every villa it is one of the best luxury hotel choices in the Indian Ocean.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+180
+Night/room
+
+Desert Palm Dubai
+
+UAE
+,
+Dubai
+
+
+Desert Palm is a luxury boutique hotel with polo estate, avant garde spa, 4 championship polo fields, a riding school, stables, rare birds, pool, restaurant, endless sunshine and vast green landscapes.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+175
+Night
+
+Il Falconiere & Spa
+
+Italy
+,
+Tuscany
+,
+Cortona
+
+
+Il Falconiere is a charming small boutique hotel in Tuscany. Set between a 17th-century stone villa, chapel and cottage - enjoy wonderful views over Cortona from the outdoor pool, traditional Tuscan cuisine in the Michelin-star restaurant and luxurious treatments in the spa.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+209
+Night
+
+Domaine de Verchant Hotel and Spa
+
+France
+,
+Languedoc Roussillon
+,
+Montpellier
+
+
+Domaine de Verchant is a majestic boutique hotel in the heart of the Languedoc region in Southern France. This gorgeous hotel is a striking piece of design with one of the best spas we have come across; an absolute must for all hotel lovers.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+63
+Night
+
+Cala Ponte Resort & Spa
+
+Italy
+,
+Puglia
+,
+Bari
+
+
+Soak up your fill of sunshine, sea and spa and wash it all down with a spot of culture, at Cala Ponte Resort & Spa in Puglia. Just an hour from Bari or Brindisi airport, it's the ideal location for a few days escape by the pool.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+68
+Night
+
+The Leaf Jimbaran
+
+Indonesia
+,
+Bali
+
+
+Nestled in the middle of Jimbaran Bay The Leaf Jimbaran has 50 tastefully furnished, modern pool villas & rooms, just minutes from the white sands, gentle waters and open-air seafood restaurants of Jimbaran Beach.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+212
+Night
+
+The Pavilions Himalayas
+
+Nepal
+
+
+Reflect, relax and re-connect at The Pavilions Himalayas which are surrounded by hills, mountains and organic farmland near Pokhara, one of the top trekking destinations in the world. Laze away by the pool, work out in the gym or be pampered in the spa.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+70
+Night
+
+Navutu Dreams Resort & Wellness Retreat
+
+Cambodia
+,
+Siem Reap
+
+
+Tucked away from the hustle and bustle of Siem Reap centre, Navutu Dreams Resort & Spa is an eco-chic hotel & spa which boasts 3 swimming pools, a fitness centre and a restaurant. It provides guests with free WiFi, and is just a 7 minute TukTuk drive from Old Market and Pub Street.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+131
+Night
+
+Mia Resort Nha Trang
+
+Vietnam
+,
+Nha Trang
+
+
+Set amidst manicured gardens in Nha Trang, Vietnam, the condos, villas, suites and brand new 5 bedroom villas at Mia are dotted around the estate all with the space and privacy couples,  families and friends look for in a luxury holiday experience.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

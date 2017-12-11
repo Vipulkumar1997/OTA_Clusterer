@@ -1,0 +1,631 @@
+
+Boutique Hotels Cotswolds, Luxury Hideaway Hotels & B&Bs; in the Cotswolds
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+Cotswolds
+
+
+Europe
+,
+United Kingdom
+
+
+
+
+
+
+10
+Hotels
+
+Explore
+
+
+
+
+
+
+A stay in the Cotswolds offers a taste of bucolic life: ramble across rolling hills and well-kept forests, while afternoons away in pretty market towns and sample the region’s seasonal fare in gourmet pubs and seriously good restaurants.
+
+More about Cotswolds.
+
+
+
+
+When to go
+
+The Cotswolds are glorious in all weather: huddle by crackling fires in winter, coo over springtime’s gambolling lamb or catch the landscape’s colourful regalia in summer and autumn.
+
+Food & Drink
+
+Local kitchens make the most of the Cotswolds’ seasonal fruit and pedigree breeds. Eating out is as much about cosying up in wood-panelled gastropubs as it is about fine dining in sleek Michelin-starred restaurants. Kate Moss’ occasional haunt the Swan at Southrop has roaring fires, a skittles alley and a produce-driven menu of comforting classics. If you’re a budding chef, book a foraging or world-food course at Thyme’s nearby cookery school.
+
+Not to miss
+
+Embrace your inner farmer at the Cotswold Farm Park, home to rare (and feisty) animal breeds.
+
+
+
+Nightlife
+
+Festival-loving Cheltenham has well-heeled clubs and a scattering of swanky drinking dens, but evenings in the Cotswolds are meant to be deliciously low-key. Head down to your hotel bar for an expertly mixed cocktail, or commandeer a Chesterfield armchair at the nearest tavern for slow sips of single malt and local ales.
+
+Where to stay in the Cotswolds
+
+Arguably one of the prettiest villages in the Cotswolds, Broadway has sweeping views of golden farmland and country house digs decked out with all manner of hot tubs and award-winning spas. The riverside Slaughters are quaint villages brimming with romance. Stay in a boutique hotel near Cheltenham for easy access to rural pursuits and urban delights.
+
+How to get there
+
+Birmingham and London Heathrow are the closest international airports. It’s worth bringing a car to explore the region, though traffic can be heavy at times. Trains are another good option, with services running to London Paddington, Edinburgh and Cardiff.
+
+
+
+Read less
+
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in Cotswolds
+
+
+
+
+
+
+
+
+
+
+£
+94
+Night
+
+The Wheatsheaf Inn
+
+United Kingdom
+,
+South West
+,
+Gloucestershire
+
+
+A stay at The Wheatsheaf Inn in the Cotswolds is all about the simple pleasures in life; real food, real ale and real comfort. This traditional coaching inn is just like staying in a small boutique hotel but a stay here is like being given a big hug.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+108
+Night
+
+No.131 The Promenade
+
+United Kingdom
+,
+Gloucestershire
+,
+Cheltenham
+
+
+Every detail in the 11 bedrooms at No.131 is on point, from the Egyptian cotton bed linen to the roll top baths and original artworks. This Cheltenham hideaway is close to perfection.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+100
+Night
+
+No.38 The Park
+
+United Kingdom
+,
+Gloucestershire
+,
+Cheltenham
+
+
+No.38 The Park is a 13-room Georgian townhouse in the heart of the spa town of Cheltenham. Perfect for a weekend or midweek escape, it's available for private hire. This Chic Retreat is an excellent choice for celebrations with friends and family, and is dog-friendly.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+195
+Night
+
+Cowley Manor
+
+United Kingdom
+,
+England
+,
+Cotswolds
+
+
+Cowley Manor is a country house hotel and spa in the rolling hills of the Cotswolds. This luxury, kid-friendly hotel is surrounded by 55 acres of gardens, lakes & cascades and boasts the award winning C-Side spa
+
+
+
+BOOK
+
+
+
+
+
+
+ALL HOTELS IN Cotswolds
+
+
+
+
+
+
+
+
+
+FEATURED HOSTS
+
+
+
+
+
+
+
+
+
+Meet Julian
+
+No.131 - Cheltenham, UK
+
+An avid traveller himself, No.131 owner Julian was keen to bring great food and hospitality to his home town of Cheltenham. Suffice to say he's achieved it with this inviting Cotswolds spot
+
+MORE ABOUT NO.131
+
+
+
+
+
+
+
+
+Owner Julian was keen to bring great food and hospitality to his home town
+
+No.131 - Cheltenham, Cotswolds
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

@@ -1,0 +1,716 @@
+
+Pet-Friendly Hotels | Dog-Friendly Boutique Hotels
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PET-FRIENDLY HOTELS
+
+Inspiration
+
+
+
+We know it can be hard to leave the four-legged part of the family behind when you go on holiday. Well now with our great selection of boutique pet-friendly accommodation, you simply don’t have to! All the hotels in this section welcome furry friends with open arms - some even provide special doggy beds to ensure the whole family have a comfortable stay. Simply the best dog-friendly boutique accommodation around!
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+£
+245
+Night
+
+Cary Arms & Spa
+
+United Kingdom
+,
+South West
+,
+Devon
+
+
+The Cary Arms & Spa combines the luxury of a boutique hotel with the charm of an English pub. Set in the quaint seaside town of Babbacombe, Devon, this charming beachside retreat is ideal for families, pets, and couples.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+135
+Night
+
+The Fish Hotel
+
+United Kingdom
+,
+England
+,
+Cotswolds
+
+
+Quirky huts with hot tubs or a cool countryside hotel? Both and at an affordable price. Think outdoorsy, laid-back chic with heaps of style and you have the Cotswolds latest hip hideaway, The Fish Hotel.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+95
+Night
+
+The Gallivant
+
+United Kingdom
+,
+East Sussex
+,
+Rye
+
+
+Situated right by Camber Sands beach in East Sussex, The Gallivant is a trendy barefoot chic boutique hotel with an on-site bistro. Just 3.5 miles from the medieval town of Rye, this laid back hideaway is perfect for a few nights away by the sea.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+100
+Night
+
+The Packhorse Inn
+
+United Kingdom
+,
+Suffolk
+,
+Moulton
+
+
+The Packhorse Inn is an award-winning restaurant with 8 boutique hotel rooms in west Suffolk, just 10 minutes from Newmarket and on the Cambridgeshire border.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+95
+Night
+
+The Talbot Inn
+
+United Kingdom
+,
+Somerset
+,
+Mells
+
+
+Situated in Mells in Somerset The Talbot Inn opened its doors in 2013 and has been full every weekend since. Voted hotel of the year by the Sunday Times, the Talbot is a breath of fresh air for locals, the media crowd and for those looking for good honest food and chic boutique hotel rooms to match.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+218
+Night
+
+Villa Cora
+
+Italy
+,
+Tuscany
+,
+Florence
+
+
+Villa Cora is one of the most breathtaking luxury hotels in Tuscany with stunning views overlooking Florence and the surrounding countryside. A holiday of a lifetime.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+152
+Night
+
+Fontelunga Hotel and Villas
+
+Italy
+,
+Arezzo
+,
+Pozzo della Chiana
+
+
+Villa Fontelunga is a boutique hotel in Tuscany, which stands elegantly on the edge of the Val di Chiana. This luxurious Chic Retreat has expansive views towards the city of Cortona and its mountains beyond.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+279
+Night
+
+Villa Marina Capri Hotel and Spa
+
+Italy
+,
+Campania
+,
+Capri
+
+
+Villa Marina Hotel and Spa is a beautiful Chic Retreat and 21 room boutique hotel just a few minutes from Capri's Marina Grande.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+94
+Night
+
+The Wheatsheaf Inn
+
+United Kingdom
+,
+South West
+,
+Gloucestershire
+
+
+A stay at The Wheatsheaf Inn in the Cotswolds is all about the simple pleasures in life; real food, real ale and real comfort. This traditional coaching inn is just like staying in a small boutique hotel but a stay here is like being given a big hug.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+172
+Night
+
+The One Barcelona
+
+Spain
+,
+Catalonia
+,
+Barcelona
+
+
+The One Barcelona is more than just a luxury hotel, it's an elegant oasis in one of the best parts of town. The 89 rooms & suites are bright and airy and the rooftop pool is the perfect sun trap.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+
+£
+182
+Night
+
+Hotel Ville sull'Arno
+
+Italy
+,
+Tuscany
+,
+Florence
+
+
+Relax and be pampered at Hotel Ville sull'Arno, a luxury boutique hotel in Florence that is situated right on the river's edge with a pretty garden and heated outdoor pool.
+
+
+VIEW HOTEL
+
+
+
+
+
+
+
+
+
+
+
+£
+84
+Night
+
+The Thomas Lord
+
+United Kingdom
+,
+Hampshire
+,
+Petersfield
+
+
+Surrounded by stunning Hampshire countryside The Thomas Lord village pub has 5 luxury wood cabins and is the perfect weekend or mid-week stopover if you enjoy friendly service and delicious food & drink.
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

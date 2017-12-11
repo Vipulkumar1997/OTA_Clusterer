@@ -1,0 +1,1919 @@
+
+Kolpinghaus Innsbruck, Innsbruck - Hostel Huts & Hostels | Tiscover | en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of Favorites (
+0
+)
+
+
+
+
+English
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+My Tiscover
+
+
+
+
+
+E-Mail:*
+
+
+
+
+Password:*
+
+
+
+Password forgotten
+
+
+
+
+
+
+Register
+
+
+
+
+
+
+Booking overview
+
+E-mail, password
+
+Personal information
+
+Payment information
+
+
+Logout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lodgings
+
+
+
+Destinations
+
+
+
+Summer Holiday
+
+
+
+Winter Holiday
+
+
+
+Alpine Super Savers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+Lodgings
+
+
+
+Destinations
+
+
+
+Summer Holiday
+
+
+
+Winter Holiday
+
+
+
+Alpine Super Savers
+
+
+
+
+
+
+List of Favorites (
+0
+)
+
+My Tiscover
+
+
+
+Sprache: Deutsch
+
+Language: English
+
+
+
+
+
+
+
+
+
+
+
+
+My Tiscover:
+
+
+
+
+E-Mail:*
+
+
+
+
+Password:*
+
+
+
+Password forgotten
+
+
+
+
+
+
+
+Register
+
+< Back to overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alps:
+
+
+
+
+
+
+
+Austria
+
+»
+
+
+
+
+
+
+
+Tirol
+
+»
+
+
+
+
+
+
+
+Innsbruck & its Holiday Villages
+
+»
+
+
+
+
+
+
+
+Innsbruck
+
+»
+
+
+
+
+
+
+
+null
+
+
+
+
+
+
+Kolpinghaus Innsbruck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kolpinghaus Innsbruck
+
+
+
+Innsbruck
+, Tirol, Austria
+
+
+Homepage
+
+
+
+
+
+noted
+
+Save to Note List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accommodation Type:
+
+
+
+
+Hostel
+
+
+
+
+
+We warmly welcome you!
+
+More hotel details
+
+
+
+
+
+Share on:
+
+
+Share on Facebook
+
+
+
+Share onTwitter
+
+
+
+Share on Google+
+
+
+
+
+
+
+
+
+Your Hosts
+
+“We warmly welcome you!”
+
+Geschäftsführer Christoph Ursprunger
+
+
+
+
+
+
+Mr. Ursprunger warmly welcomes you!
+
+
+
+
+Amenities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+Out in the open
+
+
+Check location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rooms & Prices
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select your travel date for Kolpinghaus Innsbruck:
+
+
+Delete search criteria
+
+
+Your search for Kolpinghaus Innsbruck:
+
+
+
+
+
+
+
+Rooms:
+
+
+{{val}}
+
+
+
+
+Adults:
+
+
+{{val}}
+
+
+
+
+Children:
+
+
+{{val}}
+
+
+
+
+
+
+Child age:
+
+
+
+
+-
+
+{{val}}
+
+
+
+
+Please select age of the children
+
+
+
+
+
+
+
+
+
+Arrival:
+
+
+{{fromDate || 'Arrival'}}
+
+
+
+
+Departure:
+
+
+{{toDate || 'Departure'}}
+
+
+
+
+Please choose a date
+
+
+
+
+
+Check Availability
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+Rooms:
+
+
+{{val}}
+
+
+
+
+Adults:
+
+
+{{val}}
+
+
+
+
+Children:
+
+
+{{val}}
+
+
+
+
+
+
+Child age:
+
+
+
+
+-
+
+{{val}}
+
+
+
+
+Please select age of the children
+
+
+
+
+
+
+
+Arrival:
+
+
+
+
+
+
+Departure:
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+No rooms are available for the selected period.
+
+We have found an accommodation with the required number of bedrooms according to your search.
+
+
+
+
+
+
+
+
+
+Enlarge images
+
+
+
+
+
+
+
+
+{{room.board}}
+
+
+
+{{room.board}}
+
+{{boardService.name}} (inclusive of)
+
+{{boardService.name}} {{boardService.price | number:2}} {{roomlist.currency()}}
+
+
+
+
+
+
+{{room.roomType}}: {{room.minOccupation}}
+to {{room.maxOccupation}}
+
+People
+
+person
+
+
+
+
+
+
+
+Photos &
+Details
+& Additional services
+
+
+
+
+
+
+
+{{room.roomType}}: {{room.minOccupation}}
+to {{room.maxOccupation}}
+
+People
+
+person
+
+
+
+
+
+
+HOT
+
+DEAL
+
+
+
+
+
+No credit card data required.
+
+
+
+
+No advance payment required
+
+
+
+
+{{room.dynamic.paymentconditions.cancelcond}}
+
+
+
+
+Free Travel Cancellation Insurance
+
+
+
+
+{{service}}
+
+
+
+
+{{roomservice}}
+
+
+
+
+
+
+
+
+Book additional services,
+Room Details
+& Booking conditions
+
+
+
+
+
+Replace this room
+
+
+
+
+
+Book additional services
+
+
+
+
+
+
+
+
+
+
+total amount
+
+{{(room.dynamic.totalPriceNoLm / room.dynamic.duration) | number:2}} {{roomlist.currency()}}
+
+{{roomlist.getAmount(room, offer,true) | number:2}} {{roomlist.currency()}}
+
+incl. end-of-stay cleaning
+
+
+
+per night ({{roomlist.getNumberOfPersons(room, offer)}} pers.)
+
+{{(roomlist.getAmount(room, offer,true) / room.dynamic.duration) | number:2}} {{roomlist.currency()}}
+
+
+
+
+Price per night from
+
+{{room.minprice | number:2}} {{roomlist.currency()}}
+
+
+
+Book now
+
+Send request
+
+
+{{room.availCalBtnName}}
+
+
+
+
+Replace this room
+
+
+
+Ausverkauft
+
+{{room.dynamic.stringency}}
+
+{{roomlist.getStaticStringencyText(room.id)}}
+
+
+
+
+Book additional services
+
+
+
+
+
+
+
+{{bookservice.name}}
+
+
+
+Unit: {{bookservice.unit}}
+
+Description: {{bookservice.descr}}
+
+Services: {{bookservice.services}}
+
+
+
+
+
+
+{{bookservice.price | number:2}} {{roomlist.currency()}}
+per unit
+
+
+
+-
+
+
++
+
+
+
+
+
+
+
+
+
+Back to list
+
+
+
+
+
+
+per night ({{roomlist.getNumberOfPersons(room, offer)}} pers.)
+
+{{(roomlist.getAmount(room, offer,true) / room.dynamic.duration) | number:2}} {{roomlist.currency()}}
+
+
+
+Price per night from
+
+{{room.minprice | number:2}} {{roomlist.currency()}}
+
+
+
+
+Availability & Prices
+
+
+Book now
+
+Send request
+
+
+{{room.dynamic.stringency}}
+
+{{roomlist.getStaticStringencyText(room.id)}}
+
+
+
+
+
+Book additional services
+
+
+{{bookservice.name}}
+
+{{bookservice.price | number:2}} {{roomlist.currency()}}
+per unit
+
+
+
+-
+
+
++
+
+
+
+
+
+
+
+
+
+Booking conditions
+
+{{room.dynamic.paymentconditions.cancelcond}}
+
+{{document.agbText}}
+,
+
+
+
+Additional Charges:
+
+{{cost}}
+
+{{offer.vtax}}
+
+
+
+
+
+{{room.dynamic.paymentconditions.cancelCosts.introText}}
+
+{{costs}}
+
+{{room.dynamic.paymentconditions.cancelCosts.outroText}}
+
+
+
+
+
+Room details & Amenities
+
+
+
+
+
+{{section}}:
+
+
+{{oneinfo}}
+
+
+
+
+total amount
+{{ roomlist.getAmountTotal() | number:2 }} {{roomlist.currency()}}
+
+{{roomlist.getNumberOfPersonsTotal()}}
+People
+person
+,
+
+{{roomlist.getRoomCount()}} Room(s),
+
+{{roomlist.getDuration()}}
+Nights
+night
+
+
+
+
+Book now
+
+Send request
+
+
+
+
+Show more rooms
+
+
+
+This accommodation has no available rooms/apartments within the next 180 days
+
+
+Alternative accommodations with available rooms/apartments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Innsbruck, Tirol
+
+
+Hotel Zach
+
+
+
+
+
+
+4.3
+/5
+
+
+
+
+excellent
+
+(56
+            Ratings)
+
+
+
+from €
+79.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+Innsbruck, Tirol
+
+
+Alphotel
+
+
+
+
+
+
+4.1
+/5
+
+
+
+
+excellent
+
+(109
+            Ratings)
+
+
+
+from €
+112.50
+
+
+
+
+
+
+
+
+
+
+
+
+
+Innsbruck, Tirol
+
+
+Dollinger
+
+
+
+
+
+
+4.3
+/5
+
+
+
+
+excellent
+
+(54
+            Ratings)
+
+
+
+from €
+89.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+Innsbruck, Tirol
+
+
+Austria Classic Binders
+
+
+
+
+
+
+3.4
+/5
+
+
+
+
+Good
+
+(27
+            Ratings)
+
+
+
+from €
+62.00
+
+
+
+
+
+
+
+
+All accommodations in Innsbruck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+
+
+
+
+
+
+Guest reviews
+
+
+
+
+
+
+View all reviews
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+Description
+
+
+
+
+
+
+
+
+We warmly welcome you!
+
+
+
+
+
+
+Amenities
+
+
+
+Accommodation Type:
+
+Huts & Hostels
+
+
+Room Types:
+
+39 Rooms/Suites
+
+
+Payment Options:
+
+
+Debit Cards/EC Cards (Maestro)
+Cash Payment
+MASTERCARD/EUROCARD
+VISA
+
+
+
+
+No parking lots available
+No sauna
+No pets allowed
+No swimming pool
+No restaurant
+No indoor pool
+WiFi available
+The voucher is redeemable here
+
+
+
+
+
+
+
+Additional Facilities
+
+
+
+Elevator
+
+Washing Machine
+
+No pets allowed
+
+
+
+
+
+
+
+Services
+
+
+
+Seniors
+
+Single Travellers
+
+Business Travellers
+
+Young Adults
+
+Non-smoking Accommodation
+
+English Spoken
+
+WiFi
+
+
+
+
+
+
+
+Food Arrangement
+
+
+
+Breakfast
+
+
+
+
+
+
+
+Convention / Meeting
+
+
+
+4 Meeting Rooms
+
+350 m² maximal size
+
+starting from 5 users
+
+up to 200 users
+
+video projector
+
+Flip Chart
+
+internet link
+
+Photo-Copying Machine
+
+PA System
+
+Screen
+
+Microphones
+
+Fax Machine
+
+Telephone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“We warmly welcome you!”
+
+Mr. Geschäftsführer Christoph Ursprunger
+
+
+Viktor-Franz-Hess-Straße 7
+6020 
+    Innsbruck,  
+    Austria
+
+
+Homepage
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+
+
+
+Climate & Weather
+
+
+
+
+
+
+
+
+Weather
+
+
+
+
+
+
+
+
+
+
+Today
+11.12.2017
+
+2 / 13 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Tomorrow
+12.12.2017
+
+-3 / 5 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Wednesday
+13.12.2017
+
+-6 / 2 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Thursday
+14.12.2017
+
+-3 / 4 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Friday
+15.12.2017
+
+-3 / 3 °C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+Location & Getting There
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calculate Route Now
+
+
+
+
+
+from:
+
+
+
+
+
+
+to:
+
+
+
+
+
+
+
+Calculate Route Now
+
+
+
+
+
+
+
+
+
+
+
+Location & Getting There
+
+
+
+
+Viktor-Franz-Hess-Straße 7
+6020 
+                Innsbruck
+Austria
+
+
+
+
+
+
+Out in the open
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+Forward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rating on Trusted Shop
+
+
+
+
+
+
+
+
+
+Known from TV
+
+
+
+
+
+
+
+
+
+
+
+Tiscover on
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+Google+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+Subscribe for our Newsletter!
+
+
+Details
+
+
+
+
+
+
+
+Please enter YOUR email address in the following format: firstname.lastname@domainname.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Tiscover
+
+
+
+Legal Notice
+
+
+
+Data Protection
+
+
+
+Contact
+
+
+
+Jobs
+
+
+
+
+
+For Customers
+
+
+
+Mobile
+
+
+
+FAQ
+
+
+
+Terms and Conditions
+
+
+
+My Tiscover
+
+
+
+Newsletter
+
+
+
+Route Planner
+
+
+
+Online Cancellation
+
+
+
+
+
+For Accommodations / Destinations
+
+
+
+Sign up your Accommodation
+
+
+
+Extranet
+
+
+
+Destination Marketing
+
+
+
+Terms and Conditions
+
+
+
+
+
+For Partners
+
+
+
+Affiliate Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© HRS Destination Solutions Austria GmbH 2017
+|
+Affiliate of
+HRS GROUP
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,662 @@
+
+Boutique Hotels France | Luxury Villas | Special Offers | Chic
+
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+GBP
+
+EUR
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
+
+
+
+
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
++44 203 397 0085
+EMAIL RESERVATIONS
+
+HOME
+
+DESTINATIONS
+
+INSPIRATION
+
+OFFERS
+
+OUR STORY
+
+
+JOIN FOR FREE
+
+SIGN-IN
+
+GBP
+
+
++44 203 397 0085
+
+EMAIL RESERVATIONS
+
+
+
+
+
+
+
+
+WHOSE CHIC RETREAT
+
+WOULD YOU LIKE TO VISIT?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check in
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YYYY')}}
+
+{{ formatCheckInCheckOut(Settings.checkIn, 'DD MMM YY')  }}
+
+
+Check out
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YYYY') }}
+
+{{ formatCheckInCheckOut(Settings.checkOut, 'DD MMM YY') }}
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+REQUEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Room {{ $index + 1}}
+
+
+
+
+
+Remove
+
+
+
+
+
+Adults
+
+
+
+
+Children
+
+
+
+
+Child {{$index + 1}} age
+
+
+
+
+
+
+
+Add another room
+
+
+
+Cancel
+
+Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOUTIQUE HOTELS IN
+France
+
+
+Europe
+
+
+
+
+
+
+60
+Hotels
+
+Explore
+
+
+
+
+
+
+Baguettes, bicycles and Breton tops: so familiar is the French cultural landscape that a getaway across the channel has become a byword for effortless pleasure. That’s not to say the country could be summed up by a series of clichés –
+au contraire
+. From the windswept tip of Normandy to the crashing breaks of Biarritz, France is a tapestry of beautiful cities, masterpiece-inspiring landscapes and out-of-this-world culinary experiences. Experience a bit of
+joie de vivre
+in one of its elegant boutique boltholes.
+
+
+
+
+
+
+
+
+Destinations in France
+
+
+
+
+
+
+
+
+
+
+Paris Hotels
+
+A prime contender for romantic getaways, the City of Lights is one of neighbourhoods, each with a distinct history of its own. Today’s Paris embraces its creative spirit with contemporary galleries, innovative restaurateurs and of-the-moment luxury hideaways.
+
+
+
+
+
+
+
+
+
+
+
+
+
+South of France Hotels
+
+From the star-studded Côte d’Azur to the wild waves of the Pays Basque, this varied landscape has inspired artists, filmmakers and Michelin-flirting chefs. Check in to the region’s châteaux, mansions and romantic stone-clad cottages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northern France Hotels
+
+Northern France’s earthy charms are a boon to travellers in search of rural peace. Rich with creamy cheeses and fiery Calvados, the region’s larder ensures food is taken very seriously indeed – as is a warm welcome in cosseting hotels.
+
+
+
+
+
+
+
+
+
+
+
+WHY BOOK WITH US?
+
+
+
+
+
+
+ONLY THE MOST CHIC
+
+Each hotel selected for its unique charm by Lulu the founder.
+
+
+
+CHIC TREATS
+
+Special benefits only guests booking through Chic Retreats obtain.
+
+
+
+PRICE MATCH PROMISE
+
+If you find your stay cheaper elsewhere we will give you £50 towards your next stay with us.
+
+
+
+
+
+Featured hotels in France
+
+
+
+
+
+
+
+
+
+
+£
+146
+Night
+
+Hotel Lumen Paris Louvre
+
+France
+,
+Ile de France
+,
+Paris
+
+
+A short walk from the Champs Élysées and Place Vendome, Hotel Lumen Paris Louvre is a luxury hotel in Paris. Designer interiors and warm hospitality make this 38 room Chic Retreat the perfect choice for couples, business travellers and those who love to shop.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+305
+Night
+
+L'Hotel
+
+France
+,
+Ile de France
+,
+Paris
+
+
+The original luxury boutique hotel, L'Hotel, sits on Paris's Left Bank, minutes from the cultural riches and literary heart of St. Germain-des-Près. One of the most romantic boutique hotels in Paris and one of Lulu's favourite city Chic Retreats.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+214
+Night
+
+Hotel Le Saint a Paris
+
+France
+,
+Ile de France
+,
+Paris
+
+
+The sunny street of Prés-aux-Clercs is home to Hotel Le Saint à Paris, a new 54 room hideaway in the heart of Saint-Germain-des-Prés. Even the most discerning traveller will be bowled over by the charm of this small but perfectly formed boutique hotel with spa & restaurant that has been named on Condé Nast Traveller's Hot List for 2017.
+
+
+
+BOOK
+
+
+
+
+
+
+
+
+
+
+£
+101
+Night
+
+Castel Brando
+
+France
+,
+South of France
+,
+Corsica
+
+
+Castel Brando is a charming boutique hotel in the Cap Corse area of Corsica. Just 100m from the Mediterranean sea, this Chic Retreat is located in the village of Erbalunga and is a favourite amongst many celebrities.
+
+
+
+BOOK
+
+
+
+
+
+
+ALL HOTELS IN France
+
+
+
+
+
+
+
+
+
+DISCOVER CHIC INSPIRATION IN YOUR INBOX
+
+
+Subscribe to our newsletter for weekly travel inspiration and special offers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+FROM THE BLOG
+
+
+
+
+
+
+
+
+CHIC RETREATS
+
+Paris: Four Boutique Itineraries
+
+
+To help you plan your Parisian getaway, our travel experts have handcrafted four unique itineraries, each beginning and ending at one of our favourite boutique hotels in the city.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lulu Townsend
+
+Five of France’s best UNESCO World Heritage Sites
+
+
+France is home to a wealth of culturally and historically important sites, with 41 currently spread out across the a mixture country. With so many options, picking which to visit on your trip can seem a little daunting. To help you out we've selected five of our absolute favourites; we're sure you'll find them as awe-inspiring as we do!
+
+
+
+
+
+
+
+Need help?
+Speak to our Reservations Team on
++44 203 397 0085
+or
+email us
+
+Opening Hours 08.00 - 18.00 Monday - Friday (UK time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL LINKS
+
+Journal
+
+Our story
+
+FAQs
+
+Terms & Conditions
+
+Hotel partners
+
+Contact us
+
+Partner login
+
+
+
+TOP INSPIRATIONS
+
+Adult-only hotels
+
+Pet-friendly hotels
+
+Castle hotels
+
+Design hotels
+
+Spa hotels
+
+Eco hotels
+
+Villas
+
+
+
+TOP COUNTRIES
+
+United Kingdom
+
+Italy
+
+France
+
+Spain
+
+Morocco
+
+Greece
+
+Portugal
+
+
+
+TOP DESTINATIONS
+
+Cornwall
+
+Paris
+
+London
+
+Rome
+
+Venice
+
+Cotswolds
+
+Devon
+
+
+
+
+
+
+
+Chic Retreats
+™
+2002 - 2017 is a registered trademark of Chic Lifestyle Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGN-IN
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+Sign-in
+
+Reset password
+
+
+
+

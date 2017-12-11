@@ -1,0 +1,2003 @@
+
+Appartement Cristall, Ehrwald - Holiday Home  | Tiscover | en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of Favorites (
+0
+)
+
+
+
+
+English
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+My Tiscover
+
+
+
+
+
+E-Mail:*
+
+
+
+
+Password:*
+
+
+
+Password forgotten
+
+
+
+
+
+
+Register
+
+
+
+
+
+
+Booking overview
+
+E-mail, password
+
+Personal information
+
+Payment information
+
+
+Logout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lodgings
+
+
+
+Destinations
+
+
+
+Summer Holiday
+
+
+
+Winter Holiday
+
+
+
+Alpine Super Savers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+Lodgings
+
+
+
+Destinations
+
+
+
+Summer Holiday
+
+
+
+Winter Holiday
+
+
+
+Alpine Super Savers
+
+
+
+
+
+
+List of Favorites (
+0
+)
+
+My Tiscover
+
+
+
+Sprache: Deutsch
+
+Language: English
+
+
+
+
+
+
+
+
+
+
+
+
+My Tiscover:
+
+
+
+
+E-Mail:*
+
+
+
+
+Password:*
+
+
+
+Password forgotten
+
+
+
+
+
+
+
+Register
+
+< Back to overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alps:
+
+
+
+
+
+
+
+Austria
+
+»
+
+
+
+
+
+
+
+Tirol
+
+»
+
+
+
+
+
+
+
+Tirolean Zugspitz Arena
+
+»
+
+
+
+
+
+
+
+Ehrwald
+
+»
+
+
+
+
+
+
+
+null
+
+
+
+
+
+
+Appartement Cristall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appartement Cristall
+
+
+
+Ehrwald
+, Tirol, Austria
+
+
+Homepage
+
+
+
+
+
+noted
+
+Save to Note List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We warmly welcome you!
+
+More hotel details
+
+
+
+
+
+Share on:
+
+
+Share on Facebook
+
+
+
+Share onTwitter
+
+
+
+Share on Google+
+
+
+
+
+
+
+
+
+Your Hosts
+
+“We warmly welcome you!”
+
+Sabine Somweber
+
+
+
+Family Somweber warmly welcomes you!
+
+
+
+
+Price from (EUR):
+
+Total Price (EUR):
+
+
+
+
+
+
+76.00
+
+
+Rooms & Prices
+
+
+
+
+
+
+
+Amenities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Location
+
+
+Check location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rooms & Prices
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select your travel date for Appartement Cristall:
+
+
+Delete search criteria
+
+
+Your search for Appartement Cristall:
+
+
+
+
+
+
+
+Rooms:
+
+
+{{val}}
+
+
+
+
+Adults:
+
+
+{{val}}
+
+
+
+
+Children:
+
+
+{{val}}
+
+
+
+
+
+
+Child age:
+
+
+
+
+-
+
+{{val}}
+
+
+
+
+Please select age of the children
+
+
+
+
+
+
+
+
+
+Arrival:
+
+
+{{fromDate || 'Arrival'}}
+
+
+
+
+Departure:
+
+
+{{toDate || 'Departure'}}
+
+
+
+
+Please choose a date
+
+
+
+
+
+Check Availability
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+Rooms:
+
+
+{{val}}
+
+
+
+
+Adults:
+
+
+{{val}}
+
+
+
+
+Children:
+
+
+{{val}}
+
+
+
+
+
+
+Child age:
+
+
+
+
+-
+
+{{val}}
+
+
+
+
+Please select age of the children
+
+
+
+
+
+
+
+Arrival:
+
+
+
+
+
+
+Departure:
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+No rooms are available for the selected period.
+
+We have found an accommodation with the required number of bedrooms according to your search.
+
+
+
+
+
+
+
+
+
+Enlarge images
+
+
+
+
+
+
+
+
+{{room.board}}
+
+
+
+{{room.board}}
+
+{{boardService.name}} (inclusive of)
+
+{{boardService.name}} {{boardService.price | number:2}} {{roomlist.currency()}}
+
+
+
+
+
+
+{{room.roomType}}: {{room.minOccupation}}
+to {{room.maxOccupation}}
+
+People
+
+person
+
+
+
+
+
+
+
+Photos &
+Details
+& Additional services
+
+
+
+
+
+
+
+{{room.roomType}}: {{room.minOccupation}}
+to {{room.maxOccupation}}
+
+People
+
+person
+
+
+
+
+
+
+HOT
+
+DEAL
+
+
+
+
+
+No credit card data required.
+
+
+
+
+No advance payment required
+
+
+
+
+{{room.dynamic.paymentconditions.cancelcond}}
+
+
+
+
+Free Travel Cancellation Insurance
+
+
+
+
+{{service}}
+
+
+
+
+{{roomservice}}
+
+
+
+
+
+
+
+
+Book additional services,
+Room Details
+& Booking conditions
+
+
+
+
+
+Replace this room
+
+
+
+
+
+Book additional services
+
+
+
+
+
+
+
+
+
+
+total amount
+
+{{(room.dynamic.totalPriceNoLm / room.dynamic.duration) | number:2}} {{roomlist.currency()}}
+
+{{roomlist.getAmount(room, offer,true) | number:2}} {{roomlist.currency()}}
+
+incl. end-of-stay cleaning
+
+
+
+per night ({{roomlist.getNumberOfPersons(room, offer)}} pers.)
+
+{{(roomlist.getAmount(room, offer,true) / room.dynamic.duration) | number:2}} {{roomlist.currency()}}
+
+
+
+
+Price per night from
+
+{{room.minprice | number:2}} {{roomlist.currency()}}
+
+
+
+Book now
+
+Send request
+
+
+{{room.availCalBtnName}}
+
+
+
+
+Replace this room
+
+
+
+Ausverkauft
+
+{{room.dynamic.stringency}}
+
+{{roomlist.getStaticStringencyText(room.id)}}
+
+
+
+
+Book additional services
+
+
+
+
+
+
+
+{{bookservice.name}}
+
+
+
+Unit: {{bookservice.unit}}
+
+Description: {{bookservice.descr}}
+
+Services: {{bookservice.services}}
+
+
+
+
+
+
+{{bookservice.price | number:2}} {{roomlist.currency()}}
+per unit
+
+
+
+-
+
+
++
+
+
+
+
+
+
+
+
+
+Back to list
+
+
+
+
+
+
+per night ({{roomlist.getNumberOfPersons(room, offer)}} pers.)
+
+{{(roomlist.getAmount(room, offer,true) / room.dynamic.duration) | number:2}} {{roomlist.currency()}}
+
+
+
+Price per night from
+
+{{room.minprice | number:2}} {{roomlist.currency()}}
+
+
+
+
+Availability & Prices
+
+
+Book now
+
+Send request
+
+
+{{room.dynamic.stringency}}
+
+{{roomlist.getStaticStringencyText(room.id)}}
+
+
+
+
+
+Book additional services
+
+
+{{bookservice.name}}
+
+{{bookservice.price | number:2}} {{roomlist.currency()}}
+per unit
+
+
+
+-
+
+
++
+
+
+
+
+
+
+
+
+
+Booking conditions
+
+{{room.dynamic.paymentconditions.cancelcond}}
+
+{{document.agbText}}
+,
+
+
+
+Additional Charges:
+
+{{cost}}
+
+{{offer.vtax}}
+
+
+
+
+
+{{room.dynamic.paymentconditions.cancelCosts.introText}}
+
+{{costs}}
+
+{{room.dynamic.paymentconditions.cancelCosts.outroText}}
+
+
+
+
+
+Room details & Amenities
+
+
+
+
+
+{{section}}:
+
+
+{{oneinfo}}
+
+
+
+
+total amount
+{{ roomlist.getAmountTotal() | number:2 }} {{roomlist.currency()}}
+
+{{roomlist.getNumberOfPersonsTotal()}}
+People
+person
+,
+
+{{roomlist.getRoomCount()}} Room(s),
+
+{{roomlist.getDuration()}}
+Nights
+night
+
+
+
+
+Book now
+
+Send request
+
+
+
+
+Show more rooms
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+
+
+
+
+
+
+Guest reviews
+
+
+
+
+
+
+View all reviews
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+Description
+
+
+
+
+
+
+
+
+We warmly welcome you!
+
+
+
+
+
+
+Amenities
+
+
+
+
+Earliest Check-in:
+
+14:00
+
+
+Latest Check-in:
+
+22:00
+
+
+Latest Check-out:
+
+10:00
+
+
+Payment Options:
+
+
+Debit Cards/EC Cards (Maestro)
+
+
+
+
+Parking Lots Available
+Sauna available
+Pets Allowed
+No swimming pool
+No restaurant
+No indoor pool
+WiFi available
+The voucher is not redeemable here
+
+
+
+
+
+
+
+Additional Facilities
+
+
+
+Guest Lounge
+
+Hotel Bar
+
+Garden/Private Grounds
+
+Pets Allowed
+
+Elevator
+
+Car Park
+
+Playground
+
+
+
+
+
+
+
+Services
+
+
+
+Families
+
+Seniors
+
+Children
+
+Babysitter
+
+WiFi
+
+Washing and ironing service
+
+
+
+
+
+
+
+Recreation
+
+
+
+Steam Bath
+
+Massages
+
+Dry Heat Sauna
+
+
+
+
+
+
+
+Food Arrangement
+
+
+
+Breakfast
+
+Fresh Bread Delivery
+
+
+
+
+
+
+
+More Information
+
+
+
+
+
+
+
+
+
+
+
+“We warmly welcome you!”
+
+Family Sabine Somweber
+
+
+Thörleweg 34
+6632 
+    Ehrwald,  
+    Austria
+
+
+Homepage
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+
+
+
+Climate & Weather
+
+
+
+
+
+
+
+
+Weather
+
+
+
+
+
+
+
+
+
+
+Today
+11.12.2017
+
+-1 / 6 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Tomorrow
+12.12.2017
+
+-5 / 1 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Wednesday
+13.12.2017
+
+-10 / -2 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Thursday
+14.12.2017
+
+-3 / 2 °C
+
+
+
+
+
+
+
+
+
+
+
+
+Friday
+15.12.2017
+
+-5 / 0 °C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+Location & Getting There
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arrival by car
+
+
+
+Arrival by train
+
+
+
+Arriving by Plane
+
+
+
+
+
+
+from Germany: via Garmisch or Kempten-Reutte
+TOLL - FREE - ROAD
+from Swizerland: via Landeck-Fernpass
+from Vienna: via Salzburg-Innsbruck-Fernpass
+from Italy: via Brennero-Innsbruck-Fernpass
+
+
+
+
+
+
+Calculate Route Now
+
+
+
+
+
+from:
+
+
+
+
+
+
+to:
+
+
+
+
+
+
+
+Calculate Route Now
+
+
+
+
+
+
+
+
+
+
+
+by train: Innsbruck - Garmisch - Ehrwald, Reutte - Ehrwald
+
+by bus: Reutte - Ehrwald, Innsbruck - Ehrwald
+
+Landeck - Ehrwald
+
+
+
+
+
+
+* Innsbruck airport: approx.  70 km
+* Munich airport:    approx. 140 km
+
+Journey fast and without stress from:
+
+*LONDON (Gatwick) - *PARIS - *AMSTERDAM - TO INNSBRUCK
+
+Book your fly at:
+
+London (Gatwick) ab Amsterdam ab Paris
+Taxi to and from the airport Innsbruck or Munich to the TIROLER ZUGSPITZ ARENA:
+
+Pati`s Taxi:
+<br /<br /
+Taxi Schonger Jakob
+<br /
+Willi`s Taxi
+
+
+flight reservation
+
+
+
+
+
+
+
+
+Location & Getting There
+
+
+
+
+Thörleweg 34
+6632 
+                Ehrwald
+Austria
+
+
+
+
+Distance
+
+
+
+500 km Center
+
+
+
+
+
+500 km Railway Station 1
+
+
+
+
+
+70 km Airport 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+These accommodations could also be interesting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ehrwald, Tirol
+
+
+Guest house & Landhaus Haag
+
+
+
+
+
+
+4.6
+/5
+
+
+
+
+superb
+
+(9
+            Ratings)
+
+
+
+from €
+82.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ehrwald, Tirol
+
+
+Sonnenhof
+
+
+
+
+
+
+4.4
+/5
+
+
+
+
+excellent
+
+(9
+            Ratings)
+
+
+
+from €
+49.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ehrwald, Tirol
+
+
+Holiday apartments Tirolean-Apartments
+
+
+
+
+
+
+4.4
+/5
+
+
+
+
+excellent
+
+(6
+            Ratings)
+
+
+
+from €
+51.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ehrwald, Tirol
+
+
+Haus Sandeck
+
+
+
+
+
+
+4.9
+/5
+
+
+
+
+superb
+
+(31
+            Ratings)
+
+
+
+from €
+57.00
+
+
+
+
+
+
+
+
+All accommodations in Ehrwald
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+go to top of page
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+Forward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rating on Trusted Shop
+
+
+
+
+
+
+
+
+
+Known from TV
+
+
+
+
+
+
+
+
+
+
+
+Tiscover on
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+Google+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+Subscribe for our Newsletter!
+
+
+Details
+
+
+
+
+
+
+
+Please enter YOUR email address in the following format: firstname.lastname@domainname.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Tiscover
+
+
+
+Legal Notice
+
+
+
+Data Protection
+
+
+
+Contact
+
+
+
+Jobs
+
+
+
+
+
+For Customers
+
+
+
+Mobile
+
+
+
+FAQ
+
+
+
+Terms and Conditions
+
+
+
+My Tiscover
+
+
+
+Newsletter
+
+
+
+Route Planner
+
+
+
+Online Cancellation
+
+
+
+
+
+For Accommodations / Destinations
+
+
+
+Sign up your Accommodation
+
+
+
+Extranet
+
+
+
+Destination Marketing
+
+
+
+Terms and Conditions
+
+
+
+
+
+For Partners
+
+
+
+Affiliate Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© HRS Destination Solutions Austria GmbH 2017
+|
+Affiliate of
+HRS GROUP
+
+
+
+
+
+
+
+
+
+
+
+
