@@ -12,23 +12,20 @@ The primary goal is to examine methods and technologies to automically cluster o
 - preprocess the previously stored documents (tokenization, stemming, language detection etc.)
 - create a document corpus based on the preprocessed data for english and german documents
 - train a doc2vec model
-- ...and alternative word embedding methods (TODO)
+- ...and alternative word embedding methods (fastText under development)
 
 ### dimensionality reduction
 - use t-sne to reduce the high dimensional documents vector model to 2D
-- PCA (TODO)
 
 ### clusterer
 focus of the research project is to evaluate different kind of clustering algorithms:
 - Affinity Propagation
-- K-Means (TODO)
-- K-Median (TODO)
-- K-Medoid (TODO)
-- EM (TODO)
-- DBSCAN (TODO)
-- DENCLUE (TODO)
-- DIANI (TODO)
-- ...and more to come
+- K-Means
+- K-Medoid
+- DBSCAN
+- Agglomerative Clustering (ward, complete and average)
+
+results are visible in experiments folder...
 
 ## Built With
 
