@@ -64,7 +64,27 @@ def create_new_doc2vec_tsne_model_and_clustering(doc2vec_model):
 
 
 def main():
-    # example usage for clustering of new t-sne model
+
+    # Experiment to extend TSNE with unseen data --> refactoring asap!
+    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
+    doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
+    doc2vec_vector_matrix_values = doc2vec_vector_matrix.doctag_syn0
+    logger.info(type(doc2vec_vector_matrix))
+    unseen_data = ['fckickers.ch', 'pdgr.ch']
+    for entry in unseen_data:
+        doc_vectors_english, doc_vectors_german = doc2vec.get_doc_vectors_of_unseen_documents(doc2vec_model, entry)
+        doc_vectors_english = np.reshape(doc_vectors_english, (1,300))
+        doc_vectors_german = np.reshape(doc_vectors_german, (1,300))
+        doc2vec_vector_matrix_values = np.concatenate((doc2vec_vector_matrix_values, doc_vectors_german), axis=0)
+
+    doc2vec_vector_matrix.doctag_syn0 = doc2vec_vector_matrix_values
+    doc2vec_vector_matrix.count += len(unseen_data)
+    create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-unseen-data-doc2vec-german')
+
+
+    '''
+    
+    # example usage for affinity_propagation clustering of new t-sne model
     doc2vec_model = doc2vec.load_existing_model('doc2vec-model-english-11-Dec-2017-17:07:03')
     doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
     tsne_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-english')
@@ -76,10 +96,13 @@ def main():
     tsne_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-german')
     affinity_propagation.create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, 'cluster-doc2vec-german-')
 
+    # TODO - DELETE ASAP
     # doc2vec_model = doc2vec.load_existing_model('doc2vec-model-english-11-Dec-2017-17:07:03')
     # labels = doc2vec_model.docvecs.doctags.keys()
     # tsne_model = load_tsne_model('cluster-doc2vec--27-Nov-2017-14:49:59-array.npy')
     # plots.create_simple_tsne_model_plot(tsne_model, labels, 'simple_tsne_plot')
+    
+    '''
 
 
 if __name__ == "__main__":

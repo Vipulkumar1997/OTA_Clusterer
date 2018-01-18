@@ -236,9 +236,9 @@ def main():
 
     # Experiments with unseen data
     doc2vec_model = load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    sims_english, sims_german = get_doc_vectors_of_unseen_documents(doc2vec_model=doc2vec_model, document_folder_name='statravel.ch')
-    print(get_doc_similarities_by_new_vector(doc2vec_model, sims_english))
-    print(get_doc_similarities_by_new_vector(doc2vec_model, sims_german))
+    doc_vectors_english, doc_vectors_german = get_doc_vectors_of_unseen_documents(doc2vec_model=doc2vec_model, document_folder_name='statravel.ch')
+    print(get_doc_similarities_by_new_vector(doc2vec_model, doc_vectors_english))
+    print(get_doc_similarities_by_new_vector(doc2vec_model, doc_vectors_german))
 
 
 if __name__ == "__main__":

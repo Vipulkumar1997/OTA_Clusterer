@@ -13,6 +13,8 @@ def create_kmeans_clustering(doc2vec_model, tsne_model):
     logger.info('Length of the t-sne model = ' + str(len(tsne_model)))
 
     fnames = list(doc2vec_model.docvecs.doctags.keys())
+    fnames.append('fckickers.ch')
+    fnames.append('pdgr.ch')
     logger.info('Amount of Datapoints Labels = ' + str(len(fnames)))
 
     assert (len(tsne_model) == len(fnames))
@@ -68,8 +70,13 @@ def create_kmeans_clustering(doc2vec_model, tsne_model):
 
 def main():
     # example usage for create K-Means Clustering
+    # doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
+    # tsne_model = tsne.load_tsne_model('t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
+    # create_kmeans_clustering(doc2vec_model, tsne_model)
+
+    # experiment with K-Means and new added data points
     doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model('t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
+    tsne_model = tsne.load_tsne_model('t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-14:59:37.npy')
     create_kmeans_clustering(doc2vec_model, tsne_model)
 
 
