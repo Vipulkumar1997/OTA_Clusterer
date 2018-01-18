@@ -1,0 +1,461 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reisebüro finden
+
+|
+
+kontakt
+
+
+Ruf an zum Ortstarif:
+
+043 550 00 10
+
+
+
+
+
+
+
+
+
+{{f.prefix}}{{f.stu_prefix}} {{f.dst_prefix}}
+
+{{f.title}}
+
+ab CHF {{f.data[0].price}}
+
+
+
+
+
+
+
+
+
+
+
+Abflugort
+
+
+
+
+Zielort
+
+
+
+
+
+
+
+Abflugdatum
+
+
+
+
+
+Rückflugdatum
+
+
+
+
+
+nur Hinflug
+
+
+
+
+
+Studenten
+
+
+
+
+<26 Jahre
+
+
+
+
+Erwachs.
+
+
+
+
+Lehrer
+
+
+
+
+
+
+
+nur Hinflug
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ab
+nach
+airline
+hin-/rückflug
+tarif
+preis
+
+
+
+
+{{flight.depName| trimbracket}}
+
+{{flight.dstName| trimbracket}}
+
+{{flight.carrierName}}
+
+{{flight.depDate| deDate}}/
+{{flight.retDate|deDate}}
+
+
+ab
+
+CHF {{flight.price}}
+
+flug suchen
+
+
+
+
+
+
+
+
+
+
+ab / nach
+airline
+hin-/rückflug
+preis
+
+
+
+
+{{flight.depName| trimbracket}}
+{{flight.dstName|trimbracket}}
+
+{{flight.carrierName}}
+
+{{flight.depDate| deDate}}/
+{{flight.retDate|deDate}}
+
+ab
+
+CHF {{flight.price}}
+
+
+
+flug suchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ab/nach
+
+airline
+
+
+
+{{flight.depName| trimbracket}}
+{{flight.dstName| trimbracket}}
+
+{{flight.carrierName}}
+
+
+
+hin-/rückflug
+
+preis
+
+
+
+{{flight.depDate| deDate}}/
+{{flight.retDate|deDate}}
+
+ab
+
+CHF {{flight.price}}
+
+
+
+
+
+flug suchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bei STA Travel findest du die günstigsten Flüge in die ganze Welt mit Tiefpreisgarantie!
+
+
+
+
+
+
+
+
+TOP ANGEBOTE
+IN DIE GANZE WELT
+
+
+
+
+
+
+
+{{flight.depApt}}
+                                         - {{flight.dstApt}}
+
+(Hin und Rückflug)
+
+ab
+CHF {{flight.price}}
+
+
+
+
+
+
+
+
+
+
+
+
+PASSEND ZU DEINEM FLUG
+
+
+
+
+
+
+
+
+
+
+
+BEI STA TRAVEL
+BIST DU IMMER GUT BERATEN
+
+
+
+
+FLUG-TIEFPREISGARANTIE
+nie mehr zu viel bezahlen!
+
+
+JUGEND & STUDENTEN PREISE
+exklusive Angebote für
+                                         Jugendliche unter 30 Jahren und Studenten
+
+
+100% SICHERE BUCHUNG
+über sichere SSL Server
+                                         mit 256 Bit Verschlüsselung und Sicherheitssiegel
+
+
+REISE-EXPERTEN IM SHOP
+Persönliche Beratung in
+                                         einem von über 50 STA Travel Reisebüros ganz in deiner Nähe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Passend zu deiner Reise:
+
+
+
+
+
+spare
+{{tour.price.discount_percent}}%
+
+
+
+
+
+
+
+
+
+{{tour.name}}
+
+
+
+{{tour.details.duration}} Tage ab {{tour.price.price}} CHF
+
+{{tour.price.strike_through_price}} CHF
+
+
+
+
+
+{{tour.details.description}}
+
+
+
+jetzt buchen!
+
+
+
+
+
+
+
+
+
+
+
+
+STA Travel auf Facebook
+
+STA Travel
+
+
+
+
+
+
+
+Das sagen unsere Kunden
+
+
+
+
+
+
+
+
+
+
+Sicher und einfach bezahlen
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Die Flugtarife wurden kürzlich auf
+www.statravel.ch
+gefunden und sind zum Zeitpunkt der Veröffentlichung gültig. Alle Preise vorbehaltlich Verfügbarkeit.
+
+
+
+
+
+
+
+
+
+
+Über STA Travel
+
+Impressum
+
+Datenschutz
+
+Cookies
+
+AGB
+
+FAQ
+
+Facebook
+
+Twitter
+
+Google+
+
+
+
+
+
+
+
+
+
+
+
+
+

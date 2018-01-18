@@ -55,11 +55,57 @@ def create_document_corpus_by_language(document_path):
                         elif document_language == 'german':
                             preprocessed_documents_corpus_german.append(tagged_document)
 
-
         logger.info('Added ' + str(len(preprocessed_documents_corpus_english)) + ' documents to the english document corpus')
         logger.info('Added ' + str(len(preprocessed_documents_corpus_german)) + ' documents to the german document corpus')
 
         return preprocessed_documents_corpus_english, preprocessed_documents_corpus_german
+
+
+def preprocess_unseen_documents(document_path):
+    logger.info('start processing unseen document')
+    folders_in_directory = glob.glob(document_path)
+
+    if not folders_in_directory:
+        raise IOError
+
+    else:
+
+        preprocessed_and_concatenated_document_english = []
+        preprocessed_and_concatenated_document_german = []
+        english_document_counter = 0
+        german_document_counter = 0
+
+        for folder_name in folders_in_directory:
+            logger.info('start getting files of folder ' + folder_name)
+            pattern = os.path.join(folder_name, '*.txt')
+            file_names = glob.glob(pattern)
+
+            if not file_names:
+                raise IOError
+
+            else:
+                logger.info('start read in files')
+                for file_name in file_names:
+                    with open(file_name, 'r') as file:
+                        document = file.read()
+
+                    document = gensim.utils.simple_preprocess(document)
+                    document_language = preprocessing.detect_language(document)
+                    if document_language == 'english':
+                        english_document_counter += 1
+                        preprocessed_document, document_language = preprocessing.preprocess_document(document, document_language)
+                        preprocessed_and_concatenated_document_english += preprocessed_document
+
+                    elif document_language == 'german':
+                        german_document_counter += 1
+                        preprocessed_document, document_language = preprocessing.preprocess_document(document, document_language)
+                        preprocessed_and_concatenated_document_german += preprocessed_document
+
+
+        logger.info('Concatenated and preprocessed ' + str(english_document_counter) + ' to one english document ')
+        logger.info('Concatenated and preprocessed ' + str(german_document_counter) + ' to one german document')
+
+        return preprocessed_and_concatenated_document_english, preprocessed_and_concatenated_document_german
 
 
 def create_doc2vec_model(document_corpus):
@@ -117,10 +163,27 @@ def get_doc_vector_matrix(model):
     return docvec_vectors
 
 
-def get_doc_similarities(doc2vec_model, document_name):
+def get_doc_similarities_by_document_name(doc2vec_model, document_name):
     logger.info('get document similarities')
     similarities = doc2vec_model.docvecs.most_similar(document_name)
     return similarities
+
+
+def get_doc_similarities_by_new_vector(doc2vec_model, new_vector):
+    logger.info('get document similarities by new vector')
+    similarities = doc2vec_model.docvecs.most_similar([new_vector])
+    return similarities
+
+
+def get_doc_vectors_of_unseen_documents(doc2vec_model, document_folder_name):
+    logger.info('get doc vector values of unseen documents')
+    document_file_path = settings.DATA_DIR + 'crawling_data/' + document_folder_name + '/'
+    preprocessed_documents_english, preprocessed_documents_german = preprocess_unseen_documents(document_file_path)
+
+    doc_vector_english = doc2vec_model.infer_vector(preprocessed_documents_english, alpha=0.025, min_alpha=0.01, steps=1)
+    doc_vector_german = doc2vec_model.infer_vector(preprocessed_documents_german, alpha=0.025, min_alpha=0.01, steps=1)
+
+    return doc_vector_english, doc_vector_german
 
 
 def load_existing_model(model_name):
@@ -151,7 +214,7 @@ def create_new_doc2vec_model():
 def get_most_similar_doc_matrix(doc2vec_model):
     similarities_matrix = []
     for document_name in doc2vec_model.docvecs.doctags:
-        similarities_matrix.append(get_doc_similarities(doc2vec_model, document_name))
+        similarities_matrix.append(get_doc_similarities_by_document_name(doc2vec_model, document_name))
 
     similarities_matrix = np.asarray(similarities_matrix)
 
@@ -168,8 +231,14 @@ def cleaning_path_out_of_folder_name(folder_name):
 def main():
     # create_new_doc2vec_model()
     # get doc2vec similarities
+    # doc2vec_model = load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
+    # print(get_doc_similarities(doc2vec_model, 'booking-valais.ch'))
+
+    # Experiments with unseen data
     doc2vec_model = load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    print(get_doc_similarities(doc2vec_model, 'booking-valais.ch'))
+    sims_english, sims_german = get_doc_vectors_of_unseen_documents(doc2vec_model=doc2vec_model, document_folder_name='statravel.ch')
+    print(get_doc_similarities_by_new_vector(doc2vec_model, sims_english))
+    print(get_doc_similarities_by_new_vector(doc2vec_model, sims_german))
 
 
 if __name__ == "__main__":

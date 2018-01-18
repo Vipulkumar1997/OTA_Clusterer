@@ -41,7 +41,7 @@ def main():
     crawler = Crawler()
     #hostnames = crawler.get_hostnames()
     crawler.set_obey_robotstxt_false()
-    hostnames = ['bookerclub.com', 'hoteliers.com', 'lonelyplanet.com', 'musement.com', 'schwyz-tourismus.ch', 'st.gallen-bodensee.ch']
+    hostnames = ['adventurelink.com', 'tucantravel.com', 'statravel.ch']
     crawler.crawl_hostnames(hostnames)
 
 
