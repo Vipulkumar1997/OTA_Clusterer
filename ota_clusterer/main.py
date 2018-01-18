@@ -3,7 +3,7 @@ import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 import argparse
 from ota_clusterer.webcrawler.Crawler import Crawler
-from ota_clusterer.doc2vec import doc2vec
+from ota_clusterer.word_embeddings.doc2vec import doc2vec
 from ota_clusterer.clusterer.tsne import tsne
 from ota_clusterer import logger
 

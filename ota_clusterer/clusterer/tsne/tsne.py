@@ -2,7 +2,7 @@ import logging
 import sklearn.manifold
 import sklearn.cluster
 import pandas as pd
-from ota_clusterer.doc2vec import doc2vec
+from ota_clusterer.word_embeddings.doc2vec import doc2vec
 import numpy as np
 import time
 from ota_clusterer import settings

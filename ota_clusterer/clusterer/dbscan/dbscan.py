@@ -5,11 +5,12 @@ from sklearn.cluster import DBSCAN
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from ota_clusterer import logger
-from ota_clusterer.doc2vec import doc2vec
+from ota_clusterer.word_embeddings.doc2vec import doc2vec
 from ota_clusterer.clusterer.tsne import tsne
 
 
 logger = logger.get_logger()
+logger.name = __name__
 
 
 def create_dbscan_clustering(doc2vec_model, tsne_model):
@@ -73,7 +74,7 @@ def create_dbscan_clustering(doc2vec_model, tsne_model):
 def main():
     # example usage for create Agglomerative Clustering
     doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model('t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
+    tsne_model = tsne.load_tsne_model('t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-15:14:31.npy')
     create_dbscan_clustering(doc2vec_model, tsne_model)
 
 

@@ -23,7 +23,7 @@ from pyclustering.cluster.kmedoids import kmedoids;
 from pyclustering.utils import timedcall;
 from ota_clusterer.clusterer.kmedoid.ClusterVisualizer import ClusterVisualizer
 from ota_clusterer import logger
-from ota_clusterer.doc2vec import doc2vec
+from ota_clusterer.word_embeddings.doc2vec import doc2vec
 from ota_clusterer.clusterer.tsne import tsne
 
 

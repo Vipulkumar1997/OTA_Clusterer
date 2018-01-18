@@ -2,10 +2,11 @@ import numpy as np
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 from ota_clusterer import logger
-from ota_clusterer.doc2vec import doc2vec
+from ota_clusterer.word_embeddings.doc2vec import doc2vec
 from ota_clusterer.clusterer.tsne import tsne
 
 logger = logger.get_logger()
+logger.name = __name__
 
 
 def create_kmeans_clustering(doc2vec_model, tsne_model):

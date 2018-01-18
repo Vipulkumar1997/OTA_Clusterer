@@ -3,7 +3,7 @@ from sklearn.neighbors import kneighbors_graph
 import matplotlib.pyplot as plt
 import time
 from ota_clusterer import logger
-from ota_clusterer.doc2vec import doc2vec
+from ota_clusterer.word_embeddings.doc2vec import doc2vec
 from ota_clusterer.clusterer.tsne import tsne
 
 '''
@@ -11,6 +11,7 @@ Reference: http://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerati
 '''
 
 logger = logger.get_logger()
+logger.name = __name__
 
 
 def create_agglomerative_clustering(doc2vec_model, tsne_model):

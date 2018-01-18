@@ -3,8 +3,7 @@ import os
 import glob
 from ota_clusterer import settings
 import time
-from ota_clusterer.doc2vec.plots import plots
-from ota_clusterer.doc2vec.preprocessing import preprocessing
+from ota_clusterer.word_embeddings.preprocessing import preprocessing
 import numpy as np
 from ota_clusterer import logger
 import re
