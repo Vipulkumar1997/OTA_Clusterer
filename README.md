@@ -12,7 +12,7 @@ The primary goal is to examine methods and technologies to automically cluster o
 - preprocess the previously stored documents (tokenization, stemming, language detection etc.)
 - create a document corpus based on the preprocessed data for english and german documents
 - train a doc2vec model
-- ...and alternative word embedding methods (fastText under development)
+- ...and hopefully in the future alternative word embedding methods (fastText is actually not supporting 'tagged documents')
 
 ### dimensionality reduction
 - use t-sne to reduce the high dimensional documents vector model to 2D
