@@ -10,8 +10,8 @@ from ota_clusterer.clusterer.tsne.plots import plots
 from ota_clusterer.clusterer.affinity_propagation import affinity_propagation
 from ota_clusterer import logger
 
-
 logger = logger.get_logger()
+
 
 # values inspired by http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 def create_2d_tsne_model(vector_matrix, filename):
@@ -49,6 +49,7 @@ def load_tsne_model(modelname):
     tsne_model = np.load(file_path + modelname)
     return tsne_model
 
+
 # TODO Probably refactoring in utils file
 def get_file_path_and_name_to_save(file_name, file_path):
     file_name = 't-sne-' + file_name + "-" + time.strftime("%d-%b-%Y-%X")
@@ -64,23 +65,14 @@ def create_new_doc2vec_tsne_model_and_clustering(doc2vec_model):
 
 
 def main():
-
     # Experiment to extend TSNE with unseen data --> refactoring asap!
     doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
-    doc2vec_vector_matrix_values = doc2vec_vector_matrix.doctag_syn0
-    logger.info(type(doc2vec_vector_matrix))
-    unseen_data = ['fckickers.ch', 'pdgr.ch']
-    for entry in unseen_data:
-        doc_vectors_english, doc_vectors_german = doc2vec.get_doc_vectors_of_unseen_documents(doc2vec_model, entry)
-        doc_vectors_english = np.reshape(doc_vectors_english, (1,300))
-        doc_vectors_german = np.reshape(doc_vectors_german, (1,300))
-        doc2vec_vector_matrix_values = np.concatenate((doc2vec_vector_matrix_values, doc_vectors_german), axis=0)
-
-    doc2vec_vector_matrix.doctag_syn0 = doc2vec_vector_matrix_values
-    doc2vec_vector_matrix.count += len(unseen_data)
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_unseen_documents(doc2vec_model,
+                                                                                  unseen_documents=['fckickers.ch',
+                                                                                                    'pdgr.ch'],
+                                                                                  language='german')
     create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-unseen-data-doc2vec-german')
-
+    
 
     '''
     

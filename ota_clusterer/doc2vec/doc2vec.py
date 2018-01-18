@@ -163,6 +163,29 @@ def get_doc_vector_matrix(model):
     return docvec_vectors
 
 
+def create_doc_vector_matrix_for_unseen_documents(doc2vec_model, unseen_documents, language):
+    doc2vec_vector_matrix_to_extend = get_doc_vector_matrix(doc2vec_model)
+    doc2vec_vector_matrix_array_values = doc2vec_vector_matrix_to_extend.doctag_syn0
+
+    for document in unseen_documents:
+        doc_vectors_english, doc_vectors_german = get_doc_vectors_of_unseen_documents(doc2vec_model, document)
+
+        if language == 'english':
+            # dimension == vector size parameter in the doc2vec model (create_doc2vec_model())
+            doc_vectors = np.reshape(doc_vectors_english, (1, 300))
+
+        elif language == 'german':
+            # dimension == vector size parameter in the doc2vec model (create_doc2vec_model())
+            doc_vectors = np.reshape(doc_vectors_german, (1, 300))
+
+        doc2vec_vector_matrix_array_values = np.concatenate((doc2vec_vector_matrix_array_values, doc_vectors), axis=0)
+
+    doc2vec_vector_matrix_to_extend.doctag_syn0 = doc2vec_vector_matrix_array_values
+    doc2vec_vector_matrix_to_extend.count += len(unseen_documents)
+
+    return doc2vec_vector_matrix_to_extend
+
+
 def get_doc_similarities_by_document_name(doc2vec_model, document_name):
     logger.info('get document similarities')
     similarities = doc2vec_model.docvecs.most_similar(document_name)
