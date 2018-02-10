@@ -12,7 +12,7 @@ class Crawler:
 
     def get_hostnames(self, file_path):
         hostnames = []
-        with open(file_path + 'urls-to-crawl.csv', 'r', newline='') as file:
+        with open(file_path, 'r', newline='') as file:
             reader = csv.reader(file)
             for row in reader:
                 hostname = row[0].replace('http://www.', '')

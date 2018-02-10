@@ -35,7 +35,6 @@ def create_document_corpus_by_language(document_path):
             else:
                 logger.info('start read in files')
                 for file_name in file_names:
-                    logger.debug('File Names: ', file_names)
                     with open(file_name, 'r') as file:
                         document = file.read()
 
@@ -143,8 +142,13 @@ def create_doc2vec_model(document_corpus):
     return model
 
 
-def save_doc2vec_model(doc2vec_model, file_name):
-    doc2vec_model_path = settings.DATA_DIR + 'doc2vec/models/'
+def save_doc2vec_model(doc2vec_model, file_name, directory_path=None):
+    if directory_path is not None:
+        doc2vec_model_path = directory_path
+
+    else:
+        doc2vec_model_path = settings.DATA_DIR + 'doc2vec/models/'
+
     file_name = file_name + "-" + time.strftime("%d-%b-%Y-%X")
     logger.info("save new doc2vec model at: " + doc2vec_model_path + file_name)
     doc2vec_model.save(doc2vec_model_path + file_name)
@@ -211,24 +215,28 @@ def get_doc_vectors_of_unseen_documents(doc2vec_model, document_folder_name):
 def load_existing_model(model_name):
     models_file_path = settings.DATA_DIR + 'doc2vec/models/'
     logger.info('load model from following path: ' + models_file_path)
-
     loaded_model = gensim.models.Doc2Vec.load(models_file_path + model_name)
     return loaded_model
 
 
-def create_new_doc2vec_model():
+def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None):
     logger.info('Start creating new doc2vec model...')
     # crawling_data_file_path = settings.PROJECT_ROOT + '/data/crawling_data/*/'
     # utils.save_all_documents(crawling_data_file_path)
+    if documents_file_path is not None:
+        documents_file_path = documents_file_path + '*/'
 
-    documents_file_path = settings.DATA_DIR + 'crawling_data/*/'
+    else:
+        logger.info('No directory to save model has been given...')
+        documents_file_path = settings.DATA_DIR + 'crawling_data/*/'
+
     document_corpus_english, document_corpus_german = create_document_corpus_by_language(documents_file_path)
 
     doc2vec_model_english = create_doc2vec_model(document_corpus_english)
     doc2vec_model_german = create_doc2vec_model(document_corpus_german)
 
-    save_doc2vec_model(doc2vec_model_english, 'doc2vec-model-english')
-    save_doc2vec_model(doc2vec_model_german, 'doc2vec-model-german')
+    save_doc2vec_model(doc2vec_model_english, 'doc2vec-model-english', directory_path=save_to_directory)
+    save_doc2vec_model(doc2vec_model_german, 'doc2vec-model-german', directory_path=save_to_directory)
 
     return doc2vec_model_english, doc2vec_model_german
 
