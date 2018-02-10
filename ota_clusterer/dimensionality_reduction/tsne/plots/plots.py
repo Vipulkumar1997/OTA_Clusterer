@@ -1,8 +1,9 @@
 import logging
-import seaborn as seaborn
-import matplotlib.pyplot as plt
-from ota_clusterer.clusterer.tsne import tsne
 
+import matplotlib.pyplot as plt
+import seaborn as seaborn
+
+from ota_clusterer.dimensionality_reduction.tsne import tsne
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)

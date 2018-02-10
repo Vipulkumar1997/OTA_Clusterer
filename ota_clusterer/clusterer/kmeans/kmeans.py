@@ -1,9 +1,10 @@
+import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.cluster import KMeans
-import matplotlib.pyplot as plt
+
 from ota_clusterer import logger
+from ota_clusterer.dimensionality_reduction.tsne import tsne
 from ota_clusterer.word_embeddings.doc2vec import doc2vec
-from ota_clusterer.clusterer.tsne import tsne
 
 logger = logger.get_logger()
 logger.name = __name__

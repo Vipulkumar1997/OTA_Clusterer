@@ -1,5 +1,6 @@
 import gensim
 import os
+import errno
 import glob
 from ota_clusterer import settings
 import time
@@ -143,15 +144,26 @@ def create_doc2vec_model(document_corpus):
 
 
 def save_doc2vec_model(doc2vec_model, file_name, directory_path=None):
+    file_name = file_name + "-" + time.strftime("%d-%b-%Y-%X")
+
     if directory_path is not None:
         doc2vec_model_path = directory_path
 
+        if not os.path.exists(doc2vec_model_path + '/doc2vec'):
+            try:
+                os.makedirs(doc2vec_model_path + 'doc2vec')
+            except OSError as e:
+                if e.errno != errno.EEXIST:
+                    raise
+
+        logger.info("save new doc2vec model at: " + doc2vec_model_path)
+        doc2vec_model.save(doc2vec_model_path + '/doc2vec/' + file_name)
+
     else:
         doc2vec_model_path = settings.DATA_DIR + 'doc2vec/models/'
+        logger.info("save new doc2vec model at: " + doc2vec_model_path)
+        doc2vec_model.save(doc2vec_model_path + file_name)
 
-    file_name = file_name + "-" + time.strftime("%d-%b-%Y-%X")
-    logger.info("save new doc2vec model at: " + doc2vec_model_path + file_name)
-    doc2vec_model.save(doc2vec_model_path + file_name)
 
 
 def get_word_vector_matrix(model):
@@ -212,10 +224,14 @@ def get_doc_vectors_of_unseen_documents(doc2vec_model, document_folder_name):
     return doc_vector_english, doc_vector_german
 
 
-def load_existing_model(model_name):
-    models_file_path = settings.DATA_DIR + 'doc2vec/models/'
-    logger.info('load model from following path: ' + models_file_path)
-    loaded_model = gensim.models.Doc2Vec.load(models_file_path + model_name)
+def load_existing_model(doc2vec_model_file_path, model_file_name=None):
+
+    if doc2vec_model_file_path is None and model_file_name is not None:
+        logger.info('Loading doc2vec models directly from project structure...')
+        doc2vec_model_file_path = settings.DATA_DIR + 'doc2vec/models/' + model_file_name
+
+    logger.info('load model from following path: ' + doc2vec_model_file_path)
+    loaded_model = gensim.models.Doc2Vec.load(doc2vec_model_file_path)
     return loaded_model
 
 

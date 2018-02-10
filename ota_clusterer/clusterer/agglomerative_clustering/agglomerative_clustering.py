@@ -1,10 +1,12 @@
+import time
+
+import matplotlib.pyplot as plt
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.neighbors import kneighbors_graph
-import matplotlib.pyplot as plt
-import time
+
 from ota_clusterer import logger
+from ota_clusterer.dimensionality_reduction.tsne import tsne
 from ota_clusterer.word_embeddings.doc2vec import doc2vec
-from ota_clusterer.clusterer.tsne import tsne
 
 '''
 Reference: http://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerative_clustering.html#sphx-glr-auto-examples-cluster-plot-agglomerative-clustering-py
