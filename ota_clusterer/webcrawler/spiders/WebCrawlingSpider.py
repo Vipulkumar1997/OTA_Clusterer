@@ -15,11 +15,14 @@ class WebCrawlingSpider(CrawlSpider):
     RESPONSE_FILE_PATH = settings.DATA_DIR + 'crawling_data/'
     rules = [Rule(LinkExtractor(), callback='parse_page')]
 
-    def __init__(self, hostname=None, start_urls=None):
+    def __init__(self, hostname, start_urls, directory_path_to_save_results=None):
         self.hostname = hostname
+        self.start_urls = start_urls
+        if directory_path_to_save_results is not None:
+            self.RESPONSE_FILE_PATH = directory_path_to_save_results
+
         self.create_data_directory()
         self.allowed_domains = [self.hostname, '*.' + self.hostname]
-        self.start_urls = start_urls
         super().__init__()
 
     def create_data_directory(self):
