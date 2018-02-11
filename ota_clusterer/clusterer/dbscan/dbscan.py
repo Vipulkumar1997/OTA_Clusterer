@@ -2,9 +2,10 @@
 
 import matplotlib.pyplot as plt
 import numpy as np
+import time
 from sklearn.cluster import DBSCAN
 from sklearn.preprocessing import StandardScaler
-
+from ota_clusterer import settings
 from ota_clusterer import logger
 from ota_clusterer.dimensionality_reduction.tsne import tsne
 from ota_clusterer.word_embeddings.doc2vec import doc2vec
@@ -13,7 +14,7 @@ logger = logger.get_logger()
 logger.name = __name__
 
 
-def create_dbscan_clustering(doc2vec_model, tsne_model):
+def dbscan_clustering(doc2vec_model, tsne_model, model_language, save_to_directory=None):
 
     logger.info('Start creating DBSCAN Cluster...')
     data_point_labels = list(doc2vec_model.docvecs.doctags.keys())
@@ -70,12 +71,27 @@ def create_dbscan_clustering(doc2vec_model, tsne_model):
     plt.suptitle('DBSCAN parameters = ' + 'eps=' + str(eps) + ', ' + 'min_sample=' + str(min_samples))
     plt.show()
 
+    if save_to_directory is None:
+        file_path = settings.DATA_DIR + "experiments/dbscan/"
+    else:
+        file_path = save_to_directory
+
+    file_name = 'dbscan_cluster-' + model_language + '-' + time.strftime("%d-%b-%Y-%X") + ".png"
+    plt.savefig(file_path + file_name, facecolor="w", dpi=90)
+    logger.info("saved " + file_name + "at " + file_path)
+
+
+def create_dbscan_clustering(doc2vec_model_file_path, tsne_model_file_path, model_language, save_to_directory):
+    doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
+    tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
+    dbscan_clustering(doc2vec_model, tsne_model, model_language, save_to_directory)
+
 
 def main():
     # example usage for create Agglomerative Clustering
     doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
     tsne_model = tsne.load_tsne_model('t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-15:14:31.npy')
-    create_dbscan_clustering(doc2vec_model, tsne_model)
+    dbscan_clustering(doc2vec_model, tsne_model)
 
 
 if __name__ == "__main__":

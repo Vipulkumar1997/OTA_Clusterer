@@ -30,7 +30,7 @@ from ota_clusterer.word_embeddings.doc2vec import doc2vec
 logger = logger.get_logger()
 
 
-def create_kmedoid_clustering(doc2vec_model, tsne_model):
+def kmedoid_clustering(doc2vec_model, tsne_model):
     logger.info("Start creating K-Medoid Cluster...")
     data_point_labels = list(doc2vec_model.docvecs.doctags.keys())
     logger.info('Amount of Datapoints Labels = ' + str(len(data_point_labels)))
@@ -38,7 +38,7 @@ def create_kmedoid_clustering(doc2vec_model, tsne_model):
 
     assert (len(tsne_model) == len(data_point_labels))
 
-    start_medoids = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70]
+    start_medoids = [0, 5, 10, 15, 20]
     logger.info('Number of Medoids = %s' % len(start_medoids))
 
     logger.info('Start creating K-Medoid Model...')
@@ -60,11 +60,17 @@ def create_kmedoid_clustering(doc2vec_model, tsne_model):
     cluster_visualizer.show(k = len(start_medoids), tolerance=tolerance);
 
 
+def create_kmedoid_clustering(doc2vec_model_file_path, tsne_model_file_path):
+    doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
+    tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
+    kmedoid_clustering(doc2vec_model, tsne_model)
+
+
 def main():
     # example usage for create Agglomerative Clustering
-    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model('t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
-    create_kmedoid_clustering(doc2vec_model, tsne_model)
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
+    kmedoid_clustering(doc2vec_model, tsne_model)
 
 
 if __name__ == "__main__":

@@ -3,7 +3,7 @@ import time
 import matplotlib.pyplot as plt
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.neighbors import kneighbors_graph
-
+from ota_clusterer import settings
 from ota_clusterer import logger
 from ota_clusterer.dimensionality_reduction.tsne import tsne
 from ota_clusterer.word_embeddings.doc2vec import doc2vec
@@ -16,7 +16,7 @@ logger = logger.get_logger()
 logger.name = __name__
 
 
-def create_agglomerative_clustering(doc2vec_model, tsne_model):
+def agglomerative_clustering(doc2vec_model, tsne_model, model_language, save_to_directory=None):
     logger.info("Start creating Agglomerative Cluster...")
     data_point_labels = list(doc2vec_model.docvecs.doctags.keys())
     logger.info('Amount of Datapoints Labels = ' + str(len(data_point_labels)))
@@ -57,12 +57,27 @@ def create_agglomerative_clustering(doc2vec_model, tsne_model):
 
     plt.show()
 
+    if save_to_directory is None:
+        file_path = settings.DATA_DIR + "experiments/agglomerative_clustering/"
+    else:
+        file_path = save_to_directory
+
+    file_name = 'agglomerative_clustering-' + model_language + '-' + time.strftime("%d-%b-%Y-%X") + ".png"
+    plt.savefig(file_path + file_name, facecolor="w", dpi=90)
+    logger.info("saved " + file_name + "at " + file_path)
+
+
+def create_agglomerative_clustering(doc2vec_model_file_path, tsne_model_file_path, model_language, save_to_directory):
+    doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
+    tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
+    agglomerative_clustering(doc2vec_model, tsne_model, model_language, save_to_directory)
+
 
 def main():
     # example usage for create Agglomerative Clustering
-    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model('t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
-    create_agglomerative_clustering(doc2vec_model, tsne_model)
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
+    agglomerative_clustering(doc2vec_model, tsne_model)
 
 
 if __name__ == "__main__":

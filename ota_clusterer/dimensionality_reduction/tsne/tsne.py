@@ -5,10 +5,8 @@ import numpy as np
 import pandas as pd
 import sklearn.cluster
 import sklearn.manifold
-
 from ota_clusterer import logger
 from ota_clusterer import settings
-from ota_clusterer.clusterer.affinity_propagation import affinity_propagation
 from ota_clusterer.word_embeddings.doc2vec import doc2vec
 
 logger = logger.get_logger()
@@ -58,11 +56,11 @@ def generate_tsne_word2vec_dataframe(tsne_word2vec_model, doc2vec_model):
     return dataframe
 
 
-def load_tsne_model(file_model_name, tsne_model_file_path):
-    if tsne_model_file_path is None:
-        tsne_model_file_path = settings.DATA_DIR + "tsne/models/"
+def load_tsne_model(model_file_name=None, tsne_model_file_path=None):
+    if model_file_name is not None and tsne_model_file_path is None:
+        tsne_model_file_path = settings.DATA_DIR + "tsne/models/" + model_file_name
 
-    tsne_model = np.load(tsne_model_file_path + file_model_name)
+    tsne_model = np.load(tsne_model_file_path)
     return tsne_model
 
 
@@ -88,22 +86,8 @@ def main():
                                                                                   unseen_documents=['fckickers.ch',
                                                                                                     'pdgr.ch'],
                                                                                   language='german')
+
     create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-unseen-data-doc2vec-german')
-
-    '''
-
-    # example usage for affinity_propagation clustering of new t-sne model in english and german
-    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-english-11-Dec-2017-17:07:03')
-    doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
-    tsne_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-english')
-    affinity_propagation.create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, 'cluster-doc2vec-english-')
-
-    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
-    tsne_model = create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-doc2vec-german')
-    affinity_propagation.create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, 'cluster-doc2vec-german-')
-
-    '''
 
 
 if __name__ == "__main__":

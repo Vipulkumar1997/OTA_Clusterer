@@ -213,10 +213,17 @@ def get_doc_similarities_by_new_vector(doc2vec_model, new_vector):
     return similarities
 
 
-def get_doc_vectors_of_unseen_documents(doc2vec_model, document_folder_name):
+def get_doc_vectors_of_unseen_documents(doc2vec_model, documents_file_path, document_folder_name):
     logger.info('get doc vector values of unseen documents')
-    document_file_path = settings.DATA_DIR + 'crawling_data/' + document_folder_name + '/'
-    preprocessed_documents_english, preprocessed_documents_german = preprocess_unseen_documents(document_file_path)
+    if documents_file_path is None:
+        documents_file_path = settings.DATA_DIR + 'crawling_data/' + document_folder_name + '/'
+
+    else:
+        documents_file_path = documents_file_path + document_folder_name + '/'
+
+    logger.info('get documents from following path: ' + documents_file_path)
+
+    preprocessed_documents_english, preprocessed_documents_german = preprocess_unseen_documents(documents_file_path)
 
     doc_vector_english = doc2vec_model.infer_vector(preprocessed_documents_english, alpha=0.025, min_alpha=0.01, steps=1)
     doc_vector_german = doc2vec_model.infer_vector(preprocessed_documents_german, alpha=0.025, min_alpha=0.01, steps=1)
@@ -224,13 +231,12 @@ def get_doc_vectors_of_unseen_documents(doc2vec_model, document_folder_name):
     return doc_vector_english, doc_vector_german
 
 
-def load_existing_model(doc2vec_model_file_path, model_file_name=None):
-
+def load_existing_model(doc2vec_model_file_path=None, model_file_name=None):
     if doc2vec_model_file_path is None and model_file_name is not None:
         logger.info('Loading doc2vec models directly from project structure...')
         doc2vec_model_file_path = settings.DATA_DIR + 'doc2vec/models/' + model_file_name
 
-    logger.info('load model from following path: ' + doc2vec_model_file_path)
+    logger.info('load model from following path: ' + str(doc2vec_model_file_path))
     loaded_model = gensim.models.Doc2Vec.load(doc2vec_model_file_path)
     return loaded_model
 

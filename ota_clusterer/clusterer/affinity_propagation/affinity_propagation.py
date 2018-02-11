@@ -4,6 +4,8 @@ import sklearn.cluster
 import matplotlib.pyplot as plt
 import time
 from ota_clusterer import settings
+from ota_clusterer.word_embeddings.doc2vec import doc2vec
+from ota_clusterer.dimensionality_reduction.tsne import tsne
 from itertools import cycle
 
 logging.basicConfig(level=logging.INFO)
@@ -11,10 +13,8 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 
-def create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, filename):
-
+def affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, save_to_directory=None):
     logger.info("Start creating affinity propagation cluster...")
-
     fnames = list(doc2vec_model.docvecs.doctags.keys())
     affinity_propagation = sklearn.cluster.AffinityPropagation().fit(tsne_model)
 
@@ -44,7 +44,28 @@ def create_affinity_propagation_cluster_doc2vec_plot(doc2vec_model, tsne_model, 
             plt.annotate(fname, (x[0], x[1]), xytext=(0, -8),
                          textcoords="offset points", va="center", ha="left")
 
-    file_path = settings.DATA_DIR + "experiments/affinity_propagation/"
-    file_name = 'affinity_propagation_cluster-' + filename + "-" + time.strftime("%d-%b-%Y-%X") + ".png"
+    if save_to_directory is None:
+        file_path = settings.DATA_DIR + "experiments/affinity_propagation/"
+    else:
+        file_path = save_to_directory
+
+    file_name = 'affinity_propagation_cluster-' + model_language + '-' + time.strftime("%d-%b-%Y-%X") + ".png"
     plt.savefig(file_path + file_name, facecolor="w", dpi=90)
-    logger.info("saved " + filename + "at " + file_path)
+    logger.info("saved " + file_name + "at " + file_path)
+
+
+def create_affinity_propagation_cluster(doc2vec_model_file_path, tsne_model_file_path, model_language, save_to_directory):
+    doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
+    tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
+    affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, save_to_directory)
+
+
+def main():
+    # example usage for creating an affinity propagation cluster
+    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
+    tsne_model = tsne.load_tsne_model('t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
+    affinity_propagation_cluster(doc2vec_model, tsne_model, 'german')
+
+
+if __name__ == "__main__":
+    main()
