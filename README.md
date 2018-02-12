@@ -27,6 +27,10 @@ focus of the research project is to evaluate different kind of clustering algori
 
 results are visible in experiments folder...
 
+## Usage of the CLI
+Clone this project and execute from the root project folder following command to get all supported CLI options:
+* python ota_clusterer/cli.py -h * 
+
 ## Built With
 
 * [Gensim](https://radimrehurek.com/gensim/) - Topic Modelling
