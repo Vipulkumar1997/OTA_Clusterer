@@ -14,7 +14,7 @@ logger = logger.get_logger()
 logger.name = __name__
 
 
-def dbscan_clustering(doc2vec_model, tsne_model, model_language, save_to_directory=None):
+def dbscan_clustering(doc2vec_model, tsne_model, eps, min_samples, model_language, save_to_directory=None):
 
     logger.info('Start creating DBSCAN Cluster...')
     data_point_labels = list(doc2vec_model.docvecs.doctags.keys())
@@ -27,8 +27,12 @@ def dbscan_clustering(doc2vec_model, tsne_model, model_language, save_to_directo
     tsne_model = StandardScaler().fit_transform(tsne_model)
 
     # DBSCAN Parameters
-    eps = 0.35
-    min_samples = 2
+    # example: eps = 0.35
+    # example: min_samples = 2
+
+    eps = eps
+    min_samples = min_samples
+
     logger.info('DBSCAN Parameters: eps = %s, min_samples= %d ' % (eps, min_samples))
 
     logger.info('Start fitting DBSCAN Algorithm')
@@ -69,7 +73,6 @@ def dbscan_clustering(doc2vec_model, tsne_model, model_language, save_to_directo
 
     plt.title('DBSCAN - Estimated number of clusters: %d' % n_clusters_)
     plt.suptitle('DBSCAN parameters = ' + 'eps=' + str(eps) + ', ' + 'min_sample=' + str(min_samples))
-    plt.show()
 
     if save_to_directory is None:
         file_path = settings.DATA_DIR + "experiments/dbscan/"
@@ -80,18 +83,19 @@ def dbscan_clustering(doc2vec_model, tsne_model, model_language, save_to_directo
     plt.savefig(file_path + file_name, facecolor="w", dpi=90)
     logger.info("saved " + file_name + "at " + file_path)
 
+    plt.show()
 
-def create_dbscan_clustering(doc2vec_model_file_path, tsne_model_file_path, model_language, save_to_directory):
+def create_dbscan_clustering(doc2vec_model_file_path, tsne_model_file_path, eps, min_samples, model_language, save_to_directory):
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
-    dbscan_clustering(doc2vec_model, tsne_model, model_language, save_to_directory)
+    dbscan_clustering(doc2vec_model, tsne_model, eps=eps, min_samples=min_samples, model_language=model_language, save_to_directory=save_to_directory)
 
 
 def main():
     # example usage for create Agglomerative Clustering
     doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
     tsne_model = tsne.load_tsne_model('t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-15:14:31.npy')
-    dbscan_clustering(doc2vec_model, tsne_model)
+    dbscan_clustering(doc2vec_model, tsne_model, model_language='german', eps=0.35, min_samples=2)
 
 
 if __name__ == "__main__":

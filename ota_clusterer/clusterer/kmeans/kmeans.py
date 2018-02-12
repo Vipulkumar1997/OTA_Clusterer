@@ -11,18 +11,20 @@ logger = logger.get_logger()
 logger.name = __name__
 
 
-def kmeans_clustering(doc2vec_model, tsne_model, model_language, save_to_directory=None):
+def kmeans_clustering(doc2vec_model, tsne_model, model_language, k=3, new_hostnames=None, save_to_directory=None):
     logger.info("Start creating K-Means Clustering...")
     logger.info('Length of the t-sne model = ' + str(len(tsne_model)))
 
     fnames = list(doc2vec_model.docvecs.doctags.keys())
-    #fnames.append('fckickers.ch')
-    #fnames.append('pdgr.ch')
+    if new_hostnames is not None:
+        for hostname in new_hostnames:
+            fnames.append(hostname)
     logger.info('Amount of Datapoints Labels = ' + str(len(fnames)))
 
     assert (len(tsne_model) == len(fnames))
+    assert (k <= len(tsne_model))
 
-    k = 5
+    k = k
     random_state = 0
     logger.info('K-Means Parameters: k = %s, random_state= %d ' % (k, random_state))
     logger.info('Start training K-Means Model...')
@@ -68,7 +70,6 @@ def kmeans_clustering(doc2vec_model, tsne_model, model_language, save_to_directo
     plt.ylim(y_min, y_max)
     plt.xticks(())
     plt.yticks(())
-    plt.show()
 
     if save_to_directory is None:
         file_path = settings.DATA_DIR + "experiments/kmeans/"
@@ -79,22 +80,27 @@ def kmeans_clustering(doc2vec_model, tsne_model, model_language, save_to_directo
     plt.savefig(file_path + file_name, facecolor="w", dpi=90)
     logger.info("saved " + file_name + "at " + file_path)
 
+    plt.show()
 
-def create_kmeans_clustering(doc2vec_model_file_path, tsne_model_file_path, model_language, save_to_directory):
+
+def create_kmeans_clustering(doc2vec_model_file_path, tsne_model_file_path, model_language, k, save_to_directory):
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
-    kmeans_clustering(doc2vec_model, tsne_model, model_language, save_to_directory)
+
+    kmeans_clustering(doc2vec_model=doc2vec_model, tsne_model=tsne_model, model_language=model_language, k=k,
+                      save_to_directory=save_to_directory)
+
 
 def main():
     # example usage for create K-Means Clustering
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
     tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
-    kmeans_clustering(doc2vec_model, tsne_model, model_language='german')
+    kmeans_clustering(doc2vec_model, tsne_model, model_language='german', k=10)
 
     # experiment with K-Means and new added data points
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
     tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-15:14:31.npy')
-    kmeans_clustering(doc2vec_model, tsne_model, model_language='german')
+    kmeans_clustering(doc2vec_model, tsne_model, model_language='german', new_hostnames=['kickers.ch', 'pdgr.ch'], k=10)
 
 
 if __name__ == "__main__":

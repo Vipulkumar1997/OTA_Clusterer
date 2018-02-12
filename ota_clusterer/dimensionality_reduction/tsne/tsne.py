@@ -64,28 +64,34 @@ def load_tsne_model(model_file_name=None, tsne_model_file_path=None):
     return tsne_model
 
 
-def create_new_doc2vec_tsne_model(doc2vec_model_file_path, output_directory_tsne_model, tsne_file_name):
+def create_doc2vec_tsne_model(doc2vec_model_file_path, output_directory_tsne_model, tsne_file_name):
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     doc2vec_vector_matrix = doc2vec.get_doc_vector_matrix(doc2vec_model)
     create_2d_tsne_model(doc2vec_vector_matrix, tsne_file_name, output_directory_tsne_model)
 
 
-def create_new_doc2vec_tsne_model_for_unseen_data(doc2vec_model_file_path, unseen_data, model_language, output_directory_tsne_model, tsne_file_name):
+def create_doc2vec_tsne_model_for_new_documents(doc2vec_model_file_path, new_documents, model_language,
+                                                output_directory,
+                                                tsne_file_name,
+                                                documents_file_path):
+
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path)
-    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_unseen_documents(doc2vec_model,
-                                                                                  unseen_documents=unseen_data,
-                                                                                  language=model_language)
-    create_2d_tsne_model(doc2vec_vector_matrix, tsne_file_name, output_directory_tsne_model)
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=new_documents,
+                                                                               model_language=model_language,
+                                                                               documents_file_path=documents_file_path)
+
+    create_2d_tsne_model(doc2vec_vector_matrix, tsne_file_name, output_directory)
 
 
 def main():
 
     # Example to to create tsne model with unseen data
     doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_unseen_documents(doc2vec_model,
-                                                                                  unseen_documents=['fckickers.ch',
-                                                                                                    'pdgr.ch'],
-                                                                                  language='german')
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=['fckickers.ch',
+                                                                                              'pdgr.ch'],
+                                                                               model_language='german')
 
     create_2d_tsne_model(doc2vec_vector_matrix, 'cluster-unseen-data-doc2vec-german')
 

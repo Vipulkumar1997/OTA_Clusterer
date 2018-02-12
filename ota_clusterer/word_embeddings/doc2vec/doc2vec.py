@@ -156,8 +156,8 @@ def save_doc2vec_model(doc2vec_model, file_name, directory_path=None):
                 if e.errno != errno.EEXIST:
                     raise
 
-        logger.info("save new doc2vec model at: " + doc2vec_model_path)
-        doc2vec_model.save(doc2vec_model_path + '/doc2vec/' + file_name)
+        logger.info("save new doc2vec model at: " + doc2vec_model_path + 'doc2vec/')
+        doc2vec_model.save(doc2vec_model_path + 'doc2vec/' + file_name)
 
     else:
         doc2vec_model_path = settings.DATA_DIR + 'doc2vec/models/'
@@ -178,25 +178,27 @@ def get_doc_vector_matrix(model):
     return docvec_vectors
 
 
-def create_doc_vector_matrix_for_unseen_documents(doc2vec_model, unseen_documents, language):
+def create_doc_vector_matrix_for_new_documents(doc2vec_model, new_documents, model_language, documents_file_path=None):
     doc2vec_vector_matrix_to_extend = get_doc_vector_matrix(doc2vec_model)
     doc2vec_vector_matrix_array_values = doc2vec_vector_matrix_to_extend.doctag_syn0
 
-    for document in unseen_documents:
-        doc_vectors_english, doc_vectors_german = get_doc_vectors_of_unseen_documents(doc2vec_model, document)
+    for document_folder_name in new_documents:
+        doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model,
+                                                                                    document_folder_name,
+                                                                                    documents_file_path)
 
-        if language == 'english':
+        if model_language == 'english':
             # dimension == vector size parameter in the doc2vec model (create_doc2vec_model())
             doc_vectors = np.reshape(doc_vectors_english, (1, 300))
 
-        elif language == 'german':
+        elif model_language == 'german':
             # dimension == vector size parameter in the doc2vec model (create_doc2vec_model())
             doc_vectors = np.reshape(doc_vectors_german, (1, 300))
 
         doc2vec_vector_matrix_array_values = np.concatenate((doc2vec_vector_matrix_array_values, doc_vectors), axis=0)
 
     doc2vec_vector_matrix_to_extend.doctag_syn0 = doc2vec_vector_matrix_array_values
-    doc2vec_vector_matrix_to_extend.count += len(unseen_documents)
+    doc2vec_vector_matrix_to_extend.count += len(new_documents)
 
     return doc2vec_vector_matrix_to_extend
 
@@ -213,7 +215,7 @@ def get_doc_similarities_by_new_vector(doc2vec_model, new_vector):
     return similarities
 
 
-def get_doc_vectors_of_unseen_documents(doc2vec_model, documents_file_path, document_folder_name):
+def get_doc_vectors_for_new_documents(doc2vec_model, document_folder_name, documents_file_path=None):
     logger.info('get doc vector values of unseen documents')
     if documents_file_path is None:
         documents_file_path = settings.DATA_DIR + 'crawling_data/' + document_folder_name + '/'
@@ -288,7 +290,7 @@ def main():
 
     # Experiments with unseen data
     doc2vec_model = load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    doc_vectors_english, doc_vectors_german = get_doc_vectors_of_unseen_documents(doc2vec_model=doc2vec_model, document_folder_name='statravel.ch')
+    doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model=doc2vec_model, document_folder_name='statravel.ch')
     print(get_doc_similarities_by_new_vector(doc2vec_model, doc_vectors_english))
     print(get_doc_similarities_by_new_vector(doc2vec_model, doc_vectors_german))
 

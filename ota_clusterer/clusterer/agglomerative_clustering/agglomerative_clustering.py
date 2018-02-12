@@ -16,7 +16,7 @@ logger = logger.get_logger()
 logger.name = __name__
 
 
-def agglomerative_clustering(doc2vec_model, tsne_model, model_language, save_to_directory=None):
+def agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters, model_language, save_to_directory=None):
     logger.info("Start creating Agglomerative Cluster...")
     data_point_labels = list(doc2vec_model.docvecs.doctags.keys())
     logger.info('Amount of Datapoints Labels = ' + str(len(data_point_labels)))
@@ -27,8 +27,11 @@ def agglomerative_clustering(doc2vec_model, tsne_model, model_language, save_to_
     # calculate local connectivity
     knn_graph = kneighbors_graph(tsne_model, 30, include_self=False)
 
+    # example: (5, 10, 15, 20, 25, 30)
+    numbers_of_clusters = tuple(numbers_of_clusters)
+
     for connectivity in (None, knn_graph):
-        for n_clusters in (5, 10, 15, 20, 25, 30):
+        for n_clusters in numbers_of_clusters:
             plt.figure(figsize=(40, 15))
             for index, linkage in enumerate(('average', 'complete', 'ward')):
                 plt.subplot(1, 3, index + 1)
@@ -55,29 +58,29 @@ def agglomerative_clustering(doc2vec_model, tsne_model, model_language, save_to_
                 plt.suptitle('n_cluster=%i, connectivity=%r' %
                              (n_clusters, connectivity is not None), size=17)
 
+            if save_to_directory is None:
+                file_path = settings.DATA_DIR + "experiments/agglomerative_clustering/"
+            else:
+                file_path = save_to_directory
+
+            file_name = 'agglomerative_clustering-' + model_language + '-' + time.strftime("%d-%b-%Y-%X") + ".png"
+            plt.savefig(file_path + file_name, facecolor="w", dpi=90)
+            logger.info("saved " + file_name + "at " + file_path)
+
     plt.show()
 
-    if save_to_directory is None:
-        file_path = settings.DATA_DIR + "experiments/agglomerative_clustering/"
-    else:
-        file_path = save_to_directory
 
-    file_name = 'agglomerative_clustering-' + model_language + '-' + time.strftime("%d-%b-%Y-%X") + ".png"
-    plt.savefig(file_path + file_name, facecolor="w", dpi=90)
-    logger.info("saved " + file_name + "at " + file_path)
-
-
-def create_agglomerative_clustering(doc2vec_model_file_path, tsne_model_file_path, model_language, save_to_directory):
+def create_agglomerative_clustering(doc2vec_model_file_path, tsne_model_file_path, numbers_of_clusters, model_language, save_to_directory):
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
-    agglomerative_clustering(doc2vec_model, tsne_model, model_language, save_to_directory)
+    agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters, model_language, save_to_directory)
 
 
 def main():
     # example usage for create Agglomerative Clustering
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
     tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
-    agglomerative_clustering(doc2vec_model, tsne_model)
+    agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters=[5, 10, 15, 20, 25, 30], model_language='german')
 
 
 if __name__ == "__main__":
