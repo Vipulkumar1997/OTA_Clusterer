@@ -29,7 +29,7 @@ results are visible in experiments folder...
 
 ## Usage of the CLI
 Clone this project and execute from the root project folder following command to get all supported CLI options:
-* python ota_clusterer/cli.py -h * 
+* python ota_clusterer/cli.py -h  
 
 ## Built With
 
