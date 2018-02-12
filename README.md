@@ -29,19 +29,21 @@ results are visible in experiments folder...
 
 
 ## Install
+
 Clone this project, move into the project folder and execute the install.sh script (Linux and MacOSX supported, Windows will follow for Cygwin)
-'''sh
+
+```sh
 cd OTA_Clusterer
 ./install.sh
-'''
+```
 The script installs all dependencies into a seperated python virtualenv which is stored in the HOME folder
 ## Usage of the CLI
 
 Clone this project and execute from the project folder following command to get all supported CLI options:
-'''sh
+```sh
 cd OTA Clusterer
 python ota_clusterer/cli.py -h
-'''
+```
 
 ## Built With
 
