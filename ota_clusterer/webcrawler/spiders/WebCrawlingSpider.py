@@ -13,6 +13,7 @@ class WebCrawlingSpider(CrawlSpider):
     text information of the given webpage as .txt file.
 
     """
+
     name = 'webcrawler'
     hostname = ''
     allowed_domains = []
