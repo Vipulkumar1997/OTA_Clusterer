@@ -1,13 +1,18 @@
 import os
+import errno
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from bs4 import BeautifulSoup
 from bs4.element import Comment
-import errno
 from ota_clusterer import settings
 
 
 class WebCrawlingSpider(CrawlSpider):
+    """WebCrawlingSpider class is the blueprint for the crawling objects which do the web crawling job for a given
+    hostname. One instance crawls the complete given domain, parses the results and persists all in a browser visible
+    text information of the given webpage as .txt file.
+
+    """
     name = 'webcrawler'
     hostname = ''
     allowed_domains = []

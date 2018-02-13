@@ -1,18 +1,24 @@
-from scrapy.crawler import CrawlerRunner
-from ota_clusterer.webcrawler.spiders.WebCrawlingSpider import WebCrawlingSpider
+import csv
 from scrapy.utils.project import get_project_settings
 from scrapy.utils.log import configure_logging
-import ota_clusterer.webcrawler.settings as scrapy_settings
+from scrapy.crawler import CrawlerRunner
 from twisted.internet import reactor
-import csv
 from ota_clusterer import settings
 from ota_clusterer import logger
+from ota_clusterer.webcrawler.spiders.WebCrawlingSpider import WebCrawlingSpider
+import ota_clusterer.webcrawler.settings as scrapy_settings
+
 
 logger = logger.get_logger()
 logger.name = __name__
 
 
 class Crawler:
+    """Class for Web Crawling
+
+    Uses Scrapy as web crawling framework to spawn multiple crawling spiders (for each given hostname).
+    Hostnames can come from a list object, [www.test.ch, www.test2.de] or a csv file with newline seperated entries.
+    """
 
     def get_hostnames_from_list(self, file_path):
         hostnames = []
@@ -38,7 +44,7 @@ class Crawler:
             d.addBoth(lambda _: reactor.stop())
         reactor.run()
 
-    def set_obey_robotstxt_false(self):
+    def ignore_robotstxt_file(self):
         scrapy_settings.ROBOTSTXT_OBEY = False
 
 
@@ -56,12 +62,12 @@ def crawl_list_of_hostnames(urls_list_file_path, directory_to_save_results):
 
 
 def main():
-    #Example to crawl list of urls
+    # Example to crawl list of urls
     urls_list = settings.DATA_DIR + 'urls/urls-to-crawl.csv'
     directory_to_save_results = settings.DATA_DIR + 'crawling_data/'
     crawl_list_of_hostnames(urls_list_file_path=urls_list, directory_to_save_results=directory_to_save_results)
 
-    #Example to crawl just specific urls
+    # Example to crawl just specific urls
     hostnames = ['www.meissenberg.ch', 'www.klinik-zugersee.ch']
     crawl_given_urls(hostnames, directory_to_save_results)
 
