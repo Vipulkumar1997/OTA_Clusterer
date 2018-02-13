@@ -66,4 +66,4 @@ if [ "$(uname)" == "Darwin" ]; then
 fi
 cd -
 echo
-echo successfully installed OTA Clusterer<3
+echo successfully installed OTA Clusterer
