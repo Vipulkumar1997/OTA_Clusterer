@@ -31,14 +31,13 @@ results are visible in experiments folder...
 ## Install
 
 Clone this project, move into the project folder and execute the install.sh script (Linux and MacOSX supported, Windows will follow for Cygwin)
+The script installs all dependencies into a seperated python virtualenv which is stored in your HOME folder.
 
 ```sh
 cd OTA_Clusterer
 ./install.sh
 ```
-The script installs all dependencies into a seperated python virtualenv which is stored in the HOME folder.
-
-You can access the functionalities in your personal project as well, if you install it as Python module:
+You can access all functionalities in your personal project as well, if you install it as Python module:
 
 ```sh
 cd OTA_Clusterer
