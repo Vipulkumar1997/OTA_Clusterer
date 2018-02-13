@@ -1,21 +1,38 @@
+import time
 import logging
+from itertools import cycle
 import sklearn.manifold
 import sklearn.cluster
 import matplotlib.pyplot as plt
-import time
 from ota_clusterer import settings
 from ota_clusterer.word_embeddings.doc2vec import doc2vec
 from ota_clusterer.dimensionality_reduction.tsne import tsne
-from itertools import cycle
 
-logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 
-def affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, save_to_directory=None):
+def affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, new_hostnames=None, save_to_directory=None):
+    """creates an affinity propagation cluster and plots the result
+    :param doc2vec_model: doc2vec model to infer document keys (document identifiers)
+    :param tsne_model: tsne model to apply the affinity propagation algorithm
+    :param model_language: language of the doc2vec model, will be added to the file name
+    :param new_hostnames: list of new hostnames (new data) which were not included in doc2vec model
+    :param save_to_directory: where to store the plot
+
+    """
+
     logger.info("Start creating affinity propagation cluster...")
-    fnames = list(doc2vec_model.docvecs.doctags.keys())
+    data_point_labels = list(doc2vec_model.docvecs.doctags.keys())
+
+    if new_hostnames is not None:
+        for hostname in new_hostnames:
+            data_point_labels.append(hostname)
+
+    logger.info('Amount of Datapoints Labels = ' + str(len(data_point_labels)))
+
+    assert (len(tsne_model) == len(data_point_labels))
+
     affinity_propagation = sklearn.cluster.AffinityPropagation().fit(tsne_model)
 
     cluster_centers_indices = affinity_propagation.cluster_centers_indices_
@@ -31,12 +48,12 @@ def affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, save
 
         fnames_cluster = []
         fname_indices = [i for i, x in enumerate(class_members) if x]
-        for i in fname_indices: fnames_cluster.append(fnames[i])
+        for i in fname_indices: fnames_cluster.append(data_point_labels[i])
 
         plt.plot(tsne_model[class_members, 0], tsne_model[class_members, 1], col + ".")
         plt.plot(cluster_center[0], cluster_center[1], "o", markerfacecolor=col, markersize=20)
 
-        # plt.annotate(fnames[labels[k]], (cluster_center[0], cluster_center[1]), xytext=(0, -8),
+        # plt.annotate(data_point_labels[labels[k]], (cluster_center[0], cluster_center[1]), xytext=(0, -8),
         #        textcoords="offset points", va="center", ha="left")
 
         for x, fname in zip(tsne_model[class_members], fnames_cluster):
@@ -54,7 +71,15 @@ def affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, save
     logger.info("saved " + file_name + "at " + file_path)
 
 
-def create_affinity_propagation_cluster(doc2vec_model_file_path, tsne_model_file_path, model_language, save_to_directory):
+def create_affinity_propagation_cluster(doc2vec_model_file_path, tsne_model_file_path, model_language,
+                                        save_to_directory):
+    """helper function to create affinity propagation clustering plot
+    :param doc2vec_model_file_path: file path of doc2vec model
+    :param tsne_model_file_path: file path of tsne model
+    other parameters are explained in affinity_propagation_cluster function
+
+    """
+
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
     affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, save_to_directory)
@@ -62,8 +87,8 @@ def create_affinity_propagation_cluster(doc2vec_model_file_path, tsne_model_file
 
 def main():
     # example usage for creating an affinity propagation cluster
-    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model('t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
     affinity_propagation_cluster(doc2vec_model, tsne_model, 'german')
 
 

@@ -12,8 +12,10 @@ from ota_clusterer.clusterer.dbscan import dbscan
 from ota_clusterer.clusterer.agglomerative_clustering import agglomerative_clustering
 from ota_clusterer import logger
 
+
 logger = logger.get_logger()
 logger.name = __name__
+
 
 if __name__ == "__main__":
 
@@ -201,19 +203,19 @@ Sandro Cilurzo                        ,.-' >.'
 
     elif args.create_tsne_model:
         logger.info('create tsne model from CLI from following doc2vec model: ' + args.load_doc2vec_model)
-        tsne.create_doc2vec_tsne_model(doc2vec_model_file_path=args.load_doc2vec_model,
-                                       output_directory_tsne_model=args.models_dir,
-                                       tsne_file_name=args.tsne_file_name)
+        tsne.create_tsne_for_doc2vec_model(doc2vec_model_file_path=args.load_doc2vec_model,
+                                           output_directory_tsne_model=args.models_dir,
+                                           tsne_file_name=args.tsne_file_name)
 
     elif args.create_tsne_model_for_new_data:
         logger.info(
             'create tsne model with unseen data based on following doc2vec model ' + args.load_doc2vec_model)
-        tsne.create_doc2vec_tsne_model_for_new_documents(doc2vec_model_file_path=args.load_doc2vec_model,
-                                                         new_documents=args.new_hostnames,
-                                                         model_language=args.model_language,
-                                                         output_directory=args.models_dir,
-                                                         tsne_file_name=args.tsne_file_name,
-                                                         documents_file_path=args.crawled_dir)
+        tsne.create_tsne_for_doc2vec_model_with_new_documents(doc2vec_model_file_path=args.load_doc2vec_model,
+                                                              new_documents=args.new_hostnames,
+                                                              model_language=args.model_language,
+                                                              output_directory=args.models_dir,
+                                                              tsne_file_name=args.tsne_file_name,
+                                                              documents_file_path=args.crawled_dir)
 
     elif args.affinity_propagation:
         logger.info('create affinity propagation clustering for the given tsne model' + args.load_tsne_model)

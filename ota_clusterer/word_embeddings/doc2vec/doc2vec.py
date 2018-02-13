@@ -2,20 +2,27 @@ import gensim
 import os
 import errno
 import glob
-from ota_clusterer import settings
 import time
-from ota_clusterer.word_embeddings.preprocessing import preprocessing
 import numpy as np
-from ota_clusterer import logger
 import re
+from ota_clusterer import settings
+from ota_clusterer import logger
+from ota_clusterer.word_embeddings.preprocessing import preprocessing
 
 logger = logger.get_logger()
 logger.name = __name__
 
 
-def create_document_corpus_by_language(document_path):
+def create_document_corpus_by_language(documents_path):
+    """ reads in crawled documents and create a doc2vec document corpus
+    previous crawled documents gets preprocessed and a doc2vec document corpus gets build separated by language (german
+    and english)
+    :param documents_path: file path of the crawled documents
+    :return: german and english document corpus
+    """
+
     logger.info('start creating document corpus by language')
-    folders_in_directory = glob.glob(document_path)
+    folders_in_directory = glob.glob(documents_path)
 
     if not folders_in_directory:
         raise IOError
@@ -42,9 +49,9 @@ def create_document_corpus_by_language(document_path):
                     document = gensim.utils.simple_preprocess(document)
                     document_language = preprocessing.detect_language(document)
                     if document_language == 'english' or document_language == 'german':
-                        preprocessed_document, document_language = preprocessing.preprocess_document(document, document_language)
+                        preprocessed_document = preprocessing.preprocess_document(document, document_language)
 
-                        tagged_document_name = cleaning_path_out_of_folder_name(folder_name)
+                        tagged_document_name = remove_file_path_from_folder_name(folder_name)
                         tagged_document = gensim.models.doc2vec.TaggedDocument(preprocessed_document,
                                                                                ["{}".format(tagged_document_name)])
 
@@ -54,25 +61,33 @@ def create_document_corpus_by_language(document_path):
                         elif document_language == 'german':
                             preprocessed_documents_corpus_german.append(tagged_document)
 
-        logger.info('Added ' + str(len(preprocessed_documents_corpus_english)) + ' documents to the english document corpus')
-        logger.info('Added ' + str(len(preprocessed_documents_corpus_german)) + ' documents to the german document corpus')
+        logger.info(
+            'Added ' + str(len(preprocessed_documents_corpus_english)) + ' documents to the english document corpus')
+        logger.info(
+            'Added ' + str(len(preprocessed_documents_corpus_german)) + ' documents to the german document corpus')
 
         return preprocessed_documents_corpus_english, preprocessed_documents_corpus_german
 
 
-def preprocess_unseen_documents(document_path):
+def preprocess_new_documents(documents_path):
+    """documents which were not included in a previous trained doc2vec model, gets preprocessed for further processing
+    :param documents_path: file path to the newly crawled documents
+    :return: preprocessed and concatenated english and german documents
+
+    """
+
     logger.info('start processing unseen document')
-    folders_in_directory = glob.glob(document_path)
+    folders_in_directory = glob.glob(documents_path)
 
     if not folders_in_directory:
         raise IOError
 
     else:
 
-        preprocessed_and_concatenated_document_english = []
-        preprocessed_and_concatenated_document_german = []
-        english_document_counter = 0
-        german_document_counter = 0
+        preprocessed_and_concatenated_documents_english = []
+        preprocessed_and_concatenated_documents_german = []
+        english_documents_counter = 0
+        german_documents_counter = 0
 
         for folder_name in folders_in_directory:
             logger.info('start getting files of folder ' + folder_name)
@@ -91,23 +106,42 @@ def preprocess_unseen_documents(document_path):
                     document = gensim.utils.simple_preprocess(document)
                     document_language = preprocessing.detect_language(document)
                     if document_language == 'english':
-                        english_document_counter += 1
-                        preprocessed_document, document_language = preprocessing.preprocess_document(document, document_language)
-                        preprocessed_and_concatenated_document_english += preprocessed_document
+                        english_documents_counter += 1
+                        preprocessed_document = preprocessing.preprocess_document(document,
+                                                                                                     document_language)
+                        preprocessed_and_concatenated_documents_english += preprocessed_document
 
                     elif document_language == 'german':
-                        german_document_counter += 1
-                        preprocessed_document, document_language = preprocessing.preprocess_document(document, document_language)
-                        preprocessed_and_concatenated_document_german += preprocessed_document
+                        german_documents_counter += 1
+                        preprocessed_document = preprocessing.preprocess_document(document,
+                                                                                                     document_language)
+                        preprocessed_and_concatenated_documents_german += preprocessed_document
+
+        logger.info('Concatenated and preprocessed ' + str(english_documents_counter) + 'to one english document')
+        logger.info('Concatenated and preprocessed ' + str(german_documents_counter) + ' to one german document')
+
+        return preprocessed_and_concatenated_documents_english, preprocessed_and_concatenated_documents_german
 
 
-        logger.info('Concatenated and preprocessed ' + str(english_document_counter) + ' to one english document ')
-        logger.info('Concatenated and preprocessed ' + str(german_document_counter) + ' to one german document')
+def remove_file_path_from_folder_name(folder_name):
+    """file path information gets removed with regex from folder name
+    :param folder_name: folder name with file path information
+    :return: cleaned folder name without file path
 
-        return preprocessed_and_concatenated_document_english, preprocessed_and_concatenated_document_german
+    """
+
+    pattern = re.compile(r"(?:\\.|[^/\\])*/$")
+    cleaned_folder_name = re.findall(pattern, folder_name)
+    cleaned_folder_name = cleaned_folder_name[0].strip('/')
+    return cleaned_folder_name
 
 
 def create_doc2vec_model(document_corpus):
+    """doc2vec model gets build for given document corpus
+    :param document_corpus: previous build document corpus consists of multiple labeled documents
+    :return: doc2vec model
+
+    """
 
     # doc2vec hyperparameters -- inspired by: https://github.com/jhlau/doc2vec
     vector_size = 300
@@ -144,6 +178,13 @@ def create_doc2vec_model(document_corpus):
 
 
 def save_doc2vec_model(doc2vec_model, file_name, directory_path=None):
+    """persist trained doc2vec model
+    :param doc2vec_model: previous trained doc2vec model
+    :param file_name: file name for persisting
+    :param directory_path: where to persist doc2vec model
+
+    """
+
     file_name = file_name + "-" + time.strftime("%d-%b-%Y-%X")
 
     if directory_path is not None:
@@ -165,26 +206,53 @@ def save_doc2vec_model(doc2vec_model, file_name, directory_path=None):
         doc2vec_model.save(doc2vec_model_path + file_name)
 
 
+def load_existing_model(doc2vec_model_file_path=None, model_file_name=None):
+    if doc2vec_model_file_path is None and model_file_name is not None:
+        logger.info('Loading doc2vec models directly from project structure...')
+        doc2vec_model_file_path = settings.DATA_DIR + 'doc2vec/models/' + model_file_name
 
-def get_word_vector_matrix(model):
-    logger.info('get word vectors of doc2vec model')
-    word_vectors = model.wv.syn0
+    logger.info('load model from following path: ' + str(doc2vec_model_file_path))
+    loaded_model = gensim.models.Doc2Vec.load(doc2vec_model_file_path)
+    return loaded_model
+
+
+def get_word_vectors_matrix(doc2vec_model):
+    """retrieve word vectors value of given doc2vec model
+    :param doc2vec_model:
+    :return: word vectors matrix
+
+    """
+    logger.info('get word vectors matrix of doc2vec model')
+    word_vectors = doc2vec_model.wv.syn0
     return word_vectors
 
 
-def get_doc_vector_matrix(model):
-    logger.info('get document vectors of doc2vec model')
-    docvec_vectors = model.docvecs
+def get_doc_vectors_matrix(doc2vec_model):
+    """retrieve document vectors value of given doc2vec model
+    :param doc2vec_model:
+    :return: document vectors matrix
+
+    """
+    logger.info('get document vectors matrix of doc2vec model')
+    docvec_vectors = doc2vec_model.docvecs
     return docvec_vectors
 
 
 def create_doc_vector_matrix_for_new_documents(doc2vec_model, new_documents, model_language, documents_file_path=None):
-    doc2vec_vector_matrix_to_extend = get_doc_vector_matrix(doc2vec_model)
+    """creates a new document vectors matrix with inferred vectors of new documents
+    :param doc2vec_model: previous trained doc2vec model
+    :param new_documents: new documents which should be used to infer vectors
+    :param model_language: language of doc2vec model
+    :param documents_file_path: file path of crawled documents
+    :return: extended document vector matrix
+
+    """
+
+    doc2vec_vector_matrix_to_extend = get_doc_vectors_matrix(doc2vec_model)
     doc2vec_vector_matrix_array_values = doc2vec_vector_matrix_to_extend.doctag_syn0
 
     for document_folder_name in new_documents:
-        doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model,
-                                                                                    document_folder_name,
+        doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model, document_folder_name,
                                                                                     documents_file_path)
 
         if model_language == 'english':
@@ -199,61 +267,95 @@ def create_doc_vector_matrix_for_new_documents(doc2vec_model, new_documents, mod
 
     doc2vec_vector_matrix_to_extend.doctag_syn0 = doc2vec_vector_matrix_array_values
     doc2vec_vector_matrix_to_extend.count += len(new_documents)
+    doc2vec_vector_matrix_extended = doc2vec_vector_matrix_to_extend
 
-    return doc2vec_vector_matrix_to_extend
+    return doc2vec_vector_matrix_extended
 
 
 def get_doc_similarities_by_document_name(doc2vec_model, document_name):
+    """retrieve cosine similarities of document by document name
+    :param doc2vec_model: trained doc2vec model
+    :param document_name: name of document in doc2vec model
+    :return: cosine similarities
+
+    """
     logger.info('get document similarities')
     similarities = doc2vec_model.docvecs.most_similar(document_name)
     return similarities
 
 
 def get_doc_similarities_by_new_vector(doc2vec_model, new_vector):
+    """retrieve cosine similarities by new vector (word)
+    :param doc2vec_model: trained doc2vec model
+    :param new_vector: word to infer vector values
+    :return: cosine similarities for given new vector (word)
+
+    """
     logger.info('get document similarities by new vector')
     similarities = doc2vec_model.docvecs.most_similar([new_vector])
     return similarities
 
 
-def get_doc_vectors_for_new_documents(doc2vec_model, document_folder_name, documents_file_path=None):
+def get_most_similar_doc_matrix(doc2vec_model):
+    """retrieve cosine similarities matrix of most similar documents of given doc2vec model
+    :param doc2vec_model:
+    :return: cosine similarities matrix
+
+    """
+
+    similarities_matrix = []
+    for document_name in doc2vec_model.docvecs.doctags:
+        similarities_matrix.append(get_doc_similarities_by_document_name(doc2vec_model, document_name))
+
+    similarities_matrix = np.asarray(similarities_matrix)
+
+    return similarities_matrix
+
+
+def get_doc_vectors_for_new_documents(doc2vec_model, documents_folder_name, documents_file_path=None):
+    """retrieve document vectors for new documents based on previous trained doc2vec model
+    :param doc2vec_model: trained doc2vec model
+    :param documents_folder_name: name of documents folder
+    :param documents_file_path: file path to the folder
+    :return: english and german document vectors
+
+    """
+
     logger.info('get doc vector values of unseen documents')
     if documents_file_path is None:
-        documents_file_path = settings.DATA_DIR + 'crawling_data/' + document_folder_name + '/'
+        documents_file_path = settings.DATA_DIR + 'crawling_data/' + documents_folder_name + '/'
 
     else:
-        documents_file_path = documents_file_path + document_folder_name + '/'
+        documents_file_path = documents_file_path + documents_folder_name + '/'
 
     logger.info('get documents from following path: ' + documents_file_path)
 
-    preprocessed_documents_english, preprocessed_documents_german = preprocess_unseen_documents(documents_file_path)
+    preprocessed_documents_english, preprocessed_documents_german = preprocess_new_documents(documents_file_path)
 
-    doc_vector_english = doc2vec_model.infer_vector(preprocessed_documents_english, alpha=0.025, min_alpha=0.01, steps=1)
-    doc_vector_german = doc2vec_model.infer_vector(preprocessed_documents_german, alpha=0.025, min_alpha=0.01, steps=1)
+    doc_vectors_english = doc2vec_model.infer_vector(preprocessed_documents_english, alpha=0.025, min_alpha=0.01,
+                                                    steps=1)
+    doc_vectors_german = doc2vec_model.infer_vector(preprocessed_documents_german, alpha=0.025, min_alpha=0.01, steps=1)
 
-    return doc_vector_english, doc_vector_german
-
-
-def load_existing_model(doc2vec_model_file_path=None, model_file_name=None):
-    if doc2vec_model_file_path is None and model_file_name is not None:
-        logger.info('Loading doc2vec models directly from project structure...')
-        doc2vec_model_file_path = settings.DATA_DIR + 'doc2vec/models/' + model_file_name
-
-    logger.info('load model from following path: ' + str(doc2vec_model_file_path))
-    loaded_model = gensim.models.Doc2Vec.load(doc2vec_model_file_path)
-    return loaded_model
+    return doc_vectors_english, doc_vectors_german
 
 
 def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None):
-    logger.info('Start creating new doc2vec model...')
-    # crawling_data_file_path = settings.PROJECT_ROOT + '/data/crawling_data/*/'
-    # utils.save_all_documents(crawling_data_file_path)
+    """creates a new doc2vec model
+    :param documents_file_path: file path to the crawled and stored documents
+    :param save_to_directory: where to save the doc2vec model
+    :return: english and german doc2vec model
+
+    """
+
     if documents_file_path is not None:
         documents_file_path = documents_file_path + '*/'
+        logger.info('document file has been set to: ' + str(documents_file_path))
 
     else:
-        logger.info('No directory to save model has been given...')
         documents_file_path = settings.DATA_DIR + 'crawling_data/*/'
+        logger.info('No documets file path has been given, default file path used: ' + str(documents_file_path))
 
+    logger.info('Start creating new doc2vec model...')
     document_corpus_english, document_corpus_german = create_document_corpus_by_language(documents_file_path)
 
     doc2vec_model_english = create_doc2vec_model(document_corpus_english)
@@ -265,32 +367,16 @@ def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None):
     return doc2vec_model_english, doc2vec_model_german
 
 
-def get_most_similar_doc_matrix(doc2vec_model):
-    similarities_matrix = []
-    for document_name in doc2vec_model.docvecs.doctags:
-        similarities_matrix.append(get_doc_similarities_by_document_name(doc2vec_model, document_name))
-
-    similarities_matrix = np.asarray(similarities_matrix)
-
-    return similarities_matrix
-
-
-def cleaning_path_out_of_folder_name(folder_name):
-    pattern = re.compile(r"(?:\\.|[^/\\])*/$")
-    file_name = re.findall(pattern, folder_name)
-    file_name = file_name[0].strip('/')
-    return file_name
-
-
 def main():
     # create_new_doc2vec_model()
     # get doc2vec similarities
-    # doc2vec_model = load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    # print(get_doc_similarities(doc2vec_model, 'booking-valais.ch'))
+    doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
+    print(get_doc_similarities_by_document_name(doc2vec_model, 'booking-valais.ch'))
 
     # Experiments with unseen data
-    doc2vec_model = load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model=doc2vec_model, document_folder_name='statravel.ch')
+    doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
+    doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model=doc2vec_model,
+                                                                                documents_folder_name='statravel.ch')
     print(get_doc_similarities_by_new_vector(doc2vec_model, doc_vectors_english))
     print(get_doc_similarities_by_new_vector(doc2vec_model, doc_vectors_german))
 

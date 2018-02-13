@@ -1,6 +1,6 @@
-import matplotlib.pyplot as plt
-import numpy as np
 import time
+import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from ota_clusterer import settings
 from ota_clusterer import logger
@@ -12,16 +12,28 @@ logger.name = __name__
 
 
 def kmeans_clustering(doc2vec_model, tsne_model, model_language, k=3, new_hostnames=None, save_to_directory=None):
+    """Creates K-Means clustering for given tsne model
+    :param doc2vec_model: data point labels (keys) gets inferred from doc2vec model
+    :param tsne_model: tsne model to apply clustering
+    :param model_language: language of doc2vec model, gets added to the file name
+    :param k: value to control how many clusters (k) should be generated
+    :param new_hostnames: hostnames which where not included in doc2vec model while training (new data)
+    :param save_to_directory: where to store the plot
+
+
+    """
     logger.info("Start creating K-Means Clustering...")
     logger.info('Length of the t-sne model = ' + str(len(tsne_model)))
 
-    fnames = list(doc2vec_model.docvecs.doctags.keys())
+    data_point_labels = list(doc2vec_model.docvecs.doctags.keys())
+
     if new_hostnames is not None:
         for hostname in new_hostnames:
-            fnames.append(hostname)
-    logger.info('Amount of Datapoints Labels = ' + str(len(fnames)))
+            data_point_labels.append(hostname)
 
-    assert (len(tsne_model) == len(fnames))
+    logger.info('Amount of Datapoints Labels = ' + str(len(data_point_labels)))
+
+    assert (len(tsne_model) == len(data_point_labels))
     assert (k <= len(tsne_model))
 
     k = k
@@ -56,7 +68,7 @@ def kmeans_clustering(doc2vec_model, tsne_model, model_language, k=3, new_hostna
     plt.plot(tsne_model[:, 0], tsne_model[:, 1], 'k.', markersize=2)
 
     # Annotate the data points
-    for i, txt in zip(tsne_model, fnames):
+    for i, txt in zip(tsne_model, data_point_labels):
         plt.annotate(txt, (i[0], i[1]), xytext=(0, -8), textcoords="offset points", va="center", ha="left")
 
     logger.info('The centroids are getted plotted as white x...')
@@ -84,6 +96,13 @@ def kmeans_clustering(doc2vec_model, tsne_model, model_language, k=3, new_hostna
 
 
 def create_kmeans_clustering(doc2vec_model_file_path, tsne_model_file_path, model_language, k, save_to_directory):
+    """helper function to create K-Means clustering plot
+    :param doc2vec_model_file_path: file path of doc2vec model
+    :param tsne_model_file_path: file path of tsne model
+    other parameters are explained in dbscan_clustering function
+
+    """
+
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
 

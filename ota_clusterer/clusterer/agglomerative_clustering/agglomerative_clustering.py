@@ -1,5 +1,4 @@
 import time
-
 import matplotlib.pyplot as plt
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.neighbors import kneighbors_graph
@@ -8,17 +7,30 @@ from ota_clusterer import logger
 from ota_clusterer.dimensionality_reduction.tsne import tsne
 from ota_clusterer.word_embeddings.doc2vec import doc2vec
 
-'''
-Reference: http://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerative_clustering.html#sphx-glr-auto-examples-cluster-plot-agglomerative-clustering-py
-'''
-
 logger = logger.get_logger()
 logger.name = __name__
 
 
-def agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters, model_language, save_to_directory=None):
+def agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters, model_language, new_hostnames=None,
+                             save_to_directory=None):
+    """applies agglomerative clustering algorithm to given tsne model
+    :param doc2vec_model: infer documents labels (keys) from doc2vec model
+    :param tsne_model: tsne model to apply algorithm to
+    :param numbers_of_clusters: how many clusters should get build
+    :param model_language: doc2vec model language, gets added to the plot file name
+    :param new_hostnames: hostnames which where not included in doc2vec model while training (new data)
+    :param save_to_directory: where to store the plot
+    Reference: http://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerative_clustering.html#sphx-glr-auto-examples-cluster-plot-agglomerative-clustering-py
+
+    """
+
     logger.info("Start creating Agglomerative Cluster...")
     data_point_labels = list(doc2vec_model.docvecs.doctags.keys())
+
+    if new_hostnames is not None:
+        for hostname in new_hostnames:
+            data_point_labels.append(hostname)
+
     logger.info('Amount of Datapoints Labels = ' + str(len(data_point_labels)))
     logger.info('Length of the t-sne model = ' + str(len(tsne_model)))
 
@@ -65,12 +77,20 @@ def agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters, mod
 
             file_name = 'agglomerative_clustering-' + model_language + '-' + time.strftime("%d-%b-%Y-%X") + ".png"
             plt.savefig(file_path + file_name, facecolor="w", dpi=90)
-            logger.info("saved " + file_name + "at " + file_path)
+            logger.info("saved " + file_name + " at " + file_path)
 
     plt.show()
 
 
-def create_agglomerative_clustering(doc2vec_model_file_path, tsne_model_file_path, numbers_of_clusters, model_language, save_to_directory):
+def create_agglomerative_clustering(doc2vec_model_file_path, tsne_model_file_path, numbers_of_clusters, model_language,
+                                    save_to_directory):
+    """helper function to create agglomerative clustering plot
+    :param doc2vec_model_file_path: file path of doc2vec model
+    :param tsne_model_file_path: file path of tsne model
+    other parameters are explained in agglomerative_clustering function
+
+    """
+
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
     agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters, model_language, save_to_directory)

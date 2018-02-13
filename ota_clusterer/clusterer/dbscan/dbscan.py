@@ -1,8 +1,6 @@
-#http://scikit-learn.org/stable/modules/clustering.html
-
-import matplotlib.pyplot as plt
-import numpy as np
 import time
+import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.cluster import DBSCAN
 from sklearn.preprocessing import StandardScaler
 from ota_clusterer import settings
@@ -14,10 +12,26 @@ logger = logger.get_logger()
 logger.name = __name__
 
 
-def dbscan_clustering(doc2vec_model, tsne_model, eps, min_samples, model_language, save_to_directory=None):
+def dbscan_clustering(doc2vec_model, tsne_model, eps, min_samples, model_language, new_hostnames=None, save_to_directory=None):
+    """ Creates DBSCAN clustering for given tsne model
+    :param doc2vec_model: used to infer data point labels (keys)
+    :param tsne_model: tsne model to apply clustering
+    :param eps: value to define neighbourhood size (epsilon)
+    :param min_samples: value to define minimum amount of sample in a neighbourhood
+    :param model_language: language of doc2vec model, gets added to file name
+    :param new_hostnames: hostnames which where not included in doc2vec model while training (new data)
+    :param save_to_directory: where to store the dbcsan plot
+    inspired by http://scikit-learn.org/stable/modules/clustering.html
+
+    """
 
     logger.info('Start creating DBSCAN Cluster...')
     data_point_labels = list(doc2vec_model.docvecs.doctags.keys())
+
+    if new_hostnames is not None:
+        for hostname in new_hostnames:
+            data_point_labels.append(hostname)
+
     logger.info('Amount of Datapoints Labels = ' + str(len(data_point_labels)))
     logger.info('Length of the t-sne model = ' + str(len(tsne_model)))
 
@@ -45,7 +59,6 @@ def dbscan_clustering(doc2vec_model, tsne_model, eps, min_samples, model_languag
 
     # Number of clusters in labels, ignoring noise if present.
     n_clusters_ = len(set(labels)) - (1 if -1 in labels else 0)
-
 
     plt.figure(figsize=(16, 16))
     # Black removed and is used for noise instead.
@@ -85,7 +98,15 @@ def dbscan_clustering(doc2vec_model, tsne_model, eps, min_samples, model_languag
 
     plt.show()
 
+
 def create_dbscan_clustering(doc2vec_model_file_path, tsne_model_file_path, eps, min_samples, model_language, save_to_directory):
+    """helper function to create DBSCAN clustering plot
+    :param doc2vec_model_file_path: file path of doc2vec model
+    :param tsne_model_file_path: file path of tsne model
+    other parameters are explained in dbscan_clustering function
+
+    """
+
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
     dbscan_clustering(doc2vec_model, tsne_model, eps=eps, min_samples=min_samples, model_language=model_language, save_to_directory=save_to_directory)

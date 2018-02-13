@@ -1,38 +1,51 @@
-from nltk.tokenize import RegexpTokenizer
-import nltk
+import gensim.utils
 from nltk.corpus import stopwords
-from nltk import wordpunct_tokenize
 from ota_clusterer import settings
 from nltk.stem.snowball import SnowballStemmer
 from ota_clusterer import logger
 
 logger = logger.get_logger()
+logger.name = __name__
 
 
-# TODO Renaming all functions
-def calculate_languages_ratios(document):
-    languages_ratios = {}
+def calculate_language_scores(document):
+    """using stopwords to calculate language scores for each language in nltk stopwords corpus
 
-    # Compute per language included in nltk number of unique stopwords appearing in analyzed text
+    :param document: document to calculate language scores
+    :return: language scores for each language
+    """
+    languages_scores = {}
+
     for language in stopwords.fileids():
         stopwords_set = set(stopwords.words(language))
         words_set = set(document)
         common_elements = words_set.intersection(stopwords_set)
 
-        languages_ratios[language] = len(common_elements)  # language "score"
+        languages_scores[language] = len(common_elements)  # language "scoring"
 
-    return languages_ratios
+    return languages_scores
 
 
 def detect_language(document):
-    ratios = calculate_languages_ratios(document)
+    """ detect language in given document
+    :param document: document to analyze
+    :return: most probable language
 
+    """
+    ratios = calculate_language_scores(document)
     most_rated_language = max(ratios, key=ratios.get)
-
     return most_rated_language
 
 
 def stop_words_removal(document, document_language):
+    """remove stopwords from given document
+
+    :param document: document to clean stopwords
+    :param document_language: used language in document
+    :return: filtered document
+
+    """
+
     stop_words = set(stopwords.words(document_language))
 
     filtered_document = []
@@ -45,24 +58,38 @@ def stop_words_removal(document, document_language):
 
 
 def word_stemming(document, document_language):
-   stemmer=  SnowballStemmer(document_language)
-   stemmed_document = []
-   for word in document:
-       stemmed_document.append(stemmer.stem(word))
+    """using SnowBallStemmer to stemm words in document
+    :param document: document to process
+    :param document_language: used language in document
+    :return: stemmed document
 
-   return stemmed_document
+    """
+
+    stemmer = SnowballStemmer(document_language)
+    stemmed_document = []
+    for word in document:
+        stemmed_document.append(stemmer.stem(word))
+
+    return stemmed_document
 
 
 def preprocess_document(document, document_language):
-    document_language = detect_language(document)
-    filtered_document = stop_words_removal(document, document_language)
-    preprocessed_document = word_stemming(filtered_document, document_language)
-    return preprocessed_document, document_language
+    """perform document preprocessing (stop words removal and stemming)
+    :param document: document to preprocess
+    :param document_language: used language in document
+    :return: preprocessed document
+
+    """
+    stop_words_cleaned_document = stop_words_removal(document, document_language)
+    preprocessed_document = word_stemming(stop_words_cleaned_document, document_language)
+    return preprocessed_document
 
 
 if __name__ == '__main__':
-    input_document = settings.DATA_DIR + '/doc2vec/data-27112017/www.alr-aerospace.ch.txt'
-    with open(input_document, 'r') as file:
+    file_path = settings.DATA_DIR + '/crawling_data/evz.ch/www.evz.ch_en.txt'
+    with open(file_path, 'r') as file:
         document = file.read()
+
+    document = gensim.utils.simple_preprocess(document)
     language = detect_language(document)
     print(language)
