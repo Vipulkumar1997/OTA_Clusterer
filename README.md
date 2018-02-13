@@ -36,9 +36,9 @@ Clone this project, move into the project folder and execute the install.sh scri
 cd OTA_Clusterer
 ./install.sh
 ```
-The script installs all dependencies into a seperated python virtualenv which is stored in the HOME folder.\n
+The script installs all dependencies into a seperated python virtualenv which is stored in the HOME folder.
 
-You can access the functionalities as well via installing it as Python module directly:
+You can access the functionalities in your personal project as well, if you install it as Python module:
 
 ```sh
 cd OTA_Clusterer
