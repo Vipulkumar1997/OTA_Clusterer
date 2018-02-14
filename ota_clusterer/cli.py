@@ -129,7 +129,7 @@ Sandro Cilurzo                        ,.-' >.'
                                           help='affinity propagation clustering over given tsne model (required '
                                                'params: '
                                                '-load_doc2vec_model, -load_tsne_model, -model_language, '
-                                               '-clustering_dir)',
+                                               '-clustering_dir, -new_hostnames (optional))',
                                           action='store_true',
                                           dest='affinity_propagation')
 
@@ -139,7 +139,8 @@ Sandro Cilurzo                        ,.-' >.'
 
     kmeans_cli.add_argument('--kmeans',
                             help='k-means clustering algorithm to given tsne model (required params: '
-                                 '-k, -load_doc2vec_model, -load_tsne_model, -model_language, -clustering_dir)',
+                                 '-k, -load_doc2vec_model, -load_tsne_model, -model_language, -clustering_dir, '
+                                 '-new_hostnames (optional))',
                             action='store_true',
                             dest='kmeans')
 
@@ -150,7 +151,7 @@ Sandro Cilurzo                        ,.-' >.'
 
     kmedoid_cli.add_argument('--kmedoid',
                              help='k-medoid clustering algorithm to given tsne model (required params: '
-                                  '-medoids, -load_doc2vec_model, -load_tsne_model)',
+                                  '-medoids, -load_doc2vec_model, -load_tsne_model, -new_hostnames (optional))',
                              action='store_true',
                              dest='kmedoid')
 
@@ -165,7 +166,7 @@ Sandro Cilurzo                        ,.-' >.'
     dbscan_cli.add_argument('--dbscan',
                             help='DBSCAN clustering algorithm to given tsne model(required params: '
                                  '-eps, -min_samples, -load_doc2vec_model, -load_tsne_model, -model_language, '
-                                 '-clustering_dir)',
+                                 '-new_hostnames (optional) -clustering_dir)',
                             action='store_true',
                             dest='dbscan')
 
@@ -178,7 +179,7 @@ Sandro Cilurzo                        ,.-' >.'
                                               help='agglomerative clustering algorithm to given tsne model (required '
                                                    'params: '
                                                    '-cluster_nr, -load_doc2vec_model, -load_tsne_model, -model_language, '
-                                                   '-clustering_dir)',
+                                                   '-clustering_dir, -new_hostnames (optional))',
                                               action='store_true',
                                               dest='agglomerative_clustering')
 
@@ -187,7 +188,7 @@ Sandro Cilurzo                        ,.-' >.'
     if args.crawl:
         logger.info('Hostnames to crawl via CLI = ' + str(args.hostnames))
         logger.info('Store crawled data at:  ' + args.crawled_dir)
-        crawler.crawl_given_urls(args.hostnames, args.crawled_dir)
+        crawler.crawl_given_hostnames(args.hostnames, args.crawled_dir)
 
     elif args.crawl_list:
         logger.info('Crawl list of hostnames via CLI from: ' + args.urls_list)
@@ -222,7 +223,8 @@ Sandro Cilurzo                        ,.-' >.'
         affinity_propagation.create_affinity_propagation_cluster(doc2vec_model_file_path=args.load_doc2vec_model,
                                                                  tsne_model_file_path=args.load_tsne_model,
                                                                  model_language=args.model_language,
-                                                                 save_to_directory=args.clustering_dir)
+                                                                 save_to_directory=args.clustering_dir,
+                                                                 new_hostnames=args.new_hostnames)
 
     elif args.kmeans:
         logger.info('create K-Means clustering for the given tsne model' + args.load_tsne_model)
@@ -230,13 +232,15 @@ Sandro Cilurzo                        ,.-' >.'
                                         tsne_model_file_path=args.load_tsne_model,
                                         model_language=args.model_language,
                                         k=args.k,
-                                        save_to_directory=args.clustering_dir)
+                                        save_to_directory=args.clustering_dir,
+                                        new_hostnames=args.new_hostnames)
 
     elif args.kmedoid:
         logger.info('create K-Medoid clustering for the given tsne model' + args.load_tsne_model)
         kmedoid.create_kmedoid_clustering(doc2vec_model_file_path=args.load_doc2vec_model,
                                           tsne_model_file_path=args.load_tsne_model,
-                                          start_medoids=args.medoids)
+                                          start_medoids=args.medoids,
+                                          new_hostnames=args.new_hostnames)
 
     elif args.dbscan:
         logger.info('create DBSCAN clustering for the given tsne model' + args.load_tsne_model)
@@ -245,7 +249,8 @@ Sandro Cilurzo                        ,.-' >.'
                                         eps=args.eps,
                                         min_samples=args.min_samples,
                                         model_language=args.model_language,
-                                        save_to_directory=args.clustering_dir)
+                                        save_to_directory=args.clustering_dir,
+                                        new_hostnames=args.new_hostnames)
 
     elif args.agglomerative_clustering:
         logger.info('create agglomerative clustering for the given tsne model' + args.load_tsne_model)
@@ -253,4 +258,5 @@ Sandro Cilurzo                        ,.-' >.'
                                                                  tsne_model_file_path=args.load_tsne_model,
                                                                  numbers_of_clusters=args.cluster_nr,
                                                                  model_language=args.model_language,
-                                                                 save_to_directory=args.clustering_dir)
+                                                                 save_to_directory=args.clustering_dir,
+                                                                 new_hostnames=args.new_hostnames)

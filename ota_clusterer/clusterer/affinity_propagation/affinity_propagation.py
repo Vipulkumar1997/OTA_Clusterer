@@ -68,11 +68,11 @@ def affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, new_
 
     file_name = 'affinity_propagation_cluster-' + model_language + '-' + time.strftime("%d-%b-%Y-%X") + ".png"
     plt.savefig(file_path + file_name, facecolor="w", dpi=90)
-    logger.info("saved " + file_name + "at " + file_path)
+    logger.info("saved " + file_name + " at " + file_path)
 
 
 def create_affinity_propagation_cluster(doc2vec_model_file_path, tsne_model_file_path, model_language,
-                                        save_to_directory):
+                                        save_to_directory, new_hostnames=None):
     """helper function to create affinity propagation clustering plot
     :param doc2vec_model_file_path: file path of doc2vec model
     :param tsne_model_file_path: file path of tsne model
@@ -82,7 +82,7 @@ def create_affinity_propagation_cluster(doc2vec_model_file_path, tsne_model_file
 
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
-    affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, save_to_directory)
+    affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, new_hostnames, save_to_directory)
 
 
 def main():

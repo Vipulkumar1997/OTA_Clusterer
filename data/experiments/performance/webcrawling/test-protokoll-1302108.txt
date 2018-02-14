@@ -1,0 +1,43 @@
+-----------------------------------
+10 Urls:
+2018-02-13 16:55:05 [scrapy.middleware] INFO: Enabled extensions
+2018-02-13 16:59:40 [scrapy.core.engine] INFO: Closing spider (finished)
+
+275 Sekunden
+
+7 von 10 URLS gecrawled (andere ROBOTS.txt disallow)
+828 Seiten gecrawlt und persistiert
+pro Sekunde, 3.0109 Seiten
+---------------------
+------------------------
+20 URLS:
+2018-02-13 17:14:24 [scrapy.middleware] INFO: Enabled extensions:
+2018-02-13 17:20:42 [scrapy.core.engine] INFO: Closing spider (finished)
+
+16 von 20 URLS gecrawled (andere ROBOTS.txt disallow)
+1424 Seiten gecrawlt und persistiert
+
+378 Sekunden
+3.767195767 Seiten pro Sekunde
+
+
+31396 sandro    20   0 1185988 172624  17412 R  89.4  1.1   3:18.34 python
+-----------------------------
+---------------
+50 URLS:
+2018-02-13 17:34:38 [scrapy.middleware] INFO: Enabled extensions:
+2018-02-13 17:49:41 [scrapy.core.engine] INFO: Spider closed (finished)
+99.2% CPU, 1247M Virtual Ram, MEM 1.6%
+load average, 2.95, 2.22, 2.26
+29 von 50 URLS gecrawled (andere ROBOTS.txt disallow)
+
+2615 Seiten gecrawlt und persistiert
+
+903 Sekunden
+2.895902547 Seiten pro Sekunde2.895902547 Seiten pro Sekunde
+
+---------------------------------------------------
+
+Durchschnitt: 3.23 Seiten pro Sekunde
+
+

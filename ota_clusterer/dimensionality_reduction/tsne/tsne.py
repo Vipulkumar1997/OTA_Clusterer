@@ -94,7 +94,7 @@ def create_tsne_for_doc2vec_model_with_new_documents(doc2vec_model_file_path, ne
     
     """
 
-    doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path)
+    doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     doc2vec_vectors_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
                                                                                new_documents=new_documents,
                                                                                model_language=model_language,

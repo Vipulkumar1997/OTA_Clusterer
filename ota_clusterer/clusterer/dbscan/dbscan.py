@@ -94,12 +94,13 @@ def dbscan_clustering(doc2vec_model, tsne_model, eps, min_samples, model_languag
 
     file_name = 'dbscan_cluster-' + model_language + '-' + time.strftime("%d-%b-%Y-%X") + ".png"
     plt.savefig(file_path + file_name, facecolor="w", dpi=90)
-    logger.info("saved " + file_name + "at " + file_path)
+    logger.info("saved " + file_name + " at " + file_path)
 
     plt.show()
 
 
-def create_dbscan_clustering(doc2vec_model_file_path, tsne_model_file_path, eps, min_samples, model_language, save_to_directory):
+def create_dbscan_clustering(doc2vec_model_file_path, tsne_model_file_path, eps, min_samples, model_language,
+                             save_to_directory, new_hostnames=None):
     """helper function to create DBSCAN clustering plot
     :param doc2vec_model_file_path: file path of doc2vec model
     :param tsne_model_file_path: file path of tsne model
@@ -109,13 +110,20 @@ def create_dbscan_clustering(doc2vec_model_file_path, tsne_model_file_path, eps,
 
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
-    dbscan_clustering(doc2vec_model, tsne_model, eps=eps, min_samples=min_samples, model_language=model_language, save_to_directory=save_to_directory)
+
+    dbscan_clustering(doc2vec_model=doc2vec_model,
+                      tsne_model=tsne_model,
+                      eps=eps,
+                      min_samples=min_samples,
+                      model_language=model_language,
+                      new_hostnames=new_hostnames,
+                      save_to_directory=save_to_directory)
 
 
 def main():
-    # example usage for create Agglomerative Clustering
-    doc2vec_model = doc2vec.load_existing_model('doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model('t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-15:14:31.npy')
+    # example usage for create DBSCAN clustering
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-15:14:31.npy')
     dbscan_clustering(doc2vec_model, tsne_model, model_language='german', eps=0.35, min_samples=2)
 
 

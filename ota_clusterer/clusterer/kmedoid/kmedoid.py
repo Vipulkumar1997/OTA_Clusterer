@@ -50,7 +50,7 @@ def kmedoid_clustering(doc2vec_model, tsne_model, start_medoids, new_hostnames=N
     cluster_visualizer.show(k=len(start_medoids), tolerance=tolerance);
 
 
-def create_kmedoid_clustering(doc2vec_model_file_path, tsne_model_file_path, start_medoids):
+def create_kmedoid_clustering(doc2vec_model_file_path, tsne_model_file_path, start_medoids, new_hostnames=None):
     """helper function to create K-Medoid clustering plot
     :param doc2vec_model_file_path: file path of doc2vec model
     :param tsne_model_file_path: file path of tsne model
@@ -60,11 +60,11 @@ def create_kmedoid_clustering(doc2vec_model_file_path, tsne_model_file_path, sta
 
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
-    kmedoid_clustering(doc2vec_model, tsne_model, start_medoids)
+    kmedoid_clustering(doc2vec_model, tsne_model, start_medoids, new_hostnames=new_hostnames)
 
 
 def main():
-    # example usage for create Agglomerative Clustering
+    # example usage for create K-Medoid Clustering
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
     tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
     kmedoid_clustering(doc2vec_model, tsne_model, start_medoids=[0, 5, 10, 15, 20])

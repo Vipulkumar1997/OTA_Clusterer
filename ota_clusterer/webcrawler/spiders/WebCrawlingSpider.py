@@ -32,6 +32,9 @@ class WebCrawlingSpider(CrawlSpider):
         super().__init__()
 
     def create_data_directory(self):
+        """create for each hostname a director yto store results (data)
+
+        """
         if not os.path.exists(self.RESPONSE_FILE_PATH + self.hostname):
             try:
                 os.makedirs(self.RESPONSE_FILE_PATH + self. hostname)
@@ -40,6 +43,11 @@ class WebCrawlingSpider(CrawlSpider):
                     raise
 
     def parse_page(self, response):
+        """parsing the html response and persist the extracted text
+        :param response: html response from the spider
+
+        """
+
         soup = BeautifulSoup(response.body, 'html.parser')
         visible_text = self.get_visible_text(soup)
         visible_text = visible_text.encode('utf-8')
@@ -49,6 +57,13 @@ class WebCrawlingSpider(CrawlSpider):
         self.persist_webpage_text(webpage_name, visible_text)
 
     def persist_webpage_text(self, webpage_name, webpage_text):
+        """ persisting the extracted text
+
+        :param webpage_name: file name for persisting
+        :param webpage_text: extracted text to persist
+
+        """
+
         file_name = '%s.txt' % webpage_name
         file_path = self.RESPONSE_FILE_PATH + self.hostname + '/'
         with open(file_path + file_name, 'wb') as f:
@@ -56,11 +71,23 @@ class WebCrawlingSpider(CrawlSpider):
             self.log('Saved file %s at %s' % (file_name, file_path))
 
     def get_visible_text(self, soup):
+        """ extract all in a browser visible text from html response (BeautifulSoup object)
+        :param soup: BeautifulSoup object
+        :return: visible text
+
+
+        """
         data = soup.findAll(text=True)
         visible_text = list(filter(self.check_if_text_is_visible, data))
         return u"\n".join(t.strip() for t in visible_text)
 
     def check_if_text_is_visible(self, element):
+        """check if text is visible in browser
+        :param element: html element
+        :return: True or False if html element is visible or not
+
+        """
+
         if element.parent.name in ['style', 'script', '[document]', 'head']:
             return False
         elif isinstance(element, Comment):

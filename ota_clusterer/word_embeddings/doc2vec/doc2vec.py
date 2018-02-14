@@ -340,7 +340,7 @@ def get_doc_vectors_for_new_documents(doc2vec_model, documents_folder_name, docu
 
 
 def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None):
-    """creates a new doc2vec model
+    """helper function to create a new doc2vec model
     :param documents_file_path: file path to the crawled and stored documents
     :param save_to_directory: where to save the doc2vec model
     :return: english and german doc2vec model

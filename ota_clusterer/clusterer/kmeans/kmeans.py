@@ -95,7 +95,8 @@ def kmeans_clustering(doc2vec_model, tsne_model, model_language, k=3, new_hostna
     plt.show()
 
 
-def create_kmeans_clustering(doc2vec_model_file_path, tsne_model_file_path, model_language, k, save_to_directory):
+def create_kmeans_clustering(doc2vec_model_file_path, tsne_model_file_path, model_language, k, save_to_directory,
+                             new_hostnames=None):
     """helper function to create K-Means clustering plot
     :param doc2vec_model_file_path: file path of doc2vec model
     :param tsne_model_file_path: file path of tsne model
@@ -106,7 +107,11 @@ def create_kmeans_clustering(doc2vec_model_file_path, tsne_model_file_path, mode
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
 
-    kmeans_clustering(doc2vec_model=doc2vec_model, tsne_model=tsne_model, model_language=model_language, k=k,
+    kmeans_clustering(doc2vec_model=doc2vec_model,
+                      tsne_model=tsne_model,
+                      model_language=model_language,
+                      k=k,
+                      new_hostnames=new_hostnames,
                       save_to_directory=save_to_directory)
 
 

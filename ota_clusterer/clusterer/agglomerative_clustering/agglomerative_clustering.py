@@ -83,7 +83,7 @@ def agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters, mod
 
 
 def create_agglomerative_clustering(doc2vec_model_file_path, tsne_model_file_path, numbers_of_clusters, model_language,
-                                    save_to_directory):
+                                    save_to_directory, new_hostnames=None):
     """helper function to create agglomerative clustering plot
     :param doc2vec_model_file_path: file path of doc2vec model
     :param tsne_model_file_path: file path of tsne model
@@ -93,7 +93,13 @@ def create_agglomerative_clustering(doc2vec_model_file_path, tsne_model_file_pat
 
     doc2vec_model = doc2vec.load_existing_model(doc2vec_model_file_path=doc2vec_model_file_path)
     tsne_model = tsne.load_tsne_model(tsne_model_file_path=tsne_model_file_path)
-    agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters, model_language, save_to_directory)
+
+    agglomerative_clustering(doc2vec_model=doc2vec_model,
+                             tsne_model=tsne_model,
+                             numbers_of_clusters=numbers_of_clusters,
+                             model_language=model_language,
+                             new_hostnames=new_hostnames,
+                             save_to_directory=save_to_directory)
 
 
 def main():
