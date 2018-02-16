@@ -10,3 +10,4 @@ Twisted==17.5.0
 nltk==3.2.4
 beautifulsoup4==4.6.0
 scikit_learn==0.19.1
+pillow==4.2.1
