@@ -1,0 +1,108 @@
+16. Februar 2018
+
+Performance Tests doc2vec Modell:
+
+experiment 1 --> full sample approach:
+Full Sample Size --> crawling_data folder = 174 --> measure time
+174 URLS = Full Sample --> Training Set
+
+INFO:__main__:Start building doc2vec model: 16-Feb-2018-23:02:46
+
+INFO:__main__:start read in files
+INFO:__main__:Added 11203 documents to the english document corpus
+INFO:__main__:Added 6358 documents to the german document corpus
+INFO:__main__:start building Doc2Vec model
+INFO:gensim.models.doc2vec:collecting all words and their counts
+INFO:gensim.models.doc2vec:PROGRESS: at example #0, processed 0 words (0/s), 0 word types, 0 tags
+INFO:gensim.models.doc2vec:PROGRESS: at example #10000, processed 15330970 words (6048528/s), 124860 word types, 110 tags
+INFO:gensim.models.doc2vec:collected 129886 word types and 125 unique tags from a corpus of 11203 examples and 16569912 words
+INFO:gensim.models.word2vec:Loading a fresh vocabulary
+INFO:gensim.models.word2vec:min_count=1 retains 129886 unique words (100% of original 129886, drops 0)
+INFO:gensim.models.word2vec:min_count=1 leaves 16569912 word corpus (100% of original 16569912, drops 0)
+INFO:gensim.models.word2vec:deleting the raw counts dictionary of 129886 items
+INFO:gensim.models.word2vec:sample=1e-05 downsamples 4093 most-common words
+INFO:gensim.models.word2vec:downsampling leaves estimated 4836265 word corpus (29.2% of prior 16569912)
+INFO:gensim.models.word2vec:estimated required memory for 129886 words and 300 dimensions: 376844400 bytes
+INFO:gensim.models.word2vec:resetting layer weights
+INFO:__main__:model's vocubulary length: 129887
+INFO:__main__:start to train the model
+
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND 
+574 sandro    20   0 2758852 1.821g  36464 S 295.8 11.7  39:25.93 python                                                                                                                                                                                                      
+
+INFO:__main__:doc2vec model created and saved at: 17-Feb-2018-02:14:05
+----------------------------------------------------------------------------------------------------------------------
+
+
+experiment 2: predictive power for new data:
+using in doc2vec.py --> random.sample(folders_in_directory, 122)
+70% --> 'Hold Out Method' = 122 URLS in Training Set --> measure time
+30% --> Validation
+
+random.seed(9998)
+folders_in_directory = random.sample(folders_in_directory, 122)
+
+INFO:__main__:Start building doc2vec model: 16-Feb-2018-20:17:56
+INFO:__main__:start read in files
+INFO:__main__:Added 7260 documents to the english document corpus
+INFO:__main__:Added 4726 documents to the german document corpus
+INFO:__main__:start building Doc2Vec model
+INFO:gensim.models.doc2vec:collecting all words and their counts
+INFO:gensim.models.doc2vec:PROGRESS: at example #0, processed 0 words (0/s), 0 word types, 0 tags
+INFO:gensim.models.doc2vec:collected 96496 word types and 88 unique tags from a corpus of 7260 examples and 9478884 words
+INFO:gensim.models.word2vec:Loading a fresh vocabulary
+INFO:gensim.models.word2vec:min_count=1 retains 96496 unique words (100% of original 96496, drops 0)
+INFO:gensim.models.word2vec:min_count=1 leaves 9478884 word corpus (100% of original 9478884, drops 0)
+INFO:gensim.models.word2vec:deleting the raw counts dictionary of 96496 items
+INFO:gensim.models.word2vec:sample=1e-05 downsamples 3942 most-common words
+INFO:gensim.models.word2vec:downsampling leaves estimated 2759866 word corpus (29.1% of prior 9478884)
+INFO:gensim.models.word2vec:estimated required memory for 96496 words and 300 dimensions: 279961600 bytes
+INFO:gensim.models.word2vec:resetting layer weights
+INFO:__main__:model's vocubulary length: 96497
+
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND        
+30835 sandro    20   0 2127436 1.219g  36964 S 295.8  7.8  33:00.55 python                                                                                                                                                                                                      
+
+INFO:__main__:doc2vec model created and saved at: 16-Feb-2018-22:17:59
+
+----------------------------------------------------------------------------------------------------------------------
+
+experiment 3: performance benchmarking
+using in doc2vec.py --> 
+
+random.seed(9999)
+random.sample(folders_in_directory, 87)
+
+50% of full sample --> 87 URLS --> 
+INFO:__main__:Start building doc2vec model: 16-Feb-2018-17:50:16
+
+INFO:__main__:Added 5258 documents to the english document corpus
+INFO:__main__:Added 4103 documents to the german document corpus
+INFO:__main__:start building Doc2Vec model
+INFO:gensim.models.doc2vec:collecting all words and their counts
+INFO:gensim.models.doc2vec:PROGRESS: at example #0, processed 0 words (0/s), 0 word types, 0 tags
+INFO:gensim.models.doc2vec:collected 71230 word types and 57 unique tags from a corpus of 5258 examples and 8277364 words
+INFO:gensim.models.word2vec:Loading a fresh vocabulary
+INFO:gensim.models.word2vec:min_count=1 retains 71230 unique words (100% of original 71230, drops 0)
+INFO:gensim.models.word2vec:min_count=1 leaves 8277364 word corpus (100% of original 8277364, drops 0)
+INFO:gensim.models.word2vec:deleting the raw counts dictionary of 71230 items
+INFO:gensim.models.word2vec:sample=1e-05 downsamples 3823 most-common words
+INFO:gensim.models.word2vec:downsampling leaves estimated 2201705 word corpus (26.6% of prior 8277364)
+INFO:gensim.models.word2vec:estimated required memory for 71230 words and 300 dimensions: 206646800 bytes
+INFO:gensim.models.word2vec:resetting layer weights
+INFO:__main__:model's vocubulary length: 71231
+INFO:__main__:start to train the model
+INFO:gensim.models.word2vec:training model with 3 workers on 71231 vocabulary and 300 features, using sg=1 hs=0 sample=1e-05 negative=5 window=15
+INFO:gensim.models.word2vec:PROGRESS: at 0.26% examples, 54317 words/s, in_qsize 6, out_qsize 0
+
+top - 17:57:32 up  9:53,  1 user,  load average: 3.65, 2.86, 1.76
+Tasks: 268 total,   2 running, 202 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 77.9 us,  1.2 sy,  0.0 ni, 19.8 id,  0.1 wa,  0.7 hi,  0.2 si,  0.0 st
+KiB Mem : 16331516 total,  1085956 free,  5124984 used, 10120576 buff/cache
+KiB Swap:  8237052 total,  8237052 free,        0 used.  9827984 avail Mem 
+
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND   
+27735 sandro    20   0 1925636 1.026g  36564 S 296.0  6.6  11:47.29 python                                                                                                                                                                                                      
+INFO:__main__:doc2vec model created and saved at: 16-Feb-2018-19:25:23
+
+

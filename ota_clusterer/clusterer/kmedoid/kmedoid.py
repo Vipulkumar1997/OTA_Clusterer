@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Sandro Cilurzo'
+
 from pyclustering.cluster.kmedoids import kmedoids;
 from pyclustering.utils import timedcall;
 from ota_clusterer import logger

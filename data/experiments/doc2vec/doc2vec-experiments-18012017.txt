@@ -1,0 +1,36 @@
+Experiments with unseen data - 18.01.2018
+
+
+Doc2Vec Model: 'doc2vec-model-german-11-Dec-2017-17:07:03'
+
+Unseen vector: 'fckickers.ch'
+
+NFO:__main__:get document similarities by new vector
+
+[('sckriens.ch', 0.40469104051589966), ('lups.ch', 0.34424665570259094), ('fcsg.ch', 0.3074800670146942), ('fcl.ch', 0.3037199378013611), ('fcthun.ch', 0.30233076214790344), ('gcz.ch', 0.3008279800415039), ('evz.ch', 0.29517796635627747), ('zsclions.ch', 0.2675178647041321), ('scb.ch', 0.25531134009361267), ('kloten-flyers.ch', 0.2144353836774826)]
+
+Unseen vector: 'pdgr.ch'
+
+[('lups.ch', 0.49983930587768555), ('klinik-zugersee.ch', 0.42367029190063477), ('www.pbl.ch', 0.35424354672431946), ('sonnenhalde.ch', 0.35231029987335205), ('praettigau.info', 0.3194885849952698), ('evz.ch', 0.2719363570213318), ('www.pukzh.ch', 0.2706100642681122), ('fcl.ch', 0.26148656010627747), ('familotel.com', 0.2575565576553345), ('scb.ch', 0.2516106367111206)]
+
+
+Doc2Vec Model: doc2vec-model-english-11-Dec-2017-17:07:03
+
+Unseen vector: 'outtraveler.com'
+
+[('travelocity.com', 0.2732499837875366), ('orbitz.com', 0.25917237997055054), ('intrepidtravel.com', 0.2501589059829712), ('cheaptickets.com', 0.24151313304901123), ('iglta.org', 0.23448912799358368), ('gaytravel.com', 0.23323184251785278), ('gaywelcome.com', 0.2187465876340866), ('flipkey.com', 0.21461224555969238), ('i-escape.com', 0.20411287248134613), ('worldrainbowhotels.com', 0.20343799889087677)]
+
+
+Unseen vector: 'adventurelink.com'
+[('laterooms.com', 0.32873690128326416), ('lastminutetravel.com', 0.30235129594802856), ('cheapholidaybookings.com', 0.29622262716293335), ('prestigia.com', 0.28002703189849854), ('ab-in-den-urlaub.de', 0.2455151081085205), ('cheaptickets.com', 0.2448214590549469), ('priceline.com', 0.24468106031417847), ('healingholidays.co.uk', 0.2441505491733551), ('homeaway.com', 0.23972168564796448), ('hostelworld.com', 0.23536641895771027)]
+
+
+Unseen vector: 'tucantravel.com'
+[('intrepidtravel.com', 0.39474815130233765), ('exodus.co.uk', 0.3799395263195038), ('worldexpeditions.com', 0.3488079309463501), ('happygaytravel.com', 0.3282477855682373), ('explore.co.uk', 0.3094260096549988), ('gadventures.com', 0.28677982091903687), ('elegantresorts.co.uk', 0.2740415632724762), ('holidaybazaar.com', 0.26623067259788513), ('outofoffice.com', 0.2500802278518677), ('sovereign.com', 0.2348632663488388)]
+
+
+
+Doc2Vec Model: doc2vec-model-german-11-Dec-2017-17:07:03
+
+Unseen vector: 'statravel.ch'
+[('ltur.com', 0.3120192289352417), ('schmetterling.de', 0.3084648549556732), ('pinktours.de', 0.2778114974498749), ('lakers.ch', 0.27609947323799133), ('fcthun.ch', 0.27100396156311035), ('gcz.ch', 0.26944059133529663), ('bimaris-adventure.com', 0.2630158066749573), ('fcsg.ch', 0.26121681928634644), ('reisen.de', 0.2565684914588928), ('misterbandb.com', 0.2556852102279663)]

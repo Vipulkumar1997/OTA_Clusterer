@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Sandro Cilurzo'
+
 import csv
 from scrapy.utils.project import get_project_settings
 from scrapy.utils.log import configure_logging
@@ -7,6 +11,7 @@ from ota_clusterer import settings
 from ota_clusterer import logger
 from ota_clusterer.webcrawler.spiders.WebCrawlingSpider import WebCrawlingSpider
 import ota_clusterer.webcrawler.settings as scrapy_settings
+
 
 
 logger = logger.get_logger()

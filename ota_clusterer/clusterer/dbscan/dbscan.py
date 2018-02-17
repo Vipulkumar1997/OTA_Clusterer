@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Sandro Cilurzo'
+
 import time
 import numpy as np
 import matplotlib.pyplot as plt

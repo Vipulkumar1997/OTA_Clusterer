@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Sandro Cilurzo'
+
 import logging
 
 logging.basicConfig(level=logging.INFO)

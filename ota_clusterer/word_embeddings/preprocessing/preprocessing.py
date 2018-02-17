@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Sandro Cilurzo'
+
 import gensim.utils
 from nltk.corpus import stopwords
 from ota_clusterer import settings

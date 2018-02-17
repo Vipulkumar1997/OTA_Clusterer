@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Sandro Cilurzo'
+
 from setuptools import setup, find_packages
 
 setup(name='ota_clusterer',

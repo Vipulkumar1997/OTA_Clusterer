@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Sandro Cilurzo'
+
 import time
 import os
 import errno
@@ -104,6 +108,16 @@ def create_tsne_for_doc2vec_model_with_new_documents(doc2vec_model_file_path, ne
 
 
 def main():
+    # Some examples...
+
+    # Create 2D t-SNE Model
+    logger.info('Start building t-SNE Model at: ' + time.strftime("%d-%b-%Y-%X"))
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-17-Feb-2018-02:14:04')
+    doc2vec_vector_matrix = doc2vec.get_doc_vectors_matrix(doc2vec_model)
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'test-delete-model')
+    logger.info('Finished building t-SNE Model at: ' + time.strftime("%d-%b-%Y-%X"))
+
+    '''
     # Example to to create tsne model with unseen data
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
     doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
@@ -112,6 +126,8 @@ def main():
                                                                                model_language='german')
 
     create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'cluster-unseen-data-doc2vec-german')
+
+    '''
 
 
 if __name__ == "__main__":

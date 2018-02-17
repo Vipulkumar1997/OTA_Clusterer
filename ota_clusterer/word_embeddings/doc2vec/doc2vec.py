@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Sandro Cilurzo'
+
 import gensim
 import os
 import errno
@@ -368,17 +372,23 @@ def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None):
 
 
 def main():
+    # Some examples...
+
+    # Create a new doc2vec model:
     # create_new_doc2vec_model()
-    # get doc2vec similarities
-    doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
+
+    # Get doc2vec similarities from given model
+    doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
     print(get_doc_similarities_by_document_name(doc2vec_model, 'booking-valais.ch'))
 
-    # Experiments with unseen data
-    doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
+    ''' Get doc similarities of new data (not included in training set)
+    doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
     doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model=doc2vec_model,
                                                                                 documents_folder_name='statravel.ch')
     print(get_doc_similarities_by_new_vector(doc2vec_model, doc_vectors_english))
     print(get_doc_similarities_by_new_vector(doc2vec_model, doc_vectors_german))
+    
+    '''
 
 
 if __name__ == "__main__":

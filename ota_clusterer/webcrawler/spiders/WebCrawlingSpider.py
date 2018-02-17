@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Sandro Cilurzo'
+
 import os
 import errno
 from scrapy.spiders import CrawlSpider, Rule
