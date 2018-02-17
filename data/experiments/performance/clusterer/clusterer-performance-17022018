@@ -1,0 +1,567 @@
+17. Februar 2018
+
+Clusterer Performance:
+--------------------------------
+
+Used doc2vec model:
+
+doc2vec-model-english-17-Feb-2018-02:14:04
+doc2vec-model-german-17-Feb-2018-02:14:04
+
+
+Used t-SNE model:
+
+t-sne-full-model-doc2vec-model-english-opt-params-17-Feb-2018-14:20:40.npy
+t-sne-full-model-doc2vec-model-german-opt-params-17-Feb-2018-14:24:10.npy
+
+
+Affinity Propagation:
+
+Full-Model-English
+
+INFO:__main__:Start building Affinity Propgation Cluster at: 17-Feb-2018-15:09:20
+INFO:__main__:Start creating affinity propagation cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:saved affinity_propagation_cluster-english-17-Feb-2018-15:09:21.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/affinity_propagation/
+INFO:__main__:Finished building Affinity Propgation Cluster at: 17-Feb-2018-15:09:24
+
+Full-Model-German
+
+INFO:__main__:Start building Affinity Propgation Cluster at: 17-Feb-2018-15:10:45
+INFO:__main__:Start creating affinity propagation cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:saved affinity_propagation_cluster-german-17-Feb-2018-15:10:46.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/affinity_propagation/
+INFO:__main__:Finished building Affinity Propgation Cluster at: 17-Feb-2018-15:10:49
+
+-------------------------------
+
+K-Means:
+
+Full-Model-English
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:38:42
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:K-Means Parameters: k = 3, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-english-17-Feb-2018-15:38:42.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:38:47
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:39:14
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:K-Means Parameters: k = 5, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-english-17-Feb-2018-15:39:14.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:39:22
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:39:46
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:K-Means Parameters: k = 8, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-english-17-Feb-2018-15:39:46.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:39:56
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:40:16
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:K-Means Parameters: k = 10, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-english-17-Feb-2018-15:40:17.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:40:48
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:41:19
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:K-Means Parameters: k = 13, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-english-17-Feb-2018-15:41:19.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:41:37
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:41:54
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:K-Means Parameters: k = 15, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-english-17-Feb-2018-15:41:54.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:42:37
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:42:54
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:K-Means Parameters: k = 20, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-english-17-Feb-2018-15:42:55.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:43:09
+
+Full-Model-German
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:44:17
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:K-Means Parameters: k = 3, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-german-17-Feb-2018-15:44:18.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:44:27
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:44:49
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:K-Means Parameters: k = 5, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-german-17-Feb-2018-15:44:49.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:44:53
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:45:22
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:K-Means Parameters: k = 8, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-german-17-Feb-2018-15:45:22.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:45:28
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:46:00
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:K-Means Parameters: k = 10, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-german-17-Feb-2018-15:46:01.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:46:32
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:46:58
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:K-Means Parameters: k = 13, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-german-17-Feb-2018-15:46:59.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:47:25
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:47:50
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:K-Means Parameters: k = 15, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-german-17-Feb-2018-15:47:50.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:48:06
+
+INFO:__main__:Start building K-Means Clustering at: 17-Feb-2018-15:48:31
+INFO:__main__:Start creating K-Means Clustering...
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:K-Means Parameters: k = 20, random_state= 0
+INFO:__main__:Start training K-Means Model...
+INFO:__main__:K-Means model sucessfully built...start with visualization
+INFO:__main__:start creating color plot...
+INFO:__main__:The centroids are getted plotted as white x...
+INFO:__main__:saved kmeans_cluster-german-17-Feb-2018-15:48:31.pngat /home/sandro/vm1/OTA_Clusterer/data/experiments/kmeans/
+INFO:__main__:Finished building K-Means Clustering at: 17-Feb-2018-15:48:48
+
+
+-------------------------------
+
+
+K-Medoid:
+
+Full-Model-English
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-15:52:31
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 3
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.10971600000000015
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-15:53:49
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 5
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.05196599999999996
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-15:54:54
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 8
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.03889900000000002
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-15:55:42
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 10
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.10171200000000002
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-16:10:57
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 13
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.1200000000000001
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-15:57:07
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 15
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.10487000000000002
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-16:09:47
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 125
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 20
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.07642799999999994
+
+
+
+---------------------------------------
+
+Full-Model-German
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-16:00:05
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 3
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.05186000000000002
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-16:01:12
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 5
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.05883399999999983
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-16:02:18
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 8
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.041061000000000014
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-16:03:19
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 10
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.06206200000000006
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-16:07:15
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 13
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.0589090000000001
+
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-16:04:40
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 15
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start building K-Medoid Clustering at: 17-Feb-2018-16:08:27
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Cluster...
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Amount of Datapoints Labels = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Length of the t-sne model = 98
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Number of Medoids = 20
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Given Medoids = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95]
+INFO:ota_clusterer.dimensionality_reduction.tsne.tsne:Start creating K-Medoid Model...
+Sample:  		Execution time:  0.065909
+
+
+-----------------------------
+
+
+Agglomerative Clustering:
+
+Full-Model-English
+INFO:__main__:Start building Agglomerative Clustering at: 17-Feb-2018-15:13:38
+INFO:__main__:Start creating Agglomerative Cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:38.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:40.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:41.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:43.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:44.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:46.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:47.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:49.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:50.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:52.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:54.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-english-17-Feb-2018-15:13:55.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:Finished building Agglomerative Clustering at: 17-Feb-2018-15:15:12
+
+Full-Model-German
+INFO:__main__:Start building Agglomerative Clustering at: 17-Feb-2018-15:17:09
+INFO:__main__:Start creating Agglomerative Cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:10.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:11.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:12.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:14.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:15.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:16.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:17.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:19.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:20.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:22.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:23.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:saved agglomerative_clustering-german-17-Feb-2018-15:17:24.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/agglomerative_clustering/
+INFO:__main__:Finished building Agglomerative Clustering at: 17-Feb-2018-15:19:53
+
+
+------------------------------
+
+DBSCAN:
+
+Full-Model-English
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:22:38
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:DBSCAN Parameters: eps = 0.35, min_samples= 2
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-english-17-Feb-2018-15:22:38.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:23:04
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:25:56
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:DBSCAN Parameters: eps = 0.35, min_samples= 3
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-english-17-Feb-2018-15:25:56.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:25:58
+
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:26:26
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:DBSCAN Parameters: eps = 0.35, min_samples= 4
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-english-17-Feb-2018-15:26:26.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:26:29
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:26:53
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:DBSCAN Parameters: eps = 1, min_samples= 2
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-english-17-Feb-2018-15:26:54.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:27:03
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:27:30
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:DBSCAN Parameters: eps = 0.1, min_samples= 2
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-english-17-Feb-2018-15:27:30.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:27:38
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:28:02
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:DBSCAN Parameters: eps = 0.2, min_samples= 2
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-english-17-Feb-2018-15:28:03.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:28:10
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:28:51
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:DBSCAN Parameters: eps = 0.3, min_samples= 3
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-english-17-Feb-2018-15:28:51.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:28:56
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:29:27
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 125
+INFO:__main__:Length of the t-sne model = 125
+INFO:__main__:DBSCAN Parameters: eps = 0.35, min_samples= 3
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-english-17-Feb-2018-15:29:27.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:29:43
+
+
+Full-Model-German
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:31:06
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:DBSCAN Parameters: eps = 0.35, min_samples= 2
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-german-17-Feb-2018-15:31:06.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:31:30
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:32:01
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:DBSCAN Parameters: eps = 0.35, min_samples= 3
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-german-17-Feb-2018-15:32:01.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:32:15
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:32:40
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:DBSCAN Parameters: eps = 0.35, min_samples= 4
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-german-17-Feb-2018-15:32:40.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:32:48
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:33:26
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:DBSCAN Parameters: eps = 1, min_samples= 2
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-german-17-Feb-2018-15:33:26.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:33:33
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:34:07
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:DBSCAN Parameters: eps = 0.1, min_samples= 2
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-german-17-Feb-2018-15:34:07.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:34:14
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:34:35
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:DBSCAN Parameters: eps = 0.2, min_samples= 2
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-german-17-Feb-2018-15:34:36.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:34:44
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:35:10
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:DBSCAN Parameters: eps = 0.3, min_samples= 3
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-german-17-Feb-2018-15:35:10.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:35:13
+
+INFO:__main__:Start building DBSCAN at: 17-Feb-2018-15:35:37
+INFO:__main__:Start creating DBSCAN Cluster...
+INFO:__main__:Amount of Datapoints Labels = 98
+INFO:__main__:Length of the t-sne model = 98
+INFO:__main__:DBSCAN Parameters: eps = 0.35, min_samples= 3
+INFO:__main__:Start fitting DBSCAN Algorithm
+INFO:__main__:Sucessfully created DBSCAN Model...start creating visuallization
+INFO:__main__:saved dbscan_cluster-german-17-Feb-2018-15:35:37.png at /home/sandro/vm1/OTA_Clusterer/data/experiments/dbscan/
+INFO:__main__:Finished building DBSCAN at: 17-Feb-2018-15:35:46
+
+-------------------------
