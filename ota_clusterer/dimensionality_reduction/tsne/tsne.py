@@ -111,11 +111,9 @@ def main():
     # Some examples...
 
     # Create 2D t-SNE Model
-    logger.info('Start building t-SNE Model at: ' + time.strftime("%d-%b-%Y-%X"))
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-17-Feb-2018-02:14:04')
     doc2vec_vector_matrix = doc2vec.get_doc_vectors_matrix(doc2vec_model)
     create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'test-delete-model')
-    logger.info('Finished building t-SNE Model at: ' + time.strftime("%d-%b-%Y-%X"))
 
     '''
     # Example to to create tsne model with unseen data
