@@ -112,8 +112,21 @@ def main():
     tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
     agglomerative_clustering(doc2vec_model, tsne_model, numbers_of_clusters=[5, 10, 15, 20, 25, 30], model_language='german')
 
+    '''
+    
+    # example for Agglomerative Clustering with new data
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-16-Feb-2018-22:17:58')
+    tsne_model = tsne.load_tsne_model(
+        model_file_name='t-sne-70-doc2vec-model-new-data-english-18-Feb-2018-12:53:16.npy')
+    agglomerative_clustering(doc2vec_model,
+                             tsne_model,
+                             model_language='70-model-new-data-english',
+                             numbers_of_clusters=[5, 10, 15, 20, 25, 30],
+                             new_hostnames=['laterooms.com',
+                                            'intrepidtravel.com',
+                                            'wellbeingescapes.com',
+                                            'agoda.com'])
+    '''
 
 if __name__ == "__main__":
     main()
-
-

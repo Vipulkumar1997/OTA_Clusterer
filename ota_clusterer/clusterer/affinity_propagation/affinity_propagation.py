@@ -91,9 +91,21 @@ def create_affinity_propagation_cluster(doc2vec_model_file_path, tsne_model_file
 
 def main():
     # example usage for creating an affinity propagation cluster
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
-    affinity_propagation_cluster(doc2vec_model, tsne_model, 'german')
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-16-Feb-2018-22:17:58')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-70-doc2vec-model-english-17-Feb-2018-12:20:19.npy')
+    affinity_propagation_cluster(doc2vec_model, tsne_model, 'english')
+
+    '''
+    
+    # experiment with affinity propagation cluster and new added data points
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-full-doc2vec-model-new-data-german-18-Feb-2018-13:42:39.npy')
+    affinity_propagation_cluster(doc2vec_model, tsne_model, model_language='full-model-new-data-german', new_hostnames=['upkbs.ch',
+                                                                                              'curaneo.ch',
+                                                                                              'bscyb.ch',
+                                                                                              'scltigers.ch',
+                                                                                              'graubuenden.ch'])
+    '''
 
 
 if __name__ == "__main__":

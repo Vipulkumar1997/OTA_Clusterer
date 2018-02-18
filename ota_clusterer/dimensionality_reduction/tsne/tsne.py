@@ -113,18 +113,26 @@ def main():
     # Create 2D t-SNE Model
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-17-Feb-2018-02:14:04')
     doc2vec_vector_matrix = doc2vec.get_doc_vectors_matrix(doc2vec_model)
-    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'test-delete-model')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'full-model-doc2vec-model-english')
 
-    '''
-    # Example to to create tsne model with unseen data
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
+
+    ''' 
+    
+    Example to to create tsne model with new data
+    
+    logger.info('Start building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
     doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
-                                                                               new_documents=['fckickers.ch',
-                                                                                              'pdgr.ch'],
-                                                                               model_language='german')
-
-    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'cluster-unseen-data-doc2vec-german')
-
+                                                                               new_documents=['upkbs.ch',
+                                                                                              'curaneo.ch',
+                                                                                              'bscyb.ch',
+                                                                                              'scltigers.ch',
+                                                                                              'graubuenden.ch'],
+                                                                               model_language='german',
+                                                                               documents_file_path='/home/sandro/vm1/OTA_Clusterer/data/crawling_data_experiments/')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'full-doc2vec-model-new-data-german')
+    logger.info('Finished building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+    
     '''
 
 

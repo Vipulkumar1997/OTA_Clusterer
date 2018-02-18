@@ -1,0 +1,164 @@
+18. Februar 2018
+
+new-data (english):
+laterooms.com
+intrepidtravel.com
+wellbeingescapes.com
+agoda.com
+
+used 70%-doc2vec model:
+doc2vec-model-english-16-Feb-2018-22:17:58
+
+create tsne model (english) for new data:
+
+tsne models params:
+
+    tsne = sklearn.manifold.TSNE(n_components=2,
+                                 perplexity=30,
+                                 early_exaggeration=12,
+                                 learning_rate=1,
+                                 init='pca',
+                                 n_iter=20000,
+                                 random_state=2,
+                                 verbose=5)
+
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-16-Feb-2018-22:17:58')
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=['laterooms.com',
+                                                                                              'intrepidtravel.com',
+                                                                                              'wellbeingescapes.com',
+                                                                                              'agoda.com'],
+                                                                               model_language='english')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, '70-doc2vec-model-new-data-english')
+
+
+INFO:__main__:Start building tsne model with new data at: 18-Feb-2018-12:52:51
+[t-SNE] Error after 1350 iterations: 0.497427
+INFO:__main__:Finished building tsne model with new data at: 18-Feb-2018-12:53:16
+
+-----------------------------------------------------
+
+create tsne model (german) for new data:
+
+new-data(german):
+familotel.com
+regenbogenurlaub.de
+lakers.ch
+swisshotels.com
+ebookers.ch
+
+used 70% docvec model:
+doc2vec-model-german-16-Feb-2018-22:17:59
+
+create t-sne model (german) for new data:
+
+    tsne = sklearn.manifold.TSNE(n_components=2,
+                                 perplexity=30,
+                                 early_exaggeration=12,
+                                 learning_rate=1,
+                                 init='pca',
+                                 n_iter=20000,
+                                 random_state=2,
+                                 verbose=5)
+
+
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-16-Feb-2018-22:17:59')
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=['familotel.com',
+                                                                                              'regenbogenurlaub.de',
+                                                                                              'lakers.ch',
+                                                                                              'swisshotels.com',
+                                                                                              'ebookers.ch'],
+                                                                               model_language='german')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, '70-doc2vec-model-new-data-german')
+
+INFO:__main__:Start building tsne model with new data at: 18-Feb-2018-12:58:07
+[t-SNE] Error after 1450 iterations: 0.319691
+INFO:__main__:Finished building tsne model with new data at: 18-Feb-2018-12:58:13
+
+--------------------------------------------------------------------------------------------------------------
+
+# complete new data for full-model
+
+surfholidays.com (english)
+olivia.com (english)
+damron.com (english)
+holidaytouch.com (english)
+
+Crawler.py:
+    directory_to_save_results = settings.DATA_DIR + 'crawling_data_experiments/'
+    hostnames = ['surfholidays.com', 'olivia.com', 'damron.com', 'holidaytouch.com']
+    crawl_given_hostnames(hostnames, directory_to_save_results)
+
+used full-doc2vec-model:
+doc2vec-model-english-17-Feb-2018-02:14:04
+
+    tsne = sklearn.manifold.TSNE(n_components=2,
+                                 perplexity=30,
+                                 early_exaggeration=12,
+                                 learning_rate=200,
+                                 init='pca',
+                                 n_iter=20000,
+                                 random_state=2,
+                                 verbose=5)
+
+
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-17-Feb-2018-02:14:04')
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=['surfholidays.com',
+                                                                                              'olivia.com',
+                                                                                              'damron.com',
+                                                                                              'holidaytouch.com'],
+                                                                               model_language='english')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'full-doc2vec-model-new-data-english')
+
+
+
+INFO:__main__:Start building tsne model with new data at: 18-Feb-2018-13:22:33
+[t-SNE] Error after 5200 iterations: 1.024350
+INFO:__main__:Finished building tsne model with new data at: 18-Feb-2018-13:22:49
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+# complete new data for full-model
+
+upkbs.ch (german)
+curaneo.ch (german)
+bscyb.ch (german)
+scltigers.ch (german)
+graubuenden.ch (german)
+
+
+used doc2vec model:
+doc2vec-model-german-17-Feb-2018-02:14:04
+
+
+Crawler.py
+
+    directory_to_save_results = settings.DATA_DIR + 'crawling_data_experiments/'
+    hostnames = ['upkbs.ch', 'curaneo.ch', 'bscyb.ch', 'scltigers.ch', 'graubuenden.ch']
+    crawl_given_hostnames(hostnames, directory_to_save_results)
+
+    # Example to to create tsne model with unseen data
+    logger.info('Start building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=['upkbs.ch',
+                                                                                              'curaneo.ch',
+                                                                                              'bscyb.ch',
+                                                                                              'scltigers.ch',
+                                                                                              'graubuenden.ch'],
+                                                                               model_language='german',
+                                                                               documents_file_path='/home/sandro/vm1/OTA_Clusterer/data/crawling_data_experiments/')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'full-doc2vec-model-new-data-german')
+    logger.info('Finished building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+
+
+INFO:__main__:Start building tsne model with new data at: 18-Feb-2018-13:42:29
+[t-SNE] Error after 3350 iterations: 0.558532
+INFO:__main__:Finished building tsne model with new data at: 18-Feb-2018-13:42:39
+
+

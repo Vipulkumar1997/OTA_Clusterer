@@ -42,15 +42,15 @@ def kmedoid_clustering(doc2vec_model, tsne_model, start_medoids, new_hostnames=N
     tolerance = 0.2
     kmedoids_instance = kmedoids(tsne_model, start_medoids, tolerance);
     (ticks, result) = timedcall(kmedoids_instance.process)
-    
+
     clusters = kmedoids_instance.get_clusters();
     medoids = kmedoids_instance.get_medoids();
-    print("Sample: ",  "\t\tExecution time: ", ticks, "\n");
+    print("Sample: ", "\t\tExecution time: ", ticks, "\n");
 
     cluster_visualizer = ClusterVisualizer(1, data=tsne_model, labels=data_point_labels);
     cluster_visualizer.append_clusters(clusters, tsne_model, 0);
 
-    cluster_visualizer.append_cluster(medoids, marker = '*', markersize = 12, color='red')
+    cluster_visualizer.append_cluster(medoids, marker='*', markersize=12, color='red')
     cluster_visualizer.show(k=len(start_medoids), tolerance=tolerance);
 
 
@@ -72,6 +72,22 @@ def main():
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
     tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
     kmedoid_clustering(doc2vec_model, tsne_model, start_medoids=[0, 5, 10, 15, 20])
+
+    '''
+    
+    # example usage K-Medoid Clustering with new data
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-full-doc2vec-model-new-data-german-18-Feb-2018-13:42:39.npy')
+    kmedoid_clustering(doc2vec_model,
+                       tsne_model,
+                       start_medoids=[0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60],
+                       new_hostnames=['upkbs.ch',
+                                      'curaneo.ch',
+                                      'bscyb.ch',
+                                      'scltigers.ch',
+                                      'graubuenden.ch'])
+                                      
+    '''
 
 
 if __name__ == "__main__":

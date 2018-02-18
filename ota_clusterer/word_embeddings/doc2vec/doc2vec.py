@@ -121,7 +121,7 @@ def preprocess_new_documents(documents_path):
                                                                                                      document_language)
                         preprocessed_and_concatenated_documents_german += preprocessed_document
 
-        logger.info('Concatenated and preprocessed ' + str(english_documents_counter) + 'to one english document')
+        logger.info('Concatenated and preprocessed ' + str(english_documents_counter) + ' to one english document')
         logger.info('Concatenated and preprocessed ' + str(german_documents_counter) + ' to one german document')
 
         return preprocessed_and_concatenated_documents_english, preprocessed_and_concatenated_documents_german

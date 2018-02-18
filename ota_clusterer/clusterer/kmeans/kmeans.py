@@ -48,7 +48,7 @@ def kmeans_clustering(doc2vec_model, tsne_model, model_language, k=3, new_hostna
     logger.info('K-Means model sucessfully built...start with visualization')
 
     # Step size of the mesh. Decrease to increase the quality of the VQ.
-    h = .02     # point in the mesh [x_min, x_max]x[y_min, y_max].
+    h = .02  # point in the mesh [x_min, x_max]x[y_min, y_max].
 
     # Plot the decision boundary. For that, we will assign a color to each
     x_min, x_max = tsne_model[:, 0].min() - 1, tsne_model[:, 0].max() + 1
@@ -125,10 +125,22 @@ def main():
     tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
     kmeans_clustering(doc2vec_model, tsne_model, model_language='german', k=10)
 
+    '''
+    
     # experiment with K-Means and new added data points
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-15:14:31.npy')
-    kmeans_clustering(doc2vec_model, tsne_model, model_language='german', new_hostnames=['kickers.ch', 'pdgr.ch'], k=10)
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-16-Feb-2018-22:17:58')
+    tsne_model = tsne.load_tsne_model(
+        model_file_name='t-sne-70-doc2vec-model-new-data-english-18-Feb-2018-12:53:16.npy')
+    kmeans_clustering(doc2vec_model,
+                      tsne_model,
+                      model_language='english',
+                      new_hostnames=['laterooms.com',
+                                     'intrepidtravel.com',
+                                     'wellbeingescapes.com',
+                                     'agoda.com'],
+                      k=15)
+
+   '''
 
 
 if __name__ == "__main__":

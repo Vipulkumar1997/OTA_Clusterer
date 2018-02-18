@@ -101,8 +101,8 @@ def main():
     # crawl_list_of_hostnames(urls_list, directory_to_save_results)
 
     # Example to crawl just specific urls
-    directory_to_save_results = settings.DATA_DIR + 'crawling_data_tests/'
-    hostnames = ['meissenberg.ch', 'klinik-zugersee.ch']
+    directory_to_save_results = settings.DATA_DIR + 'crawling_data_experiments/'
+    hostnames = ['upkbs.ch', 'curaneo.ch', 'bscyb.ch', 'scltigers.ch', 'graubuenden.ch']
     crawl_given_hostnames(hostnames, directory_to_save_results)
 
 

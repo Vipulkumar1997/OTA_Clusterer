@@ -16,7 +16,8 @@ logger = logger.get_logger()
 logger.name = __name__
 
 
-def dbscan_clustering(doc2vec_model, tsne_model, eps, min_samples, model_language, new_hostnames=None, save_to_directory=None):
+def dbscan_clustering(doc2vec_model, tsne_model, eps, min_samples, model_language, new_hostnames=None,
+                      save_to_directory=None):
     """ Creates DBSCAN clustering for given tsne model
     :param doc2vec_model: used to infer data point labels (keys)
     :param tsne_model: tsne model to apply clustering
@@ -129,6 +130,24 @@ def main():
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
     tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-15:14:31.npy')
     dbscan_clustering(doc2vec_model, tsne_model, model_language='german', eps=0.35, min_samples=2)
+
+    '''
+    
+    # example usage to create DBSCAN clustering for new data
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-full-doc2vec-model-new-data-german-18-Feb-2018-13:42:39.npy')
+    dbscan_clustering(doc2vec_model,
+                      tsne_model,
+                      model_language='full-model-new-data-german',
+                      eps=0.3,
+                      min_samples=2,
+                      new_hostnames=['upkbs.ch',
+                                     'curaneo.ch',
+                                     'bscyb.ch',
+                                     'scltigers.ch',
+                                     'graubuenden.ch'])
+
+    '''
 
 
 if __name__ == "__main__":
