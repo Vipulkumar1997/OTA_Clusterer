@@ -127,10 +127,9 @@ def main():
 
     '''
     
-    # experiment with K-Means and new added data points
+    # example with K-Means and new added data points
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-16-Feb-2018-22:17:58')
-    tsne_model = tsne.load_tsne_model(
-        model_file_name='t-sne-70-doc2vec-model-new-data-english-18-Feb-2018-12:53:16.npy')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-70-doc2vec-model-new-data-english-18-Feb-2018-12:53:16.npy')
     kmeans_clustering(doc2vec_model,
                       tsne_model,
                       model_language='english',

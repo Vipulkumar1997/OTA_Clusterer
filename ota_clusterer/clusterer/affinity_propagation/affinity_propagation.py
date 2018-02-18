@@ -97,7 +97,7 @@ def main():
 
     '''
     
-    # experiment with affinity propagation cluster and new added data points
+    # example with affinity propagation cluster and new added data points
     doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
     tsne_model = tsne.load_tsne_model(model_file_name='t-sne-full-doc2vec-model-new-data-german-18-Feb-2018-13:42:39.npy')
     affinity_propagation_cluster(doc2vec_model, tsne_model, model_language='full-model-new-data-german', new_hostnames=['upkbs.ch',

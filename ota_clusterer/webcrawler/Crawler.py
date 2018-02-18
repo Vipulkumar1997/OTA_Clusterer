@@ -95,15 +95,18 @@ def crawl_list_of_hostnames(urls_list_file_path, directory_to_save_results):
 
 
 def main():
-    # Example to crawl list of urls - performance tests
-    # urls_list = settings.DATA_DIR + 'experiments/performance/webcrawling/urls-to-crawl-50.csv'
-    # directory_to_save_results = settings.DATA_DIR + 'crawling_data_tests/'
-    # crawl_list_of_hostnames(urls_list, directory_to_save_results)
-
     # Example to crawl just specific urls
     directory_to_save_results = settings.DATA_DIR + 'crawling_data_experiments/'
     hostnames = ['upkbs.ch', 'curaneo.ch', 'bscyb.ch', 'scltigers.ch', 'graubuenden.ch']
     crawl_given_hostnames(hostnames, directory_to_save_results)
+
+    '''
+    # Example to crawl list of urls
+    urls_list = settings.DATA_DIR + 'urls/urls-to-crawl.csv'
+    directory_to_save_results = settings.DATA_DIR + 'experiments/crawling_data_experiments/'
+    crawl_list_of_hostnames(urls_list, directory_to_save_results)
+    
+    '''
 
 
 if __name__ == "__main__":
