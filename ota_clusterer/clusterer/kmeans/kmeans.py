@@ -88,7 +88,7 @@ def kmeans_clustering(doc2vec_model, tsne_model, model_language, k=3, new_hostna
     plt.yticks(())
 
     if save_to_directory is None:
-        file_path = settings.DATA_DIR + "experiments/kmeans/"
+        file_path = settings.DATA_DIR + "experiments/clusterer/kmeans/"
     else:
         file_path = save_to_directory
 
@@ -121,9 +121,9 @@ def create_kmeans_clustering(doc2vec_model_file_path, tsne_model_file_path, mode
 
 def main():
     # example usage for create K-Means Clustering
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
-    kmeans_clustering(doc2vec_model, tsne_model, model_language='german', k=10)
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_70_model-german-18-Feb-2018-18:53:39')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-single_language_70-model-doc2vec-model-german-18-Feb-2018-19:06:45.npy')
+    kmeans_clustering(doc2vec_model, tsne_model, model_language='single_language_70_german', k=10)
 
     '''
     

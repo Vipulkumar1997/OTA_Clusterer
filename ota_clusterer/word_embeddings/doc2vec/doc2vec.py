@@ -17,11 +17,12 @@ logger = logger.get_logger()
 logger.name = __name__
 
 
-def create_document_corpus_by_language(documents_path):
+def create_document_corpus_by_language(documents_path, single_language_support=False):
     """ reads in crawled documents and create a doc2vec document corpus
     previous crawled documents gets preprocessed and a doc2vec document corpus gets build separated by language (german
     and english)
     :param documents_path: file path of the crawled documents
+    :param single_language_support: just support one language per hostname
     :return: german and english document corpus
     """
 
@@ -45,6 +46,12 @@ def create_document_corpus_by_language(documents_path):
                 raise IOError
 
             else:
+
+                if single_language_support is True:
+                    logger.info('single language support is enabled')
+                    preprocessed_documents_by_directory_english = []
+                    preprocessed_documents_by_directory_german = []
+
                 logger.info('start read in files')
                 for file_name in file_names:
                     with open(file_name, 'r') as file:
@@ -60,10 +67,42 @@ def create_document_corpus_by_language(documents_path):
                                                                                ["{}".format(tagged_document_name)])
 
                         if document_language == 'english':
-                            preprocessed_documents_corpus_english.append(tagged_document)
+                            if single_language_support is True:
+                                preprocessed_documents_by_directory_english.append(tagged_document)
+                            else:
+                                preprocessed_documents_corpus_english.append(tagged_document)
 
                         elif document_language == 'german':
-                            preprocessed_documents_corpus_german.append(tagged_document)
+                            if single_language_support is True:
+                                preprocessed_documents_by_directory_german.append(tagged_document)
+                            else:
+                                preprocessed_documents_corpus_german.append(tagged_document)
+
+                if single_language_support is True:
+                    number_of_english_documents = len(preprocessed_documents_by_directory_english)
+                    number_of_german_documents = len(preprocessed_documents_by_directory_german)
+
+                    if number_of_english_documents > number_of_german_documents:
+                        for document in preprocessed_documents_by_directory_english:
+                            preprocessed_documents_corpus_english.append(document)
+
+                        logger.info(
+                            'added ' + str(number_of_english_documents) + ' documents from ' + folder_name + ' to english corpus')
+
+                    elif number_of_german_documents > number_of_english_documents:
+                        for document in preprocessed_documents_by_directory_german:
+                            preprocessed_documents_corpus_german.append(document)
+
+                        logger.info(
+                            'added ' + str(number_of_german_documents) + ' documents from ' + folder_name + ' to german corpus')
+
+                    elif number_of_english_documents == number_of_german_documents:
+                        logger.info('added documents of ' + folder_name + ' to both corpus')
+                        for document in preprocessed_documents_by_directory_english:
+                            preprocessed_documents_corpus_english.append(document)
+
+                        for document in preprocessed_documents_by_directory_german:
+                            preprocessed_documents_corpus_german.append(document)
 
         logger.info(
             'Added ' + str(len(preprocessed_documents_corpus_english)) + ' documents to the english document corpus')
@@ -343,7 +382,7 @@ def get_doc_vectors_for_new_documents(doc2vec_model, documents_folder_name, docu
     return doc_vectors_english, doc_vectors_german
 
 
-def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None):
+def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None, single_language_support=False):
     """helper function to create a new doc2vec model
     :param documents_file_path: file path to the crawled and stored documents
     :param save_to_directory: where to save the doc2vec model
@@ -360,7 +399,8 @@ def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None):
         logger.info('No documets file path has been given, default file path used: ' + str(documents_file_path))
 
     logger.info('Start creating new doc2vec model...')
-    document_corpus_english, document_corpus_german = create_document_corpus_by_language(documents_file_path)
+    document_corpus_english, document_corpus_german = create_document_corpus_by_language(documents_file_path,
+                                                                                         single_language_support)
 
     doc2vec_model_english = create_doc2vec_model(document_corpus_english)
     doc2vec_model_german = create_doc2vec_model(document_corpus_german)
@@ -374,14 +414,18 @@ def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None):
 def main():
 
     # Get doc2vec similarities from given model and document
-    doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
-    print(get_doc_similarities_by_document_name(doc2vec_model, 'booking-valais.ch'))
+    # doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
+    # print(get_doc_similarities_by_document_name(doc2vec_model, 'booking-valais.ch'))
 
-    ''' 
+
     # Some examples...
-    # Create a new doc2vec model based on data from: data/crawling_data:
-    create_new_doc2vec_model()
-    
+    # Create new doc2vec model based on data from data/crawling_data:
+    # create_new_doc2vec_model()
+
+    # Create a new 'single_language_support' doc2vec model based on data from: data/crawling_data:
+    create_new_doc2vec_model(single_language_support=True)
+
+    '''
     # Get doc similarities of new data (not included in training set)
     doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
     doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model=doc2vec_model,

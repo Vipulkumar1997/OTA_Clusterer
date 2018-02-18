@@ -103,8 +103,12 @@ Sandro Cilurzo                        ,.-' >.'
                               action='store_true',
                               dest='crawl_list')
 
+    doc2vec_cli.add_argument('-single_language',
+                             help='Optional parameter: True or False')
+
     doc2vec_cli.add_argument('--doc2vec_model',
-                             help='creates a new doc2vec model (required params: -crawled_dir, -models_dir)',
+                             help='creates a new doc2vec model (required params: -crawled_dir, -models_dir) '
+                                  '(optional params: -single_language',
                              action='store_true',
                              dest='create_doc2vec_model')
 
@@ -204,7 +208,8 @@ Sandro Cilurzo                        ,.-' >.'
                     ' and store data at ' + args.models_dir)
 
         doc2vec.create_new_doc2vec_model(documents_file_path=args.crawled_dir,
-                                         save_to_directory=args.models_dir)
+                                         save_to_directory=args.models_dir,
+                                         single_language_support=args.single_language)
 
     elif args.create_tsne_model:
         logger.info('create tsne model from CLI from following doc2vec model: ' + args.load_doc2vec_model)

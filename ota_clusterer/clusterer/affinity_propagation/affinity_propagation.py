@@ -66,7 +66,7 @@ def affinity_propagation_cluster(doc2vec_model, tsne_model, model_language, new_
                          textcoords="offset points", va="center", ha="left")
 
     if save_to_directory is None:
-        file_path = settings.DATA_DIR + "experiments/affinity_propagation/"
+        file_path = settings.DATA_DIR + "experiments/clusterer/affinity_propagation/"
     else:
         file_path = save_to_directory
 
@@ -91,9 +91,11 @@ def create_affinity_propagation_cluster(doc2vec_model_file_path, tsne_model_file
 
 def main():
     # example usage for creating an affinity propagation cluster
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-16-Feb-2018-22:17:58')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-70-doc2vec-model-english-17-Feb-2018-12:20:19.npy')
-    affinity_propagation_cluster(doc2vec_model, tsne_model, 'english')
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_70_model-english-18-Feb-2018-18:53:39')
+    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-single_language_70-model-doc2vec-model-english-18-Feb-2018-19:04:39.npy')
+    affinity_propagation_cluster(doc2vec_model=doc2vec_model,
+                                 tsne_model=tsne_model,
+                                 model_language='single_language_70_english')
 
     '''
     

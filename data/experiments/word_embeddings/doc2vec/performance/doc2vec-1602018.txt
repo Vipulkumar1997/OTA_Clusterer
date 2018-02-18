@@ -106,3 +106,38 @@ PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
 INFO:__main__:doc2vec model created and saved at: 16-Feb-2018-19:25:23
 
 
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+-----------------------------------------------------
+
+single language support doc2vec model (70% Model):
+
+
+
+random.seed(9998)
+folders_in_directory = random.sample(folders_in_directory, 122)
+
+INFO:__main__:Added 7199 documents to the english document corpus
+INFO:__main__:Added 4674 documents to the german document corpus
+INFO:__main__:start building Doc2Vec model
+INFO:gensim.models.doc2vec:collecting all words and their counts
+INFO:gensim.models.doc2vec:PROGRESS: at example #0, processed 0 words (0/s), 0 word types, 0 tags
+INFO:gensim.models.doc2vec:collected 94892 word types and 74 unique tags from a corpus of 7199 examples and 9436371 words
+INFO:gensim.models.word2vec:Loading a fresh vocabulary
+INFO:gensim.models.word2vec:min_count=1 retains 94892 unique words (100% of original 94892, drops 0)
+INFO:gensim.models.word2vec:min_count=1 leaves 9436371 word corpus (100% of original 9436371, drops 0)
+INFO:gensim.models.word2vec:deleting the raw counts dictionary of 94892 items
+INFO:gensim.models.word2vec:sample=1e-05 downsamples 3931 most-common words
+INFO:gensim.models.word2vec:downsampling leaves estimated 2736477 word corpus (29.0% of prior 9436371)
+INFO:gensim.models.word2vec:estimated required memory for 94892 words and 300 dimensions: 275290400 bytes
+INFO:gensim.models.word2vec:resetting layer weights
+INFO:__main__:model's vocubulary length: 94893
+INFO:__main__:start to train the model
+INFO:gensim.models.word2vec:training on 432036200 raw words (149043320 effective words) took 2470.9s, 60319 effective words/s
+
