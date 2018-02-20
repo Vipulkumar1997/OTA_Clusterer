@@ -918,3 +918,156 @@ INFO:__main__:get document vectors matrix of doc2vec model
 [t-SNE] Iteration 700: error = 0.1177092, gradient norm = 0.0002144 (50 iterations in 0.024s)
 [t-SNE] Iteration 700: did not make any progress during the last 300 episodes. Finished.
 [t-SNE] Error after 700 iterations: 0.117709
+
+--------------------------------------------------------------------------------
+experiment 7: full model single language
+
+
+english doc2vec model:
+doc2vec-single_language_full-model-english-18-Feb-2018-22:31:27
+
+    tsne = sklearn.manifold.TSNE(n_components=2,
+                                 perplexity=30,
+                                 early_exaggeration=12,
+                                 learning_rate=1,
+                                 init='pca',
+                                 n_iter=20000,
+                                 random_state=2,
+                                 verbose=5)
+
+
+INFO:summa.preprocessing.cleaner:'pattern' package not found; tag filters are not available for English
+INFO:__main__:Loading doc2vec models directly from project structure...
+INFO:gensim.utils:loaded /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-single_language_full-model-english-18-Feb-2018-22:31:27
+INFO:__main__:get document vectors matrix of doc2vec model
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Indexed 104 samples in 0.000s...
+[t-SNE] Computed neighbors for 104 samples in 0.004s...
+[t-SNE] Computed conditional probabilities for sample 104 / 104
+[t-SNE] Mean sigma: 2.240081
+[t-SNE] Computed conditional probabilities in 0.006s
+[t-SNE] Iteration 50: error = 40.4041100, gradient norm = 0.0000291 (50 iterations in 0.083s)
+[t-SNE] Iteration 100: error = 39.8482590, gradient norm = 0.0000000 (50 iterations in 0.065s)
+[t-SNE] Iteration 100: gradient norm 0.000000. Finished.
+[t-SNE] KL divergence after 100 iterations with early exaggeration: 39.848259
+[t-SNE] Iteration 150: error = 0.8821005, gradient norm = 0.0000406 (50 iterations in 0.072s)
+[t-SNE] Iteration 200: error = 0.6595177, gradient norm = 0.0065185 (50 iterations in 0.073s)
+[t-SNE] Iteration 250: error = 0.6475067, gradient norm = 0.0015166 (50 iterations in 0.068s)
+[t-SNE] Iteration 300: error = 0.6438179, gradient norm = 0.0008786 (50 iterations in 0.081s)
+[t-SNE] Iteration 350: error = 0.6410890, gradient norm = 0.0009649 (50 iterations in 0.082s)
+[t-SNE] Iteration 400: error = 0.6391312, gradient norm = 0.0006283 (50 iterations in 0.071s)
+[t-SNE] Iteration 450: error = 0.6392439, gradient norm = 0.0003507 (50 iterations in 0.072s)
+[t-SNE] Iteration 500: error = 0.6394256, gradient norm = 0.0002521 (50 iterations in 0.074s)
+[t-SNE] Iteration 550: error = 0.6390682, gradient norm = 0.0001530 (50 iterations in 0.073s)
+[t-SNE] Iteration 600: error = 0.6391240, gradient norm = 0.0001682 (50 iterations in 0.078s)
+[t-SNE] Iteration 650: error = 0.6390850, gradient norm = 0.0003321 (50 iterations in 0.074s)
+[t-SNE] Iteration 700: error = 0.6392780, gradient norm = 0.0003121 (50 iterations in 0.090s)
+[t-SNE] Iteration 750: error = 0.6391994, gradient norm = 0.0002198 (50 iterations in 0.083s)
+[t-SNE] Iteration 800: error = 0.6393997, gradient norm = 0.0001696 (50 iterations in 0.073s)
+[t-SNE] Iteration 850: error = 0.6387061, gradient norm = 0.0002061 (50 iterations in 0.077s)
+[t-SNE] Iteration 900: error = 0.6386687, gradient norm = 0.0001426 (50 iterations in 0.073s)
+[t-SNE] Iteration 950: error = 0.6387215, gradient norm = 0.0001706 (50 iterations in 0.070s)
+[t-SNE] Iteration 1000: error = 0.6391127, gradient norm = 0.0002422 (50 iterations in 0.067s)
+[t-SNE] Iteration 1050: error = 0.6391619, gradient norm = 0.0001855 (50 iterations in 0.068s)
+[t-SNE] Iteration 1100: error = 0.6392660, gradient norm = 0.0001193 (50 iterations in 0.069s)
+[t-SNE] Iteration 1150: error = 0.6392530, gradient norm = 0.0000630 (50 iterations in 0.067s)
+[t-SNE] Iteration 1200: error = 0.6392362, gradient norm = 0.0000684 (50 iterations in 0.071s)
+[t-SNE] Iteration 1250: error = 0.6392647, gradient norm = 0.0000803 (50 iterations in 0.071s)
+[t-SNE] Iteration 1250: did not make any progress during the last 300 episodes. Finished.
+[t-SNE] Error after 1250 iterations: 0.639265
+
+
+
+german doc2vec model:
+
+doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27
+
+    tsne = sklearn.manifold.TSNE(n_components=2,
+                                 perplexity=30,
+                                 early_exaggeration=12,
+                                 learning_rate=200,
+                                 init='pca',
+                                 n_iter=20000,
+                                 random_state=2,
+                                 verbose=5)
+
+
+INFO:summa.preprocessing.cleaner:'pattern' package not found; tag filters are not available for English
+INFO:__main__:Loading doc2vec models directly from project structure...
+INFO:gensim.utils:loaded /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27
+INFO:__main__:get document vectors matrix of doc2vec model
+[t-SNE] Computing 72 nearest neighbors...
+[t-SNE] Indexed 73 samples in 0.000s...
+[t-SNE] Computed neighbors for 73 samples in 0.002s...
+[t-SNE] Computed conditional probabilities for sample 73 / 73
+[t-SNE] Mean sigma: 2.498504
+[t-SNE] Computed conditional probabilities in 0.004s
+[t-SNE] Iteration 50: error = 75.6000824, gradient norm = 0.3061000 (50 iterations in 0.055s)
+[t-SNE] Iteration 100: error = 70.4388962, gradient norm = 0.4928880 (50 iterations in 0.048s)
+[t-SNE] Iteration 150: error = 74.2288589, gradient norm = 0.3829055 (50 iterations in 0.041s)
+[t-SNE] Iteration 200: error = 69.4923172, gradient norm = 0.3508304 (50 iterations in 0.047s)
+[t-SNE] Iteration 250: error = 67.9259872, gradient norm = 0.4040065 (50 iterations in 0.042s)
+[t-SNE] KL divergence after 250 iterations with early exaggeration: 67.925987
+[t-SNE] Iteration 300: error = 1.2838544, gradient norm = 0.0021584 (50 iterations in 0.040s)
+[t-SNE] Iteration 350: error = 0.9498695, gradient norm = 0.0010019 (50 iterations in 0.043s)
+[t-SNE] Iteration 400: error = 0.8190098, gradient norm = 0.0008458 (50 iterations in 0.041s)
+[t-SNE] Iteration 450: error = 0.7569840, gradient norm = 0.0004163 (50 iterations in 0.042s)
+[t-SNE] Iteration 500: error = 0.7022674, gradient norm = 0.0003042 (50 iterations in 0.042s)
+[t-SNE] Iteration 550: error = 0.6797945, gradient norm = 0.0002010 (50 iterations in 0.040s)
+[t-SNE] Iteration 600: error = 0.6613310, gradient norm = 0.0002803 (50 iterations in 0.039s)
+[t-SNE] Iteration 650: error = 0.6383896, gradient norm = 0.0002549 (50 iterations in 0.040s)
+[t-SNE] Iteration 700: error = 0.6224854, gradient norm = 0.0003392 (50 iterations in 0.040s)
+[t-SNE] Iteration 750: error = 0.6059023, gradient norm = 0.0002458 (50 iterations in 0.044s)
+[t-SNE] Iteration 800: error = 0.5871959, gradient norm = 0.0002769 (50 iterations in 0.042s)
+[t-SNE] Iteration 850: error = 0.5745513, gradient norm = 0.0002219 (50 iterations in 0.040s)
+[t-SNE] Iteration 900: error = 0.5697542, gradient norm = 0.0001148 (50 iterations in 0.039s)
+[t-SNE] Iteration 950: error = 0.5659145, gradient norm = 0.0001549 (50 iterations in 0.047s)
+[t-SNE] Iteration 1000: error = 0.5625333, gradient norm = 0.0000639 (50 iterations in 0.046s)
+[t-SNE] Iteration 1050: error = 0.5607277, gradient norm = 0.0000549 (50 iterations in 0.040s)
+[t-SNE] Iteration 1100: error = 0.5562279, gradient norm = 0.0001223 (50 iterations in 0.040s)
+[t-SNE] Iteration 1150: error = 0.5529017, gradient norm = 0.0001232 (50 iterations in 0.039s)
+[t-SNE] Iteration 1200: error = 0.5411888, gradient norm = 0.0002499 (50 iterations in 0.042s)
+[t-SNE] Iteration 1250: error = 0.5284294, gradient norm = 0.0001124 (50 iterations in 0.043s)
+[t-SNE] Iteration 1300: error = 0.5238566, gradient norm = 0.0001180 (50 iterations in 0.040s)
+[t-SNE] Iteration 1350: error = 0.5167043, gradient norm = 0.0001821 (50 iterations in 0.039s)
+[t-SNE] Iteration 1400: error = 0.5139511, gradient norm = 0.0000709 (50 iterations in 0.039s)
+[t-SNE] Iteration 1450: error = 0.5122163, gradient norm = 0.0000717 (50 iterations in 0.040s)
+[t-SNE] Iteration 1500: error = 0.5087076, gradient norm = 0.0001681 (50 iterations in 0.043s)
+[t-SNE] Iteration 1550: error = 0.5011067, gradient norm = 0.0002614 (50 iterations in 0.043s)
+[t-SNE] Iteration 1600: error = 0.4974175, gradient norm = 0.0000932 (50 iterations in 0.041s)
+[t-SNE] Iteration 1650: error = 0.4965761, gradient norm = 0.0000972 (50 iterations in 0.039s)
+[t-SNE] Iteration 1700: error = 0.4953458, gradient norm = 0.0001574 (50 iterations in 0.040s)
+[t-SNE] Iteration 1750: error = 0.4789815, gradient norm = 0.0006803 (50 iterations in 0.040s)
+[t-SNE] Iteration 1800: error = 0.4775641, gradient norm = 0.0001975 (50 iterations in 0.044s)
+[t-SNE] Iteration 1850: error = 0.4739784, gradient norm = 0.0001776 (50 iterations in 0.040s)
+[t-SNE] Iteration 1900: error = 0.4705862, gradient norm = 0.0003802 (50 iterations in 0.039s)
+[t-SNE] Iteration 1950: error = 0.4575432, gradient norm = 0.0091874 (50 iterations in 0.039s)
+[t-SNE] Iteration 2000: error = 0.3429343, gradient norm = 0.0218008 (50 iterations in 0.040s)
+[t-SNE] Iteration 2050: error = 0.3418289, gradient norm = 0.0266113 (50 iterations in 0.042s)
+[t-SNE] Iteration 2100: error = 0.3141784, gradient norm = 0.0264158 (50 iterations in 0.046s)
+[t-SNE] Iteration 2150: error = 0.2908446, gradient norm = 0.0145070 (50 iterations in 0.042s)
+[t-SNE] Iteration 2200: error = 0.2949968, gradient norm = 0.0197996 (50 iterations in 0.042s)
+[t-SNE] Iteration 2250: error = 0.3000752, gradient norm = 0.0128032 (50 iterations in 0.040s)
+[t-SNE] Iteration 2300: error = 0.2843788, gradient norm = 0.0113584 (50 iterations in 0.041s)
+[t-SNE] Iteration 2350: error = 0.3153581, gradient norm = 0.0110911 (50 iterations in 0.043s)
+[t-SNE] Iteration 2400: error = 0.2953969, gradient norm = 0.0156532 (50 iterations in 0.042s)
+[t-SNE] Iteration 2450: error = 0.2896511, gradient norm = 0.0154926 (50 iterations in 0.054s)
+[t-SNE] Iteration 2500: error = 0.2944913, gradient norm = 0.0122754 (50 iterations in 0.041s)
+[t-SNE] Iteration 2550: error = 0.2919044, gradient norm = 0.0136821 (50 iterations in 0.040s)
+[t-SNE] Iteration 2600: error = 0.2843827, gradient norm = 0.0123265 (50 iterations in 0.043s)
+[t-SNE] Iteration 2650: error = 0.2805265, gradient norm = 0.0067759 (50 iterations in 0.045s)
+[t-SNE] Iteration 2700: error = 0.2820225, gradient norm = 0.0111843 (50 iterations in 0.043s)
+[t-SNE] Iteration 2750: error = 0.2809613, gradient norm = 0.0070663 (50 iterations in 0.045s)
+[t-SNE] Iteration 2800: error = 0.2800423, gradient norm = 0.0020917 (50 iterations in 0.043s)
+[t-SNE] Iteration 2850: error = 0.2805476, gradient norm = 0.0079049 (50 iterations in 0.044s)
+[t-SNE] Iteration 2900: error = 0.2798888, gradient norm = 0.0028326 (50 iterations in 0.045s)
+[t-SNE] Iteration 2950: error = 0.2796331, gradient norm = 0.0016941 (50 iterations in 0.048s)
+[t-SNE] Iteration 3000: error = 0.2800134, gradient norm = 0.0011791 (50 iterations in 0.050s)
+[t-SNE] Iteration 3050: error = 0.2799573, gradient norm = 0.0012179 (50 iterations in 0.046s)
+[t-SNE] Iteration 3100: error = 0.2811389, gradient norm = 0.0083743 (50 iterations in 0.049s)
+[t-SNE] Iteration 3150: error = 0.2810367, gradient norm = 0.0090560 (50 iterations in 0.045s)
+[t-SNE] Iteration 3200: error = 0.2804446, gradient norm = 0.0042172 (50 iterations in 0.046s)
+[t-SNE] Iteration 3250: error = 0.2806228, gradient norm = 0.0067247 (50 iterations in 0.044s)
+[t-SNE] Iteration 3300: error = 0.2802835, gradient norm = 0.0060099 (50 iterations in 0.046s)
+[t-SNE] Iteration 3300: did not make any progress during the last 300 episodes. Finished.
+[t-SNE] Error after 3300 iterations: 0.280283

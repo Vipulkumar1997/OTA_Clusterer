@@ -111,9 +111,9 @@ def main():
     # Some examples...
 
     # Create 2D t-SNE Model
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_70_model-german-18-Feb-2018-18:53:39')
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
     doc2vec_vector_matrix = doc2vec.get_doc_vectors_matrix(doc2vec_model)
-    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'single_language_70-model-doc2vec-model-german')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'single_language_full-model-doc2vec-model-german')
 
 
     ''' 

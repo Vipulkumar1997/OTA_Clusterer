@@ -107,12 +107,27 @@ INFO:__main__:doc2vec model created and saved at: 16-Feb-2018-19:25:23
 
 
 -----------------------------------------------------------------------------------------
+single language support doc2vec model (full model):
 
+NFO:__main__:Added 11116 documents to the english document corpus
+INFO:__main__:Added 6272 documents to the german document corpus
+INFO:__main__:start building Doc2Vec model
 
-
-
-
-
+INFO:gensim.models.word2vec:training on 553759100 raw words (199857759 effective words) took 3312.3s, 60338 effective words/s
+INFO:__main__:save new doc2vec model at: /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/
+INFO:gensim.utils:saving Doc2Vec object under /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-model-english-18-Feb-2018-22:31:27, separately None
+INFO:gensim.utils:storing np array 'syn0' to /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-model-english-18-Feb-2018-22:31:27.wv.syn0.npy
+INFO:gensim.utils:not storing attribute syn0norm
+INFO:gensim.utils:storing np array 'syn1neg' to /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-model-english-18-Feb-2018-22:31:27.syn1neg.npy
+INFO:gensim.utils:not storing attribute cum_table
+INFO:gensim.utils:saved /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-model-english-18-Feb-2018-22:31:27
+INFO:__main__:save new doc2vec model at: /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/
+INFO:gensim.utils:saving Doc2Vec object under /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-model-german-18-Feb-2018-22:31:27, separately None
+INFO:gensim.utils:storing np array 'syn0' to /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-model-german-18-Feb-2018-22:31:27.wv.syn0.npy
+INFO:gensim.utils:not storing attribute syn0norm
+INFO:gensim.utils:storing np array 'syn1neg' to /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-model-german-18-Feb-2018-22:31:27.syn1neg.npy
+INFO:gensim.utils:not storing attribute cum_table
+INFO:gensim.utils:saved /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2vec-model-german-18-Feb-2018-22:31:27
 
 -----------------------------------------------------
 
@@ -140,4 +155,19 @@ INFO:gensim.models.word2vec:resetting layer weights
 INFO:__main__:model's vocubulary length: 94893
 INFO:__main__:start to train the model
 INFO:gensim.models.word2vec:training on 432036200 raw words (149043320 effective words) took 2470.9s, 60319 effective words/s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
