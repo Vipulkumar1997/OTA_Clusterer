@@ -414,18 +414,17 @@ def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None, s
 def main():
 
     # Get doc2vec similarities from given model and document
-    # doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
-    # print(get_doc_similarities_by_document_name(doc2vec_model, 'booking-valais.ch'))
+    doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
+    print(get_doc_similarities_by_document_name(doc2vec_model, 'booking-valais.ch'))
 
-
+    '''
     # Some examples...
     # Create new doc2vec model based on data from data/crawling_data:
     # create_new_doc2vec_model()
 
     # Create a new 'single_language_support' doc2vec model based on data from: data/crawling_data:
-    create_new_doc2vec_model(single_language_support=True)
+    #create_new_doc2vec_model(single_language_support=True)
 
-    '''
     # Get doc similarities of new data (not included in training set)
     doc2vec_model = load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
     doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model=doc2vec_model,

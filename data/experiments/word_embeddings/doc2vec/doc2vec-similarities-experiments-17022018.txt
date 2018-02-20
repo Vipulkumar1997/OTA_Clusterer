@@ -60,3 +60,71 @@ fcl.ch
 
 sonnenhalde.ch
 [('www.pbl.ch', 0.4674052596092224), ('klinik-zugersee.ch', 0.4392196536064148), ('hohenegg.ch', 0.31212806701660156), ('fcl.ch', 0.2965044379234314), ('zsclions.ch', 0.2896806001663208), ('pinktours.de', 0.2853049039840698), ('sanatorium-kilchberg.ch', 0.2835735082626343), ('fcsg.ch', 0.26937517523765564), ('kur-und-gesundheitsurlaub.de', 0.2671898603439331), ('kloten-flyers.ch', 0.26702725887298584)]
+
+--------------------------------------------------------
+
+experiment 5: single language full model english
+doc2vec-single_language_full-model-english-18-Feb-2018-22:31:27
+
+hostels.com
+[('hostelbookers.com', 0.440707266330719), ('dorms.com', 0.38137727975845337), ('gomio.com', 0.36145222187042236), ('vipbackpackers.com', 0.3449108302593231), ('thinkhotels.com', 0.33260467648506165), ('hostelworld.com', 0.310020387172699), ('budgetplaces.com', 0.2844606339931488), ('bookyogaretreats.com', 0.26994073390960693), ('kasbah.com', 0.2671634554862976), ('tobook.com', 0.26614195108413696)]
+
+gaytravel.com
+[('gaywelcome.com', 0.24310243129730225), ('homeaway.com', 0.2429426610469818), ('travelocity.com', 0.23691534996032715), ('orbitz.com', 0.23355022072792053), ('outtraveler.com', 0.23158547282218933), ('worldrainbowhotels.com', 0.22856028378009796), ('leadingfamilyhotels.com', 0.22166185081005096), ('morehotels4less.com', 0.2166614830493927), ('outofoffice.com', 0.2147904634475708), ('travelbyinterest.com', 0.21405541896820068)]
+
+booking.com
+[('superbreak.com', 0.29768985509872437), ('agoda.com', 0.2555122971534729), ('getyourguide.com', 0.2279784083366394), ('budgetplaces.com', 0.22592714428901672), ('www.wotif.com', 0.22009527683258057), ('homeaway.com', 0.210712730884552), ('triip.me', 0.20096023380756378), ('chicretreats.com', 0.19954439997673035), ('besthotelonline.com', 0.19841955602169037), ('orbitz.com', 0.19786132872104645)]
+
+healthandfitnesstravel.com
+[('healingholidays.co.uk', 0.520483136177063), ('wellbeingescapes.com', 0.45068472623825073), ('spadreams.com', 0.3403868079185486), ('golearnto.com', 0.31437501311302185), ('spabreaks.com', 0.28343895077705383), ('secretplaces.com', 0.2783603072166443), ('elegantresorts.co.uk', 0.276835560798645), ('temptingplaces.com', 0.2517586350440979), ('loveholidays.com', 0.24051828682422638), ('cheaptickets.com', 0.23278558254241943)]
+
+----------------------------------------------------------------
+
+experiment 6: s-l-m german full model
+doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27
+
+regenbogenurlaub.de
+[('pinktours.de', 0.34412074089050293), ('holiman.de', 0.2992299795150757), ('schmetterling.de', 0.20753653347492218), ('booking-valais.ch', 0.1942950189113617), ('reisen.de', 0.19173462688922882), ('lups.ch', 0.18662720918655396), ('swisshotels.com', 0.18359428644180298), ('fcl.ch', 0.16968122124671936), ('online-reisesuche.ch', 0.1680249571800232), ('aktivferien.com', 0.1656564474105835)]
+
+expedia.ch
+[('ebookers.ch', 0.45606058835983276), ('lastminute.de', 0.2676205337047577), ('online-reisesuche.ch', 0.24829307198524475), ('fti.ch', 0.2388746738433838), ('trivago.ch', 0.23487918078899384), ('ltur.com', 0.2140759825706482), ('12-travel.ch', 0.2124425172805786), ('restplatzboerse.ch', 0.20427954196929932), ('travanto.de', 0.20334038138389587), ('shop.flims.com', 0.2027338296175003)]
+
+fcl.ch
+[('fcsg.ch', 0.4062843322753906), ('fcthun.ch', 0.3859516680240631), ('lups.ch', 0.35204625129699707), ('evz.ch', 0.33464062213897705), ('klinik-zugersee.ch', 0.32897502183914185), ('sckriens.ch', 0.3289530277252197), ('lakers.ch', 0.3256821632385254), ('zsclions.ch', 0.3228484094142914), ('fckickers.ch', 0.3117482662200928), ('scb.ch', 0.3089974522590637)]
+
+sonnenhalde.ch
+[('lups.ch', 0.4239542484283447), ('www.pbl.ch', 0.3918627202510834), ('klinik-zugersee.ch', 0.37629038095474243), ('pdgr.ch', 0.3634675443172455), ('www.pukzh.ch', 0.3291286826133728), ('scb.ch', 0.2928289771080017), ('hohenegg.ch', 0.29188820719718933), ('fcl.ch', 0.27017658948898315), ('zermatt.ch', 0.263807475566864), ('kloten-flyers.ch', 0.26217254996299744)]
+
+-------------------------------------------------------------------------------------------
+
+experiment 7: s-l-m english 70 model
+doc2vec-single_language_70_model-english-18-Feb-2018-18:53:39
+
+gomio.com
+[('hostelbookers.com', 0.3514203131198883), ('hostelculture.com', 0.346129834651947), ('dorms.com', 0.32118648290634155), ('vipbackpackers.com', 0.30020400881767273), ('hostelsclub.com', 0.2928062081336975), ('hotelsarea.com', 0.28429558873176575), ('hoteliers.com', 0.2646520733833313), ('budgetplaces.com', 0.22715917229652405), ('hostelworld.com', 0.22351284325122833), ('gaywelcome.com', 0.2090233713388443)]
+
+gaytravel.com
+[('travelocity.com', 0.2682633399963379), ('outtraveler.com', 0.26171284914016724), ('travelbyinterest.com', 0.25802239775657654), ('gaywelcome.com', 0.2545822858810425), ('zuerich.com', 0.25425243377685547), ('priceline.com', 0.2514945864677429), ('worldrainbowhotels.com', 0.2443273365497589), ('luxuryholidayhouses.com', 0.2417130470275879), ('makemytrip.com', 0.23921361565589905), ('healthandfitnesstravel.com', 0.23058536648750305)]
+
+superbreak.com
+[('citybaseapartments.com', 0.2982032895088196), ('outofoffice.com', 0.2727547883987427), ('explore.co.uk', 0.2707860469818115), ('loveholidays.com', 0.26791006326675415), ('slh.com', 0.26072263717651367), ('onthebeach.co.uk', 0.24505160748958588), ('getyourguide.com', 0.2385501265525818), ('holidaybazaar.com', 0.23452672362327576), ('spabreaks.com', 0.2318103164434433), ('elegantresorts.co.uk', 0.23025968670845032)]
+
+healthandfitnesstravel.com
+[('responsibletravel.com', 0.30304405093193054), ('spabreaks.com', 0.2852722406387329), ('sovereign.com', 0.2760758101940155), ('temptingplaces.com', 0.2747935652732849), ('yourholidaybooking.com', 0.27464067935943604), ('loveholidays.com', 0.2595157027244568), ('elegantresorts.co.uk', 0.24861963093280792), ('leadingfamilyhotels.com', 0.24861925840377808), ('slh.com', 0.24845293164253235), ('outofoffice.com', 0.2441128045320511)]
+
+----------------------------------------------------------------------------------------------
+
+experiment 8: s-l-m german 70 model
+doc2vec-single_language_70_model-german-18-Feb-2018-18:53:39
+
+misterbandb.com
+not in model (english page)
+
+expedia.ch
+[('lastminute.ch', 0.26952746510505676), ('ab-ins-blaue.ch', 0.26448172330856323), ('skoosh.de', 0.22711651027202606), ('ab-in-den-urlaub.de', 0.22633400559425354), ('trivago.ch', 0.22163818776607513), ('fti.ch', 0.20641756057739258), ('restplatzboerse.ch', 0.19097882509231567), ('booking-valais.ch', 0.18124473094940186), ('andermatt-swissalps.ch', 0.1772707998752594), ('ehotel.de', 0.17590323090553284)]
+
+fcl.ch
+[('fcsg.ch', 0.3920760154724121), ('kloten-flyers.ch', 0.3508800268173218), ('zsclions.ch', 0.3257887363433838), ('sckriens.ch', 0.3247275948524475), ('gcz.ch', 0.3245188295841217), ('fckickers.ch', 0.3177339434623718), ('evz.ch', 0.31530052423477173), ('sonnenhalde.ch', 0.28995609283447266), ('www.pbl.ch', 0.28004688024520874), ('klinik-zugersee.ch', 0.2754077613353729)]
+
+sonnenhalde.ch
+[('www.pbl.ch', 0.44937849044799805), ('klinik-zugersee.ch', 0.43460214138031006), ('zsclions.ch', 0.29848483204841614), ('sanatorium-kilchberg.ch', 0.29731905460357666), ('fcl.ch', 0.28995609283447266), ('hohenegg.ch', 0.283159077167511), ('fcsg.ch', 0.27266567945480347), ('kur-und-gesundheitsurlaub.de', 0.26227325201034546), ('kloten-flyers.ch', 0.2566916346549988), ('evz.ch', 0.2543337345123291)]
