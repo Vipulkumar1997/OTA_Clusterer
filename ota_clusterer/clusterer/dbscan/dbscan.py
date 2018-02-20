@@ -93,7 +93,7 @@ def dbscan_clustering(doc2vec_model, tsne_model, eps, min_samples, model_languag
     plt.suptitle('DBSCAN parameters = ' + 'eps=' + str(eps) + ', ' + 'min_sample=' + str(min_samples))
 
     if save_to_directory is None:
-        file_path = settings.DATA_DIR + "experiments/dbscan/"
+        file_path = settings.DATA_DIR + "experiments/clusterer/dbscan/"
     else:
         file_path = save_to_directory
 
@@ -127,26 +127,34 @@ def create_dbscan_clustering(doc2vec_model_file_path, tsne_model_file_path, eps,
 
 def main():
     # example usage for create DBSCAN clustering
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-unseen-data-doc2vec-german-18-Jan-2018-15:14:31.npy')
-    dbscan_clustering(doc2vec_model, tsne_model, model_language='german', eps=0.35, min_samples=2)
+    doc2vec_model = doc2vec.load_existing_model(
+        model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+
+    tsne_model = tsne.load_tsne_model(
+        model_file_name='t-sne-single_language_full-model-doc2vec-model-german-20-Feb-2018-08:56:12.npy')
+
+    dbscan_clustering(doc2vec_model, tsne_model, model_language='s-l-full-model-german', eps=0.35, min_samples=2)
+
 
     '''
     
     # example usage to create DBSCAN clustering for new data
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-full-doc2vec-model-new-data-german-18-Feb-2018-13:42:39.npy')
+    doc2vec_model = doc2vec.load_existing_model(
+        model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+    
+    tsne_model = tsne.load_tsne_model(
+        model_file_name='t-sne-s-l-full-doc2vec-model-new-data-german-20-Feb-2018-09:58:50.npy')
+    
     dbscan_clustering(doc2vec_model,
                       tsne_model,
-                      model_language='full-model-new-data-german',
-                      eps=0.3,
+                      model_language='s-l-full-model-new-data-german',
+                      eps=0.35,
                       min_samples=2,
                       new_hostnames=['upkbs.ch',
                                      'curaneo.ch',
                                      'bscyb.ch',
                                      'scltigers.ch',
                                      'graubuenden.ch'])
-
     '''
 
 

@@ -120,26 +120,38 @@ def create_kmeans_clustering(doc2vec_model_file_path, tsne_model_file_path, mode
 
 
 def main():
+
     # example usage for create K-Means Clustering
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_70_model-german-18-Feb-2018-18:53:39')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-single_language_70-model-doc2vec-model-german-18-Feb-2018-19:06:45.npy')
-    kmeans_clustering(doc2vec_model, tsne_model, model_language='single_language_70_german', k=10)
+    doc2vec_model = doc2vec.load_existing_model(
+        model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+
+    tsne_model = tsne.load_tsne_model(
+        model_file_name='t-sne-single_language_full-model-doc2vec-model-german-20-Feb-2018-08:56:12.npy')
+
+    kmeans_clustering(doc2vec_model,
+                      tsne_model,
+                      model_language='single_language_full_german',
+                      k=10)
 
     '''
     
     # example with K-Means and new added data points
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-english-16-Feb-2018-22:17:58')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-70-doc2vec-model-new-data-english-18-Feb-2018-12:53:16.npy')
+    doc2vec_model = doc2vec.load_existing_model(
+        model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+
+    tsne_model = tsne.load_tsne_model(
+        model_file_name='t-sne-s-l-full-doc2vec-model-new-data-german-20-Feb-2018-09:58:50.npy')
+
     kmeans_clustering(doc2vec_model,
                       tsne_model,
-                      model_language='english',
-                      new_hostnames=['laterooms.com',
-                                     'intrepidtravel.com',
-                                     'wellbeingescapes.com',
-                                     'agoda.com'],
-                      k=15)
-
-   '''
+                      model_language='s-l-full-model-new-data-german',
+                      new_hostnames=['upkbs.ch',
+                                                                                              'curaneo.ch',
+                                                                                              'bscyb.ch',
+                                                                                              'scltigers.ch',
+                                                                                              'graubuenden.ch'],
+                      k=10)
+    '''
 
 
 if __name__ == "__main__":

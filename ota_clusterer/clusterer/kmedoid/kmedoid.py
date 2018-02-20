@@ -69,23 +69,33 @@ def create_kmedoid_clustering(doc2vec_model_file_path, tsne_model_file_path, sta
 
 def main():
     # example usage for create K-Medoid Clustering
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-11-Dec-2017-17:07:03')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-cluster-doc2vec-german-11-Dez-2017-17:40:57.npy')
-    kmedoid_clustering(doc2vec_model, tsne_model, start_medoids=[0, 5, 10, 15, 20])
+    doc2vec_model = doc2vec.load_existing_model(
+        model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
 
-    '''
-    
-    # example usage K-Medoid Clustering with new data
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-model-german-17-Feb-2018-02:14:04')
-    tsne_model = tsne.load_tsne_model(model_file_name='t-sne-full-doc2vec-model-new-data-german-18-Feb-2018-13:42:39.npy')
+    tsne_model = tsne.load_tsne_model(
+        model_file_name='t-sne-single_language_full-model-doc2vec-model-german-20-Feb-2018-08:56:12.npy')
+
     kmedoid_clustering(doc2vec_model,
                        tsne_model,
-                       start_medoids=[0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60],
+                       start_medoids=[0, 5, 10, 15, 20, 25, 30, 35])
+
+    '''
+
+    # example usage K-Medoid Clustering with new data
+    doc2vec_model = doc2vec.load_existing_model(
+    model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+    
+    tsne_model = tsne.load_tsne_model(
+    model_file_name='t-sne-s-l-full-doc2vec-model-new-data-german-20-Feb-2018-09:58:50.npy')
+    
+    kmedoid_clustering(doc2vec_model,
+                       tsne_model,
+                       start_medoids=[0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70],
                        new_hostnames=['upkbs.ch',
                                       'curaneo.ch',
                                       'bscyb.ch',
                                       'scltigers.ch',
-                                      'graubuenden.ch'])
+                                      'graubuenden.ch'],)
                                       
     '''
 
