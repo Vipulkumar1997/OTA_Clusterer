@@ -109,7 +109,8 @@ doc2vec-model-english-17-Feb-2018-02:14:04
                                                                                               'olivia.com',
                                                                                               'damron.com',
                                                                                               'holidaytouch.com'],
-                                                                               model_language='english')
+                                                                               model_language='english',
+                                                                               documents_file_path='/home/sandro/vm1/OTA_Clusterer/data/experiments/crawling_data_experiments/')
     create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'full-doc2vec-model-new-data-english')
 
 
@@ -152,7 +153,7 @@ Crawler.py
                                                                                               'scltigers.ch',
                                                                                               'graubuenden.ch'],
                                                                                model_language='german',
-                                                                               documents_file_path='/home/sandro/vm1/OTA_Clusterer/data/crawling_data_experiments/')
+                                                                               documents_file_path='/home/sandro/vm1/OTA_Clusterer/data/experiments/crawling_data_experiments/')
     create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'full-doc2vec-model-new-data-german')
     logger.info('Finished building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
 
@@ -161,4 +162,169 @@ INFO:__main__:Start building tsne model with new data at: 18-Feb-2018-13:42:29
 [t-SNE] Error after 3350 iterations: 0.558532
 INFO:__main__:Finished building tsne model with new data at: 18-Feb-2018-13:42:39
 
+........................................................
 
+# new data single language 70 model english
+
+new-data (english):
+laterooms.com
+intrepidtravel.com
+wellbeingescapes.com
+agoda.com
+
+used 70%-doc2vec s-l-model:
+doc2vec-single_language_70_model-english-18-Feb-2018-18:53:39
+
+    tsne = sklearn.manifold.TSNE(n_components=2,
+                                 perplexity=30,
+                                 early_exaggeration=12,
+                                 learning_rate=1,
+                                 init='pca',
+                                 n_iter=20000,
+                                 random_state=2,
+                                 verbose=5)
+
+
+
+    # Example to to create tsne model with new data
+    logger.info('Start building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_70_model-english-18-Feb-2018-18:53:39')
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=['laterooms.com',
+                                                                                              'intrepidtravel.com',
+                                                                                              'wellbeingescapes.com',
+                                                                                              'agoda.com'],
+                                                                               model_language='english')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 's-l-70-doc2vec-model-new-data-english')
+    logger.info('Finished building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+
+INFO:__main__:Start building tsne model with new data at: 20-Feb-2018-09:42:15
+[t-SNE] Error after 900 iterations: 0.409300
+INFO:__main__:Finished building tsne model with new data at: 20-Feb-2018-09:42:41
+
+
+------------------------------------------------------------------------------------------
+# new data single language 70 model german
+
+new-data(german):
+familotel.com
+regenbogenurlaub.de
+lakers.ch
+swisshotels.com
+ebookers.ch
+
+used 70% docvec model:
+doc2vec-single_language_70_model-german-18-Feb-2018-18:53:39
+
+create t-sne model (german) for new data:
+
+    tsne = sklearn.manifold.TSNE(n_components=2,
+                                 perplexity=30,
+                                 early_exaggeration=12,
+                                 learning_rate=1,
+                                 init='pca',
+                                 n_iter=20000,
+                                 random_state=2,
+                                 verbose=5)
+
+
+      # Example to to create tsne model with new data
+
+    logger.info('Start building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_70_model-german-18-Feb-2018-18:53:39')
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=['familotel.com',
+                                                                                              'regenbogenurlaub.de',
+                                                                                              'lakers.ch',
+                                                                                              'swisshotels.com',
+                                                                                              'ebookers.ch'],
+                                                                               model_language='german')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 's-l-70-doc2vec-model-new-data-german')
+    logger.info('Finished building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+
+INFO:__main__:Start building tsne model with new data at: 20-Feb-2018-09:46:56
+[t-SNE] Error after 700 iterations: 0.181515
+INFO:__main__:Finished building tsne model with new data at: 20-Feb-2018-09:47:02
+
+
+-------------------------------------------------------------------------------------------
+
+# complete new data for full-model single language english
+
+surfholidays.com (english)
+olivia.com (english)
+damron.com (english)
+holidaytouch.com (english)
+
+used full docvec model:
+doc2vec-single_language_full-model-english-18-Feb-2018-22:31:27
+
+    tsne = sklearn.manifold.TSNE(n_components=2,
+                                 perplexity=30,
+                                 early_exaggeration=12,
+                                 learning_rate=1,
+                                 init='pca',
+                                 n_iter=20000,
+                                 random_state=2,
+                                 verbose=5)
+
+    # Example to to create tsne model with new data
+
+    logger.info('Start building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_full-model-english-18-Feb-2018-22:31:27')
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=['surfholidays.com',
+                                                                                              'olivia.com',
+                                                                                              'damron.com',
+                                                                                              'holidaytouch.com'],
+                                                                               documents_file_path='/home/sandro/vm1/OTA_Clusterer/data/experiments/crawling_data_experiments/',
+                                                                               model_language='english')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 's-l-full-doc2vec-model-new-data-english')
+    logger.info('Finished building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+
+    INFO:__main__:Start building tsne model with new data at: 20-Feb-2018-09:53:31
+    [t-SNE] Error after 1400 iterations: 0.670239
+    INFO:__main__:Finished building tsne model with new data at: 20-Feb-2018-09:53:40
+
+------------------------------------------------------------------------------------------
+# complete new data for full-model single language german
+
+upkbs.ch (german)
+curaneo.ch (german)
+bscyb.ch (german)
+scltigers.ch (german)
+graubuenden.ch (german)
+
+
+used doc2vec model:
+doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27
+
+
+
+    tsne = sklearn.manifold.TSNE(n_components=2,
+                                 perplexity=30,
+                                 early_exaggeration=12,
+                                 learning_rate=1,
+                                 init='pca',
+                                 n_iter=20000,
+                                 random_state=2,
+                                 verbose=5
+
+    # Example to to create tsne model with new data
+
+    logger.info('Start building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+    doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
+                                                                               new_documents=['upkbs.ch',
+                                                                                              'curaneo.ch',
+                                                                                              'bscyb.ch',
+                                                                                              'scltigers.ch',
+                                                                                              'graubuenden.ch'],
+                                                                               documents_file_path='/home/sandro/vm1/OTA_Clusterer/data/experiments/crawling_data_experiments/',
+                                                                               model_language='german')
+    create_and_save_2d_tsne_model(doc2vec_vector_matrix, 's-l-full-doc2vec-model-new-data-german')
+    logger.info('Finished building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
+
+    INFO:__main__:Start building tsne model with new data at: 20-Feb-2018-09:58:43
+    [t-SNE] Error after 950 iterations: 0.362130
+    INFO:__main__:Finished building tsne model with new data at: 20-Feb-2018-09:58:50

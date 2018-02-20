@@ -115,7 +115,6 @@ def main():
     doc2vec_vector_matrix = doc2vec.get_doc_vectors_matrix(doc2vec_model)
     create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'single_language_full-model-doc2vec-model-german')
 
-
     ''' 
     
     Example to to create tsne model with new data
@@ -129,7 +128,7 @@ def main():
                                                                                               'scltigers.ch',
                                                                                               'graubuenden.ch'],
                                                                                model_language='german',
-                                                                               documents_file_path='/home/sandro/vm1/OTA_Clusterer/data/crawling_data_experiments/')
+                                                                               documents_file_path='/home/sandro/vm1/OTA_Clusterer/data/experiments/crawling_data_experiments/')
     create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'full-doc2vec-model-new-data-german')
     logger.info('Finished building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
     
