@@ -109,7 +109,7 @@ INFO:__main__:doc2vec model created and saved at: 16-Feb-2018-19:25:23
 -----------------------------------------------------------------------------------------
 single language support doc2vec model (full model):
 
-NFO:__main__:Added 11116 documents to the english document corpus
+INFO:__main__:Added 11116 documents to the english document corpus
 INFO:__main__:Added 6272 documents to the german document corpus
 INFO:__main__:start building Doc2Vec model
 
@@ -132,8 +132,6 @@ INFO:gensim.utils:saved /home/sandro/vm1/OTA_Clusterer/data/doc2vec/models/doc2v
 -----------------------------------------------------
 
 single language support doc2vec model (70% Model):
-
-
 
 random.seed(9998)
 folders_in_directory = random.sample(folders_in_directory, 122)

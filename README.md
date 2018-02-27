@@ -38,13 +38,13 @@ cd OTA_Clusterer
 ./install.sh
 ```
 
-For Windows Users is a first version of install script as well available and tested under Windows 10. Before running the script, have a look at the instruction notes in the doc/windows folder:
+For Windows Users is a first version of install script as well available and tested under Windows 10. IMPORTANT!!! Before running the script, have a look at the necessary instruction notes in the doc/windows folder:
 
 ```sh
 cd OTA_Clusterer
 .\install_windows.ps1
 ```
-You can access all functionalities in your personal project as well, if you install it as Python modulea (Linux, MacOSX tested, Windows should work as well):
+You can access all functionalities in your personal project as well, if you install it as Python module (tested with Linux and MacOSX, Windows should work as well):
 
 ```sh
 cd OTA_Clusterer
