@@ -52,6 +52,11 @@ python setup.py install
 
 ```
 
+## Pre-Trained Models
+
+If you would like to use some pre-trained models (doc2vec and t-SNE), you can download them here:
+https://www.dropbox.com/sh/9bixl9hdd3j4qi8/AADX0k-iVi1C0WFgGDGtRoBua?dl=0
+
 ## Usage of the CLI
 
 Clone this project and execute from the project folder following command to get all supported CLI options:
