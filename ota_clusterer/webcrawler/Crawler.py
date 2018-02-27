@@ -96,7 +96,7 @@ def crawl_list_of_hostnames(urls_list_file_path, directory_to_save_results):
 
 def main():
     # Example to crawl just specific urls
-    directory_to_save_results = settings.DATA_DIR + 'crawling_data_experiments/'
+    directory_to_save_results = settings.DATA_DIR + 'experiments/crawling_data_experiments/'
     hostnames = ['upkbs.ch', 'curaneo.ch', 'bscyb.ch', 'scltigers.ch', 'graubuenden.ch']
     crawl_given_hostnames(hostnames, directory_to_save_results)
 
