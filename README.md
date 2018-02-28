@@ -49,7 +49,7 @@ Before running the experimental script below, have a look at the NECESSARY instr
 cd OTA_Clusterer
 .\install_windows.ps1
 ```
-With Windows you can't use all functionalities (just the webcrawler part)
+With Windows you can't use all functionalities (just the webcrawler part).
 
 You can access all functionalities in your personal project as well, if you install it as Python module (just supported with Linux and MacOSX):
 
