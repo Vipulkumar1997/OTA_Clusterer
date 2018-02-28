@@ -6,3 +6,4 @@
 .idea/workspace.xml
 *.pyc
 .idea/workspace.xml
+/data/doc2vec/
