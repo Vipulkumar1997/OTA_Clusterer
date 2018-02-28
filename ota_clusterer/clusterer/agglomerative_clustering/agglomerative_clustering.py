@@ -109,10 +109,10 @@ def create_agglomerative_clustering(doc2vec_model_file_path, tsne_model_file_pat
 def main():
     # example usage for create Agglomerative Clustering
     doc2vec_model = doc2vec.load_existing_model(
-        model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+        model_file_name='doc2vec_single_language_full_model_german_18_Feb_2018_22_31_27')
 
     tsne_model = tsne.load_tsne_model(
-        model_file_name='t-sne-single_language_full-model-doc2vec-model-german-20-Feb-2018-08:56:12.npy')
+        model_file_name='t_sne_single_language_full_model_doc2vec_model_german_20_Feb_2018_08_56_12.npy')
 
     agglomerative_clustering(doc2vec_model,
                              tsne_model,
@@ -123,10 +123,10 @@ def main():
 
     # example for Agglomerative Clustering with new data
     doc2vec_model = doc2vec.load_existing_model(
-        model_file_name='doc2vec-single_language_70_model-german-18-Feb-2018-18:53:39')
+        model_file_name='doc2vec_single_language_70_model_german_18_Feb_2018_18_53_39')
 
     tsne_model = tsne.load_tsne_model(
-        model_file_name='t-sne-s-l-70-doc2vec-model-new-data-german-20-Feb-2018-09:47:02.npy')
+        model_file_name='t_sne_s_l_70_doc2vec_model_new_data_german_20_Feb_2018_09_47_02.npy')
 
     agglomerative_clustering(doc2vec_model,
                              tsne_model,

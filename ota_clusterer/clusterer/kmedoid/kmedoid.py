@@ -70,10 +70,10 @@ def create_kmedoid_clustering(doc2vec_model_file_path, tsne_model_file_path, sta
 def main():
     # example usage for create K-Medoid Clustering
     doc2vec_model = doc2vec.load_existing_model(
-        model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+        model_file_name='doc2vec_single_language_full_model_german_18_Feb_2018_22_31_27')
 
     tsne_model = tsne.load_tsne_model(
-        model_file_name='t-sne-single_language_full-model-doc2vec-model-german-20-Feb-2018-08:56:12.npy')
+        model_file_name='t_sne_single_language_full_model_doc2vec_model_german_20_Feb_2018_08_56_12.npy')
 
     kmedoid_clustering(doc2vec_model,
                        tsne_model,
@@ -83,10 +83,10 @@ def main():
 
     # example usage K-Medoid Clustering with new data
     doc2vec_model = doc2vec.load_existing_model(
-    model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+    model_file_name='doc2vec_single_language_full_model_german_18_Feb_2018_22_31_27')
     
     tsne_model = tsne.load_tsne_model(
-    model_file_name='t-sne-s-l-full-doc2vec-model-new-data-german-20-Feb-2018-09:58:50.npy')
+    model_file_name='t_sne_s_l_full_doc2vec_model_new_data_german_20_Feb_2018_09_58_50.npy')
     
     kmedoid_clustering(doc2vec_model,
                        tsne_model,
