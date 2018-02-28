@@ -414,7 +414,7 @@ def create_new_doc2vec_model(documents_file_path=None, save_to_directory=None, s
 def main():
 
     # Get doc2vec similarities from given model and document
-    doc2vec_model = load_existing_model(model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+    doc2vec_model = load_existing_model(model_file_name='doc2vec_single_language_full_model_german_18_Feb_2018_22_31_27')
     print(get_doc_similarities_by_document_name(doc2vec_model, 'booking-valais.ch'))
 
     '''
@@ -427,7 +427,7 @@ def main():
     #create_new_doc2vec_model(single_language_support=True)
 
     # Get doc similarities of new data (not included in training set)
-    doc2vec_model = load_existing_model(model_file_name='default-models/doc2vec-model-german-17-Feb-2018-02:14:04')
+    doc2vec_model = load_existing_model(model_file_name='standard-models/doc2vec_model_german_17_Feb_2018_02_14_04')
     doc_vectors_english, doc_vectors_german = get_doc_vectors_for_new_documents(doc2vec_model=doc2vec_model,
                                                                                 documents_folder_name='statravel.ch')
     print(get_doc_similarities_by_new_vector(doc2vec_model, doc_vectors_english))

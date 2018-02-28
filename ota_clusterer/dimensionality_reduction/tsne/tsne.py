@@ -111,17 +111,16 @@ def main():
     # Some examples...
 
     # Create 2D t-SNE Model
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec-single_language_full-model-german-18-Feb-2018-22:31:27')
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='doc2vec_single_language_full_model_german_18_Feb_2018_22_31_27')
     doc2vec_vector_matrix = doc2vec.get_doc_vectors_matrix(doc2vec_model)
     create_and_save_2d_tsne_model(doc2vec_vector_matrix, 'single_language_full-model-doc2vec-model-german')
-
 
     '''
     
     # Example to to create tsne model with new data
     
     logger.info('Start building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
-    doc2vec_model = doc2vec.load_existing_model(model_file_name='default-models/doc2vec-model-german-17-Feb-2018-02:14:04')
+    doc2vec_model = doc2vec.load_existing_model(model_file_name='standard-models/doc2vec_model_german_17_Feb_2018_02_14_04')
     doc2vec_vector_matrix = doc2vec.create_doc_vector_matrix_for_new_documents(doc2vec_model,
                                                                                new_documents=['upkbs.ch',
                                                                                               'curaneo.ch',
@@ -134,6 +133,7 @@ def main():
     logger.info('Finished building tsne model with new data at: ' + time.strftime("%d-%b-%Y-%X"))
     
     '''
+
 
 
 if __name__ == "__main__":
