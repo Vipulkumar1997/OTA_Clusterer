@@ -38,18 +38,19 @@ cd OTA_Clusterer
 ./install.sh
 ```
 
-IMPORTANT: Actually, there is a path-size limitation issue on Windows 10. You can't clone this repository successfully on a Windows machine directly. You need to download this project from the GitHub web interface as a ZIP file and use 7zip to extract it (for some reason, just 7zip works on Windows). 
+With Linux or UNIX based systems, you can access all functionalities of the OTA Clusterer.
 
+IMPORTANT: Actually, there is a path-size limitation issue on Windows 10. You can't clone this repository successfully on a Windows machine directly. You need to download this project from the GitHub web interface as a ZIP file and use 7zip to extract it (for some reason, just 7zip works on Windows). 
 Move the extracted folder (OTA_Clusterer) into ~/Documents...
 
-Before running the script, have a look at the NECESSARY instruction notes in the doc/windows folder:
-
-For Windows users there is a first experimental version of an install script as well available (actually you can only use the webcrawlwer part on Windows.)
+Before running the experimental script below, have a look at the NECESSARY instruction notes in the doc/windows folder:
 
 ```sh
 cd OTA_Clusterer
 .\install_windows.ps1
 ```
+With Windows you can't use all functionalities (just the webcrawler part)
+
 You can access all functionalities in your personal project as well, if you install it as Python module (just supported with Linux and MacOSX):
 
 ```sh
