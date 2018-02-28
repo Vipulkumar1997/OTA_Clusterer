@@ -30,7 +30,7 @@ results are visible in experiments folder...
 
 ## Install
 
-Clone this project, move into the project folder and execute the install.sh script (Linux and MacOSX supported)
+Clone this project, go into the project folder and execute the install.sh script (Linux and MacOSX supported)
 The script installs all dependencies into a seperated python virtualenv which is stored in your HOME folder.
 
 ```sh
@@ -38,7 +38,11 @@ cd OTA_Clusterer
 ./install.sh
 ```
 
-For Windows Users is a first version of install script as well available and tested under Windows 10. IMPORTANT!!! Before running the script, have a look at the necessary instruction notes in the doc/windows folder:
+IMPORTANT: Actually, there is a path-size limitation issue on Windows 10. You can't clone this repository successfully on a Windows machine. 
+
+For Windows Users is there a first experimental version of an install script as well available and tested under Windows 10. Before running the script, have a look at the necessary instruction notes in the doc/windows folder:
+
+Please keep in mind: This project has been developed under Linux. You get the best experience with a UNIX based machine.
 
 ```sh
 cd OTA_Clusterer
