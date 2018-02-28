@@ -44,13 +44,13 @@ Move the extracted folder (OTA_Clusterer) into ~/Documents...
 
 Before running the script, have a look at the NECESSARY instruction notes in the doc/windows folder:
 
-For Windows Users there is a first experimental version of an install script as well available. Please keep in mind, this project has been developed under Linux. You get the best experience with a UNIX based machine.
+For Windows users there is a first experimental version of an install script as well available (actually you can only use the webcrawlwer part on Windows.)
 
 ```sh
 cd OTA_Clusterer
 .\install_windows.ps1
 ```
-You can access all functionalities in your personal project as well, if you install it as Python module (tested with Linux and MacOSX, Windows should work as well):
+You can access all functionalities in your personal project as well, if you install it as Python module (just supported with Linux and MacOSX):
 
 ```sh
 cd OTA_Clusterer
@@ -63,7 +63,7 @@ python setup.py install
 If you would like to use some pre-trained models (doc2vec and t-SNE), you can download them here:
 https://www.dropbox.com/sh/9bixl9hdd3j4qi8/AADX0k-iVi1C0WFgGDGtRoBua?dl=0
 
-## Usage of the CLI
+## Usage of the CLIl
 
 Clone this project and execute from the project folder following command to get all supported CLI options:
 ```sh

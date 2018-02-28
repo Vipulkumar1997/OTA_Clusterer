@@ -25,7 +25,7 @@ Set-ExecutionPolicy Default
 
 ##############################################
 
-Move back into ~/Documents/OTA_Clusterer and now you are able to use all the funny stuff :-)
+Move back into ~/Documents/OTA_Clusterer and now you are able to use the webcrawling stuff. Other functionalities are not supported yet under Windows.
 
 #############################################
 
