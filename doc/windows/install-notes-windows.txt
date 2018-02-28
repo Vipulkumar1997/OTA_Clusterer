@@ -5,6 +5,9 @@ https://www.python.org/downloads/release/python-364/
 
 Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools": 
 http://landinghub.visualstudio.com/visual-cpp-build-tools
+https://www.visualstudio.com/de/downloads/?rr=http%3A%2F%2Flandinghub.visualstudio.com%2Fvisual-cpp-build-tools
+
+
 
 Clone GitHub Repository into ~/Documents --> just this path supported so far:
 https://github.com/sandroci/OTA_Clusterer
@@ -18,3 +21,8 @@ run Powershell Script
 
 #Start Windows Powershell as administrator
 Set-ExecutionPolicy Default
+
+##############################################
+
+to extract the crawling_data.zip file, use 7zip:
+http://www.7-zip.de/
