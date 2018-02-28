@@ -38,14 +38,13 @@ cd OTA_Clusterer
 ./install.sh
 ```
 
-IMPORTANT: Actually, there is a path-size limitation issue on Windows 10. You can't clone this repository successfully on a Windows machine directly. You need to download this project from the GitHub web internface as ZIP file and use 7zip to extract it (for some reason, just 7zip works on Windows). 
+IMPORTANT: Actually, there is a path-size limitation issue on Windows 10. You can't clone this repository successfully on a Windows machine directly. You need to download this project from the GitHub web interface as a ZIP file and use 7zip to extract it (for some reason, just 7zip works on Windows). 
 
 Move the extracted folder (OTA_Clusterer) into ~/Documents...
 
 Before running the script, have a look at the NECESSARY instruction notes in the doc/windows folder:
 
-For Windows Users is there a first experimental version of an install script as well available and tested under Windows 10.
-Please keep in mind, this project has been developed under Linux. You get the best experience with a UNIX based machine.
+For Windows Users there is a first experimental version of an install script as well available. Please keep in mind, this project has been developed under Linux. You get the best experience with a UNIX based machine.
 
 ```sh
 cd OTA_Clusterer
