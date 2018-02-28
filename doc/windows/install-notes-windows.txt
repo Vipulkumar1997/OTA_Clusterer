@@ -7,10 +7,11 @@ Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build T
 http://landinghub.visualstudio.com/visual-cpp-build-tools
 https://www.visualstudio.com/de/downloads/?rr=http%3A%2F%2Flandinghub.visualstudio.com%2Fvisual-cpp-build-tools
 
-
-
 Clone GitHub Repository into ~/Documents --> just this path supported so far:
 https://github.com/sandroci/OTA_Clusterer
+
+You need to use the web interface to download the ZIP file directly. For some reasons, just 7zip is able to extract the files. 
+
 
 #Start Windows Powershell as administrator:
 Set-ExecutionPolicy Unrestricted
@@ -24,5 +25,20 @@ Set-ExecutionPolicy Default
 
 ##############################################
 
-to extract the crawling_data.zip file, use 7zip:
-http://www.7-zip.de/
+Move back into ~/Documents/OTA_Clusterer and now you are able to use all the funny stuff :-)
+
+#############################################
+
+If you should get some errors like the following: 
+
+"ImportError: no module named win32api", you can do the following to solve the issue:
+
+# Start Windows Powershell as administrator and enter following command: 
+
+pip install pypiwin32
+
+##############################
+
+This should solve this rather common Windows issue
+
+
