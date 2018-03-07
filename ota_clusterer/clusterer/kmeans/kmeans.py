@@ -120,7 +120,7 @@ def create_kmeans_clustering(doc2vec_model_file_path, tsne_model_file_path, mode
 
 
 def main():
-
+    '''
     # example usage for create K-Means Clustering
     doc2vec_model = doc2vec.load_existing_model(
         model_file_name='doc2vec_single_language_full_model_german_18_Feb_2018_22_31_27')
@@ -133,7 +133,6 @@ def main():
                       model_language='single_language_full_german',
                       k=10)
 
-    '''
     
     # example with K-Means and new added data points
     doc2vec_model = doc2vec.load_existing_model(
@@ -152,6 +151,36 @@ def main():
                                                                                               'graubuenden.ch'],
                       k=10)
     '''
+
+    # Live-Demo pt. 1
+
+    doc2vec_model = doc2vec.load_existing_model(
+        model_file_name='doc2vec_single_language_full_model_german_18_Feb_2018_22_31_27')
+
+    tsne_model = tsne.load_tsne_model(
+        model_file_name='t-sne-live-demo-german-07-Mar-2018-09:08:12.npy')
+
+    kmeans_clustering(doc2vec_model,
+                      tsne_model,
+                      model_language='live-demo-german',
+                      new_hostnames=['triaplus.ch',
+                                     'fcaarau.ch'],
+                      k=10)
+
+
+    # Live-Demo pt. 2
+
+    doc2vec_model = doc2vec.load_existing_model(
+        model_file_name='doc2vec_single_language_full_model_english_18_Feb_2018_22_31_27')
+
+    tsne_model = tsne.load_tsne_model(
+        model_file_name='t-sne-live-demo-english-07-Mar-2018-09:08:18.npy')
+
+    kmeans_clustering(doc2vec_model,
+                      tsne_model,
+                      model_language='live-demo-english',
+                      new_hostnames=['hostelscentral.com'],
+                      k=10)
 
 
 if __name__ == "__main__":
